@@ -88,7 +88,7 @@
 **Pronunciation:** /tɔɪ/; one syllable.
 **Grammar & collocations:** `toy shop` — cửa hàng đồ chơi; `soft toy` — thú bông.
 **Examples:** `The baby reached for the colorful toy.` → Em bé với lấy món đồ chơi nhiều màu.
-**Liên kết tiếng Hàn:** `장난감` (jangnంగam) — đồ chơi.
+**Liên kết tiếng Hàn:** `장난감` (jangnangan) — đồ chơi.
 
 ## 11. collect /kəˈlekt/
 **Part of speech:** verb
