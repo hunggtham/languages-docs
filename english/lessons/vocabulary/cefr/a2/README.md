@@ -32,3 +32,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 26. [Digital work and files](./26-digital-work-and-files.md) — tổ chức cuộc họp và xử lý tài liệu số.
 27. [Nature and landscapes](./27-nature-and-landscapes.md) — cảnh quan, chuyến đi ngoài trời và thiên nhiên.
 28. [Health problems and care](./28-health-problems-and-care.md) — triệu chứng, điều trị và cấp cứu.
+29. [Education and study paths](./29-education-and-study-paths.md) — kỳ thi, trường học và lộ trình học tập.
+30. [Everyday emotions](./30-everyday-emotions.md) — cảm xúc trong học tập, công việc và quan hệ.
+31. [Home spaces and storage](./31-home-spaces-and-storage.md) — khu vực, nội thất và cất giữ đồ.
