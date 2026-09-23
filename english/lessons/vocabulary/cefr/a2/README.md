@@ -68,6 +68,10 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 ## services
 
 - [Public Services Information And Civic Life](./services/01-public-services-information-and-civic-life.md)
+- [Mail And Parcel Delivery](./services/02-mail-and-parcel-delivery.md)
+## shopping
+
+- [Store Shopping And Clothes](./shopping/01-store-shopping-and-clothes.md)
 ## time
 
 - [Time And Schedules](./time/01-time-and-schedules.md)
@@ -75,6 +79,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 
 - [Travel Airports And Accommodation](./travel/01-travel-airports-and-accommodation.md)
 - [Roads Water Travel And Directions](./travel/02-roads-water-travel-and-directions.md)
+- [Travel Arrangements And Problems](./travel/03-travel-arrangements-and-problems.md)
 ## weather
 
 - [Weather Forecasts Seasons And Changes](./weather/01-weather-forecasts-seasons-and-changes.md)
