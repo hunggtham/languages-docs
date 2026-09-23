@@ -26,20 +26,20 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 0 items.
+- B1: 24 items in 1 topic file; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 1931 items.
+- Total: 1955 items.
 
 ## Current position
 
 Status: `READY`
 
-Current level: `A2`
+Current level: `B1`
 
-Next lesson: create the next file number inside the selected A2 topic folder (for a new topic, `a2/<topic>/01-...md`).
+Next lesson: create the next file number inside the selected B1 topic folder (for a new topic, `b1/<topic>/01-...md`).
 
 Before choosing the exact lesson topic and words:
 
@@ -68,7 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 expansion batches added 259 new items across office administration, careers and services, camping equipment, mail and parcel delivery, store shopping, travel arrangements, phone communication, laundry care, doctor visits, daily routines, film/performance vocabulary, repairs/warranties, measurements/materials, online safety, and books/reading; all are validated.
-- Next level: A2 has reached its soft planning target; continue the corpus in B1 with a new topic folder/file while preserving the same topic-first policy.
-- Actual counts: A1 400, A2 1501, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1931.
+- A2 reached its soft planning target at 1,501 items. B1 started with `communication/01-news-and-media-literacy.md`, a 24-item topic file with two review contexts; all entries are validated.
+- Next file: `english/lessons/vocabulary/cefr/b1/communication/02-...md` or a new B1 topic folder starting at `01`.
+- Actual counts: A1 400, A2 1501, B1 24, B2 15, C1 0, C2 15, C2+ 0; total 1955.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
