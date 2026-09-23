@@ -17,3 +17,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 11. [Relationships and feelings](./11-relationships-and-feelings.md) — tin tưởng, cảm xúc và giao tiếp trong quan hệ.
 12. [Weather and forecast](./12-weather-and-forecast.md) — dự báo, nhiệt độ và chuẩn bị trước thay đổi thời tiết.
 13. [Workplace communication](./13-workplace-communication.md) — yêu cầu, cập nhật, báo cáo và xử lý vấn đề.
+14. [Food and cooking](./14-food-and-cooking.md) — nguyên liệu, cách nấu và gọi món.
