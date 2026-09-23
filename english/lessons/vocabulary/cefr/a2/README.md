@@ -73,6 +73,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 
 - [Public Services Information And Civic Life](./services/01-public-services-information-and-civic-life.md)
 - [Mail And Parcel Delivery](./services/02-mail-and-parcel-delivery.md)
+- [Repairs Warranties And Service Calls](./services/03-repairs-warranties-and-service-calls.md)
 ## shopping
 
 - [Store Shopping And Clothes](./shopping/01-store-shopping-and-clothes.md)
