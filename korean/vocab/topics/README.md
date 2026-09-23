@@ -13,6 +13,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 새 lesson은 주제별 하위 폴더에 여러 Markdown 파일로 추가한다. 기존 flat file은 legacy로 보존한다.
 
 - [관계와 정서 회복](./relationships-and-emotional-recovery/README.md) — `고립감에서 회복으로`, `유대와 관계의 긴장`
+- [공공 문제와 책임](./public-affairs-and-accountability/README.md) — `정책을 직시하고 책임을 세우다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
