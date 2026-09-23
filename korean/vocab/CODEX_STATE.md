@@ -89,10 +89,15 @@
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 - Audit note: shared-branch commit `ec748f6` also carried unrelated English files; the Korean files were independently re-audited.
 
+- Topic: `housing-and-neighborhood-life`
+- File: `01-renting-and-neighborhood-routines.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, cultural identity and social change, or housing and neighborhood life. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, cultural identity and social change, or education and lifelong learning. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
