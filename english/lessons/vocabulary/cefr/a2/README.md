@@ -74,3 +74,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 68. [Health visits](./68-health-visits.md) — triệu chứng, thuốc và chăm sóc bệnh nhân.
 69. [Home furnishings](./69-home-furnishings.md) — đồ nội thất, vật dụng và phụ kiện nhà.
 70. [Communication and sounds](./70-communication-sounds.md) — giọng nói, âm thanh và hội thoại.
+71. [Leisure and hobbies](./71-leisure-and-hobbies.md) — nhạc cụ, trò chơi và hoạt động rảnh.
+72. [Food and pantry](./72-food-and-pantry.md) — bữa ăn, gia vị và món tráng miệng.
+73. [Outdoor adventure](./73-outdoor-adventure.md) — địa hình, đường mòn và đồ dã ngoại.
