@@ -28,6 +28,11 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `work-planning-and-business-succession`
+- File: `01-planning-and-succession.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
