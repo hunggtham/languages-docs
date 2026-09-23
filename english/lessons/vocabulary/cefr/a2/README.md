@@ -65,3 +65,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 59. [Sports and exercise](./59-sports-and-exercise.md) — thi đấu, điểm số và kỹ năng thể thao.
 60. [Food ingredients](./60-food-ingredients.md) — bột, rau, thịt và nước sốt.
 61. [Physical descriptions](./61-physical-descriptions.md) — kích thước, hình dạng và bề mặt.
+62. [Gardening and plants](./62-gardening-and-plants.md) — hạt giống, đất, rễ và thu hoạch.
+63. [Directions and position](./63-directions-and-position.md) — phương hướng, vị trí và lộ trình.
+64. [Nuanced emotions](./64-nuanced-emotions.md) — thư giãn, nản, hài lòng và phản ứng xã hội.
