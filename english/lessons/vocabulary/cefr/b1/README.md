@@ -21,6 +21,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## education
 
 - [Academic Research](./education/01-academic-research.md)
+- [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
 
 ## business
 
