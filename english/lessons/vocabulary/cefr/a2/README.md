@@ -44,3 +44,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 38. [Time and schedules](./38-time-and-schedules.md) — ngày, giờ, giai đoạn và lịch định kỳ.
 39. [Dining and flavors](./39-dining-and-flavors.md) — nhà hàng, hương vị và món ăn.
 40. [Learning strategies](./40-learning-strategies.md) — tập trung, phương pháp và động lực học.
+41. [Reading and literature](./41-reading-and-literature.md) — tiểu thuyết, thơ, cốt truyện và độc giả.
+42. [Civic life and communities](./42-civic-life-and-communities.md) — khu dân cư, luật và chính quyền.
+43. [Science and technology](./43-science-and-technology.md) — thí nghiệm, đo lường và thiết bị.
