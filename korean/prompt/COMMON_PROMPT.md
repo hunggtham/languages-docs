@@ -9,6 +9,7 @@ Mọi nội dung Korean mặc định phải tuân theo prompt này, sau đó m�
 - Hướng đến native-level Korean: mục tiêu là hiểu, suy nghĩ và lựa chọn cách diễn đạt tự nhiên như người Hàn trưởng thành, không viết theo kiểu giáo trình dành cho người nước ngoài.
 - Với vocabulary target mới, áp dụng cổng lựa chọn bắt buộc: mục từ phải là `advanced-native / C2-equivalent` hoặc `contemporary-native-hot` trong hội thoại, nhắn tin, công sở, cộng đồng online, truyền thông hoặc thời sự hiện đại. Không xem một từ chỉ vì hiếm, dài hoặc có trong PDF là C2.
 - Từ phổ thông A1–B2 chỉ được dùng làm supporting language trong phần giải thích, collocation, ví dụ và đoạn đọc; không tạo thành target heading mới trừ khi task hiện tại yêu cầu vocabulary nền tảng.
+- Difficulty floor: target mới phải khó hơn từ giao tiếp cơ bản. Ưu tiên từ C2-equivalent, thuật ngữ và cụm diễn đạt có mật độ cao trong báo chí/chính luận, hoặc cách nói khẩu ngữ/slang có sắc thái mà người Hàn hiện nay thực sự dùng; không dùng danh từ đời thường chỉ vì chúng tiện để đủ số lượng.
 - Lấy contemporary Korean thực tế làm chuẩn, đặc biệt từ hội thoại native, 잡담, đời sống, công sở, báo chí và thời sự.
 - Giải thích theo luồng kiến thức tự nhiên; tránh bullet, table và cấu trúc máy móc khi prose phù hợp hơn.
 - Ưu tiên mental model, core meaning, context, 뉘앙스, register, discourse và native usage.

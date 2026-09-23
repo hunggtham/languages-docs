@@ -23,6 +23,8 @@ For each new target, record hidden metadata in the entry or file:
 <!-- lexical_basis: advanced_native | contemporary_native_hot; register: ...; context: ... -->
 ```
 
+Use a source lane for each target: `news_formal`, `native_spoken`, or `slang_online`. Prefer difficult, polysemous, evaluative, discourse-heavy, or register-sensitive words. A target batch should normally combine at least two lanes when the topic allows it, rather than containing only neutral dictionary nouns.
+
 For contemporary-native-hot items, verify that the usage is current rather than stale slang. For advanced-native items, explain the nuance, register, collocations, and contexts in which native speakers would or would not use the word. If an existing legacy item does not satisfy either basis, preserve it but label it as legacy/review rather than presenting it as new C2 coverage.
 
 ## Directory and file structure
@@ -73,7 +75,7 @@ Prefer natural Korean from daily life, 잡담, workplaces, journalism, and conte
 3. Choose a topic folder and subtopic file, continuing the local numbering for that folder.
 4. Write the entries, divide the headwords into `target_set` groups of at most 15, and create the corresponding passages.
 5. Manually check that learner-facing titles/headings are in Korean, every target appears naturally, translations preserve the meaning, README links are correct, and source text was not copied.
-6. Audit every new target for `lexical_basis`, current register, duplicate sense coverage, and compliance with the C2-equivalent or contemporary-native-hot gate. Demote common supporting words to prose rather than claiming them as advanced targets.
+6. Audit every new target for `lexical_basis`, source lane, current register, duplicate sense coverage, difficulty, and compliance with the C2-equivalent or contemporary-native-hot gate. Demote common supporting words to prose rather than claiming them as advanced targets.
 7. Once a lesson batch exists, update the topic README and `korean/vocab/CODEX_STATE.md` with the next folder/file, completed target sets, and checkpoint notes. Create the state file only when the first content batch begins.
 8. Run the appropriate repository checks, inspect the diff, and commit only the batch files and related state.
 

@@ -30,6 +30,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [교육과 평생 학습](./topics/education-and-lifelong-learning/README.md)
 - [기술과 디지털 생활](./topics/technology-and-digital-life/README.md)
 - [미디어 리터러시와 공적 신뢰](./topics/media-literacy-and-public-trust/README.md)
+- [윤리와 사회적 책임](./topics/ethics-and-social-responsibility/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

@@ -110,10 +110,15 @@
 - Coverage: 15 new advanced-native/contemporary-hot headwords in one `target_set` passage.
 - Validation: lexical-basis metadata, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `ethics-and-social-responsibility`
+- File: `01-accountability-and-public-interest.md`
+- Coverage: 15 new harder advanced-native/contemporary-hot headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, cultural identity and social change, or ethics and social responsibility. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, cultural identity and social change, or slang and pragmatic spoken Korean. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
