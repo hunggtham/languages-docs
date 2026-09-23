@@ -37,7 +37,7 @@ Do not distort CEFR placement just to satisfy a quota. Rebalance when linguistic
 
 ## Lesson batching
 
-The canonical lesson size is about **15 words/phrases per file**, grouped by a natural topic, situation, semantic network, or mini-story. Keep the approved entry order and the review passage convention from `cefr/README.md`.
+The canonical lesson size is usually **15–20 words/phrases per file**, grouped by a natural topic, situation, semantic network, or mini-story; 15 is not a hard quota. If a coherent topic naturally reaches 16–20 items, keep it together and use one review passage. If it reaches 21–29 items, keep the topic in one file and split the review into two shorter passages (for example 10+10, 11+10, or 12+10), each with its Vietnamese translation. Do not add or split items merely to force a fixed file size. Keep the approved entry order and the review passage convention from `cefr/README.md`.
 
 Work continuously in batches of **3 lessons / about 45 learning items** when practical. After each batch:
 

@@ -12,7 +12,7 @@
 - Chỉ note British English khi khác đáng kể với American English.
 - Korean linking đặt ở cuối và chỉ dùng khi giúp ghi nhớ hoặc phân biệt nghĩa.
 - Ví dụ phải tự nhiên, ưu tiên cách dùng thực tế trong contemporary American English.
-- Không áp đặt số lượng từ cố định cho mỗi file. Gom đủ từ/cụm từ cần thiết để khai thác trọn một chủ đề hoặc tình huống, nhưng không thêm từ chỉ để tăng số lượng.
-- Mọi headword của entry phải xuất hiện tự nhiên trong phần `Review in context`. Nếu bài có 16–24 từ, có thể dùng một đoạn đọc dài khoảng 150–200 từ; nếu có hơn 25 từ, chia thành hai đoạn đọc, mỗi đoạn khoảng 100–150 từ, kèm bản dịch tiếng Việt tương ứng.
+- Không áp đặt số lượng từ cố định cho mỗi file. Ưu tiên gom đủ từ/cụm từ cần thiết để khai thác trọn một chủ đề hoặc tình huống, nhưng không thêm từ chỉ để đạt quota. Quy mô thường dùng là khoảng 15–20 learning items; một chủ đề tự nhiên có thể lớn hơn nếu việc gộp giúp giảm số file.
+- Mọi headword của entry phải xuất hiện tự nhiên trong một hoặc các phần `Review in context`. Với 15 từ trở xuống, dùng một đoạn đọc phù hợp. Với 16–20 từ, giữ cùng một file và viết một đoạn đọc duy nhất, bao quát tối đa 20 headwords. Với 21–29 từ, vẫn giữ cùng chủ đề/file nhưng chia thành hai đoạn đọc nhỏ hơn (ví dụ 10+10, 11+10 hoặc 12+10), mỗi đoạn có bản dịch tiếng Việt tương ứng. Không tách file chỉ để ép mỗi file về đúng 15 từ.
 
 Task vocabulary = `COMMON_PROMPT` + `VOCAB_PROMPT` + yêu cầu cụ thể hiện tại.

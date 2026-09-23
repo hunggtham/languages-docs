@@ -8,7 +8,7 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 
 - First milestone: 10,000 unique learning items
 - Expansion target: 20,000 unique learning items
-- Canonical lesson size: about 15–20 items
+- Canonical lesson size: usually 15–20 items, with no hard 15-item quota; coherent topics may use 16–29 items with one or two review passages as specified in `VOCAB_PROMPT.md`.
 - Every headword must be reused naturally in a review context.
 - Target integration branch: `feat/vocabulary-learning`
 

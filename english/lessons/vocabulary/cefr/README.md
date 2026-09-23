@@ -16,4 +16,4 @@ cefr/
 
 Một entry giữ thứ tự chuẩn: loại từ và vị trí trong câu, `Core meaning — English`, nghĩa cốt lõi và hình ảnh ghi nhớ hoàn toàn bằng tiếng Việt, phát âm, grammar/collocations, register hoặc usage khi cần, linking, examples và liên kết tiếng Hàn ở cuối.
 
-Không tách mỗi từ thành một file riêng. Một file nên gom các từ trong cùng tình huống hoặc mạng nghĩa, sau đó có context sử dụng lại toàn bộ headword. Bài 16–24 từ có thể dùng một đoạn khoảng 150–200 từ; bài trên 25 từ nên chia thành hai đoạn khoảng 100–150 từ, mỗi đoạn có bản dịch tiếng Việt.
+Không tách mỗi từ thành một file riêng. Một file nên gom các từ trong cùng tình huống hoặc mạng nghĩa, sau đó có context sử dụng lại toàn bộ headword. Không có giới hạn cứng 15 từ/file: quy mô thường dùng là 15–20 từ, nhưng chủ đề tự nhiên được ưu tiên. Bài 16–20 từ dùng một đoạn đọc duy nhất; bài 21–29 từ giữ cùng một file và chia thành hai đoạn nhỏ hơn (ví dụ 10+10, 11+10 hoặc 12+10), mỗi đoạn có bản dịch tiếng Việt. Không thêm hoặc tách từ chỉ để đạt một con số cố định.
