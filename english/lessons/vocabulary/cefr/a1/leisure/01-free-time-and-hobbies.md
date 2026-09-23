@@ -1,4 +1,5 @@
 # A1 Vocabulary 06 — Free time and hobbies
+<!-- Source lesson coverage: 06 -->
 
 Bài này học 15 từ/cụm từ để nói về hoạt động lúc rảnh. Hãy nhớ theo flow: **free time → hobby → play → watch/listen/read → music/movie/game → weekend → park → swim/run/dance/draw**.
 

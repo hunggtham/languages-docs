@@ -1,4 +1,5 @@
 # A1 Vocabulary 07 — Body and health
+<!-- Source lesson coverage: 07 -->
 
 Bài này học 20 từ/cụm từ cơ bản về cơ thể và sức khỏe. Hãy nhớ theo flow: **body → head/face → eye/ear/nose/mouth → hand/leg/foot → feel/hurt/pain → sick/healthy → doctor/hospital/medicine → rest/better**.
 

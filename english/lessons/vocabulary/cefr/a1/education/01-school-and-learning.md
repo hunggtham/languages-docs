@@ -1,4 +1,5 @@
 # A1 Vocabulary 09 — School and learning
+<!-- Source lesson coverage: 09 -->
 
 Bài này học vocabulary cơ bản về trường lớp và việc học. Hãy nhớ theo flow: **school → class → teacher/student → lesson → book/page → question/answer → learn/know/understand → read/write/speak/listen → homework/test → easy/difficult**.
 
@@ -419,4 +420,3 @@ At **school**, my **class** starts with our **teacher** greeting every **student
 ## Nghĩa tiếng Việt
 
 Ở trường, lớp học của tôi bắt đầu bằng việc giáo viên chào mọi học sinh. Bài học hôm nay dùng sách, và chúng tôi đọc một trang trước khi đặt câu hỏi và đưa ra câu trả lời. Chúng tôi học từ mới, đã biết một số từ và cố hiểu phần còn lại. Chúng tôi đọc một đoạn ngắn, viết câu, nói tiếng Anh và lắng nghe cẩn thận. Sau giờ học, tôi làm bài tập cho bài kiểm tra ngày mai. Bài đầu tiên dễ, nhưng câu hỏi cuối khó.
-

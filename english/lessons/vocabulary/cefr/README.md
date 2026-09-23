@@ -14,7 +14,7 @@ cefr/
 └── c2/
 ```
 
-Các bài mới có thể nằm trong thư mục con theo mạng chủ đề (ví dụ `a2/city/`, `a2/home/`, `a2/food/` và `a2/outdoors/`). Tên file vẫn giữ số lesson ở đầu để công cụ tiến độ quét đệ quy và giữ được thứ tự học.
+Các bài mới có thể nằm trong thư mục con theo mạng chủ đề (ví dụ `a2/city/`, `a2/home/`, `a2/food/` và `a2/outdoors/`). Số ở đầu tên file được đánh lại độc lập trong từng folder chủ đề; công cụ tiến độ quét đệ quy theo từng folder.
 
 Một entry giữ thứ tự chuẩn: loại từ và vị trí trong câu, `Core meaning — English`, nghĩa cốt lõi và hình ảnh ghi nhớ hoàn toàn bằng tiếng Việt, phát âm, grammar/collocations, register hoặc usage khi cần, linking, examples và liên kết tiếng Hàn ở cuối.
 

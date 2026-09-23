@@ -1,4 +1,5 @@
 # A1 Vocabulary 05 — Weather and clothes
+<!-- Source lesson coverage: 05 -->
 
 Bài này học 15 từ/cụm từ để nói về thời tiết và quần áo hằng ngày. Hãy nhớ theo flow: **weather → sunny/rainy → cloud/wind → hot/cold → coat/shirt/shoes → wear → put on/take off → umbrella → season → tomorrow**.
 

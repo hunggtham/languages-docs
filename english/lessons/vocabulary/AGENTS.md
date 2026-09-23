@@ -41,6 +41,8 @@ The canonical lesson size is usually **15–20 words/phrases per file**, grouped
 
 Historical consolidation files may exceed 29 items when they combine already-approved lessons to reduce file sprawl. Preserve one labeled review passage per source lesson in those files; do not use their larger size as a quota for newly generated lessons.
 
+Numeric prefixes reset inside each topic folder and each CEFR level. For example, `a2/communication/01-...md` and `a2/home/01-...md` are both valid. Keep historical source coverage in the file metadata instead of forcing one global sequence across all topic folders.
+
 Work continuously in batches of **3 lessons / about 45 learning items** when practical. After each batch:
 
 1. review every entry against the prompt and canonical format;

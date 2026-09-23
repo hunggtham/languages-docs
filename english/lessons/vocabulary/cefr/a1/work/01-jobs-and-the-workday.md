@@ -1,4 +1,5 @@
 # A1 Vocabulary 16 — Jobs and the workday
+<!-- Source lesson coverage: 16 -->
 
 Bài này mô tả một ngày làm việc đơn giản: nói về nghề, nơi làm, đồng nghiệp, lịch họp, thời gian nghỉ và việc hoàn thành nhiệm vụ.
 

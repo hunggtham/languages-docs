@@ -1,4 +1,5 @@
 # A1 Vocabulary 13 — Nature and animals
+<!-- Source lesson coverage: 13 -->
 
 Bài này học 20 từ/cụm từ về thiên nhiên và động vật quen thuộc. Hãy nhớ theo flow: **nature → animal → dog/cat/bird/fish → tree/flower → sun/moon/sky → river/mountain/sea → green → walk/see/hear → live/wild/farm**.
 
@@ -413,4 +414,3 @@ We walk in **nature** and see an **animal** near the **river**. A **dog**, a **c
 ## Nghĩa tiếng Việt
 
 Chúng tôi đi bộ trong thiên nhiên và thấy một con vật gần con sông. Một con chó, con mèo, con chim và vài con cá sống gần một nông trại. Chúng tôi ngồi dưới một cái cây và nhìn một bông hoa. Mặt trời sáng, mặt trăng sẽ mọc sau đó và bầu trời màu xanh. Từ trên đồi, chúng tôi có thể nhìn thấy một ngọn núi và biển. Cỏ màu xanh. Một số động vật hoang dã, nhưng những con khác sống ở nông trại. Chúng tôi nhìn thấy chim và nghe chúng hót.
-

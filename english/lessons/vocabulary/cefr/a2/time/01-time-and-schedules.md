@@ -1,4 +1,5 @@
 # A2 Vocabulary 38 — Time and schedules
+<!-- Source lesson coverage: 38 -->
 
 ## 1. weekday /ˈwiːkˌdeɪ/
 

@@ -1,4 +1,5 @@
 # A2 Vocabulary — Practical actions
+<!-- Source lesson coverage: 74 -->
 
 ## 1. mend /mend/
 **Part of speech:** verb
