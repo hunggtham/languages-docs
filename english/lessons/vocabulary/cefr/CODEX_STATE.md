@@ -12,6 +12,16 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 - Every headword must be reused naturally in a review context.
 - Target integration branch: `feat/vocabulary-learning`
 
+## Active generation contract
+
+Continue automatically from this state until the corpus reaches 20,000 valid learning items, a Codex/runtime limit prevents further execution, or a genuine blocker needs human input. Do not stop at a CEFR level, a single lesson, or a checkpoint.
+
+- Work in the order `A1 → A2 → B1 → B2 → C1 → C2 → C2+`, while keeping CEFR placement and learner usefulness ahead of quotas.
+- Choose a coherent topic or situation first, then add the words needed to teach it. Prefer one well-grouped file over several small files; merge related legacy lessons when that reduces file sprawl without losing coverage.
+- Put each file under its CEFR level and topic folder. Number files independently inside each topic folder (`a2/communication/01-...`, `a2/home/01-...`); a new topic starts at `01`. Preserve historical source coverage in metadata and README links.
+- New files normally contain 15–20 learning items. Do not force 15. Keep 16–20 items in one context; keep 21–29 items in one topic file with two shorter review contexts and Vietnamese translations. Larger legacy consolidation files are allowed only to preserve already-approved source lessons.
+- For every batch: inspect instructions and nearby lessons, scan headings for duplicate headword+sense coverage, generate original contemporary American-English entries, validate every headword/context and numbering rule, update README and this state file, commit a scoped checkpoint, and continue from the next folder-local number.
+
 ## Current repository progress
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
