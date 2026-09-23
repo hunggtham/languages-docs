@@ -1,23 +1,13 @@
 # Common Prompt — Language Docs
 
-Tất cả yêu cầu tạo mới, chỉnh sửa hoặc review nội dung trong repository này phải mặc định tuân theo các nguyên tắc dưới đây, trừ khi yêu cầu hiện tại ghi rõ ngoại lệ.
+Mọi yêu cầu tạo mới, chỉnh sửa hoặc review trong repository này mặc định kế thừa prompt này, trừ khi task hiện tại ghi rõ ngoại lệ.
 
-## Nguyên tắc chung
+- Viết như tài liệu học thực sự: mạch lạc, tự nhiên, self-contained, ưu tiên hiểu bản chất, mental model và cách dùng thực tế hơn học thuộc quy tắc.
+- Lấy contemporary General American English làm chuẩn sử dụng; chỉ nối British English, Korean hoặc ngôn ngữ khác khi thực sự giúp hiểu và liên kết kiến thức.
+- Chủ yếu viết bằng tiếng Anh; dùng tiếng Việt ngay tại chỗ khi cần làm rõ meaning, nuance, grammar wording hoặc phần dễ gây hiểu sai để người đọc không cần dịch thêm.
+- Giải thích bằng prose theo luồng; tránh biến nội dung thành bảng, bullet hoặc danh sách công thức. Chia lesson theo dependency của kiến thức, không theo band nếu band làm đứt mạch hiểu.
+- Thuật ngữ, định nghĩa kiểu grammar reference, collocation, register và nuance phải được giải thích ngay bằng ngôn ngữ tự nhiên; có thể pha cách giải thích rất đơn giản vào cùng đoạn thay vì tách section riêng.
+- Ưu tiên meaning contrast, native choice, spoken/written usage và ví dụ tự nhiên; chỉ thêm chi tiết khi giúp người đọc hiểu hoặc dùng đúng hơn.
+- Khi update, giữ đủ kiến thức quan trọng, ưu tiên sửa canonical docs và internal links, tránh duplicate hoặc tạo thêm cấu trúc cạnh tranh không cần thiết.
 
-- Viết như một tài liệu học thực sự: tự nhiên, mạch lạc, hiểu bản chất và có luồng học rõ ràng.
-- Ưu tiên American English và cách người bản xứ thực sự hiểu, dùng và cảm nhận ngôn ngữ.
-- Không trình bày máy móc theo bullet/table; chỉ dùng khi cấu trúc đó thực sự giúp hiểu nhanh hơn.
-- Chia lesson/file theo nội dung và luồng học, không bị ràng buộc bởi cấu trúc cũ nếu cấu trúc khác tốt hơn.
-- Chủ yếu dùng tiếng Anh; dùng tiếng Việt để làm rõ bản chất, sắc thái hoặc phần dễ gây hiểu sai. Người đọc phải hiểu ngay mà không cần tự dịch thêm.
-- Khi có thuật ngữ, grammar wording, collocation, register, nuance hoặc khái niệm khó, giữ từ gốc cần thiết nhưng luôn giải thích bằng ngôn ngữ tự nhiên, dễ hiểu.
-- Ưu tiên core meaning, mental model và cách dùng thực tế thay vì học thuộc định nghĩa.
-- Tạo liên kết giữa từ, nghĩa, cấu trúc, synonym/antonym, level, British English và Korean khi chúng thực sự giúp xây dựng mạng kiến thức.
-- Ví dụ phải tự nhiên, đúng ngữ cảnh và phản ánh cách dùng thực tế; không thêm nội dung chỉ để làm dài tài liệu.
-- Nội dung mới phải nhất quán với các file liên quan và tránh trùng lặp không cần thiết.
-- Khi review hoặc update, được phép tái cấu trúc mạnh nếu giúp tài liệu dễ học hơn nhưng không được làm mất kiến thức quan trọng.
-
-## Quy tắc áp dụng
-
-Yêu cầu mới của người dùng = `COMMON_PROMPT` này + yêu cầu cụ thể của task hiện tại.
-
-Nếu hai yêu cầu xung đột, ưu tiên yêu cầu cụ thể và mới hơn của task hiện tại.
+Yêu cầu mới = `COMMON_PROMPT` + yêu cầu cụ thể của task hiện tại. Nếu xung đột, ưu tiên yêu cầu cụ thể và mới hơn.
