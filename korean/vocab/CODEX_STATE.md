@@ -48,10 +48,15 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `social-change-and-belonging`
+- File: `01-social-categories-and-inclusion.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; outdated or stigmatizing labels are explicitly contextualized and paired with respectful alternatives.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include work and contracts, cultural identity and social change, or formal notices and public administration. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include work and contracts, formal notices and public administration, or cultural identity and social change. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
