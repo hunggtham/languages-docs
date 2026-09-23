@@ -17,6 +17,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [외모와 첫인상의 언어](./appearance-and-first-impressions/README.md) — `첫인상과 사람을 읽는 방식`
 - [몸의 증상과 움직임](./body-symptoms-and-movement/README.md) — `몸의 신호를 읽고 움직임을 조절하다`
 - [업무 계획과 사업 승계](./work-planning-and-business-succession/README.md) — `작은 사업의 계획과 다음 세대`
+- [민속 신앙과 공동체 의례](./folk-belief-and-public-rituals/README.md) — `의례를 기록하고 믿음을 설명하는 말`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
