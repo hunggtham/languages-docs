@@ -7,6 +7,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [News And Media Literacy](./communication/01-news-and-media-literacy.md)
 - [Digital Communication And Collaboration](./communication/02-digital-communication-and-collaboration.md)
 - [Public Speaking And Professional Communication](./communication/03-public-speaking-and-professional-communication.md)
+- [Professional Writing And Documentation](./communication/04-professional-writing-and-documentation.md)
 
 ## work
 
