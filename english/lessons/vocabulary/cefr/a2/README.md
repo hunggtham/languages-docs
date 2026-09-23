@@ -47,3 +47,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 41. [Reading and literature](./41-reading-and-literature.md) — tiểu thuyết, thơ, cốt truyện và độc giả.
 42. [Civic life and communities](./42-civic-life-and-communities.md) — khu dân cư, luật và chính quyền.
 43. [Science and technology](./43-science-and-technology.md) — thí nghiệm, đo lường và thiết bị.
+44. [Accommodation and tours](./44-accommodation-and-tours.md) — chỗ ở, phòng và lịch trình tham quan.
+45. [Formal and informal writing](./45-formal-and-informal-writing.md) — thông báo, lập luận và ngữ pháp viết.
+46. [Personal finance](./46-personal-finance.md) — thu nhập, chi phí, vay và đầu tư.
