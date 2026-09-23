@@ -5,3 +5,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## communication
 
 - [News And Media Literacy](./communication/01-news-and-media-literacy.md)
+
+## work
+
+- [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
