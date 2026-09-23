@@ -62,3 +62,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 56. [Water travel and boats](./56-water-travel-and-boats.md) — phà, tàu, cảng và an toàn trên nước.
 57. [Clothing materials and style](./57-clothing-materials-and-style.md) — vải, chất liệu và trang phục.
 58. [Language-learning terms](./58-language-learning-terms.md) — định nghĩa, thành ngữ và cách dùng.
+59. [Sports and exercise](./59-sports-and-exercise.md) — thi đấu, điểm số và kỹ năng thể thao.
+60. [Food ingredients](./60-food-ingredients.md) — bột, rau, thịt và nước sốt.
+61. [Physical descriptions](./61-physical-descriptions.md) — kích thước, hình dạng và bề mặt.
