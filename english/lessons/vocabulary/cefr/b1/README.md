@@ -9,3 +9,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## work
 
 - [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
+
+## science
+
+- [Climate And Environment](./science/01-climate-and-environment.md)
