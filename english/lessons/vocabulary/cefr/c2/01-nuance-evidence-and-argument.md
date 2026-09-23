@@ -4,263 +4,329 @@
 
 ---
 
-## 1. ostensibly /ɑˈstensəbli/ — adverb — bề ngoài/danh nghĩa là; theo như được trình bày · 표면상, 명목상
+## 1. ostensibly /ɑˈstensəbli/
 
-**Core meaning:** `Ostensibly` signals a gap between the reason, appearance or description presented on the surface and what may actually be true underneath. Người viết không nhất thiết khẳng định surface claim là false, nhưng đang **giữ khoảng cách** với nó.
+**Loại từ & vị trí trong câu:** `adverb` — trạng từ. Thường đứng trước adjective, verb hoặc cả mệnh đề để báo rằng điều được nói là vẻ ngoài/lý do được trình bày, nhưng người viết chưa chắc tin đó là toàn bộ sự thật.
 
-**Pronunciation:** 4 syllables: os-**TEN**-si-bly, /ɑˈstensəbli/. Trong American English, âm đầu thường là /ɑ/.
+**Core meaning — English:** Apparently or officially true, but possibly different from what is actually true.
 
-**Grammar & collocations:** `ostensibly to do something`, `ostensibly because`, `ostensibly designed/intended/created to`. Nó thường đứng trước phrase mà người viết muốn đặt dấu hỏi nhẹ.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một lớp bề mặt trông có vẻ hợp lý hoặc được công bố chính thức, nhưng phía sau có thể tồn tại một động cơ hay thực tế khác. Từ này thường tạo một khoảng cách hoài nghi nhẹ giữa người viết và điều được trình bày.
 
-**Register & American usage:** Từ này formal và rất hữu ích trong analytical journalism, essays, criticism và academic prose. Trong conversation bình thường, người Mỹ thường nói `supposedly`, `on the surface`, hoặc `it was supposed to...`, nhưng những từ đó không hoàn toàn giống nhau.
+**Phát âm:** 4 âm tiết, trọng âm chính ở âm thứ hai: o-**STEN**-si-bly.
 
-**Linking:** `apparently` có thể đơn giản nghĩa “theo những gì thấy/biết thì có vẻ”, không nhất thiết nghi ngờ motive. `supposedly` thường mang skepticism rõ hơn trong speech. `seemingly` tập trung vào appearance. `ostensibly` đặc biệt hợp khi một **stated purpose or official explanation** có thể che một purpose khác.
+**Grammar & collocations:** `ostensibly designed to...` — bề ngoài/được tuyên bố là được thiết kế để...; `ostensibly because...` — theo lý do được đưa ra thì là vì...; `ostensibly independent` — có vẻ hoặc được tuyên bố là độc lập, nhưng người viết để ngỏ khả năng thực tế khác.
 
-**Examples:** `The policy was ostensibly introduced to reduce costs, but it also increased management control.` → Chính sách bề ngoài được đưa ra để giảm chi phí, nhưng nó cũng làm tăng quyền kiểm soát của quản lý. `He attended ostensibly as an observer.` → Danh nghĩa là anh ấy tham dự với tư cách quan sát viên.
+**Register & nuance:** `formal, analytical, often mildly skeptical` — trang trọng, thiên về phân tích và thường hàm ý hoài nghi nhẹ. Người Mỹ dùng từ này nhiều hơn trong báo chí, policy analysis, criticism và academic prose hơn là hội thoại hằng ngày.
 
----
+**Linking:** `apparently` — có vẻ là, trung tính hơn và có thể chỉ dựa trên thông tin hiện có; `seemingly` — trông có vẻ như vậy, nhấn vẻ bề ngoài; `supposedly` — được cho là, thường có thể nghe hoài nghi hoặc không tin mạnh hơn; `purportedly` — được tuyên bố/được cho là, rất trang trọng và thường gặp trong pháp lý/báo chí.
 
-## 2. unequivocal /ˌʌnɪˈkwɪvəkəl/ — adjective — hoàn toàn rõ ràng, không nhập nhằng · 명백한, 단호한
+**Examples:** `The policy was ostensibly introduced to improve transparency.` → Chính sách bề ngoài được đưa ra để cải thiện tính minh bạch. `He was ostensibly there as an adviser, although he appeared to have much more influence.` → Ông ta được cho là có mặt với vai trò cố vấn, dù dường như có ảnh hưởng lớn hơn nhiều.
 
-**Core meaning:** Something `unequivocal` leaves no reasonable doubt about meaning, position or answer. Nó không chỉ “clear”; nó loại bỏ ambiguity hoặc hesitation gần như hoàn toàn.
-
-**Pronunciation:** 5 syllables: un-i-**QUIV**-o-cal. Trọng âm chính ở /ˈkwɪv/.
-
-**Grammar & collocations:** `unequivocal support`, `unequivocal evidence`, `an unequivocal answer`, `be unequivocal about`. Adverb: `unequivocally`.
-
-**Register & nuance:** Đây là từ formal, thường thấy trong legal, political, academic và high-level professional English. Khi một writer gọi evidence `unequivocal`, đó là claim rất mạnh; trong research writing, bạn chỉ nên dùng khi evidence thực sự không để lại room đáng kể cho competing interpretation.
-
-**Linking:** `clear` rộng và neutral hơn. `unambiguous` tập trung vào việc chỉ có một interpretation hợp lý. `definitive` có thể mang nghĩa có tính quyết định/cuối cùng, như `definitive answer`. `categorical` thường mô tả statement/refusal rất dứt khoát. Trái nghĩa trực tiếp về form là `equivocal`.
-
-**Word family:** `equivocal`, `unequivocally`.
-
-**Examples:** `The court gave an unequivocal answer.` → Tòa đưa ra câu trả lời hoàn toàn dứt khoát. `The data does not provide unequivocal evidence of causation.` → Dữ liệu không cung cấp bằng chứng hoàn toàn rõ ràng về quan hệ nhân quả.
+**Liên kết tiếng Hàn:** `표면상으로는` — xét bề ngoài thì; `겉으로는` — nhìn bên ngoài thì.
 
 ---
 
-## 3. equivocal /ɪˈkwɪvəkəl/ — adjective — mơ hồ, nước đôi, không cam kết rõ · 모호한, 애매한
+## 2. unequivocal /ˌʌnɪˈkwɪvəkəl/
 
-**Core meaning:** An `equivocal` statement can be understood in more than one way or avoids committing to a clear position. Từ này thường có một sắc thái mà `ambiguous` không luôn có: người nói **có thể đang cố tránh nói thẳng**.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng trước noun như `unequivocal support` hoặc sau linking verb như `The message was unequivocal`.
 
-**Pronunciation:** 4 syllables: e-**QUIV**-o-cal.
+**Core meaning — English:** Completely clear and leaving no doubt about meaning, attitude, or intention.
 
-**Grammar & collocations:** `equivocal answer`, `equivocal response`, `equivocal evidence`, `remain equivocal about`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một tín hiệu chỉ có một cách hiểu, không có vùng xám và không để người nghe phải đoán người nói thực sự muốn gì.
 
-**Register & nuance:** Formal. Với `evidence`, `equivocal` có thể chỉ evidence không dẫn rõ tới một conclusion. Với `answer`, nó có thể gợi evasiveness. Vì vậy context quyết định từ mang nghĩa neutral uncertainty hay criticism of deliberate vagueness.
+**Phát âm:** Trọng âm chính ở `QUIV`: un-i-**QUIV**-o-cal.
 
-**Linking:** `ambiguous` = có nhiều interpretation khả dĩ, thường neutral hơn. `vague` = thiếu detail/precision. `evasive` = chủ động né tránh trả lời; mạnh hơn `equivocal`. `noncommittal` = không bộc lộ commitment/opinion rõ. `equivocal` nằm ở vùng giữa ambiguity và reluctance to commit.
+**Grammar & collocations:** `unequivocal support` — sự ủng hộ rõ ràng, không do dự; `unequivocal evidence` — bằng chứng rất rõ, khó diễn giải theo hướng khác; `unequivocal statement` — phát biểu dứt khoát, không mơ hồ; `be unequivocal about` — nói/lập trường hoàn toàn rõ ràng về vấn đề gì.
 
-**Common mistake:** Đừng nhầm `equivocal` với `equivalent`. Hai từ không liên quan nghĩa.
+**Register & nuance:** `formal and emphatic` — trang trọng và nhấn mạnh mạnh. Từ này thường xuất hiện khi người viết muốn nói mức độ rõ ràng cao hơn `clear` hoặc `explicit`.
 
-**Examples:** `Her response was deliberately equivocal.` → Câu trả lời của cô ấy cố tình nước đôi. `The early findings were equivocal and required further testing.` → Kết quả ban đầu chưa rõ ràng và cần kiểm tra thêm.
+**Linking:** `clear` — rõ ràng, từ rộng và trung tính; `explicit` — được nói/viết trực tiếp thay vì ngầm hiểu; `unambiguous` — không có hai cách hiểu; `categorical` — dứt khoát, tuyệt đối, thường dùng với denial/refusal; `definitive` — có tính quyết định hoặc gần như kết luận cuối cùng.
 
----
+**Examples:** `The report gave unequivocal support to the recommendation.` → Báo cáo thể hiện sự ủng hộ hoàn toàn rõ ràng đối với khuyến nghị. `Her answer was unequivocal: the project would not continue.` → Câu trả lời của cô ấy rất dứt khoát: dự án sẽ không tiếp tục.
 
-## 4. cogent /ˈkoʊdʒənt/ — adjective — chặt chẽ và thuyết phục về lý lẽ · 설득력 있고 논리적인
-
-**Core meaning:** A `cogent` argument is convincing **because its reasoning is clear, relevant and logically strong**. Nó không chỉ “persuasive” theo nghĩa khiến người khác tin; persuasion có thể đến từ emotion, authority hoặc style, còn cogency nhấn vào reasoning.
-
-**Pronunciation:** 2 syllables: **CO**-gent, /ˈkoʊdʒənt/.
-
-**Grammar & collocations:** `cogent argument`, `cogent explanation`, `cogent reason`, `make a cogent case for`.
-
-**Register & American usage:** Formal-academic/professional. Đây là từ hữu ích khi đánh giá quality of argument trong essay, review hoặc debate. Trong speech hằng ngày, `strong argument` hoặc `good point` tự nhiên hơn.
-
-**Linking:** `convincing` đánh giá effect: người nghe có lý do để tin. `compelling` mạnh hơn về sức hút/thuyết phục và có thể bao gồm emotional force. `coherent` nghĩa các phần kết nối logic với nhau nhưng một coherent argument vẫn có thể dựa trên false premises. `sound` trong logic/philosophy có technical meaning chặt hơn. `cogent` thường là praise cho reasoning thực tế.
-
-**Word family:** `cogently` (adv), `cogency` (n, formal).
-
-**Examples:** `She made a cogent case for delaying the launch.` → Cô ấy đưa ra lập luận chặt chẽ cho việc hoãn ra mắt. `The article is well written but lacks a cogent explanation for the trend.` → Bài viết tốt nhưng thiếu lời giải thích thuyết phục về xu hướng.
+**Liên kết tiếng Hàn:** `명백한` — rõ ràng, hiển nhiên; `단호한` — dứt khoát, đặc biệt khi nói thái độ/quyết định.
 
 ---
 
-## 5. substantiate /səbˈstænʃieɪt/ — verb — chứng minh/củng cố bằng bằng chứng · 입증하다, 근거를 대다
+## 3. equivocal /ɪˈkwɪvəkəl/
 
-**Core meaning:** To `substantiate` a claim is to provide enough evidence or facts to support it. Mental image: claim ban đầu chỉ là một khung; evidence làm nó trở nên “có substance”.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường mô tả evidence, answer, statement hoặc result khi chúng không dẫn tới một cách hiểu/kết luận duy nhất.
 
-**Pronunciation:** 4 syllables: sub-**STAN**-shi-ate. `ti` tạo /ʃi/.
+**Core meaning — English:** Open to more than one interpretation, or not clearly showing a definite position or conclusion.
 
-**Grammar & collocations:** `substantiate a claim/allegation/assertion`, `substantiate something with evidence`, `be substantiated by data`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một tín hiệu nằm giữa hai hướng: nó không đủ rõ để bạn kết luận chắc chắn. Sự mơ hồ có thể đến từ bằng chứng chưa đủ mạnh hoặc người nói cố tình không cam kết.
 
-**Register & nuance:** Formal, common in academic, legal, investigative and professional writing. Nó không đồng nghĩa hoàn toàn với `prove`. `Substantiate` nói evidence **supports** claim sufficiently; `prove` thường mạnh hơn, như establishing truth conclusively within a standard.
+**Phát âm:** Trọng âm ở `QUIV`: e-**QUIV**-o-cal.
 
-**Linking:** `support` rộng và neutral hơn. `corroborate` = evidence/witness độc lập xác nhận/support một account đã có. `verify` = kiểm tra để xác nhận accuracy/truth. `validate` = xác nhận validity hoặc legitimacy, tùy domain. `demonstrate` có thể nghĩa cho thấy rõ qua evidence/reasoning. `substantiate` đặc biệt gắn với backing a claim that otherwise might be mere assertion.
+**Grammar & collocations:** `equivocal evidence` — bằng chứng chưa rõ ràng; `equivocal results` — kết quả không cho một kết luận chắc chắn; `equivocal response` — câu trả lời mơ hồ/không cam kết; `remain equivocal` — vẫn chưa rõ ràng.
 
-**Word family:** `substantiation` (n), `substantiated/unsubstantiated` (adj).
+**Register & nuance:** `formal and analytical` — trang trọng, thường gặp trong nghiên cứu, reporting và criticism. Khi nói một người `equivocal`, có thể hàm ý họ tránh đưa ra lập trường rõ ràng.
 
-**Examples:** `The report failed to substantiate its central claim.` → Báo cáo không đưa đủ bằng chứng củng cố luận điểm trung tâm. `The allegation was later substantiated by financial records.` → Cáo buộc sau đó được củng cố bằng hồ sơ tài chính.
+**Linking:** `ambiguous` — mơ hồ vì có nhiều cách hiểu; `unclear` — không rõ nói chung; `inconclusive` — chưa đủ để kết luận, rất phù hợp với evidence/results; `evasive` — né tránh trả lời trực tiếp, thường nói về người/câu trả lời và mang sắc thái tiêu cực mạnh hơn.
 
----
+**Examples:** `The evidence remains equivocal.` → Bằng chứng vẫn chưa đủ rõ để đưa ra một kết luận duy nhất. `His response was deliberately equivocal.` → Câu trả lời của anh ta cố tình mơ hồ và không cam kết rõ lập trường.
 
-## 6. tenuous /ˈtenjuəs/ — adjective — mong manh, yếu, có liên hệ không vững · 미약한, 희박한
-
-**Core meaning:** `Tenuous` describes a connection, argument, claim or situation that exists but is **thin and weak**, so it may not withstand scrutiny or pressure.
-
-**Pronunciation:** 3 syllables: **TEN**-u-ous, /ˈtenjuəs/.
-
-**Grammar & collocations:** `tenuous link`, `tenuous connection`, `tenuous evidence`, `tenuous argument`, `tenuous position`.
-
-**Register & nuance:** Formal but common in serious journalism and analysis. Saying `a tenuous link` is more precise than saying “no link”: bạn thừa nhận có connection nào đó nhưng cho rằng nó quá yếu để support a strong conclusion.
-
-**Linking:** `weak` rất rộng. `flimsy` có thể mô tả physical material hoặc argument/excuse thiếu sức nặng, thường informal hơn. `dubious` = đáng nghi về truth/quality. `speculative` = dựa nhiều vào conjecture hơn evidence. `tenuous` tập trung vào **strength of the connection or basis**.
-
-**Examples:** `The evidence shows only a tenuous link between the two events.` → Bằng chứng chỉ cho thấy mối liên hệ rất yếu giữa hai sự kiện. `Their control over the region remained tenuous.` → Sự kiểm soát của họ đối với khu vực vẫn mong manh.
+**Liên kết tiếng Hàn:** `모호한` — mơ hồ; `애매한` — không rõ ràng/khó xác định ranh giới.
 
 ---
 
-## 7. salient /ˈseɪliənt/ — adjective — nổi bật và quan trọng nhất đối với vấn đề · 핵심적인, 두드러진
+## 4. cogent /ˈkoʊdʒənt/
 
-**Core meaning:** A `salient` point is one that stands out because it is especially important or relevant to the issue at hand. Nó không chỉ “noticeable”; trong argument, nó là điểm **đáng chú ý vì có weight**.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng trước noun như `cogent argument`, `cogent explanation`, `cogent reason`.
 
-**Pronunciation:** 3 syllables: **SAY**-lee-ent, /ˈseɪliənt/.
+**Core meaning — English:** Clear, logical, and convincing because the reasoning is strong and well organized.
 
-**Grammar & collocations:** `salient point`, `salient feature`, `salient fact`, `most salient`, `politically salient`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một chuỗi lập luận mà mỗi bước nối chặt với bước trước, không có khoảng trống lớn, khiến người đọc thấy kết luận hợp lý và khó bác bỏ bằng lỗi logic đơn giản.
 
-**Register & American usage:** Formal-academic/professional, nhưng không quá hiếm. `The most salient point is...` hữu ích trong analysis, presentations và essays khi muốn đưa người đọc trở về yếu tố quan trọng nhất.
+**Phát âm:** 2 âm tiết, trọng âm đầu: **CO**-gent; âm đầu /koʊ/ giống `code` nhưng kết thúc bằng /dʒənt/.
 
-**Linking:** `important` rộng hơn. `prominent` thường nghĩa dễ thấy/có vị trí nổi bật hoặc nổi tiếng. `notable` = đáng chú ý, không nhất thiết central. `pertinent` = directly relevant. `salient` kết hợp ý **stands out + matters**.
+**Grammar & collocations:** `cogent argument` — lập luận chặt chẽ và thuyết phục; `cogent explanation` — lời giải thích rõ, logic và thuyết phục; `cogent reason` — lý do có sức nặng; `highly cogent` — rất chặt chẽ/thuyết phục.
 
-**Word family:** `salience` (n), `saliently` rất hiếm và thường không cần dùng.
+**Register & nuance:** `formal, intellectual, evaluative` — trang trọng, thiên về đánh giá chất lượng reasoning. Nó không chỉ có nghĩa “persuasive”; sức thuyết phục đến từ cấu trúc logic và lý do mạnh.
 
-**Examples:** `The report summarizes the most salient findings.` → Báo cáo tóm tắt những phát hiện nổi bật và quan trọng nhất. `Cost is important, but reliability is the more salient issue here.` → Chi phí quan trọng, nhưng độ tin cậy mới là vấn đề nổi bật hơn ở đây.
+**Linking:** `convincing` — thuyết phục nói chung, có thể nhờ cảm xúc hoặc bằng chứng; `compelling` — có sức lôi kéo/thuyết phục rất mạnh; `coherent` — mạch lạc, các phần ăn khớp với nhau nhưng chưa chắc thuyết phục; `sound` — vững, hợp lý và đáng tin về logic/phương pháp.
 
----
+**Examples:** `She presented a cogent argument for changing the policy.` → Cô ấy đưa ra một lập luận chặt chẽ và thuyết phục để thay đổi chính sách. `The article is well written but lacks a cogent explanation of causation.` → Bài viết được viết tốt nhưng thiếu một lời giải thích chặt chẽ về quan hệ nhân quả.
 
-## 8. pervasive /pɚˈveɪsɪv/ — adjective — lan rộng, hiện diện khắp nơi/khắp hệ thống · 만연한, 널리 퍼진
-
-**Core meaning & mental image:** Something `pervasive` spreads through many parts of a place, system or society so thoroughly that it is difficult to isolate. Hãy hình dung mùi hương thấm khắp một căn phòng — đây cũng là nguồn image rất gần với nghĩa của từ.
-
-**Pronunciation:** 3 syllables: per-**VA**-sive, /pɚˈveɪsɪv/.
-
-**Grammar & collocations:** `pervasive problem`, `pervasive influence`, `pervasive bias`, `pervasive use of technology`, `be pervasive throughout`.
-
-**Register & nuance:** Formal. Nó thường dùng với phenomenon có phạm vi rộng và ảnh hưởng nhiều layer. Không phải cứ “common” là pervasive; `pervasive` gợi sự hiện diện **rộng và thấm sâu**.
-
-**Linking:** `widespread` = tồn tại ở nhiều nơi/người, neutral hơn. `prevalent` = phổ biến trong một population/context, hay gặp trong research. `ubiquitous` = dường như ở khắp mọi nơi, mạnh hơn về omnipresence. `systemic` = bắt nguồn/gắn vào structure of a system; một problem có thể systemic và pervasive nhưng hai từ không đồng nghĩa.
-
-**Word family:** `pervade` (v), `pervasiveness` (n).
-
-**Examples:** `Smartphones have become pervasive in everyday life.` → Điện thoại thông minh đã hiện diện rộng khắp đời sống. `The audit found a pervasive lack of documentation.` → Cuộc kiểm toán phát hiện tình trạng thiếu tài liệu diễn ra rộng khắp.
+**Liên kết tiếng Hàn:** `설득력 있는` — có sức thuyết phục; `논리 정연한` — logic và mạch lạc.
 
 ---
 
-## 9. mitigate /ˈmɪtəɡeɪt/ — verb — giảm mức độ nghiêm trọng/tác hại · 완화하다, 경감하다
+## 5. substantiate /səbˈstænʃiˌeɪt/
 
-**Core meaning:** `Mitigate` means make something harmful, severe or unpleasant **less severe**, not necessarily remove it. Đây là distinction quan trọng: mitigation quản lý mức độ của problem/risk.
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ như `substantiate a claim`, `substantiate an allegation`.
 
-**Pronunciation:** 3 syllables: **MIT**-i-gate.
+**Core meaning — English:** To provide evidence or facts that support and give credibility to a claim, statement, or belief.
 
-**Grammar & collocations:** `mitigate risk`, `mitigate damage`, `mitigate the effects/impact`, `measures to mitigate`. Usually transitive.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một khẳng định đang “đứng lơ lửng”; bạn đặt thêm bằng chứng thực tế phía dưới để nó có nền đỡ vững hơn và trở nên đáng tin hơn.
 
-**Register & American usage:** Formal-professional; rất common trong risk management, law, engineering, climate, cybersecurity và policy. Trong speech thường ngày người Mỹ có thể nói `reduce`, `lessen`, `make it less severe`.
+**Phát âm:** Trọng âm chính ở `STAN`: sub-**STAN**-shi-ate.
 
-**Linking:** `reduce` chỉ làm giảm quantity/level nói chung. `alleviate` thường giảm pain, suffering hoặc burden. `remedy` nhấn mạnh sửa chữa problem. `prevent` ngăn nó xảy ra ngay từ đầu. `offset` bù trừ effect bằng một effect khác. `mitigate` đặc biệt hữu ích khi risk không thể loại bỏ hoàn toàn.
+**Grammar & collocations:** `substantiate a claim` — đưa bằng chứng để củng cố một khẳng định; `substantiate an allegation` — đưa bằng chứng xác thực cho một cáo buộc; `substantiate with evidence` — củng cố bằng bằng chứng; `fail to substantiate` — không đưa đủ bằng chứng để hỗ trợ.
 
-**Word family:** `mitigation` (n), `mitigating` (adj), như `mitigating circumstances` trong legal English.
+**Register & nuance:** `formal, evidential, common in academic/legal/journalistic writing` — trang trọng, tập trung vào bằng chứng và thường gặp trong học thuật, pháp lý, báo chí. Từ này không đồng nghĩa hoàn toàn với “chứng minh tuyệt đối”.
 
-**Examples:** `Encryption helps mitigate the risk of data exposure.` → Mã hóa giúp giảm rủi ro lộ dữ liệu. `The measures may mitigate the impact, but they will not eliminate it.` → Các biện pháp có thể giảm tác động nhưng không loại bỏ hoàn toàn.
+**Linking:** `support` — hỗ trợ bằng lý do/bằng chứng, rộng hơn; `corroborate` — có thêm nguồn/bằng chứng độc lập xác nhận điều đã được nói; `verify` — kiểm tra xem thông tin có đúng không; `validate` — xác nhận tính hợp lệ/đúng đắn của method/result; `prove` — chứng minh, thường mang mức độ chắc chắn mạnh hơn.
 
----
+**Examples:** `The report failed to substantiate its central claim.` → Báo cáo không đưa đủ bằng chứng để củng cố khẳng định trung tâm. `The allegation must be substantiated with credible evidence.` → Cáo buộc phải được hỗ trợ bằng bằng chứng đáng tin cậy.
 
-## 10. exacerbate /ɪɡˈzæsɚbeɪt/ — verb — làm vấn đề xấu/nghiêm trọng hơn · 악화시키다
-
-**Core meaning:** `Exacerbate` is essentially the opposite direction of `mitigate`: an action or condition makes an already bad problem, conflict, symptom or inequality worse.
-
-**Pronunciation:** 4 syllables: ig-**ZAS**-er-bate. American /r/ trong syllable thứ ba được phát âm rõ.
-
-**Grammar & collocations:** `exacerbate a problem`, `exacerbate tensions`, `exacerbate symptoms`, `exacerbate inequality`, `further exacerbate`.
-
-**Register & nuance:** Formal, common in journalism, medicine, policy and academic writing. Đừng dùng nó đơn giản thay cho `make worse` ở mọi câu; từ này tự nhiên nhất khi object vốn đã là một **negative condition**.
-
-**Linking:** `worsen` là từ trung tính và rộng hơn, có thể transitive/intransitive. `aggravate` rất gần và cũng có nghĩa làm tệ hơn; trong everyday American English, `aggravate` còn có thể nghĩa annoy. `intensify` làm mạnh hơn nhưng thứ được tăng không nhất thiết tiêu cực. `compound` a problem = thêm yếu tố khiến problem càng khó hơn.
-
-**Examples:** `A lack of sleep can exacerbate stress.` → Thiếu ngủ có thể làm stress nghiêm trọng hơn. `The announcement exacerbated tensions between the groups.` → Thông báo làm căng thẳng giữa các nhóm tăng lên.
+**Liên kết tiếng Hàn:** `입증하다` — chứng minh/xác thực bằng chứng; `뒷받침하다` — làm nền hỗ trợ, rất gần ý “support with evidence”.
 
 ---
 
-## 11. undermine /ˌʌndɚˈmaɪn/ — verb — làm suy yếu dần nền tảng, hiệu lực hoặc niềm tin · 약화시키다, 훼손하다
+## 6. tenuous /ˈtenjuəs/
 
-**Core meaning & mental image:** Imagine digging beneath a wall until its foundation is weak. Đó là image gốc giúp nhớ `undermine`: làm yếu một thứ **từ bên dưới hoặc theo cách không luôn trực tiếp thấy ngay**.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường mô tả `connection`, `link`, `evidence`, `argument`, `claim` hoặc `relationship` khi chúng yếu và khó duy trì.
 
-**Pronunciation:** 3 syllables: un-der-**MINE**.
+**Core meaning — English:** Weak, slight, or not strongly supported, especially when describing a connection, argument, or claim.
 
-**Grammar & collocations:** `undermine confidence`, `undermine trust`, `undermine authority`, `undermine an argument`, `undermine efforts to...`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một sợi dây rất mảnh nối hai điểm. Nó vẫn tạo ra liên hệ, nhưng chỉ cần tác động nhỏ là liên hệ đó có thể đứt; vì vậy bạn không nên dựa quá nhiều vào nó.
 
-**Register & nuance:** Dùng tự nhiên cả trong serious conversation và formal writing. Nó mạnh hơn `weaken` khi muốn nhấn rằng foundation, credibility hoặc ability to function đang bị erosion.
+**Phát âm:** 3 âm tiết, trọng âm đầu: **TEN**-u-ous.
 
-**Linking:** `weaken` generic hơn. `erode` nhấn mạnh suy giảm từ từ theo thời gian: `erode trust`. `discredit` làm người/claim mất credibility. `sabotage` gợi hành động có chủ ý nhằm phá hỏng; `undermine` có thể intentional hoặc unintentional. `invalidate` làm một argument/result không còn valid theo tiêu chuẩn nào đó.
+**Grammar & collocations:** `tenuous connection` — mối liên hệ yếu; `tenuous link` — liên kết mong manh; `tenuous evidence` — bằng chứng rất yếu; `tenuous claim` — khẳng định có nền tảng yếu.
 
-**Examples:** `Repeated errors undermined confidence in the system.` → Lỗi lặp lại làm suy yếu niềm tin vào hệ thống. `The new evidence undermines the original explanation.` → Bằng chứng mới làm suy yếu lời giải thích ban đầu.
+**Register & nuance:** `formal and critical` — trang trọng và thường mang đánh giá phê bình. Khi gọi một connection là `tenuous`, người viết đang nói nó tồn tại nhưng không đủ mạnh để nâng đỡ kết luận lớn.
 
----
+**Linking:** `weak` — yếu nói chung; `flimsy` — yếu, thiếu chắc chắn và thường mang sắc thái phê phán rõ hơn; `remote` — xa hoặc rất ít liên quan; `speculative` — dựa nhiều vào suy đoán hơn bằng chứng; `fragile` — dễ bị phá vỡ, thường nói hệ thống/quan hệ/trạng thái.
 
-## 12. reconcile /ˈrekənsaɪl/ — verb — dung hòa; làm cho hai điều tưởng mâu thuẫn trở nên tương thích · 조화시키다, 화해시키다
+**Examples:** `The link between the two events is tenuous at best.` → Mối liên hệ giữa hai sự kiện cùng lắm chỉ rất yếu. `The conclusion rests on tenuous evidence.` → Kết luận dựa trên bằng chứng mong manh.
 
-**Core meaning:** `Reconcile` can mean restore a relationship after conflict, but in high-level analytical English it often means find a way for two apparently conflicting facts, goals, accounts or positions to fit together.
-
-**Pronunciation:** 3 syllables: **REC**-on-cile, /ˈrekənsaɪl/.
-
-**Grammar & collocations:** `reconcile A with B`, `reconcile conflicting accounts`, `reconcile differences`, `be reconciled with/to`. Với people: `reconcile with someone`.
-
-**Register & nuance:** Trong essays, `It is difficult to reconcile X with Y` là pattern rất mạnh để chỉ tension: cả hai claims khó cùng đúng hoặc cùng thực hiện được.
-
-**Linking:** `resolve` = giải quyết problem/conflict. `harmonize` = làm các elements phù hợp/consistent hơn, formal. `mediate` = bên thứ ba hỗ trợ people/groups. `accommodate` = tạo chỗ cho competing need/view. `reconcile` đặc biệt nhấn việc **bringing apparent incompatibilities into a coherent relationship**.
-
-**Word family:** `reconciliation` (n), `irreconcilable` (adj: không thể dung hòa).
-
-**Examples:** `The authors struggle to reconcile these findings with their earlier theory.` → Các tác giả gặp khó khi dung hòa các phát hiện này với lý thuyết trước. `The policy tries to reconcile economic growth with environmental protection.` → Chính sách cố dung hòa tăng trưởng kinh tế với bảo vệ môi trường.
+**Liên kết tiếng Hàn:** `미약한` — yếu, nhỏ; `희박한` — rất ít/mỏng manh, đặc biệt với khả năng hoặc căn cứ.
 
 ---
 
-## 13. delineate /dɪˈlɪnieɪt/ — verb — xác định/mô tả ranh giới hoặc cấu trúc một cách rõ ràng · 명확히 규정하다, 윤곽을 그리다
+## 7. salient /ˈseɪliənt/
 
-**Core meaning:** To `delineate` is to draw clear conceptual boundaries or describe something precisely enough that its parts, scope or limits become visible. Mental image: vẽ đường viền quanh một area để biết chính xác nó bắt đầu và kết thúc ở đâu.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng trước `point`, `feature`, `issue`, `fact`, `difference` để chỉ điều nổi bật và đáng chú ý nhất trong ngữ cảnh.
 
-**Pronunciation:** 4 syllables: de-**LIN**-e-ate.
+**Core meaning — English:** Most noticeable, important, or relevant among a group of facts, features, or issues.
 
-**Grammar & collocations:** `delineate the boundaries`, `delineate responsibilities`, `clearly delineate`, `delineate between` is less preferred than directly delineating categories/boundaries in careful prose.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung nhiều chi tiết nằm trên cùng một mặt phẳng nhưng một điểm nhô lên rõ rệt, khiến mắt bạn chú ý trước. Đó là điểm nổi bật có ý nghĩa đối với cuộc phân tích.
 
-**Register & nuance:** Formal-academic/legal/professional. Trong project/governance writing, `delineate responsibilities` nghĩa phân định rõ ai chịu trách nhiệm gì. Trong research, `delineate the scope` là xác định phạm vi rõ.
+**Phát âm:** 3 âm tiết, trọng âm đầu: **SAY**-lee-ent.
 
-**Linking:** `define` cho meaning hoặc exact nature. `outline` đưa structure/major points nhưng có thể chưa chi tiết. `distinguish` chỉ ra differences giữa things. `demarcate` rất gần về boundary và thường dùng physical, political hoặc conceptual boundary. `specify` nêu chính xác detail. `delineate` mang image mạnh của **clear boundaries/contours**.
+**Grammar & collocations:** `salient point` — điểm nổi bật/đáng chú ý; `salient feature` — đặc điểm nổi bật; `most salient issue` — vấn đề nổi bật nhất; `salient difference` — khác biệt quan trọng dễ nhận thấy.
 
-**Word family:** `delineation` (n).
+**Register & nuance:** `formal and analytical` — trang trọng và phân tích. Nó không chỉ nghĩa “important”; thường có thêm ý một đặc điểm nổi lên rõ trong số nhiều đặc điểm.
 
-**Examples:** `The agreement clearly delineates each party's responsibilities.` → Thỏa thuận phân định rõ trách nhiệm của mỗi bên. `The paper delineates the limits of the existing model.` → Bài nghiên cứu xác định rõ giới hạn của mô hình hiện tại.
+**Linking:** `important` — quan trọng nói chung; `prominent` — nổi bật/dễ thấy hoặc có vị trí quan trọng; `notable` — đáng chú ý; `striking` — gây ấn tượng mạnh vì rất dễ nhận thấy; `pertinent` — trực tiếp liên quan đến vấn đề đang xét.
 
----
+**Examples:** `The most salient issue is the lack of reliable data.` → Vấn đề nổi bật nhất là thiếu dữ liệu đáng tin cậy. `She summarized the salient features of the proposal.` → Cô ấy tóm tắt những đặc điểm nổi bật của đề xuất.
 
-## 14. contingent /kənˈtɪndʒənt/ — adjective — phụ thuộc vào một điều kiện/sự kiện khác · ~에 달린, 조건부의
-
-**Core meaning:** If A is `contingent on` B, A happens, remains true or becomes possible **only if B occurs or is satisfied**. Đây là từ rất hữu ích để biểu đạt conditional dependence một cách formal.
-
-**Pronunciation:** 3 syllables: con-**TIN**-gent.
-
-**Grammar & collocations:** `contingent on/upon`, `approval is contingent on...`, `contingent funding`, `contingent liability` (technical finance/legal).
-
-**Register & nuance:** Formal-professional/academic. `The offer is contingent on a background check` là câu rất tự nhiên trong US employment/legal context.
-
-**Linking:** `dependent on` rộng và neutral hơn. `conditional on` gần trực tiếp và rõ. `subject to` có thể nghĩa phụ thuộc/tuân theo condition hoặc rule: `subject to approval`. `provisional` = tạm thời, có thể thay đổi/chờ confirmation; không phải synonym chính xác. `contingent` nhấn **outcome depends on an uncertain condition**.
-
-**Word family:** `contingency` (n) = eventuality cần chuẩn bị hoặc condition; `contingency plan` = kế hoạch dự phòng.
-
-**Examples:** `The agreement is contingent on regulatory approval.` → Thỏa thuận phụ thuộc vào việc được cơ quan quản lý phê duyệt. `Our conclusion is contingent on the accuracy of the underlying data.` → Kết luận của chúng tôi phụ thuộc vào độ chính xác của dữ liệu nền.
+**Liên kết tiếng Hàn:** `두드러진` — nổi bật; `핵심적인` — mang tính cốt lõi, gần nghĩa khi điểm nổi bật cũng là điểm chính.
 
 ---
 
-## 15. notwithstanding /ˌnɑtwɪθˈstændɪŋ/ — preposition, adverb, conjunction-like formal connector — mặc dù; bất chấp · ~에도 불구하고
+## 8. pervasive /pɚˈveɪsɪv/
 
-**Core meaning:** `Notwithstanding` introduces something that might be expected to prevent or weaken the main statement, yet the main statement still holds. Nó gần `despite`, nhưng formal hơn đáng kể.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng trước noun như `pervasive problem`, `pervasive influence`, `pervasive belief`.
 
-**Pronunciation:** 4 syllables: not-with-**STAND**-ing. Trong thực tế có variation ở pronunciation của `with`, nhưng /wɪθ/ là cách dễ học.
+**Core meaning — English:** Present or spreading throughout a place, system, group, or situation in a way that is difficult to avoid.
 
-**Grammar & patterns:** `notwithstanding + noun phrase`: `Notwithstanding these concerns, ...` Nó cũng có thể đứng sau noun phrase: `These concerns notwithstanding, ...` — cấu trúc formal, rất C2. Trong legal English, `notwithstanding` có thể mang force kiểu “despite any conflicting provision”.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một thứ len vào rất nhiều khu vực của toàn bộ hệ thống, không chỉ xuất hiện ở một điểm riêng lẻ. Nó có mặt rộng đến mức khó tránh hoặc khó cô lập.
 
-**Register & American usage:** Formal-academic/legal. Trong everyday speech, `despite`, `even though` hoặc `still` tự nhiên hơn. Vì vậy C2 không có nghĩa là dùng `notwithstanding` ở mọi nơi; mastery là biết **khi nào register này phù hợp**.
+**Phát âm:** 3 âm tiết, trọng âm giữa: per-**VAY**-sive.
 
-**Linking:** `despite/in spite of` + noun/gerund, neutral hơn. `although/even though` + clause. `nevertheless/nonetheless` thường nối hai propositions/sentences. `notwithstanding` linh hoạt nhưng mang register cao.
+**Grammar & collocations:** `pervasive problem` — vấn đề lan rộng trong nhiều phần của hệ thống; `pervasive influence` — ảnh hưởng hiện diện rộng khắp; `pervasive culture` — văn hóa/thói quen thấm sâu trong tổ chức; `pervasive use` — việc sử dụng phổ biến rộng khắp.
+
+**Register & nuance:** `formal, often used for systemic or widespread phenomena` — trang trọng, thường dùng cho hiện tượng có tính hệ thống hoặc lan rộng. Từ này thường mạnh hơn `common` vì nó gợi sự hiện diện gần như xuyên suốt.
+
+**Linking:** `widespread` — phổ biến trên diện rộng, trung tính hơn; `prevalent` — phổ biến/thường gặp trong một population hoặc context; `ubiquitous` — có ở gần như mọi nơi, mạnh hơn và thường nói sự hiện diện; `systemic` — thuộc hoặc ăn sâu vào cả hệ thống, tập trung vào cấu trúc chứ không đơn thuần mức độ phổ biến.
+
+**Examples:** `The audit found a pervasive reporting problem across the organization.` → Cuộc kiểm toán phát hiện một vấn đề báo cáo lan rộng trong toàn tổ chức. `Smartphones have had a pervasive influence on daily communication.` → Điện thoại thông minh có ảnh hưởng sâu rộng đến giao tiếp hằng ngày.
+
+**Liên kết tiếng Hàn:** `만연한` — lan tràn/phổ biến rộng; `널리 퍼진` — lan rộng.
+
+---
+
+## 9. mitigate /ˈmɪtəˌɡeɪt/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ như `mitigate risk`, `mitigate harm`, `mitigate the impact`.
+
+**Core meaning — English:** To make something harmful, serious, or unpleasant less severe or damaging.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một tác hại không thể biến mất hoàn toàn nhưng có thể được hạ mức độ xuống. Mục tiêu là làm nhẹ hậu quả, rủi ro hoặc mức nghiêm trọng.
+
+**Phát âm:** 3 âm tiết, trọng âm đầu: **MIT**-i-gate.
+
+**Grammar & collocations:** `mitigate risk` — giảm mức độ rủi ro; `mitigate harm` — giảm tác hại; `mitigate the impact` — làm nhẹ ảnh hưởng; `measures to mitigate` — biện pháp nhằm giảm mức độ nghiêm trọng.
+
+**Register & nuance:** `formal, common in risk, policy, law, engineering and academic writing` — trang trọng, rất phổ biến trong quản trị rủi ro, chính sách, pháp lý, kỹ thuật và học thuật. Nó thường không có nghĩa loại bỏ hoàn toàn vấn đề.
+
+**Linking:** `reduce` — giảm nói chung; `alleviate` — làm nhẹ đau đớn/gánh nặng/khó khăn; `minimize` — giảm xuống mức thấp nhất có thể hoặc đôi khi “coi nhẹ”; `offset` — bù lại một tác động bằng yếu tố khác; `prevent` — ngăn không cho xảy ra, mạnh và khác bản chất với giảm hậu quả.
+
+**Examples:** `The new controls are designed to mitigate financial risk.` → Các biện pháp kiểm soát mới được thiết kế để giảm rủi ro tài chính. `Early action can mitigate the impact of the disruption.` → Hành động sớm có thể làm nhẹ tác động của sự gián đoạn.
+
+**Liên kết tiếng Hàn:** `완화하다` — làm dịu/làm giảm; `경감하다` — giảm nhẹ, trang trọng hơn.
+
+---
+
+## 10. exacerbate /ɪɡˈzæsɚˌbeɪt/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ, thường là một problem, conflict, condition hoặc inequality vốn đã tồn tại.
+
+**Core meaning — English:** To make an existing problem, bad situation, or negative condition worse.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một vấn đề đã có sẵn và một hành động khiến mức độ của nó tăng thêm. Từ này không nói tạo ra vấn đề từ con số không mà nhấn mạnh làm tình trạng xấu hơn.
+
+**Phát âm:** 4 âm tiết, trọng âm chính ở `ZAS`: ig-**ZAS**-er-bate.
+
+**Grammar & collocations:** `exacerbate a problem` — làm một vấn đề nghiêm trọng hơn; `exacerbate tensions` — làm căng thẳng tăng lên; `exacerbate inequality` — làm bất bình đẳng nặng hơn; `further exacerbate` — làm tình hình còn xấu hơn nữa.
+
+**Register & nuance:** `formal and strongly negative` — trang trọng và mang sắc thái tiêu cực rõ. Trong hội thoại, `make it worse` — làm nó tệ hơn, thường tự nhiên hơn.
+
+**Linking:** `worsen` — làm xấu đi, trung tính và trực tiếp hơn; `aggravate` — làm nặng thêm, rất gần nghĩa và còn có thể dùng cho bệnh/đau; `intensify` — làm mạnh hơn, có thể trung tính hoặc tiêu cực; `compound` — làm vấn đề nặng hơn bằng cách thêm một khó khăn mới.
+
+**Examples:** `Poor communication exacerbated the conflict.` → Giao tiếp kém làm xung đột nghiêm trọng hơn. `The delay could exacerbate existing shortages.` → Sự chậm trễ có thể làm tình trạng thiếu hụt hiện tại nặng hơn.
+
+**Liên kết tiếng Hàn:** `악화시키다` — làm xấu đi; `심화시키다` — làm sâu/nặng thêm.
+
+---
+
+## 11. undermine /ˌʌndɚˈmaɪn/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ như `undermine trust`, `undermine confidence`, `undermine an argument`.
+
+**Core meaning — English:** To gradually weaken the strength, effectiveness, authority, or confidence of something.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung nền móng bị lấy bớt đất từ phía dưới. Bề ngoài công trình có thể vẫn đứng, nhưng sức chịu đựng đã yếu dần. Từ này thường mô tả sự suy yếu không nhất thiết xảy ra ngay lập tức.
+
+**Phát âm:** Trọng âm chính ở âm cuối: under-**MINE**.
+
+**Grammar & collocations:** `undermine trust` — làm suy yếu lòng tin; `undermine confidence` — làm giảm sự tự tin/niềm tin; `undermine credibility` — làm giảm độ đáng tin; `undermine an argument` — làm một lập luận mất sức nặng.
+
+**Register & nuance:** Có thể dùng cả formal lẫn general English. Thường hàm ý ảnh hưởng tiêu cực diễn ra từ bên trong hoặc dần dần, chứ không phải phá hủy công khai ngay tức thì.
+
+**Linking:** `weaken` — làm yếu, rộng và trung tính hơn; `erode` — bào mòn dần, rất gần về hình ảnh với trust/confidence; `damage` — gây thiệt hại nói chung; `discredit` — làm mất uy tín bằng cách khiến người khác không còn tin; `sabotage` — cố tình phá hoại, mạnh hơn và thường có chủ ý.
+
+**Examples:** `Repeated errors undermined confidence in the system.` → Các lỗi lặp đi lặp lại làm suy yếu niềm tin vào hệ thống. `The new evidence undermines the original argument.` → Bằng chứng mới làm lập luận ban đầu mất sức nặng.
+
+**Liên kết tiếng Hàn:** `약화시키다` — làm suy yếu; `신뢰를 훼손하다` — làm tổn hại lòng tin.
+
+---
+
+## 12. reconcile /ˈrekənˌsaɪl/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ. Mẫu quan trọng là `reconcile A with B` — dung hòa/làm cho A và B có thể tồn tại cùng nhau; hoặc `reconcile differences` — giải quyết khác biệt.
+
+**Core meaning — English:** To find a way for two apparently conflicting ideas, needs, facts, or positions to be compatible.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung hai điều đang kéo theo hai hướng khác nhau. Thay vì chọn bỏ một bên, bạn tìm cách sắp xếp lại để cả hai có thể cùng tồn tại hoặc được giải thích trong một khung chung.
+
+**Grammar & collocations:** `reconcile A with B` — dung hòa A với B; `reconcile conflicting goals` — dung hòa các mục tiêu xung đột; `reconcile differences` — giải quyết/thu hẹp khác biệt; `be difficult to reconcile` — khó làm cho nhất quán với nhau.
+
+**Register & nuance:** `formal, analytical, also used in relationships` — trang trọng và phân tích, nhưng cũng dùng khi con người hòa giải. Trong academic writing, nó thường nói về việc làm cho hai facts/theories/positions không còn mâu thuẫn trực tiếp.
+
+**Linking:** `resolve` — giải quyết một vấn đề/xung đột; `harmonize` — làm các phần phù hợp và phối hợp với nhau; `mediate` — đứng giữa giúp các bên giải quyết tranh chấp; `square A with B` — làm A phù hợp với B, cách nói idiomatic và thường dùng khi hai điều có vẻ mâu thuẫn.
+
+**Examples:** `The company must reconcile growth with environmental responsibility.` → Công ty phải dung hòa tăng trưởng với trách nhiệm môi trường. `It is difficult to reconcile these findings with the earlier study.` → Khó làm cho những phát hiện này phù hợp với nghiên cứu trước đó.
+
+**Liên kết tiếng Hàn:** `조화시키다` — làm hài hòa; `화해시키다` — hòa giải con người/các bên xung đột.
+
+---
+
+## 13. delineate /dɪˈlɪniˌeɪt/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ như `delineate boundaries`, `delineate responsibilities`, `delineate the difference`.
+
+**Core meaning — English:** To describe, define, or mark the exact boundaries, features, or limits of something clearly.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung dùng bút vẽ một đường ranh rõ quanh từng khu vực để mọi người biết phần nào thuộc về đâu. Với ý tưởng, từ này nghĩa là phân định rõ phạm vi hoặc đặc điểm.
+
+**Phát âm:** 4 âm tiết, trọng âm chính ở `LIN`: de-**LIN**-e-ate.
+
+**Grammar & collocations:** `delineate responsibilities` — phân định rõ trách nhiệm; `delineate boundaries` — xác định rõ ranh giới; `clearly delineate` — phân định/mô tả thật rõ; `delineate the scope` — xác định rõ phạm vi.
+
+**Register & nuance:** `formal and precise` — trang trọng và nhấn độ chính xác. Trong hội thoại, người Mỹ thường dùng `define`, `spell out`, `draw the line` tùy ngữ cảnh; `delineate` phù hợp hơn với policy, technical và academic writing.
+
+**Linking:** `define` — định nghĩa/xác định rõ, rộng hơn; `distinguish` — phân biệt hai thứ; `specify` — nêu cụ thể chi tiết; `outline` — phác thảo các điểm chính nhưng thường ít chi tiết hơn; `demarcate` — đánh dấu ranh giới, đặc biệt ranh giới vật lý/chính thức.
+
+**Examples:** `The agreement clearly delineates each party's responsibilities.` → Thỏa thuận phân định rõ trách nhiệm của từng bên. `The study attempts to delineate the boundary between the two concepts.` → Nghiên cứu cố gắng xác định rõ ranh giới giữa hai khái niệm.
+
+**Liên kết tiếng Hàn:** `명확히 규정하다` — quy định/xác định rõ; `경계를 구분하다` — phân định ranh giới.
+
+---
+
+## 14. contingent /kənˈtɪndʒənt/
+
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Mẫu quan trọng nhất là `be contingent on/upon something` — phụ thuộc vào một điều kiện nào đó.
+
+**Core meaning — English:** Depending on something else that must happen or be true before a result can occur.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một kết quả bị treo trên một điều kiện. Nếu điều kiện đó xảy ra, kết quả có thể tiếp tục; nếu không, toàn bộ kết quả có thể thay đổi hoặc không xảy ra.
+
+**Grammar & collocations:** `contingent on approval` — phụ thuộc vào việc được phê duyệt; `contingent on funding` — phụ thuộc vào nguồn tài trợ; `offer is contingent on...` — đề nghị chỉ có hiệu lực nếu điều kiện... được đáp ứng; `contingent liability` — nghĩa vụ tài chính tiềm tàng phụ thuộc một sự kiện tương lai, thuật ngữ tài chính/pháp lý.
+
+**Register & nuance:** `formal-professional, academic and legal` — trang trọng, chuyên nghiệp, học thuật và pháp lý. Trong đời thường, `depends on` — phụ thuộc vào, tự nhiên hơn.
+
+**Linking:** `dependent on` — phụ thuộc vào, rộng và trung tính hơn; `conditional on` — có điều kiện là, gần nghĩa trực tiếp; `subject to` — phụ thuộc vào/chịu sự chi phối của một approval, rule hoặc condition; `provisional` — tạm thời và có thể thay đổi, không phải đồng nghĩa nhưng thường xuất hiện trong tình huống chưa hoàn tất điều kiện.
+
+**Examples:** `The agreement is contingent on regulatory approval.` → Thỏa thuận chỉ có hiệu lực nếu được cơ quan quản lý phê duyệt. `Our conclusion is contingent on the accuracy of the underlying data.` → Kết luận của chúng tôi phụ thuộc vào độ chính xác của dữ liệu nền.
+
+**Liên kết tiếng Hàn:** `~에 달려 있는` — phụ thuộc vào; `조건부의` — có điều kiện.
+
+---
+
+## 15. notwithstanding /ˌnɑtwɪθˈstændɪŋ/
+
+**Loại từ & vị trí trong câu:** Thường là `preposition` — giới từ trang trọng, và có thể hoạt động như adverb/concessive connector trong cấu trúc rất formal. Vị trí phổ biến: `Notwithstanding + noun phrase, main clause`.
+
+**Core meaning — English:** Despite a fact, condition, or difficulty that might be expected to prevent the main statement from being true.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung có một trở ngại đáng lẽ có thể ngăn kết luận chính, nhưng kết luận đó vẫn đứng vững. Từ này tạo quan hệ “dù có điều kia, điều này vẫn đúng” với sắc thái rất trang trọng.
+
+**Phát âm:** 4 âm tiết, trọng âm chính ở `STAND`: not-with-**STAND**-ing.
+
+**Grammar & collocations:** `Notwithstanding these concerns, ...` — bất chấp/dù có những lo ngại này,...; `Notwithstanding the evidence, ...` — mặc dù có bằng chứng đó,...; `These concerns notwithstanding, ...` — dù có những lo ngại này,... Đây là vị trí đảo ra sau noun phrase và mang phong cách rất formal.
+
+**Register & nuance:** `highly formal, academic and especially legal` — rất trang trọng, dùng trong học thuật và đặc biệt phổ biến trong pháp lý. Trong hội thoại đời thường, `despite`, `even though` hoặc `still` thường tự nhiên hơn. C2 ở đây là biết chọn đúng register, không phải thay mọi từ đơn giản bằng từ khó.
+
+**Linking:** `despite/in spite of` — mặc dù/bất chấp, đi với noun hoặc gerund và trung tính hơn; `although/even though` — mặc dù, đi với clause; `nevertheless/nonetheless` — tuy vậy, thường nối hai mệnh đề/ý hoàn chỉnh; `regardless of` — bất kể, nhấn rằng kết quả không thay đổi vì yếu tố kia.
 
 **Examples:** `Notwithstanding these limitations, the study provides useful evidence.` → Mặc dù có những hạn chế này, nghiên cứu vẫn cung cấp bằng chứng hữu ích. `The risks notwithstanding, the board approved the proposal.` → Bất chấp các rủi ro, hội đồng vẫn phê duyệt đề xuất.
+
+**Liên kết tiếng Hàn:** `~에도 불구하고` — mặc dù/bất chấp; đây là cầu nối gần nhất về chức năng nhượng bộ.
 
 ---
 
