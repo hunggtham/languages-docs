@@ -14,6 +14,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## science
 
 - [Climate And Environment](./science/01-climate-and-environment.md)
+- [Research And Innovation](./science/02-research-and-innovation.md)
 
 ## health
 
