@@ -41,3 +41,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 35. [Media and news](./35-media-and-news.md) — báo chí, phát sóng và nội dung truyền thông.
 36. [Environmental responsibility](./36-environmental-responsibility.md) — khí hậu, tài nguyên và bảo vệ thiên nhiên.
 37. [Interpersonal communication](./37-interpersonal-communication.md) — lời nói, cử chỉ và phản ứng xã hội.
+38. [Time and schedules](./38-time-and-schedules.md) — ngày, giờ, giai đoạn và lịch định kỳ.
+39. [Dining and flavors](./39-dining-and-flavors.md) — nhà hàng, hương vị và món ăn.
+40. [Learning strategies](./40-learning-strategies.md) — tập trung, phương pháp và động lực học.
