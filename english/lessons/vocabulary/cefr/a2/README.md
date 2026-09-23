@@ -50,3 +50,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 44. [Accommodation and tours](./44-accommodation-and-tours.md) — chỗ ở, phòng và lịch trình tham quan.
 45. [Formal and informal writing](./45-formal-and-informal-writing.md) — thông báo, lập luận và ngữ pháp viết.
 46. [Personal finance](./46-personal-finance.md) — thu nhập, chi phí, vay và đầu tư.
+47. [Music and visual arts](./47-music-and-visual-arts.md) — nhạc cụ, biểu diễn và tác phẩm nghệ thuật.
+48. [Severe weather and seasons](./48-severe-weather-and-seasons.md) — bão, sương mù và các mùa.
+49. [Body parts and movement](./49-body-parts-and-movement.md) — cơ thể, cơ quan và vận động.
