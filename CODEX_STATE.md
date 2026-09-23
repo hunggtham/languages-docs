@@ -24,5 +24,5 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- A1 core topics 01–20 are now complete for this curriculum pass; the next level to generate is A2 lesson `01`.
-- A2 lessons `01`–`11` are now generated and validated; continue with A2 lesson `12`.
+- A1 core topics 01–20 are now complete for this curriculum pass; the next level to generate is A2.
+- A2 lessons `01`–`12` are now generated and validated; continue with A2 lesson `13`.

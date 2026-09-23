@@ -15,3 +15,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 9. [Money and budgeting](./09-money-and-budgeting.md) — ngân sách, thu nhập, chi phí và tiết kiệm.
 10. [Culture and media](./10-culture-and-media.md) — phim, sách, âm nhạc và trải nghiệm văn hóa.
 11. [Relationships and feelings](./11-relationships-and-feelings.md) — tin tưởng, cảm xúc và giao tiếp trong quan hệ.
+12. [Weather and forecast](./12-weather-and-forecast.md) — dự báo, nhiệt độ và chuẩn bị trước thay đổi thời tiết.
