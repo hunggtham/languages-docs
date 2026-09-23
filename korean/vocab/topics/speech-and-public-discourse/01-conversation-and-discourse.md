@@ -4,6 +4,7 @@
 
 팟캐스트 제작진이 진행자의 말투와 설명 방식을 점검하며, 친근함·직설성·신중함의 차이를 배우는 장면을 다룬다.
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 잡담하다
 
 **품사:** 동사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 한담
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 멘트
 
 **품사:** 명사; 외래어·구어체
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 대놓고
 
 **품사:** 부사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 팩폭
 
 **품사:** 명사; 신조어·구어체
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 부연
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 진중하다
 
 **품사:** 형용사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 메아리
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 다분하다
 
 **품사:** 형용사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 염두에 두지 않다
 
 **품사:** 관용적 동사구
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 장황하다
 
 **품사:** 형용사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 섣부르다
 
 **품사:** 형용사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 정석
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: speech-and-public-discourse -->
 ### 막연하다
 
 **품사:** 형용사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: speech-and-public-discourse -->
 ### 예견
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *foresight*, *forecast*, *anticipation* — *foresight*는 앞을 내다보는 통찰, *forecast*는 자료 기반 전망, *anticipation*은 일어날 일을 예상하고 준비함이다.
 
 ## 읽기 지문 — 말의 온도를 조절하는 진행자
+
+---
 
 <!-- passage_word_count: 71 Korean eojeol; target_set: 잡담하다, 한담, 멘트, 대놓고, 팩폭, 부연, 진중하다, 메아리, 다분하다, 염두에 두지 않다, 장황하다, 섣부르다, 정석, 막연하다, 예견 -->
 

@@ -4,6 +4,7 @@
 
 가까워지는 관계의 힘과 부담, 재회와 화해, 그리고 애매한 연애 신호를 구분해 본다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 친밀
 
 **품사:** 명사; `친밀하다`의 어근
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 유대감
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 애착
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 돈독
 
 **품사:** 명사; 주로 `돈독하다`, `돈독해지다`로 사용
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 끈끈하다
 
 **품사:** 형용사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 재회
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 화해
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 외사랑
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 꺼리다
 
 **품사:** 동사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 집착
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 집요하다
 
 **품사:** 형용사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 매달리다
 
 **품사:** 동사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 귀띔
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 어장관리
 
 **품사:** 명사; 신조어·구어체
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: relationships-and-emotional-recovery -->
 ### 밀당
 
 **품사:** 명사; 신조어·구어체
@@ -363,6 +378,8 @@
 **영어 참고:** *push-pull*, *playing hard to get*, *mixed signals* — *push-pull*은 밀고 당기는 패턴, *playing hard to get*은 일부러 쉽게 다가가지 않음, *mixed signals*는 상대가 혼란스러운 신호를 보냄이다.
 
 ## 읽기 지문 — 다시 만난 사람들의 거리
+
+---
 
 <!-- passage_word_count: 82 Korean eojeol; target_set: 친밀, 유대감, 애착, 돈독, 끈끈하다, 재회, 화해, 외사랑, 꺼리다, 집착, 집요하다, 매달리다, 귀띔, 어장관리, 밀당 -->
 

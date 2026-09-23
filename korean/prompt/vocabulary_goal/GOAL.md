@@ -8,6 +8,23 @@ Expand the Korean library into topic-based lessons that help learners recognize 
 
 Do not create a file merely because words appeared next to one another in a source. First choose a coherent semantic field, situation, mental model, or mini-story, then select supporting words that form a useful learning network.
 
+## Mandatory lexical selection gate
+
+Every new target headword must satisfy at least one of these two requirements:
+
+1. `advanced-native / C2-equivalent`: the word expresses abstract, precise, inferential, idiomatic, literary, formal, discourse-level, or highly nuanced meaning expected in advanced native Korean usage.
+2. `contemporary-native-hot`: the word is actively used by Korean native speakers in current conversation, messaging, workplace talk, online communities, media, or news.
+
+Do not treat rarity, length, dictionary presence, or appearance in a PDF as evidence of C2-level value. Common A1–B2 words may appear as supporting language in explanations, collocations, examples, and passages, but they must not become new target headings unless the task explicitly requests foundational vocabulary.
+
+For each new target, record hidden metadata in the entry or file:
+
+```html
+<!-- lexical_basis: advanced_native | contemporary_native_hot; register: ...; context: ... -->
+```
+
+For contemporary-native-hot items, verify that the usage is current rather than stale slang. For advanced-native items, explain the nuance, register, collocations, and contexts in which native speakers would or would not use the word. If an existing legacy item does not satisfy either basis, preserve it but label it as legacy/review rather than presenting it as new C2 coverage.
+
 ## Directory and file structure
 
 New lessons use this structure:
@@ -56,7 +73,8 @@ Prefer natural Korean from daily life, 잡담, workplaces, journalism, and conte
 3. Choose a topic folder and subtopic file, continuing the local numbering for that folder.
 4. Write the entries, divide the headwords into `target_set` groups of at most 15, and create the corresponding passages.
 5. Manually check that learner-facing titles/headings are in Korean, every target appears naturally, translations preserve the meaning, README links are correct, and source text was not copied.
-6. Once a lesson batch exists, update the topic README and `korean/vocab/CODEX_STATE.md` with the next folder/file, completed target sets, and checkpoint notes. Create the state file only when the first content batch begins.
-7. Run the appropriate repository checks, inspect the diff, and commit only the batch files and related state.
+6. Audit every new target for `lexical_basis`, current register, duplicate sense coverage, and compliance with the C2-equivalent or contemporary-native-hot gate. Demote common supporting words to prose rather than claiming them as advanced targets.
+7. Once a lesson batch exists, update the topic README and `korean/vocab/CODEX_STATE.md` with the next folder/file, completed target sets, and checkpoint notes. Create the state file only when the first content batch begins.
+8. Run the appropriate repository checks, inspect the diff, and commit only the batch files and related state.
 
 This is a continuous expansion goal. One topic folder, one file, or one 15-word batch is only a checkpoint; never consider the entire goal complete after a single batch.

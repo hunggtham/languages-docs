@@ -4,6 +4,7 @@
 
 사회 집단의 변화와 개인의 소속을 설명하면서, 낙인과 지원의 언어를 더 신중하게 선택하는 장면을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 분화되다
 
 **품사:** 동사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 전이
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 집합체
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 부조화
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 가시적
 
 **품사:** 관형사적 명사·형용사적 용법
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 극명하다
 
 **품사:** 형용사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 낙오자
 
 **품사:** 명사
@@ -172,102 +179,7 @@
 
 ---
 
-### 노처녀
-
-**품사:** 명사; 낡거나 차별적으로 들릴 수 있는 표현
-
-**핵심 의미:** 결혼하지 않은 나이 든 여성을 가리키던 전통적 표현이다.
-
-**베트남어 뜻:** phụ nữ lớn tuổi chưa kết hôn; cách gọi cổ và dễ xúc phạm.
-
-**뉘앙스와 사용법:** 결혼 여부와 나이를 여성의 가치처럼 평가하는 성차별적 뉘앙스가 강하다. 현대에는 `비혼 여성`, `미혼 여성`처럼 당사자가 선택한 표현을 우선한다.
-
-**재사용 가능한 콜로케이션·청크:** `노처녀라는 표현`, `노처녀 콤플렉스`, `노처녀 취급을 하다`.
-
-**자주 쓰는 문형과 성분:** 과거 자료·문학·차별 언어 분석에서 인용할 때 주로 쓴다.
-
-**사회적 관계·주제별 register:** 현대의 일상 호칭으로 사용하면 무례하다. 역사·미디어 비평에서 문제점을 설명할 때만 제한적으로 다룬다.
-
-**예문:** 연구자는 과거 신문에 반복된 `노처녀`라는 말이 여성의 삶을 어떻게 축소했는지 분석했다.
-
-**어휘 연결:** `미혼 여성`은 혼인 상태를 중립적으로 말하고, `비혼 여성`은 결혼하지 않음을 하나의 선택이나 정체성으로 표현하며, `노처녀`는 나이와 결혼을 결핍처럼 취급한다.
-
-**영어 참고:** *spinster*, *unmarried woman*, *single woman* — *spinster*는 낡고 모욕적인 표현, *unmarried woman*은 혼인 상태의 중립어, *single woman*은 현재의 생활 상태다.
-
----
-
-### 과부
-
-**품사:** 명사
-
-**핵심 의미:** 배우자를 잃은 여성을 가리키는 전통적 명칭이다.
-
-**베트남어 뜻:** góa phụ.
-
-**뉘앙스와 사용법:** 사별이라는 사실을 설명하는 말이지만, 전통 사회에서는 여성의 정체성을 배우자의 생존 여부로만 규정하는 맥락이 있었다. 당사자의 선호를 먼저 확인한다.
-
-**재사용 가능한 콜로케이션·청크:** `과부가 되다`, `과부 가족`, `과부의 삶`, `과부를 돕다`.
-
-**자주 쓰는 문형과 성분:** `N이 과부가 되다`; 역사·가족·복지 문맥에서 사용한다.
-
-**사회적 관계·주제별 register:** 법률·복지·역사 기록에서는 쓰이지만, 일상에서는 `배우자를 잃은 사람`, `사별한 여성`이 더 존중하는 표현일 수 있다.
-
-**예문:** 지원 제도는 과부라는 이름보다 사별 후 필요한 주거와 돌봄을 기준으로 설계되어야 한다.
-
-**어휘 연결:** `미망인`은 문어적이고 전통적인 표현, `과부`는 일상·역사어지만 낡은 역할 기대가 붙을 수 있고, `사별한 사람`은 사실과 현재 상황을 중립적으로 말한다.
-
-**영어 참고:** *widow*, *bereaved spouse*, *surviving spouse* — *widow*는 일반적인 명칭, *bereaved spouse*는 상실 경험, *surviving spouse*는 법률·행정의 중립어다.
-
----
-
-### 자선
-
-**품사:** 명사
-
-**핵심 의미:** 어려운 사람이나 공익을 위해 돈·물품·서비스를 조건 없이 돕는 일이다.
-
-**베트남어 뜻:** từ thiện, lòng từ thiện.
-
-**뉘앙스와 사용법:** 개인의 선행과 단체 활동을 모두 가리키지만, 일회성 시혜만으로 구조적 문제를 해결할 수 없다는 비판도 함께 논의된다.
-
-**재사용 가능한 콜로케이션·청크:** `자선 단체`, `자선 활동`, `자선 기부`, `자선 사업`.
-
-**자주 쓰는 문형과 성분:** `자선에 참여하다`; `자선을 베풀다`; 기부·복지·구호와 결합한다.
-
-**사회적 관계·주제별 register:** 공익·종교·비영리·모금의 중립적 표현이다.
-
-**예문:** 기업은 자선 캠페인보다 지역 주민이 자립할 수 있는 교육 사업에 투자했다.
-
-**어휘 연결:** `기부`는 돈·물품을 내놓는 행위, `자선`은 돕는 목적과 윤리적 태도, `복지`는 권리와 제도로 지속적인 삶을 보장하는 체계다.
-
-**영어 참고:** *charity*, *philanthropy*, *almsgiving* — *charity*는 도움과 단체 활동, *philanthropy*는 장기적 공익 투자, *almsgiving*은 종교·도덕적 시혜를 강조한다.
-
----
-
-### 확신
-
-**품사:** 명사
-
-**핵심 의미:** 어떤 사실이나 판단이 옳다고 강하게 믿는 마음이다.
-
-**베트남어 뜻:** sự chắc chắn, niềm tin vững chắc.
-
-**뉘앙스와 사용법:** 근거 있는 자신감일 수도 있고, 확인 없이 지나치게 굳어진 믿음일 수도 있다. `확신하다`, `확신을 갖다`로 활용한다.
-
-**재사용 가능한 콜로케이션·청크:** `확신을 갖다`, `확신이 서다`, `확신에 차다`, `확신을 주다`.
-
-**자주 쓰는 문형과 성분:** `N에 확신을 갖다`; `확신이 들다/서다`; 선택·예측·자기 능력과 결합한다.
-
-**사회적 관계·주제별 register:** 일상·업무·논설에서 모두 쓰이는 중립어다.
-
-**예문:** 자료를 다시 확인하고 나서야 그 결정이 옳다는 확신이 섰다.
-
-**어휘 연결:** `믿음`은 넓은 신뢰와 신념, `자신감`은 자신의 능력에 대한 믿음, `확신`은 판단의 옳음을 강하게 믿는 상태다.
-
-**영어 참고:** *conviction*, *confidence*, *certainty* — *conviction*은 강한 신념, *confidence*는 능력과 판단에 대한 자신감, *certainty*는 의심할 여지가 없다고 느끼는 확실성이다.
-
----
-
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 기대치
 
 **품사:** 명사
@@ -292,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 포용
 
 **품사:** 명사
@@ -316,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 연대
 
 **품사:** 명사
@@ -340,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: social-change-and-belonging -->
 ### 편견
 
 **품사:** 명사
@@ -364,7 +279,9 @@
 
 ## 읽기 지문 — 이름보다 참여를 먼저 보기
 
-<!-- passage_word_count: 80 Korean eojeol; target_set: 분화되다, 전이, 집합체, 부조화, 가시적, 극명하다, 낙오자, 노처녀, 과부, 자선, 확신, 기대치, 포용, 연대, 편견 -->
+---
+
+<!-- passage_word_count: 80 Korean eojeol; target_set: 분화되다, 전이, 집합체, 부조화, 가시적, 극명하다, 낙오자, 기대치, 포용, 연대, 편견 -->
 
 지역 센터의 보고서는 사회가 여러 집단으로 분화되면서 세대의 불안이 가족에게 전이되는 과정을 살폈다. 주민 공동체를 하나의 집합체로만 보면 내부의 부조화와 서로 다른 필요가 보이지 않지만, 통계를 보면 지원 격차가 가시적이고 지역별 차이도 극명했다. 보고서는 `낙오자`, `노처녀`, `과부` 같은 이름이 사람을 고정할 수 있다고 지적하며, 자선보다 권리와 포용을 중심에 두자고 제안했다. 서로 다른 단체가 연대하면 변화가 가능하다는 확신이 생겼고, 기관의 기대치를 낮추는 대신 누구나 참여할 수 있는 구조를 만들자는 데 의견이 모였다. 편견을 줄이는 첫걸음은 이름보다 사람의 경험을 먼저 듣는 일이었다.
 

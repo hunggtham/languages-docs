@@ -4,6 +4,7 @@
 
 가족 사업이 새로운 계약과 업무 기준을 준비하고, 다음 세대가 책임을 이어받는 과정을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 청약
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 예치
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 제안
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 과업
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 확보하다
 
 **품사:** 동사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 분배
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 상시
 
 **품사:** 명사·부사적 관형 표현
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 추후
 
 **품사:** 명사·부사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 표준
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 예비
 
 **품사:** 명사·관형사적 용법
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 증대
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 가업
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 대물림하다
 
 **품사:** 동사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 상용
 
 **품사:** 명사·관형사적 용법
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: work-planning-and-business-succession -->
 ### 자칭하다
 
 **품사:** 동사
@@ -363,6 +378,8 @@
 **영어 참고:** *call oneself*, *self-proclaimed*, *claim to be* — *self-proclaimed*는 자격이 검증되지 않았다는 비판, *call oneself*는 중립적 자기 명명, *claim to be*는 사실성에 의문을 남긴다.
 
 ## 읽기 지문 — 가업을 다음 단계로 넘기다
+
+---
 
 <!-- passage_word_count: 65 Korean eojeol; target_set: 청약, 예치, 제안, 과업, 확보하다, 분배, 상시, 추후, 표준, 예비, 증대, 가업, 대물림하다, 상용, 자칭하다 -->
 

@@ -4,6 +4,7 @@
 
 상실 뒤에 찾아오는 고립감과 자기 의심을 인정하고, 관계와 작은 실천을 통해 다시 일어서는 과정을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 고독하다
 
 **품사:** 형용사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 비참하다
 
 **품사:** 형용사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 연약하다
 
 **품사:** 형용사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 낙담
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 결핍
 
 **품사:** 명사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 초조
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 허무
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 후유증
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 치유
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 치오르다
 
 **품사:** 동사
@@ -244,54 +254,7 @@
 
 ---
 
-### 간직
-
-**품사:** 명사; `간직하다`의 어근으로도 사용
-
-**핵심 의미:** 사람·기억·감정·물건을 소중히 보관하거나 마음속에 오래 지니다.
-
-**베트남어 뜻:** sự gìn giữ, lưu giữ, ấp ủ.
-
-**뉘앙스와 사용법:** 단순히 보관하는 `보관`보다 애정과 개인적 의미가 강하다. 명사로는 `간직이 되다`보다 `간직하다` 활용이 훨씬 자연스럽다.
-
-**재사용 가능한 콜로케이션·청크:** `추억을 간직하다`, `마음에 간직하다`, `소중히 간직하다`, `사진을 간직하다`.
-
-**자주 쓰는 문형과 성분:** `N을/를 간직하다`; 추억·비밀·마음·사진·선물이 목적어로 온다.
-
-**사회적 관계·주제별 register:** 정서적이고 문학적인 표현이다. 물건의 단순 보관에는 `보관하다`, 정보를 유지하는 데는 `기억하다`가 더 적절하다.
-
-**예문:** 그는 오래된 편지를 버리지 않고 첫사랑의 기억으로 간직했다.
-
-**어휘 연결:** `보관하다`는 물건을 안전하게 두는 행위, `기억하다`는 머릿속에 떠올리는 능력, `간직하다`는 소중히 지키는 정서까지 포함한다.
-
-**영어 참고:** *cherish*, *keep*, *hold on to* — *cherish*는 애정을 담아 소중히 함, *keep*은 넓은 보관, *hold on to*는 놓지 않고 지킴을 말한다.
-
----
-
-### 현명하다
-
-**품사:** 형용사
-
-**핵심 의미:** 상황을 깊이 이해하고 감정과 결과를 고려하여 바르고 지혜롭게 판단하다.
-
-**베트남어 뜻:** khôn ngoan, sáng suốt, minh triết.
-
-**뉘앙스와 사용법:** 단순히 머리가 좋다는 뜻이 아니라 경험과 배려를 바탕으로 선택한다는 평가다. 사람, 선택, 태도에 모두 쓴다.
-
-**재사용 가능한 콜로케이션·청크:** `현명한 선택`, `현명하게 대처하다`, `현명한 사람`, `현명한 판단`.
-
-**자주 쓰는 문형과 성분:** `N이/가 현명하다`; `현명하게 + 동사`; 선택·판단·대처 방식과 잘 결합한다.
-
-**사회적 관계·주제별 register:** 중립적이지만 칭찬의 성격이 강하다. 직접 충고할 때는 상대를 가르치는 듯 들리지 않게 주의한다.
-
-**예문:** 지금 당장 결론을 내리기보다 하루 더 생각하는 편이 현명하다.
-
-**어휘 연결:** `똑똑하다`는 지적 능력, `영리하다`는 빠른 판단이나 요령, `현명하다`는 장기적인 결과와 사람을 함께 고려하는 지혜를 말한다.
-
-**영어 참고:** *wise*, *sensible*, *prudent* — *wise*는 깊은 지혜, *sensible*은 상식적인 판단, *prudent*는 위험을 피하는 신중함이다.
-
----
-
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 생생히
 
 **품사:** 부사
@@ -316,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: relationships-and-emotional-recovery -->
 ### 면목
 
 **품사:** 명사
@@ -340,31 +304,7 @@
 
 ---
 
-### 자원봉사
-
-**품사:** 명사
-
-**핵심 의미:** 보수나 강제가 아니라 자신의 의지로 시간과 노동을 제공하는 활동이다.
-
-**베트남어 뜻:** hoạt động tình nguyện.
-
-**뉘앙스와 사용법:** `봉사`보다 참여의 자발성과 사회적 활동의 성격이 분명하다. 사람을 지칭할 때는 `자원봉사자`라고 한다.
-
-**재사용 가능한 콜로케이션·청크:** `자원봉사 활동`, `자원봉사에 참여하다`, `자원봉사자를 모집하다`, `자원봉사 시간`.
-
-**자주 쓰는 문형과 성분:** `자원봉사에 참여하다/나가다`; `자원봉사자로 활동하다`; 복지·환경·교육 분야와 결합한다.
-
-**사회적 관계·주제별 register:** 공공기관·학교·비영리단체에서 중립적이고 공식적인 표현이다.
-
-**예문:** 그는 마음을 회복한 뒤 지역 아동센터에서 자원봉사를 시작했다.
-
-**어휘 연결:** `봉사`는 타인을 돕는 넓은 말, `자원봉사`는 자발적으로 참여하는 활동, `기부`는 돈이나 물품을 제공하는 행위다.
-
-**영어 참고:** *volunteering*, *volunteer work*, *community service* — *volunteering*은 자발적 활동, *volunteer work*는 제공한 노동, *community service*는 지역사회 기여나 법적 명령까지 포함할 수 있다.
-
-## 읽기 지문 — 다시 사람들 곁으로
-
-<!-- passage_word_count: 79 Korean eojeol; target_set: 고독하다, 비참하다, 연약하다, 낙담, 결핍, 초조, 허무, 후유증, 치유, 치오르다, 간직, 현명하다, 생생히, 면목, 자원봉사 -->
+<!-- passage_word_count: 79 Korean eojeol; target_set: 고독하다, 비참하다, 연약하다, 낙담, 결핍, 초조, 허무, 후유증, 치유, 치오르다, 생생히, 면목 -->
 
 회사를 그만둔 뒤 민서는 혼자 있는 시간이 길어지면서 깊은 고독을 느꼈다. 실패한 자신이 비참하게만 보였고, 마음이 연약해진 탓에 작은 연락에도 초조했다. 반복된 거절에 낙담한 뒤에는 성취보다 애정의 결핍이 더 큰 문제였고, 목표를 잃자 허무가 밀려왔다. 상담사는 그 경험의 후유증을 없애려 서두르기보다 안전한 관계 속에서 천천히 치유해야 한다고 말했다. 어느 날 오래 간직한 사진을 보다가 눈물이 치오르기도 했지만, 과거를 생생히 떠올리는 일이 오히려 현명한 출발이 되었다. 그는 예전 동료들에게 미안해서 면목이 없었지만, 지역 아동센터에서 자원봉사를 하며 다시 사람들 곁으로 돌아왔다.
 

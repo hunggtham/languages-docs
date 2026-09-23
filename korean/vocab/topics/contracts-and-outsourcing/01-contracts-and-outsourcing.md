@@ -4,6 +4,7 @@
 
 한 기관이 외부 업체에 업무를 맡기고 결과물을 확인한 뒤 계약을 갱신하거나 종료하는 과정을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 위임
 
 **품사:** 명사; `위임하다`의 어근
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 위탁
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 수탁
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 발주
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 납품
 
 **품사:** 명사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 검수
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 대금
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 해지
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 갱신
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 위약금
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 조항
 
 **품사:** 명사
@@ -268,54 +279,7 @@
 
 ---
 
-### 서명
-
-**품사:** 명사
-
-**핵심 의미:** 문서의 내용을 확인하고 동의했다는 뜻으로 이름이나 표지를 직접 적는 일이다.
-
-**베트남어 뜻:** chữ ký, việc ký tên.
-
-**뉘앙스와 사용법:** 단순한 이름 쓰기보다 책임과 동의를 확인하는 법적·공식적 행위다. 전자서명도 포함할 수 있다.
-
-**재사용 가능한 콜로케이션·청크:** `계약서에 서명하다`, `전자 서명`, `서명을 받다`, `서명란`.
-
-**자주 쓰는 문형과 성분:** `N에 서명하다`; `서명을 날인하다`; 계약·동의서·신청서와 결합한다.
-
-**사회적 관계·주제별 register:** 행정·계약·금융의 공식어이며, 일상에서는 `사인`도 쓴다.
-
-**예문:** 양측 대표가 계약서에 서명한 뒤 업무가 공식적으로 시작되었다.
-
-**어휘 연결:** `서명`은 이름을 써 동의함, `날인`은 도장이나 인장을 찍음, `승인`은 권한 있는 사람이 허가함이다.
-
-**영어 참고:** *signature*, *signing*, *execution* — *signature*는 서명, *signing*은 서명 행위, *execution*은 계약을 정식으로 체결·이행하기 시작함을 법률적으로 말한다.
-
----
-
-### 책임
-
-**품사:** 명사
-
-**핵심 의미:** 맡은 일의 결과를 감당하고 잘못이나 의무에 대해 설명·보상해야 하는 의무다.
-
-**베트남어 뜻:** trách nhiệm, nghĩa vụ chịu trách nhiệm.
-
-**뉘앙스와 사용법:** 업무를 맡는 역할과 문제가 생겼을 때 결과를 부담하는 법적·도덕적 의미가 함께 있다.
-
-**재사용 가능한 콜로케이션·청크:** `책임을 지다`, `책임을 묻다`, `책임 범위`, `법적 책임`.
-
-**자주 쓰는 문형과 성분:** `N에 책임이 있다`; `책임을 부담하다/회피하다`; 계약 당사자·관리자·기관과 결합한다.
-
-**사회적 관계·주제별 register:** 일상·윤리·경영·법률에서 모두 쓰이는 핵심어다.
-
-**예문:** 계약서는 오류가 발생했을 때 각 당사자의 책임 범위를 명확히 정해야 한다.
-
-**어휘 연결:** `의무`는 해야 할 일, `책임`은 결과를 감당하고 설명할 의무, `책무`는 공적 역할에 따르는 무거운 책임을 격식 있게 표현한다.
-
-**영어 참고:** *responsibility*, *liability*, *accountability* — *responsibility*는 맡은 의무, *liability*는 법적 손해 부담, *accountability*는 결과를 설명하고 답할 의무다.
-
----
-
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: contracts-and-outsourcing -->
 ### 인수
 
 **품사:** 명사
@@ -340,31 +304,7 @@
 
 ---
 
-### 보증
-
-**품사:** 명사
-
-**핵심 의미:** 약속한 품질·채무·이행을 책임지겠다고 보장하는 일이나 그 담보다.
-
-**베트남어 뜻:** bảo đảm, bảo hành, bảo lãnh.
-
-**뉘앙스와 사용법:** 제품의 `보증`과 채무의 `보증`, 약속을 지키겠다는 `보장`이 모두 가능하므로 대상과 범위를 확인해야 한다.
-
-**재사용 가능한 콜로케이션·청크:** `품질 보증`, `보증 기간`, `보증금을 내다`, `보증 책임`.
-
-**자주 쓰는 문형과 성분:** `N을/를 보증하다`; `보증 기간`; 제품·채무·계약·성능과 결합한다.
-
-**사회적 관계·주제별 register:** 소비자·금융·계약·법률에서 쓰이는 공식어다.
-
-**예문:** 업체는 납품 후 일 년 동안 부품의 품질을 보증하기로 했다.
-
-**어휘 연결:** `보장`은 결과가 유지되도록 약속함, `보증`은 책임을 지겠다는 담보나 약속, `담보`는 채무 이행을 위해 제공하는 재산·보호 수단이다.
-
-**영어 참고:** *warranty*, *guarantee*, *surety* — *warranty*는 제품·품질 보증, *guarantee*는 결과를 보장함, *surety*는 채무를 대신 책임지는 보증이다.
-
-## 읽기 지문 — 외주 계약을 끝까지 관리하기
-
-<!-- passage_word_count: 63 Korean eojeol; target_set: 위임, 위탁, 수탁, 발주, 납품, 검수, 대금, 해지, 갱신, 위약금, 조항, 서명, 책임, 인수, 보증 -->
+<!-- passage_word_count: 63 Korean eojeol; target_set: 위임, 위탁, 수탁, 발주, 납품, 검수, 대금, 해지, 갱신, 위약금, 조항, 인수 -->
 
 기관은 전문 업체에 시스템 개발 권한을 위임하고 운영 업무를 위탁했다. 수탁 기관의 역할과 발주처의 책임은 계약서에 명확히 적었으며, 양측 대표가 조항을 검토한 뒤 서명했다. 업체는 정해진 날짜에 결과물을 납품했고, 기관은 검수를 마친 뒤 대금을 지급했다. 오류가 반복되면 계약을 해지할 수 있고, 일정이 맞으면 갱신할 수 있다는 내용도 포함되었다. 중도 해지에 따른 위약금과 품질 보증 기간을 확인한 뒤, 새 운영사에 시설을 인수하는 절차까지 기록했다.
 

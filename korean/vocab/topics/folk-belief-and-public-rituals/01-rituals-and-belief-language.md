@@ -4,6 +4,7 @@
 
 지역 의례를 취재하는 과정에서 전통, 개인의 믿음, 사회적 해석을 구분하는 어휘를 익힌다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 무당
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 무속
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: folk-belief-and-public-rituals -->
 ### 굿
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: folk-belief-and-public-rituals -->
 ### 굿판
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 신내림
 
 **품사:** 명사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 신당
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 부적
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 액막이
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 길흉
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 점괘
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: folk-belief-and-public-rituals -->
 ### 점집
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 제사
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 금기
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: folk-belief-and-public-rituals -->
 ### 신령
 
 **품사:** 명사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: folk-belief-and-public-rituals -->
 ### 퇴마
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *exorcism*, *ritual cleansing*, *spiritual deliverance* — *exorcism*은 악령 추방 의례, *ritual cleansing*은 정화 의식, *spiritual deliverance*는 종교적 구원을 강조한다.
 
 ## 읽기 지문 — 의례를 기록하는 카메라
+
+---
 
 <!-- passage_word_count: 81 Korean eojeol; target_set: 무당, 무속, 굿, 굿판, 신내림, 신당, 부적, 액막이, 길흉, 점괘, 점집, 제사, 금기, 신령, 퇴마 -->
 

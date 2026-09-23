@@ -4,6 +4,7 @@
 
 행정기관이 정책을 예고하고 공고한 뒤 시민의 민원을 접수·처리하는 과정을 통해 공식 문서의 어휘를 익힌다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 예고
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 적시
 
 **품사:** 명사; `적시에`, `적시하다`로 사용
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 통지
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 공고
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 공시
 
 **품사:** 명사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 발효
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 시행
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 유예
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 정정
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 회신
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 민원
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 공문
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 첨부
 
 **품사:** 명사; `첨부하다`의 어근
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 기한
 
 **품사:** 명사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: formal-notices-and-administration -->
 ### 근거
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *basis*, *grounds*, *evidence* — *basis*는 판단의 기반, *grounds*는 법적·논리적 근거, *evidence*는 사실을 입증하는 자료다.
 
 ## 읽기 지문 — 시민이 이해할 수 있는 공지
+
+---
 
 <!-- passage_word_count: 72 Korean eojeol; target_set: 예고, 적시, 통지, 공고, 공시, 발효, 시행, 유예, 정정, 회신, 민원, 공문, 첨부, 기한, 근거 -->
 

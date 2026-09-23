@@ -4,6 +4,7 @@
 
 몸의 이상 신호를 설명하는 말과 추위·운동 중 나타나는 감각적 움직임을 구분해 본다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: body-symptoms-and-movement -->
 ### 합병증
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: body-symptoms-and-movement -->
 ### 구충제
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: body-symptoms-and-movement -->
 ### 축농증
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: body-symptoms-and-movement -->
 ### 건식
 
 **품사:** 명사; 관형사적 용법
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: body-symptoms-and-movement -->
 ### 치골
 
 **품사:** 명사
@@ -124,54 +129,7 @@
 
 ---
 
-### 귓불
-
-**품사:** 명사
-
-**핵심 의미:** 귀 아래쪽에 늘어져 있는 부드러운 살 부분이다.
-
-**베트남어 뜻:** dái tai.
-
-**뉘앙스와 사용법:** 신체 부위를 구체적으로 가리키는 일상어다. 귀걸이·체온·얼굴 인상과 함께 자주 언급된다.
-
-**재사용 가능한 콜로케이션·청크:** `귓불을 만지다`, `귓불이 빨개지다`, `귓불에 귀걸이를 하다`, `두꺼운 귓불`.
-
-**자주 쓰는 문형과 성분:** `귓불이 붉어지다`; `귓불에 + 장신구`; 감정·추위·피부 반응을 묘사한다.
-
-**사회적 관계·주제별 register:** 일상·미용·의료 설명에서 자연스럽다.
-
-**예문:** 추운 바람을 맞자 귓불이 먼저 시리고 빨개졌다.
-
-**어휘 연결:** `귀`는 전체 기관, `귓바퀴`는 바깥쪽 연골 부분, `귓불`은 아래의 부드러운 살 부분이다.
-
-**영어 참고:** *earlobe*, *outer ear*, *ear* — *earlobe*은 귓불, *outer ear*는 바깥귀 전체, *ear*는 가장 넓은 말이다.
-
----
-
-### 물방울
-
-**품사:** 명사
-
-**핵심 의미:** 물이나 액체가 둥글게 맺혀 있는 작은 한 방울이다.
-
-**베트남어 뜻:** giọt nước, giọt chất lỏng.
-
-**뉘앙스와 사용법:** 빗물·땀·눈물·이슬처럼 액체의 모양과 움직임을 생생하게 보여 준다.
-
-**재사용 가능한 콜로케이션·청크:** `물방울이 맺히다`, `물방울이 떨어지다`, `땀방울`, `물방울을 털어 내다`.
-
-**자주 쓰는 문형과 성분:** `N에 물방울이 맺히다`; `물방울이 떨어지다/튀다`; 유리·피부·잎·천과 결합한다.
-
-**사회적 관계·주제별 register:** 일상 묘사·문학·과학 설명에서 모두 쓴다.
-
-**예문:** 운동을 마친 뒤 이마에 맺힌 물방울을 수건으로 닦았다.
-
-**어휘 연결:** `한 방울`은 양을 세는 중립어, `물방울`은 둥글게 맺힌 모양과 장면, `물기`는 젖어 있는 상태 전체를 뜻한다.
-
-**영어 참고:** *drop*, *droplet*, *bead of water* — *drop*은 일반적인 한 방울, *droplet*은 작은 방울의 기술어, *bead of water*는 표면에 맺힌 모양을 강조한다.
-
----
-
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 후들거리다
 
 **품사:** 동사
@@ -196,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 벌렁거리다
 
 **품사:** 동사
@@ -220,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 펄럭
 
 **품사:** 부사·의성어
@@ -244,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 팔짝
 
 **품사:** 부사·의성어
@@ -268,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 묵직하다
 
 **품사:** 형용사
@@ -292,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 팍팍
 
 **품사:** 부사·의태어
@@ -316,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 칼바람
 
 **품사:** 명사
@@ -340,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: body-symptoms-and-movement -->
 ### 격투
 
 **품사:** 명사
@@ -364,7 +329,9 @@
 
 ## 읽기 지문 — 몸의 신호를 놓치지 않기
 
-<!-- passage_word_count: 69 Korean eojeol; target_set: 합병증, 구충제, 축농증, 건식, 치골, 귓불, 물방울, 후들거리다, 벌렁거리다, 펄럭, 팔짝, 묵직하다, 팍팍, 칼바람, 격투 -->
+---
+
+<!-- passage_word_count: 69 Korean eojeol; target_set: 합병증, 구충제, 축농증, 건식, 치골, 후들거리다, 벌렁거리다, 펄럭, 팔짝, 묵직하다, 팍팍, 칼바람, 격투 -->
 
 겨울 체육관에서 건강 강좌가 열리자 참가자들은 축농증과 합병증을 어떻게 구분하는지 물었다. 강사는 구충제도 무조건 복용하지 말고 검사와 상담을 먼저 받아야 한다고 설명했다. 건식 사우나 뒤에는 몸의 수분을 보충하고, 치골이나 귓불에 이상한 통증이 생기면 운동을 멈춰야 했다. 창문에는 물방울이 맺혔고, 밖에서는 칼바람에 깃발이 펄럭였다. 긴장한 초보자는 다리가 후들거리고 심장이 벌렁거리기도 했지만, 아이들은 매트 위에서 팔짝 뛰며 웃었다. 코치의 묵직한 조언처럼, 공기가 팍팍한 날일수록 무리한 격투보다 몸의 신호를 읽는 일이 먼저였다.
 

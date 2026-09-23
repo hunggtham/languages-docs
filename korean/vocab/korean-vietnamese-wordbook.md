@@ -27,6 +27,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [음식과 일상의 살림](./topics/food-and-everyday-life/README.md)
 - [여행과 일상 이동](./topics/travel-and-daily-mobility/README.md)
 - [주거와 동네 생활](./topics/housing-and-neighborhood-life/README.md)
+- [교육과 평생 학습](./topics/education-and-lifelong-learning/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
@@ -44,6 +45,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - `어휘 연결`과 `영어 참고`는 keyword를 유지하되 설명은 베트남어를 중심으로 한다.
 - 항목 사이에는 `---`를 넣는다.
 - 새 topic subfolder의 각 파일은 총 entry 수에 고정 quota를 두지 않는다. 대신 최대 15개 target headword마다 짧은 지문 하나를 만들고, 각 지문에 `target_set` metadata와 베트남어 번역을 둔다.
+- 새 target headword는 `advanced_native` 또는 `contemporary_native_hot` lexical basis를 가져야 하며, register/context hidden metadata를 함께 둔다. A1–B2 공통어는 supporting language로만 쓰고, 기존 flat file은 legacy/review로 보존한다.
 - PDF의 원래 순서보다 주제의 완결성과 재사용 가능한 예문을 우선한다.
 
 ## 다음 생성 후보

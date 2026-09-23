@@ -4,6 +4,7 @@
 
 지역 박물관과 축제가 오래된 문화유산을 기록하고 새로운 관객에게 소개하는 과정을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 참관
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 선보이다
 
 **품사:** 동사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 백일장
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 꽃꽂이
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 조연
 
 **품사:** 명사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 문화재
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 유산
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 복원
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 보존
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 답사
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 해설
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 기획
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 전승
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 지역성
 
 **품사:** 명사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: media-and-cultural-heritage -->
 ### 후원
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *sponsorship*, *patronage*, *support* — *sponsorship*은 행사·브랜드 지원, *patronage*는 예술가·기관에 대한 지속적 후원, *support*는 가장 넓은 도움이다.
 
 ## 읽기 지문 — 지역 박물관의 새 계절
+
+---
 
 <!-- passage_word_count: 64 Korean eojeol; target_set: 참관, 선보이다, 백일장, 꽃꽂이, 조연, 문화재, 유산, 복원, 보존, 답사, 해설, 기획, 전승, 지역성, 후원 -->
 

@@ -29,6 +29,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [음식과 일상의 살림](./food-and-everyday-life/README.md) — `재료를 고르고 음식을 안전하게 다루기`
 - [여행과 일상 이동](./travel-and-daily-mobility/README.md) — `여행 계획과 이동 현장`
 - [주거와 동네 생활](./housing-and-neighborhood-life/README.md) — `집을 구하고 동네에 적응하기`
+- [교육과 평생 학습](./education-and-lifelong-learning/README.md) — `공부의 과정과 방향`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
@@ -46,6 +47,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - `---` ngăn cách các mục từ mới.
 - Lesson mới chia context thành các nhóm tối đa 15 headword; mỗi nhóm có một đoạn tiếng Hàn ngắn và bản dịch tiếng Việt. Đây là quy tắc chia passage, không phải giới hạn tổng số từ trong file.
 - Mỗi context có metadata ẩn ghi `target_set` để kiểm tra coverage; mọi headword phải xuất hiện trong context dưới dạng tự nhiên hoặc biến thể ngữ pháp tự nhiên.
+- Mỗi target mới phải có hidden metadata `lexical_basis: advanced_native | contemporary_native_hot`, cùng register và context. Từ phổ thông A1–B2 chỉ làm supporting language; legacy flat files được giữ nhưng xem là legacy/review.
 - Các mục bổ sung được chọn để làm chủ đề trọn vẹn, không theo thứ tự xuất hiện trong PDF.
 
 ## 다음 확장

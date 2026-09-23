@@ -4,6 +4,7 @@
 
 시민단체가 정책의 문제를 공개적으로 검토하고, 조직의 원칙과 국제적 협력을 다시 세우는 과정을 다룬다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 억압
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 불의
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 정의롭다
 
 **품사:** 형용사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 언행
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 직시하다
 
 **품사:** 동사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 은폐
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 채택
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 지침
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 국한하다
 
 **품사:** 동사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 승계
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 법인
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 공조
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 안보
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 순방하다
 
 **품사:** 동사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: public-affairs-and-accountability -->
 ### 강령
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *platform*, *credo*, *manifesto* — *platform*은 정당·단체의 정책 방향, *credo*는 신념 원칙, *manifesto*는 공개적인 선언문이다.
 
 ## 읽기 지문 — 원칙을 문서로 만들다
+
+---
 
 <!-- passage_word_count: 80 Korean eojeol; target_set: 억압, 불의, 정의롭다, 언행, 직시하다, 은폐, 채택, 지침, 국한하다, 승계, 법인, 공조, 안보, 순방하다, 강령 -->
 

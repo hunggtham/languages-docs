@@ -4,6 +4,7 @@
 
 역사 자료와 국제 정책 보고서를 읽으며 전쟁, 자원 개발, 해양 안전과 경쟁을 설명하는 표현을 익힌다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 국빈
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 광물
 
 **품사:** 명사
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 해경
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 채굴
 
 **품사:** 명사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 토착
 
 **품사:** 명사·관형사적 용법
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 남침
 
 **품사:** 명사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 점령
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 휴전일
 
 **품사:** 명사
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 전장
 
 **품사:** 명사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 급부상
 
 **품사:** 명사
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 타격
 
 **품사:** 명사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 각축장
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 은닉
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 엄중한
 
 **품사:** 관형사적 용법; `엄중하다`의 활용형
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: security-resources-and-conflict -->
 ### 기민하게
 
 **품사:** 부사
@@ -363,6 +378,8 @@
 **영어 참고:** *swiftly*, *agilely*, *promptly* — *swiftly*는 빠른 속도, *agilely*는 유연한 대응, *promptly*는 지체 없이 행동함이다.
 
 ## 읽기 지문 — 역사에서 자원 정책까지
+
+---
 
 <!-- passage_word_count: 69 Korean eojeol; target_set: 국빈, 광물, 해경, 채굴, 토착, 남침, 점령, 휴전일, 전장, 급부상, 타격, 각축장, 은닉, 엄중한, 기민하게 -->
 

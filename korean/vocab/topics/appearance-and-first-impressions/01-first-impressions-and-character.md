@@ -4,6 +4,7 @@
 
 외모와 분위기를 말할 때 생기는 문화적 뉘앙스와, 첫인상만으로 사람의 성격·가치를 단정하지 않는 태도를 함께 익힌다.
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 관상
 
 **품사:** 명사
@@ -28,6 +29,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: appearance-and-first-impressions -->
 ### 귀티
 
 **품사:** 명사; `귀티가 나다`로 주로 사용
@@ -52,6 +54,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: appearance-and-first-impressions -->
 ### 백치미
 
 **품사:** 명사
@@ -76,6 +79,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 왜소하다
 
 **품사:** 형용사
@@ -100,6 +104,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 순박하다
 
 **품사:** 형용사
@@ -124,6 +129,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 푸근하다
 
 **품사:** 형용사
@@ -148,6 +154,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 심미안
 
 **품사:** 명사
@@ -172,6 +179,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 각양각색
 
 **품사:** 관용적 명사·관형 표현
@@ -196,6 +204,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 다채롭다
 
 **품사:** 형용사
@@ -220,6 +229,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 가관
 
 **품사:** 명사; 관용 표현
@@ -244,6 +254,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: appearance-and-first-impressions -->
 ### 건방지다
 
 **품사:** 형용사
@@ -268,6 +279,7 @@
 
 ---
 
+<!-- lexical_basis: contemporary_native_hot; register: spoken/contemporary; context: appearance-and-first-impressions -->
 ### 허세
 
 **품사:** 명사
@@ -292,6 +304,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 기질
 
 **품사:** 명사
@@ -316,6 +329,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 본성
 
 **품사:** 명사
@@ -340,6 +354,7 @@
 
 ---
 
+<!-- lexical_basis: advanced_native; register: formal/advanced; context: appearance-and-first-impressions -->
 ### 정체성
 
 **품사:** 명사
@@ -363,6 +378,8 @@
 **영어 참고:** *identity*, *sense of self*, *cultural identity* — *identity*는 개인·집단의 정체성, *sense of self*는 자기 인식, *cultural identity*는 문화적 소속과 자기 정의다.
 
 ## 읽기 지문 — 얼굴보다 오래 남는 것
+
+---
 
 <!-- passage_word_count: 74 Korean eojeol; target_set: 관상, 귀티, 백치미, 왜소하다, 순박하다, 푸근하다, 심미안, 각양각색, 다채롭다, 가관, 건방지다, 허세, 기질, 본성, 정체성 -->
 
