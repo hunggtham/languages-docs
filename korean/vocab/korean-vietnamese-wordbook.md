@@ -12,6 +12,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 
 - [관계와 정서 회복](./topics/relationships-and-emotional-recovery/README.md)
 - [공공 문제와 책임](./topics/public-affairs-and-accountability/README.md)
+- [외모와 첫인상의 언어](./topics/appearance-and-first-impressions/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

@@ -18,10 +18,15 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `appearance-and-first-impressions`
+- File: `01-first-impressions-and-character.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include appearance and folk belief (`관상`, `무당`), work and contracts, physical sensation, or international affairs. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include folk belief and public rituals (`무당`), work and contracts, physical sensation, or international affairs. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
