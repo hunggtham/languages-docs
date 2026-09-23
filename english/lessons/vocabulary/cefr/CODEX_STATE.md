@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 248 items in 12 topic files; topic-folder numbering resets per folder.
+- B1: 268 items in 13 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 2179 items.
+- Total: 2199 items.
 
 ## Current position
 
@@ -68,7 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 reached its soft planning target at 1,501 items. The current +500 expansion has added validated B1 technology, community/social-challenges, and heritage/museums topics.
-- Next file: continue the +500 expansion with the next coherent B1 topic or folder-local sequence.
-- Actual counts: A1 400, A2 1501, B1 248, B2 15, C1 0, C2 15, C2+ 0; total 2179.
+- A2 reached its soft planning target at 1,501 items. The current +500 expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, and management/leadership topics.
+- Next file: continue the corpus expansion with the next coherent B1 topic or folder-local sequence.
+- Actual counts: A1 400, A2 1501, B1 268, B2 15, C1 0, C2 15, C2+ 0; total 2199.
 - No intentional repeated headwords or known vocabulary blocker in this batch.

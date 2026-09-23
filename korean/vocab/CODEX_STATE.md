@@ -68,10 +68,15 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `media-and-cultural-heritage`
+- File: `01-media-and-cultural-heritage.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, cultural identity and social change, or media and cultural heritage. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, cultural identity and social change, or everyday health and safety. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
