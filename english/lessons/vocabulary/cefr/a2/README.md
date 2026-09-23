@@ -38,3 +38,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 32. [Roads and traffic](./32-roads-and-traffic.md) — phương tiện, làn đường và an toàn giao thông.
 33. [Festivals and traditions](./33-festivals-and-traditions.md) — lễ hội, phong tục và nghi lễ.
 34. [Job interviews and workplaces](./34-job-interviews-and-workplaces.md) — ứng tuyển, hợp đồng và nơi làm việc.
+35. [Media and news](./35-media-and-news.md) — báo chí, phát sóng và nội dung truyền thông.
+36. [Environmental responsibility](./36-environmental-responsibility.md) — khí hậu, tài nguyên và bảo vệ thiên nhiên.
+37. [Interpersonal communication](./37-interpersonal-communication.md) — lời nói, cử chỉ và phản ứng xã hội.
