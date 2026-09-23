@@ -56,3 +56,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 50. [Cleaning and maintenance](./50-cleaning-and-maintenance.md) — lau dọn, vết bẩn và dụng cụ vệ sinh.
 51. [Relationships and personality](./51-relationships-and-personality.md) — tình bạn, gia đình và tính cách.
 52. [Office technology](./52-office-technology.md) — thiết bị, tệp và hệ thống văn phòng.
+53. [Animals and wildlife](./53-animals-and-wildlife.md) — động vật trang trại và hoang dã.
+54. [Home maintenance and services](./54-home-maintenance-and-services.md) — sửa chữa, tiện ích và bảo trì nhà.
+55. [Workplace meetings](./55-workplace-meetings.md) — hội nghị, thuyết trình và phối hợp nhóm.
