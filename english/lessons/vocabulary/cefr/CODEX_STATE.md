@@ -14,7 +14,7 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 
 ## Active generation contract
 
-Continue automatically from this state until the corpus reaches 20,000 valid learning items, a Codex/runtime limit prevents further execution, or a genuine blocker needs human input. Do not stop at a CEFR level, a single lesson, or a checkpoint.
+The durable generation goal is defined in `/prompt/VOCAB_GOAL.md`. Read that file before every vocabulary run; this state file records repository position and checkpoint history, not a second copy of the goal prompt.
 
 - Work in the order `A1 → A2 → B1 → B2 → C1 → C2 → C2+`, while keeping CEFR placement and learner usefulness ahead of quotas.
 - Choose a coherent topic or situation first, then add the words needed to teach it. Prefer one well-grouped file over several small files; merge related legacy lessons when that reduces file sprawl without losing coverage.
@@ -44,7 +44,7 @@ Next lesson: create the next file number inside the selected A2 topic folder (fo
 Before choosing the exact lesson topic and words:
 
 1. read root and vocabulary-specific `AGENTS.md`;
-2. read `/prompt/COMMON_PROMPT.md` and `/prompt/VOCAB_PROMPT.md`;
+2. read `/prompt/COMMON_PROMPT.md`, `/prompt/VOCAB_PROMPT.md`, and `/prompt/VOCAB_GOAL.md`;
 3. read this directory's `README.md` and this state file;
 4. inspect the latest lesson in the active level and an approved pilot;
 5. scan existing vocabulary headings to avoid duplicates;

@@ -17,4 +17,4 @@
 - Các file `legacy consolidation` được tạo khi tái cấu trúc có thể chứa hơn 29 items vì chúng hợp nhất những lesson đã được duyệt trước đó. Giữ lại một `Review in context — Part N` cho từng lesson nguồn để không mất ngữ cảnh; quy tắc 15–29 ở trên vẫn là chuẩn cho lesson mới.
 - Số ở đầu tên file được đánh lại độc lập trong từng folder chủ đề của từng CEFR level (`a1/home/01-...`, `a2/home/01-...`). Không yêu cầu một dãy số chung cho toàn bộ level; comment coverage trong file là nguồn lịch sử của lesson cũ.
 
-Task vocabulary = `COMMON_PROMPT` + `VOCAB_PROMPT` + yêu cầu cụ thể hiện tại.
+Task vocabulary = `COMMON_PROMPT` + `VOCAB_PROMPT` + `VOCAB_GOAL` + yêu cầu cụ thể hiện tại.

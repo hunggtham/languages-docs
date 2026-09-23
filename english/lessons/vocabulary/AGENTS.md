@@ -12,6 +12,7 @@ Always read and follow:
 
 - `/prompt/COMMON_PROMPT.md`
 - `/prompt/VOCAB_PROMPT.md`
+- `/prompt/VOCAB_GOAL.md`
 - `/english/lessons/vocabulary/cefr/README.md`
 - `/english/lessons/vocabulary/cefr/CODEX_STATE.md`
 
