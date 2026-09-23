@@ -25,3 +25,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 19. [Social events and participation](./19-social-events-and-participation.md) — tham gia sự kiện, giữ liên lạc và hành vi nhóm.
 20. [Service and information](./20-service-and-information.md) — yêu cầu dịch vụ, thông tin và giao hàng.
 21. [Describing people and places](./21-describing-people-and-places.md) — tính từ mô tả nơi chốn, con người và tình huống.
+22. [Household objects and repairs](./22-household-objects-and-repairs.md) — đồ dùng, bộ phận nhà và sửa chữa nhỏ.
+23. [Materials and physical descriptions](./23-materials-and-physical-descriptions.md) — vật liệu, bề mặt và đặc điểm vật lý.
+24. [Mail and home equipment](./24-mail-and-home-equipment.md) — thư từ, bưu kiện và thiết bị gia dụng.
