@@ -87,6 +87,7 @@
 - File: `01-travel-planning-and-transit.md`
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+- Audit note: shared-branch commit `ec748f6` also carried unrelated English files; the Korean files were independently re-audited.
 
 ## Resume rule
 
