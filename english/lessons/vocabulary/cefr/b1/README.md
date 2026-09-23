@@ -35,6 +35,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Management And Leadership](./business/02-management-and-leadership.md)
 - [Finance And The Economy](./business/03-finance-and-the-economy.md)
 - [Business Operations And Customer Service](./business/04-business-operations-and-customer-service.md)
+- [Entrepreneurship And Startups](./business/05-entrepreneurship-and-startups.md)
 
 ## travel
 
