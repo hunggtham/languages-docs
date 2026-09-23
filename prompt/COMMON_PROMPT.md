@@ -8,6 +8,7 @@ Mọi nội dung trong repository này mặc định phải tuân theo prompt n�
 - Giải thích theo luồng kiến thức tự nhiên; tránh bullet, table và cấu trúc máy móc khi prose phù hợp hơn.
 - Ưu tiên mental model, meaning, context, native usage và liên kết kiến thức.
 - Ví dụ phải tự nhiên, đúng ngữ cảnh và chỉ xuất hiện khi thực sự giúp hiểu hoặc dùng đúng hơn.
+- Trước khi tạo mới hoặc chỉnh sửa file, phải kiểm tra các file liên quan hiện có để giữ nhất quán về format, naming, cấu trúc, thứ tự lesson/file và convention của repository; không tự tạo một format hoặc thứ tự cạnh tranh nếu không có lý do rõ ràng.
 - Có thể tái cấu trúc lesson/file nếu giúp việc học tốt hơn nhưng không làm mất kiến thức quan trọng hoặc tạo nội dung trùng lặp.
 - Thuật ngữ hoặc wording tiếng Anh khó phải được giải thích ngay tại chỗ.
 
