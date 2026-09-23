@@ -22,3 +22,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 16. [Public services and documents](./16-public-services-and-documents.md) — làm thủ tục, giấy tờ và dịch vụ công.
 17. [Travel details and airports](./17-travel-details-and-airports.md) — khởi hành, đến nơi, sân bay và tham quan.
 18. [Handling changes and mistakes](./18-handling-changes-and-mistakes.md) — nguyên nhân, rủi ro và cách xử lý thay đổi.
+19. [Social events and participation](./19-social-events-and-participation.md) — tham gia sự kiện, giữ liên lạc và hành vi nhóm.
+20. [Service and information](./20-service-and-information.md) — yêu cầu dịch vụ, thông tin và giao hàng.
+21. [Describing people and places](./21-describing-people-and-places.md) — tính từ mô tả nơi chốn, con người và tình huống.
