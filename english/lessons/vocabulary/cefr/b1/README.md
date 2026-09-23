@@ -33,3 +33,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## society
 
 - [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
+
+## technology
+
+- [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
