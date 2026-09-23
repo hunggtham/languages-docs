@@ -13,3 +13,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 7. [Community and environment](./07-community-and-environment.md) — khu phố, môi trường và hành động cộng đồng.
 8. [Housing and repairs](./08-housing-and-repairs.md) — nhà thuê, sự cố và sửa chữa.
 9. [Money and budgeting](./09-money-and-budgeting.md) — ngân sách, thu nhập, chi phí và tiết kiệm.
+10. [Culture and media](./10-culture-and-media.md) — phim, sách, âm nhạc và trải nghiệm văn hóa.
