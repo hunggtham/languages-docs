@@ -37,3 +37,5 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## technology
 
 - [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
+
+- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
