@@ -43,10 +43,15 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `speech-and-public-discourse`
+- File: `01-conversation-and-discourse.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include folk belief and public rituals (`무당`), work and contracts, or international affairs. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include work and contracts, cultural identity and social change, or formal notices and public administration. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
