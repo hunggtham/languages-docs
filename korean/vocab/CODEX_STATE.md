@@ -100,10 +100,15 @@
 - Coverage: 5 retained advanced-native headwords; 10 common support words moved out of target headings.
 - Validation: lexical-basis metadata, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `technology-and-digital-life`
+- File: `01-online-trust-and-digital-risks.md`
+- Coverage: 15 new advanced-native/contemporary-hot headwords in one `target_set` passage.
+- Validation: lexical-basis metadata, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, cultural identity and social change, or technology and digital life. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, cultural identity and social change, or media literacy and public trust. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
