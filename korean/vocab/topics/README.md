@@ -33,6 +33,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [기술과 디지털 생활](./technology-and-digital-life/README.md) — `온라인 신뢰와 디지털 위험`
 - [미디어 리터러시와 공적 신뢰](./media-literacy-and-public-trust/README.md) — `정보를 읽고 공론을 판단하기`
 - [윤리와 사회적 책임](./ethics-and-social-responsibility/README.md) — `권한과 책임을 따져 묻기`
+- [한국어의 구어 감각과 신조어](./slang-and-pragmatic-spoken-korean/README.md) — `분위기와 온라인 반응의 말`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
