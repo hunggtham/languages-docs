@@ -12,6 +12,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
 - [Workplace Communication And Wellbeing](./work/02-workplace-communication-and-wellbeing.md)
+- [Career Development And Workplace Skills](./work/03-career-development-and-workplace-skills.md)
 
 ## science
 
