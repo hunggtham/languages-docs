@@ -14,5 +14,6 @@
 - Ví dụ phải tự nhiên, ưu tiên cách dùng thực tế trong contemporary American English.
 - Không áp đặt số lượng từ cố định cho mỗi file. Ưu tiên gom đủ từ/cụm từ cần thiết để khai thác trọn một chủ đề hoặc tình huống, nhưng không thêm từ chỉ để đạt quota. Quy mô thường dùng là khoảng 15–20 learning items; một chủ đề tự nhiên có thể lớn hơn nếu việc gộp giúp giảm số file.
 - Mọi headword của entry phải xuất hiện tự nhiên trong một hoặc các phần `Review in context`. Với 15 từ trở xuống, dùng một đoạn đọc phù hợp. Với 16–20 từ, giữ cùng một file và viết một đoạn đọc duy nhất, bao quát tối đa 20 headwords. Với 21–29 từ, vẫn giữ cùng chủ đề/file nhưng chia thành hai đoạn đọc nhỏ hơn (ví dụ 10+10, 11+10 hoặc 12+10), mỗi đoạn có bản dịch tiếng Việt tương ứng. Không tách file chỉ để ép mỗi file về đúng 15 từ.
+- Các file `legacy consolidation` được tạo khi tái cấu trúc có thể chứa hơn 29 items vì chúng hợp nhất những lesson đã được duyệt trước đó. Giữ lại một `Review in context — Part N` cho từng lesson nguồn để không mất ngữ cảnh; quy tắc 15–29 ở trên vẫn là chuẩn cho lesson mới.
 
 Task vocabulary = `COMMON_PROMPT` + `VOCAB_PROMPT` + yêu cầu cụ thể hiện tại.

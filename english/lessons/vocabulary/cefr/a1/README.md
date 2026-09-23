@@ -1,28 +1,20 @@
 # A1 Vocabulary
 
-Đây là lộ trình vocabulary A1 theo các tình huống quen thuộc trong đời sống. Mỗi bài có số lượng từ linh hoạt để bao phủ trọn chủ đề, một hoặc hai đoạn context sử dụng lại toàn bộ vocabulary và bản dịch tiếng Việt tương ứng.
+Các file đã được hợp nhất theo mạng chủ đề; một file có thể chứa nhiều đoạn context để giữ trọn coverage của các bài nguồn.
 
-## Thứ tự hiện tại
+## Topic files
 
-1. [Daily life at home and work](./home/01-daily-life-at-home-and-work.md) — routine từ lúc thức dậy đến lúc đi ngủ.
-2. [Family and people](./people/02-family-and-people.md) — giới thiệu người thân, bạn bè và người xung quanh.
-3. [Food and shopping](./food/03-food-and-shopping.md) — nói về đồ ăn, nhu cầu cơ bản và mua hàng.
-4. [Getting around town](./city/04-getting-around-town.md) — đi lại, phương tiện và chỉ đường.
-5. [Weather and clothes](./weather/05-weather-and-clothes.md) — thời tiết và quần áo hằng ngày.
-6. [Free time and hobbies](./leisure/06-free-time-and-hobbies.md) — hoạt động lúc rảnh và sở thích.
-7. [Body and health](./health/07-body-and-health.md) — cơ thể và sức khỏe cơ bản.
-8. [Home and rooms](./home/08-home-and-rooms.md) — nhà cửa, phòng và đồ vật trong nhà.
-9. [School and learning](./education/09-school-and-learning.md) — trường lớp và việc học.
-10. [Travel and holidays](./travel/10-travel-and-holidays.md) — chuyến đi, sân bay và kỳ nghỉ.
-11. [Communication and technology](./communication/11-communication-and-technology.md) — điện thoại, internet và giao tiếp số.
-12. [Feelings and everyday descriptions](./people/12-feelings-and-descriptions.md) — cảm xúc và các tính từ mô tả hằng ngày.
-13. [Nature and animals](./nature/13-nature-and-animals.md) — thiên nhiên và động vật.
-14. [Time and dates](./time/14-time-and-dates.md) — thời gian và ngày tháng.
-15. [City services and places](./city/15-city-services-and-places.md) — địa điểm, dịch vụ và chỉ đường trong thành phố.
-16. [Jobs and the workday](./work/16-jobs-and-the-workday.md) — nghề nghiệp, nơi làm việc và một ngày làm việc.
-17. [Shopping and money](./money/17-shopping-and-money.md) — hỏi giá, chọn đồ và thanh toán.
-18. [Social plans and invitations](./people/18-social-plans-and-invitations.md) — rủ bạn, hẹn gặp và thống nhất kế hoạch.
-19. [Household chores](./home/19-household-chores.md) — dọn dẹp, giặt giũ và chia sẻ việc nhà.
-20. [Everyday communication](./communication/20-everyday-communication.md) — nói, nghe, đọc, viết và xử lý thông tin cơ bản.
+. [City services and travel](./city/04-city-services-and-travel.md) — file chủ đề đã hợp nhất.
+. [Communication, technology, and information](./communication/11-communication-technology-and-information.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 09 — School and learning](./education/09-school-and-learning.md) — file chủ đề đã hợp nhất.
+. [Food, shopping, and money](./food/03-food-shopping-and-money.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 07 — Body and health](./health/07-body-and-health.md) — file chủ đề đã hợp nhất.
+. [Home routines, rooms, and chores](./home/01-home-routines-rooms-and-chores.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 06 — Free time and hobbies](./leisure/06-free-time-and-hobbies.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 13 — Nature and animals](./nature/13-nature-and-animals.md) — file chủ đề đã hợp nhất.
+. [People, feelings, and social plans](./people/02-people-feelings-and-social-plans.md) — file chủ đề đã hợp nhất.
+. [A1 Topic 14: Time and dates](./time/14-time-and-dates.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 05 — Weather and clothes](./weather/05-weather-and-clothes.md) — file chủ đề đã hợp nhất.
+. [A1 Vocabulary 16 — Jobs and the workday](./work/16-jobs-and-the-workday.md) — file chủ đề đã hợp nhất.
 
-Mỗi bài nên học theo flow, có thể chia thành hai phiên đọc nếu bài dài. Đọc to phần examples, sau đó đọc các đoạn context ở cuối bài. Chưa cần học thuộc toàn bộ linking ngay lần đầu; hãy ưu tiên core meaning, grammar pattern và câu ví dụ.
+Mỗi file giữ lại toàn bộ entry và các đoạn review của các lesson nguồn; số ở đầu tên file là mốc lesson đầu tiên trong nhóm hợp nhất.

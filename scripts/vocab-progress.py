@@ -18,13 +18,14 @@ VOCAB_ROOT = ROOT / "english" / "lessons" / "vocabulary" / "cefr"
 LEVELS = ("a1", "a2", "b1", "b2", "c1", "c2", "c2-plus")
 LESSON_RE = re.compile(r"^(\d+)-(.+)\.md$")
 ENTRY_RE = re.compile(r"^##\s+(\d+)\.\s+(.+?)\s*$", re.MULTILINE)
+COVERAGE_RE = re.compile(r"Consolidates source lessons:\s*(.+)")
 
 
-def lesson_rows(level: str) -> list[tuple[int, Path, int]]:
+def lesson_rows(level: str) -> list[tuple[int, Path, int, set[int]]]:
     directory = VOCAB_ROOT / level
     if not directory.exists():
         return []
-    rows: list[tuple[int, Path, int]] = []
+    rows: list[tuple[int, Path, int, set[int]]] = []
     # Topic folders are allowed under each CEFR level. Count every numbered
     # lesson recursively so reorganizing related lessons does not hide them.
     for path in directory.rglob("*.md"):
@@ -32,8 +33,11 @@ def lesson_rows(level: str) -> list[tuple[int, Path, int]]:
         if not match:
             continue
         number = int(match.group(1))
-        entries = len(ENTRY_RE.findall(path.read_text(encoding="utf-8")))
-        rows.append((number, path, entries))
+        text = path.read_text(encoding="utf-8")
+        entries = len(ENTRY_RE.findall(text))
+        coverage_match = COVERAGE_RE.search(text)
+        coverage = {int(value) for value in re.findall(r"(?:^|,\s*)(\d+)-", coverage_match.group(1))} if coverage_match else {number}
+        rows.append((number, path, entries, coverage))
     return sorted(rows)
 
 
@@ -44,17 +48,16 @@ def main() -> None:
     for level in LEVELS:
         rows = lesson_rows(level)
         lessons = len(rows)
-        items = sum(entry_count for _, _, entry_count in rows)
+        items = sum(entry_count for _, _, entry_count, _ in rows)
         total_lessons += lessons
         total_items += items
         if rows:
-            numbers = [number for number, _, _ in rows]
-            missing = [str(n) for n in range(1, max(numbers) + 1) if n not in numbers]
-            next_number = next((n for n in range(1, max(numbers) + 2) if n not in numbers), max(numbers) + 1)
-            suffix = f"; missing={','.join(missing)}" if missing else ""
+            covered = set().union(*(coverage for _, _, _, coverage in rows))
+            max_covered = max(covered)
+            next_number = max_covered + 1
             print(
                 f"{level.upper():5} lessons={lessons:4} items={items:6} "
-                f"range=01-{max(numbers):02d} next={next_number:02d}{suffix}"
+                f"coverage=01-{max_covered:02d} next={next_number:02d}"
             )
         else:
             print(f"{level.upper():5} lessons=   0 items=     0 next=01")

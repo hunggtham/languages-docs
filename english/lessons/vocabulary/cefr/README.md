@@ -19,3 +19,5 @@ Các bài mới có thể nằm trong thư mục con theo mạng chủ đề (v�
 Một entry giữ thứ tự chuẩn: loại từ và vị trí trong câu, `Core meaning — English`, nghĩa cốt lõi và hình ảnh ghi nhớ hoàn toàn bằng tiếng Việt, phát âm, grammar/collocations, register hoặc usage khi cần, linking, examples và liên kết tiếng Hàn ở cuối.
 
 Không tách mỗi từ thành một file riêng. Một file nên gom các từ trong cùng tình huống hoặc mạng nghĩa, sau đó có context sử dụng lại toàn bộ headword. Không có giới hạn cứng 15 từ/file: quy mô thường dùng là 15–20 từ, nhưng chủ đề tự nhiên được ưu tiên. Bài 16–20 từ dùng một đoạn đọc duy nhất; bài 21–29 từ giữ cùng một file và chia thành hai đoạn nhỏ hơn (ví dụ 10+10, 11+10 hoặc 12+10), mỗi đoạn có bản dịch tiếng Việt. Không thêm hoặc tách từ chỉ để đạt một con số cố định.
+
+Một số file lịch sử có thể lớn hơn 29 từ vì chúng hợp nhất các bài đã có trước đó để giảm số file. Các file này giữ nhiều phần `Review in context — Part N`, tương ứng với các lesson nguồn; đây không phải quota cho bài mới.
