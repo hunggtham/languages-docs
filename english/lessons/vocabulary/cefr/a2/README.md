@@ -19,3 +19,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 13. [Workplace communication](./13-workplace-communication.md) — yêu cầu, cập nhật, báo cáo và xử lý vấn đề.
 14. [Food and cooking](./14-food-and-cooking.md) — nguyên liệu, cách nấu và gọi món.
 15. [Learning languages](./15-learning-languages.md) — từ vựng, phát âm, hội thoại và luyện tập.
+16. [Public services and documents](./16-public-services-and-documents.md) — làm thủ tục, giấy tờ và dịch vụ công.
+17. [Travel details and airports](./17-travel-details-and-airports.md) — khởi hành, đến nơi, sân bay và tham quan.
+18. [Handling changes and mistakes](./18-handling-changes-and-mistakes.md) — nguyên nhân, rủi ro và cách xử lý thay đổi.
