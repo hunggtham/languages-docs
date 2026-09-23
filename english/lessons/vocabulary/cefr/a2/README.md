@@ -22,6 +22,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 - [Culture Media And Traditions](./culture/01-culture-media-and-traditions.md)
 - [News Reading And Literature](./culture/02-news-reading-and-literature.md)
 - [Arts Sports And Hobbies](./culture/03-arts-sports-and-hobbies.md)
+- [Film And Performance Vocabulary](./culture/04-film-and-performance-vocabulary.md)
 ## descriptions
 
 - [People Places And Materials](./descriptions/01-people-places-and-materials.md)
@@ -78,6 +79,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 ## time
 
 - [Time And Schedules](./time/01-time-and-schedules.md)
+- [Daily Routines And Timing](./time/02-daily-routines-and-timing.md)
 ## travel
 
 - [Travel Airports And Accommodation](./travel/01-travel-airports-and-accommodation.md)
