@@ -9,7 +9,7 @@
 
 ## Completed local lessons
 
-- A1 lessons `01`–`19` exist in `english/lessons/vocabulary/cefr/a1/`.
+- A1 lessons `01`–`20` exist in `english/lessons/vocabulary/cefr/a1/`.
 - These lessons contain 20 entries each and have been checked so every headword appears in its review context.
 - The remote baseline contains pilot lessons for A1, B2, and C2; existing local lessons are preserved and must not be regenerated without a concrete reason.
 
@@ -24,4 +24,4 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- The next missing A1 lesson after the existing local set is `20`; the requested A1 lesson `02` is already present and must be reused rather than regenerated.
+- A1 core topics 01–20 are now complete for this curriculum pass; the next level to generate is A2 lesson `01`.
