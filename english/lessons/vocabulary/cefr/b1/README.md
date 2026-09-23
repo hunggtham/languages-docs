@@ -28,6 +28,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Academic Research](./education/01-academic-research.md)
 - [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
+- [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
 
 ## business
 
