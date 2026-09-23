@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 88 items in 4 topic files; topic-folder numbering resets per folder.
+- B1: 108 items in 5 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 2019 items.
+- Total: 2039 items.
 
 ## Current position
 
@@ -68,7 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 reached its soft planning target at 1,501 items. B1 now has communication/news-media, work/project-teamwork, science/climate, and health/well-being topic files; all entries are validated.
-- Next file: `english/lessons/vocabulary/cefr/b1/communication/02-...md`, `work/02-...md`, `science/02-...md`, `health/02-...md`, or a new B1 topic folder starting at `01`.
-- Actual counts: A1 400, A2 1501, B1 88, B2 15, C1 0, C2 15, C2+ 0; total 2019.
+- A2 reached its soft planning target at 1,501 items. B1 now has communication/news-media, work/project-teamwork, science/climate, health/well-being, and education/academic-research topic files; all entries are validated.
+- Next file: `english/lessons/vocabulary/cefr/b1/communication/02-...md`, `work/02-...md`, `science/02-...md`, `health/02-...md`, `education/02-...md`, or a new B1 topic folder starting at `01`.
+- Actual counts: A1 400, A2 1501, B1 108, B2 15, C1 0, C2 15, C2+ 0; total 2039.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
