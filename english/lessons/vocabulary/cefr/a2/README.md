@@ -6,3 +6,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 
 1. [Plans, goals, and everyday problems](./01-plans-goals-and-problems.md) — lập kế hoạch, đặt mục tiêu và giải quyết vấn đề thường ngày.
 2. [Travel and experiences](./02-travel-and-experiences.md) — hành trình, lưu trú và mô tả trải nghiệm du lịch.
+3. [Digital communication](./03-digital-communication.md) — email, tài khoản, tệp và giao tiếp trực tuyến.
