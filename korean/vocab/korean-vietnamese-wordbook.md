@@ -19,6 +19,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [안보·자원·분쟁의 언어](./topics/security-resources-and-conflict/README.md)
 - [대화와 공적 담화의 결](./topics/speech-and-public-discourse/README.md)
 - [사회 변화와 소속](./topics/social-change-and-belonging/README.md)
+- [공식 안내와 행정 절차](./topics/formal-notices-and-administration/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
