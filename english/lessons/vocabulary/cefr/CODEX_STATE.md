@@ -15,13 +15,13 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 ## Current repository progress
 
 - A1: lessons `01`–`20`, 400 items; core A1 pass complete.
-- A2: lessons `01`–`73`, 1115 items; continue with A2 lesson `74`.
+- A2: lessons `01`–`76`, 1160 items; continue with A2 lesson `77`.
 - B1: 0 items.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 1545 items.
+- Total: 1590 items.
 
 ## Current position
 
@@ -29,7 +29,7 @@ Status: `READY`
 
 Current level: `A2`
 
-Next lesson: `a2/74-...md`
+Next lesson: `a2/77-...md`
 
 Before choosing the exact lesson topic and words:
 
@@ -55,7 +55,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
-- A2 lessons 71–73 (`leisure and hobbies`, `food and pantry`, and `outdoor adventure`) are validated and ready to commit.
-- Next lesson: `english/lessons/vocabulary/cefr/a2/74-...md`.
-- Actual counts: A1 400, A2 1115, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1545.
+- A2 lessons 74–76 (`practical actions`, `city travel`, and `people and jobs`) are validated and ready to commit.
+- Next lesson: `english/lessons/vocabulary/cefr/a2/77-...md`.
+- Actual counts: A1 400, A2 1160, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1590.
 - No intentional repeated headwords or known vocabulary blocker in this batch.

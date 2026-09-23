@@ -77,3 +77,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 71. [Leisure and hobbies](./71-leisure-and-hobbies.md) — nhạc cụ, trò chơi và hoạt động rảnh.
 72. [Food and pantry](./72-food-and-pantry.md) — bữa ăn, gia vị và món tráng miệng.
 73. [Outdoor adventure](./73-outdoor-adventure.md) — địa hình, đường mòn và đồ dã ngoại.
+74. [Practical actions](./74-practical-actions.md) — sửa chữa, đóng gói và thao tác bếp.
+75. [City travel](./75-city-travel.md) — đường sắt, địa điểm và đi lại trong thành phố.
+76. [People and jobs](./76-people-and-jobs.md) — nghề nghiệp, vai trò và khách tham quan.
