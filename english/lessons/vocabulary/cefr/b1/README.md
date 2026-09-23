@@ -17,6 +17,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## health
 
 - [Health And Wellbeing](./health/01-health-and-wellbeing.md)
+- [Healthcare And Prevention](./health/02-healthcare-and-prevention.md)
 
 ## education
 
