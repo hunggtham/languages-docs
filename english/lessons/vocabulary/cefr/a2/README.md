@@ -50,6 +50,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 ## jobs
 
 - [Workplaces Office Technology And Meetings](./jobs/01-workplaces-office-technology-and-meetings.md)
+- [Careers And Services](./jobs/02-careers-and-services.md)
 ## money
 
 - [Budgeting Shopping And Personal Finance](./money/01-budgeting-shopping-and-personal-finance.md)
@@ -57,6 +58,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 
 - [Landscapes Wildlife And Gardening](./outdoors/01-landscapes-wildlife-and-gardening.md)
 - [Outdoor Adventure And Nature Details](./outdoors/02-outdoor-adventure-and-nature-details.md)
+- [Camping Equipment](./outdoors/03-camping-equipment.md)
 ## people
 
 - [Relationships Personality And Social Life](./people/01-relationships-personality-and-social-life.md)
@@ -77,3 +79,6 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 
 - [Weather Forecasts Seasons And Changes](./weather/01-weather-forecasts-seasons-and-changes.md)
 
+## work
+
+- [Office Administration](./work/01-office-administration.md)

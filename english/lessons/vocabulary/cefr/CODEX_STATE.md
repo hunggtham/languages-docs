@@ -15,13 +15,13 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 ## Current repository progress
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
-- A2: 34 topic files covering source lessons `01`–`81`, 1242 items; topic-folder numbering resets per folder.
+- A2: 37 topic files covering source lessons `01`–`81` plus the new expansion batch, 1287 items; topic-folder numbering resets per folder.
 - B1: 0 items.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 1672 items.
+- Total: 1717 items.
 
 ## Current position
 
@@ -58,7 +58,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- The latest content coverage remains A2 source lesson `81` (`food produce and staples`); continue in the selected A2 topic folder.
+- A2 expansion batch added 45 new items in `work/01-office-administration`, `jobs/02-careers-and-services`, and `outdoors/03-camping-equipment`; all are validated.
 - Next file: `english/lessons/vocabulary/cefr/a2/<topic>/01-...md` for a new topic, or the next number in an existing topic folder.
-- Actual counts: A1 400, A2 1242, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1672.
+- Actual counts: A1 400, A2 1287, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1717.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
