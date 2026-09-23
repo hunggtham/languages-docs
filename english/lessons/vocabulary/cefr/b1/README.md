@@ -60,6 +60,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Data And Digital Work](./technology/02-data-and-digital-work.md)
 - [Cybersecurity And Digital Trust](./technology/03-cybersecurity-and-digital-trust.md)
 - [Networks And Emerging Technology](./technology/04-networks-and-emerging-technology.md)
+- [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
 
 ## culture
 
