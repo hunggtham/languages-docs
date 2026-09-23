@@ -59,3 +59,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 53. [Animals and wildlife](./53-animals-and-wildlife.md) — động vật trang trại và hoang dã.
 54. [Home maintenance and services](./54-home-maintenance-and-services.md) — sửa chữa, tiện ích và bảo trì nhà.
 55. [Workplace meetings](./55-workplace-meetings.md) — hội nghị, thuyết trình và phối hợp nhóm.
+56. [Water travel and boats](./56-water-travel-and-boats.md) — phà, tàu, cảng và an toàn trên nước.
+57. [Clothing materials and style](./57-clothing-materials-and-style.md) — vải, chất liệu và trang phục.
+58. [Language-learning terms](./58-language-learning-terms.md) — định nghĩa, thành ngữ và cách dùng.
