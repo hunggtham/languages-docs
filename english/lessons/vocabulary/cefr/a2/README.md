@@ -13,6 +13,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 - [Digital And Workplace Communication](./communication/01-digital-and-workplace-communication.md)
 - [Digital Files And Interpersonal Communication](./communication/02-digital-files-and-interpersonal-communication.md)
 - [Writing Sounds And Messages](./communication/03-writing-sounds-and-messages.md)
+- [Phone Calls And Messages](./communication/04-phone-calls-and-messages.md)
 ## community
 
 - [Community Environment And Responsibility](./community/01-community-environment-and-responsibility.md)
@@ -37,11 +38,13 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 ## health
 
 - [Health Care And Body Movement](./health/01-health-care-and-body-movement.md)
+- [Doctor Visits And Recovery](./health/02-doctor-visits-and-recovery.md)
 ## home
 
 - [Housing Household Objects And Equipment](./home/01-housing-household-objects-and-equipment.md)
 - [Home Spaces Cleaning And Maintenance](./home/02-home-spaces-cleaning-and-maintenance.md)
 - [Kitchen Equipment Furnishings And Comfort](./home/03-kitchen-equipment-furnishings-and-comfort.md)
+- [Laundry And Clothing Care](./home/04-laundry-and-clothing-care.md)
 ## ideas
 
 - [Plans Opinions And Choices](./ideas/01-plans-opinions-and-choices.md)
