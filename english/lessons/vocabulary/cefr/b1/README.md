@@ -13,3 +13,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## science
 
 - [Climate And Environment](./science/01-climate-and-environment.md)
+
+## health
+
+- [Health And Wellbeing](./health/01-health-and-wellbeing.md)
