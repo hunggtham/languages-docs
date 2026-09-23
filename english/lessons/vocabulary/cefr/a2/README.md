@@ -10,3 +10,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 4. [Health and lifestyle](./04-health-and-lifestyle.md) — thói quen, vận động, giấc ngủ và sức khỏe.
 5. [Opinions and choices](./05-opinions-and-choices.md) — nêu ý kiến, cân nhắc lựa chọn và mức độ chắc chắn.
 6. [Learning and work skills](./06-learning-and-work-skills.md) — kỹ năng, dự án, thời hạn và tiến bộ.
+7. [Community and environment](./07-community-and-environment.md) — khu phố, môi trường và hành động cộng đồng.
