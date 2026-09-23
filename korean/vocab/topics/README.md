@@ -27,6 +27,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [미디어와 문화유산의 현장](./media-and-cultural-heritage/README.md) — `유산을 보존하고 새롭게 선보이는 사람들`
 - [일상 건강과 안전](./everyday-health-and-safety/README.md) — `미리 막고 위급할 때 대응하기`
 - [음식과 일상의 살림](./food-and-everyday-life/README.md) — `재료를 고르고 음식을 안전하게 다루기`
+- [여행과 일상 이동](./travel-and-daily-mobility/README.md) — `여행 계획과 이동 현장`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`

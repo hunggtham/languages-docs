@@ -25,6 +25,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [미디어와 문화유산의 현장](./topics/media-and-cultural-heritage/README.md)
 - [일상 건강과 안전](./topics/everyday-health-and-safety/README.md)
 - [음식과 일상의 살림](./topics/food-and-everyday-life/README.md)
+- [여행과 일상 이동](./topics/travel-and-daily-mobility/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
