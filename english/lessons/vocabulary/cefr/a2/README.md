@@ -53,3 +53,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 47. [Music and visual arts](./47-music-and-visual-arts.md) — nhạc cụ, biểu diễn và tác phẩm nghệ thuật.
 48. [Severe weather and seasons](./48-severe-weather-and-seasons.md) — bão, sương mù và các mùa.
 49. [Body parts and movement](./49-body-parts-and-movement.md) — cơ thể, cơ quan và vận động.
+50. [Cleaning and maintenance](./50-cleaning-and-maintenance.md) — lau dọn, vết bẩn và dụng cụ vệ sinh.
+51. [Relationships and personality](./51-relationships-and-personality.md) — tình bạn, gia đình và tính cách.
+52. [Office technology](./52-office-technology.md) — thiết bị, tệp và hệ thống văn phòng.
