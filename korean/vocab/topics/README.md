@@ -25,6 +25,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [계약과 외주 업무](./contracts-and-outsourcing/README.md) — `외주 계약을 체결하고 마무리하기`
 - [실무 소통과 협업의 기술](./practical-workplace-communication/README.md) — `함께 일하기 위한 말과 태도`
 - [미디어와 문화유산의 현장](./media-and-cultural-heritage/README.md) — `유산을 보존하고 새롭게 선보이는 사람들`
+- [일상 건강과 안전](./everyday-health-and-safety/README.md) — `미리 막고 위급할 때 대응하기`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
