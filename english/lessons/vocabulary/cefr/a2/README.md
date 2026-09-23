@@ -80,3 +80,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 74. [Practical actions](./74-practical-actions.md) — sửa chữa, đóng gói và thao tác bếp.
 75. [City travel](./75-city-travel.md) — đường sắt, địa điểm và đi lại trong thành phố.
 76. [People and jobs](./76-people-and-jobs.md) — nghề nghiệp, vai trò và khách tham quan.
+77. [Thoughts and beliefs](./77-thoughts-and-beliefs.md) — sự thật, niềm tin và suy nghĩ.
+78. [Weather changes](./78-weather-changes.md) — mưa, băng, gió và thời tiết khắc nghiệt.
+79. [Nature details](./79-nature-details.md) — ao, bụi cây, tổ chim và thực vật nhỏ.
