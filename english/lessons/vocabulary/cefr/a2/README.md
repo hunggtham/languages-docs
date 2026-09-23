@@ -68,20 +68,20 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 62. [Gardening and plants](./62-gardening-and-plants.md) — hạt giống, đất, rễ và thu hoạch.
 63. [Directions and position](./63-directions-and-position.md) — phương hướng, vị trí và lộ trình.
 64. [Nuanced emotions](./64-nuanced-emotions.md) — thư giãn, nản, hài lòng và phản ứng xã hội.
-65. [Education life](./65-education-life.md) — kỳ học, học phí, học bổng và giáo dục.
-66. [City landmarks](./66-city-landmarks.md) — đại lộ, bảo tàng và địa danh thành phố.
-67. [Kitchen equipment](./67-kitchen-equipment.md) — thiết bị, nồi, khay và dụng cụ bếp.
-68. [Health visits](./68-health-visits.md) — triệu chứng, thuốc và chăm sóc bệnh nhân.
-69. [Home furnishings](./69-home-furnishings.md) — đồ nội thất, vật dụng và phụ kiện nhà.
-70. [Communication and sounds](./70-communication-sounds.md) — giọng nói, âm thanh và hội thoại.
-71. [Leisure and hobbies](./71-leisure-and-hobbies.md) — nhạc cụ, trò chơi và hoạt động rảnh.
-72. [Food and pantry](./72-food-and-pantry.md) — bữa ăn, gia vị và món tráng miệng.
-73. [Outdoor adventure](./73-outdoor-adventure.md) — địa hình, đường mòn và đồ dã ngoại.
-74. [Practical actions](./74-practical-actions.md) — sửa chữa, đóng gói và thao tác bếp.
-75. [City travel](./75-city-travel.md) — đường sắt, địa điểm và đi lại trong thành phố.
-76. [People and jobs](./76-people-and-jobs.md) — nghề nghiệp, vai trò và khách tham quan.
-77. [Thoughts and beliefs](./77-thoughts-and-beliefs.md) — sự thật, niềm tin và suy nghĩ.
-78. [Weather changes](./78-weather-changes.md) — mưa, băng, gió và thời tiết khắc nghiệt.
-79. [Nature details](./79-nature-details.md) — ao, bụi cây, tổ chim và thực vật nhỏ.
-80. [Home interior and comfort](./80-home-interior.md) — phòng, nội thất và tiện nghi trong nhà.
-81. [Food produce and staples](./81-food-produce.md) — rau củ, trái cây và nguyên liệu thực phẩm.
+65. [Education life](./education/65-education-life.md) — kỳ học, học phí, học bổng và giáo dục.
+66. [City landmarks](./city/66-city-landmarks.md) — đại lộ, bảo tàng và địa danh thành phố.
+67. [Kitchen equipment](./home/67-kitchen-equipment.md) — thiết bị, nồi, khay và dụng cụ bếp.
+68. [Health visits](./health/68-health-visits.md) — triệu chứng, thuốc và chăm sóc bệnh nhân.
+69. [Home furnishings](./home/69-home-furnishings.md) — đồ nội thất, vật dụng và phụ kiện nhà.
+70. [Communication and sounds](./communication/70-communication-sounds.md) — giọng nói, âm thanh và hội thoại.
+71. [Leisure and hobbies](./leisure/71-leisure-and-hobbies.md) — nhạc cụ, trò chơi và hoạt động rảnh.
+72. [Food and pantry](./food/72-food-and-pantry.md) — bữa ăn, gia vị và món tráng miệng.
+73. [Outdoor adventure](./outdoors/73-outdoor-adventure.md) — địa hình, đường mòn và đồ dã ngoại.
+74. [Practical actions](./actions/74-practical-actions.md) — sửa chữa, đóng gói và thao tác bếp.
+75. [City travel](./city/75-city-travel.md) — đường sắt, địa điểm và đi lại trong thành phố.
+76. [People and jobs](./jobs/76-people-and-jobs.md) — nghề nghiệp, vai trò và khách tham quan.
+77. [Thoughts and beliefs](./ideas/77-thoughts-and-beliefs.md) — sự thật, niềm tin và suy nghĩ.
+78. [Weather changes](./weather/78-weather-changes.md) — mưa, băng, gió và thời tiết khắc nghiệt.
+79. [Nature details](./outdoors/79-nature-details.md) — ao, bụi cây, tổ chim và thực vật nhỏ.
+80. [Home interior and comfort](./home/80-home-interior.md) — phòng, nội thất và tiện nghi trong nhà.
+81. [Food produce and staples](./food/81-food-produce.md) — rau củ, trái cây và nguyên liệu thực phẩm.

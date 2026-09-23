@@ -25,7 +25,9 @@ def lesson_rows(level: str) -> list[tuple[int, Path, int]]:
     if not directory.exists():
         return []
     rows: list[tuple[int, Path, int]] = []
-    for path in directory.glob("*.md"):
+    # Topic folders are allowed under each CEFR level. Count every numbered
+    # lesson recursively so reorganizing related lessons does not hide them.
+    for path in directory.rglob("*.md"):
         match = LESSON_RE.match(path.name)
         if not match:
             continue

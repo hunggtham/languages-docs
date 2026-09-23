@@ -40,6 +40,8 @@ Before choosing the exact lesson topic and words:
 5. scan existing vocabulary headings to avoid duplicates;
 6. choose the next coherent topic and continue sequential numbering.
 
+New lessons should be placed in an existing or newly named topic folder when that improves discoverability. Keep the numeric lesson prefix in the filename; `scripts/vocab-progress.py` scans these folders recursively.
+
 ## Resume protocol
 
 At the beginning of every new run:
