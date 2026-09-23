@@ -68,3 +68,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 62. [Gardening and plants](./62-gardening-and-plants.md) — hạt giống, đất, rễ và thu hoạch.
 63. [Directions and position](./63-directions-and-position.md) — phương hướng, vị trí và lộ trình.
 64. [Nuanced emotions](./64-nuanced-emotions.md) — thư giãn, nản, hài lòng và phản ứng xã hội.
+65. [Education life](./65-education-life.md) — kỳ học, học phí, học bổng và giáo dục.
+66. [City landmarks](./66-city-landmarks.md) — đại lộ, bảo tàng và địa danh thành phố.
+67. [Kitchen equipment](./67-kitchen-equipment.md) — thiết bị, nồi, khay và dụng cụ bếp.
