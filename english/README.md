@@ -1,28 +1,25 @@
 # English library structure
 
-Thư mục này được tổ chức theo mục đích sử dụng, không theo nguồn tải về:
+Thư mục này được tổ chức theo mục đích sử dụng, không theo nguồn tải về. `lessons/` là vùng nội dung học đã được tuyển chọn để dùng trực tiếp; `study/` chứa bài học, bài tập và ghi chú đang trong quá trình review; `references/`, `planning/` và `archives/` giữ tài liệu nguồn hoặc dữ liệu hỗ trợ, không được xem là canonical learning content.
 
 ```text
 english/
-├── lessons/       # nội dung học có thể chuẩn hóa/đưa lên web
+├── lessons/
 │   ├── grammar/
 │   ├── vocabulary/
 │   ├── writing/personal-topics/
 │   ├── corrections/
 │   └── exams/
-├── study/         # bài tập lớp và báo cáo ôn tập cá nhân
-├── references/    # sách/PDF/audio tham khảo, không public mặc định
-├── planning/      # workbook, spreadsheet và link quản lý tài liệu
-└── archives/      # bản nén, bộ audio cũ và tài liệu chưa tuyển chọn
+├── study/
+├── references/
+├── planning/
+└── archives/
 ```
 
-`study/my_note_lessons/` là gói chuẩn hoá riêng từ Notion/class export: hiện có
-24 lesson, 24 bộ bài tập, 24 đáp án và 89 ảnh nguồn. Gói này được chuẩn bị để
-review trước khi chọn đưa vào `lessons/` và catalog web.
+Grammar hiện có một curriculum canonical theo luồng khái niệm thay vì chia theo band. Bắt đầu tại [English Grammar — A Natural American English Learning Path](lessons/grammar/README.md). Từ trang đó có thể đọc liên tục từ sentence architecture, reference, tense/aspect và modality đến conditionals, information structure, register, compression và American–British usage differences.
 
-Quy ước:
+`study/my_note_lessons/` là gói chuẩn hoá riêng từ Notion/class export. Nội dung trong đó nên được review trước khi chọn đưa sang `lessons/`; việc nằm trong `study/` không tự động biến tài liệu thành một phần của learning path chính.
 
-- Tên thư mục/file dùng lowercase-kebab-case; số unit có hai chữ số (`unit-01`), ngoại lệ là tên thương hiệu/tựa sách hiển thị trong metadata.
-- `lessons/` là vùng duy nhất được xem xét để hiển thị web.
-- PDF, DOCX, audio, archive và `.webloc` không được đưa lên web tự động; chúng cần được tuyển chọn và tạo metadata riêng.
-- Khi thêm tài liệu, đặt nó vào đúng vùng rồi chạy `python3 scripts/build-content-index.py` nếu muốn đưa vào catalog.
+Tên thư mục và file dùng lowercase-kebab-case; số unit dùng hai chữ số như `unit-01` khi cấu trúc tài liệu thực sự dựa trên unit. PDF, DOCX, audio, archive và `.webloc` không được xem là public lesson mặc định; cần chuyển thành nội dung đọc phù hợp trước khi đưa vào `lessons/`.
+
+README cũ từng nhắc `scripts/build-content-index.py`, nhưng repository hiện tại không có script đó. Vì vậy không nên dựa vào command cũ để publish hoặc rebuild catalog. Khi web/catalog integration được bổ sung lại, command canonical cần được ghi tại đây cùng với script thực tế có trong repository.
