@@ -8,18 +8,18 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 
 - First milestone: 10,000 unique learning items
 - Expansion target: 20,000 unique learning items
-- Canonical lesson size: usually 15–20 items, with no hard 15-item quota; coherent topics may use 16–29 items with one or two review passages as specified in `VOCAB_PROMPT.md`.
+- Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `/prompt/vocabulary_goal/GOAL.md`.
 - Every headword must be reused naturally in a review context.
 - Target integration branch: `feat/vocabulary-learning`
 
 ## Active generation contract
 
-The durable generation goal is defined in `/prompt/VOCAB_GOAL.md`. Read that file before every vocabulary run; this state file records repository position and checkpoint history, not a second copy of the goal prompt.
+The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Read that file before every vocabulary run; this state file records repository position and checkpoint history, not a second copy of the goal prompt.
 
 - Work in the order `A1 → A2 → B1 → B2 → C1 → C2 → C2+`, while keeping CEFR placement and learner usefulness ahead of quotas.
 - Choose a coherent topic or situation first, then add the words needed to teach it. Prefer one well-grouped file over several small files; merge related legacy lessons when that reduces file sprawl without losing coverage.
 - Put each file under its CEFR level and topic folder. Number files independently inside each topic folder (`a2/communication/01-...`, `a2/home/01-...`); a new topic starts at `01`. Preserve historical source coverage in metadata and README links.
-- New files normally contain 15–20 learning items. Do not force 15. Keep 16–20 items in one context; keep 21–29 items in one topic file with two shorter review contexts and Vietnamese translations. Larger legacy consolidation files are allowed only to preserve already-approved source lessons.
+- Do not impose a default item count. Keep each coherent topic together when practical; follow `/prompt/vocabulary_goal/GOAL.md` for review-context handling and legacy consolidation exceptions.
 - For every batch: inspect instructions and nearby lessons, scan headings for duplicate headword+sense coverage, generate original contemporary American-English entries, validate every headword/context and numbering rule, update README and this state file, commit a scoped checkpoint, and continue from the next folder-local number.
 
 ## Current repository progress
@@ -44,7 +44,7 @@ Next lesson: create the next file number inside the selected A2 topic folder (fo
 Before choosing the exact lesson topic and words:
 
 1. read root and vocabulary-specific `AGENTS.md`;
-2. read `/prompt/COMMON_PROMPT.md`, `/prompt/VOCAB_PROMPT.md`, and `/prompt/VOCAB_GOAL.md`;
+2. read `/prompt/COMMON_PROMPT.md`, `/prompt/VOCAB_PROMPT.md`, and `/prompt/vocabulary_goal/GOAL.md`;
 3. read this directory's `README.md` and this state file;
 4. inspect the latest lesson in the active level and an approved pilot;
 5. scan existing vocabulary headings to avoid duplicates;
