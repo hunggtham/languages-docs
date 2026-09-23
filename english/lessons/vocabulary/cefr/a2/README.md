@@ -24,6 +24,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 - [News Reading And Literature](./culture/02-news-reading-and-literature.md)
 - [Arts Sports And Hobbies](./culture/03-arts-sports-and-hobbies.md)
 - [Film And Performance Vocabulary](./culture/04-film-and-performance-vocabulary.md)
+- [Books And Reading](./culture/05-books-and-reading.md)
 ## descriptions
 
 - [People Places And Materials](./descriptions/01-people-places-and-materials.md)
