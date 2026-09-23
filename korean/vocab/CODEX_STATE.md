@@ -38,6 +38,11 @@
 - Coverage: 15 new headwords in one `target_set` passage.
 - Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; cultural claims are framed as beliefs or practices, not verified supernatural facts.
 
+- Topic: `security-resources-and-conflict`
+- File: `01-war-memory-and-resource-competition.md`
+- Coverage: 15 new headwords in one `target_set` passage.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
