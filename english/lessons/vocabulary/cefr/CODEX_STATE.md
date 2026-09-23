@@ -25,13 +25,13 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 ## Current repository progress
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
-- A2: 46 topic files covering source lessons `01`–`81` plus the new expansion batches, 1437 items; topic-folder numbering resets per folder.
+- A2: 48 topic files covering source lessons `01`–`81` plus the new expansion batches, 1481 items; topic-folder numbering resets per folder.
 - B1: 0 items.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
 - C2: pilot lesson `01`, 15 items.
 - C2+: 0 items.
-- Total: 1867 items.
+- Total: 1911 items.
 
 ## Current position
 
@@ -68,7 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 expansion batches added 195 new items across office administration, careers and services, camping equipment, mail and parcel delivery, store shopping, travel arrangements, phone communication, laundry care, doctor visits, daily routines, film/performance vocabulary, and repairs/warranties; all are validated.
-- Next file: `english/lessons/vocabulary/cefr/a2/services/04-...md` or the next number in another selected topic folder; a new topic starts at `01`.
-- Actual counts: A1 400, A2 1437, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1867.
+- A2 expansion batches added 239 new items across office administration, careers and services, camping equipment, mail and parcel delivery, store shopping, travel arrangements, phone communication, laundry care, doctor visits, daily routines, film/performance vocabulary, repairs/warranties, measurements/materials, and online safety; all are validated.
+- Next file: `english/lessons/vocabulary/cefr/a2/communication/06-...md`, `science/03-...md`, or the next number in another selected topic folder; a new topic starts at `01`.
+- Actual counts: A1 400, A2 1481, B1 0, B2 15, C1 0, C2 15, C2+ 0; total 1911.
 - No intentional repeated headwords or known vocabulary blocker in this batch.

@@ -14,6 +14,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 - [Digital Files And Interpersonal Communication](./communication/02-digital-files-and-interpersonal-communication.md)
 - [Writing Sounds And Messages](./communication/03-writing-sounds-and-messages.md)
 - [Phone Calls And Messages](./communication/04-phone-calls-and-messages.md)
+- [Online Safety And Privacy](./communication/05-online-safety-and-privacy.md)
 ## community
 
 - [Community Environment And Responsibility](./community/01-community-environment-and-responsibility.md)
@@ -69,6 +70,7 @@ Số thứ tự được đánh lại độc lập trong từng folder chủ đ�
 ## science
 
 - [Science And Technology](./science/01-science-and-technology.md)
+- [Measurements And Materials](./science/02-measurements-and-materials.md)
 ## services
 
 - [Public Services Information And Civic Life](./services/01-public-services-information-and-civic-life.md)
