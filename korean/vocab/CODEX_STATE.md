@@ -71,7 +71,7 @@
 - Topic: `media-and-cultural-heritage`
 - File: `01-media-and-cultural-heritage.md`
 - Coverage: 15 new headwords in one `target_set` passage.
-- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked. The shared branch also carried unrelated English files in commit `8cd58d5`; Korean scope was re-audited independently.
 
 ## Resume rule
 
