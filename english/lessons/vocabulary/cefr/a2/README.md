@@ -31,3 +31,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 25. [Shopping choices and value](./25-shopping-choices-and-value.md) — so sánh sản phẩm, thanh toán và đổi trả.
 26. [Digital work and files](./26-digital-work-and-files.md) — tổ chức cuộc họp và xử lý tài liệu số.
 27. [Nature and landscapes](./27-nature-and-landscapes.md) — cảnh quan, chuyến đi ngoài trời và thiên nhiên.
+28. [Health problems and care](./28-health-problems-and-care.md) — triệu chứng, điều trị và cấp cứu.
