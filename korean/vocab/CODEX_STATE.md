@@ -61,7 +61,7 @@
 - Topic: `contracts-and-outsourcing`
 - File: `01-contracts-and-outsourcing.md`
 - Coverage: 15 new headwords in one `target_set` passage.
-- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+- Validation: entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; the initial `촉탁` candidate was replaced with `위임` after duplicate coverage was found in a legacy lesson.
 
 ## Resume rule
 
