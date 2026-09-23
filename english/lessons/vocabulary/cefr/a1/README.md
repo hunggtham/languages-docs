@@ -22,5 +22,6 @@
 16. [Jobs and the workday](./16-jobs-and-the-workday.md) — nghề nghiệp, nơi làm việc và một ngày làm việc.
 17. [Shopping and money](./17-shopping-and-money.md) — hỏi giá, chọn đồ và thanh toán.
 18. [Social plans and invitations](./18-social-plans-and-invitations.md) — rủ bạn, hẹn gặp và thống nhất kế hoạch.
+19. [Household chores](./19-household-chores.md) — dọn dẹp, giặt giũ và chia sẻ việc nhà.
 
 Mỗi bài nên học theo flow, có thể chia thành hai phiên đọc nếu bài dài. Đọc to phần examples, sau đó đọc các đoạn context ở cuối bài. Chưa cần học thuộc toàn bộ linking ngay lần đầu; hãy ưu tiên core meaning, grammar pattern và câu ví dụ.
