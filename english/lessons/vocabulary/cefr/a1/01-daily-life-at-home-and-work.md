@@ -4,259 +4,327 @@ Bài này học 15 từ/cụm từ rất cơ bản qua một ngày bình thườ
 
 ---
 
-## 1. wake up /weɪk ʌp/ — phrasal verb — thức giấc; đánh thức · 잠에서 깨다, 깨우다
+## 1. wake up /weɪk ʌp/
 
-**Core meaning & mental image:** Hãy tưởng tượng mắt bạn mở ra sau khi đang ngủ. Đó là `wake up`: chuyển từ trạng thái ngủ sang tỉnh. Bạn có thể đã `wake up` nhưng vẫn còn nằm trên giường, vì vậy nó chưa chắc đã là `get up`.
+**Loại từ & vị trí trong câu:** `phrasal verb` — cụm động từ. Có thể dùng không có tân ngữ khi chính người nói thức giấc, hoặc có tân ngữ ở giữa khi đánh thức người khác: `wake me up` — đánh thức tôi.
 
-**Pronunciation:** `wake` có /eɪ/ giống `make`, còn `up` có /ʌ/ ngắn. Khi nói tự nhiên, hai từ nối liền: `wake_up`. Đừng đọc thành hai khối quá tách biệt.
+**Core meaning — English:** To stop sleeping and become awake, or to make someone stop sleeping.
 
-**Grammar & common patterns:** `wake up` có thể không cần object: `I wake up at seven.` Khi có người bị đánh thức, dùng `wake + someone + up`: `Wake me up at six.` Đại từ thường đứng giữa: `wake me up`, không tự nhiên bằng `wake up me`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung khoảnh khắc từ trạng thái đang ngủ chuyển sang tỉnh. Bạn đã mở mắt và nhận biết xung quanh, nhưng chưa nhất thiết rời khỏi giường. Khi tác động lên người khác, nghĩa chuyển thành làm cho người đó tỉnh ngủ.
 
-**American English in real life:** Người Mỹ rất thường nói `I woke up late`, `What time did you wake up?`, `I just woke up.` `Woke` là past tense của `wake`.
+**Phát âm:** `wake` có âm /eɪ/ giống trong `make`; nói liền `wake up` để hai từ không bị tách cứng.
 
-**Linking:** `get up` là rời giường; `fall asleep` là bắt đầu ngủ. `awaken` cùng nghĩa cơ bản nhưng trang trọng hoặc văn viết hơn. `wake` cũng có thể đứng không có `up`, nhưng trong sinh hoạt hằng ngày `wake up` rất phổ biến.
+**Grammar & collocations:** `wake up at 7` — thức giấc lúc 7 giờ; `wake up early` — thức dậy sớm; `wake someone up` — đánh thức ai đó. Với đại từ, người Mỹ nói `wake me up`, không nói `wake up me`.
 
-**Examples:** `I wake up at 7 every morning.` → Tôi thức giấc lúc 7 giờ mỗi sáng. `Please wake me up before you leave.` → Hãy đánh thức tôi trước khi bạn đi. `I woke up because my phone rang.` → Tôi tỉnh giấc vì điện thoại reo.
+**American English in real life:** `I just woke up.` — Tôi vừa mới thức dậy. Đây là câu rất tự nhiên khi vừa tỉnh ngủ; `woke` là quá khứ của `wake`.
 
----
+**Linking:** `get up` — rời khỏi giường và bắt đầu đứng dậy/hoạt động, nên xảy ra sau `wake up`; `awaken` — thức tỉnh/thức giấc nhưng trang trọng hoặc văn viết hơn; `fall asleep` — bắt đầu đi vào giấc ngủ, gần như hướng ngược lại.
 
-## 2. get up /ɡet ʌp/ — phrasal verb — ra khỏi giường; đứng dậy · 일어나다
+**Examples:** `I wake up at seven every morning.` → Tôi thức giấc lúc 7 giờ mỗi sáng. `Please wake me up at six.` → Làm ơn đánh thức tôi lúc 6 giờ.
 
-**Core meaning & mental image:** Sau khi mắt đã mở (`wake up`), bạn kéo chăn ra, ngồi dậy và rời giường. Đó là `get up`. Từ này cũng có thể nghĩa là đứng dậy từ ghế hoặc sàn tùy ngữ cảnh.
-
-**Pronunciation:** `get` có /e/ như `bed`. Trong lời nói nhanh, âm cuối /t/ nối sang `up`, nên cụm nghe rất liền.
-
-**Grammar & common patterns:** `get up at + time`, `get up early/late`, `get up from + place`. Không cần object khi nói bản thân đứng dậy: `I got up.` Past tense của `get` là `got`.
-
-**American English in real life:** Cặp `wake up` và `get up` xuất hiện rất nhiều khi nói routine: `I wake up at 6:30, but I don't get up until 7.` Câu này cho thấy rõ hai hành động khác nhau.
-
-**Linking:** `stand up` tập trung vào chuyển tư thế sang đứng; `get up` rộng hơn và rất tự nhiên khi nói rời giường. `rise` có thể nghĩa đứng dậy hoặc mọc lên nhưng trang trọng hơn trong nhiều ngữ cảnh.
-
-**Examples:** `I get up at 7:15 on weekdays.` → Tôi ra khỏi giường lúc 7:15 các ngày trong tuần. `Get up! We're late.` → Dậy đi! Chúng ta muộn rồi. `He got up from the sofa.` → Anh ấy đứng dậy khỏi ghế sofa.
+**Liên kết tiếng Hàn:** `잠에서 깨다` — tỉnh khỏi giấc ngủ; `깨우다` — đánh thức người khác.
 
 ---
 
-## 3. breakfast /ˈbrekfəst/ — noun — bữa sáng · 아침 식사
+## 2. get up /ɡet ʌp/
 
-**Core meaning:** `breakfast` là bữa ăn đầu tiên của ngày. Từ này có nguồn gốc từ `break + fast` — chấm dứt thời gian nhịn ăn qua đêm — nhưng người bản ngữ dùng nó như một từ hoàn chỉnh, không nghĩ đến hai phần đó khi nói.
+**Loại từ & vị trí trong câu:** `phrasal verb` — cụm động từ. Thường đứng sau chủ ngữ và không cần tân ngữ khi mang nghĩa ra khỏi giường hoặc đứng dậy.
 
-**Pronunciation:** 2 syllables, trọng âm đầu: **BREK-fəst**. Âm thứ hai rất nhẹ; đừng đọc chậm thành `break-fast`.
+**Core meaning — English:** To leave your bed after sleeping, or to rise from a sitting or lying position.
 
-**Grammar & collocations:** Thường nói `have breakfast`, `eat breakfast`, `make breakfast`, `skip breakfast`. Khi nói tên bữa ăn theo nghĩa chung, thường không dùng article: `I had breakfast at seven.` Khi mô tả một bữa cụ thể, có thể dùng `a`: `We had a big breakfast.`
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Đây là bước cơ thể thực sự chuyển từ nằm/ngồi sang đứng và bắt đầu hoạt động. Vì vậy bạn có thể đã tỉnh từ lâu nhưng vẫn chưa dậy khỏi giường.
 
-**American English in real life:** `grab breakfast` là cách nói rất tự nhiên khi ăn/lấy đồ ăn nhanh: `I'll grab breakfast on the way to work.`
+**Phát âm:** `get` có nguyên âm ngắn /e/ như trong `bed`; khi nói nhanh, `get up` nối khá liền.
 
-**Linking:** `brunch` là bữa muộn kết hợp breakfast và lunch, không phải synonym hoàn toàn. `breakfast food` là đồ ăn thường dùng buổi sáng, chẳng hạn eggs, cereal hoặc pancakes.
+**Grammar & collocations:** `get up at 7` — ra khỏi giường lúc 7 giờ; `get up early` — dậy sớm; `get up from the chair` — đứng dậy khỏi ghế.
 
-**Examples:** `I eat breakfast at home.` → Tôi ăn sáng ở nhà. `She skipped breakfast because she was late.` → Cô ấy bỏ bữa sáng vì bị muộn. `Let's grab breakfast before work.` → Hãy ăn nhanh bữa sáng trước khi đi làm.
+**American English in real life:** `I woke up at seven, but I didn't get up until seven-thirty.` — Tôi tỉnh lúc 7 giờ nhưng đến 7 giờ 30 mới ra khỏi giường. Cặp này thể hiện rất rõ khác biệt giữa tỉnh và thực sự dậy.
 
----
+**Linking:** `wake up` — tỉnh ngủ; `stand up` — đứng lên từ tư thế ngồi/nằm, không nhất thiết liên quan đến ngủ; `rise` — đứng dậy hoặc mọc lên nhưng trang trọng hơn trong nhiều ngữ cảnh.
 
-## 4. eat /iːt/ — verb — ăn · 먹다
+**Examples:** `I usually get up at 6:30.` → Tôi thường ra khỏi giường lúc 6 giờ 30. `Get up! We're late.` → Dậy đi! Chúng ta muộn rồi.
 
-**Core meaning & mental image:** `eat` là đưa thức ăn vào miệng, nhai và nuốt. Đây là động từ trung tính, thông dụng nhất để nói về hành động ăn.
-
-**Pronunciation:** Một syllable với /iː/ dài, giống `see`. Past tense là `ate /eɪt/`, past participle là `eaten /ˈiːtən/`.
-
-**Grammar & common patterns:** Có thể dùng không có object: `Have you eaten?` hoặc có object: `I ate an apple.` Với bữa ăn, cả `eat breakfast` và `have breakfast` đều tự nhiên. `eat out` nghĩa là ăn ngoài hàng.
-
-**American English in real life:** `Let's eat` là câu rất phổ biến khi bắt đầu bữa ăn. `I'm going out to eat` nghĩa là đi ăn ngoài, không phải chỉ “đi ra ngoài để ăn” theo từng chữ.
-
-**Linking:** `have` rất tự nhiên với meals: `have lunch`. `consume` trang trọng và rộng hơn, thường gặp trong báo cáo, nutrition hoặc academic writing. `devour` nghĩa ăn rất nhanh/ngấu nghiến, mạnh hơn nhiều.
-
-**Examples:** `I eat fruit every morning.` → Tôi ăn trái cây mỗi sáng. `Have you eaten yet?` → Bạn ăn chưa? `We usually eat out on Friday.` → Chúng tôi thường ăn ngoài vào thứ Sáu.
+**Liên kết tiếng Hàn:** `일어나다` — đứng dậy hoặc thức dậy; trong ngữ cảnh buổi sáng gần với `get up`.
 
 ---
 
-## 5. drink /drɪŋk/ — verb, countable noun — uống; đồ uống · 마시다, 음료
+## 3. breakfast /ˈbrekfəst/
 
-**Core meaning:** Là verb, `drink` là đưa chất lỏng vào cơ thể. Là noun, `a drink` là một đồ uống. Nghĩa cụ thể phụ thuộc ngữ cảnh.
+**Loại từ & vị trí trong câu:** `noun` — danh từ. Thường dùng sau `have`, `eat`, `make`, `cook` hoặc làm chủ ngữ như `Breakfast is ready` — bữa sáng đã sẵn sàng.
 
-**Pronunciation:** /ɪ/ ngắn như `sit`; cuối từ là /ŋk/. Không thêm một âm `g` riêng sau /ŋ/.
+**Core meaning — English:** The first meal of the day, usually eaten in the morning.
 
-**Grammar & collocations:** `drink water/coffee/tea`, `have a drink`, `get a drink`. Past tense là `drank`; past participle là `drunk`. Ở A1, hãy ưu tiên `drink + liquid`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Đây là bữa ăn đầu tiên sau một đêm ngủ. Hãy gắn từ với hình ảnh buổi sáng, đồ ăn đầu ngày và việc bắt đầu năng lượng cho ngày mới.
 
-**American English in real life:** `Do you want a drink?` có thể chỉ đơn giản là “Bạn muốn uống gì không?”. Trong một số ngữ cảnh người lớn, `drink` có thể ngầm chỉ alcoholic drink, vì vậy phải nhìn tình huống.
+**Phát âm:** Trọng âm ở âm đầu: **BREK-fəst**. Âm thứ hai rất nhẹ; không đọc tách thành hai từ `break` và `fast`.
 
-**Linking:** `sip` là uống từng ngụm nhỏ; `gulp` là nuốt một ngụm lớn/nhanh; `drink` là từ trung tính. `beverage` là noun trang trọng hơn cho “đồ uống”, thường thấy trên menu, nhãn hoặc văn viết.
+**Grammar & collocations:** `have breakfast` — ăn sáng; `eat breakfast` — ăn bữa sáng; `make breakfast` — chuẩn bị bữa sáng; `skip breakfast` — bỏ bữa sáng.
 
-**Examples:** `I drink water with breakfast.` → Tôi uống nước với bữa sáng. `Would you like a drink?` → Bạn muốn uống gì không? `She sipped her coffee slowly.` → Cô ấy nhấp cà phê từ từ.
+**American English in real life:** `grab breakfast` — ăn/lấy bữa sáng nhanh trước khi đi đâu đó. `I'll grab breakfast on the way to work.` — Tôi sẽ ăn nhanh bữa sáng trên đường đi làm.
 
----
+**Linking:** `brunch` — bữa ăn muộn kết hợp giữa breakfast và lunch; `lunch` — bữa trưa; `dinner` — bữa tối hoặc bữa chính buổi tối trong cách dùng phổ biến ở Mỹ.
 
-## 6. go /ɡoʊ/ — verb — đi; di chuyển khỏi điểm hiện tại · 가다
+**Examples:** `I usually have breakfast at home.` → Tôi thường ăn sáng ở nhà. `Breakfast is ready.` → Bữa sáng đã sẵn sàng.
 
-**Core meaning & mental image:** Hãy hình dung một mũi tên đi **ra khỏi đây**. `Go` thường nhìn chuyển động theo hướng rời người nói hoặc rời điểm hiện tại.
-
-**Pronunciation:** Một syllable, /oʊ/ là nguyên âm đôi rất đặc trưng của American English. Past tense là `went`, past participle là `gone`.
-
-**Grammar & common patterns:** `go to work`, `go to school`, `go to Seoul`, nhưng `go home` không có `to`. `go + -ing` thường dùng cho hoạt động: `go shopping`, `go swimming`.
-
-**American English in real life:** `I'm gonna go` xuất hiện rất nhiều trong spoken informal American English. `gonna` là dạng nói nhanh của `going to` trong một số cấu trúc; không nên dùng nó trong academic writing hoặc bài thi viết trang trọng.
-
-**Linking:** `come` hướng về người nói/điểm trung tâm; `go` hướng ra xa. `head to` hoặc `head over to` tự nhiên hơn ở level cao hơn: `I'm heading to work.`
-
-**Common mistake:** `I go to home.` ❌ → `I go home.` ✅
-
-**Examples:** `I go to work at eight.` → Tôi đi làm lúc tám giờ. `Let's go home.` → Về nhà thôi. `We went shopping after lunch.` → Chúng tôi đi mua sắm sau bữa trưa.
+**Liên kết tiếng Hàn:** `아침 식사`, thường nói gọn là `아침` trong hội thoại.
 
 ---
 
-## 7. work /wɝːk/ — verb, uncountable noun — làm việc; công việc; hoạt động được · 일하다, 일
+## 4. eat /iːt/
 
-**Core meaning:** `Work` có một ý trung tâm là **có hoạt động/công sức tạo ra kết quả**. Con người `work`; bạn có `work` cần làm; một chiếc máy `works` nếu nó hoạt động đúng.
+**Loại từ & vị trí trong câu:** `verb` — động từ. Có thể dùng có tân ngữ như `eat an apple` — ăn một quả táo, hoặc không có tân ngữ như `Have you eaten?` — Bạn ăn chưa?
 
-**Pronunciation:** Một syllable. /ɝ/ là âm `r`-colored rất Mỹ. Giữ âm `r` trong nguyên âm, không đọc gần thành “wok”.
+**Core meaning — English:** To put food in your mouth, chew it, and swallow it.
 
-**Grammar & collocations:** `work at a company`, `work in an office`, `work on a project`, `work with someone`. Khi là noun nghĩa “công việc nói chung”, `work` thường không đếm được: `a lot of work`, không phải `many works`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hình ảnh trung tâm là đưa thức ăn vào miệng và ăn nó. Từ này nói trực tiếp về hành động ăn, không nhất thiết nói đến tên bữa ăn.
 
-**American English in real life:** `I'm at work` = tôi đang ở chỗ làm. `I'm off work` = tôi nghỉ/không làm việc lúc đó. `It works` có thể dùng cho máy móc, kế hoạch hoặc giải pháp: `This method works.`
+**Phát âm:** /iː/ là âm dài giống trong `see`; giữ âm dài hơn /ɪ/ trong `sit`.
 
-**Linking:** `job` là một vị trí/công việc cụ thể và đếm được: `two jobs`. `career` là con đường nghề nghiệp dài hạn. `employment` trang trọng hơn, nói về tình trạng hoặc quan hệ việc làm.
+**Grammar & collocations:** `eat breakfast` — ăn sáng; `eat out` — ăn ngoài/ăn ở nhà hàng; `eat healthy food` — ăn thực phẩm lành mạnh; `eat too much` — ăn quá nhiều.
 
-**Common mistake:** `I have many works today.` ❌ → `I have a lot of work today.` ✅
+**American English in real life:** Với tên bữa ăn, người Mỹ dùng cả `eat breakfast` và `have breakfast`. `Let's eat.` — Ăn thôi, là câu rất tự nhiên để bắt đầu bữa ăn.
 
-**Examples:** `I work in an office.` → Tôi làm việc ở văn phòng. `I have a lot of work today.` → Hôm nay tôi có nhiều việc. `My phone isn't working.` → Điện thoại tôi không hoạt động.
+**Linking:** `have` — dùng tự nhiên với tên bữa ăn, như `have lunch` — ăn trưa; `consume` — tiêu thụ, trang trọng và rộng hơn, thường gặp trong báo cáo hoặc học thuật; `bite` — cắn một miếng, chỉ một phần của hành động ăn.
 
----
+**Examples:** `I eat an apple every morning.` → Tôi ăn một quả táo mỗi sáng. `Have you eaten yet?` → Bạn ăn chưa?
 
-## 8. study /ˈstʌdi/ — verb, noun — học có chủ đích; nghiên cứu · 공부하다, 연구하다
-
-**Core meaning:** `Study` tập trung vào **quá trình dành thời gian và sự chú ý để học**. Bạn có thể study rất lâu nhưng chưa chắc đã learn được nhiều; `learn` nhấn mạnh điều đã tiếp thu.
-
-**Pronunciation:** 2 syllables, trọng âm đầu: **STUH-dee**. /ʌ/ giống âm trong `up`.
-
-**Grammar & collocations:** `study English`, `study for a test`, `study at a university`, `study hard`. Với môn học dùng trực tiếp object: `I study English`, không cần `about`.
-
-**American English in real life:** `study for a test` rất tự nhiên trong Mỹ. British English cũng dùng `revise for an exam`; trong American English, `review` thường tự nhiên hơn `revise` khi nghĩa là ôn lại kiến thức.
-
-**Linking:** `learn` = tiếp thu kiến thức/kỹ năng; `study` = thực hiện hoạt động học. `review` = xem lại điều đã học. `research` = nghiên cứu có hệ thống để tạo/kiểm tra kiến thức, không đơn giản là synonym “cao cấp” của `study`.
-
-**Examples:** `I study English after work.` → Tôi học tiếng Anh sau giờ làm. `I'm studying for a test.` → Tôi đang học để chuẩn bị kiểm tra. `I learned five new words today.` → Hôm nay tôi học được năm từ mới.
+**Liên kết tiếng Hàn:** `먹다` — ăn; đây là từ tương đương cơ bản và gần nhất.
 
 ---
 
-## 9. live /lɪv/ — verb — sống; cư trú · 살다, 거주하다
+## 5. drink /drɪŋk/
 
-**Core meaning & mental image:** Với nghĩa này, `live` là có cuộc sống hoặc có nơi cư trú ở một địa điểm. Hãy liên kết nó với câu hỏi rất quen: `Where do you live?`
+**Loại từ & vị trí trong câu:** `verb` và `countable noun` — vừa là động từ “uống”, vừa là danh từ đếm được “một đồ uống”.
 
-**Pronunciation:** Verb `live` đọc /lɪv/, một syllable. Đừng nhầm với adjective `live /laɪv/` trong `live music` hoặc `live show`.
+**Core meaning — English:** To take liquid into your mouth and swallow it; as a noun, something you can drink.
 
-**Grammar & collocations:** `live in + city/country`, `live on + street/floor`, `live with + person`, `live alone`. Không nói `I am live in Seoul` khi `live` là verb thường.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Với động từ, hãy hình dung đưa chất lỏng vào miệng rồi nuốt. Với danh từ, từ này chỉ một thứ để uống, không mặc định là đồ có cồn nếu ngữ cảnh không nói rõ.
 
-**American English in real life:** `I live downtown`, `I live near work`, `I live by myself` đều rất tự nhiên. `by myself` trong ngữ cảnh này thường nghĩa “một mình”.
+**Phát âm:** /ɪ/ là âm ngắn như trong `sit`; cuối từ là /ŋk/, không thêm một âm “gờ” riêng.
 
-**Linking:** `stay` thường chỉ ở tạm: `I'm staying at a hotel.` `reside` gần nghĩa `live` nhưng formal, hay gặp trong legal/administrative English. `settle` nhấn mạnh bắt đầu xây dựng cuộc sống lâu dài ở một nơi.
+**Grammar & collocations:** `drink water` — uống nước; `drink coffee` — uống cà phê; `have a drink` — uống một thứ gì đó; `get a drink` — lấy/mua một đồ uống.
 
-**Common mistake:** `I am live in Seoul.` ❌ → `I live in Seoul.` ✅
+**American English in real life:** `Want to grab a drink?` — Muốn đi uống gì đó không? Tùy ngữ cảnh có thể chỉ đồ uống nói chung hoặc gợi ý đi uống đồ có cồn.
 
-**Examples:** `I live in Seoul.` → Tôi sống ở Seoul. `She lives with her sister.` → Cô ấy sống với chị/em gái. `We're staying near the airport tonight.` → Tối nay chúng tôi ở tạm gần sân bay.
+**Linking:** `sip` — nhấp từng ngụm nhỏ; `gulp` — uống một ngụm lớn hoặc uống nhanh; `beverage` — đồ uống, trang trọng hơn `drink` và thường gặp trên menu, nhãn hoặc văn bản thương mại.
 
----
+**Examples:** `I drink water with breakfast.` → Tôi uống nước cùng bữa sáng. `Would you like a drink?` → Bạn có muốn uống gì không?
 
-## 10. apartment /əˈpɑrtmənt/ — countable noun — căn hộ · 아파트, 공동주택의 한 세대
-
-**Core meaning:** Trong American English, an `apartment` là một đơn vị nhà ở riêng bên trong một building có nhiều đơn vị khác. Bạn có thể rent an apartment hoặc live in an apartment.
-
-**Pronunciation:** 3 syllables, trọng âm giữa: ə-**PART**-mənt. Âm đầu và cuối đều nhẹ. American /r/ trong `part` được phát âm rõ.
-
-**Grammar & collocations:** `an apartment`, `a small apartment`, `rent an apartment`, `apartment building`, `apartment complex`. Đây là countable noun: `one apartment`, `two apartments`.
-
-**US ↔ UK:** Mỹ thường nói `apartment`; Anh thường nói `flat`. Trong Mỹ, `condo` thường nói đến căn hộ thuộc quyền sở hữu cá nhân; `apartment` thường gắn với rental, dù cách gọi thực tế còn tùy loại property.
-
-**Linking:** `house` thường là căn nhà riêng như một building; `home` là nơi mình sống và có sắc thái “tổ ấm”, không nhất thiết là loại building. `studio` là một dạng apartment nhỏ với không gian chính không tách phòng ngủ riêng.
-
-**Examples:** `I rent a small apartment.` → Tôi thuê một căn hộ nhỏ. `Her apartment is near the station.` → Căn hộ của cô ấy gần ga. `This apartment building has ten floors.` → Tòa căn hộ này có mười tầng.
+**Liên kết tiếng Hàn:** `마시다` — uống; `음료` — đồ uống.
 
 ---
 
-## 11. cook /kʊk/ — verb, countable noun — nấu ăn; người nấu ăn · 요리하다, 요리하는 사람
+## 6. go /ɡoʊ/
 
-**Core meaning:** Là verb, `cook` là chuẩn bị thức ăn, thường bằng nhiệt. Là noun, `a cook` là người nấu ăn. Hai nghĩa dùng rất thường xuyên.
+**Loại từ & vị trí trong câu:** `verb` — động từ. Thường theo sau bởi địa điểm, hướng đi hoặc hoạt động: `go to work` — đi làm; `go home` — về nhà; `go shopping` — đi mua sắm.
 
-**Pronunciation:** Một syllable. /ʊ/ ngắn như `book`, không phải /uː/ dài như `food`.
+**Core meaning — English:** To move or travel from one place to another, usually away from where you are now.
 
-**Grammar & collocations:** `cook dinner`, `cook for someone`, `cook at home`, `cook rice`. Khi noun: `a good cook`. `Cook` có thể dùng không object: `I don't cook much.`
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy tưởng tượng mũi tên rời khỏi vị trí hiện tại để đi sang nơi khác. Đây là lý do từ này thường đối lập với ý “đến về phía người nói”.
 
-**American English in real life:** `I cook at home most nights` là cách nói rất tự nhiên về routine. `home-cooked meal` là bữa ăn nấu tại nhà, thường mang sắc thái ấm cúng/tích cực.
+**Phát âm:** /oʊ/ là nguyên âm đôi kiểu Mỹ; bắt đầu với âm “o” rồi khép nhẹ ở cuối.
 
-**Linking:** `prepare` rộng hơn `cook`; bạn có thể `prepare a salad` mà không dùng nhiệt. `chef` không chỉ là cách nói sang hơn của `cook`: chef thường là đầu bếp chuyên nghiệp, đặc biệt trong kitchen chuyên nghiệp.
+**Grammar & collocations:** `go to work` — đi làm; `go to school` — đi học; `go home` — về nhà, không dùng `to` trước `home`; `go out` — đi ra ngoài; `go back` — quay lại.
 
-**Word family:** `cooking` = việc nấu ăn; `cooked` = đã nấu chín.
+**Common mistake:** `go to home` không tự nhiên trong nghĩa “về nhà”; người Mỹ nói `go home`.
 
-**Examples:** `I cook dinner after work.` → Tôi nấu bữa tối sau giờ làm. `My dad is a great cook.` → Bố tôi nấu ăn rất giỏi. `She prepared a salad while I cooked the chicken.` → Cô ấy chuẩn bị salad trong khi tôi nấu gà.
+**Linking:** `come` — di chuyển về phía người nói hoặc điểm được xem là trung tâm; `leave` — rời khỏi một nơi, nhấn mạnh điểm xuất phát; `head to` — đi về phía một nơi, tự nhiên trong hội thoại ở level cao hơn.
 
----
+**Examples:** `I go to work at eight.` → Tôi đi làm lúc 8 giờ. `Let's go home.` → Về nhà thôi.
 
-## 12. clean /kliːn/ — adjective, verb — sạch; làm sạch · 깨끗한, 청소하다
-
-**Core meaning & mental image:** Là adjective, `clean` mô tả thứ không bẩn. Là verb, nó nghĩa là làm cho một thứ trở nên sạch. Hãy nhớ cả trạng thái và hành động: `The room is clean` ↔ `I clean the room`.
-
-**Pronunciation:** Một syllable với /iː/ dài như `see`.
-
-**Grammar & collocations:** `clean the room`, `clean the kitchen`, `clean up`, `keep something clean`. `clean up` thường nhấn mạnh dọn/làm sạch một khu vực sau khi có sự bừa bộn: `Let's clean up after dinner.`
-
-**American English in real life:** `clean the apartment` tự nhiên khi nói vệ sinh; `clean up` rất phổ biến khi nói với trẻ em, sau bữa ăn hoặc sau một hoạt động.
-
-**Linking:** `tidy` tập trung vào gọn gàng/ngăn nắp, không nhất thiết sạch bụi. `sanitize` là làm giảm vi khuẩn/mầm bệnh và mang sắc thái kỹ thuật hơn. `wash` thường dùng nước/chất lỏng để rửa.
-
-**Word family:** `cleaner` có thể là người/chất/dụng cụ làm sạch; `cleanliness` là sự sạch sẽ.
-
-**Examples:** `The kitchen is clean.` → Bếp sạch. `I clean my apartment on Saturday.` → Tôi dọn căn hộ vào thứ Bảy. `Let's clean up the table.` → Hãy dọn bàn đi.
+**Liên kết tiếng Hàn:** `가다` — đi; đối lập cơ bản với `오다` — đến.
 
 ---
 
-## 13. help /help/ — verb, noun — giúp; sự giúp đỡ · 돕다, 도움
+## 7. work /wɝːk/
 
-**Core meaning:** `Help` là làm cho việc của ai đó trở nên dễ hơn hoặc làm cùng để họ đạt được điều cần làm. Đây là một từ rất rộng và tự nhiên trong mọi level.
+**Loại từ & vị trí trong câu:** `verb` và `usually uncountable noun` — động từ “làm việc” và thường là danh từ không đếm được khi nói “công việc nói chung”. `Work` cũng là động từ khi nói máy móc/phương pháp hoạt động.
 
-**Pronunciation:** Một syllable. Giữ rõ /h/ đầu và cụm /lp/ cuối.
+**Core meaning — English:** To do an activity that requires effort, especially as a job; as a noun, the activity or tasks you need to do.
 
-**Grammar & common patterns:** `help someone`, `help someone do something`, `help someone with something`. Trong American English, `help me do this` rất tự nhiên; `help me to do this` cũng đúng nhưng `to` thường được bỏ trong hội thoại.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Ý trung tâm là bỏ công sức để hoàn thành việc gì đó. Khi là danh từ, nó chỉ khối lượng công việc nói chung chứ không phải một vị trí nghề nghiệp cụ thể.
 
-**American English in real life:** `Can I help you?`, `Thanks for your help`, `That helps a lot` là các cụm cực kỳ phổ biến. `help out` có sắc thái thân mật hơn: giúp khi đang cần một tay.
+**Phát âm:** Âm /ɝ/ là âm “r” đặc trưng của American English; giữ âm `r` rõ, không đọc tách thành hai âm rời.
 
-**Linking:** `assist` formal hơn và hay dùng trong customer service, workplace hoặc writing. `support` rộng hơn, có thể là hỗ trợ tinh thần, tài chính hoặc kỹ thuật. `aid` thường formal và xuất hiện trong medical/humanitarian contexts.
+**Grammar & collocations:** `work at a company` — làm việc tại một công ty; `work on a project` — làm về một dự án; `work with someone` — làm việc cùng ai; `a lot of work` — nhiều việc; `work well` — hoạt động tốt.
 
-**Word family:** `helpful` = hữu ích/hay giúp đỡ; `helpless` = không thể tự giúp mình; `helper` = người hỗ trợ.
+**Common mistake:** `I have many works` không dùng để nói “tôi có nhiều việc”. Vì `work` trong nghĩa này không đếm được, nói `I have a lot of work` — Tôi có nhiều việc.
 
-**Examples:** `Can you help me carry this?` → Bạn giúp tôi mang cái này được không? `Thanks for your help.` → Cảm ơn sự giúp đỡ của bạn. `She helped me with my homework.` → Cô ấy giúp tôi làm bài tập.
+**American English in real life:** `I'm at work.` — Tôi đang ở chỗ làm; `I'm working from home.` — Tôi đang làm việc tại nhà.
 
----
+**Linking:** `job` — một công việc/vị trí cụ thể và đếm được, như `a job`; `career` — con đường nghề nghiệp dài hạn; `task` — một nhiệm vụ cụ thể cần hoàn thành.
 
-## 14. tired /ˈtaɪɚd/ — adjective — mệt · 피곤한
+**Examples:** `I work in an office.` → Tôi làm việc trong văn phòng. `My phone doesn't work.` → Điện thoại của tôi không hoạt động.
 
-**Core meaning & mental image:** `Tired` là trạng thái cơ thể hoặc đầu óc còn ít năng lượng sau khi làm việc, học, vận động hoặc thiếu nghỉ ngơi. Nó là từ trung tính và phổ biến nhất để nói “mệt”.
-
-**Pronunciation:** Thường nghe như một syllable hoặc gần hai rất ngắn tùy người nói. American /r/ rõ: /ˈtaɪɚd/. Đừng bỏ âm cuối /d/ hoàn toàn.
-
-**Grammar & collocations:** `be tired`, `feel tired`, `get tired`, `tired from work`, `tired after a long day`. `tired of + noun/-ing` lại có nghĩa “chán/ngán”: `I'm tired of waiting.` Đây là một nghĩa khác rất quan trọng.
-
-**Linking:** `sleepy` = buồn ngủ, muốn ngủ; bạn có thể sleepy mà không kiệt sức. `exhausted` = mệt kiệt sức, mạnh hơn nhiều. `worn out` = rất mệt, rất tự nhiên trong conversational American English. `fatigued` = formal hơn, thường gặp trong medical/technical writing.
-
-**Word family:** `tire` (verb), `tiring` = gây mệt, `tired` = cảm thấy mệt.
-
-**Common mistake:** `I'm tiring.` thường nghĩa “Tôi khiến người khác mệt/chán”, không phải “Tôi đang mệt”. Muốn nói mình mệt: `I'm tired.`
-
-**Examples:** `I'm tired after work.` → Tôi mệt sau giờ làm. `I'm sleepy, so I'm going to bed.` → Tôi buồn ngủ nên sẽ đi ngủ. `That long meeting was tiring.` → Cuộc họp dài đó làm người ta mệt.
+**Liên kết tiếng Hàn:** `일하다` — làm việc; `일` — công việc/việc phải làm.
 
 ---
 
-## 15. sleep /sliːp/ — verb, usually uncountable noun — ngủ; giấc ngủ · 자다, 수면
+## 8. study /ˈstʌdi/
 
-**Core meaning:** Là verb, `sleep` là ở trong trạng thái nghỉ tự nhiên khi cơ thể và não giảm hoạt động có ý thức. Là noun, nó nói về giấc ngủ nói chung: `I need more sleep.`
+**Loại từ & vị trí trong câu:** `verb` và `noun` — động từ “học/nghiên cứu” và danh từ “việc nghiên cứu” trong một số ngữ cảnh. Ở A1, ưu tiên động từ.
 
-**Pronunciation:** Một syllable với /iː/ dài. Past tense và past participle đều là `slept /slept/`.
+**Core meaning — English:** To spend time learning about a subject by reading, practicing, or paying attention to it.
 
-**Grammar & collocations:** `sleep well`, `sleep for eight hours`, `go to sleep`, `fall asleep`, `get some sleep`. `Go to bed` là đi lên giường; `go to sleep` là bắt đầu ngủ — hai việc không hoàn toàn giống nhau.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung bạn chủ động ngồi xuống, tập trung vào một môn hoặc tài liệu để hiểu và ghi nhớ. Từ này nhấn vào quá trình học có chủ đích.
 
-**American English in real life:** `I didn't get much sleep last night` rất tự nhiên. Người Mỹ cũng thường nói `I need to get some sleep` hơn là cố dịch từng chữ từ tiếng Việt.
+**Phát âm:** 2 âm tiết, trọng âm ở âm đầu: **STUH**-dee. Âm /ʌ/ giống trong `up`.
 
-**Linking:** `nap` là giấc ngủ ngắn, thường ban ngày. `rest` là nghỉ, nhưng có thể vẫn thức. `doze off` là thiếp đi nhẹ, thường ngoài ý muốn. `fall asleep` nhấn mạnh khoảnh khắc chuyển từ thức sang ngủ.
+**Grammar & collocations:** `study English` — học tiếng Anh; `study for a test` — học để chuẩn bị cho bài kiểm tra; `study at university` — học tại đại học; `study hard` — học chăm chỉ.
 
-**Common mistake:** `I want sleep.` nghe không tự nhiên trong đa số tình huống → `I want to sleep` hoặc `I need some sleep`.
+**US ↔ UK:** American English thường dùng `review` — ôn lại kiến thức; British English thường dùng `revise` nhiều hơn khi nói ôn thi.
 
-**Examples:** `I usually sleep seven hours.` → Tôi thường ngủ bảy tiếng. `I couldn't fall asleep last night.` → Tối qua tôi không thể ngủ được. `I'm going to take a short nap.` → Tôi sẽ ngủ trưa/chợp mắt một lát.
+**Linking:** `learn` — thực sự tiếp thu/biết thêm điều gì sau quá trình học; `study` — hoạt động học. Bạn có thể `study for two hours` — học trong hai giờ, và `learn ten new words` — học được mười từ mới.
+
+**Examples:** `I study English after work.` → Tôi học tiếng Anh sau giờ làm. `She is studying for a test.` → Cô ấy đang học để chuẩn bị cho bài kiểm tra.
+
+**Liên kết tiếng Hàn:** `공부하다` — học; `연구하다` — nghiên cứu, dùng khi nghĩa sâu/chuyên môn hơn.
+
+---
+
+## 9. live /lɪv/
+
+**Loại từ & vị trí trong câu:** `verb` — động từ. Thường đi với nơi chốn hoặc người sống cùng: `live in Seoul` — sống ở Seoul; `live with my family` — sống cùng gia đình; `live alone` — sống một mình.
+
+**Core meaning — English:** To have your home in a particular place, or to be alive.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Ở nghĩa chính của bài này, hãy hình dung nơi bạn xem là chỗ ở thường xuyên của mình. Đây không phải chỉ ở tạm vài hôm mà là nơi bạn thực sự sống.
+
+**Phát âm:** Động từ `live` dùng /lɪv/. Đừng nhầm với adjective `live` /laɪv/ trong “trực tiếp” như nhạc biểu diễn trực tiếp.
+
+**Grammar & collocations:** `live in + city/country` — sống ở thành phố/quốc gia; `live with + person` — sống cùng ai; `live alone` — sống một mình; `live near + place` — sống gần nơi nào đó.
+
+**Linking:** `stay` — ở lại hoặc ở tạm trong một khoảng thời gian; `reside` — cư trú, trang trọng hơn và thường gặp trong hành chính/pháp lý; `be alive` — còn sống, dùng khi nói sự sống chứ không phải nơi ở.
+
+**Examples:** `I live in Seoul.` → Tôi sống ở Seoul. `She lives with her parents.` → Cô ấy sống cùng bố mẹ.
+
+**Liên kết tiếng Hàn:** `살다` — sống; `거주하다` — cư trú, trang trọng hơn.
+
+---
+
+## 10. apartment /əˈpɑrtmənt/
+
+**Loại từ & vị trí trong câu:** `countable noun` — danh từ đếm được. Có thể nói `an apartment`, `two apartments`, `my apartment`.
+
+**Core meaning — English:** A set of rooms for living in, usually on one floor of a larger building.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một căn nhà riêng nằm bên trong một tòa nhà có nhiều căn khác. Bạn có không gian sống của riêng mình nhưng chia sẻ tòa nhà, hành lang hoặc tiện ích với người khác.
+
+**Phát âm:** 3 âm tiết, trọng âm ở âm giữa: ə-**PART**-mənt.
+
+**Grammar & collocations:** `rent an apartment` — thuê căn hộ; `live in an apartment` — sống trong căn hộ; `a one-bedroom apartment` — căn hộ một phòng ngủ.
+
+**US ↔ UK:** American English thường dùng `apartment`; British English thường dùng `flat`. Trong Mỹ, `condo` thường nói đến căn hộ thuộc sở hữu cá nhân, trong khi `apartment` thường gợi căn thuê, dù cách gọi thực tế còn phụ thuộc loại bất động sản.
+
+**Linking:** `house` — nhà riêng thường là một công trình độc lập; `condo` — căn hộ sở hữu cá nhân; `studio` — căn hộ nhỏ thường có không gian ngủ và sinh hoạt chung trong một phòng chính.
+
+**Examples:** `I live in a small apartment.` → Tôi sống trong một căn hộ nhỏ. `Her apartment is near the station.` → Căn hộ của cô ấy gần ga.
+
+**Liên kết tiếng Hàn:** `아파트` — căn hộ/chung cư; phạm vi dùng trong tiếng Hàn có thể rộng hơn cách `apartment` được hiểu trong một số ngữ cảnh Mỹ.
+
+---
+
+## 11. cook /kʊk/
+
+**Loại từ & vị trí trong câu:** `verb` và `countable noun` — động từ “nấu” và danh từ “người nấu ăn”.
+
+**Core meaning — English:** To prepare food, especially by heating it; as a noun, a person who prepares food.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Ý chính là chuẩn bị thức ăn, đặc biệt bằng nhiệt. Khi chỉ người, từ này nói một người nấu ăn chứ không mặc định là đầu bếp chuyên nghiệp.
+
+**Phát âm:** /ʊ/ là âm ngắn giống trong `book`, không kéo dài như /uː/ trong `food`.
+
+**Grammar & collocations:** `cook dinner` — nấu bữa tối; `cook at home` — nấu ở nhà; `cook for someone` — nấu cho ai; `a good cook` — người nấu ăn ngon.
+
+**Linking:** `chef` — đầu bếp chuyên nghiệp, đặc biệt trong nhà hàng; `prepare` — chuẩn bị thức ăn, rộng hơn `cook` vì có thể không dùng nhiệt; `bake` — nướng bằng nhiệt khô, thường dùng với bánh hoặc món nướng trong lò.
+
+**Examples:** `I cook dinner at home.` → Tôi nấu bữa tối ở nhà. `My father is a good cook.` → Bố tôi là người nấu ăn ngon.
+
+**Liên kết tiếng Hàn:** `요리하다` — nấu ăn; `요리사` — người làm nghề nấu ăn/đầu bếp.
+
+---
+
+## 12. clean /kliːn/
+
+**Loại từ & vị trí trong câu:** `adjective` và `verb` — tính từ “sạch” và động từ “làm sạch”. Khi là adjective, có thể đứng trước noun hoặc sau `be`; khi là verb, đứng sau chủ ngữ và có thể nhận tân ngữ.
+
+**Core meaning — English:** Free from dirt or unwanted material; as a verb, to remove dirt and make something clean.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy giữ hai hình ảnh cùng lúc: một vật đang ở trạng thái sạch, và hành động loại bỏ bụi bẩn để đưa vật về trạng thái đó.
+
+**Phát âm:** /iː/ là âm dài giống trong `eat`.
+
+**Grammar & collocations:** `a clean room` — một căn phòng sạch; `the room is clean` — căn phòng sạch; `clean the kitchen` — dọn/làm sạch bếp; `clean up` — dọn dẹp cho gọn/sạch sau một hoạt động.
+
+**Linking:** `tidy` — gọn gàng, tập trung vào sắp xếp đồ đúng chỗ; `sanitize` — khử/giảm vi khuẩn để vệ sinh hơn; `wash` — rửa bằng nước hoặc chất lỏng. Một phòng có thể `tidy` nhưng vẫn chưa thật `clean`.
+
+**Examples:** `The kitchen is clean.` → Bếp sạch. `I clean my apartment on Saturday.` → Tôi dọn căn hộ vào thứ Bảy.
+
+**Liên kết tiếng Hàn:** `깨끗한` — sạch; `청소하다` — dọn/làm vệ sinh.
+
+---
+
+## 13. help /help/
+
+**Loại từ & vị trí trong câu:** `verb` và `noun` — động từ “giúp” và danh từ “sự giúp đỡ”. Với verb, thường theo sau bởi người được giúp hoặc hành động cần hỗ trợ.
+
+**Core meaning — English:** To make it easier for someone to do something, or to give support when it is needed.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hình ảnh chính là làm cho việc của người khác trở nên dễ hơn, nhanh hơn hoặc khả thi hơn bằng cách hỗ trợ họ.
+
+**Grammar & collocations:** `help someone` — giúp ai; `help someone do something` — giúp ai làm việc gì; `help with something` — giúp về việc gì; `ask for help` — nhờ giúp đỡ.
+
+**American English in real life:** `Can you help me carry this?` — Bạn có thể giúp tôi mang cái này không? Trong American English, sau `help + person`, động từ nguyên mẫu không `to` rất tự nhiên.
+
+**Linking:** `assist` — hỗ trợ, trang trọng hơn và hay dùng trong dịch vụ/công việc; `support` — hỗ trợ rộng hơn, có thể là tinh thần, tài chính hoặc kỹ thuật; `aid` — trợ giúp, thường trang trọng hoặc dùng trong cứu trợ/y tế.
+
+**Word family:** `helpful` — hữu ích/hay giúp đỡ; `helpless` — bất lực, không thể tự giúp mình; `helper` — người hỗ trợ.
+
+**Examples:** `Can you help me with this bag?` → Bạn có thể giúp tôi với chiếc túi này không? `Thanks for your help.` → Cảm ơn vì sự giúp đỡ của bạn.
+
+**Liên kết tiếng Hàn:** `돕다` — giúp đỡ; `도움` — sự giúp đỡ.
+
+---
+
+## 14. tired /ˈtaɪɚd/
+
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng sau `be`, `feel`, `get`: `I'm tired` — tôi mệt; `feel tired` — cảm thấy mệt; `get tired` — trở nên mệt.
+
+**Core meaning — English:** Needing rest because you have used a lot of physical or mental energy.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung “pin năng lượng” của cơ thể hoặc đầu óc đã giảm thấp sau khi làm việc, học, vận động hoặc thiếu nghỉ ngơi. Mệt không nhất thiết có nghĩa là muốn ngủ ngay.
+
+**Phát âm:** Một âm tiết chính; phần cuối có âm `r` kiểu Mỹ trước `d`, nên không bỏ âm `r`.
+
+**Grammar & collocations:** `be tired` — đang mệt; `feel tired` — cảm thấy mệt; `get tired` — bắt đầu/trở nên mệt; `tired from work` — mệt vì công việc; `tired of something` — chán/ngán điều gì, đây là một nghĩa khác với mệt thể chất.
+
+**Linking:** `sleepy` — buồn ngủ, nhấn vào muốn ngủ; `exhausted` — kiệt sức, mạnh hơn nhiều; `worn out` — mệt rã rời, rất tự nhiên trong hội thoại Mỹ; `fatigued` — mệt mỏi, trang trọng hơn và thường gặp trong y khoa hoặc văn viết.
+
+**Examples:** `I'm tired after work.` → Tôi mệt sau giờ làm. `I'm tired, but I'm not sleepy yet.` → Tôi mệt nhưng vẫn chưa buồn ngủ.
+
+**Liên kết tiếng Hàn:** `피곤한` — mệt; `지친` — mệt rã rời/kiệt sức hơn.
+
+---
+
+## 15. sleep /sliːp/
+
+**Loại từ & vị trí trong câu:** `verb` và `usually uncountable noun` — động từ “ngủ” và danh từ “giấc ngủ” khi nói chung.
+
+**Core meaning — English:** To rest with your eyes closed and your body and mind in a natural state of reduced activity.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Đây là trạng thái cơ thể và đầu óc nghỉ tự nhiên trong một khoảng thời gian. Hãy gắn từ với cả hành động ngủ và khái niệm giấc ngủ nói chung.
+
+**Phát âm:** /iː/ là âm dài; kéo rõ hơn âm /ɪ/ ngắn.
+
+**Grammar & collocations:** `sleep for eight hours` — ngủ trong tám tiếng; `sleep well` — ngủ ngon; `go to sleep` — đi vào trạng thái ngủ; `get some sleep` — ngủ/nghỉ một chút; `need sleep` — cần ngủ.
+
+**Common mistake:** `go to bed` — đi lên giường/đi ngủ theo nghĩa chuẩn bị ngủ; `go to sleep` — thực sự bắt đầu chìm vào giấc ngủ. Hai cụm này liên quan nhưng không hoàn toàn giống nhau.
+
+**Linking:** `nap` — giấc ngủ ngắn ban ngày; `rest` — nghỉ ngơi nhưng không nhất thiết ngủ; `fall asleep` — bắt đầu ngủ; `be asleep` — đang trong trạng thái ngủ.
+
+**Examples:** `I usually sleep for seven hours.` → Tôi thường ngủ bảy tiếng. `I need to get some sleep.` → Tôi cần ngủ một chút.
+
+**Liên kết tiếng Hàn:** `자다` — ngủ; `수면` — giấc ngủ, cách nói trang trọng hơn.
 
 ---
 
@@ -264,8 +332,8 @@ Bài này học 15 từ/cụm từ rất cơ bản qua một ngày bình thườ
 
 ## A normal weekday
 
-I usually **wake up** at 6:30, but I don't **get up** right away. After a few minutes, I make **breakfast**, **eat** some eggs, and **drink** coffee. At 8:00, I **go** to **work**. During lunch, I sometimes **study** English for twenty minutes. I **live** in a small **apartment** near my office, so I can get home quickly. In the evening, I **cook** dinner and **clean** the kitchen. My brother sometimes calls and asks me to **help** him with English. By 11:00, I feel **tired**, so I turn off my phone and **sleep** for about seven hours.
+I **wake up** at seven, but I usually **get up** a few minutes later. I have **breakfast**, **eat** some fruit, and **drink** coffee before I **go** to **work**. After work, I **study** English for about an hour. I **live** in a small **apartment**, so I usually **cook** dinner and **clean** the kitchen myself. Sometimes my friend comes over and **helps** me prepare food. By ten o'clock, I am usually **tired**. I put my phone away, get ready for bed, and try to **sleep** before eleven so I have enough energy for the next day.
 
 ## Nghĩa tiếng Việt
 
-Tôi thường thức giấc lúc 6:30, nhưng không ra khỏi giường ngay. Sau vài phút, tôi làm bữa sáng, ăn một ít trứng và uống cà phê. Lúc 8 giờ, tôi đi làm. Trong giờ ăn trưa, đôi khi tôi học tiếng Anh khoảng hai mươi phút. Tôi sống trong một căn hộ nhỏ gần văn phòng nên có thể về nhà nhanh. Buổi tối, tôi nấu bữa tối và dọn bếp. Em/trai tôi đôi khi gọi và nhờ tôi giúp học tiếng Anh. Khoảng 11 giờ, tôi cảm thấy mệt nên tắt điện thoại và ngủ khoảng bảy tiếng.
+Tôi thức giấc lúc 7 giờ nhưng thường vài phút sau mới ra khỏi giường. Tôi ăn sáng, ăn một ít trái cây và uống cà phê trước khi đi làm. Sau giờ làm, tôi học tiếng Anh khoảng một tiếng. Tôi sống trong một căn hộ nhỏ nên thường tự nấu bữa tối và dọn bếp. Đôi khi bạn tôi ghé qua và giúp tôi chuẩn bị đồ ăn. Khoảng 10 giờ, tôi thường đã mệt. Tôi cất điện thoại, chuẩn bị đi ngủ và cố ngủ trước 11 giờ để có đủ năng lượng cho ngày hôm sau.

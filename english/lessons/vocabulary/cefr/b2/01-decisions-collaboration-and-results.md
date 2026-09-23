@@ -4,269 +4,305 @@
 
 ---
 
-## 1. evaluate /ɪˈvæljueɪt/ — verb — đánh giá có hệ thống · 평가하다, 검토하다
+## 1. evaluate /ɪˈvæljuˌeɪt/
 
-**Core meaning:** `Evaluate` không chỉ là “nhìn và cho ý kiến”. Nó nghĩa là xem xét chất lượng, giá trị, hiệu quả hoặc mức độ phù hợp của một thứ dựa trên tiêu chí nào đó. Mental image: đặt một phương án lên bàn, kiểm tra từng mặt rồi mới đưa ra judgment.
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ thường cần tân ngữ. Mẫu cơ bản là `evaluate + something`, nghĩa là đánh giá một thứ dựa trên tiêu chí hoặc bằng chứng.
 
-**Pronunciation:** 4 syllables: i-**VAL**-yu-ate. Trọng âm chính ở `VAL`. Đuôi `-ate` là /eɪt/ ở verb này.
+**Core meaning — English:** To judge the quality, value, effectiveness, or importance of something after considering it carefully.
 
-**Grammar & collocations:** `evaluate a proposal`, `evaluate performance`, `evaluate the effectiveness of`, `evaluate whether...`. Đây là transitive verb nên thường có object: `We need to evaluate the plan.`
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung bạn đặt một vấn đề lên bàn cân, nhìn vào nhiều tiêu chí rồi mới đưa ra nhận định. Từ này không chỉ là “nhìn qua” mà có hàm ý xem xét có hệ thống.
 
-**American English in real life:** Trong workplace, `evaluate` trang trọng và có hệ thống hơn `look at`. Một manager có thể `evaluate performance`; một team có thể `evaluate options` trước khi quyết định.
+**Phát âm:** 4 âm tiết, trọng âm chính ở `VAL`: i-**VAL**-yu-ate.
 
-**Linking:** `assess` rất gần, thường nhấn mạnh xác định mức độ/tình trạng, đặc biệt risk, skill hoặc damage. `review` là xem lại để kiểm tra/thảo luận, chưa chắc đưa ra judgment tổng thể. `judge` trực tiếp hơn và đôi khi mang sắc thái cá nhân. `analyze` là chia vấn đề thành phần để hiểu; analysis có thể là bước trước evaluation.
+**Grammar & collocations:** `evaluate performance` — đánh giá hiệu suất; `evaluate the evidence` — đánh giá bằng chứng; `evaluate whether something works` — đánh giá xem một thứ có hiệu quả hay không; `carefully evaluate` — đánh giá cẩn thận.
 
-**Word family:** `evaluation` (n), `evaluator` (n), `evaluative` (adj, formal).
+**Register & nuance:** Đây là từ trung tính đến trang trọng, rất tự nhiên trong công việc, học thuật và báo cáo. Trong hội thoại đời thường, người Mỹ có thể dùng `assess` hoặc đơn giản là `look at` tùy mức độ trang trọng, nhưng `evaluate` nhấn mạnh việc đưa ra judgment có cơ sở.
 
-**Examples:** `We evaluated three vendors before choosing one.` → Chúng tôi đánh giá ba nhà cung cấp trước khi chọn. `The report evaluates whether the program is effective.` → Báo cáo đánh giá liệu chương trình có hiệu quả hay không.
+**Linking:** `assess` — đánh giá tình trạng, mức độ hoặc giá trị, rất gần `evaluate`; `analyze` — phân tích thành các phần để hiểu cấu trúc/nguyên nhân, chưa nhất thiết kết luận tốt hay xấu; `review` — xem xét lại tài liệu/quá trình, có thể nhẹ hơn; `judge` — phán đoán, rộng hơn và đôi khi mang sắc thái chủ quan.
 
----
+**Examples:** `We need to evaluate the current system before making changes.` → Chúng ta cần đánh giá hệ thống hiện tại trước khi thay đổi. `The researchers evaluated whether the program improved test scores.` → Các nhà nghiên cứu đánh giá xem chương trình có cải thiện điểm kiểm tra hay không.
 
-## 2. prioritize /praɪˈɔrətaɪz/ — verb — sắp xếp theo mức độ ưu tiên · 우선순위를 정하다
-
-**Core meaning:** `Prioritize` là quyết định việc nào quan trọng hơn để xử lý trước hoặc dành nhiều nguồn lực hơn. Nó không chỉ nghĩa “làm việc quan trọng”; điểm cốt lõi là **xếp thứ tự ưu tiên** giữa nhiều lựa chọn.
-
-**Pronunciation:** 4 syllables: pri-**OR**-i-tize. American English thường có âm /t/ giữa các vowel nghe mềm hơn trong lời nói nhanh.
-
-**Grammar & collocations:** `prioritize tasks`, `prioritize safety`, `prioritize A over B`, `prioritize what matters most`. Có thể dùng một value làm object: `We prioritize customer privacy.`
-
-**American English in real life:** `I need to prioritize` thường xuất hiện khi workload quá nhiều. Trong meeting, `What should we prioritize?` tự nhiên hơn một bản dịch cứng kiểu “What is the first important thing?”
-
-**Linking:** `focus on` là tập trung sự chú ý, không nhất thiết xếp hạng. `rank` là sắp theo thứ tự, nhưng có thể dựa trên bất kỳ tiêu chí nào. `prioritize` gắn trực tiếp với importance/urgency/resources. `deprioritize` nghĩa hạ mức ưu tiên, khá phổ biến trong product/tech English.
-
-**Word family:** `priority` (n), `prioritization` (n, formal/workplace).
-
-**Examples:** `We need to prioritize the most urgent bugs.` → Chúng ta cần ưu tiên các bug khẩn cấp nhất. `The company prioritizes security over speed.` → Công ty ưu tiên bảo mật hơn tốc độ.
+**Liên kết tiếng Hàn:** `평가하다` — đánh giá; `검토하다` — xem xét/kiểm tra, gần `review` hơn `evaluate`.
 
 ---
 
-## 3. constraint /kənˈstreɪnt/ — countable noun — giới hạn, ràng buộc · 제약, 제한 조건
+## 2. prioritize /praɪˈɔrəˌtaɪz/
 
-**Core meaning & mental image:** A `constraint` là thứ thu hẹp những gì bạn có thể làm. Hãy hình dung bạn có một vùng lựa chọn, rồi budget, time hoặc rules tạo thành các “bức tường” giới hạn vùng đó.
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ thường đi với điều cần xếp ưu tiên: `prioritize tasks`, `prioritize safety`. Có thể dùng không tân ngữ trong ngữ cảnh đã rõ, nhưng mẫu có tân ngữ phổ biến hơn.
 
-**Pronunciation:** 2 syllables: con-**STRAINT**. Cụm cuối /streɪnt/ cần giữ cả /t/ cuối đủ rõ.
+**Core meaning — English:** To decide which tasks, needs, or goals are most important and should be dealt with first.
 
-**Grammar & collocations:** `time constraint`, `budget constraint`, `technical constraints`, `under constraints`, `within the constraints of`. Đây là countable noun: `a constraint`, `several constraints`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một danh sách dài nhưng bạn buộc phải kéo một vài mục lên trên cùng vì thời gian hoặc nguồn lực có hạn. Đây là hành động xác định cái gì cần làm trước.
 
-**American English in real life:** Trong engineering/product/project work, `constraint` rất tự nhiên khi nói điều **bắt buộc phải tôn trọng**, không chỉ điều gây khó chịu.
+**Grammar & collocations:** `prioritize tasks` — ưu tiên các nhiệm vụ; `prioritize safety` — đặt an toàn lên ưu tiên; `prioritize A over B` — ưu tiên A hơn B; `top priority` — ưu tiên hàng đầu.
 
-**Linking:** `limitation` nói chung về điểm hạn chế hoặc khả năng bị giới hạn. `restriction` thường là điều bị cấm/giới hạn bởi rule hoặc authority. `constraint` thiên về điều kiện khiến solution space bị thu hẹp. `obstacle` là vật cản cần vượt qua; một constraint đôi khi không thể “vượt”, mà phải thiết kế bên trong nó.
+**American English in real life:** `We need to prioritize.` — Chúng ta cần xác định lại việc gì quan trọng nhất. Câu này rất tự nhiên trong môi trường làm việc khi team có quá nhiều việc.
 
-**Examples:** `Time is our biggest constraint.` → Thời gian là giới hạn lớn nhất của chúng ta. `We designed the feature within strict budget constraints.` → Chúng tôi thiết kế tính năng trong giới hạn ngân sách nghiêm ngặt.
+**Linking:** `rank` — xếp hạng theo thứ tự; `focus on` — tập trung vào, không nhất thiết nói nó quan trọng hơn những thứ khác; `emphasize` — nhấn mạnh về mặt lời nói/ý tưởng; `put first` — đặt lên trước, cách nói đơn giản và trực tiếp hơn.
 
----
+**Word family:** `priority` — mức độ ưu tiên/điều được ưu tiên; `prioritization` — quá trình sắp xếp ưu tiên, trang trọng hơn và hay gặp trong management.
 
-## 4. strategy /ˈstrætədʒi/ — countable noun — chiến lược · 전략
+**Examples:** `We should prioritize the issues that affect customers most.` → Chúng ta nên ưu tiên những vấn đề ảnh hưởng đến khách hàng nhiều nhất. `The team prioritized quality over speed.` → Nhóm ưu tiên chất lượng hơn tốc độ.
 
-**Core meaning:** A `strategy` là cách tiếp cận tổng thể để đạt một mục tiêu. Nó trả lời “chúng ta định thắng/đạt mục tiêu bằng hướng nào?”, không phải từng bước nhỏ cụ thể.
-
-**Pronunciation:** 3 syllables: **STRAT**-ə-gy. Âm đầu /str/ cần nối thành một cụm, không chèn vowel ở giữa.
-
-**Grammar & collocations:** `develop a strategy`, `business strategy`, `long-term strategy`, `strategy for doing something`, `strategy to achieve a goal`.
-
-**American English in real life:** Workplace English thường phân biệt `strategy` với `plan`: strategy là direction/logic tổng thể; plan thường cụ thể hơn về action, timing và responsibility.
-
-**Linking:** `tactic` là hành động/cách làm cụ thể hỗ trợ strategy. `approach` rộng và trung tính hơn, chỉ cách tiếp cận. `plan` là chuỗi việc dự định làm. `policy` là nguyên tắc/quy định định hướng quyết định, không đồng nghĩa strategy.
-
-**Word family:** `strategic` (adj), `strategically` (adv), `strategist` (n).
-
-**Examples:** `Our strategy is to improve retention before expanding.` → Chiến lược của chúng tôi là cải thiện khả năng giữ người dùng trước khi mở rộng. `Discounting is a tactic, not a complete strategy.` → Giảm giá là một chiến thuật, không phải toàn bộ chiến lược.
+**Liên kết tiếng Hàn:** `우선시하다` — ưu tiên; `우선순위를 정하다` — xác định thứ tự ưu tiên.
 
 ---
 
-## 5. relevant /ˈreləvənt/ — adjective — liên quan trực tiếp, có ích cho vấn đề đang xét · 관련 있는, 적절한
+## 3. constraint /kənˈstreɪnt/
 
-**Core meaning:** Something is `relevant` when it connects directly to the question, decision or situation and therefore matters **here**. Không phải mọi thông tin đúng đều relevant.
+**Loại từ & vị trí trong câu:** `countable noun` — danh từ đếm được. Thường xuất hiện sau adjective hoặc trong cụm `constraint on something` — giới hạn đặt lên một thứ.
 
-**Pronunciation:** 3 syllables: **REL**-ə-vənt. Hai syllable sau khá nhẹ; đừng nhấn mọi âm như nhau.
+**Core meaning — English:** A limit or restriction that reduces what you are able to do or choose.
 
-**Grammar & collocations:** `relevant information`, `relevant experience`, `relevant to + noun`: `This is relevant to our discussion.` Không dùng `relevant with` trong pattern chuẩn này.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy tưởng tượng một khoảng không gian bị thu hẹp lại bởi thời gian, tiền, quy định hoặc nguồn lực. Bạn vẫn có thể hành động, nhưng không còn tự do chọn mọi phương án.
 
-**American English in real life:** Trong meeting hoặc writing, `Is that relevant?` có thể nghe khá trực diện. Cách mềm hơn là `I'm not sure how that relates to the issue we're discussing.`
+**Grammar & collocations:** `time constraint` — giới hạn về thời gian; `budget constraint` — giới hạn ngân sách; `resource constraints` — giới hạn nguồn lực; `work within constraints` — làm việc trong phạm vi các giới hạn hiện có.
 
-**Linking:** `related` chỉ có mối liên hệ; `relevant` thêm ý **mối liên hệ đó quan trọng đối với mục tiêu hiện tại**. `applicable` = có thể áp dụng được. `pertinent` gần `relevant` nhưng formal hơn và thường gặp trong legal/professional writing. Trái nghĩa: `irrelevant`.
+**Register & nuance:** Từ này tự nhiên trong business, project management, engineering và academic writing. Trong giao tiếp đơn giản, `limit` thường dễ dùng hơn; `constraint` nhấn mạnh một yếu tố thực tế đang bó hẹp lựa chọn.
 
-**Word family:** `relevance` (n), `irrelevant` (adj).
+**Linking:** `limit` — giới hạn nói chung, rộng hơn; `restriction` — hạn chế do luật/quy tắc/quyết định đặt ra; `obstacle` — trở ngại cản đường, có thể cần vượt qua; `requirement` — yêu cầu bắt buộc phải đáp ứng, không đồng nghĩa nhưng thường cùng xuất hiện trong planning.
 
-**Common mistake:** `This information is relevant with the case.` ❌ → `relevant to the case` ✅
+**Examples:** `Time is our biggest constraint.` → Thời gian là giới hạn lớn nhất của chúng ta. `The design must work within strict budget constraints.` → Thiết kế phải hoạt động trong giới hạn ngân sách nghiêm ngặt.
 
-**Examples:** `Please include only relevant experience on the application.` → Hãy chỉ đưa kinh nghiệm liên quan vào đơn. `The data is accurate but not relevant to this decision.` → Dữ liệu chính xác nhưng không liên quan trực tiếp đến quyết định này.
-
----
-
-## 6. reliable /rɪˈlaɪəbəl/ — adjective — đáng tin cậy; hoạt động ổn định · 신뢰할 수 있는, 믿을 만한
-
-**Core meaning:** `Reliable` describes a person, source, system or thing that you can depend on because it behaves consistently or gives trustworthy results.
-
-**Pronunciation:** 4 syllables: re-**LI**-a-ble, /rɪˈlaɪəbəl/. Đừng bỏ mất phần /ə/ giữa `li` và `ble` khi nói chậm.
-
-**Grammar & collocations:** `reliable source`, `reliable data`, `reliable employee`, `reliable service`, `highly reliable`.
-
-**American English in real life:** Với người, `reliable` thường nghĩa họ làm điều đã hứa đúng lúc và đều đặn. Với technology, nó thường nghĩa system ít fail và cho kết quả nhất quán.
-
-**Linking:** `trustworthy` nhấn mạnh honesty/integrity, đặc biệt con người hoặc nguồn tin. `accurate` nghĩa đúng/chính xác; một source có thể accurate lần này nhưng chưa đủ evidence để gọi reliable. `dependable` gần reliable và hơi thiên về “có thể dựa vào”. `credible` nghĩa đáng tin/đáng tin về mặt claim hoặc authority, thường dùng với source, witness, explanation.
-
-**Word family:** `rely` (v), `reliability` (n), `reliably` (adv), `unreliable` (adj).
-
-**Examples:** `We need reliable data before making the decision.` → Chúng ta cần dữ liệu đáng tin trước khi quyết định. `She's reliable; she always meets deadlines.` → Cô ấy đáng tin; cô ấy luôn đúng deadline.
+**Liên kết tiếng Hàn:** `제약`, `제약 조건` — ràng buộc/điều kiện giới hạn.
 
 ---
 
-## 7. perspective /pɚˈspektɪv/ — countable noun — góc nhìn, cách nhìn nhận · 관점, 시각
+## 4. strategy /ˈstrætədʒi/
 
-**Core meaning & mental image:** `Perspective` là cách một người nhìn và hiểu một situation, chịu ảnh hưởng bởi experience, role, values và information. Hãy hình dung hai người đứng ở hai phía của cùng một vật: object giống nhau nhưng view khác nhau.
+**Loại từ & vị trí trong câu:** `countable noun` — danh từ đếm được. Thường đi sau `develop`, `create`, `adopt`, `change` hoặc đứng trước cụm `for doing something`.
 
-**Pronunciation:** 3 syllables: per-**SPEC**-tive. American /r/ ở syllable đầu được phát âm.
+**Core meaning — English:** A planned approach designed to achieve a long-term or important goal.
 
-**Grammar & collocations:** `from my perspective`, `a different perspective`, `gain perspective`, `put something in perspective`, `perspective on + topic`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung bản đồ tổng thể chỉ cách đi từ hiện tại đến mục tiêu. Strategy nói về hướng đi và nguyên tắc lớn, không phải từng bước nhỏ lẻ.
 
-**American English in real life:** `From my perspective...` là cách lịch sự để trình bày viewpoint mà không khẳng định mình sở hữu toàn bộ sự thật.
+**Grammar & collocations:** `develop a strategy` — xây dựng chiến lược; `business strategy` — chiến lược kinh doanh; `strategy for growth` — chiến lược tăng trưởng; `long-term strategy` — chiến lược dài hạn.
 
-**Linking:** `viewpoint` gần nghĩa và thường trực tiếp hơn. `opinion` là judgment/belief cụ thể; `perspective` rộng hơn, là “lăng kính” tạo ra nhiều opinions. `point of view` rất phổ biến, từ hội thoại đến writing. `stance` thường là lập trường rõ ràng về issue, đặc biệt political/social/professional.
+**Linking:** `plan` — kế hoạch, có thể rất cụ thể và ngắn hạn; `tactic` — chiến thuật, một hành động cụ thể phục vụ chiến lược; `policy` — chính sách/quy tắc định hướng cách tổ chức hành động; `approach` — cách tiếp cận, trung tính hơn và không nhất thiết dài hạn.
 
-**Examples:** `Try to see the issue from the customer's perspective.` → Hãy thử nhìn vấn đề từ góc nhìn khách hàng. `Travel gave her a different perspective on work and life.` → Việc đi nhiều nơi cho cô ấy một góc nhìn khác về công việc và cuộc sống.
+**American English in real life:** `What's the strategy here?` — Chiến lược/cách tiếp cận tổng thể ở đây là gì? Trong workplace English, câu này thường hỏi logic lớn phía sau các hành động.
 
----
+**Examples:** `We need a clear strategy for entering the new market.` → Chúng ta cần một chiến lược rõ ràng để vào thị trường mới. `Lowering the price is a tactic, not the whole strategy.` → Giảm giá là một chiến thuật, không phải toàn bộ chiến lược.
 
-## 8. clarify /ˈklerəfaɪ/ — verb — làm rõ · 명확히 하다, 분명히 설명하다
-
-**Core meaning:** `Clarify` là làm cho information, meaning hoặc expectation bớt mơ hồ và dễ hiểu hơn. Nó không nhất thiết thêm thật nhiều chi tiết; đôi khi chỉ cần loại bỏ một ambiguity.
-
-**Pronunciation:** 3 syllables: **CLAR**-i-fy, /ˈklerəfaɪ/. Trong American English, vowel đầu gần âm trong `care`.
-
-**Grammar & collocations:** `clarify a point`, `clarify expectations`, `clarify what/why/how...`, `clarify whether...`. `Could you clarify what you mean?` là pattern rất hữu ích.
-
-**American English in real life:** `Just to clarify,...` thường dùng trong email/meeting để xác nhận mình hiểu đúng: `Just to clarify, the deadline is Friday, right?`
-
-**Linking:** `explain` cung cấp explanation; `clarify` nhắm vào phần đang unclear. `specify` đưa thông tin cụ thể/chính xác hơn. `elaborate` thêm detail. `clear up` là phrasal verb thân mật hơn: `Let's clear up the confusion.`
-
-**Word family:** `clarity` (n), `clarification` (n), `clear` (adj).
-
-**Examples:** `Could you clarify the last requirement?` → Bạn có thể làm rõ yêu cầu cuối không? `The email clarified who was responsible for each task.` → Email đã làm rõ ai chịu trách nhiệm cho từng nhiệm vụ.
+**Liên kết tiếng Hàn:** `전략` — chiến lược; `전술` — chiến thuật, gần `tactic` hơn.
 
 ---
 
-## 9. negotiate /nɪˈɡoʊʃieɪt/ — verb — thương lượng, đàm phán · 협상하다, 교섭하다
+## 5. relevant /ˈreləvənt/
 
-**Core meaning:** `Negotiate` là trao đổi giữa các bên có lợi ích hoặc mong muốn không hoàn toàn giống nhau để cố đạt một agreement. Cốt lõi là **give-and-take**, không đơn giản là thuyết phục một chiều.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Có thể đứng trước noun như `relevant information` hoặc sau `be` với `to`: `This is relevant to the discussion` — điều này liên quan trực tiếp đến cuộc thảo luận.
 
-**Pronunciation:** 4 syllables: ne-**GO**-shi-ate. Đoạn `ti` ở đây phát âm /ʃi/.
+**Core meaning — English:** Directly connected to the subject, question, or situation being considered.
 
-**Grammar & collocations:** `negotiate a contract`, `negotiate with someone`, `negotiate over price`, `negotiate for better terms`. Có thể dùng transitive hoặc intransitive tùy pattern.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy tưởng tượng bạn đang giải một vấn đề và chỉ giữ lại thông tin thật sự có liên quan đến câu hỏi đó. Thông tin có thể đúng nhưng vẫn không “relevant” nếu không giúp giải quyết vấn đề đang xét.
 
-**American English in real life:** Bạn có thể `negotiate salary`, `negotiate rent`, `negotiate a deal`. Trong workplace, `negotiate` không nhất thiết căng thẳng; nó có thể là discussion chuyên nghiệp về terms.
+**Grammar & collocations:** `relevant information` — thông tin liên quan; `relevant experience` — kinh nghiệm có liên quan; `relevant to` — liên quan đến; `highly relevant` — rất liên quan/phù hợp với vấn đề.
 
-**Linking:** `bargain` thường gợi giá cả hoặc mặc cả và có thể informal hơn. `discuss` chỉ trao đổi, chưa chắc nhằm đạt agreement. `persuade` cố khiến bên kia tin/làm điều gì; `negotiate` thừa nhận cả hai bên có điều cần đổi chác. `mediate` là bên thứ ba giúp các bên khác đạt thỏa thuận.
+**Common mistake:** `relevant with` thường không dùng trong nghĩa này; mẫu chuẩn là `relevant to something` — liên quan đến điều gì.
 
-**Word family:** `negotiation` (n), `negotiator` (n), `negotiable` (adj).
+**Linking:** `related` — có liên quan nhưng mối liên hệ có thể rộng/lỏng hơn; `applicable` — có thể áp dụng vào tình huống; `pertinent` — liên quan trực tiếp, trang trọng hơn; `irrelevant` — không liên quan đến vấn đề đang xét.
 
-**Examples:** `She negotiated a higher salary.` → Cô ấy thương lượng được mức lương cao hơn. `Both sides are negotiating over the final terms.` → Hai bên đang đàm phán về các điều khoản cuối.
+**Examples:** `Please include only information relevant to the decision.` → Hãy chỉ đưa vào thông tin liên quan đến quyết định. `Her previous experience is highly relevant to this role.` → Kinh nghiệm trước đây của cô ấy rất phù hợp với vị trí này.
 
----
-
-## 10. compromise /ˈkɑmprəmaɪz/ — noun, verb — sự thỏa hiệp; thỏa hiệp · 타협, 타협하다
-
-**Core meaning:** A `compromise` occurs when each side gives up part of what it originally wanted so they can reach an agreement. Là verb, `compromise` cũng có một nghĩa khác: làm suy yếu/đe dọa sự an toàn hoặc integrity của thứ gì đó.
-
-**Pronunciation:** 3 syllables: **COM**-pro-mise. Đuôi `-mise` ở đây là /maɪz/.
-
-**Grammar & collocations:** `reach a compromise`, `make a compromise`, `compromise with someone`, `compromise on an issue`. Nghĩa “làm tổn hại”: `compromise security`, `compromise someone's privacy`.
-
-**American English in real life:** `meet halfway` là idiom rất tự nhiên cho ý cùng nhượng bộ: `We both need to meet halfway.`
-
-**Linking:** `concession` là một điều cụ thể một bên chịu nhường. `agreement` là kết quả đồng ý, nhưng không phải agreement nào cũng có compromise. `settlement` thường là thỏa thuận kết thúc dispute, đặc biệt legal. `compromise` đôi khi tích cực (practical agreement), đôi khi tiêu cực nếu nguyên tắc quan trọng bị hy sinh.
-
-**Examples:** `We reached a compromise on the schedule.` → Chúng tôi đạt thỏa hiệp về lịch. `Sharing that password could compromise security.` → Chia sẻ mật khẩu đó có thể làm tổn hại bảo mật.
+**Liên kết tiếng Hàn:** `관련 있는` — có liên quan; `적절한` có thể là “phù hợp”, nhưng không phải lúc nào cũng tương đương với `relevant`.
 
 ---
 
-## 11. implement /ˈɪmpləment/ — verb — triển khai, đưa kế hoạch/chính sách vào thực tế · 실행하다, 시행하다
+## 6. reliable /rɪˈlaɪəbəl/
 
-**Core meaning:** `Implement` là biến một plan, decision, policy hoặc system từ ý tưởng trên giấy thành thứ **thực sự được áp dụng**.
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Thường đứng trước noun như `reliable source` hoặc sau `be`: `The system is reliable` — hệ thống đáng tin cậy.
 
-**Pronunciation:** 3 syllables: **IM**-plə-ment. Khi là verb, pronunciation vẫn thường /ˈɪmpləment/ trong American English; noun `implement` lại có nghĩa dụng cụ và ít liên quan tới bài này.
+**Core meaning — English:** Able to be trusted to work well, behave consistently, or provide correct information over time.
 
-**Grammar & collocations:** `implement a plan`, `implement changes`, `implement a policy`, `implement a system`, `fully/successfully implement`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một người, nguồn tin hoặc hệ thống mà bạn có thể dựa vào nhiều lần vì nó ổn định và hiếm khi làm bạn thất vọng.
 
-**American English in real life:** Tech teams dùng `implement` cho cả business change và code: `implement a feature`, `implement the new authentication flow`. Nó formal hơn `do` hoặc `put in` và chỉ rõ bước execution.
+**Grammar & collocations:** `reliable source` — nguồn đáng tin; `reliable data` — dữ liệu đáng tin cậy; `reliable service` — dịch vụ ổn định; `highly reliable` — rất đáng tin cậy.
 
-**Linking:** `execute` cũng là thực hiện, thường nhấn mạnh làm đúng kế hoạch hoặc command; trong business có `execute a strategy`. `apply` là áp dụng rule/method vào trường hợp. `deploy` trong tech thường là đưa software/system ra môi trường sử dụng. `adopt` là quyết định chấp nhận dùng một policy/method, chưa chắc đã implement hoàn chỉnh.
+**Linking:** `accurate` — chính xác về thông tin/số liệu ở một lần đo hoặc tuyên bố; `credible` — có vẻ đáng tin, đặc biệt với claim/source; `trustworthy` — đáng tin về đạo đức hoặc hành vi của người/tổ chức; `dependable` — có thể dựa vào, rất gần `reliable`, đặc biệt với người hoặc vật hoạt động ổn định.
 
-**Word family:** `implementation` (n), `implementer` (n, technical).
+**Nuance:** Một nguồn có thể `reliable` vì thường cho thông tin đúng, nhưng một con số cụ thể vẫn có thể không `accurate`. Ngược lại, một dữ liệu có thể tình cờ chính xác một lần nhưng nguồn tạo ra nó chưa chắc đáng tin lâu dài.
 
-**Examples:** `The team implemented the new process in June.` → Nhóm triển khai quy trình mới vào tháng Sáu. `A good idea has little value if it is never implemented.` → Ý tưởng tốt ít giá trị nếu không bao giờ được triển khai.
+**Examples:** `We need reliable data before making a decision.` → Chúng ta cần dữ liệu đáng tin trước khi quyết định. `She's one of the most reliable people on the team.` → Cô ấy là một trong những người đáng tin cậy nhất trong nhóm.
 
----
-
-## 12. adapt /əˈdæpt/ — verb — thích nghi; điều chỉnh cho phù hợp · 적응하다, 맞게 바꾸다
-
-**Core meaning:** `Adapt` có hai hướng liên quan: bản thân thay đổi để phù hợp môi trường mới, hoặc thay đổi một thứ để nó phù hợp purpose/context mới.
-
-**Pronunciation:** 2 syllables: ə-**DAPT**. Đừng nhầm với `adopt /əˈdɑpt/`.
-
-**Grammar & collocations:** `adapt to change`, `adapt to a new environment`, `adapt something for a purpose`, `adapt something from a source`.
-
-**American English in real life:** `We need to adapt` thường được dùng khi circumstances thay đổi và plan cũ không còn đủ tốt.
-
-**Linking:** `adjust` thường là thay đổi nhỏ hoặc tinh chỉnh. `adapt` gợi mức thay đổi có ý nghĩa để phù hợp điều kiện. `adopt` = bắt đầu sử dụng/chấp nhận một idea, method hoặc child legally; không phải synonym. `modify` = thay đổi một phần, formal/technical hơn.
-
-**Word family:** `adaptation` (n), `adaptable` (adj), `adaptive` (adj, technical).
-
-**Common mistake:** `We need to adopt to the new system.` ❌ → `adapt to the new system` ✅. `Adopt the new system` lại có nghĩa “chấp nhận/bắt đầu dùng hệ thống mới”.
-
-**Examples:** `Employees had to adapt to remote work.` → Nhân viên phải thích nghi với làm việc từ xa. `We adapted the training for new employees.` → Chúng tôi điều chỉnh khóa đào tạo cho nhân viên mới.
+**Liên kết tiếng Hàn:** `신뢰할 수 있는` — đáng tin cậy; `믿을 만한` — đáng tin, tự nhiên trong hội thoại.
 
 ---
 
-## 13. maintain /meɪnˈteɪn/ — verb — duy trì; bảo trì · 유지하다, 관리하다
+## 7. perspective /pɚˈspektɪv/
 
-**Core meaning:** `Maintain` là giữ một state, standard, relationship hoặc machine ở mức hoạt động mong muốn theo thời gian. Điểm quan trọng là **continuity**, không chỉ tạo ra trạng thái đó một lần.
+**Loại từ & vị trí trong câu:** `countable noun` — danh từ đếm được. Thường dùng trong `from someone's perspective` hoặc `a different perspective`.
 
-**Pronunciation:** 2 syllables: main-**TAIN**.
+**Core meaning — English:** A particular way of thinking about, understanding, or viewing a situation.
 
-**Grammar & collocations:** `maintain quality`, `maintain a relationship`, `maintain a system`, `maintain standards`, `maintain that + clause` (formal: tiếp tục khẳng định rằng...).
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy tưởng tượng nhiều người đứng ở các vị trí khác nhau nhìn cùng một vật. Vật không đổi, nhưng góc nhìn làm mỗi người chú ý tới những điều khác nhau.
 
-**American English in real life:** Trong engineering, `maintain software` là sửa, cập nhật và giữ nó hoạt động tốt sau khi build. Trong business, `maintain customer trust` nghĩa giữ niềm tin lâu dài.
+**Grammar & collocations:** `from my perspective` — theo góc nhìn của tôi; `a different perspective` — một góc nhìn khác; `broaden your perspective` — mở rộng góc nhìn; `gain perspective` — có được cái nhìn cân bằng/rộng hơn.
 
-**Linking:** `keep` là từ phổ thông và rộng hơn. `preserve` nhấn mạnh bảo vệ khỏi mất mát/thay đổi, thường với history, environment, condition. `sustain` nhấn mạnh làm cho một process/level tiếp tục lâu dài, đặc biệt growth, effort, performance. `service` thường dùng cho bảo dưỡng machine/equipment.
+**Linking:** `viewpoint` — quan điểm/góc nhìn, gần nghĩa và trực tiếp hơn; `opinion` — ý kiến cá nhân về điều gì đúng/tốt/xấu; `point of view` — góc nhìn hoặc quan điểm, phổ biến trong hội thoại; `standpoint` — lập trường từ một vị trí cụ thể, hơi trang trọng hơn.
 
-**Word family:** `maintenance` (n), `maintainable` (adj, technical).
+**Examples:** `From the customer's perspective, the process is too slow.` → Từ góc nhìn của khách hàng, quy trình quá chậm. `Talking to the support team gave us a different perspective.` → Nói chuyện với đội hỗ trợ giúp chúng tôi có một góc nhìn khác.
 
-**Examples:** `The system is easy to maintain.` → Hệ thống dễ bảo trì. `It's difficult to maintain quality while growing quickly.` → Khó duy trì chất lượng khi tăng trưởng nhanh.
-
----
-
-## 14. efficient /ɪˈfɪʃənt/ — adjective — hiệu suất cao, ít lãng phí nguồn lực · 효율적인
-
-**Core meaning:** Something is `efficient` when it produces the desired result while wasting little time, energy, money or other resources. Từ này không tự động có nghĩa “kết quả tốt nhất”.
-
-**Pronunciation:** 3 syllables: ef-**FI**-cient, /ɪˈfɪʃənt/. Phần `ci` tạo âm /ʃ/.
-
-**Grammar & collocations:** `efficient process`, `energy-efficient`, `highly efficient`, `efficient way to do something`.
-
-**American English in real life:** `efficient` thường nói về process/system/person. `This is more efficient` nghĩa cách này dùng resources tốt hơn.
-
-**Linking:** `effective` = đạt mục tiêu mong muốn; `efficient` = đạt mục tiêu với ít lãng phí. Một process có thể effective nhưng inefficient. `productive` nói về tạo ra nhiều useful output, thường với con người/thời gian. `streamlined` nghĩa được đơn giản hóa để vận hành trơn tru hơn.
-
-**Word family:** `efficiency` (n), `efficiently` (adv), `inefficient` (adj).
-
-**Examples:** `The new workflow is faster and more efficient.` → Quy trình mới nhanh và hiệu suất cao hơn. `The treatment is effective, but the delivery process is inefficient.` → Phương pháp điều trị có hiệu quả, nhưng quy trình triển khai kém hiệu suất.
+**Liên kết tiếng Hàn:** `관점` — góc nhìn/quan điểm; `시각` — cách nhìn.
 
 ---
 
-## 15. outcome /ˈaʊtkʌm/ — countable noun — kết quả cuối cùng của một quá trình/tình huống · 결과, 성과
+## 8. clarify /ˈklerəˌfaɪ/
 
-**Core meaning:** An `outcome` là điều xảy ra **as a result of** a process, decision, event hoặc intervention. Nó tập trung vào kết quả cuối cùng hơn là công việc tạo ra nó.
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ thường có tân ngữ như `clarify the requirement`; cũng có thể dùng `clarify what/why/how...` để làm rõ một mệnh đề.
 
-**Pronunciation:** 2 syllables: **OUT**-come.
+**Core meaning — English:** To make something easier to understand by explaining it more clearly or removing uncertainty.
 
-**Grammar & collocations:** `positive/negative outcome`, `desired outcome`, `possible outcome`, `outcome of`, `lead to an outcome`.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung một hình ảnh đang mờ rồi được chỉnh nét. Clarify không nhất thiết thêm thật nhiều thông tin; mục đích là loại bỏ chỗ mơ hồ để người khác hiểu đúng.
 
-**American English in real life:** `What's the desired outcome?` là câu rất phổ biến trong planning/coaching/management vì nó buộc team xác định “thành công cuối cùng trông như thế nào”.
+**Grammar & collocations:** `clarify a point` — làm rõ một điểm; `clarify the requirements` — làm rõ yêu cầu; `clarify what you mean` — làm rõ bạn muốn nói gì; `ask someone to clarify` — yêu cầu ai giải thích rõ hơn.
 
-**Linking:** `result` rộng và phổ biến hơn. `outcome` thường gợi kết quả của một process hoặc situation có nhiều khả năng xảy ra. `output` là thứ được sản xuất trực tiếp bởi process, đặc biệt technical/business. `impact` là ảnh hưởng rộng hơn và có thể xuất hiện sau outcome. `consequence` thường nhấn mạnh điều xảy ra do một action, đôi khi mang sắc thái tiêu cực nhưng không bắt buộc.
+**American English in real life:** `Just to clarify, ...` — Chỉ để làm rõ một chút,... Đây là opening rất phổ biến và lịch sự trong meeting/email trước khi kiểm tra lại cách hiểu.
 
-**Examples:** `We can't predict the outcome with certainty.` → Chúng ta không thể dự đoán kết quả chắc chắn. `The desired outcome is a faster, more reliable service.` → Kết quả mong muốn là dịch vụ nhanh và đáng tin hơn.
+**Linking:** `explain` — giải thích để người khác hiểu; `clarify` — tập trung loại bỏ sự mơ hồ; `specify` — nêu cụ thể/chính xác; `elaborate` — nói thêm chi tiết; `confirm` — xác nhận điều gì là đúng/chính xác.
+
+**Examples:** `Could you clarify what you mean by "urgent"?` → Bạn có thể làm rõ “khẩn cấp” ở đây nghĩa là gì không? `The client clarified the final requirement.` → Khách hàng đã làm rõ yêu cầu cuối cùng.
+
+**Liên kết tiếng Hàn:** `명확히 하다` — làm rõ; `분명히 설명하다` — giải thích cho rõ ràng.
+
+---
+
+## 9. negotiate /nɪˈɡoʊʃiˌeɪt/
+
+**Loại từ & vị trí trong câu:** `verb` — động từ. Có thể dùng `negotiate with someone`, `negotiate over/about something`, hoặc `negotiate a deal` khi trực tiếp thương lượng một thỏa thuận.
+
+**Core meaning — English:** To discuss an issue with another person or group in order to reach an agreement.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hai bên bắt đầu với mong muốn không hoàn toàn giống nhau rồi trao đổi, nhượng bộ hoặc điều chỉnh để tìm điểm có thể đồng ý.
+
+**Grammar & collocations:** `negotiate a contract` — thương lượng hợp đồng; `negotiate with a client` — thương lượng với khách hàng; `negotiate terms` — thương lượng điều khoản; `negotiate a better price` — thương lượng mức giá tốt hơn.
+
+**Register & nuance:** Đây là từ rất tự nhiên trong business, salary, contracts và diplomacy. Nó không tự động có nghĩa tranh cãi; trọng tâm là quá trình tìm một agreement có thể chấp nhận.
+
+**Linking:** `discuss` — thảo luận, chưa chắc nhằm đạt thỏa thuận; `bargain` — mặc cả, thường liên quan giá cả và nghe đời thường hơn; `mediate` — làm trung gian giúp hai bên khác giải quyết bất đồng; `settle` — giải quyết xong một tranh chấp hoặc đạt thỏa thuận cuối cùng.
+
+**Examples:** `We negotiated a later deadline with the client.` → Chúng tôi thương lượng với khách hàng để có hạn chót muộn hơn. `She negotiated a higher salary.` → Cô ấy thương lượng được mức lương cao hơn.
+
+**Liên kết tiếng Hàn:** `협상하다` — đàm phán/thương lượng; `흥정하다` — mặc cả, gần `bargain` hơn.
+
+---
+
+## 10. compromise /ˈkɑmprəˌmaɪz/
+
+**Loại từ & vị trí trong câu:** `countable noun` và `verb` — danh từ “sự thỏa hiệp” và động từ “thỏa hiệp”. Trong bài này ưu tiên noun trong `reach a compromise`.
+
+**Core meaning — English:** An agreement in which each side accepts less than it originally wanted in order to solve a disagreement.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung hai bên cùng lùi một bước. Không bên nào đạt toàn bộ điều mình muốn, nhưng cả hai chấp nhận một điểm ở giữa để tiến tiếp.
+
+**Grammar & collocations:** `reach a compromise` — đạt được thỏa hiệp; `find a compromise` — tìm điểm thỏa hiệp; `compromise on something` — nhượng bộ/thỏa hiệp về một vấn đề; `compromise between A and B` — phương án dung hòa giữa A và B.
+
+**Nuance:** Ở nghĩa khác, `compromise security` — làm tổn hại an ninh, hoặc `compromise someone's position` — làm suy yếu/đặt vị thế ai vào nguy hiểm. Đây không phải nghĩa “thỏa hiệp”, nên cần đọc theo ngữ cảnh.
+
+**Linking:** `agreement` — sự đồng ý nói chung, không nhất thiết có nhượng bộ; `concession` — một sự nhượng bộ cụ thể từ một bên; `middle ground` — điểm trung gian cả hai bên có thể chấp nhận; `trade-off` — chấp nhận mất một lợi ích để đổi lấy lợi ích khác.
+
+**Examples:** `Both sides made concessions and reached a compromise.` → Cả hai bên đều nhượng bộ và đạt được thỏa hiệp. `We need a compromise between speed and quality.` → Chúng ta cần một phương án dung hòa giữa tốc độ và chất lượng.
+
+**Liên kết tiếng Hàn:** `타협` — thỏa hiệp; `절충안` — phương án dung hòa.
+
+---
+
+## 11. implement /ˈɪmpləˌment/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ như `implement a plan`, `implement changes`, `implement a policy`.
+
+**Core meaning — English:** To put a plan, decision, system, or policy into practical use.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Đây là bước biến thứ đang nằm trên giấy thành hành động thực tế. Bạn không chỉ nghĩ hay phê duyệt kế hoạch nữa mà bắt đầu làm cho nó vận hành.
+
+**Grammar & collocations:** `implement a plan` — triển khai kế hoạch; `implement changes` — thực hiện các thay đổi; `implement a system` — đưa hệ thống vào vận hành; `fully implement` — triển khai đầy đủ.
+
+**Register & nuance:** Rất tự nhiên trong công việc, kỹ thuật, quản lý và policy. Trong hội thoại đơn giản, `put into practice` — đưa vào thực tế, hoặc `carry out` — thực hiện, có thể dễ hiểu hơn.
+
+**Linking:** `execute` — thực thi một plan/task, thường nhấn việc thực hiện chính xác; `carry out` — thực hiện một nhiệm vụ/nghiên cứu/quyết định; `apply` — áp dụng một rule/method/knowledge; `deploy` — triển khai người, hệ thống hoặc phần mềm vào môi trường sử dụng.
+
+**Examples:** `The company implemented a new review process.` → Công ty đã triển khai quy trình đánh giá mới. `The policy is easy to describe but difficult to implement.` → Chính sách dễ mô tả nhưng khó triển khai trong thực tế.
+
+**Liên kết tiếng Hàn:** `시행하다` — thi hành/triển khai; `구현하다` — hiện thực hóa/implement, đặc biệt thường dùng trong kỹ thuật/phần mềm.
+
+---
+
+## 12. adapt /əˈdæpt/
+
+**Loại từ & vị trí trong câu:** `verb` — động từ. Dùng `adapt to something` khi chủ thể tự điều chỉnh; dùng `adapt something for/to something` khi thay đổi một vật/phương pháp cho phù hợp.
+
+**Core meaning — English:** To change in order to fit new conditions, needs, or situations better.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung môi trường thay đổi và bạn không giữ nguyên cách cũ. Bạn điều chỉnh bản thân, kế hoạch hoặc công cụ để tiếp tục hoạt động tốt trong điều kiện mới.
+
+**Grammar & collocations:** `adapt to change` — thích nghi với thay đổi; `adapt quickly` — thích nghi nhanh; `adapt a process` — điều chỉnh quy trình; `adapt something for a new audience` — điều chỉnh một thứ cho nhóm người dùng mới.
+
+**Common mistake:** `adapt to` là thích nghi với; `adopt` là tiếp nhận/chọn dùng một ý tưởng, phương pháp hoặc chính sách. Hai từ gần hình thức nhưng khác nghĩa.
+
+**Linking:** `adjust` — điều chỉnh nhỏ để phù hợp hơn; `modify` — sửa đổi một phần; `accommodate` — điều chỉnh để đáp ứng nhu cầu/điều kiện của người khác; `evolve` — phát triển dần theo thời gian.
+
+**Examples:** `The team adapted quickly to the new system.` → Nhóm thích nghi nhanh với hệ thống mới. `We adapted the training materials for new employees.` → Chúng tôi điều chỉnh tài liệu đào tạo cho nhân viên mới.
+
+**Liên kết tiếng Hàn:** `적응하다` — thích nghi; `조정하다` — điều chỉnh, gần `adjust` hơn.
+
+---
+
+## 13. maintain /meɪnˈteɪn/
+
+**Loại từ & vị trí trong câu:** `transitive verb` — động từ cần tân ngữ. Có thể mang nghĩa duy trì trạng thái, bảo dưỡng hệ thống hoặc khẳng định một quan điểm tùy ngữ cảnh.
+
+**Core meaning — English:** To keep something at the same level, condition, or standard over time.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung bạn giữ một đường ổn định không tụt xuống theo thời gian. Công việc không kết thúc sau khi đạt mức tốt; bạn tiếp tục chăm sóc để mức đó được giữ lại.
+
+**Grammar & collocations:** `maintain quality` — duy trì chất lượng; `maintain a system` — bảo trì/duy trì hệ thống; `maintain standards` — giữ tiêu chuẩn; `maintain contact` — duy trì liên lạc.
+
+**Register & nuance:** Từ này phổ biến trong professional English. Khi nói máy móc/phần mềm, nó có thể gần “bảo trì”; khi nói quality/relationship, nó là “duy trì”.
+
+**Linking:** `preserve` — giữ gìn để tránh bị mất/hư hại; `sustain` — duy trì trong thời gian dài, thường nhấn khả năng tiếp tục; `retain` — giữ lại không để mất; `keep` — giữ, từ đơn giản và rộng hơn.
+
+**Examples:** `We need to maintain service quality as demand increases.` → Chúng ta cần duy trì chất lượng dịch vụ khi nhu cầu tăng. `The system is easy to maintain.` → Hệ thống dễ bảo trì.
+
+**Liên kết tiếng Hàn:** `유지하다` — duy trì; `관리하다` — quản lý/bảo dưỡng tùy ngữ cảnh.
+
+---
+
+## 14. efficient /ɪˈfɪʃənt/
+
+**Loại từ & vị trí trong câu:** `adjective` — tính từ. Đứng trước noun như `efficient process` hoặc sau linking verb như `The process is efficient`.
+
+**Core meaning — English:** Working well without wasting unnecessary time, effort, money, or other resources.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung đạt được kết quả với ít lãng phí nhất có thể. Trọng tâm không chỉ là “có kết quả” mà còn là dùng thời gian, công sức hoặc tài nguyên một cách hợp lý.
+
+**Grammar & collocations:** `efficient process` — quy trình sử dụng nguồn lực hiệu quả; `highly efficient` — rất hiệu quả về mặt vận hành; `energy-efficient` — tiết kiệm năng lượng; `efficient way to do something` — cách làm ít lãng phí để hoàn thành việc gì.
+
+**Linking:** `effective` — tạo ra kết quả mong muốn; `efficient` — đạt kết quả với ít lãng phí. Một phương pháp có thể `effective but inefficient` — có hiệu quả nhưng tốn quá nhiều nguồn lực. `productive` — tạo ra nhiều kết quả hữu ích, thường nói về người/thời gian; `streamlined` — được đơn giản hóa để vận hành nhanh và ít bước thừa hơn.
+
+**Register & nuance:** `efficient` rất phổ biến cả trong business lẫn đời thường. Khi khen một người `efficient`, người Mỹ thường hiểu là người đó xử lý việc nhanh, có tổ chức và không phí thời gian.
+
+**Examples:** `The new workflow is faster and more efficient.` → Quy trình mới nhanh hơn và sử dụng nguồn lực hiệu quả hơn. `The treatment is effective, but the delivery process is inefficient.` → Phương pháp điều trị có hiệu quả, nhưng quy trình triển khai lại kém hiệu suất.
+
+**Liên kết tiếng Hàn:** `효율적인` — hiệu quả về mặt sử dụng nguồn lực; khác `효과적인` — có tác dụng/đạt kết quả, gần `effective` hơn.
+
+---
+
+## 15. outcome /ˈaʊtkʌm/
+
+**Loại từ & vị trí trong câu:** `countable noun` — danh từ đếm được. Thường đứng sau adjective như `positive outcome`, hoặc trong `outcome of something`.
+
+**Core meaning — English:** The final result of a process, decision, event, or situation.
+
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** Hãy hình dung cuối một chuỗi hành động có nhiều khả năng xảy ra, và outcome là điều cuối cùng thực sự xảy ra sau tất cả quá trình đó.
+
+**Grammar & collocations:** `positive outcome` — kết quả tích cực; `desired outcome` — kết quả mong muốn; `possible outcome` — kết quả có thể xảy ra; `outcome of the project` — kết quả cuối cùng của dự án.
+
+**American English in real life:** `What's the desired outcome?` — Kết quả cuối cùng chúng ta muốn đạt là gì? Đây là câu rất phổ biến trong planning, coaching và management vì nó buộc mọi người xác định rõ tiêu chí thành công.
+
+**Linking:** `result` — kết quả nói chung và rộng hơn; `output` — sản phẩm/đầu ra trực tiếp do một process tạo ra; `impact` — ảnh hưởng rộng hoặc lâu dài mà kết quả gây ra; `consequence` — điều xảy ra do một hành động/quyết định, đôi khi có sắc thái tiêu cực nhưng không bắt buộc.
+
+**Examples:** `We can't predict the outcome with certainty.` → Chúng ta không thể dự đoán kết quả cuối cùng một cách chắc chắn. `The desired outcome is a faster, more reliable service.` → Kết quả mong muốn là một dịch vụ nhanh hơn và đáng tin cậy hơn.
+
+**Liên kết tiếng Hàn:** `결과` — kết quả; `성과` — thành quả/kết quả đạt được, thường tích cực và gần performance achievement hơn.
 
 ---
 
@@ -278,4 +314,4 @@ Before changing the project, the team decided to **evaluate** the current proces
 
 ## Nghĩa tiếng Việt
 
-Trước khi thay đổi dự án, nhóm quyết định đánh giá quy trình hiện tại và ưu tiên những vấn đề lớn nhất. Thời gian là một giới hạn quan trọng nên họ cần một chiến lược rõ ràng. Họ chỉ thu thập thông tin liên quan từ các nguồn đáng tin và lắng nghe góc nhìn của từng người. Khi yêu cầu chưa rõ, họ nhờ khách hàng làm rõ. Hai bên sau đó thương lượng lịch trình và đạt được một thỏa hiệp. Sau khi triển khai quy trình mới, nhóm tiếp tục điều chỉnh nó và duy trì chất lượng. Quy trình trở nên hiệu suất hơn và kết quả cuối cùng tốt hơn mong đợi.
+Trước khi thay đổi dự án, nhóm quyết định đánh giá quy trình hiện tại và ưu tiên những vấn đề lớn nhất. Thời gian là một giới hạn quan trọng nên họ cần một chiến lược rõ ràng. Họ chỉ thu thập thông tin liên quan từ các nguồn đáng tin và lắng nghe góc nhìn của từng người. Khi yêu cầu chưa rõ, họ nhờ khách hàng làm rõ. Hai bên sau đó thương lượng lịch trình và đạt được một thỏa hiệp. Sau khi triển khai quy trình mới, nhóm tiếp tục điều chỉnh nó và duy trì chất lượng. Quy trình trở nên hiệu quả hơn về mặt sử dụng nguồn lực và kết quả cuối cùng tốt hơn mong đợi.
