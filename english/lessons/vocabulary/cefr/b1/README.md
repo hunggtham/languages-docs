@@ -49,6 +49,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
 - [Data And Digital Work](./technology/02-data-and-digital-work.md)
+- [Cybersecurity And Digital Trust](./technology/03-cybersecurity-and-digital-trust.md)
 
 ## culture
 
