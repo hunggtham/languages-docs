@@ -34,8 +34,12 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
 
+- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
+
 ## technology
 
 - [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
 
-- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
+## culture
+
+- [Heritage And Museums](./culture/01-heritage-and-museums.md)
