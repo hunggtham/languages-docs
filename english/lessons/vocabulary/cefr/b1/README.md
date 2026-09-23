@@ -45,6 +45,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Community And Social Challenges](./society/02-community-and-social-challenges.md)
 - [Law And Public Services](./society/03-law-and-public-services.md)
+- [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
 
 ## technology
 
