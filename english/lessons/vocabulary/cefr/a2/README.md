@@ -84,3 +84,4 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 78. [Weather changes](./78-weather-changes.md) — mưa, băng, gió và thời tiết khắc nghiệt.
 79. [Nature details](./79-nature-details.md) — ao, bụi cây, tổ chim và thực vật nhỏ.
 80. [Home interior and comfort](./80-home-interior.md) — phòng, nội thất và tiện nghi trong nhà.
+81. [Food produce and staples](./81-food-produce.md) — rau củ, trái cây và nguyên liệu thực phẩm.
