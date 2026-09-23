@@ -1,16 +1,16 @@
-# 한국어 어휘 확장 목표
+# Korean Vocabulary Expansion Goal
 
-Đây là goal dành riêng cho việc tạo các file học từ mới tiếng Hàn. Nó được dùng cùng `../COMMON_PROMPT.md`, `../VOCAB_PROMPT.md` và yêu cầu cụ thể của task hiện tại.
+This goal governs the creation of new Korean vocabulary lessons. Use it together with `../COMMON_PROMPT.md`, `../VOCAB_PROMPT.md`, and the specific request for the current task.
 
-## Mục tiêu
+## Objective
 
-Mở rộng thư viện Korean thành các bài học theo chủ đề, giúp người học nhận ra core meaning, sắc thái, register, collocation và cách dùng tự nhiên trong context hiện đại. Goal này không bị giới hạn bởi số lượng từ, thứ tự hay ranh giới của bất kỳ PDF hoặc file nguồn nào. Nguồn chỉ dùng để phát hiện và đối chiếu từ; wording, ví dụ và đoạn đọc phải được biên soạn mới.
+Expand the Korean library into topic-based lessons that help learners recognize core meaning, nuance, register, collocations, and natural usage in contemporary contexts. This goal is not constrained by the number, order, or boundaries of any PDF or source file. Sources are used only to discover and cross-check words; all wording, examples, and reading passages must be newly authored.
 
-Đừng tạo file chỉ vì các từ nằm cạnh nhau trong nguồn. Chọn một semantic field, tình huống, mental model hoặc mini-story đủ chặt trước, rồi mới chọn các từ bổ trợ để chủ đề có thể học được như một mạng lưới.
+Do not create a file merely because words appeared next to one another in a source. First choose a coherent semantic field, situation, mental model, or mini-story, then select supporting words that form a useful learning network.
 
-## Cấu trúc thư mục và file
+## Directory and file structure
 
-Các lesson mới dùng cấu trúc:
+New lessons use this structure:
 
 ```text
 korean/vocab/topics/<topic-slug>/
@@ -20,43 +20,43 @@ korean/vocab/topics/<topic-slug>/
 └── ...
 ```
 
-`<topic-slug>` và `<subtopic-slug>` dùng chữ thường, dấu gạch ngang và tên ổn định; title, heading và nhãn hiển thị bên trong file vẫn dùng tiếng Hàn theo `COMMON_PROMPT`. Mỗi folder là một chủ đề lớn và có thể chứa nhiều file Markdown cùng chủ đề. Mỗi file là một tiểu chủ đề liền mạch, không có quota cứng về tổng số entry. Số thứ tự bắt đầu từ `01` và tăng riêng trong từng folder.
+Use lowercase, stable, hyphenated names for `<topic-slug>` and `<subtopic-slug>`. Titles, headings, and learner-facing labels inside the files must remain in Korean, as required by `COMMON_PROMPT`. Each folder represents a broad topic and may contain multiple Markdown files on related subtopics. Each file should be a coherent subtopic and has no hard quota for its total number of entries. Number files locally within each topic folder, starting at `01`.
 
-Các file phẳng đang tồn tại trong `korean/vocab/topics/` được xem là legacy. Không tự ý di chuyển hoặc viết lại chúng chỉ để khớp cấu trúc mới; lesson mới dùng folder con, còn việc hợp nhất legacy chỉ thực hiện khi có task riêng và vẫn giữ link, provenance cùng nội dung đã được duyệt.
+Existing flat files in `korean/vocab/topics/` are legacy content. Do not move or rewrite them merely to fit the new structure. New lessons use topic subfolders; consolidate legacy content only under a separate task, preserving links, provenance, and approved content.
 
-## Quy tắc nhóm 15 từ và đoạn đọc
+## Fifteen-word grouping and reading passages
 
-Đơn vị context là một nhóm tối đa 15 headword mục tiêu. Cứ mỗi nhóm 15 từ thì viết một đoạn văn tiếng Hàn ngắn, liền mạch và có tình huống rõ ràng; nhóm cuối có thể ít hơn 15 từ nếu chủ đề đã kết thúc. Đây là quy tắc chia đoạn, không phải giới hạn số entry trong file.
+One context unit contains at most 15 target headwords. For every group of 15 words, write one short, coherent Korean paragraph with a clear situation. The final group may contain fewer than 15 words when the topic ends. This is a passage-splitting rule, not a limit on the number of entries in a file.
 
-- Nếu file có 15 từ, dùng một đoạn.
-- Nếu file có 30 từ, dùng hai đoạn, mỗi đoạn bao phủ một `target_set` riêng.
-- Nếu file có 32 từ, dùng ba đoạn theo nhóm `15 + 15 + 2`; không thêm từ lạc chủ đề chỉ để đủ 15.
-- Đếm headword mục tiêu, không đếm số token. Biến thể chia thì, kính ngữ, trợ từ hoặc đuôi câu tự nhiên được tính là lần xuất hiện của headword tương ứng.
+- A file with 15 words uses one passage.
+- A file with 30 words uses two passages, each with its own `target_set`.
+- A file with 32 words uses three passages in groups of `15 + 15 + 2`; do not add unrelated words merely to reach 15.
+- Count target headwords, not tokens. Natural tense, honorific, particle, or sentence-ending variants count as occurrences of the corresponding headword.
 
-Mỗi đoạn nên có khoảng 3–7 câu tự nhiên, thường khoảng 80–140 어절, nhưng đây là hướng dẫn mềm. Đoạn phải giúp đoán nghĩa từ context chứ không chỉ nối các câu ví dụ rời rạc. Sau đoạn tiếng Hàn đặt bản dịch tiếng Việt và, khi cần, note ngắn về biến thể hoặc điểm dễ nhầm.
+Each passage should contain about 3–7 natural sentences, usually around 80–140 Korean eojeol; this is a soft guideline. The passage should let learners infer meaning from context rather than simply stringing together isolated example sentences. Place a Vietnamese translation after the Korean passage and add a brief note about variants or common confusion when useful.
 
-Mỗi đoạn phải có metadata ẩn để kiểm tra coverage, chẳng hạn:
+Each passage must include hidden metadata for coverage checks, for example:
 
 ```html
 <!-- passage_word_count: 96 Korean eojeol; target_set: 단어1, 단어2, 단어3 -->
 ```
 
-Tất cả headword trong `target_set` phải xuất hiện tự nhiên trong đoạn; không dùng danh sách từ hoặc nhồi dạng từ không phù hợp với ngữ cảnh.
+Every headword in `target_set` must appear naturally in the passage. Do not turn the passage into a word list or force an unnatural form into the context.
 
-## Quy tắc cho từng entry
+## Entry requirements
 
-Giữ format đang được dùng trong các lesson Korean hiện có: title là từ/cụm từ tiếng Hàn, `품사` ở ngay dưới title, sau đó giải thích core meaning, nghĩa tiếng Việt, mental image và nuance, collocation/chunk, mẫu câu và thành phần đi kèm, register theo quan hệ xã hội/chủ đề, ví dụ tự nhiên, `어휘 연결` và `영어 참고`. Có thể thêm pronunciation, biến âm, từ gần nghĩa hoặc context không dùng được khi chúng giúp phân biệt và sử dụng đúng.
+Keep the format used by the existing Korean lessons: the title is the Korean word or phrase, `품사` appears directly below it, followed by core meaning, Vietnamese meaning, mental image and nuance, reusable collocations/chunks, sentence patterns and typical arguments, register by social relationship/topic, natural examples, `어휘 연결`, and `영어 참고`. Add pronunciation, sound changes, near-synonyms, or unusable contexts when they help learners distinguish and use the item correctly.
 
-Ưu tiên tiếng Hàn tự nhiên của đời sống, 잡담, công sở, báo chí và discourse hiện đại. Nếu một mục hiếm, cổ, chuyên ngành, slang hoặc đúng từ điển nhưng không tự nhiên trong context thông thường, phải ghi rõ giới hạn đó và đưa lựa chọn native phù hợp hơn.
+Prefer natural Korean from daily life, 잡담, workplaces, journalism, and contemporary discourse. If an item is rare, archaic, specialized, slang, or dictionary-correct but unnatural in ordinary contexts, state its limitation and provide a more natural native alternative.
 
-## Quy trình tạo và kiểm tra
+## Creation and validation workflow
 
-1. Đọc các prompt chung, prompt vocabulary, README của topic hiện tại và các file lân cận trước khi viết.
-2. Kiểm tra trùng headword+sense với các lesson đã có; nếu dùng lại để ôn tập, ghi rõ vai trò review thay vì tạo coverage mới giả.
-3. Chọn topic folder và subtopic file; tiếp tục số thứ tự cục bộ, không đánh lại số của folder khác.
-4. Viết entry, chia các headword thành các `target_set` tối đa 15 và tạo đoạn đọc tương ứng.
-5. Kiểm tra thủ công rằng title/heading hiển thị bằng tiếng Hàn, mọi target xuất hiện tự nhiên, bản dịch không bỏ ý, link README đúng và không sao chép nguyên văn nguồn.
-6. Khi đã có batch lesson, cập nhật README của topic và `korean/vocab/CODEX_STATE.md` với folder/file tiếp theo, target set đã hoàn thành và ghi chú checkpoint. Chỉ tạo state file khi bắt đầu batch nội dung đầu tiên.
-7. Chạy các kiểm tra repository phù hợp, xem diff, rồi commit riêng các file của batch và state liên quan.
+1. Read the common prompts, vocabulary prompt, the current topic README, and nearby lessons before writing.
+2. Check existing headword+sense coverage. If an item is reused for review, label it as review rather than pretending it is new coverage.
+3. Choose a topic folder and subtopic file, continuing the local numbering for that folder.
+4. Write the entries, divide the headwords into `target_set` groups of at most 15, and create the corresponding passages.
+5. Manually check that learner-facing titles/headings are in Korean, every target appears naturally, translations preserve the meaning, README links are correct, and source text was not copied.
+6. Once a lesson batch exists, update the topic README and `korean/vocab/CODEX_STATE.md` with the next folder/file, completed target sets, and checkpoint notes. Create the state file only when the first content batch begins.
+7. Run the appropriate repository checks, inspect the diff, and commit only the batch files and related state.
 
-Goal này là goal mở rộng liên tục. Một topic folder, một file hoặc một batch 15 từ chỉ là checkpoint; không được coi là hoàn thành toàn bộ goal sau một batch.
+This is a continuous expansion goal. One topic folder, one file, or one 15-word batch is only a checkpoint; never consider the entire goal complete after a single batch.
