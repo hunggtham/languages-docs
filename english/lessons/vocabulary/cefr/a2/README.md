@@ -35,3 +35,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 29. [Education and study paths](./29-education-and-study-paths.md) — kỳ thi, trường học và lộ trình học tập.
 30. [Everyday emotions](./30-everyday-emotions.md) — cảm xúc trong học tập, công việc và quan hệ.
 31. [Home spaces and storage](./31-home-spaces-and-storage.md) — khu vực, nội thất và cất giữ đồ.
+32. [Roads and traffic](./32-roads-and-traffic.md) — phương tiện, làn đường và an toàn giao thông.
+33. [Festivals and traditions](./33-festivals-and-traditions.md) — lễ hội, phong tục và nghi lễ.
+34. [Job interviews and workplaces](./34-job-interviews-and-workplaces.md) — ứng tuyển, hợp đồng và nơi làm việc.
