@@ -71,3 +71,6 @@ Lộ trình A2 mở rộng vốn từ từ các tình huống quen thuộc sang 
 65. [Education life](./65-education-life.md) — kỳ học, học phí, học bổng và giáo dục.
 66. [City landmarks](./66-city-landmarks.md) — đại lộ, bảo tàng và địa danh thành phố.
 67. [Kitchen equipment](./67-kitchen-equipment.md) — thiết bị, nồi, khay và dụng cụ bếp.
+68. [Health visits](./68-health-visits.md) — triệu chứng, thuốc và chăm sóc bệnh nhân.
+69. [Home furnishings](./69-home-furnishings.md) — đồ nội thất, vật dụng và phụ kiện nhà.
+70. [Communication and sounds](./70-communication-sounds.md) — giọng nói, âm thanh và hội thoại.
