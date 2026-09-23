@@ -26,6 +26,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Business And Markets](./business/01-business-and-markets.md)
 - [Management And Leadership](./business/02-management-and-leadership.md)
+- [Finance And The Economy](./business/03-finance-and-the-economy.md)
 
 ## travel
 
