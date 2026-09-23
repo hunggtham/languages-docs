@@ -15,6 +15,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [관계와 정서 회복](./relationships-and-emotional-recovery/README.md) — `고립감에서 회복으로`, `유대와 관계의 긴장`
 - [공공 문제와 책임](./public-affairs-and-accountability/README.md) — `정책을 직시하고 책임을 세우다`
 - [외모와 첫인상의 언어](./appearance-and-first-impressions/README.md) — `첫인상과 사람을 읽는 방식`
+- [몸의 증상과 움직임](./body-symptoms-and-movement/README.md) — `몸의 신호를 읽고 움직임을 조절하다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
