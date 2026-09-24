@@ -173,3 +173,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## computer-science
 
 - [Computing Concepts And Systems](./computer-science/01-computing-concepts-and-systems.md)
+
+## phonetics
+
+- [Phonetics And Pronunciation](./phonetics/01-phonetics-and-pronunciation.md)
