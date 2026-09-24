@@ -237,3 +237,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## behavioral-economics
 
 - [Decisions And Choice Architecture](./behavioral-economics/01-decisions-and-choice-architecture.md)
+
+## game-theory
+
+- [Strategy And Interdependence](./game-theory/01-strategy-and-interdependence.md)
