@@ -241,3 +241,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## game-theory
 
 - [Strategy And Interdependence](./game-theory/01-strategy-and-interdependence.md)
+
+## hydrology
+
+- [Water Systems And Scarcity](./hydrology/01-water-systems-and-scarcity.md)
