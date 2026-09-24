@@ -90,3 +90,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Language Typology And Contact](./rhetoric/76-language-typology-and-contact.md)
 - [Space Weather And Solar Physics](./rhetoric/77-space-weather-and-solar-physics.md)
 - [Renewable Energy And Grid Integration](./rhetoric/78-renewable-energy-and-grid-integration.md)
+- [Coastal Engineering And Shoreline Dynamics](./rhetoric/79-coastal-engineering-and-shoreline-dynamics.md)
+- [Food Microbiology And Fermentation](./rhetoric/80-food-microbiology-and-fermentation.md)
