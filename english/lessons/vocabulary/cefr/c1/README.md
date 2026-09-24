@@ -177,3 +177,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## phonetics
 
 - [Phonetics And Pronunciation](./phonetics/01-phonetics-and-pronunciation.md)
+
+## medicine
+
+- [Pharmacology And Clinical Care](./medicine/01-pharmacology-and-clinical-care.md)
