@@ -44,3 +44,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Humor Irony And Satirical Form](./rhetoric/30-humor-irony-and-satirical-form.md)
 - [Deliberation And Argument Diagnostics](./rhetoric/31-deliberation-and-argument-diagnostics.md)
 - [Scholarly Interpretation And Textual Form](./rhetoric/32-scholarly-interpretation-and-textual-form.md)
+- [Research Integrity And Scholarly Practice](./rhetoric/33-research-integrity-and-scholarly-practice.md)
