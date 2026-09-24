@@ -92,3 +92,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Renewable Energy And Grid Integration](./rhetoric/78-renewable-energy-and-grid-integration.md)
 - [Coastal Engineering And Shoreline Dynamics](./rhetoric/79-coastal-engineering-and-shoreline-dynamics.md)
 - [Food Microbiology And Fermentation](./rhetoric/80-food-microbiology-and-fermentation.md)
+- [Financial Derivatives And Market Microstructure](./rhetoric/81-financial-derivatives-and-market-microstructure.md)
+- [Tissue Engineering And Regenerative Medicine](./rhetoric/82-tissue-engineering-and-regenerative-medicine.md)
