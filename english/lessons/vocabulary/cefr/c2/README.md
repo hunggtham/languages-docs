@@ -57,3 +57,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Pedagogy Assessment And Learning Design](./rhetoric/43-pedagogy-assessment-and-learning-design.md)
 - [Media Law And Intellectual Property](./rhetoric/44-media-law-and-intellectual-property.md)
 - [Corpus Linguistics And Language Structure](./rhetoric/45-corpus-linguistics-and-language-structure.md)
+- [Materials Science And Engineering](./rhetoric/46-materials-science-and-engineering.md)
+- [Ethical Reasoning And Moral Responsibility](./rhetoric/47-ethical-reasoning-and-moral-responsibility.md)
