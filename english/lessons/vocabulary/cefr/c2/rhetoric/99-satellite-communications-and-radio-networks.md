@@ -1,4 +1,4 @@
-# C2 Vocabulary 101 — Satellite communications and radio networks
+# C2 Vocabulary 99 — Satellite communications and radio networks
 
 This lesson follows a signal from a ground station to orbit and back. It connects coding, antennas, propagation, timing, and the practical limits of reliable wireless links.
 

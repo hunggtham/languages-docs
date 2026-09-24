@@ -31,7 +31,7 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - C1: 0 items.
 - C2: 2035 items in 102 topic files, including the public-accountability and rhetoric expansions.
 - C2+: 0 items.
-- Total: 4779 items.
+- Total: 4819 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: create `c2/rhetoric/102-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
+Next lesson: create `c2/rhetoric/101-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
 
 Before choosing the exact lesson topic and words:
 
