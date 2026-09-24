@@ -141,3 +141,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cinema
 
 - [Cinema And Film Language](./cinema/01-cinema-and-film-language.md)
+
+## architecture
+
+- [Architecture And Built Form](./architecture/01-architecture-and-built-form.md)
