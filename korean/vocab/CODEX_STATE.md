@@ -195,10 +195,15 @@
 - Coverage: 14 harder advanced-native finance/consumer-protection headwords plus 1 contemporary-native-hot banking expression across `news_formal` and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `advanced-health-insurance-and-aging-policy`
+- File: `01-health-costs-and-aging-security.md`
+- Coverage: 14 harder advanced-native health-insurance/aging-policy headwords plus 1 contemporary-native-hot caregiving expression across `news_formal` and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include high-register media and cultural criticism, advanced financial and consumer-protection reporting, or advanced health insurance and aging policy language. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include high-register media and cultural criticism, advanced health insurance and aging policy language, or advanced legal/medical access reporting. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
