@@ -1,0 +1,82 @@
+# B1 Vocabulary
+
+Files are numbered independently inside each topic folder. New lessons are topic-driven; there is no fixed word quota. Review-context sizing follows `/prompt/vocabulary_goal/GOAL.md`.
+
+## communication
+
+- [News And Media Literacy](./communication/01-news-and-media-literacy.md)
+- [Digital Communication And Collaboration](./communication/02-digital-communication-and-collaboration.md)
+- [Public Speaking And Professional Communication](./communication/03-public-speaking-and-professional-communication.md)
+- [Professional Writing And Documentation](./communication/04-professional-writing-and-documentation.md)
+
+## work
+
+- [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
+- [Workplace Communication And Wellbeing](./work/02-workplace-communication-and-wellbeing.md)
+- [Career Development And Workplace Skills](./work/03-career-development-and-workplace-skills.md)
+
+## science
+
+- [Climate And Environment](./science/01-climate-and-environment.md)
+- [Research And Innovation](./science/02-research-and-innovation.md)
+- [Climate Action And Environmental Policy](./science/03-climate-action-and-environmental-policy.md)
+
+## health
+
+- [Health And Wellbeing](./health/01-health-and-wellbeing.md)
+- [Healthcare And Prevention](./health/02-healthcare-and-prevention.md)
+- [Healthy Routines And Wellbeing](./health/03-healthy-routines-and-wellbeing.md)
+- [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
+
+## home
+
+- [Housing And Renting](./home/01-housing-and-renting.md)
+
+## transport
+
+- [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
+
+## education
+
+- [Academic Research](./education/01-academic-research.md)
+- [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
+- [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
+- [Assessment And Study Support](./education/04-assessment-and-study-support.md)
+
+## business
+
+- [Business And Markets](./business/01-business-and-markets.md)
+- [Management And Leadership](./business/02-management-and-leadership.md)
+- [Finance And The Economy](./business/03-finance-and-the-economy.md)
+- [Business Operations And Customer Service](./business/04-business-operations-and-customer-service.md)
+- [Entrepreneurship And Startups](./business/05-entrepreneurship-and-startups.md)
+- [Financial Records And Accounting](./business/06-financial-records-and-accounting.md)
+
+## travel
+
+- [Travel And Cultural Awareness](./travel/01-travel-and-cultural-awareness.md)
+- [Travel Planning And Support](./travel/02-travel-planning-and-support.md)
+- [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
+
+## society
+
+- [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
+
+- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
+- [Law And Public Services](./society/03-law-and-public-services.md)
+- [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
+- [Public Policy And Civic Communication](./society/05-public-policy-and-civic-communication.md)
+
+## technology
+
+- [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
+- [Data And Digital Work](./technology/02-data-and-digital-work.md)
+- [Cybersecurity And Digital Trust](./technology/03-cybersecurity-and-digital-trust.md)
+- [Networks And Emerging Technology](./technology/04-networks-and-emerging-technology.md)
+- [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
+
+## culture
+
+- [Heritage And Museums](./culture/01-heritage-and-museums.md)
+- [Creative Industries And Media](./culture/02-creative-industries-and-media.md)
+- [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
