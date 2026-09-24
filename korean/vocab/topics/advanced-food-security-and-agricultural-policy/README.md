@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [식량 공급과 농촌 전환](./01-food-supply-and-rural-transition.md)
+- [기후스마트 농업과 농촌 가치사슬](./02-climate-smart-farming-and-rural-value-chains.md)

@@ -315,6 +315,11 @@
 - Coverage: 13 harder advanced-native power-flexibility/storage/energy-transition headwords plus 2 contemporary-native-hot electricity-infrastructure expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `02-climate-smart-farming-and-rural-value-chains.md`
+- Coverage: 13 harder advanced-native climate-smart farming/rural value-chain headwords plus 2 contemporary-native-hot food-market expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
