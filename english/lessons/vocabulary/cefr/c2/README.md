@@ -41,3 +41,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Voice Prosody And Public Speaking](./rhetoric/27-voice-prosody-and-public-speaking.md)
 - [Media Ecosystems And Information Disorder](./rhetoric/28-media-ecosystems-and-information-disorder.md)
 - [Affect And Emotional Stance](./rhetoric/29-affect-and-emotional-stance.md)
+- [Humor Irony And Satirical Form](./rhetoric/30-humor-irony-and-satirical-form.md)
+- [Deliberation And Argument Diagnostics](./rhetoric/31-deliberation-and-argument-diagnostics.md)
