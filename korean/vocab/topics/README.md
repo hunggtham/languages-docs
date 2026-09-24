@@ -39,6 +39,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [감정의 격화와 갈등의 전개](./advanced-emotion-and-conflict/README.md) — `갈등이 번지고 봉합되는 과정`
 - [과학기술 보도와 AI의 쟁점](./advanced-science-and-technology-reporting/README.md) — `기술 상용화와 AI 책임`
 - [경제 구조와 노동의 변화](./advanced-economic-and-labor-reporting/README.md) — `경기 침체와 노동시장 재편`
+- [공중보건과 과학 정책의 언어](./advanced-public-health-and-science-policy/README.md) — `질병 지표와 의료 정책의 판단`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`

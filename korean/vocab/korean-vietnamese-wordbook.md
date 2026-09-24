@@ -37,6 +37,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [감정의 격화와 갈등의 전개](./topics/advanced-emotion-and-conflict/README.md)
 - [과학기술 보도와 AI의 쟁점](./topics/advanced-science-and-technology-reporting/README.md)
 - [경제 구조와 노동의 변화](./topics/advanced-economic-and-labor-reporting/README.md)
+- [공중보건과 과학 정책의 언어](./topics/advanced-public-health-and-science-policy/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
