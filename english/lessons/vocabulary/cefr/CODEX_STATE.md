@@ -26,20 +26,20 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 828 items in 41 topic files; topic-folder numbering resets per folder.
+- B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
-- C1: 0 items.
-- C2: pilot lesson `01`, 15 items.
+- C1: pilot lesson `01`, 15 items.
+- C2: 2 topic files, 35 items (argument pilot plus governance expansion).
 - C2+: 0 items.
-- Total: 2739 items.
+- Total: 2814 items.
 
 ## Current position
 
 Status: `READY`
 
-Current level: `B1`
+Current level: `C2`
 
-Next lesson: create the next file number inside the selected B1 topic folder (for a new topic, `b1/<topic>/01-...md`).
+Next lesson: create `c2/governance/02-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
 
 Before choosing the exact lesson topic and words:
 
@@ -68,7 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Next file: continue the corpus expansion with the next coherent B1 topic or folder-local sequence.
-- Actual counts: A1 400, A2 1501, B1 828, B2 15, C1 0, C2 15, C2+ 0; total 2759.
+- A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, housing/renting, and public-transportation topics.
+- Next file: continue C2 from the next coherent governance lesson or a new C2 topic folder.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 15, C2 35, C2+ 0; total 2814.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
