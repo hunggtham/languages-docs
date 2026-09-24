@@ -49,6 +49,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [금융 위험과 소비자 보호의 언어](./topics/advanced-finance-and-consumer-protection/README.md)
 - [건강보험과 노후소득의 정책 언어](./topics/advanced-health-insurance-and-aging-policy/README.md)
 - [의료 접근성과 필수의료의 정책 언어](./topics/advanced-medical-access-and-care-delivery/README.md)
+- [법적 절차와 사법 책임의 고급 언어](./topics/advanced-legal-procedure-and-judicial-accountability/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
