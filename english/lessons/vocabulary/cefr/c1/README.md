@@ -169,3 +169,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## geology
 
 - [Geology And Earth Processes](./geology/01-geology-and-earth-processes.md)
+
+## computer-science
+
+- [Computing Concepts And Systems](./computer-science/01-computing-concepts-and-systems.md)
