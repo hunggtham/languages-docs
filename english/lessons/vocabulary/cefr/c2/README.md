@@ -112,3 +112,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Chemical Process Engineering And Catalysis](./rhetoric/98-chemical-process-engineering-and-catalysis.md)
 - [Satellite Communications And Radio Networks](./rhetoric/99-satellite-communications-and-radio-networks.md)
 - [Optics And Photonics](./rhetoric/100-optics-and-photonics.md)
+- [Computational Neuroscience And Neural Coding](./rhetoric/101-computational-neuroscience-and-neural-coding.md)
