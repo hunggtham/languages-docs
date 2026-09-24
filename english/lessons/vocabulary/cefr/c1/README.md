@@ -17,3 +17,11 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## ethics
 
 - [Ethical Decision-Making](./ethics/01-ethical-decision-making.md)
+
+## research
+
+- [Research Quality And Uncertainty](./research/01-research-quality-and-uncertainty.md)
+
+## communication
+
+- [Diplomatic And Persuasive Communication](./communication/01-diplomatic-and-persuasive-communication.md)
