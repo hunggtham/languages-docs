@@ -73,3 +73,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Plant Physiology And Ecology](./rhetoric/59-plant-physiology-and-ecology.md)
 - [Cognitive Science And Neuroscience](./rhetoric/60-cognitive-science-and-neuroscience.md)
 - [Evolution Genetics And Heredity](./rhetoric/61-evolution-genetics-and-heredity.md)
+- [Behavioral Economics And Decision Theory](./rhetoric/62-behavioral-economics-and-decision-theory.md)
