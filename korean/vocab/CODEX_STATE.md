@@ -165,10 +165,15 @@
 - Coverage: 13 harder advanced-native climate/environment headwords plus 2 contemporary-native-hot climate-business expressions across `news_formal` and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `01-memory-politics-and-cultural-production.md`
+- Coverage: 12 harder advanced-native cultural/media headwords plus 3 contemporary-native-hot culture expressions across `news_formal` and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, advanced environment and climate governance language, or high-register media and cultural criticism. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, high-register media and cultural criticism, or advanced public administration and regulatory language. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
