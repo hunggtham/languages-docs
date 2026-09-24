@@ -1,0 +1,19 @@
+# C1 Vocabulary
+
+Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức và những tình huống cần diễn đạt sắc thái. Số thứ tự được đánh lại độc lập trong từng folder chủ đề; mỗi bài có `Review in context` dùng lại toàn bộ headword.
+
+## institutions
+
+- [Governance And Accountability](./institutions/01-governance-and-accountability.md)
+
+## analysis
+
+- [Interpretation And Nuance](./analysis/01-interpretation-and-nuance.md)
+
+## change
+
+- [Resilience And Adaptation](./change/01-resilience-and-adaptation.md)
+
+## ethics
+
+- [Ethical Decision-Making](./ethics/01-ethical-decision-making.md)
