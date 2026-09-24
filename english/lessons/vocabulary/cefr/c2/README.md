@@ -45,3 +45,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Deliberation And Argument Diagnostics](./rhetoric/31-deliberation-and-argument-diagnostics.md)
 - [Scholarly Interpretation And Textual Form](./rhetoric/32-scholarly-interpretation-and-textual-form.md)
 - [Research Integrity And Scholarly Practice](./rhetoric/33-research-integrity-and-scholarly-practice.md)
+- [Research Design And Statistical Inference](./rhetoric/34-research-design-and-statistical-inference.md)
+- [Translation And Cross-Cultural Mediation](./rhetoric/35-translation-and-cross-cultural-mediation.md)
