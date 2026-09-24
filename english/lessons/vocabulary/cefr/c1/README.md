@@ -53,3 +53,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## education
 
 - [Advanced Learning And Assessment](./education/01-advanced-learning-and-assessment.md)
+
+## work
+
+- [Organizational Dynamics And Career Paths](./work/01-organizational-dynamics-and-career.md)
