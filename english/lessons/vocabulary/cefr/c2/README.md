@@ -67,3 +67,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Algorithms And Computational Theory](./rhetoric/53-algorithms-and-computational-theory.md)
 - [Probability And Statistical Processes](./rhetoric/54-probability-and-statistical-processes.md)
 - [Forensic Science And Investigation](./rhetoric/55-forensic-science-and-investigation.md)
+- [Structural And Geotechnical Engineering](./rhetoric/56-structural-and-geotechnical-engineering.md)
