@@ -1,0 +1,12 @@
+.DS_Store
+output/
+node_modules/
+**/node_modules/
+apps/web/node_modules
+dist/
+apps/web/.env
+apps/web/.env.*
+!apps/web/.env.example
+automation/.env
+automation/.venv/
+automation/__pycache__/

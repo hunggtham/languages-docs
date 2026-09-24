@@ -1,0 +1,17 @@
+{
+  "name": "languages-docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "content:build": "python3 scripts/build-content-index.py",
+    "library:normalize": "python3 scripts/normalize-english-library.py",
+    "library:validate": "python3 scripts/validate-english-library.py",
+    "dev:web": "pnpm -C apps/web dev",
+    "build:web": "pnpm content:build && pnpm -C apps/web build",
+    "preview:web": "pnpm -C apps/web preview"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  }
+}
