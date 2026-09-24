@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [정보를 읽고 공론을 판단하기](./01-reading-information-and-public-discourse.md)
+- [정보전·검증·공론의 책임](./02-information-warfare-and-verification.md)

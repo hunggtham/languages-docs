@@ -350,6 +350,11 @@
 - Coverage: 13 harder advanced-native heritage interpretation/cultural-participation headwords plus 2 contemporary-native-hot cultural-visit expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `media-literacy-and-public-trust`
+- File: `02-information-warfare-and-verification.md`
+- Coverage: 13 harder advanced-native information-verification/public-trust headwords plus 2 contemporary-native-hot online media expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
