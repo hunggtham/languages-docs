@@ -51,3 +51,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Regulatory Drafting And Institutional Law](./rhetoric/37-regulatory-drafting-and-institutional-law.md)
 - [Urban Planning And The Built Environment](./rhetoric/38-urban-planning-and-built-environment.md)
 - [Climate Discourse And Ecological Transition](./rhetoric/39-climate-discourse-and-ecological-transition.md)
+- [Political Economy And Financial Logic](./rhetoric/40-political-economy-and-financial-logic.md)
+- [Public Health And Epidemiological Risk](./rhetoric/41-public-health-and-epidemiological-risk.md)
