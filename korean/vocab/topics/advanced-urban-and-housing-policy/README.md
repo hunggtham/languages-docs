@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [도시 재편과 주거 권리](./01-urban-restructuring-and-housing-rights.md)
+- [주택 금융과 임차인 보호](./02-housing-finance-and-tenant-protection.md)
