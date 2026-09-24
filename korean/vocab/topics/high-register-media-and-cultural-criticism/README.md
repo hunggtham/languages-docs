@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [기억 정치와 문화 생산](./01-memory-politics-and-cultural-production.md)
+- [재현과 문화 권력](./02-representation-and-cultural-power.md)
