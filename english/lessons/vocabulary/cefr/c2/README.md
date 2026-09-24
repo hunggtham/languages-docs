@@ -68,3 +68,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Probability And Statistical Processes](./rhetoric/54-probability-and-statistical-processes.md)
 - [Forensic Science And Investigation](./rhetoric/55-forensic-science-and-investigation.md)
 - [Structural And Geotechnical Engineering](./rhetoric/56-structural-and-geotechnical-engineering.md)
+- [Industrial Process Engineering](./rhetoric/57-industrial-process-engineering.md)
