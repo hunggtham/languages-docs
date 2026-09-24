@@ -55,6 +55,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [에너지 전환과 전력 안보의 정책 언어](./advanced-energy-transition-and-power-security/README.md) — `전력망과 에너지 전환`
 - [디지털 권리와 플랫폼 거버넌스의 언어](./advanced-digital-rights-and-platform-governance/README.md) — `데이터 권리와 플랫폼 통제`
 - [식량안보와 농업정책의 언어](./advanced-food-security-and-agricultural-policy/README.md) — `식량 공급과 농촌 전환`
+- [이동권과 교통정책의 고급 언어](./advanced-mobility-and-transport-policy/README.md) — `도시 이동과 교통 전환`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
