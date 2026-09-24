@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 2235 items in 112 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 2275 items in 114 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 4999 items.
+- Total: 5039 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue with the next coherent C2 topic. Reuse `computing/04-...`, `semiconductors/03-...`, or `biomedicine/03-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue with the next coherent C2 topic. Reuse `computing/05-...`, `semiconductors/03-...`, or `biomedicine/04-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -69,10 +69,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- This C2 run previously added `computing/01-distributed-systems-and-consensus.md`, `semiconductors/01-semiconductor-fabrication-and-lithography.md`, `computing/02-compilers-and-runtime-systems.md`, `biomedicine/01-proteomics-and-mass-spectrometry.md`, and `computing/03-database-internals-and-query-optimization.md`.
-- Latest checkpoint added `semiconductors/02-advanced-packaging-and-chiplets.md` and `biomedicine/02-single-cell-genomics-and-cell-atlases.md`.
+- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, semiconductor fabrication, advanced packaging/chiplets, proteomics, and single-cell genomics.
+- Latest checkpoint added `computing/04-memory-models-and-concurrent-systems.md` and `biomedicine/03-genome-editing-and-crispr-systems.md`.
 - The two latest lessons add 40 reviewed C2 learning items. Each 20-item lesson uses one review passage that naturally reuses all headwords and includes a Vietnamese translation.
-- The semiconductor lesson extends fabrication into chiplets, 2.5D/3D integration, package electrical behavior, thermal management, and reliability. The biomedicine lesson extends proteomics coverage into single-cell sequencing, quality control, cell annotation, and trajectory analysis.
+- The computing lesson extends systems vocabulary into cache coherence, memory ordering, lock-free progress, safe reclamation, NUMA, and locality. The biomedicine lesson extends molecular-biology coverage into CRISPR targeting, DNA repair, base/prime editing, delivery, validation, mosaicism, gene drives, and germline editing.
 - Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2235, C2+ 0; total 4999.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2275, C2+ 0; total 5039.
 - Intentional repeated headword: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
