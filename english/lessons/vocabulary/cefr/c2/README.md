@@ -55,3 +55,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Public Health And Epidemiological Risk](./rhetoric/41-public-health-and-epidemiological-risk.md)
 - [Ecology And Conservation Science](./rhetoric/42-ecology-and-conservation-science.md)
 - [Pedagogy Assessment And Learning Design](./rhetoric/43-pedagogy-assessment-and-learning-design.md)
+- [Media Law And Intellectual Property](./rhetoric/44-media-law-and-intellectual-property.md)
