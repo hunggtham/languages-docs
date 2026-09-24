@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [질병 지표와 의료 정책의 판단](./01-epidemiology-and-health-policy.md)
+- [일차의료와 건강 감시](./02-primary-care-and-health-surveillance.md)
