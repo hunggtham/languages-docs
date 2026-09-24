@@ -217,3 +217,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cryptography
 
 - [Cryptography And Secure Communication](./cryptography/01-cryptography-and-secure-communication.md)
+
+## quantum-computing
+
+- [Quantum Computing And Information](./quantum-computing/01-quantum-computing-and-information.md)
