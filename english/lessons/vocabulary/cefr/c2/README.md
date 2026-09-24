@@ -84,3 +84,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Particle Physics And Nuclear Processes](./rhetoric/70-particle-physics-and-nuclear-processes.md)
 - [Quantum Measurement And Information](./rhetoric/71-quantum-measurement-and-information.md)
 - [Archaeology And Heritage Science](./rhetoric/72-archaeology-and-heritage-science.md)
+- [Aerospace Engineering And Orbital Mechanics](./rhetoric/73-aerospace-engineering-and-orbital-mechanics.md)
