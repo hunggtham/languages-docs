@@ -28,6 +28,10 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Healthy Routines And Wellbeing](./health/03-healthy-routines-and-wellbeing.md)
 - [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
 
+## home
+
+- [Housing And Renting](./home/01-housing-and-renting.md)
+
 ## education
 
 - [Academic Research](./education/01-academic-research.md)
