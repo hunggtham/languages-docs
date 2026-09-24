@@ -69,3 +69,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Forensic Science And Investigation](./rhetoric/55-forensic-science-and-investigation.md)
 - [Structural And Geotechnical Engineering](./rhetoric/56-structural-and-geotechnical-engineering.md)
 - [Industrial Process Engineering](./rhetoric/57-industrial-process-engineering.md)
+- [Oceanography And Marine Systems](./rhetoric/58-oceanography-and-marine-systems.md)
