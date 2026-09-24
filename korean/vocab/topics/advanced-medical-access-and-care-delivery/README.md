@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [필수의료와 지역완결형 진료](./01-essential-care-and-regional-delivery.md)
+- [응급 조정과 지역 의료 역량](./02-emergency-coordination-and-regional-capacity.md)
