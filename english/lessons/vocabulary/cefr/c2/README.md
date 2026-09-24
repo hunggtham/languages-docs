@@ -23,3 +23,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Language Meaning And Pragmatic Force](./rhetoric/09-language-meaning-and-pragmatic-force.md)
 - [Method And Evidence Evaluation](./rhetoric/10-method-and-evidence-evaluation.md)
 - [Language Variation And Power](./rhetoric/11-language-variation-and-power.md)
+- [Theoretical Language And Interpretive Frameworks](./rhetoric/12-theoretical-language-and-interpretive-frameworks.md)
+- [Language Variation And Power](./rhetoric/11-language-variation-and-power.md)
