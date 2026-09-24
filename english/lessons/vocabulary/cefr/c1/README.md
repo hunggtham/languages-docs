@@ -93,3 +93,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## transport
 
 - [Transport Networks And Mobility](./transport/01-transport-networks-and-mobility.md)
+
+## housing
+
+- [Housing Markets And Tenure](./housing/01-housing-markets-and-tenure.md)
