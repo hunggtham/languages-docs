@@ -135,10 +135,15 @@
 - Coverage: 15 harder advanced-native headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `legal-and-institutional-accountability`
+- File: `01-legal-review-and-public-responsibility.md`
+- Coverage: 14 harder advanced-native legal/news headwords plus 1 contemporary-native-hot accountability expression across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include public administration beyond notices, cultural identity and social change, or legal and institutional accountability language. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include public administration beyond notices, cultural identity and social change, or advanced media and cultural criticism language. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
