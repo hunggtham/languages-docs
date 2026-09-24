@@ -45,6 +45,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [행정과 규제의 고급 언어](./topics/advanced-public-administration-and-regulation/README.md)
 - [도시와 주거 정책의 고급 언어](./topics/advanced-urban-and-housing-policy/README.md)
 - [노동권과 사회안전망의 언어](./topics/advanced-labor-rights-and-social-protection/README.md)
+- [교육과 인구 변화의 정책 언어](./topics/advanced-education-and-demographic-policy/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
