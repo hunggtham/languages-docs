@@ -121,6 +121,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Systems And Consensus](./computing/01-distributed-systems-and-consensus.md)
 - [Compilers And Runtime Systems](./computing/02-compilers-and-runtime-systems.md)
 - [Database Internals And Query Optimization](./computing/03-database-internals-and-query-optimization.md)
+- [Memory Models And Concurrent Systems](./computing/04-memory-models-and-concurrent-systems.md)
 
 ## semiconductors
 
@@ -131,3 +132,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 
 - [Proteomics And Mass Spectrometry](./biomedicine/01-proteomics-and-mass-spectrometry.md)
 - [Single-Cell Genomics And Cell Atlases](./biomedicine/02-single-cell-genomics-and-cell-atlases.md)
+- [Genome Editing And CRISPR Systems](./biomedicine/03-genome-editing-and-crispr-systems.md)
