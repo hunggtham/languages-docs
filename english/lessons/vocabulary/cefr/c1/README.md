@@ -41,3 +41,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## economy
 
 - [Economic Policy And Household Pressure](./economy/01-economic-policy-and-household-pressure.md)
+
+## health
+
+- [Clinical Risk And Treatment](./health/01-clinical-risk-and-treatment.md)
