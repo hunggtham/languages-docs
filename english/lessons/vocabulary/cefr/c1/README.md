@@ -165,3 +165,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## oceanography
 
 - [Oceanography And Marine Systems](./oceanography/01-oceanography-and-marine-systems.md)
+
+## geology
+
+- [Geology And Earth Processes](./geology/01-geology-and-earth-processes.md)
