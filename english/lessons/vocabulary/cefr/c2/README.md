@@ -53,3 +53,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Climate Discourse And Ecological Transition](./rhetoric/39-climate-discourse-and-ecological-transition.md)
 - [Political Economy And Financial Logic](./rhetoric/40-political-economy-and-financial-logic.md)
 - [Public Health And Epidemiological Risk](./rhetoric/41-public-health-and-epidemiological-risk.md)
+- [Ecology And Conservation Science](./rhetoric/42-ecology-and-conservation-science.md)
+- [Pedagogy Assessment And Learning Design](./rhetoric/43-pedagogy-assessment-and-learning-design.md)
