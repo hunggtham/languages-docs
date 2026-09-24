@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [주권과 협상의 외교 언어](./01-sovereignty-and-diplomatic-negotiation.md)
+- [전쟁 책임과 분쟁 완화의 외교 언어](./02-humanitarian-law-and-conflict-diplomacy.md)
