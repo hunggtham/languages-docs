@@ -113,3 +113,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Satellite Communications And Radio Networks](./rhetoric/99-satellite-communications-and-radio-networks.md)
 - [Optics And Photonics](./rhetoric/100-optics-and-photonics.md)
 - [Computational Neuroscience And Neural Coding](./rhetoric/101-computational-neuroscience-and-neural-coding.md)
+- [Climate Economics And Carbon Markets](./rhetoric/102-climate-economics-and-carbon-markets.md)
