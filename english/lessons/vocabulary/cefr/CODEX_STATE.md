@@ -10,7 +10,7 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 - Expansion target: 20,000 unique learning items
 - Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `/prompt/vocabulary_goal/GOAL.md`.
 - Every headword must be reused naturally in a review context.
-- Target integration branch: `feat/vocabulary-learning`
+- Target integration branch: `main` via short-lived task branches created from the latest `main`.
 
 ## Active generation contract
 
@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 2095 items in 105 topic files, including the public-accountability and rhetoric expansions.
+- C2: 2135 items in 107 topic files, including the new `computing/01` and `semiconductors/01` lessons.
 - C2+: 0 items.
-- Total: 4859 items.
+- Total: 4899 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: create `c2/rhetoric/104-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
+Next lesson: continue with the next coherent C2 topic. Reuse `computing/02-...` or `semiconductors/02-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -69,6 +69,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Next file: continue C2 from the next rhetoric lesson or a new C2 topic folder.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2095, C2+ 0; total 4859.
-- Intentional repeated headword: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses; no known vocabulary blocker in this batch.
+- C2 now includes `computing/01-distributed-systems-and-consensus.md` and `semiconductors/01-semiconductor-fabrication-and-lithography.md`, adding 40 reviewed learning items and two review passages with Vietnamese translations.
+- Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2135, C2+ 0; total 4899.
+- Intentional repeated headword: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `lease`, `yield`, and other ordinary words in the new lessons are taught in their distinct distributed-systems or semiconductor senses; no known vocabulary blocker in this batch.
