@@ -17,3 +17,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Rhetorical Devices And Interpretation](./rhetoric/03-rhetorical-devices-and-interpretation.md)
 - [Critical Exchange And Counterargument](./rhetoric/04-critical-exchange-and-counterargument.md)
 - [Narrative Structure And Voice](./rhetoric/05-narrative-structure-and-voice.md)
+- [Emphasis Contrast And Counterargument](./rhetoric/06-emphasis-contrast-and-counterargument.md)
+- [Discourse Ideology And Persuasion](./rhetoric/07-discourse-ideology-and-persuasion.md)
