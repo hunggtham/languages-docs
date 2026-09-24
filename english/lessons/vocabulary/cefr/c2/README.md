@@ -106,3 +106,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Ocean Carbon Cycle And Deoxygenation](./rhetoric/92-ocean-carbon-cycle-and-deoxygenation.md)
 - [Urban Stormwater Engineering](./rhetoric/93-urban-stormwater-engineering.md)
 - [Data Visualization And Visual Analytics](./rhetoric/94-data-visualization-and-visual-analytics.md)
+- [Railway Engineering And Signaling](./rhetoric/95-railway-engineering-and-signaling.md)
+- [Industrial Robotics And Control](./rhetoric/96-industrial-robotics-and-control.md)
