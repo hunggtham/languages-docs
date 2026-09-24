@@ -97,3 +97,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## housing
 
 - [Housing Markets And Tenure](./housing/01-housing-markets-and-tenure.md)
+
+## energy
+
+- [Energy Grids And Transition](./energy/01-energy-grids-and-transition.md)
