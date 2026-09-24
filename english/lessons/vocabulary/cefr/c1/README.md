@@ -181,3 +181,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## medicine
 
 - [Pharmacology And Clinical Care](./medicine/01-pharmacology-and-clinical-care.md)
+
+## psychiatry
+
+- [Psychiatry And Mental Health](./psychiatry/01-psychiatry-and-mental-health.md)
