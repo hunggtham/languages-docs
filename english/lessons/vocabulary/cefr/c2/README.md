@@ -114,3 +114,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Optics And Photonics](./rhetoric/100-optics-and-photonics.md)
 - [Computational Neuroscience And Neural Coding](./rhetoric/101-computational-neuroscience-and-neural-coding.md)
 - [Climate Economics And Carbon Markets](./rhetoric/102-climate-economics-and-carbon-markets.md)
+- [Quantum Computing And Error Correction](./rhetoric/103-quantum-computing-and-error-correction.md)
