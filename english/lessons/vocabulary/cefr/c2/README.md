@@ -71,3 +71,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Industrial Process Engineering](./rhetoric/57-industrial-process-engineering.md)
 - [Oceanography And Marine Systems](./rhetoric/58-oceanography-and-marine-systems.md)
 - [Plant Physiology And Ecology](./rhetoric/59-plant-physiology-and-ecology.md)
+- [Cognitive Science And Neuroscience](./rhetoric/60-cognitive-science-and-neuroscience.md)
