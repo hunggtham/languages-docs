@@ -25,3 +25,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## communication
 
 - [Diplomatic And Persuasive Communication](./communication/01-diplomatic-and-persuasive-communication.md)
+
+## culture
+
+- [Cultural Criticism And Representation](./culture/01-cultural-criticism-and-representation.md)
