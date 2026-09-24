@@ -94,3 +94,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Food Microbiology And Fermentation](./rhetoric/80-food-microbiology-and-fermentation.md)
 - [Financial Derivatives And Market Microstructure](./rhetoric/81-financial-derivatives-and-market-microstructure.md)
 - [Tissue Engineering And Regenerative Medicine](./rhetoric/82-tissue-engineering-and-regenerative-medicine.md)
+- [Phonetics And Speech Science](./rhetoric/83-phonetics-and-speech-science.md)
+- [Wildfire Ecology And Landscape Management](./rhetoric/84-wildfire-ecology-and-landscape-management.md)
