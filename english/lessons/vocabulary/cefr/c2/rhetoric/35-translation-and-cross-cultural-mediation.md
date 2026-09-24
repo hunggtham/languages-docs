@@ -1,4 +1,4 @@
-# C2 Vocabulary 34 — Translation and cross-cultural mediation
+# C2 Vocabulary 35 — Translation and cross-cultural mediation
 
 This lesson describes choices translators make when moving meaning between languages and cultures. It distinguishes literal transfer from functional adaptation, names points where equivalence breaks down, and shows how readers can recognize the visible traces of translation.
 
@@ -166,7 +166,7 @@ Flow: **transliteration → transcreation → domestication → foreignization �
 
 ## Review in context
 
-The translator began with **transliteration**, then used **transcreation** for the campaign and weighed **domestication** against **foreignization**. Because of the poem's **untranslatability**, exact **equivalence** was impossible; a **false friend** also required **pragmatic adaptation**. The **source text** and **target text** were compared, with selective **transference**, **explicitation**, and **implicitation**. An independent **back-translation** checked a localized interface, while an **interlinear** gloss supported language learners. The project included **intralingual** rewriting as well as **interlingual** translation, used **cultural substitution** where necessary, and edited out **translationese** before publication.
+The translator began with **transliteration**, then used **transcreation** for the campaign and weighed **domestication** against **foreignization**. Because of the poem's **untranslatability**, exact **equivalence** was impossible; a **false friend** also required **pragmatic adaptation**. The **source text** and **target text** were compared, with selective **transference**, **explicitation**, and **implicitation**. An independent **back-translation** checked a **localization** of the interface, while an **interlinear** gloss supported language learners. The project included **intralingual** rewriting as well as **interlingual** translation, used **cultural substitution** where necessary, and edited out **translationese** before publication.
 
 **Bản dịch tiếng Việt:**
 
