@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [헌법 통제와 형사 절차](./01-constitutional-review-and-criminal-procedure.md)
+- [증거·방어권·사법 접근](./02-evidence-defense-and-access-to-justice.md)
