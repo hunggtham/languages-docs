@@ -88,3 +88,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Medical Imaging And Diagnostic Reasoning](./rhetoric/74-medical-imaging-and-diagnostic-reasoning.md)
 - [Aviation Safety And Flight Dynamics](./rhetoric/75-aviation-safety-and-flight-dynamics.md)
 - [Language Typology And Contact](./rhetoric/76-language-typology-and-contact.md)
+- [Space Weather And Solar Physics](./rhetoric/77-space-weather-and-solar-physics.md)
