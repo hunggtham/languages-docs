@@ -24,4 +24,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Method And Evidence Evaluation](./rhetoric/10-method-and-evidence-evaluation.md)
 - [Language Variation And Power](./rhetoric/11-language-variation-and-power.md)
 - [Theoretical Language And Interpretive Frameworks](./rhetoric/12-theoretical-language-and-interpretive-frameworks.md)
-- [Language Variation And Power](./rhetoric/11-language-variation-and-power.md)
+- [Memory History And Narrative](./rhetoric/13-memory-history-and-narrative.md)
