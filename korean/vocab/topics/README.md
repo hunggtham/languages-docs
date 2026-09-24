@@ -50,6 +50,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [교육과 인구 변화의 정책 언어](./advanced-education-and-demographic-policy/README.md) — `교육 격차와 인구 전환`
 - [금융 위험과 소비자 보호의 언어](./advanced-finance-and-consumer-protection/README.md) — `부채의 질과 금융 소비자 보호`
 - [건강보험과 노후소득의 정책 언어](./advanced-health-insurance-and-aging-policy/README.md) — `의료비와 노후 보장의 재설계`
+- [의료 접근성과 필수의료의 정책 언어](./advanced-medical-access-and-care-delivery/README.md) — `필수의료와 지역완결형 진료`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
