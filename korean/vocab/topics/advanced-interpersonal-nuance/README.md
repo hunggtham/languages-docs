@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [말투와 반응의 미묘한 차이](./01-subtle-attitudes-and-replies.md)
+- [경계·함의·디지털 응답](./02-boundaries-implicature-and-digital-replies.md)

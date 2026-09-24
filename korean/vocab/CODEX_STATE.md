@@ -340,6 +340,11 @@
 - Coverage: 13 harder advanced-native productivity/skills/work-pattern headwords plus 2 contemporary-native-hot labor-lifestyle expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `advanced-interpersonal-nuance`
+- File: `02-boundaries-implicature-and-digital-replies.md`
+- Coverage: 13 harder advanced-native discourse/boundary/emotional-communication headwords plus 2 contemporary-native-hot digital relationship expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
