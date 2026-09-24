@@ -36,3 +36,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Social Cognition And Interpretive Bias](./rhetoric/22-social-cognition-and-interpretive-bias.md)
 - [Tone Conflict And Public Persuasion](./rhetoric/23-tone-conflict-and-public-persuasion.md)
 - [Figurative Language And Conceptual Framing](./rhetoric/24-figurative-language-and-conceptual-framing.md)
+- [Language Identity And Social Meaning](./rhetoric/25-language-identity-and-social-meaning.md)
