@@ -60,3 +60,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Materials Science And Engineering](./rhetoric/46-materials-science-and-engineering.md)
 - [Ethical Reasoning And Moral Responsibility](./rhetoric/47-ethical-reasoning-and-moral-responsibility.md)
 - [Music Sound And Cultural Analysis](./rhetoric/48-music-sound-and-cultural-analysis.md)
+- [Cryptography And Privacy Engineering](./rhetoric/49-cryptography-and-privacy-engineering.md)
