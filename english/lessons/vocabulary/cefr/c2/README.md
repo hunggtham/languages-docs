@@ -59,3 +59,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Corpus Linguistics And Language Structure](./rhetoric/45-corpus-linguistics-and-language-structure.md)
 - [Materials Science And Engineering](./rhetoric/46-materials-science-and-engineering.md)
 - [Ethical Reasoning And Moral Responsibility](./rhetoric/47-ethical-reasoning-and-moral-responsibility.md)
+- [Music Sound And Cultural Analysis](./rhetoric/48-music-sound-and-cultural-analysis.md)
