@@ -48,3 +48,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Research Design And Statistical Inference](./rhetoric/34-research-design-and-statistical-inference.md)
 - [Translation And Cross-Cultural Mediation](./rhetoric/35-translation-and-cross-cultural-mediation.md)
 - [Technology Governance And Systemic Risk](./rhetoric/36-technology-governance-and-systemic-risk.md)
+- [Regulatory Drafting And Institutional Law](./rhetoric/37-regulatory-drafting-and-institutional-law.md)
