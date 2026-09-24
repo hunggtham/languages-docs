@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [불안정 노동과 사회적 보호](./01-precarious-work-and-social-safety.md)
+- [노동시장 전환과 임금 개혁](./02-labor-transition-and-wage-reform.md)
