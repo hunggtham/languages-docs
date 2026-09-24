@@ -121,3 +121,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## geography
 
 - [Geography And Spatial Patterns](./geography/01-geography-and-spatial-patterns.md)
+
+## weather
+
+- [Weather Systems And Forecasting](./weather/01-weather-systems-and-forecasting.md)
