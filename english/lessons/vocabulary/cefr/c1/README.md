@@ -73,3 +73,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## urban
 
 - [Urban Design And Livability](./urban/01-urban-design-and-livability.md)
+
+## linguistics
+
+- [Language And Discourse](./linguistics/01-language-and-discourse.md)
