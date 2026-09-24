@@ -157,3 +157,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## chemistry
 
 - [Chemistry And Reactions](./chemistry/01-chemistry-and-reactions.md)
+
+## astronomy
+
+- [Astronomy And Cosmology](./astronomy/01-astronomy-and-cosmology.md)
