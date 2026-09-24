@@ -102,3 +102,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Endocrine Signaling And Homeostasis](./rhetoric/88-endocrine-signaling-and-homeostasis.md)
 - [Formal Logic And Proof Theory](./rhetoric/89-formal-logic-and-proof-theory.md)
 - [Volcanology And Geohazards](./rhetoric/90-volcanology-and-geohazards.md)
+- [Battery Electrochemistry And Energy Storage](./rhetoric/91-battery-electrochemistry-and-energy-storage.md)
