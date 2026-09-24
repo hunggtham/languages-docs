@@ -129,3 +129,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## philosophy
 
 - [Philosophy And Reasoning](./philosophy/01-philosophy-and-reasoning.md)
+
+## religion
+
+- [Religion And Public Life](./religion/01-religion-and-public-life.md)
