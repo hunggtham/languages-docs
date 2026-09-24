@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [데이터 권리와 플랫폼 통제](./01-data-rights-and-platform-control.md)
+- [프라이버시·콘텐츠·플랫폼 책임](./02-privacy-content-and-platform-accountability.md)
