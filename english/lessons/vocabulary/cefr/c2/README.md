@@ -65,3 +65,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Molecular Chemistry And Analysis](./rhetoric/51-molecular-chemistry-and-analysis.md)
 - [Astrophysics And Cosmic Observation](./rhetoric/52-astrophysics-and-cosmic-observation.md)
 - [Algorithms And Computational Theory](./rhetoric/53-algorithms-and-computational-theory.md)
+- [Probability And Statistical Processes](./rhetoric/54-probability-and-statistical-processes.md)
