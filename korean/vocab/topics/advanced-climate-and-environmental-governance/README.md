@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [탄소 감축과 환경 정의의 쟁점](./01-carbon-transition-and-environmental-justice.md)
+- [기후위험과 전환금융](./02-climate-risk-and-transition-finance.md)
