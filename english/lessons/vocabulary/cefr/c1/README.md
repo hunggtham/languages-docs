@@ -185,3 +185,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## psychiatry
 
 - [Psychiatry And Mental Health](./psychiatry/01-psychiatry-and-mental-health.md)
+
+## public-health
+
+- [Public Health And Population Risk](./public-health/01-public-health-and-population-risk.md)
