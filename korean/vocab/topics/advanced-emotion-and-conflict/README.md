@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [갈등이 번지고 봉합되는 과정](./01-escalation-and-conflict-discourse.md)
+- [갈등 조정과 공적 사과](./02-reconciliation-and-public-apology.md)
