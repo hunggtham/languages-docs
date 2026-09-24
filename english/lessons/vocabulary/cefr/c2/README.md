@@ -104,3 +104,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Volcanology And Geohazards](./rhetoric/90-volcanology-and-geohazards.md)
 - [Battery Electrochemistry And Energy Storage](./rhetoric/91-battery-electrochemistry-and-energy-storage.md)
 - [Ocean Carbon Cycle And Deoxygenation](./rhetoric/92-ocean-carbon-cycle-and-deoxygenation.md)
+- [Urban Stormwater Engineering](./rhetoric/93-urban-stormwater-engineering.md)
+- [Data Visualization And Visual Analytics](./rhetoric/94-data-visualization-and-visual-analytics.md)
