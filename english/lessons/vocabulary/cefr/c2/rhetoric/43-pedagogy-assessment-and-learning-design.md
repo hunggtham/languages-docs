@@ -1,4 +1,4 @@
-# C2 Vocabulary 42 — Pedagogy, assessment, and learning design
+# C2 Vocabulary 43 — Pedagogy, assessment, and learning design
 
 This lesson describes how teaching is organized, how learning is supported, and how assessment can reveal or distort achievement. It moves from adult learning and classroom theories through inclusive design, evidence-based practice, and the unintended effects of testing systems.
 
@@ -166,7 +166,7 @@ Flow: **andragogy → scaffolding → behaviorism → summative → norm-referen
 
 ## Review in context
 
-An **andragogical** course uses **scaffolding** rather than assuming every learner begins at the same point. It may borrow immediate feedback from **behaviorism**, then use a **summative** assessment that is both **norm-referenced** and **criterion-referenced** in different reports. **Psychometric** analysis can reveal **washback**, while the **hidden curriculum** rewards some learners invisibly. An **autodidact** may bring strong **epistemic transfer** skills, and **universal design for learning** can widen access. **Mastery learning**, **cognitive apprenticeship**, **spaced repetition**, and **retrieval practice** support durable knowledge; **competency-based education** and **inquiry-based** lessons make learners demonstrate it. **Item response theory** improves measurement, while careful review guards against **grade inflation**.
+An **andragogy**-informed course uses **scaffolding** rather than assuming every learner begins at the same point. It may borrow immediate feedback from **behaviorism**, then use a **summative** assessment that is both **norm-referenced** and **criterion-referenced** in different reports. **Psychometric** analysis can reveal **washback**, while the **hidden curriculum** rewards some learners invisibly. An **autodidact** may bring strong **epistemic transfer** skills, and **universal design for learning** can widen access. **Mastery learning**, **cognitive apprenticeship**, **spaced repetition**, and **retrieval practice** support durable knowledge; **competency-based education** and **inquiry-based** lessons make learners demonstrate it. **Item response theory** improves measurement, while careful review guards against **grade inflation**.
 
 **Bản dịch tiếng Việt:**
 

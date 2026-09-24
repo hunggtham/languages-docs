@@ -1,4 +1,4 @@
-# C2 Vocabulary 43 — Ecology and conservation science
+# C2 Vocabulary 42 — Ecology and conservation science
 
 This lesson names ecological relationships, conservation tools, and measures of planetary pressure. It links population patterns to restoration choices and to the capacity of ecosystems to absorb disturbance.
 
