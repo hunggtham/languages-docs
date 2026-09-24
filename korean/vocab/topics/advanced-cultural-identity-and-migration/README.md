@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [경계를 넘는 정체성과 소속](./01-belonging-and-cultural-boundaries.md)
+- [이민정책과 사회통합](./02-migration-policy-and-social-integration.md)
