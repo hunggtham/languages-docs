@@ -109,3 +109,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## arts
 
 - [Arts, Performance, And Visual Culture](./arts/01-arts-performance-and-visual-culture.md)
+
+## business
+
+- [Business Strategy And Operations](./business/01-business-strategy-and-operations.md)
