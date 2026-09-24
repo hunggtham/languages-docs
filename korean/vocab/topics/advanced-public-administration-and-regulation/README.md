@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [규칙의 설계와 행정 통제](./01-rulemaking-and-administrative-control.md)
+- [공공조달과 행정 청렴성](./02-public-procurement-and-integrity.md)
