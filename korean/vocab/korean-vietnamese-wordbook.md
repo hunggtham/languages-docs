@@ -34,6 +34,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [한국어의 구어 감각과 신조어](./topics/slang-and-pragmatic-spoken-korean/README.md)
 - [고급 업무와 기관 담화](./topics/advanced-workplace-and-institutional-discourse/README.md)
 - [고급 대인관계의 뉘앙스](./topics/advanced-interpersonal-nuance/README.md)
+- [감정의 격화와 갈등의 전개](./topics/advanced-emotion-and-conflict/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
