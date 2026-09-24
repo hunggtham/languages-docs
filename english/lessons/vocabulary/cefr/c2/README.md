@@ -115,3 +115,11 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Computational Neuroscience And Neural Coding](./rhetoric/101-computational-neuroscience-and-neural-coding.md)
 - [Climate Economics And Carbon Markets](./rhetoric/102-climate-economics-and-carbon-markets.md)
 - [Quantum Computing And Error Correction](./rhetoric/103-quantum-computing-and-error-correction.md)
+
+## computing
+
+- [Distributed Systems And Consensus](./computing/01-distributed-systems-and-consensus.md)
+
+## semiconductors
+
+- [Semiconductor Fabrication And Lithography](./semiconductors/01-semiconductor-fabrication-and-lithography.md)
