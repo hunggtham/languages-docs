@@ -249,3 +249,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## seismology
 
 - [Earthquakes And Seismic Risk](./seismology/01-earthquakes-and-seismic-risk.md)
+
+## volcanology
+
+- [Volcanoes And Eruption Hazards](./volcanology/01-volcanoes-and-eruption-hazards.md)
