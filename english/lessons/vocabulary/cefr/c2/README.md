@@ -32,3 +32,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Epistemology And Scientific Models](./rhetoric/18-epistemology-and-scientific-models.md)
 - [Advanced Rhetorical Devices](./rhetoric/19-advanced-rhetorical-devices.md)
 - [Semantic Relations And Language Change](./rhetoric/20-semantic-relations-and-language-change.md)
+- [Formal Legal And Administrative Language](./rhetoric/21-formal-legal-and-administrative-language.md)
+- [Social Cognition And Interpretive Bias](./rhetoric/22-social-cognition-and-interpretive-bias.md)
