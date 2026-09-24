@@ -13,4 +13,6 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 ## rhetoric
 
 - [Rhetorical Stance And Intellectual Style](./rhetoric/01-rhetorical-stance-and-intellectual-style.md)
-- [Rhetorical Devices And Interpretation](./rhetoric/02-rhetorical-devices-and-interpretation.md)
+- [Epistemic Precision And Argumentative Method](./rhetoric/02-epistemic-precision-and-argumentative-method.md)
+- [Rhetorical Devices And Interpretation](./rhetoric/03-rhetorical-devices-and-interpretation.md)
+- [Critical Exchange And Counterargument](./rhetoric/04-critical-exchange-and-counterargument.md)
