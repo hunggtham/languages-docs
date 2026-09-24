@@ -42,6 +42,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [국제법과 외교의 고급 담화](./topics/high-register-law-and-diplomacy/README.md)
 - [기후와 환경 거버넌스의 언어](./topics/advanced-climate-and-environmental-governance/README.md)
 - [기억과 문화 비평의 고급 언어](./topics/high-register-media-and-cultural-criticism/README.md)
+- [행정과 규제의 고급 언어](./topics/advanced-public-administration-and-regulation/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
