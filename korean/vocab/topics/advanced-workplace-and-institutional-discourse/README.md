@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [계획을 조정하고 결과를 따져 보기](./01-strategy-and-institutional-progress.md)
+- [의사결정 구조와 조직 회복력](./02-decision-structure-and-organizational-resilience.md)
