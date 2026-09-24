@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [전력망과 에너지 전환](./01-grid-security-and-energy-transition.md)
+- [전력 유연성·저장·에너지 형평성](./02-power-flexibility-storage-and-energy-equity.md)
