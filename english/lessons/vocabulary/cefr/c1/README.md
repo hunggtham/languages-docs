@@ -133,3 +133,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## religion
 
 - [Religion And Public Life](./religion/01-religion-and-public-life.md)
+
+## music
+
+- [Music Theory And Performance](./music/01-music-theory-and-performance.md)
