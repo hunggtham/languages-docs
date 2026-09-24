@@ -25,3 +25,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Language Variation And Power](./rhetoric/11-language-variation-and-power.md)
 - [Theoretical Language And Interpretive Frameworks](./rhetoric/12-theoretical-language-and-interpretive-frameworks.md)
 - [Memory History And Narrative](./rhetoric/13-memory-history-and-narrative.md)
+- [Ethical And Political Reasoning](./rhetoric/14-ethical-and-political-reasoning.md)
