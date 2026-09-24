@@ -153,3 +153,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## biology
 
 - [Biology And Genetics](./biology/01-biology-and-genetics.md)
+
+## chemistry
+
+- [Chemistry And Reactions](./chemistry/01-chemistry-and-reactions.md)
