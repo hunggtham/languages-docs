@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [부채의 질과 금융 소비자 보호](./01-debt-quality-and-financial-protection.md)
+- [가계부채와 핀테크 포용](./02-household-debt-and-fintech-inclusion.md)
