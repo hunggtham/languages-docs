@@ -82,3 +82,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Dynamic Meteorology And Atmospheric Physics](./rhetoric/68-dynamic-meteorology-and-atmospheric-physics.md)
 - [Remote Sensing And Earth Observation](./rhetoric/69-remote-sensing-and-earth-observation.md)
 - [Particle Physics And Nuclear Processes](./rhetoric/70-particle-physics-and-nuclear-processes.md)
+- [Quantum Measurement And Information](./rhetoric/71-quantum-measurement-and-information.md)
+- [Archaeology And Heritage Science](./rhetoric/72-archaeology-and-heritage-science.md)
