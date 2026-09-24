@@ -109,4 +109,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Railway Engineering And Signaling](./rhetoric/95-railway-engineering-and-signaling.md)
 - [Industrial Robotics And Control](./rhetoric/96-industrial-robotics-and-control.md)
 - [Pharmacology And Drug Delivery](./rhetoric/97-pharmacology-and-drug-delivery.md)
-- [Chemical Process Engineering And Catalysis](./rhetoric/99-chemical-process-engineering-and-catalysis.md)
+- [Chemical Process Engineering And Catalysis](./rhetoric/98-chemical-process-engineering-and-catalysis.md)

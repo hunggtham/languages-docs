@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: create `c2/rhetoric/100-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
+Next lesson: create `c2/rhetoric/99-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
 
 Before choosing the exact lesson topic and words:
 

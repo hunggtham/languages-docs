@@ -1,4 +1,4 @@
-# C2 Vocabulary 99 — Chemical process engineering and catalysis
+# C2 Vocabulary 98 — Chemical process engineering and catalysis
 
 This lesson follows a chemical process from reaction design to separation, heat management, control, and safe scale-up in an industrial plant.
 
