@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [경기 침체와 노동시장 재편](./01-recession-and-labor-market-restructuring.md)
+- [생산성·숙련·일하는 방식](./02-productivity-skills-and-work-patterns.md)
