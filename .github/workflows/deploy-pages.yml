@@ -24,9 +24,28 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  detect:
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.check.outputs.ready }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check whether the web app is present
+        id: check
+        shell: bash
+        run: |
+          if [[ -f apps/web/package.json && -f scripts/build-content-index.py ]]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "Web app is not in this revision yet; skipping Pages build."
+          fi
+
   build:
-    # Keep the workflow harmless while the web app is still being assembled.
-    if: hashFiles('apps/web/package.json', 'scripts/build-content-index.py') != ''
+    needs: detect
+    if: needs.detect.outputs.ready == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -64,6 +83,7 @@ jobs:
 
   deploy:
     needs: build
+    if: needs.build.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
