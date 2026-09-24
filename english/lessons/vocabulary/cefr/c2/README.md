@@ -120,6 +120,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 
 - [Distributed Systems And Consensus](./computing/01-distributed-systems-and-consensus.md)
 - [Compilers And Runtime Systems](./computing/02-compilers-and-runtime-systems.md)
+- [Database Internals And Query Optimization](./computing/03-database-internals-and-query-optimization.md)
 
 ## semiconductors
 
