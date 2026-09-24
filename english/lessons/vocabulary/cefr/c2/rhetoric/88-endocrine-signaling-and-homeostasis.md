@@ -1,4 +1,4 @@
-# C2 Vocabulary 87 — Endocrine signaling and homeostasis
+# C2 Vocabulary 88 — Endocrine signaling and homeostasis
 
 This lesson follows how chemical signals move through and between cells, how hormone systems maintain internal balance, and how feedback adjusts the body to changing demands.
 

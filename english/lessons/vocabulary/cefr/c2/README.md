@@ -98,4 +98,6 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Wildfire Ecology And Landscape Management](./rhetoric/84-wildfire-ecology-and-landscape-management.md)
 - [Courtroom Procedure And Evidence](./rhetoric/85-courtroom-procedure-and-evidence.md)
 - [Immunology And Vaccine Science](./rhetoric/86-immunology-and-vaccine-science.md)
+- [Strategic Security And Conflict Management](./rhetoric/87-strategic-security-and-conflict-management.md)
+- [Endocrine Signaling And Homeostasis](./rhetoric/88-endocrine-signaling-and-homeostasis.md)
 - [Endocrine Signaling And Homeostasis](./rhetoric/87-endocrine-signaling-and-homeostasis.md)
