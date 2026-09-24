@@ -197,3 +197,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## immunology
 
 - [Immunology And Immune Defense](./immunology/01-immunology-and-immune-defense.md)
+
+## genomics
+
+- [Genomics And Inheritance](./genomics/01-genomics-and-inheritance.md)
