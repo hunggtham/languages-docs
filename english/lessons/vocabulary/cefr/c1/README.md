@@ -37,3 +37,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## technology
 
 - [Digital Systems And Constraints](./technology/01-digital-systems-and-constraints.md)
+
+## economy
+
+- [Economic Policy And Household Pressure](./economy/01-economic-policy-and-household-pressure.md)
