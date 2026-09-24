@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 1295 items in 65 topic files, including the public-accountability and rhetoric expansions.
+- C2: 1335 items in 67 topic files, including the public-accountability and rhetoric expansions.
 - C2+: 0 items.
-- Total: 4059 items.
+- Total: 4099 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: create `c2/rhetoric/64-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
+Next lesson: create `c2/rhetoric/66-...md` or choose the next coherent C2 topic; continue folder-local numbering from the latest completed lesson.
 
 Before choosing the exact lesson topic and words:
 
@@ -70,5 +70,5 @@ At the end of every checkpoint update current level, last completed lesson, next
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
 - Next file: continue C2 from the next rhetoric lesson or a new C2 topic folder.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 1295, C2+ 0; total 4059.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 1335, C2+ 0; total 4099.
 - No intentional repeated headwords or known vocabulary blocker in this batch.

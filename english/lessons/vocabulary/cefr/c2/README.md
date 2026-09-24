@@ -75,3 +75,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Evolution Genetics And Heredity](./rhetoric/61-evolution-genetics-and-heredity.md)
 - [Behavioral Economics And Decision Theory](./rhetoric/62-behavioral-economics-and-decision-theory.md)
 - [Design Theory And Spatial Experience](./rhetoric/63-design-theory-and-spatial-experience.md)
+- [Genomics And Molecular Microbiology](./rhetoric/64-genomics-and-molecular-microbiology.md)
+- [State Power And Political Regimes](./rhetoric/65-state-power-and-political-regimes.md)
