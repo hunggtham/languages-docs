@@ -96,3 +96,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Tissue Engineering And Regenerative Medicine](./rhetoric/82-tissue-engineering-and-regenerative-medicine.md)
 - [Phonetics And Speech Science](./rhetoric/83-phonetics-and-speech-science.md)
 - [Wildfire Ecology And Landscape Management](./rhetoric/84-wildfire-ecology-and-landscape-management.md)
+- [Courtroom Procedure And Evidence](./rhetoric/85-courtroom-procedure-and-evidence.md)
+- [Immunology And Vaccine Science](./rhetoric/86-immunology-and-vaccine-science.md)
