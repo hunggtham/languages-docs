@@ -16,3 +16,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Epistemic Precision And Argumentative Method](./rhetoric/02-epistemic-precision-and-argumentative-method.md)
 - [Rhetorical Devices And Interpretation](./rhetoric/03-rhetorical-devices-and-interpretation.md)
 - [Critical Exchange And Counterargument](./rhetoric/04-critical-exchange-and-counterargument.md)
+- [Narrative Structure And Voice](./rhetoric/05-narrative-structure-and-voice.md)
