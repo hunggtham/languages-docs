@@ -125,7 +125,9 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 ## semiconductors
 
 - [Semiconductor Fabrication And Lithography](./semiconductors/01-semiconductor-fabrication-and-lithography.md)
+- [Advanced Packaging And Chiplets](./semiconductors/02-advanced-packaging-and-chiplets.md)
 
 ## biomedicine
 
 - [Proteomics And Mass Spectrometry](./biomedicine/01-proteomics-and-mass-spectrometry.md)
+- [Single-Cell Genomics And Cell Atlases](./biomedicine/02-single-cell-genomics-and-cell-atlases.md)
