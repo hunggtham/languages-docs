@@ -180,10 +180,15 @@
 - Coverage: 14 harder advanced-native urban/housing policy headwords plus 1 contemporary-native-hot housing expression across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `01-precarious-work-and-social-safety.md`
+- Coverage: 14 harder advanced-native labor/welfare headwords plus 1 contemporary-native-hot workplace expression across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
 
 ## Next candidates
 
-Potential next topics include high-register media and cultural criticism, advanced urban and housing policy language, or advanced labor rights and social protection reporting. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+Potential next topics include high-register media and cultural criticism, advanced labor rights and social protection reporting, or advanced education and demographic policy language. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.

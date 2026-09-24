@@ -46,6 +46,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [기억과 문화 비평의 고급 언어](./high-register-media-and-cultural-criticism/README.md) — `기억 정치와 문화 생산`
 - [행정과 규제의 고급 언어](./advanced-public-administration-and-regulation/README.md) — `규칙의 설계와 행정 통제`
 - [도시와 주거 정책의 고급 언어](./advanced-urban-and-housing-policy/README.md) — `도시 재편과 주거 권리`
+- [노동권과 사회안전망의 언어](./advanced-labor-rights-and-social-protection/README.md) — `불안정 노동과 사회적 보호`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
