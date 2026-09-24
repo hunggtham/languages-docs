@@ -29,3 +29,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## culture
 
 - [Cultural Criticism And Representation](./culture/01-cultural-criticism-and-representation.md)
+
+## law
+
+- [Legal Process And Remedies](./law/01-legal-process-and-remedies.md)
