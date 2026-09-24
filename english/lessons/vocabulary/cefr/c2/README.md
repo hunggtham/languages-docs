@@ -38,3 +38,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Figurative Language And Conceptual Framing](./rhetoric/24-figurative-language-and-conceptual-framing.md)
 - [Language Identity And Social Meaning](./rhetoric/25-language-identity-and-social-meaning.md)
 - [Standards Workload And Practical Judgment](./rhetoric/26-standards-workload-and-practical-judgment.md)
+- [Voice Prosody And Public Speaking](./rhetoric/27-voice-prosody-and-public-speaking.md)
+- [Media Ecosystems And Information Disorder](./rhetoric/28-media-ecosystems-and-information-disorder.md)
