@@ -63,3 +63,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Cryptography And Privacy Engineering](./rhetoric/49-cryptography-and-privacy-engineering.md)
 - [Earth Systems And Geology](./rhetoric/50-earth-systems-and-geology.md)
 - [Molecular Chemistry And Analysis](./rhetoric/51-molecular-chemistry-and-analysis.md)
+- [Astrophysics And Cosmic Observation](./rhetoric/52-astrophysics-and-cosmic-observation.md)
