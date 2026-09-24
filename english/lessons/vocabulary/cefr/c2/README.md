@@ -110,3 +110,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Industrial Robotics And Control](./rhetoric/96-industrial-robotics-and-control.md)
 - [Pharmacology And Drug Delivery](./rhetoric/97-pharmacology-and-drug-delivery.md)
 - [Chemical Process Engineering And Catalysis](./rhetoric/98-chemical-process-engineering-and-catalysis.md)
+- [Optics And Photonics](./rhetoric/100-optics-and-photonics.md)
