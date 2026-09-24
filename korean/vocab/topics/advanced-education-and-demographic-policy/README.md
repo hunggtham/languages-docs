@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [교육 격차와 인구 전환](./01-education-gaps-and-demographic-transition.md)
+- [인구 구조와 돌봄경제](./02-demographic-structure-and-care-economy.md)
