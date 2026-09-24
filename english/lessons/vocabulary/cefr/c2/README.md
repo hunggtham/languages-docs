@@ -87,3 +87,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Aerospace Engineering And Orbital Mechanics](./rhetoric/73-aerospace-engineering-and-orbital-mechanics.md)
 - [Medical Imaging And Diagnostic Reasoning](./rhetoric/74-medical-imaging-and-diagnostic-reasoning.md)
 - [Aviation Safety And Flight Dynamics](./rhetoric/75-aviation-safety-and-flight-dynamics.md)
+- [Language Typology And Contact](./rhetoric/76-language-typology-and-contact.md)
