@@ -77,3 +77,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Design Theory And Spatial Experience](./rhetoric/63-design-theory-and-spatial-experience.md)
 - [Genomics And Molecular Microbiology](./rhetoric/64-genomics-and-molecular-microbiology.md)
 - [State Power And Political Regimes](./rhetoric/65-state-power-and-political-regimes.md)
+- [Agricultural Science And Food Sovereignty](./rhetoric/66-agricultural-science-and-food-sovereignty.md)
+- [Soil Science And Water Management](./rhetoric/67-soil-science-and-water-management.md)
