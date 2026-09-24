@@ -213,3 +213,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## data-science
 
 - [Data Science And Model Validation](./data-science/01-data-science-and-model-validation.md)
+
+## cryptography
+
+- [Cryptography And Secure Communication](./cryptography/01-cryptography-and-secure-communication.md)
