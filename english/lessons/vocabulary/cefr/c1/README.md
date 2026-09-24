@@ -117,3 +117,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## statistics
 
 - [Statistical Reasoning And Evidence](./statistics/01-statistical-reasoning-and-evidence.md)
+
+## geography
+
+- [Geography And Spatial Patterns](./geography/01-geography-and-spatial-patterns.md)
