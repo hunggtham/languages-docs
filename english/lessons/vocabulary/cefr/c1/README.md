@@ -225,3 +225,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## geopolitics
 
 - [Geopolitics And International Order](./geopolitics/01-geopolitics-and-international-order.md)
+
+## sociolinguistics
+
+- [Language Use And Variation](./sociolinguistics/01-language-use-and-variation.md)
