@@ -221,3 +221,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## quantum-computing
 
 - [Quantum Computing And Information](./quantum-computing/01-quantum-computing-and-information.md)
+
+## geopolitics
+
+- [Geopolitics And International Order](./geopolitics/01-geopolitics-and-international-order.md)
