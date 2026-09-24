@@ -108,3 +108,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Data Visualization And Visual Analytics](./rhetoric/94-data-visualization-and-visual-analytics.md)
 - [Railway Engineering And Signaling](./rhetoric/95-railway-engineering-and-signaling.md)
 - [Industrial Robotics And Control](./rhetoric/96-industrial-robotics-and-control.md)
+- [Pharmacology And Drug Delivery](./rhetoric/97-pharmacology-and-drug-delivery.md)
