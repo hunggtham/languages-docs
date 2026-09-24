@@ -89,3 +89,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Aviation Safety And Flight Dynamics](./rhetoric/75-aviation-safety-and-flight-dynamics.md)
 - [Language Typology And Contact](./rhetoric/76-language-typology-and-contact.md)
 - [Space Weather And Solar Physics](./rhetoric/77-space-weather-and-solar-physics.md)
+- [Renewable Energy And Grid Integration](./rhetoric/78-renewable-energy-and-grid-integration.md)
