@@ -137,3 +137,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## music
 
 - [Music Theory And Performance](./music/01-music-theory-and-performance.md)
+
+## cinema
+
+- [Cinema And Film Language](./cinema/01-cinema-and-film-language.md)
