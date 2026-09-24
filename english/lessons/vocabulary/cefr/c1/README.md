@@ -145,3 +145,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## architecture
 
 - [Architecture And Built Form](./architecture/01-architecture-and-built-form.md)
+
+## engineering
+
+- [Engineering Materials And Reliability](./engineering/01-engineering-materials-and-reliability.md)
