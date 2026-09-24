@@ -101,3 +101,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Strategic Security And Conflict Management](./rhetoric/87-strategic-security-and-conflict-management.md)
 - [Endocrine Signaling And Homeostasis](./rhetoric/88-endocrine-signaling-and-homeostasis.md)
 - [Formal Logic And Proof Theory](./rhetoric/89-formal-logic-and-proof-theory.md)
+- [Volcanology And Geohazards](./rhetoric/90-volcanology-and-geohazards.md)
