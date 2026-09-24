@@ -40,6 +40,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공중보건과 과학 정책의 언어](./topics/advanced-public-health-and-science-policy/README.md)
 - [문화적 정체성과 이주의 언어](./topics/advanced-cultural-identity-and-migration/README.md)
 - [국제법과 외교의 고급 담화](./topics/high-register-law-and-diplomacy/README.md)
+- [기후와 환경 거버넌스의 언어](./topics/advanced-climate-and-environmental-governance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

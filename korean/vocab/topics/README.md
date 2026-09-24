@@ -42,6 +42,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [공중보건과 과학 정책의 언어](./advanced-public-health-and-science-policy/README.md) — `질병 지표와 의료 정책의 판단`
 - [문화적 정체성과 이주의 언어](./advanced-cultural-identity-and-migration/README.md) — `경계를 넘는 정체성과 소속`
 - [국제법과 외교의 고급 담화](./high-register-law-and-diplomacy/README.md) — `주권과 협상의 외교 언어`
+- [기후와 환경 거버넌스의 언어](./advanced-climate-and-environmental-governance/README.md) — `탄소 감축과 환경 정의의 쟁점`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
