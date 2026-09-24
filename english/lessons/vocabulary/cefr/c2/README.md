@@ -49,3 +49,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Translation And Cross-Cultural Mediation](./rhetoric/35-translation-and-cross-cultural-mediation.md)
 - [Technology Governance And Systemic Risk](./rhetoric/36-technology-governance-and-systemic-risk.md)
 - [Regulatory Drafting And Institutional Law](./rhetoric/37-regulatory-drafting-and-institutional-law.md)
+- [Urban Planning And The Built Environment](./rhetoric/38-urban-planning-and-built-environment.md)
+- [Climate Discourse And Ecological Transition](./rhetoric/39-climate-discourse-and-ecological-transition.md)
