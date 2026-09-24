@@ -37,9 +37,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 Status: `READY`
 
-Current level: `C2`
+Current level: `C1`
 
-Next lesson: create the next coherent C2 topic file (for a new topic, `c2/<topic>/01-...md`); the completed C1 topics are institutions, analysis, change, and ethics.
+Next lesson: create the next coherent C1 topic file (for a new topic, `c1/<topic>/01-...md`); the completed C1 topics are institutions, analysis, change, and ethics.
 
 Before choosing the exact lesson topic and words:
 
@@ -69,6 +69,6 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Next file: continue C2 with the next coherent rhetoric topic or folder-local sequence.
+- Next file: continue C1 with the next coherent topic or folder-local sequence.
 - Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 65, C2 35, C2+ 0; total 2864.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
