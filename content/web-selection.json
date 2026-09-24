@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "policy": "Chỉ hiển thị các Markdown đã tuyển chọn; không public references, study, planning hoặc archives mặc định.",
+  "included": [
+    "english/lessons/grammar/english-structures-*-revised.md",
+    "english/lessons/grammar/error-notebook-unit-01-13.md",
+    "english/lessons/vocabulary/ielts-vocabulary-22000-clean.md",
+    "english/lessons/vocabulary/new-words.md",
+    "english/lessons/writing/personal-topics/*.md",
+    "english/lessons/corrections/teacher-corrections.md"
+  ],
+  "deferred": [
+    "english/lessons/exams/*.md",
+    "english/references/**/*.pdf",
+    "english/references/**/*.mp3",
+    "english/references/**/*.wma",
+    "english/study/**/*",
+    "english/planning/**/*",
+    "english/archives/**/*"
+  ],
+  "reason": "Bắt đầu bằng nội dung Markdown có cấu trúc; tài liệu tham khảo bản quyền và media cần metadata, quyền truy cập và trình phát riêng trước khi public."
+}
