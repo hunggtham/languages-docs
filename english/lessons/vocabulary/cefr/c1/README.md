@@ -209,3 +209,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## robotics
 
 - [Robotics And Autonomous Machines](./robotics/01-robotics-and-autonomous-machines.md)
+
+## data-science
+
+- [Data Science And Model Validation](./data-science/01-data-science-and-model-validation.md)
