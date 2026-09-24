@@ -166,7 +166,7 @@ Flow: **moral luck → double effect → eudaimonia → supererogatory → culpa
 
 ## Review in context
 
-The committee began with **moral luck** and the **double effect** of its emergency policy, then asked whether the decision promoted **eudaimonia** or merely met minimum duty. A volunteer's sacrifice was **supererogatory**, while the official's **culpability** depended on evidence. Medical staff balanced **beneficence** with **nonmaleficence**, and a **communitarian** voice challenged a **cosmopolitan** allocation rule. Workers described **moral injury** and **moral residue**; **care ethics** made their relationships visible. The panel sought **reflective equilibrium** through **practical reason**, distinguishing **normative ethics** from **applied ethics**. **Ethical egoism**, **moral standing**, **sentientism**, and **contractarianism** offered competing answers about whose interests count.
+The committee began with **moral luck** and the **double effect** of its emergency policy, then asked whether the decision promoted **eudaimonia** or merely met minimum duty. A volunteer's sacrifice was **supererogatory**, while the official's **culpability** depended on evidence. Medical staff balanced **beneficence** with **nonmaleficence**, and a **communitarian** voice challenged a **cosmopolitanism**-based allocation rule. Workers described **moral injury** and **moral residue**; **care ethics** made their relationships visible. The panel sought **reflective equilibrium** through **practical reason**, distinguishing **normative ethics** from **applied ethics**. **Ethical egoism**, **moral standing**, **sentientism**, and **contractarianism** offered competing answers about whose interests count.
 
 **Bản dịch tiếng Việt:**
 
