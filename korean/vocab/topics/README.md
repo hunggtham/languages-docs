@@ -52,6 +52,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [건강보험과 노후소득의 정책 언어](./advanced-health-insurance-and-aging-policy/README.md) — `의료비와 노후 보장의 재설계`
 - [의료 접근성과 필수의료의 정책 언어](./advanced-medical-access-and-care-delivery/README.md) — `필수의료와 지역완결형 진료`
 - [법적 절차와 사법 책임의 고급 언어](./advanced-legal-procedure-and-judicial-accountability/README.md) — `헌법 통제와 형사 절차`
+- [에너지 전환과 전력 안보의 정책 언어](./advanced-energy-transition-and-power-security/README.md) — `전력망과 에너지 전환`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`
