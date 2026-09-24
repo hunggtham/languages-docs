@@ -100,3 +100,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Immunology And Vaccine Science](./rhetoric/86-immunology-and-vaccine-science.md)
 - [Strategic Security And Conflict Management](./rhetoric/87-strategic-security-and-conflict-management.md)
 - [Endocrine Signaling And Homeostasis](./rhetoric/88-endocrine-signaling-and-homeostasis.md)
+- [Formal Logic And Proof Theory](./rhetoric/89-formal-logic-and-proof-theory.md)
