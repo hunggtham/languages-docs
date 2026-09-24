@@ -103,3 +103,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Formal Logic And Proof Theory](./rhetoric/89-formal-logic-and-proof-theory.md)
 - [Volcanology And Geohazards](./rhetoric/90-volcanology-and-geohazards.md)
 - [Battery Electrochemistry And Energy Storage](./rhetoric/91-battery-electrochemistry-and-energy-storage.md)
+- [Ocean Carbon Cycle And Deoxygenation](./rhetoric/92-ocean-carbon-cycle-and-deoxygenation.md)
