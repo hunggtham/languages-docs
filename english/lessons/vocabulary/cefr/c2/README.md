@@ -20,3 +20,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Emphasis Contrast And Counterargument](./rhetoric/06-emphasis-contrast-and-counterargument.md)
 - [Discourse Ideology And Persuasion](./rhetoric/07-discourse-ideology-and-persuasion.md)
 - [Pragmatics And Conversational Meaning](./rhetoric/08-pragmatics-and-conversational-meaning.md)
+- [Language Meaning And Pragmatic Force](./rhetoric/09-language-meaning-and-pragmatic-force.md)
