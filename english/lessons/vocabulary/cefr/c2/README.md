@@ -27,4 +27,6 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Memory History And Narrative](./rhetoric/13-memory-history-and-narrative.md)
 - [Ethical And Political Reasoning](./rhetoric/14-ethical-and-political-reasoning.md)
 - [Temporal Causal And Systems Reasoning](./rhetoric/15-temporal-causal-and-systems-reasoning.md)
+- [Constitutional Reasoning](./rhetoric/16-constitutional-reasoning.md)
+- [Temporal Causal And Systems Reasoning](./rhetoric/15-temporal-causal-and-systems-reasoning.md)
 - [Ethical And Political Reasoning](./rhetoric/14-ethical-and-political-reasoning.md)
