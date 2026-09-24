@@ -125,3 +125,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## weather
 
 - [Weather Systems And Forecasting](./weather/01-weather-systems-and-forecasting.md)
+
+## philosophy
+
+- [Philosophy And Reasoning](./philosophy/01-philosophy-and-reasoning.md)
