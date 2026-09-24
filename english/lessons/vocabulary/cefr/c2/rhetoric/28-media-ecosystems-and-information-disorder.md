@@ -1,4 +1,4 @@
-# C2 Vocabulary 27 — Media ecosystems and information disorder
+# C2 Vocabulary 28 — Media ecosystems and information disorder
 
 This lesson maps how digital platforms shape attention, identity, and public knowledge. It distinguishes deliberately deceptive campaigns from ordinary sensationalism, then moves toward tactics that make manipulation visible and build resistance.
 
@@ -166,7 +166,7 @@ Flow: **astroturfing → clickbait → disinformation → sensationalism → vir
 
 ## Review in context
 
-An **astroturfing** campaign used **clickbait** and **disinformation**, while **sensationalism**, **virality**, and algorithmic **amplification** pushed it across a rapidly **platformized** news system. Traditional **gatekeeping** weakened as **infotainment** and a **filter bubble** narrowed what different audiences could see. Critics faced **doxxing** and **brigading**, while **sockpuppet** accounts and a **deepfake** disguised the source. Media educators used psychological **inoculation** to explain **context collapse**, **outrage farming**, and **rage bait**, then taught people to recognize **coordinated inauthentic behavior** and practice **prebunking** before the next campaign arrived.
+An **astroturfing** campaign used **clickbait** and **disinformation**, while **sensationalism**, **virality**, and algorithmic **amplification** pushed it through the rapid **platformization** of the news system. Traditional **gatekeeping** weakened as **infotainment** and a **filter bubble** narrowed what different audiences could see. Critics faced **doxxing** and **brigading**, while **sockpuppet** accounts and a **deepfake** disguised the source. Media educators used psychological **inoculation** to explain **context collapse**, **outrage farming**, and **rage bait**, then taught people to recognize **coordinated inauthentic behavior** and practice **prebunking** before the next campaign arrived.
 
 **Bản dịch tiếng Việt:**
 
