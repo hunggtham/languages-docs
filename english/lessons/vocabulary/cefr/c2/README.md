@@ -30,6 +30,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Constitutional Reasoning](./rhetoric/16-constitutional-reasoning.md)
 - [Measurement Evidence And Analytical Granularity](./rhetoric/17-measurement-evidence-and-analytical-granularity.md)
 - [Epistemology And Scientific Models](./rhetoric/18-epistemology-and-scientific-models.md)
-- [Semantic Relations And Language Change](./rhetoric/19-semantic-relations-and-language-change.md)
-- [Advanced Rhetorical Devices](./rhetoric/20-advanced-rhetorical-devices.md)
-- [Semantic Relations And Language Change](./rhetoric/19-semantic-relations-and-language-change.md)
+- [Advanced Rhetorical Devices](./rhetoric/19-advanced-rhetorical-devices.md)
+- [Semantic Relations And Language Change](./rhetoric/20-semantic-relations-and-language-change.md)
