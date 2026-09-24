@@ -33,3 +33,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## law
 
 - [Legal Process And Remedies](./law/01-legal-process-and-remedies.md)
+
+## technology
+
+- [Digital Systems And Constraints](./technology/01-digital-systems-and-constraints.md)
