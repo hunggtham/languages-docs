@@ -113,3 +113,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## business
 
 - [Business Strategy And Operations](./business/01-business-strategy-and-operations.md)
+
+## statistics
+
+- [Statistical Reasoning And Evidence](./statistics/01-statistical-reasoning-and-evidence.md)
