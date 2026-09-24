@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [도시 이동과 교통 전환](./01-urban-mobility-and-transport-transition.md)
+- [교통 수요·물류·탈탄소화](./02-transport-demand-logistics-and-decarbonization.md)
