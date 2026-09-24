@@ -79,3 +79,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [State Power And Political Regimes](./rhetoric/65-state-power-and-political-regimes.md)
 - [Agricultural Science And Food Sovereignty](./rhetoric/66-agricultural-science-and-food-sovereignty.md)
 - [Soil Science And Water Management](./rhetoric/67-soil-science-and-water-management.md)
+- [Dynamic Meteorology And Atmospheric Physics](./rhetoric/68-dynamic-meteorology-and-atmospheric-physics.md)
