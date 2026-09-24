@@ -7,3 +7,4 @@
 ## 학습 파일
 
 - [기술 상용화와 AI 책임](./01-commercialization-and-ai-accountability.md)
+- [AI 평가와 연산 거버넌스](./02-ai-evaluation-and-compute-governance.md)
