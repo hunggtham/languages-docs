@@ -124,6 +124,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Memory Models And Concurrent Systems](./computing/04-memory-models-and-concurrent-systems.md)
 - [Observability And Performance Diagnostics](./computing/05-observability-and-performance-diagnostics.md)
 - [Network Transport And Congestion Control](./computing/06-network-transport-and-congestion-control.md)
+- [Filesystems And Storage I/O](./computing/07-filesystems-and-storage-io.md)
+- [Container Orchestration And Service Mesh](./computing/08-container-orchestration-and-service-mesh.md)
 
 ## semiconductors
 
@@ -131,6 +133,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Advanced Packaging And Chiplets](./semiconductors/02-advanced-packaging-and-chiplets.md)
 - [Transistor Scaling And Device Physics](./semiconductors/03-transistor-scaling-and-device-physics.md)
 - [Semiconductor Memory And Nonvolatile Storage](./semiconductors/04-semiconductor-memory-and-nonvolatile-storage.md)
+- [Wide-Bandgap Power Semiconductors](./semiconductors/05-wide-bandgap-power-semiconductors.md)
 
 ## biomedicine
 
@@ -138,3 +141,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Single-Cell Genomics And Cell Atlases](./biomedicine/02-single-cell-genomics-and-cell-atlases.md)
 - [Genome Editing And CRISPR Systems](./biomedicine/03-genome-editing-and-crispr-systems.md)
 - [Spatial Transcriptomics And Tissue Mapping](./biomedicine/04-spatial-transcriptomics-and-tissue-mapping.md)
+- [Epigenomics And Chromatin Regulation](./biomedicine/05-epigenomics-and-chromatin-regulation.md)
+- [Cancer Immunotherapy And Cell Engineering](./biomedicine/06-cancer-immunotherapy-and-cell-engineering.md)
