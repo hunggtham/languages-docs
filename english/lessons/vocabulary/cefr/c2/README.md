@@ -130,6 +130,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [GPU Architecture And Parallel Computing](./computing/10-gpu-architecture-and-parallel-computing.md)
 - [CPU Microarchitecture And Speculative Execution](./computing/11-cpu-microarchitecture-and-speculative-execution.md)
 - [Memory Allocation And Garbage Collection](./computing/12-memory-allocation-and-garbage-collection.md)
+- [RDMA And High-Performance Networking](./computing/13-rdma-and-high-performance-networking.md)
+- [Distributed Object Storage And Erasure Coding](./computing/14-distributed-object-storage-and-erasure-coding.md)
 
 ## semiconductors
 
@@ -140,6 +142,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Wide-Bandgap Power Semiconductors](./semiconductors/05-wide-bandgap-power-semiconductors.md)
 - [Analog Mixed-Signal And Data Conversion](./semiconductors/06-analog-mixed-signal-and-data-conversion.md)
 - [RF And Millimeter-Wave Integrated Circuits](./semiconductors/07-rf-and-millimeter-wave-integrated-circuits.md)
+- [CMOS Image Sensors And Pixel Readout](./semiconductors/08-cmos-image-sensors-and-pixel-readout.md)
 
 ## biomedicine
 
@@ -153,3 +156,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Microbiome And Metagenomics](./biomedicine/08-microbiome-and-metagenomics.md)
 - [Flow Cytometry And Cell Sorting](./biomedicine/09-flow-cytometry-and-cell-sorting.md)
 - [Liquid Biopsy And Circulating Tumor DNA](./biomedicine/10-liquid-biopsy-and-circulating-tumor-dna.md)
+- [Cryo-EM And Structural Biology](./biomedicine/11-cryo-em-and-structural-biology.md)
+- [Glycomics And Glycobiology](./biomedicine/12-glycomics-and-glycobiology.md)
