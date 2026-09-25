@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 2475 items in 124 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 2575 items in 129 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 5239 items.
+- Total: 5339 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue with the next coherent C2 topic. Reuse `computing/09-...`, `semiconductors/06-...`, or `biomedicine/07-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue with the next coherent C2 topic. Reuse `computing/11-...`, `semiconductors/07-...`, or `biomedicine/09-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -69,11 +69,11 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, proteomics, single-cell genomics, genome editing, and spatial transcriptomics.
-- Latest checkpoint added five lessons: `computing/07-filesystems-and-storage-io.md`, `computing/08-container-orchestration-and-service-mesh.md`, `semiconductors/05-wide-bandgap-power-semiconductors.md`, `biomedicine/05-epigenomics-and-chromatin-regulation.md`, and `biomedicine/06-cancer-immunotherapy-and-cell-engineering.md`.
+- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, and cancer immunotherapy.
+- Latest checkpoint added five lessons: `computing/09-virtualization-and-hypervisor-systems.md`, `computing/10-gpu-architecture-and-parallel-computing.md`, `semiconductors/06-analog-mixed-signal-and-data-conversion.md`, `biomedicine/07-metabolomics-and-metabolic-flux.md`, and `biomedicine/08-microbiome-and-metagenomics.md`.
 - The five latest lessons add 100 reviewed C2 learning items. Each 20-item lesson uses one review passage that naturally reuses all headwords and includes a Vietnamese translation.
-- Validation caught two initially duplicated headwords in the storage lesson: `queue depth` already appeared in observability and `wear leveling` already appeared in semiconductor memory. They were replaced with new coverage for `scatter-gather I/O` and `flash translation layer` before checkpointing.
-- New computing coverage now spans filesystem metadata, durability, flash-aware storage, cluster reconciliation, workload health, progressive delivery, and service-mesh networking. Semiconductor coverage now includes wide-bandgap materials, power-device losses, commutation, gate driving, and thermal qualification. Biomedicine coverage now includes epigenomic regulation, chromatin assays, checkpoint biology, engineered T cells, cell-therapy toxicity, and tumor immune escape.
+- Dedup validation searched representative high-risk headwords including `microbiome`, `metabolomics`, `hypervisor`, `shared memory`, and `operational amplifier`; no existing ordinary headword+sense coverage was found in the default corpus before checkpointing.
+- New computing coverage now spans hypervisor execution, CPU/memory/device virtualization, live migration, SIMT scheduling, GPU memory behavior, accelerator synchronization, and roofline analysis. Semiconductor coverage now includes analog signal conditioning, precision amplifier limits, ADC/DAC linearity, sigma-delta conversion, PLLs, phase noise, and sampling jitter. Biomedicine coverage now includes isotope tracing, metabolic flux, fluxomics, community sequencing, microbial diversity, genome reconstruction, and host-microbe interaction.
 - Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2475, C2+ 0; total 5239.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2575, C2+ 0; total 5339.
 - Intentional repeated headword: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` is used in the semiconductor-memory sense and also in chromatography with a materially different sense. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
