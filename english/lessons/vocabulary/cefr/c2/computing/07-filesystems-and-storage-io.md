@@ -2,7 +2,7 @@
 
 This lesson follows persistent storage from filesystem metadata and block mapping through caching, durability, flash-aware behavior, redundancy, and integrity checking.
 
-Flow: **inode → directory entry → extent → journaling → copy-on-write → page cache → direct I/O → fsync → memory-mapped I/O → block device → I/O scheduler → queue depth → write amplification → TRIM → wear leveling → RAID stripe → parity → degraded mode → data scrubbing → checksumming**.
+Flow: **inode → directory entry → extent → journaling → copy-on-write → page cache → direct I/O → fsync → memory-mapped I/O → block device → I/O scheduler → scatter-gather I/O → write amplification → TRIM → flash translation layer → RAID stripe → parity → degraded mode → data scrubbing → checksumming**.
 
 ## 1. inode /ˈaɪˌnoʊd/
 **Part of speech:** noun
@@ -92,13 +92,13 @@ Flow: **inode → directory entry → extent → journaling → copy-on-write �
 **Examples:** `The I/O scheduler prioritized interactive reads over background writeback.` → I/O scheduler ưu tiên read tương tác hơn writeback chạy nền.
 **Liên kết tiếng Hàn:** `I/O 스케줄러`.
 
-## 12. queue depth /kjuː dɛpθ/
+## 12. scatter-gather I/O /ˈskætər ˈɡæðər ˌaɪˈoʊ/
 **Part of speech:** noun
-**Core meaning (English):** the number of storage operations outstanding or waiting in a device or software queue at a given time.
-**Nghĩa cốt lõi & hình ảnh ghi nhớ:** số request I/O đang xếp hàng; queue sâu hơn có thể tăng throughput nhưng cũng làm latency tăng.
-**Grammar & collocations:** `increase queue depth` — tăng queue depth; `device queue` — queue của device; `outstanding request` — request chưa hoàn tất.
-**Examples:** `Throughput improved as queue depth increased, but tail latency became worse.` → Throughput tăng khi queue depth lớn hơn, nhưng tail latency xấu đi.
-**Liên kết tiếng Hàn:** `큐 깊이`.
+**Core meaning (English):** an I/O technique that transfers data between one device operation and multiple noncontiguous memory buffers.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** một I/O gom data từ nhiều buffer rời hoặc rải data ra nhiều buffer; giảm nhu cầu copy chúng thành một vùng liên tục trước.
+**Grammar & collocations:** `scatter-gather list` — danh sách buffer; `vectorized I/O` — I/O dạng vector; `noncontiguous buffer` — buffer không liên tục.
+**Examples:** `Scatter-gather I/O let the kernel write several separate buffers with one device request.` → Scatter-gather I/O cho kernel ghi nhiều buffer rời bằng một device request.
+**Liên kết tiếng Hàn:** `스캐터-개더 I/O`.
 
 ## 13. write amplification /raɪt ˌæmpləfəˈkeɪʃən/
 **Part of speech:** noun
@@ -116,13 +116,13 @@ Flow: **inode → directory entry → extent → journaling → copy-on-write �
 **Examples:** `Periodic TRIM helped the SSD reclaim blocks before later writes needed them.` → TRIM định kỳ giúp SSD reclaim block trước khi các write sau cần chúng.
 **Liên kết tiếng Hàn:** `트림 명령`.
 
-## 15. wear leveling /wɛr ˈlɛvəlɪŋ/
+## 15. flash translation layer /flæʃ trænzˈleɪʃən ˈleɪər/
 **Part of speech:** noun
-**Core meaning (English):** a flash-management technique that distributes program and erase activity across memory cells to avoid wearing out a small region prematurely.
-**Nghĩa cốt lõi & hình ảnh ghi nhớ:** dàn đều độ mòn flash; hình dung controller luân chuyển vị trí ghi để không một nhóm cell bị erase quá nhiều lần.
-**Grammar & collocations:** `dynamic wear leveling` — wear leveling động; `static wear leveling` — wear leveling tĩnh; `flash endurance` — độ bền flash.
-**Examples:** `Wear leveling moved cold data so heavily used blocks would not fail much earlier than the rest of the drive.` → Wear leveling di chuyển cold data để block dùng nhiều không hỏng sớm hơn phần còn lại.
-**Liên kết tiếng Hàn:** `웨어 레벨링`.
+**Core meaning (English):** firmware logic in solid-state storage that maps host-visible logical block addresses to changing physical flash locations.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** lớp mapping bên trong SSD; host thấy block address ổn định nhưng FTL liên tục đổi vị trí physical cell để quản erase block và tuổi thọ flash.
+**Grammar & collocations:** `FTL mapping` — mapping FTL; `logical-to-physical mapping` — mapping logic sang physical; `flash controller` — controller flash.
+**Examples:** `The flash translation layer remapped logical blocks as pages were rewritten and erased internally.` → Flash translation layer remap logical block khi page được rewrite và erase bên trong.
+**Liên kết tiếng Hàn:** `플래시 변환 계층`, `FTL`.
 
 ## 16. RAID stripe /reɪd straɪp/
 **Part of speech:** noun
@@ -166,6 +166,6 @@ Flow: **inode → directory entry → extent → journaling → copy-on-write �
 
 ## Review in context
 
-A filesystem resolves a filename through a **directory entry** and then uses the file's **inode** to find metadata and mapped storage. Large files may be represented with an **extent**, while **journaling** records changes before they are committed. A **copy-on-write** design can preserve old blocks for snapshots. Normal reads often pass through the **page cache**, whereas databases may choose **direct I/O**; when durability matters, they may call **fsync**. Some applications instead use **memory-mapped I/O**. Beneath the filesystem, requests reach a **block device**, where an **I/O scheduler** and the current **queue depth** influence latency and throughput. Flash storage introduces **write amplification**, so **TRIM** and **wear leveling** help the device manage reclaimed space and cell endurance. Redundant arrays distribute data across a **RAID stripe** and may store **parity** for recovery. After a drive failure the array can remain online in **degraded mode**, while regular **data scrubbing** and **checksumming** help discover and repair silent corruption.
+A filesystem resolves a filename through a **directory entry** and then uses the file's **inode** to find metadata and mapped storage. Large files may be represented with an **extent**, while **journaling** records changes before they are committed. A **copy-on-write** design can preserve old blocks for snapshots. Normal reads often pass through the **page cache**, whereas databases may choose **direct I/O**; when durability matters, they may call **fsync**. Some applications instead use **memory-mapped I/O**. Beneath the filesystem, requests reach a **block device**, where an **I/O scheduler** orders operations and **scatter-gather I/O** can combine noncontiguous buffers efficiently. Flash storage introduces **write amplification**; **TRIM** informs the device about discarded blocks, while the **flash translation layer** maps logical addresses onto changing physical flash locations. Redundant arrays distribute data across a **RAID stripe** and may store **parity** for recovery. After a drive failure the array can remain online in **degraded mode**, while regular **data scrubbing** and **checksumming** help discover and repair silent corruption.
 
-**Bản dịch tiếng Việt:** Filesystem phân giải filename qua **directory entry**, rồi dùng **inode** để tìm metadata và vùng lưu trữ. File lớn có thể được biểu diễn bằng **extent**, còn **journaling** ghi lại thay đổi trước khi commit. Thiết kế **copy-on-write** có thể giữ block cũ cho snapshot. Read thông thường thường đi qua **page cache**, còn database có thể chọn **direct I/O**; khi cần durability, nó có thể gọi **fsync**. Một số application dùng **memory-mapped I/O**. Bên dưới filesystem, request đi tới **block device**, nơi **I/O scheduler** và **queue depth** ảnh hưởng latency và throughput. Flash storage tạo ra **write amplification**, nên **TRIM** và **wear leveling** giúp device quản lý vùng được reclaim và độ bền cell. RAID phân bố data trong **RAID stripe** và có thể lưu **parity** để recovery. Khi một drive hỏng, array vẫn có thể chạy ở **degraded mode**, còn **data scrubbing** và **checksumming** định kỳ giúp phát hiện, sửa corruption âm thầm.
+**Bản dịch tiếng Việt:** Filesystem phân giải filename qua **directory entry**, rồi dùng **inode** để tìm metadata và vùng lưu trữ. File lớn có thể được biểu diễn bằng **extent**, còn **journaling** ghi lại thay đổi trước khi commit. Thiết kế **copy-on-write** có thể giữ block cũ cho snapshot. Read thông thường thường đi qua **page cache**, còn database có thể chọn **direct I/O**; khi cần durability, nó có thể gọi **fsync**. Một số application dùng **memory-mapped I/O**. Bên dưới filesystem, request đi tới **block device**, nơi **I/O scheduler** sắp xếp operation và **scatter-gather I/O** có thể kết hợp buffer không liên tục hiệu quả. Flash storage tạo **write amplification**; **TRIM** báo device về block đã bỏ, còn **flash translation layer** map logical address lên physical location thay đổi trong flash. RAID phân bố data trong **RAID stripe** và có thể lưu **parity** để recovery. Khi một drive hỏng, array vẫn có thể chạy ở **degraded mode**, còn **data scrubbing** và **checksumming** định kỳ giúp phát hiện, sửa corruption âm thầm.
