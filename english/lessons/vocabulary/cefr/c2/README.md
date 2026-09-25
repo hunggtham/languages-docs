@@ -126,6 +126,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Network Transport And Congestion Control](./computing/06-network-transport-and-congestion-control.md)
 - [Filesystems And Storage I/O](./computing/07-filesystems-and-storage-io.md)
 - [Container Orchestration And Service Mesh](./computing/08-container-orchestration-and-service-mesh.md)
+- [Virtualization And Hypervisor Systems](./computing/09-virtualization-and-hypervisor-systems.md)
+- [GPU Architecture And Parallel Computing](./computing/10-gpu-architecture-and-parallel-computing.md)
 
 ## semiconductors
 
@@ -134,6 +136,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Transistor Scaling And Device Physics](./semiconductors/03-transistor-scaling-and-device-physics.md)
 - [Semiconductor Memory And Nonvolatile Storage](./semiconductors/04-semiconductor-memory-and-nonvolatile-storage.md)
 - [Wide-Bandgap Power Semiconductors](./semiconductors/05-wide-bandgap-power-semiconductors.md)
+- [Analog Mixed-Signal And Data Conversion](./semiconductors/06-analog-mixed-signal-and-data-conversion.md)
 
 ## biomedicine
 
@@ -143,3 +146,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Spatial Transcriptomics And Tissue Mapping](./biomedicine/04-spatial-transcriptomics-and-tissue-mapping.md)
 - [Epigenomics And Chromatin Regulation](./biomedicine/05-epigenomics-and-chromatin-regulation.md)
 - [Cancer Immunotherapy And Cell Engineering](./biomedicine/06-cancer-immunotherapy-and-cell-engineering.md)
+- [Metabolomics And Metabolic Flux](./biomedicine/07-metabolomics-and-metabolic-flux.md)
+- [Microbiome And Metagenomics](./biomedicine/08-microbiome-and-metagenomics.md)
