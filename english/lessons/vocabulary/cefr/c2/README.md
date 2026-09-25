@@ -115,3 +115,46 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Computational Neuroscience And Neural Coding](./rhetoric/101-computational-neuroscience-and-neural-coding.md)
 - [Climate Economics And Carbon Markets](./rhetoric/102-climate-economics-and-carbon-markets.md)
 - [Quantum Computing And Error Correction](./rhetoric/103-quantum-computing-and-error-correction.md)
+
+## computing
+
+- [Distributed Systems And Consensus](./computing/01-distributed-systems-and-consensus.md)
+- [Compilers And Runtime Systems](./computing/02-compilers-and-runtime-systems.md)
+- [Database Internals And Query Optimization](./computing/03-database-internals-and-query-optimization.md)
+- [Memory Models And Concurrent Systems](./computing/04-memory-models-and-concurrent-systems.md)
+- [Observability And Performance Diagnostics](./computing/05-observability-and-performance-diagnostics.md)
+- [Network Transport And Congestion Control](./computing/06-network-transport-and-congestion-control.md)
+- [Filesystems And Storage I/O](./computing/07-filesystems-and-storage-io.md)
+- [Container Orchestration And Service Mesh](./computing/08-container-orchestration-and-service-mesh.md)
+- [Virtualization And Hypervisor Systems](./computing/09-virtualization-and-hypervisor-systems.md)
+- [GPU Architecture And Parallel Computing](./computing/10-gpu-architecture-and-parallel-computing.md)
+- [CPU Microarchitecture And Speculative Execution](./computing/11-cpu-microarchitecture-and-speculative-execution.md)
+- [Memory Allocation And Garbage Collection](./computing/12-memory-allocation-and-garbage-collection.md)
+- [RDMA And High-Performance Networking](./computing/13-rdma-and-high-performance-networking.md)
+- [Distributed Object Storage And Erasure Coding](./computing/14-distributed-object-storage-and-erasure-coding.md)
+
+## semiconductors
+
+- [Semiconductor Fabrication And Lithography](./semiconductors/01-semiconductor-fabrication-and-lithography.md)
+- [Advanced Packaging And Chiplets](./semiconductors/02-advanced-packaging-and-chiplets.md)
+- [Transistor Scaling And Device Physics](./semiconductors/03-transistor-scaling-and-device-physics.md)
+- [Semiconductor Memory And Nonvolatile Storage](./semiconductors/04-semiconductor-memory-and-nonvolatile-storage.md)
+- [Wide-Bandgap Power Semiconductors](./semiconductors/05-wide-bandgap-power-semiconductors.md)
+- [Analog Mixed-Signal And Data Conversion](./semiconductors/06-analog-mixed-signal-and-data-conversion.md)
+- [RF And Millimeter-Wave Integrated Circuits](./semiconductors/07-rf-and-millimeter-wave-integrated-circuits.md)
+- [CMOS Image Sensors And Pixel Readout](./semiconductors/08-cmos-image-sensors-and-pixel-readout.md)
+
+## biomedicine
+
+- [Proteomics And Mass Spectrometry](./biomedicine/01-proteomics-and-mass-spectrometry.md)
+- [Single-Cell Genomics And Cell Atlases](./biomedicine/02-single-cell-genomics-and-cell-atlases.md)
+- [Genome Editing And CRISPR Systems](./biomedicine/03-genome-editing-and-crispr-systems.md)
+- [Spatial Transcriptomics And Tissue Mapping](./biomedicine/04-spatial-transcriptomics-and-tissue-mapping.md)
+- [Epigenomics And Chromatin Regulation](./biomedicine/05-epigenomics-and-chromatin-regulation.md)
+- [Cancer Immunotherapy And Cell Engineering](./biomedicine/06-cancer-immunotherapy-and-cell-engineering.md)
+- [Metabolomics And Metabolic Flux](./biomedicine/07-metabolomics-and-metabolic-flux.md)
+- [Microbiome And Metagenomics](./biomedicine/08-microbiome-and-metagenomics.md)
+- [Flow Cytometry And Cell Sorting](./biomedicine/09-flow-cytometry-and-cell-sorting.md)
+- [Liquid Biopsy And Circulating Tumor DNA](./biomedicine/10-liquid-biopsy-and-circulating-tumor-dna.md)
+- [Cryo-EM And Structural Biology](./biomedicine/11-cryo-em-and-structural-biology.md)
+- [Glycomics And Glycobiology](./biomedicine/12-glycomics-and-glycobiology.md)
