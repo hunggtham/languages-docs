@@ -122,14 +122,19 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Compilers And Runtime Systems](./computing/02-compilers-and-runtime-systems.md)
 - [Database Internals And Query Optimization](./computing/03-database-internals-and-query-optimization.md)
 - [Memory Models And Concurrent Systems](./computing/04-memory-models-and-concurrent-systems.md)
+- [Observability And Performance Diagnostics](./computing/05-observability-and-performance-diagnostics.md)
+- [Network Transport And Congestion Control](./computing/06-network-transport-and-congestion-control.md)
 
 ## semiconductors
 
 - [Semiconductor Fabrication And Lithography](./semiconductors/01-semiconductor-fabrication-and-lithography.md)
 - [Advanced Packaging And Chiplets](./semiconductors/02-advanced-packaging-and-chiplets.md)
+- [Transistor Scaling And Device Physics](./semiconductors/03-transistor-scaling-and-device-physics.md)
+- [Semiconductor Memory And Nonvolatile Storage](./semiconductors/04-semiconductor-memory-and-nonvolatile-storage.md)
 
 ## biomedicine
 
 - [Proteomics And Mass Spectrometry](./biomedicine/01-proteomics-and-mass-spectrometry.md)
 - [Single-Cell Genomics And Cell Atlases](./biomedicine/02-single-cell-genomics-and-cell-atlases.md)
 - [Genome Editing And CRISPR Systems](./biomedicine/03-genome-editing-and-crispr-systems.md)
+- [Spatial Transcriptomics And Tissue Mapping](./biomedicine/04-spatial-transcriptomics-and-tissue-mapping.md)
