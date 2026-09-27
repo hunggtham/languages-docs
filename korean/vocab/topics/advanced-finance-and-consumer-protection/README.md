@@ -8,3 +8,4 @@
 
 - [부채의 질과 금융 소비자 보호](./01-debt-quality-and-financial-protection.md)
 - [가계부채와 핀테크 포용](./02-household-debt-and-fintech-inclusion.md)
+- [디지털 금융과 토큰화된 화폐](./03-digital-finance-and-tokenized-money.md)
