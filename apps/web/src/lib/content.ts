@@ -12,20 +12,51 @@ export async function fetchCatalog(signal?: AbortSignal): Promise<ContentCatalog
 }
 
 export async function fetchDocument(url: string, signal?: AbortSignal): Promise<string> {
-  const response = await fetch(resolvePublicAsset(url), { signal });
+  const assetUrl = resolvePublicAsset(url);
+  if ("caches" in globalThis) {
+    try {
+      const cached = await globalThis.caches.match(assetUrl);
+      if (cached) return cached.text();
+    } catch {
+      // Cache storage can be disabled in private browsing; network remains the fallback.
+    }
+  }
+  const response = await fetch(assetUrl, { signal });
   if (!response.ok) throw new Error(`Lesson request failed (${response.status})`);
   return response.text();
 }
 
 const PROGRESS_KEY = "language-lab-progress-v1";
 
+export type ReadingStatus = "unread" | "reading" | "review" | "completed";
+
+export interface SectionBookmark {
+  headingId: string;
+  title: string;
+  savedAt: string;
+}
+
 export interface ProgressState {
   completedIds: string[];
   sectionsByLesson: Record<string, string[]>;
   lastSectionByLesson: Record<string, string>;
+  statusByLesson: Record<string, ReadingStatus>;
+  progressPctByLesson: Record<string, number>;
+  lastOpenedByLesson: Record<string, string>;
+  bookmarksByLesson: Record<string, SectionBookmark[]>;
+  readLaterIds: string[];
 }
 
-const EMPTY_PROGRESS: ProgressState = { completedIds: [], sectionsByLesson: {}, lastSectionByLesson: {} };
+const EMPTY_PROGRESS: ProgressState = {
+  completedIds: [],
+  sectionsByLesson: {},
+  lastSectionByLesson: {},
+  statusByLesson: {},
+  progressPctByLesson: {},
+  lastOpenedByLesson: {},
+  bookmarksByLesson: {},
+  readLaterIds: [],
+};
 
 export function readProgressState(): ProgressState {
   try {
@@ -40,6 +71,11 @@ export function readProgressState(): ProgressState {
       completedIds: Array.isArray(value.completedIds) ? value.completedIds.filter((item): item is string => typeof item === "string") : [],
       sectionsByLesson: value.sectionsByLesson && typeof value.sectionsByLesson === "object" ? value.sectionsByLesson : {},
       lastSectionByLesson: value.lastSectionByLesson && typeof value.lastSectionByLesson === "object" ? value.lastSectionByLesson : {},
+      statusByLesson: value.statusByLesson && typeof value.statusByLesson === "object" ? value.statusByLesson : {},
+      progressPctByLesson: value.progressPctByLesson && typeof value.progressPctByLesson === "object" ? value.progressPctByLesson : {},
+      lastOpenedByLesson: value.lastOpenedByLesson && typeof value.lastOpenedByLesson === "object" ? value.lastOpenedByLesson : {},
+      bookmarksByLesson: value.bookmarksByLesson && typeof value.bookmarksByLesson === "object" ? value.bookmarksByLesson : {},
+      readLaterIds: Array.isArray(value.readLaterIds) ? value.readLaterIds.filter((item): item is string => typeof item === "string") : [],
     };
   } catch {
     return EMPTY_PROGRESS;
