@@ -12,5 +12,6 @@ source_policy: reference material only; explanations, examples, and passages are
 
 - [외주 계약을 체결하고 마무리하기](./01-contracts-and-outsourcing.md) — `위임`, `위탁`, `수탁`, `발주`, `납품`, `검수`, `대금`, `해지`, `갱신`, `위약금`, `조항`, `서명`, `책임`, `인수`, `보증`
 - [계약 리스크·외주 분쟁](./02-risk-allocation-and-outsourcing-disputes.md)
+- [용역 현장의 윤곽과 계약 책임을 확인하기](./03-service-contracts-and-field-accountability.md) — `윤곽`, `확고`, `수용`, `사주`, `인도`, `정본`, `결함`, `기간`, `문란`, `전취하다`, `수위`, `감축하다`, `정세`, `기산`
 
 각 파일의 읽기 지문은 최대 15개 target headword를 포함하며, 계약서의 공식 표현과 실제 업무 대화를 함께 보여 준다.

@@ -405,6 +405,11 @@
 - Coverage: 13 harder advanced-native pandemic/biosecurity headwords plus 2 contemporary-native-hot post-pandemic expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; the contemporary-hot usage of `코로나 후유증` and `방역 피로감` was cross-checked against current Korean public-health reporting and patient discourse.
 
+- Topic: `contracts-and-outsourcing`
+- File: `03-service-contracts-and-field-accountability.md`
+- Coverage: 14 advanced-native contract, document, quality, and accountability headwords (`윤곽`, `확고`, `수용`, `사주`, `인도`, `정본`, `결함`, `기간`, `문란`, `전취하다`, `수위`, `감축하다`, `정세`, `기산`) in one 142-eojeol `target_set` passage; the PDF was used as reference only and the prose is original.
+- Validation: all 14 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
