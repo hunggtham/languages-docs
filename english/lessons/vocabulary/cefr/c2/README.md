@@ -122,3 +122,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Digital Forensics And Incident Response](./rhetoric/108-digital-forensics-and-incident-response.md)
 - [Multimessenger Astrophysics And Precision Cosmology](./rhetoric/109-multimessenger-astrophysics-and-precision-cosmology.md)
 - [Hydrothermal Vent Geochemistry](./rhetoric/110-hydrothermal-vent-geochemistry.md)
+- [Synthetic Biology And Gene Circuits](./rhetoric/111-synthetic-biology-and-gene-circuits.md)
+- [Electronic Market Structure And Execution](./rhetoric/112-electronic-market-structure-and-execution.md)
