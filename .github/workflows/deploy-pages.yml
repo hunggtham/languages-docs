@@ -61,17 +61,14 @@ jobs:
         with:
           node-version: 20
 
-      - name: Enable pnpm
-        run: corepack enable
-
       - name: Install web dependencies
-        run: pnpm --dir apps/web install --no-frozen-lockfile
+        run: npm install --prefix apps/web --no-audit --no-fund
 
       - name: Build content catalog
         run: python3 scripts/build-content-index.py
 
       - name: Build Vite site
-        run: pnpm --dir apps/web run build -- --base=/languages-docs/
+        run: npm run --prefix apps/web build -- --base=/languages-docs/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
