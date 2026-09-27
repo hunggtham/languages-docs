@@ -119,3 +119,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Advanced Materials And Metamaterials](./rhetoric/105-advanced-materials-and-metamaterials.md)
 - [Polar Glaciology And Sea Ice](./rhetoric/106-polar-glaciology-and-sea-ice.md)
 - [Causal Inference And Evidence Design](./rhetoric/107-causal-inference-and-evidence-design.md)
+- [Digital Forensics And Incident Response](./rhetoric/108-digital-forensics-and-incident-response.md)
+- [Multimessenger Astrophysics And Precision Cosmology](./rhetoric/109-multimessenger-astrophysics-and-precision-cosmology.md)
