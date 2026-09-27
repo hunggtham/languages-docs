@@ -125,3 +125,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Synthetic Biology And Gene Circuits](./rhetoric/111-synthetic-biology-and-gene-circuits.md)
 - [Electronic Market Structure And Execution](./rhetoric/112-electronic-market-structure-and-execution.md)
 - [Planetary Geology And Astrobiology](./rhetoric/113-planetary-geology-and-astrobiology.md)
+- [Sustainable Architecture And Building Physics](./rhetoric/114-sustainable-architecture-and-building-physics.md)
+- [Ecological Networks And Resilience](./rhetoric/115-ecological-networks-and-resilience.md)
