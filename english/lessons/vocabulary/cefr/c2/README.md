@@ -138,3 +138,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Microbiome Ecology And Host Interactions](./rhetoric/124-microbiome-ecology-and-host-interactions.md)
 - [Geometric Deep Learning And Graph Models](./rhetoric/125-geometric-deep-learning-and-graph-models.md)
 - [Bayesian Computation And Probabilistic Modeling](./rhetoric/126-bayesian-computation-and-probabilistic-modeling.md)
+- [Distributed Systems And Consistency](./rhetoric/127-distributed-systems-and-consistency.md)
