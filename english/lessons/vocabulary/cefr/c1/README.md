@@ -297,3 +297,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## electoral-politics
 
 - [Elections And Representation](./electoral-politics/01-elections-and-representation.md)
+
+## comparative-politics
+
+- [Regimes And Democratic Change](./comparative-politics/01-regimes-and-democratic-change.md)
