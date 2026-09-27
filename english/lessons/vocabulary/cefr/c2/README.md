@@ -127,3 +127,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Planetary Geology And Astrobiology](./rhetoric/113-planetary-geology-and-astrobiology.md)
 - [Sustainable Architecture And Building Physics](./rhetoric/114-sustainable-architecture-and-building-physics.md)
 - [Ecological Networks And Resilience](./rhetoric/115-ecological-networks-and-resilience.md)
+- [Archaeogenomics And Ancient DNA](./rhetoric/116-archaeogenomics-and-ancient-dna.md)
