@@ -130,3 +130,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Archaeogenomics And Ancient DNA](./rhetoric/116-archaeogenomics-and-ancient-dna.md)
 - [Foundation Models And Language Technology](./rhetoric/117-foundation-models-and-language-technology.md)
 - [River Basin Hydrology And Channel Dynamics](./rhetoric/118-river-basin-hydrology-and-channel-dynamics.md)
+- [Marine Animal Physiology And Adaptation](./rhetoric/119-marine-animal-physiology-and-adaptation.md)
+- [Network Science And Collective Behavior](./rhetoric/120-network-science-and-collective-behavior.md)
