@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
-- C1: 1085 items in 72 topic files; topic-folder numbering resets per folder.
+- C1: 1100 items in 73 topic files; topic-folder numbering resets per folder.
 - C2: 35 items in 2 topic files, including the rhetoric expansion.
 - C2+: 0 items.
-- Total: 3884 items.
+- Total: 3899 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C1`
 
-Next lesson: create the next coherent C1 topic file (for a new topic, `c1/<topic>/01-...md`); the completed C1 topics are institutions, analysis, change, ethics, research, communication, culture, law, technology, economy, health, society, education, work, science, psychology, media, urban, linguistics, food, environment, finance, transport, housing, energy, agriculture, arts, business, statistics, geography, weather, philosophy, religion, music, cinema, architecture, engineering, biology, chemistry, astronomy, oceanography, geology, computer science, phonetics, medicine, psychiatry, public-health, neuroscience, immunology, genomics, ecology, robotics, data-science, cryptography, quantum-computing, geopolitics, sociolinguistics, language-acquisition, behavioral-economics, game-theory, hydrology, seismology, volcanology, paleontology, archaeology, anthropology, demography, econometrics, public-finance, public-administration, international-development, and risk-governance.
+Next lesson: create the next coherent C1 topic file (for a new topic, `c1/<topic>/01-...md`); the completed C1 topics are institutions, analysis, change, ethics, research, communication, culture, law, technology, economy, health, society, education, work, science, psychology, media, urban, linguistics, food, environment, finance, transport, housing, energy, agriculture, arts, business, statistics, geography, weather, philosophy, religion, music, cinema, architecture, engineering, biology, chemistry, astronomy, oceanography, geology, computer science, phonetics, medicine, psychiatry, public-health, neuroscience, immunology, genomics, ecology, robotics, data-science, cryptography, quantum-computing, geopolitics, sociolinguistics, language-acquisition, behavioral-economics, game-theory, hydrology, seismology, volcanology, paleontology, archaeology, anthropology, demography, econometrics, public-finance, public-administration, international-development, risk-governance, and constitutional-law.
 
 Before choosing the exact lesson topic and words:
 
@@ -70,5 +70,5 @@ At the end of every checkpoint update current level, last completed lesson, next
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
 - Next file: continue C1 with the next coherent topic or folder-local sequence.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 1085, C2 35, C2+ 0; total 3884.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 1100, C2 35, C2+ 0; total 3899.
 - No intentional repeated headwords or known vocabulary blocker in this batch.
