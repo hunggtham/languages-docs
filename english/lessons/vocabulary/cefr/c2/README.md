@@ -129,3 +129,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Ecological Networks And Resilience](./rhetoric/115-ecological-networks-and-resilience.md)
 - [Archaeogenomics And Ancient DNA](./rhetoric/116-archaeogenomics-and-ancient-dna.md)
 - [Foundation Models And Language Technology](./rhetoric/117-foundation-models-and-language-technology.md)
+- [River Basin Hydrology And Channel Dynamics](./rhetoric/118-river-basin-hydrology-and-channel-dynamics.md)
