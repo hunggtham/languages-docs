@@ -1,4 +1,4 @@
-# C2 Vocabulary 106 — Causal inference and evidence design
+# C2 Vocabulary 107 — Causal inference and evidence design
 
 This lesson follows a causal question from the target quantity a study wants to estimate through design choices, bias, missing data, and the limits of generalization.
 

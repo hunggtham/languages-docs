@@ -8,3 +8,4 @@
 
 - [기억 정치와 문화 생산](./01-memory-politics-and-cultural-production.md)
 - [재현과 문화 권력](./02-representation-and-cultural-power.md)
+- [뉴스 플랫폼과 공중의 주의](./03-news-platforms-and-public-attention.md)
