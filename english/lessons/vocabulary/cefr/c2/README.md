@@ -116,3 +116,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Climate Economics And Carbon Markets](./rhetoric/102-climate-economics-and-carbon-markets.md)
 - [Quantum Computing And Error Correction](./rhetoric/103-quantum-computing-and-error-correction.md)
 - [Molecular Biophysics And Cellular Mechanisms](./rhetoric/104-molecular-biophysics-and-cellular-mechanisms.md)
+- [Advanced Materials And Metamaterials](./rhetoric/105-advanced-materials-and-metamaterials.md)
