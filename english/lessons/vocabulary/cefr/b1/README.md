@@ -87,3 +87,11 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## relationships
 
 - [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
+
+## leisure
+
+- [Hobbies Fitness And Free Time](./leisure/01-hobbies-fitness-and-free-time.md)
+
+## services
+
+- [Appointments Forms And Service Problems](./services/01-appointments-forms-and-service-problems.md)
