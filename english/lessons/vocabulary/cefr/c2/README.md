@@ -128,3 +128,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Sustainable Architecture And Building Physics](./rhetoric/114-sustainable-architecture-and-building-physics.md)
 - [Ecological Networks And Resilience](./rhetoric/115-ecological-networks-and-resilience.md)
 - [Archaeogenomics And Ancient DNA](./rhetoric/116-archaeogenomics-and-ancient-dna.md)
+- [Foundation Models And Language Technology](./rhetoric/117-foundation-models-and-language-technology.md)
