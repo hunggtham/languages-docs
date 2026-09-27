@@ -281,3 +281,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## public-administration
 
 - [Administration And Policy Delivery](./public-administration/01-administration-and-policy-delivery.md)
+
+## international-development
+
+- [Poverty, Aid, And Inclusive Growth](./international-development/01-poverty-aid-and-inclusive-growth.md)
