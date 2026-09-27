@@ -9,3 +9,4 @@
 - [기술 상용화와 AI 책임](./01-commercialization-and-ai-accountability.md)
 - [AI 평가와 연산 거버넌스](./02-ai-evaluation-and-compute-governance.md)
 - [양자·광자·로봇의 기술 전환](./03-quantum-photonics-and-robotics.md)
+- [바이오 혁신과 규제과학](./04-biomedical-innovation-and-regulatory-science.md)
