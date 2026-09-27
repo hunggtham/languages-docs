@@ -269,3 +269,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## demography
 
 - [Population Change And Transition](./demography/01-population-change-and-transition.md)
+
+## econometrics
+
+- [Causal Inference And Data Structure](./econometrics/01-causal-inference-and-data-structure.md)
