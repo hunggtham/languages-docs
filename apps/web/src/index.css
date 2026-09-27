@@ -98,6 +98,31 @@ nav a.active::after { content: ""; position: absolute; bottom: -28px; left: 0; r
 .skill-tabs, .status-tabs { display: flex; flex-wrap: wrap; gap: 4px; }
 .skill-tabs button { padding: 8px 11px; color: var(--muted); border-radius: 20px; background: transparent; font-size: 11px; }
 .skill-tabs button.active, .skill-tabs button:hover { color: #fff; background: var(--green); }
+.vocabulary-map { margin-bottom: 32px; padding: 26px; border: 1px solid #d8d2c4; background: var(--paper); box-shadow: 8px 9px 0 rgba(36,35,33,.035); }
+.vocabulary-map-heading { display: flex; align-items: end; justify-content: space-between; gap: 28px; }
+.vocabulary-map-heading h2 { margin: 0; font-size: 23px; letter-spacing: -.045em; }
+.vocabulary-map-heading p { max-width: 590px; margin: 9px 0 0; color: var(--muted); font-size: 12px; line-height: 1.55; }
+.vocabulary-map-heading > strong { color: var(--green); font-family: "Playfair Display", Georgia, serif; font-size: 38px; font-weight: 500; line-height: 1; white-space: nowrap; }
+.vocabulary-map-heading small { display: block; margin-top: 4px; color: var(--muted); font-family: "DM Mono", monospace; font-size: 9px; font-weight: 400; text-align: right; }
+.language-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 23px; padding-top: 18px; border-top: 1px solid var(--line); }
+.language-tabs button { padding: 8px 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 20px; background: transparent; font-size: 11px; }
+.language-tabs button.active, .language-tabs button:hover { color: var(--ink); border-color: #b8c9af; background: var(--green-soft); }
+.level-rail { display: grid; grid-template-columns: repeat(auto-fit, minmax(96px, 1fr)); gap: 6px; margin-top: 9px; }
+.level-rail button { display: flex; min-height: 57px; flex-direction: column; align-items: flex-start; justify-content: space-between; padding: 10px 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 2px; background: #f8f5ef; text-align: left; transition: border-color .2s, background .2s, transform .2s; }
+.level-rail button:hover { border-color: #b8b1a4; transform: translateY(-2px); }
+.level-rail button.active { color: var(--ink); border-color: var(--green); background: var(--green-soft); }
+.level-rail button span { font-size: 11px; font-weight: 600; }
+.level-rail button b { color: var(--green); font-family: "DM Mono", monospace; font-size: 9px; font-weight: 500; }
+.catalog-groups { display: flex; flex-direction: column; gap: 48px; }
+.level-section { padding-top: 25px; border-top: 1px solid var(--line); }
+.level-section-heading { display: flex; align-items: end; justify-content: space-between; gap: 26px; margin-bottom: 18px; }
+.level-kicker { display: block; margin-bottom: 7px; color: var(--orange); font-family: "DM Mono", monospace; font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
+.level-section-heading h2 { margin: 0; font-size: 26px; letter-spacing: -.05em; }
+.level-section-heading p { margin: 7px 0 0; color: var(--muted); font-size: 12px; line-height: 1.45; }
+.level-section-count { min-width: 82px; padding-left: 18px; border-left: 1px solid var(--line); text-align: right; }
+.level-section-count strong { display: block; color: var(--green); font-family: "Playfair Display", Georgia, serif; font-size: 27px; font-weight: 500; line-height: 1; }
+.level-section-count span { display: block; margin-top: 7px; color: var(--muted); font-family: "DM Mono", monospace; font-size: 9px; white-space: nowrap; }
+.level-section .document-grid { grid-template-columns: repeat(3, 1fr); }
 .status-tabs { gap: 7px; margin: -16px 0 24px; }
 .status-tabs button { padding: 7px 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 20px; background: transparent; font-size: 10px; }
 .status-tabs button.active, .status-tabs button:hover { color: var(--ink); border-color: #aebda5; background: var(--green-soft); }
@@ -162,10 +187,15 @@ footer { display: flex; justify-content: space-between; gap: 20px; width: min(11
   .stats-row > div:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
   .stats-row > div:first-child { padding-left: 25px; }
   .document-grid, .skill-cards { grid-template-columns: repeat(2, 1fr); }
+  .level-section .document-grid { grid-template-columns: repeat(2, 1fr); }
   .library-toolbar { align-items: stretch; flex-direction: column; }
   .search-box { width: 100%; }
   .library-controls { align-items: stretch; flex-direction: column; }
   .sort-control { justify-content: space-between; }
+  .vocabulary-map-heading, .level-section-heading { align-items: start; flex-direction: column; gap: 14px; }
+  .vocabulary-map-heading > strong { align-self: flex-start; }
+  .vocabulary-map-heading small { text-align: left; }
+  .level-section-count { padding-left: 0; border-left: 0; text-align: left; }
   .reader-header { align-items: start; flex-direction: column; }
   .reader-layout { grid-template-columns: 1fr; }
   .reader-aside { position: static; }
@@ -176,7 +206,9 @@ footer { display: flex; justify-content: space-between; gap: 20px; width: min(11
   nav a { font-size: 11px; }
   .hero h1 { font-size: 45px; }
   .document-grid, .skill-cards { grid-template-columns: 1fr; }
+  .level-section .document-grid { grid-template-columns: 1fr; }
   .section-heading { align-items: start; flex-direction: column; gap: 12px; }
   .library-heading h1 { font-size: 31px; }
+  .vocabulary-map { padding: 20px; }
   footer { align-items: start; flex-direction: column; }
 }
