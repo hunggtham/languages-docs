@@ -33,7 +33,7 @@ export default function CatalogPage({ documents, progress, completed, onOpen, in
       const count = sectionCount(progress, document.id);
       const done = isComplete(progress, document.id);
       const matchesStatus = status === "all" || (status === "complete" && done) || (status === "progress" && count > 0 && !done) || (status === "todo" && count === 0 && !done);
-      const searchable = `${document.title} ${document.description} ${document.level} ${document.skill} ${document.track ?? ""}`.toLowerCase();
+      const searchable = `${document.title} ${document.description} ${document.level} ${document.skill} ${document.language ?? ""} ${document.track ?? ""}`.toLowerCase();
       return (skill === "All" || document.skill === skill) && matchesStatus && searchable.includes(normalizedQuery);
     });
     return [...result].sort((left, right) => sort === "title" ? left.title.localeCompare(right.title) : sort === "unfinished" ? Number(isComplete(progress, left.id)) - Number(isComplete(progress, right.id)) : (left.order ?? 999) - (right.order ?? 999));
