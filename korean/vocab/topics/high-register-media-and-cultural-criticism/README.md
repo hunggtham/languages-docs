@@ -9,3 +9,4 @@
 - [기억 정치와 문화 생산](./01-memory-politics-and-cultural-production.md)
 - [재현과 문화 권력](./02-representation-and-cultural-power.md)
 - [뉴스 플랫폼과 공중의 주의](./03-news-platforms-and-public-attention.md)
+- [문화 기억과 관객 윤리](./04-cultural-memory-audience-ethics.md) — `심미`, `내로라하다`, `주연`, `방청객`, `간직`, `세월`, `미련`, `성희롱`, `표상`, `작품성`, `저작인격권`, `관람자`, `서사적`, `재맥락화`, `기억공동체`
