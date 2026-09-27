@@ -335,6 +335,11 @@
 - Coverage: 13 harder advanced-native evidence/defense/access-to-justice headwords plus 2 contemporary-native-hot legal-discourse expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked.
 
+- Topic: `advanced-legal-procedure-and-judicial-accountability`
+- File: `03-confinement-and-institutional-control.md`
+- Coverage: 3 advanced-native legal/institutional-control headwords (`수감하다`, `복종`, `동조적`) in one `target_set` passage.
+- Validation: lexical-basis metadata, register/context metadata, entry headings, passage target coverage, hidden metadata, topic README link, and local numbering checked.
+
 - Topic: `advanced-economic-and-labor-reporting`
 - File: `02-productivity-skills-and-work-patterns.md`
 - Coverage: 13 harder advanced-native productivity/skills/work-pattern headwords plus 2 contemporary-native-hot labor-lifestyle expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
