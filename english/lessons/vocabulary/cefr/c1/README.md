@@ -285,3 +285,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## international-development
 
 - [Poverty, Aid, And Inclusive Growth](./international-development/01-poverty-aid-and-inclusive-growth.md)
+
+## risk-governance
+
+- [Resilience And Climate Risk](./risk-governance/01-resilience-and-climate-risk.md)
