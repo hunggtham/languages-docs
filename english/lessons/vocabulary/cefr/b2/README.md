@@ -17,3 +17,15 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## research
 
 - [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
+
+## education
+
+- [Academic Writing And Feedback](./education/01-academic-writing-and-feedback.md)
+
+## technology
+
+- [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
+
+## society
+
+- [Urban Life Housing And Public Space](./society/01-urban-life-housing-and-public-space.md)
