@@ -133,3 +133,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Marine Animal Physiology And Adaptation](./rhetoric/119-marine-animal-physiology-and-adaptation.md)
 - [Network Science And Collective Behavior](./rhetoric/120-network-science-and-collective-behavior.md)
 - [Atmospheric Aerosol Chemistry](./rhetoric/121-atmospheric-aerosol-chemistry.md)
+- [Remote Sensing And Geospatial Analysis](./rhetoric/122-remote-sensing-and-geospatial-analysis.md)
