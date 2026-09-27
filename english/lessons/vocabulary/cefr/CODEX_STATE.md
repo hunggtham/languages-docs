@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 888 items in 44 topic files; topic-folder numbering resets per folder.
-- B2: 60 items in 4 topic files; B2 expansion is now active beyond the original pilot.
+- B1: 928 items in 46 topic files; topic-folder numbering resets per folder.
+- B2: 105 items in 7 topic files; B2 expansion is active beyond the original pilot.
 - C1: 0 items.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 5624 items.
+- Total: 5709 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `B1/B2`
 
-Next lesson: continue B1 and B2 with coherent topic-driven expansion. Reuse `b1/food/02-...`, `b1/relationships/02-...`, `b2/work/02-...`, `b2/communication/02-...`, or `b2/research/02-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start at `01`.
+Next lesson: continue B1 and B2 with coherent topic-driven expansion. Reuse `b1/leisure/02-...`, `b1/services/02-...`, `b2/education/02-...`, `b2/technology/02-...`, or `b2/society/02-...` only when the next lesson naturally belongs to that network; otherwise create a new topic folder and start at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -68,12 +68,13 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 reached its soft planning target at 1,501 items. Earlier B1 expansion added technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
+- A2 reached its soft planning target at 1,501 items. Earlier B1 expansion added technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, housing/renting, cooking/eating-out, and friendship/social-plans topics.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
-- Latest checkpoint switched active generation to B1/B2 and added five lessons: `b1/food/01-cooking-and-eating-out.md`, `b1/relationships/01-friendship-conflict-and-social-plans.md`, `b2/work/01-project-risk-and-accountability.md`, `b2/communication/01-discussion-persuasion-and-interpretation.md`, and `b2/research/01-evidence-trends-and-interpretation.md`.
-- The two B1 lessons add 40 reviewed learning items using the established concise B1 format. The three B2 lessons add 45 reviewed items using the deeper 15-item B2 pilot format. Every lesson includes a review passage that naturally reuses all headwords and a Vietnamese translation.
-- Dedup validation searched the default corpus for the new semantic networks and representative high-risk expressions including `ingredient`, `friendship`, `stakeholder`, `assumption`, `correlation`, `representative sample`, `evidence-based`, and `rule out`; no existing ordinary headword+sense coverage was found in those searches.
-- New B1 coverage now includes cooking methods, restaurant interaction, dietary needs, friendship maintenance, interpersonal boundaries, conflict repair, and social plans. New B2 coverage now includes project accountability/risk, analytical disagreement and persuasion, and evidence/trend interpretation.
+- The previous B1/B2 checkpoint added `b1/food/01-cooking-and-eating-out.md`, `b1/relationships/01-friendship-conflict-and-social-plans.md`, `b2/work/01-project-risk-and-accountability.md`, `b2/communication/01-discussion-persuasion-and-interpretation.md`, and `b2/research/01-evidence-trends-and-interpretation.md`.
+- Latest checkpoint added five more lessons: `b1/leisure/01-hobbies-fitness-and-free-time.md`, `b1/services/01-appointments-forms-and-service-problems.md`, `b2/education/01-academic-writing-and-feedback.md`, `b2/technology/01-data-privacy-and-digital-behavior.md`, and `b2/society/01-urban-life-housing-and-public-space.md`.
+- The two latest B1 lessons add 40 reviewed learning items using the established concise B1 format. The three latest B2 lessons add 45 reviewed items using the deeper 15-item B2 format. Every lesson includes a review passage that naturally reuses all headwords and a Vietnamese translation.
+- Dedup validation searched the default corpus for the new semantic networks and high-risk headwords including `sign up for`, `make an appointment`, `thesis statement`, `data privacy`, `affordable housing`, `replacement`, `competition`, `paraphrase`, `consent`, `public transit`, and `data breach`; no existing ordinary headword+sense coverage was found in those searches. Nearby branch B1/B2 lessons were also checked before generation.
+- New B1 coverage now includes hobbies, fitness routines, sports participation, appointments, forms, identity documents, refunds, replacement/service requests, and service-problem resolution. New B2 coverage now includes academic argument structure and revision, data-privacy choices and tracking, and urban housing/public-space/transit discussion.
 - Next file: continue B1/B2 expansion from coherent topic folders; preserve the different depth expectations for each CEFR level.
-- Actual counts: A1 400, A2 1501, B1 888, B2 60, C1 0, C2 2775, C2+ 0; total 5624.
+- Actual counts: A1 400, A2 1501, B1 928, B2 105, C1 0, C2 2775, C2+ 0; total 5709.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this B1/B2 batch.
