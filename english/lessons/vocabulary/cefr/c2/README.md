@@ -134,3 +134,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Network Science And Collective Behavior](./rhetoric/120-network-science-and-collective-behavior.md)
 - [Atmospheric Aerosol Chemistry](./rhetoric/121-atmospheric-aerosol-chemistry.md)
 - [Remote Sensing And Geospatial Analysis](./rhetoric/122-remote-sensing-and-geospatial-analysis.md)
+- [Particle Detectors And Event Reconstruction](./rhetoric/123-particle-detectors-and-event-reconstruction.md)
+- [Microbiome Ecology And Host Interactions](./rhetoric/124-microbiome-ecology-and-host-interactions.md)
