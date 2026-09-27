@@ -385,6 +385,11 @@
 - Coverage: 13 harder advanced-native digital-finance/tokenization headwords plus 2 contemporary-native-hot fintech/payment expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
 - Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; the contemporary-hot usage of `BNPL` and `테크핀` was cross-checked against current Korean fintech and consumer-finance reporting.
 
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `03-platform-labor-and-automation.md`
+- Coverage: 13 harder advanced-native labor/automation headwords plus 2 contemporary-native-hot workplace expressions across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: lexical-basis metadata, source-lane context, entry headings, passage target coverage, hidden metadata, topic README links, and folder-local numbering checked; the contemporary-hot usage of `퇴준생` and `사이드잡` was cross-checked against current Korean career and workplace discourse.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
