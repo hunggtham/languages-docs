@@ -136,3 +136,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Remote Sensing And Geospatial Analysis](./rhetoric/122-remote-sensing-and-geospatial-analysis.md)
 - [Particle Detectors And Event Reconstruction](./rhetoric/123-particle-detectors-and-event-reconstruction.md)
 - [Microbiome Ecology And Host Interactions](./rhetoric/124-microbiome-ecology-and-host-interactions.md)
+- [Geometric Deep Learning And Graph Models](./rhetoric/125-geometric-deep-learning-and-graph-models.md)
+- [Bayesian Computation And Probabilistic Modeling](./rhetoric/126-bayesian-computation-and-probabilistic-modeling.md)
