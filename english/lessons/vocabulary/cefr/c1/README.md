@@ -253,3 +253,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## volcanology
 
 - [Volcanoes And Eruption Hazards](./volcanology/01-volcanoes-and-eruption-hazards.md)
+
+## paleontology
+
+- [Fossil Record And Evolution](./paleontology/01-fossil-record-and-evolution.md)
