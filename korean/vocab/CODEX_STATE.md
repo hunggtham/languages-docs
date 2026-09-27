@@ -410,6 +410,11 @@
 - Coverage: 14 advanced-native contract, document, quality, and accountability headwords (`윤곽`, `확고`, `수용`, `사주`, `인도`, `정본`, `결함`, `기간`, `문란`, `전취하다`, `수위`, `감축하다`, `정세`, `기산`) in one 142-eojeol `target_set` passage; the PDF was used as reference only and the prose is original.
 - Validation: all 14 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `03-strategic-judgment-and-institutional-independence.md`
+- Coverage: 15 advanced-native institutional strategy and accountability headwords (`부합`, `자주적`, `독자적`, `본질적`, `현명하다`, `확신`, `사심`, `헌신`, `정서적`, `국한`, `앞세우다`, `치닫다`, `파탄`, `은연하다`, `수용적`) in one 132-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
