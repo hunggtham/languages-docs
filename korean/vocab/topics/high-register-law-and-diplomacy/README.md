@@ -8,3 +8,4 @@
 
 - [주권과 협상의 외교 언어](./01-sovereignty-and-diplomatic-negotiation.md)
 - [전쟁 책임과 분쟁 완화의 외교 언어](./02-humanitarian-law-and-conflict-diplomacy.md)
+- [경제안보와 사이버 외교](./03-economic-security-and-cyber-diplomacy.md)
