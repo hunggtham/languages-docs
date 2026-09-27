@@ -1,0 +1,19 @@
+# B2 Vocabulary
+
+Files are numbered independently inside each topic folder. B2 lessons use deeper explanation of nuance, register, collocation, linking, and sentence behavior than B1 while keeping review-context sizing aligned with `/prompt/vocabulary_goal/GOAL.md`.
+
+## decisions
+
+- [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
+
+## work
+
+- [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
+
+## communication
+
+- [Discussion Persuasion And Interpretation](./communication/01-discussion-persuasion-and-interpretation.md)
+
+## research
+
+- [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
