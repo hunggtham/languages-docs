@@ -301,3 +301,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## comparative-politics
 
 - [Regimes And Democratic Change](./comparative-politics/01-regimes-and-democratic-change.md)
+
+## diplomacy
+
+- [Diplomatic Strategy And Negotiation](./diplomacy/01-diplomatic-strategy-and-negotiation.md)
