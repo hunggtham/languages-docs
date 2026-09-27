@@ -140,3 +140,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Bayesian Computation And Probabilistic Modeling](./rhetoric/126-bayesian-computation-and-probabilistic-modeling.md)
 - [Distributed Systems And Consistency](./rhetoric/127-distributed-systems-and-consistency.md)
 - [Comparative Constitutional Adjudication](./rhetoric/128-comparative-constitutional-adjudication.md)
+- [Financial Econometrics And Volatility](./rhetoric/129-financial-econometrics-and-volatility.md)
