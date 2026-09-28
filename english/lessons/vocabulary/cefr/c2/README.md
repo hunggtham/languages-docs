@@ -141,3 +141,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Systems And Consistency](./rhetoric/127-distributed-systems-and-consistency.md)
 - [Comparative Constitutional Adjudication](./rhetoric/128-comparative-constitutional-adjudication.md)
 - [Financial Econometrics And Volatility](./rhetoric/129-financial-econometrics-and-volatility.md)
+- [Acoustics And Auditory Perception](./rhetoric/130-acoustics-and-auditory-perception.md)
