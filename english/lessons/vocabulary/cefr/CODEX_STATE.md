@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 3556 items in 178 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 3576 items in 179 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 6320 items.
+- Total: 6340 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue with the next coherent C2 topic. Reuse `computing/21-...`, `semiconductors/13-...`, or `biomedicine/13-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue with the next coherent C2 topic. Reuse `computing/21-...`, `semiconductors/14-...`, or `biomedicine/13-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -70,11 +70,11 @@ At the end of every checkpoint update current level, last completed lesson, next
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, and liquid biopsy.
-- Latest checkpoints added `computing/15-confidential-computing-and-trusted-execution.md`, `computing/16-scheduling-and-resource-allocation.md`, `computing/17-data-compression-and-encoding.md`, `computing/18-serverless-function-runtimes.md`, `computing/19-edge-computing-and-workload-placement.md`, `computing/20-event-driven-architecture-and-messaging`, `semiconductors/09-neuromorphic-and-quantum-devices.md`, `semiconductors/10-semiconductor-reliability-and-failure-analysis.md`, `semiconductors/11-semiconductor-reliability-and-thermal-qualification.md`, and `semiconductors/12-semiconductor-process-control-and-metrology.md`; the first nine use one 20-item review passage each, while the serverless lesson uses two shorter passages, all with Vietnamese translations.
+- Latest checkpoints added `computing/15-confidential-computing-and-trusted-execution.md`, `computing/16-scheduling-and-resource-allocation.md`, `computing/17-data-compression-and-encoding.md`, `computing/18-serverless-function-runtimes.md`, `computing/19-edge-computing-and-workload-placement.md`, `computing/20-event-driven-architecture-and-messaging`, `semiconductors/09-neuromorphic-and-quantum-devices.md`, `semiconductors/10-semiconductor-reliability-and-failure-analysis.md`, `semiconductors/11-semiconductor-reliability-and-thermal-qualification.md`, `semiconductors/12-semiconductor-process-control-and-metrology.md`, and `semiconductors/13-silicon-photonics-and-optical-interconnects.md`; the first ten use one 20-item review passage each, while the serverless lesson uses two shorter passages, all with Vietnamese translations.
 - The preceding checkpoint added five lessons: `computing/13-rdma-and-high-performance-networking.md`, `computing/14-distributed-object-storage-and-erasure-coding.md`, `semiconductors/08-cmos-image-sensors-and-pixel-readout.md`, `biomedicine/11-cryo-em-and-structural-biology.md`, and `biomedicine/12-glycomics-and-glycobiology.md`; those five lessons added 100 reviewed C2 learning items.
 - Dedup validation searched the default corpus for the new semantic networks and representative high-risk terms including `dynamic range`, `zero-copy`, `glycosylation`, `object storage`, and `structural biology`; no existing ordinary headword+sense coverage was found. Nearby branch lessons were also checked to avoid overlap with transport, distributed systems, analog/RF, proteomics, and recent omics content.
 - New computing coverage now spans registered-memory networking, queue-pair verbs, one-sided RDMA, InfiniBand/RoCE, object namespaces, failure-aware placement, erasure coding, repair, and background replica convergence. Semiconductor coverage now includes pixel charge conversion, image-sensor noise, shutter architecture, optical stacking, and backside illumination. Biomedicine coverage now includes cryo-EM specimen preparation, particle reconstruction, resolution validation, atomic-model refinement, and glycan structure, processing, recognition, and heterogeneity.
 - The local rhetoric sequence now continues through `132-seismology-and-earthquake-hazards.md`; the latest local rhetoric checkpoints added sensory science and seismology.
 - Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 3556, C2+ 0; total 6320.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 3576, C2+ 0; total 6340.
 - Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.

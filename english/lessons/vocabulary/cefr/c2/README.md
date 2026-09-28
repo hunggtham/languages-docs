@@ -182,6 +182,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Semiconductor Reliability And Failure Analysis](./semiconductors/10-semiconductor-reliability-and-failure-analysis.md)
 - [Semiconductor Reliability And Thermal Qualification](./semiconductors/11-semiconductor-reliability-and-thermal-qualification.md)
 - [Semiconductor Process Control And Metrology](./semiconductors/12-semiconductor-process-control-and-metrology.md)
+- [Silicon Photonics And Optical Interconnects](./semiconductors/13-silicon-photonics-and-optical-interconnects.md)
 
 ## biomedicine
 
