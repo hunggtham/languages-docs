@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 946 items in 47 topic files; topic-folder numbering resets per folder.
-- B2: 123 items in 8 topic files; B2 expansion is active beyond the original pilot.
+- B1: 966 items in 48 topic files; topic-folder numbering resets per folder.
+- B2: 138 items in 9 topic files; B2 expansion is active beyond the original pilot.
 - C1: 0 items.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 5745 items.
+- Total: 5780 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `B1/B2`
 
-Next lesson: continue B1 and B2 with coherent topic-driven expansion. Reuse `b1/leisure/02-...`, `b1/services/02-...`, `b2/education/02-...`, `b2/technology/02-...`, `b2/society/02-...`, or `b2/risk/02-...` only when the next lesson naturally belongs to that network; otherwise create a new topic folder and start at `01`.
+Next lesson: continue B1 and B2 with coherent topic-driven expansion. Reuse `b1/leisure/03-...`, `b1/services/02-...`, `b2/education/03-...`, `b2/technology/02-...`, `b2/society/02-...`, or `b2/risk/02-...` only when the next lesson naturally belongs to that network; otherwise create a new topic folder and start at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -70,8 +70,9 @@ At the end of every checkpoint update current level, last completed lesson, next
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. B1 expansion now covers technology, society, business, work, travel, health, education, culture, food, relationships, leisure, services, and household emergency preparedness. B2 expansion now covers decisions, risk, work, communication, research, education, technology, and society.
 - The merged remote checkpoints added ten B1/B2 lessons: cooking/eating out, friendship/social plans, project risk/accountability, discussion/persuasion, evidence/trends, hobbies/fitness, appointments/forms, academic writing, data privacy, and urban life/housing. This checkpoint also retains `b1/home/02-household-emergency-preparedness.md` and `b2/risk/01-risk-assessment-and-preparedness.md`.
+- Latest continuation added `b1/leisure/02-fitness-training-and-community-sports.md` with 20 practical fitness and community-sports items, plus `b2/education/02-academic-revision-and-editing.md` with 15 academic revision and editing items.
 - Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
 - Next file: continue B1/B2 expansion from coherent topic folders; preserve the different depth expectations for each CEFR level.
-- Actual counts: A1 400, A2 1501, B1 946, B2 123, C1 0, C2 2775, C2+ 0; total 5745.
+- Actual counts: A1 400, A2 1501, B1 966, B2 138, C1 0, C2 2775, C2+ 0; total 5780.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.

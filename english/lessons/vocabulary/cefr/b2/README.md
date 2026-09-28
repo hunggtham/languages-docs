@@ -25,6 +25,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## education
 
 - [Academic Writing And Feedback](./education/01-academic-writing-and-feedback.md)
+- [Academic Revision And Editing](./education/02-academic-revision-and-editing.md)
 
 ## technology
 

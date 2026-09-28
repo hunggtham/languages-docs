@@ -92,6 +92,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## leisure
 
 - [Hobbies Fitness And Free Time](./leisure/01-hobbies-fitness-and-free-time.md)
+- [Fitness Training And Community Sports](./leisure/02-fitness-training-and-community-sports.md)
 
 ## services
 
