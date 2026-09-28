@@ -181,6 +181,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Neuromorphic And Quantum Devices](./semiconductors/09-neuromorphic-and-quantum-devices.md)
 - [Semiconductor Reliability And Failure Analysis](./semiconductors/10-semiconductor-reliability-and-failure-analysis.md)
 - [Semiconductor Reliability And Thermal Qualification](./semiconductors/11-semiconductor-reliability-and-thermal-qualification.md)
+- [Semiconductor Process Control And Metrology](./semiconductors/12-semiconductor-process-control-and-metrology.md)
 
 ## biomedicine
 
