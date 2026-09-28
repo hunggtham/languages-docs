@@ -337,3 +337,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## data-governance
 
 - [Stewardship, Privacy, And Accountability](./data-governance/01-stewardship-privacy-and-accountability.md)
+
+## ai-reliability
+
+- [Model Evaluation And Safety](./ai-reliability/01-model-evaluation-and-safety.md)
