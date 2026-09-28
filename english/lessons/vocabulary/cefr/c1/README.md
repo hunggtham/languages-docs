@@ -341,3 +341,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## ai-reliability
 
 - [Model Evaluation And Safety](./ai-reliability/01-model-evaluation-and-safety.md)
+
+## cybersecurity
+
+- [Threats, Defense, And Testing](./cybersecurity/01-threats-defense-and-testing.md)
