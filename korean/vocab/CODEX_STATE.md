@@ -420,6 +420,11 @@
 - Coverage: 15 advanced-native cultural-memory, audience, and media-ethics headwords (`심미`, `내로라하다`, `주연`, `방청객`, `간직`, `세월`, `미련`, `성희롱`, `표상`, `작품성`, `저작인격권`, `관람자`, `서사적`, `재맥락화`, `기억공동체`) in one 112-eojeol `target_set` passage; source PDF used as reference only and prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `02-sharp-judgments-and-relational-boundaries.md`
+- Coverage: 15 advanced-native idiomatic and register-sensitive spoken headwords (`뜸을 들이다`, `버르장머리`, `떨거지`, `극성`, `뒷전`, `환장하다`, `싸가지가 없다`, `용하다`, `문어발`, `선을 넘다`, `뒤끝이 있다`, `낯이 두껍다`, `속내를 떠보다`, `말꼬리를 잡다`, `판을 깨다`) across `native_spoken` and `news_formal` lanes in one 123-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
