@@ -445,6 +445,11 @@
 - Coverage: 15 advanced-native administrative-law and regulatory-legitimacy headwords (`행정입법`, `재량통제`, `행정지도`, `절차적 정당성`, `규범력`, `법적 구속력`, `비례성`, `예측가능성`, `법치행정`, `정책재량`, `규제순응`, `규제포획`, `행정책임`, `공익형량`, `소급입법`) in one 100-eojeol `target_set` passage; prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `high-register-law-and-diplomacy`
+- File: `04-sanctions-dispute-prevention-and-diplomatic-remedies.md`
+- Coverage: 15 advanced-native international-law, sanctions, and conflict-prevention headwords (`국가면제`, `상호주의`, `강행규범`, `조약유보`, `외교적 보호`, `국제형사책임`, `보복조치`, `역외 적용`, `세컨더리 보이콧`, `제재 이행`, `분쟁예방`, `신뢰구축조치`, `외교적 항의`, `잠정조치`, `국제법상 의무`) in one 115-eojeol `target_set` passage; prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
