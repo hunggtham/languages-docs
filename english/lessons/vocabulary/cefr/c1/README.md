@@ -321,3 +321,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## corporate-governance
 
 - [Boards, Ownership, And Accountability](./corporate-governance/01-boards-ownership-and-accountability.md)
+
+## supply-chain
+
+- [Resilience, Inventory, And Sourcing](./supply-chain/01-resilience-inventory-and-sourcing.md)
