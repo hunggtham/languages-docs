@@ -305,3 +305,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## diplomacy
 
 - [Diplomatic Strategy And Negotiation](./diplomacy/01-diplomatic-strategy-and-negotiation.md)
+
+## peace-and-conflict
+
+- [Peacebuilding And Post-Conflict Recovery](./peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
