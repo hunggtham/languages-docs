@@ -66,6 +66,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Law And Public Services](./society/03-law-and-public-services.md)
 - [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
 - [Public Policy And Civic Communication](./society/05-public-policy-and-civic-communication.md)
+- [Community Help And Local Access](./society/06-community-help-and-local-access.md)
 
 ## technology
 
