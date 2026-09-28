@@ -9,6 +9,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## risk
 
 - [Risk Assessment And Preparedness](./risk/01-risk-assessment-and-preparedness.md)
+- [Risk Governance And Response](./risk/02-risk-governance-and-response.md)
 
 ## work
 
