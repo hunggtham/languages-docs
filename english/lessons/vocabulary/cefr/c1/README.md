@@ -313,3 +313,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## human-rights
 
 - [Rights, Obligations, And Remedies](./human-rights/01-rights-obligations-and-remedies.md)
+
+## criminal-justice
+
+- [Crime, Evidence, And Sentencing](./criminal-justice/01-crime-evidence-and-sentencing.md)
