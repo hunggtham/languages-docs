@@ -97,3 +97,4 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## services
 
 - [Appointments Forms And Service Problems](./services/01-appointments-forms-and-service-problems.md)
+- [Repairs Delivery And Follow Up](./services/02-repairs-delivery-and-follow-up.md)

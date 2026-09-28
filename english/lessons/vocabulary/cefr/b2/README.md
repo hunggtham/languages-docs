@@ -30,6 +30,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## technology
 
 - [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
+- [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
 
 ## society
 
