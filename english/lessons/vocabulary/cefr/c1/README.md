@@ -345,3 +345,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cybersecurity
 
 - [Threats, Defense, And Testing](./cybersecurity/01-threats-defense-and-testing.md)
+
+## cloud-architecture
+
+- [Deployment, Resilience, And Operations](./cloud-architecture/01-deployment-resilience-and-operations.md)
