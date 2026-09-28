@@ -333,3 +333,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## quality-management
 
 - [Process Improvement And Control](./quality-management/01-process-improvement-and-control.md)
+
+## data-governance
+
+- [Stewardship, Privacy, And Accountability](./data-governance/01-stewardship-privacy-and-accountability.md)
