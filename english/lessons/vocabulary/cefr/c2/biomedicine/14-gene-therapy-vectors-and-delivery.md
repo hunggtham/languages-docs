@@ -2,7 +2,7 @@
 
 This lesson follows a therapeutic genetic payload from vector design and tissue targeting through manufacturing, pharmacology, safety monitoring, and durable expression.
 
-Flow: **adeno-associated virus → lentiviral vector → capsid tropism → transduction efficiency → payload capacity → episomal persistence → integration site → promoter specificity → tissue targeting → vector shedding → dose-limiting toxicity → pharmacodynamic biomarker → biodistribution → vector genome → ex vivo transduction → in vivo delivery → genome integration → promoter silencing → capsid engineering → vector potency**.
+Flow: **adeno-associated virus → lentiviral vector → capsid tropism → transduction efficiency → payload capacity → episomal persistence → integration site → promoter specificity → tissue targeting → vector shedding → vector-associated inflammation → vector neutralization → biodistribution → vector genome → ex vivo transduction → in vivo delivery → genome integration → promoter silencing → capsid engineering → vector potency**.
 
 ## 1. adeno-associated virus /əˌdiːnoʊ əˈsoʊsieɪtɪd ˈvaɪrəs/
 **Part of speech:** noun
@@ -84,21 +84,21 @@ Flow: **adeno-associated virus → lentiviral vector → capsid tropism → tran
 **Examples:** `The protocol collected saliva and urine to characterize vector shedding after dosing.` → Protocol thu nước bọt và nước tiểu để đặc trưng vector shedding sau khi dùng liều.
 **Liên kết tiếng Hàn:** `벡터 배출` (bekteo baechul) — thải vector.
 
-## 11. dose-limiting toxicity /doʊs ˈlɪmətɪŋ tɑkˈsɪsəti/
+## 11. vector-associated inflammation /ˈvɛktɚ əˈsoʊsieɪtɪd ˌɪnfləˈmeɪʃən/
 **Part of speech:** noun
-**Core meaning (English):** an adverse effect that prevents a treatment from being increased beyond a particular dose.
-**Nghĩa cốt lõi & hình ảnh ghi nhớ:** độc tính giới hạn liều; tác dụng phụ xuất hiện đến mức không thể tăng liều thêm dù còn muốn hiệu quả cao hơn.
-**Grammar & collocations:** `dose-limiting-toxicity threshold` — ngưỡng; `identify dose-limiting toxicity` — xác định; `dose-limiting adverse event` — biến cố.
-**Examples:** `Transient liver inflammation became the dose-limiting toxicity in the high-dose cohort.` → Viêm gan thoáng qua trở thành dose-limiting toxicity ở nhóm liều cao.
-**Liên kết tiếng Hàn:** `용량 제한 독성` (yongnyang jehan dokseong) — độc tính giới hạn liều.
+**Core meaning (English):** an inflammatory response triggered by the vector or its payload after administration.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** viêm liên quan vector; hệ miễn dịch phản ứng với hạt vector hoặc payload và gây viêm ở mô đích hay toàn thân.
+**Grammar & collocations:** `vector-associated inflammation profile` — hồ sơ viêm; `monitor vector-associated inflammation` — theo dõi; `inflammation-mediated toxicity` — độc tính qua viêm.
+**Examples:** `Vector-associated inflammation was reduced by slowing the infusion and adjusting the corticosteroid schedule.` → Vector-associated inflammation giảm khi truyền chậm hơn và điều chỉnh lịch corticosteroid.
+**Liên kết tiếng Hàn:** `벡터 관련 염증` (bekteo gwanryeon yeomjeung) — viêm liên quan vector.
 
-## 12. pharmacodynamic biomarker /ˌfɑrməkoʊdaɪˈnæmɪk ˈbaɪoʊˌmɑrkɚ/
+## 12. vector neutralization /ˈvɛktɚ ˌnuːtrələˈzeɪʃən/
 **Part of speech:** noun
-**Core meaning (English):** a measurable biological change that indicates a treatment is producing its intended molecular or physiological effect.
-**Nghĩa cốt lõi & hình ảnh ghi nhớ:** dấu ấn dược lực học; chỉ số cho biết thuốc hoặc gene therapy đã tác động đúng pathway chứ không chỉ hiện diện.
-**Grammar & collocations:** `pharmacodynamic-biomarker response` — đáp ứng; `validate a biomarker` — xác nhận; `pharmacodynamic readout` — readout.
-**Examples:** `The enzyme activity served as a pharmacodynamic biomarker of restored pathway function.` → Hoạt tính enzyme đóng vai trò pharmacodynamic biomarker cho chức năng pathway được phục hồi.
-**Liên kết tiếng Hàn:** `약력학적 바이오마커` (yangnyeokhakjeok baiomakeo) — dấu ấn dược lực học.
+**Core meaning (English):** the blocking of a vector's ability to enter target cells by antibodies or other immune mechanisms.
+**Nghĩa cốt lõi & hình ảnh ghi nhớ:** trung hòa vector; kháng thể bám vào hạt và ngăn nó đến hoặc đi vào tế bào mục tiêu.
+**Grammar & collocations:** `vector-neutralization assay` — assay trung hòa; `resist vector neutralization` — kháng trung hòa; `neutralization titer` — hiệu giá trung hòa.
+**Examples:** `Pre-existing antibodies caused vector neutralization and reduced delivery to the target tissue.` → Kháng thể có sẵn gây vector neutralization và làm giảm delivery đến mô đích.
+**Liên kết tiếng Hàn:** `벡터 중화` (bekteo junghwa) — trung hòa vector.
 
 ## 13. biodistribution /ˌbaɪoʊdɪstrəˈbjuːʃən/
 **Part of speech:** noun
@@ -166,8 +166,8 @@ Flow: **adeno-associated virus → lentiviral vector → capsid tropism → tran
 
 ## Review in context
 
-An **adeno-associated virus** or **lentiviral vector** carries a **vector genome**, but its behavior depends on **capsid tropism**, **transduction efficiency**, and **payload capacity**. Some payloads rely on **episomal persistence**, whereas others require an **integration site** and durable **genome integration**. **Promoter specificity** and **tissue targeting** shape where expression occurs; **promoter silencing** can later reduce it. Developers measure **biodistribution**, **vector shedding**, and **dose-limiting toxicity**, using a **pharmacodynamic biomarker** to confirm activity. **Ex vivo transduction** permits cell testing before infusion, while **in vivo delivery** places the vector directly in the body. **Capsid engineering** can improve targeting, and **vector potency** confirms that the manufactured dose remains biologically active.
+An **adeno-associated virus** or **lentiviral vector** carries a **vector genome**, but its behavior depends on **capsid tropism**, **transduction efficiency**, and **payload capacity**. Some payloads rely on **episomal persistence**, whereas others require an **integration site** and durable **genome integration**. **Promoter specificity** and **tissue targeting** shape where expression occurs; **promoter silencing** can later reduce it. Developers measure **biodistribution**, **vector shedding**, **vector-associated inflammation**, and **vector neutralization** to characterize activity and safety. **Ex vivo transduction** permits cell testing before infusion, while **in vivo delivery** places the vector directly in the body. **Capsid engineering** can improve targeting, and **vector potency** confirms that the manufactured dose remains biologically active.
 
 **Bản dịch tiếng Việt:**
 
-Một adeno-associated virus hoặc lentiviral vector mang vector genome, nhưng hành vi của nó phụ thuộc vào capsid tropism, transduction efficiency và payload capacity. Một số payload dựa vào episomal persistence, trong khi loại khác cần integration site và genome integration bền vững. Promoter specificity và tissue targeting quyết định nơi biểu hiện; promoter silencing có thể làm biểu hiện giảm về sau. Nhà phát triển đo biodistribution, vector shedding và dose-limiting toxicity, đồng thời dùng pharmacodynamic biomarker để xác nhận hoạt tính. Ex vivo transduction cho phép kiểm tra tế bào trước khi truyền, còn in vivo delivery đưa vector trực tiếp vào cơ thể. Capsid engineering có thể cải thiện nhắm mô, và vector potency xác nhận liều sản xuất vẫn còn hoạt tính sinh học.
+Một adeno-associated virus hoặc lentiviral vector mang vector genome, nhưng hành vi của nó phụ thuộc vào capsid tropism, transduction efficiency và payload capacity. Một số payload dựa vào episomal persistence, trong khi loại khác cần integration site và genome integration bền vững. Promoter specificity và tissue targeting quyết định nơi biểu hiện; promoter silencing có thể làm biểu hiện giảm về sau. Nhà phát triển đo biodistribution, vector shedding, vector-associated inflammation và vector neutralization để đặc trưng hoạt tính và độ an toàn. Ex vivo transduction cho phép kiểm tra tế bào trước khi truyền, còn in vivo delivery đưa vector trực tiếp vào cơ thể. Capsid engineering có thể cải thiện nhắm mô, và vector potency xác nhận liều sản xuất vẫn còn hoạt tính sinh học.
