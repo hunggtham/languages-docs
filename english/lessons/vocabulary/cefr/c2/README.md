@@ -178,6 +178,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Analog Mixed-Signal And Data Conversion](./semiconductors/06-analog-mixed-signal-and-data-conversion.md)
 - [RF And Millimeter-Wave Integrated Circuits](./semiconductors/07-rf-and-millimeter-wave-integrated-circuits.md)
 - [CMOS Image Sensors And Pixel Readout](./semiconductors/08-cmos-image-sensors-and-pixel-readout.md)
+- [Neuromorphic And Quantum Devices](./semiconductors/09-neuromorphic-and-quantum-devices.md)
 
 ## biomedicine
 
