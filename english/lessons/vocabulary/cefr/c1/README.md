@@ -349,3 +349,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cloud-architecture
 
 - [Deployment, Resilience, And Operations](./cloud-architecture/01-deployment-resilience-and-operations.md)
+
+## distributed-systems
+
+- [Consistency, Failures, And Resilience](./distributed-systems/01-consistency-failures-and-resilience.md)
