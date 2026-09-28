@@ -161,6 +161,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Memory Allocation And Garbage Collection](./computing/12-memory-allocation-and-garbage-collection.md)
 - [RDMA And High-Performance Networking](./computing/13-rdma-and-high-performance-networking.md)
 - [Distributed Object Storage And Erasure Coding](./computing/14-distributed-object-storage-and-erasure-coding.md)
+- [Confidential Computing And Trusted Execution](./computing/15-confidential-computing-and-trusted-execution.md)
+- [Scheduling And Resource Allocation](./computing/16-scheduling-and-resource-allocation.md)
 
 ## semiconductors
 
