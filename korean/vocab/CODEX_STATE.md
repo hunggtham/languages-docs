@@ -450,6 +450,11 @@
 - Coverage: 15 advanced-native international-law, sanctions, and conflict-prevention headwords (`국가면제`, `상호주의`, `강행규범`, `조약유보`, `외교적 보호`, `국제형사책임`, `보복조치`, `역외 적용`, `세컨더리 보이콧`, `제재 이행`, `분쟁예방`, `신뢰구축조치`, `외교적 항의`, `잠정조치`, `국제법상 의무`) in one 115-eojeol `target_set` passage; prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `05-information-ecosystems-and-context.md`
+- Coverage: 15 advanced-native media, platform, public-sphere, and cultural-interpretation headwords (`미디어 편향`, `정보 비대칭`, `프레이밍 효과`, `공론장 분절`, `플랫폼 중개`, `알고리즘 증폭`, `주의경제`, `정보 과부하`, `출처 투명성`, `맥락 붕괴`, `공적 기억`, `문화적 번역`, `감정 노동`, `해석 공동체`, `검증 피로`) across `news_formal` and `native_spoken` lanes in one 134-eojeol `target_set` passage; prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
