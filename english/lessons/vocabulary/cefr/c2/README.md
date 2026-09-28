@@ -199,3 +199,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Cryo-EM And Structural Biology](./biomedicine/11-cryo-em-and-structural-biology.md)
 - [Glycomics And Glycobiology](./biomedicine/12-glycomics-and-glycobiology.md)
 - [Organoid And Disease Modeling](./biomedicine/13-organoid-and-disease-modeling.md)
+- [Gene Therapy Vectors And Delivery](./biomedicine/14-gene-therapy-vectors-and-delivery.md)
+- [Biomarkers And Clinical Trial Design](./biomedicine/15-biomarkers-and-clinical-trial-design.md)
