@@ -309,3 +309,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## peace-and-conflict
 
 - [Peacebuilding And Post-Conflict Recovery](./peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
+
+## human-rights
+
+- [Rights, Obligations, And Remedies](./human-rights/01-rights-obligations-and-remedies.md)
