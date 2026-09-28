@@ -8,3 +8,4 @@
 
 - [규칙의 설계와 행정 통제](./01-rulemaking-and-administrative-control.md)
 - [공공조달과 행정 청렴성](./02-public-procurement-and-integrity.md)
+- [행정 재량과 규범의 정당성](./03-discretion-and-administrative-legitimacy.md) — `행정입법`, `재량통제`, `행정지도`, `절차적 정당성`, `규범력`, `법적 구속력`, `비례성`, `예측가능성`, `법치행정`, `정책재량`, `규제순응`, `규제포획`, `행정책임`, `공익형량`, `소급입법`

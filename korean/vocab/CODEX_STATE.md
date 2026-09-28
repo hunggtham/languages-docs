@@ -440,6 +440,11 @@
 - Coverage: 15 advanced-native health-policy, clinical-outcomes, and care-allocation headwords (`위험층화`, `비용효과성`, `자원배분`, `건강결정요인`, `보건의료 거버넌스`, `사회적 처방`, `돌봄 연속성`, `의사결정 공유`, `환자보고결과`, `치료 순응도`, `의료 과잉이용`, `의료 과소이용`, `외적 타당도`, `내적 타당도`, `최소임상중요차이`) in one 114-eojeol `target_set` passage; prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-public-administration-and-regulation`
+- File: `03-discretion-and-administrative-legitimacy.md`
+- Coverage: 15 advanced-native administrative-law and regulatory-legitimacy headwords (`행정입법`, `재량통제`, `행정지도`, `절차적 정당성`, `규범력`, `법적 구속력`, `비례성`, `예측가능성`, `법치행정`, `정책재량`, `규제순응`, `규제포획`, `행정책임`, `공익형량`, `소급입법`) in one 100-eojeol `target_set` passage; prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
