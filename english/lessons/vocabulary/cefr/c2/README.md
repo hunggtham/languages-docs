@@ -143,3 +143,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Financial Econometrics And Volatility](./rhetoric/129-financial-econometrics-and-volatility.md)
 - [Acoustics And Auditory Perception](./rhetoric/130-acoustics-and-auditory-perception.md)
 - [Sensory Science And Flavor Chemistry](./rhetoric/131-sensory-science-and-flavor-chemistry.md)
+- [Seismology And Earthquake Hazards](./rhetoric/132-seismology-and-earthquake-hazards.md)
