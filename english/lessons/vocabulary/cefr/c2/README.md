@@ -183,6 +183,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Semiconductor Reliability And Thermal Qualification](./semiconductors/11-semiconductor-reliability-and-thermal-qualification.md)
 - [Semiconductor Process Control And Metrology](./semiconductors/12-semiconductor-process-control-and-metrology.md)
 - [Silicon Photonics And Optical Interconnects](./semiconductors/13-silicon-photonics-and-optical-interconnects.md)
+- [Semiconductor Sustainability And Circular Manufacturing](./semiconductors/14-semiconductor-sustainability-and-circular-manufacturing.md)
 
 ## biomedicine
 
@@ -202,3 +203,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Gene Therapy Vectors And Delivery](./biomedicine/14-gene-therapy-vectors-and-delivery.md)
 - [Biomarkers And Clinical Trial Design](./biomedicine/15-biomarkers-and-clinical-trial-design.md)
 - [Cell Therapy Manufacturing And Release](./biomedicine/16-cell-therapy-manufacturing-and-release.md)
+- [Systems Pharmacokinetics And Dose Modeling](./biomedicine/17-systems-pharmacokinetics-and-dose-modeling.md)
