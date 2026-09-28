@@ -425,6 +425,11 @@
 - Coverage: 15 advanced-native idiomatic and register-sensitive spoken headwords (`뜸을 들이다`, `버르장머리`, `떨거지`, `극성`, `뒷전`, `환장하다`, `싸가지가 없다`, `용하다`, `문어발`, `선을 넘다`, `뒤끝이 있다`, `낯이 두껍다`, `속내를 떠보다`, `말꼬리를 잡다`, `판을 깨다`) across `native_spoken` and `news_formal` lanes in one 123-eojeol `target_set` passage; source PDF used as reference only and prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-science-and-technology-reporting`
+- File: `05-evidence-statistics-and-diagnostic-uncertainty.md`
+- Coverage: 15 advanced-native evidence, statistics, and diagnostic-uncertainty headwords (`통계적 유의성`, `신뢰구간`, `표본오차`, `교란변수`, `인과추론`, `검정력`, `민감도`, `특이도`, `위양성`, `위음성`, `검출한계`, `사전등록`, `메타분석`, `체리피킹`, `숫자를 마사지하다`) across `news_formal` and `native_spoken` lanes in one 121-eojeol `target_set` passage; prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
