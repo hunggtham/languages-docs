@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
 - C1: 0 items.
-- C2: 3696 items in 185 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 3716 items in 186 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 6460 items.
+- Total: 6480 items.
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue with the next coherent C2 topic. Reuse `computing/21-...`, `semiconductors/15-...`, or `biomedicine/18-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue with the next coherent C2 topic. Reuse `computing/21-...`, `semiconductors/16-...`, or `biomedicine/18-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -76,5 +76,5 @@ At the end of every checkpoint update current level, last completed lesson, next
 - New computing coverage now spans registered-memory networking, queue-pair verbs, one-sided RDMA, InfiniBand/RoCE, object namespaces, failure-aware placement, erasure coding, repair, and background replica convergence. Semiconductor coverage now includes pixel charge conversion, image-sensor noise, shutter architecture, optical stacking, and backside illumination. Biomedicine coverage now includes cryo-EM specimen preparation, particle reconstruction, resolution validation, atomic-model refinement, and glycan structure, processing, recognition, and heterogeneity.
 - The local rhetoric sequence now continues through `132-seismology-and-earthquake-hazards.md`; the latest local rhetoric checkpoints added sensory science and seismology.
 - Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 3696, C2+ 0; total 6460.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 3716, C2+ 0; total 6480.
 - Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.

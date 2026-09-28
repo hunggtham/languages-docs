@@ -184,6 +184,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Semiconductor Process Control And Metrology](./semiconductors/12-semiconductor-process-control-and-metrology.md)
 - [Silicon Photonics And Optical Interconnects](./semiconductors/13-silicon-photonics-and-optical-interconnects.md)
 - [Semiconductor Sustainability And Circular Manufacturing](./semiconductors/14-semiconductor-sustainability-and-circular-manufacturing.md)
+- [Design For Test And Silicon Validation](./semiconductors/15-design-for-test-and-silicon-validation.md)
 
 ## biomedicine
 
