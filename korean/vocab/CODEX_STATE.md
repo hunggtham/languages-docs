@@ -430,6 +430,11 @@
 - Coverage: 15 advanced-native evidence, statistics, and diagnostic-uncertainty headwords (`통계적 유의성`, `신뢰구간`, `표본오차`, `교란변수`, `인과추론`, `검정력`, `민감도`, `특이도`, `위양성`, `위음성`, `검출한계`, `사전등록`, `메타분석`, `체리피킹`, `숫자를 마사지하다`) across `news_formal` and `native_spoken` lanes in one 121-eojeol `target_set` passage; prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `04-business-distress-and-labor-distribution.md`
+- Coverage: 15 advanced-native macroeconomic, corporate-distress, and labor-distribution headwords (`유동성 경색`, `한계기업`, `구조적 실업`, `노동소득분배율`, `소득탄력성`, `생산성 격차`, `부채비율`, `자본잠식`, `인플레이션 기대`, `재정승수`, `경기순환`, `불완전고용`, `전환비용`, `경제활동참가율`, `사업재편`) in one 115-eojeol `target_set` passage; prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
