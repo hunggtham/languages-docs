@@ -329,3 +329,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## project-management
 
 - [Planning, Delivery, And Control](./project-management/01-planning-delivery-and-control.md)
+
+## quality-management
+
+- [Process Improvement And Control](./quality-management/01-process-improvement-and-control.md)
