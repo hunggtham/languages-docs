@@ -75,6 +75,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Networks And Emerging Technology](./technology/04-networks-and-emerging-technology.md)
 - [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
 - [Device Use And Support](./technology/06-device-use-and-support.md)
+- [Account And Privacy Tools](./technology/07-account-and-privacy-tools.md)
 
 ## culture
 
