@@ -10,6 +10,7 @@ export interface LearningDocument {
   contentUrl: string;
   excerpt: string;
   characters: number;
+  language?: string;
   track?: string;
   order?: number;
 }

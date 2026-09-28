@@ -12,7 +12,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "apps/web/public/content"
 LESSON_OUTPUT = ROOT / "apps/web/public/lesson"
-NORMALIZED = ROOT / "content/english"
+NORMALIZED_ROOT = ROOT / "content"
+ENGLISH_CEFR_ROOT = ROOT / "english/lessons/vocabulary/cefr"
+KOREAN_TOPICS_ROOT = ROOT / "korean/vocab/topics"
 def grammar_document(source: str, document_id: str, title: str, level: str, description: str, track: str) -> dict[str, str]:
     return {
         "source": source,
@@ -131,10 +133,71 @@ DOCUMENTS = [
 
 
 def excerpt(text: str, limit: int = 180) -> str:
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     text = re.sub(r"^#{1,6}\s+", "", text, flags=re.M)
     text = re.sub(r"[`*_>#|]", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:limit].rstrip() + ("…" if len(text) > limit else "")
+
+
+def markdown_title(text: str, fallback: str) -> str:
+    for line in text.splitlines():
+        match = re.match(r"^#\s+(.+?)\s*$", line)
+        if match:
+            return match.group(1).strip()
+    return fallback
+
+
+def markdown_description(text: str, fallback: str) -> str:
+    cleaned = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    blocks = re.split(r"\n\s*\n", cleaned)
+    for block in blocks:
+        candidate = block.strip()
+        if not candidate or candidate.startswith("#") or candidate.startswith("---"):
+            continue
+        return excerpt(candidate)
+    return fallback
+
+
+def generated_documents() -> list[dict[str, str]]:
+    documents: list[dict[str, str]] = []
+
+    for source in sorted(ENGLISH_CEFR_ROOT.rglob("*.md")):
+        relative = source.relative_to(ENGLISH_CEFR_ROOT)
+        if source.name in {"README.md", "CODEX_STATE.md"}:
+            continue
+        level = relative.parts[0].upper() if relative.parts else "CEFR"
+        source_text = source.read_text(encoding="utf-8")
+        source_slug = re.sub(r"[^a-z0-9-]+", "-", str(relative.with_suffix("")).lower()).strip("-")
+        documents.append({
+            "source": str(source.relative_to(ROOT)),
+            "id": f"english-cefr-{source_slug}",
+            "title": markdown_title(source_text, source.stem.replace("-", " ").title()),
+            "skill": "Vocabulary",
+            "level": level,
+            "track": "English CEFR Vocabulary",
+            "description": markdown_description(source_text, "English vocabulary lesson."),
+            "language": "English",
+        })
+
+    for source in sorted(KOREAN_TOPICS_ROOT.rglob("*.md")):
+        if source.name == "README.md":
+            continue
+        relative = source.relative_to(KOREAN_TOPICS_ROOT)
+        source_text = source.read_text(encoding="utf-8")
+        source_slug = re.sub(r"[^a-z0-9-]+", "-", str(relative.with_suffix("")).lower()).strip("-")
+        documents.append({
+            "source": str(source.relative_to(ROOT)),
+            "id": f"korean-vocab-{source_slug}",
+            "title": markdown_title(source_text, source.stem.replace("-", " ")),
+            "skill": "Vocabulary",
+            "level": "Advanced",
+            "track": "한국어 어휘",
+            "description": markdown_description(source_text, "고급 한국어 어휘 학습 자료."),
+            "language": "Korean",
+        })
+
+    return documents
 
 
 def slug_filename(document_id: str, source: str) -> str:
@@ -157,22 +220,28 @@ def main() -> None:
     if old_documents_dir.exists():
         shutil.rmtree(old_documents_dir)
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    if NORMALIZED.exists():
-        shutil.rmtree(NORMALIZED)
-    NORMALIZED.mkdir(parents=True, exist_ok=True)
+    for language in ("english", "korean"):
+        normalized_language = NORMALIZED_ROOT / language
+        if normalized_language.exists():
+            shutil.rmtree(normalized_language)
+        normalized_language.mkdir(parents=True, exist_ok=True)
     catalog = []
-    for item in DOCUMENTS:
+    all_documents = [dict(item) for item in DOCUMENTS]
+    all_documents.extend(generated_documents())
+    for item in all_documents:
         source = ROOT / item["source"]
         if not source.is_file():
             raise FileNotFoundError(f"Missing content source: {source}")
+        item.setdefault("language", "English")
         text = source.read_text(encoding="utf-8")
         filename = slug_filename(item["id"], item["source"])
-        normalized_dir = NORMALIZED / item["skill"].lower()
+        language_dir = item.get("language", "English").lower()
+        normalized_dir = NORMALIZED_ROOT / language_dir / item["skill"].lower()
         normalized_dir.mkdir(parents=True, exist_ok=True)
         normalized_target = normalized_dir / filename
-        shutil.copyfile(source, normalized_target)
+        normalized_target.write_text(text.rstrip() + "\n", encoding="utf-8")
         target = lesson_output / filename
-        shutil.copyfile(normalized_target, target)
+        target.write_text(normalized_target.read_text(encoding="utf-8"), encoding="utf-8")
         record = {
             **item,
             "order": len(catalog),
