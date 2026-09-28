@@ -95,6 +95,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Fitness Training And Community Sports](./leisure/02-fitness-training-and-community-sports.md)
 - [Community Events And Creative Hobbies](./leisure/03-community-events-and-creative-hobbies.md)
 - [Hobby Clubs And Learning Projects](./leisure/04-hobby-clubs-and-learning-projects.md)
+- [Club And Project Planning](./leisure/05-club-project-planning.md)
 
 ## services
 
