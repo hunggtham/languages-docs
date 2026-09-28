@@ -198,3 +198,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Liquid Biopsy And Circulating Tumor DNA](./biomedicine/10-liquid-biopsy-and-circulating-tumor-dna.md)
 - [Cryo-EM And Structural Biology](./biomedicine/11-cryo-em-and-structural-biology.md)
 - [Glycomics And Glycobiology](./biomedicine/12-glycomics-and-glycobiology.md)
+- [Organoid And Disease Modeling](./biomedicine/13-organoid-and-disease-modeling.md)
