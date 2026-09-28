@@ -62,7 +62,6 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## society
 
 - [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
-
 - [Community And Social Challenges](./society/02-community-and-social-challenges.md)
 - [Law And Public Services](./society/03-law-and-public-services.md)
 - [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
@@ -81,3 +80,19 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Heritage And Museums](./culture/01-heritage-and-museums.md)
 - [Creative Industries And Media](./culture/02-creative-industries-and-media.md)
 - [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
+
+## food
+
+- [Cooking And Eating Out](./food/01-cooking-and-eating-out.md)
+
+## relationships
+
+- [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
+
+## leisure
+
+- [Hobbies Fitness And Free Time](./leisure/01-hobbies-fitness-and-free-time.md)
+
+## services
+
+- [Appointments Forms And Service Problems](./services/01-appointments-forms-and-service-problems.md)

@@ -26,31 +26,31 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 866 items in 43 topic files; topic-folder numbering resets per folder.
-- B2: 33 items in 2 topic files; the approved decisions pilot and risk-assessment expansion use the full B2 format.
+- B1: 946 items in 47 topic files; topic-folder numbering resets per folder.
+- B2: 123 items in 8 topic files; B2 expansion is active beyond the original pilot.
 - C1: 0 items.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 5575 items.
+- Total: 5745 items.
 
 ## Current position
 
 Status: `READY`
 
-Current level: `B1`
+Current level: `B1/B2`
 
-Next lesson: continue B1 from the next coherent high-utility topic. Use `home/03-...` only when the lesson belongs naturally to the home network; otherwise continue another existing topic at its next folder-local number or start a new topic at `01`. B2 can continue from `risk/02-...` or a new topic after the next coherent B1 batch.
+Next lesson: continue B1 and B2 with coherent topic-driven expansion. Reuse `b1/leisure/02-...`, `b1/services/02-...`, `b2/education/02-...`, `b2/technology/02-...`, `b2/society/02-...`, or `b2/risk/02-...` only when the next lesson naturally belongs to that network; otherwise create a new topic folder and start at `01`.
 
 Before choosing the exact lesson topic and words:
 
 1. read root and vocabulary-specific `AGENTS.md`;
 2. read `/prompt/COMMON_PROMPT.md`, `/prompt/VOCAB_PROMPT.md`, and `/prompt/vocabulary_goal/GOAL.md`;
-3. read this directory's `README.md` and this state file;
-4. inspect the latest lesson in the active level and an approved pilot;
+3. read this directory's level README and this state file;
+4. inspect the latest lesson in the active level and an approved nearby lesson;
 5. scan existing vocabulary headings to avoid duplicates;
 6. choose the next coherent topic and continue numbering within that topic folder.
 
-New lessons should be placed in an existing or newly named topic folder when that improves discoverability. Number files independently within that folder; `scripts/vocab-progress.py` scans and reports each folder separately.
+B1 should remain direct and practical, usually with shorter entries and strong everyday usage. B2 should preserve the deeper pilot style: clearer register/nuance, collocation, linking, sentence behavior, and distinctions from near-synonyms. New lessons should be placed in an existing or newly named topic folder when that improves discoverability.
 
 ## Resume protocol
 
@@ -68,14 +68,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 ## Last checkpoint
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
-- A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Latest B1/B2 checkpoint added `b1/home/02-household-emergency-preparedness.md` with 18 practical household-safety items and `b2/risk/01-risk-assessment-and-preparedness.md` with 18 items for likelihood, exposure, consequences, trade-offs, and resilience.
-- Both new 18-item lessons use one review passage that naturally reuses every headword and includes a Vietnamese translation. Exact-heading scans found no duplicate ordinary headword+sense coverage in the existing CEFR corpus.
-- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, and liquid biopsy.
-- Latest checkpoint added five lessons: `computing/13-rdma-and-high-performance-networking.md`, `computing/14-distributed-object-storage-and-erasure-coding.md`, `semiconductors/08-cmos-image-sensors-and-pixel-readout.md`, `biomedicine/11-cryo-em-and-structural-biology.md`, and `biomedicine/12-glycomics-and-glycobiology.md`.
-- The five latest lessons add 100 reviewed C2 learning items. Each 20-item lesson uses one review passage that naturally reuses all headwords and includes a Vietnamese translation.
-- Dedup validation searched the default corpus for the new semantic networks and representative high-risk terms including `dynamic range`, `zero-copy`, `glycosylation`, `object storage`, and `structural biology`; no existing ordinary headword+sense coverage was found. Nearby branch lessons were also checked to avoid overlap with transport, distributed systems, analog/RF, proteomics, and recent omics content.
-- New computing coverage now spans registered-memory networking, queue-pair verbs, one-sided RDMA, InfiniBand/RoCE, object namespaces, failure-aware placement, erasure coding, repair, and background replica convergence. Semiconductor coverage now includes pixel charge conversion, image-sensor noise, shutter architecture, optical stacking, and backside illumination. Biomedicine coverage now includes cryo-EM specimen preparation, particle reconstruction, resolution validation, atomic-model refinement, and glycan structure, processing, recognition, and heterogeneity.
-- Next file: continue B1 with the next coherent high-utility topic, then continue B2 from the next coherent topic network.
-- Actual counts: A1 400, A2 1501, B1 866, B2 33, C1 0, C2 2775, C2+ 0; total 5575.
-- Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
+- A2 reached its soft planning target at 1,501 items. B1 expansion now covers technology, society, business, work, travel, health, education, culture, food, relationships, leisure, services, and household emergency preparedness. B2 expansion now covers decisions, risk, work, communication, research, education, technology, and society.
+- The merged remote checkpoints added ten B1/B2 lessons: cooking/eating out, friendship/social plans, project risk/accountability, discussion/persuasion, evidence/trends, hobbies/fitness, appointments/forms, academic writing, data privacy, and urban life/housing. This checkpoint also retains `b1/home/02-household-emergency-preparedness.md` and `b2/risk/01-risk-assessment-and-preparedness.md`.
+- Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
+- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
+- Next file: continue B1/B2 expansion from coherent topic folders; preserve the different depth expectations for each CEFR level.
+- Actual counts: A1 400, A2 1501, B1 946, B2 123, C1 0, C2 2775, C2+ 0; total 5745.
+- Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.
