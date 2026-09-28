@@ -201,3 +201,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Organoid And Disease Modeling](./biomedicine/13-organoid-and-disease-modeling.md)
 - [Gene Therapy Vectors And Delivery](./biomedicine/14-gene-therapy-vectors-and-delivery.md)
 - [Biomarkers And Clinical Trial Design](./biomedicine/15-biomarkers-and-clinical-trial-design.md)
+- [Cell Therapy Manufacturing And Release](./biomedicine/16-cell-therapy-manufacturing-and-release.md)
