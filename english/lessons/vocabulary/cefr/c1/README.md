@@ -353,3 +353,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## distributed-systems
 
 - [Consistency, Failures, And Resilience](./distributed-systems/01-consistency-failures-and-resilience.md)
+
+## database-systems
+
+- [Transactions, Storage, And Analytics](./database-systems/01-transactions-storage-and-analytics.md)
