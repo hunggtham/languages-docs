@@ -164,6 +164,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Confidential Computing And Trusted Execution](./computing/15-confidential-computing-and-trusted-execution.md)
 - [Scheduling And Resource Allocation](./computing/16-scheduling-and-resource-allocation.md)
 - [Data Compression And Encoding](./computing/17-data-compression-and-encoding.md)
+- [Serverless Function Runtimes](./computing/18-serverless-function-runtimes.md)
 
 ## semiconductors
 
