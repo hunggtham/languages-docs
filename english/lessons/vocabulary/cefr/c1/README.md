@@ -317,3 +317,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## criminal-justice
 
 - [Crime, Evidence, And Sentencing](./criminal-justice/01-crime-evidence-and-sentencing.md)
+
+## corporate-governance
+
+- [Boards, Ownership, And Accountability](./corporate-governance/01-boards-ownership-and-accountability.md)
