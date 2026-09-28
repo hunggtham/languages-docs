@@ -325,3 +325,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## supply-chain
 
 - [Resilience, Inventory, And Sourcing](./supply-chain/01-resilience-inventory-and-sourcing.md)
+
+## project-management
+
+- [Planning, Delivery, And Control](./project-management/01-planning-delivery-and-control.md)
