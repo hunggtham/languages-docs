@@ -179,6 +179,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [RF And Millimeter-Wave Integrated Circuits](./semiconductors/07-rf-and-millimeter-wave-integrated-circuits.md)
 - [CMOS Image Sensors And Pixel Readout](./semiconductors/08-cmos-image-sensors-and-pixel-readout.md)
 - [Neuromorphic And Quantum Devices](./semiconductors/09-neuromorphic-and-quantum-devices.md)
+- [Semiconductor Reliability And Failure Analysis](./semiconductors/10-semiconductor-reliability-and-failure-analysis.md)
 
 ## biomedicine
 
