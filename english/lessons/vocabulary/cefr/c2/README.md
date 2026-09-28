@@ -165,7 +165,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Scheduling And Resource Allocation](./computing/16-scheduling-and-resource-allocation.md)
 - [Data Compression And Encoding](./computing/17-data-compression-and-encoding.md)
 - [Serverless Function Runtimes](./computing/18-serverless-function-runtimes.md)
-- [Event-Driven Architecture And Messaging](./computing/19-event-driven-architecture-and-messaging.md)
+- [Edge Computing And Workload Placement](./computing/19-edge-computing-and-workload-placement.md)
+- [Event-Driven Architecture And Messaging](./computing/20-event-driven-architecture-and-messaging.md)
 
 ## semiconductors
 
