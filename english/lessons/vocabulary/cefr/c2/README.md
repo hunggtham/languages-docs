@@ -172,6 +172,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed ML Training And Inference](./computing/23-distributed-ml-training-and-inference.md)
 - [Privacy-Preserving Federated Learning](./computing/24-privacy-preserving-federated-learning.md)
 - [AI Compiler And Graph Optimization](./computing/25-ai-compiler-and-graph-optimization.md)
+- [Model Evaluation And Uncertainty](./computing/26-model-evaluation-and-uncertainty.md)
 
 ## semiconductors
 
