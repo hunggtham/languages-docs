@@ -361,3 +361,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## formal-methods
 
 - [Verification, Logic, And Testing](./formal-methods/01-verification-logic-and-testing.md)
+
+## programming-languages
+
+- [Types, Runtime, And Semantics](./programming-languages/01-types-runtime-and-semantics.md)
