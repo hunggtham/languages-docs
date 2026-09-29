@@ -23,6 +23,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Research And Innovation](./science/02-research-and-innovation.md)
 - [Climate Action And Environmental Policy](./science/03-climate-action-and-environmental-policy.md)
 - [Scientific Method And Experiments](./science/04-scientific-method-and-experiments.md)
+- [Weather And Climate Action](./science/05-weather-and-climate-action.md)
 
 ## health
 
