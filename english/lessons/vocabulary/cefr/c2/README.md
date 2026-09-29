@@ -167,6 +167,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Serverless Function Runtimes](./computing/18-serverless-function-runtimes.md)
 - [Edge Computing And Workload Placement](./computing/19-edge-computing-and-workload-placement.md)
 - [Event-Driven Architecture And Messaging](./computing/20-event-driven-architecture-and-messaging.md)
+- [Programmable Networking And Function Offload](./computing/21-programmable-networking-and-function-offload.md)
 
 ## semiconductors
 
