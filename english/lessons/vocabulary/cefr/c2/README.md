@@ -175,6 +175,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Model Evaluation And Uncertainty](./computing/26-model-evaluation-and-uncertainty.md)
 - [Data Curation And Active Learning](./computing/27-data-curation-and-active-learning.md)
 - [Reproducible Builds And Supply-Chain Integrity](./computing/28-reproducible-builds-and-supply-chain-integrity.md)
+- [ML Observability And Deployment Lifecycle](./computing/29-ml-observability-and-deployment-lifecycle.md)
 
 ## semiconductors
 
