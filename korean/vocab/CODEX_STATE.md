@@ -460,6 +460,11 @@
 - Coverage: 15 advanced-native social-policy, citizenship, and intersectionality headwords (`교차성`, `인정투쟁`, `상징폭력`, `제도적 차별`, `구조적 차별`, `소수자 정치`, `시민권화`, `문화적 시민권`, `정체성 정치`, `초국적 네트워크`, `시민권 격차`, `다문화 시민성`, `사회적 인정`, `상징적 경계`, `대표성 결핍`) in one 122-eojeol `target_set` passage; source PDF used as reference only and prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `03-adaptation-justice-and-ecosystem-accountability.md`
+- Coverage: 15 advanced-native climate-adaptation, just-transition, biodiversity, and environmental-accountability headwords (`기후정의`, `적응재원`, `적응 격차`, `기후 회복력`, `기후망명`, `기후 손실`, `전환계획`, `탄소제거`, `메탄감축`, `배출경로`, `자연기반해법`, `생태계 서비스`, `생물다양성 순손실`, `공급망 실사`, `환경영향평가`) in one 106-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
