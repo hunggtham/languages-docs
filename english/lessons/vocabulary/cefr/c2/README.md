@@ -229,3 +229,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Health Economics And Outcomes Research](./biomedicine/24-health-economics-and-outcomes-research.md)
 - [Metabolic Phenotyping And Clinical Nutrition](./biomedicine/25-metabolic-phenotyping-and-clinical-nutrition.md)
 - [Sleep Medicine And Circadian Physiology](./biomedicine/26-sleep-medicine-and-circadian-physiology.md)
+- [Rehabilitation Science And Gait Analysis](./biomedicine/27-rehabilitation-science-and-gait-analysis.md)
