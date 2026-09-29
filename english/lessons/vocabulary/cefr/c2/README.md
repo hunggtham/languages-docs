@@ -236,3 +236,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Pain Science And Chronic Pain Rehabilitation](./biomedicine/29-pain-science-and-chronic-pain-rehabilitation.md)
 - [Transplant Immunology And Organ Allocation](./biomedicine/30-transplant-immunology-and-organ-allocation.md)
 - [Antimicrobial Pharmacology And Resistance Ecology](./biomedicine/31-antimicrobial-pharmacology-and-resistance-ecology.md)
+- [Phage Therapy And Pathogen Ecology](./biomedicine/32-phage-therapy-and-pathogen-ecology.md)
