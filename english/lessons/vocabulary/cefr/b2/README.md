@@ -39,6 +39,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Academic Revision And Editing](./education/02-academic-revision-and-editing.md)
 - [Research And Submission](./education/03-research-and-submission.md)
 - [Teaching And Assessment Design](./education/04-teaching-and-assessment-design.md)
+- [Learning Quality And Equity](./education/05-learning-quality-and-equity.md)
 
 ## technology
 
