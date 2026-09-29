@@ -57,3 +57,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Housing Policy And Neighborhood Change](./society/02-housing-policy-and-neighborhood-change.md)
 - [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
 - [Housing Access And Urban Growth](./society/04-housing-access-and-urban-growth.md)
+- [Civic Participation And Local Policy](./society/05-civic-participation-and-local-policy.md)

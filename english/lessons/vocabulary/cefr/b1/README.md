@@ -31,6 +31,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
 - [Health Visits And Self Care](./health/05-health-visits-and-self-care.md)
 - [Healthcare Follow Up And Prevention](./health/06-healthcare-follow-up-and-prevention.md)
+- [Medication And Pharmacy Use](./health/07-medication-and-pharmacy-use.md)
 
 ## home
 
