@@ -98,6 +98,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## relationships
 
 - [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
+- [Community And Social Support](./relationships/02-community-and-social-support.md)
 
 ## leisure
 
