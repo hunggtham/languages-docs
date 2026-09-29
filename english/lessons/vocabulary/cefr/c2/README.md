@@ -183,6 +183,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [eBPF And Kernel Observability](./computing/34-ebpf-and-kernel-observability.md)
 - [Formal Methods And Type-Theoretic Verification](./computing/35-formal-methods-and-type-theoretic-verification.md)
 - [Stream Processing And Event-Time Semantics](./computing/36-stream-processing-and-event-time-semantics.md)
+- [CRDTs And Causal Consistency](./computing/37-crdts-and-causal-consistency.md)
 
 ## semiconductors
 
