@@ -44,6 +44,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
 - [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
+- [Platforms And Digital Infrastructure](./technology/04-platforms-and-digital-infrastructure.md)
 
 ## society
 
