@@ -357,3 +357,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## database-systems
 
 - [Transactions, Storage, And Analytics](./database-systems/01-transactions-storage-and-analytics.md)
+
+## formal-methods
+
+- [Verification, Logic, And Testing](./formal-methods/01-verification-logic-and-testing.md)
