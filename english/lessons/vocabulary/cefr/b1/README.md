@@ -87,6 +87,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Heritage And Museums](./culture/01-heritage-and-museums.md)
 - [Creative Industries And Media](./culture/02-creative-industries-and-media.md)
 - [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
+- [Public Arts And Cultural Events](./culture/04-public-arts-and-cultural-events.md)
 
 ## food
 

@@ -22,6 +22,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Discussion Persuasion And Interpretation](./communication/01-discussion-persuasion-and-interpretation.md)
 - [Disagreement And Consensus](./communication/02-disagreement-and-consensus.md)
 - [Consensus And Negotiation](./communication/03-consensus-and-negotiation.md)
+- [Discourse And Interpretation](./communication/04-discourse-and-interpretation.md)
 
 ## research
 
