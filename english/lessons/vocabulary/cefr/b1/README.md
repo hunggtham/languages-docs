@@ -101,6 +101,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Smart Home And Connected Devices](./technology/10-smart-home-and-connected-devices.md)
 - [Digital Learning Tools](./technology/11-digital-learning-tools.md)
 - [Digital Maps And Navigation Tools](./technology/12-digital-maps-and-navigation-tools.md)
+- [Digital Photos And File Organization](./technology/13-digital-photos-and-file-organization.md)
 
 ## culture
 
