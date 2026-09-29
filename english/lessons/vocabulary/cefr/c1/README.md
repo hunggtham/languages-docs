@@ -89,6 +89,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## finance
 
 - [Financial Risk And Investment](./finance/01-financial-risk-and-investment.md)
+- [Financial Regulation And Consumer Protection](./finance/02-financial-regulation-and-consumer-protection.md)
 
 ## transport
 

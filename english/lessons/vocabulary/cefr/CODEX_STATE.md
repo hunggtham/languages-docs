@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
+- C1: 1390 items in 92 topic files; topic-folder numbering resets per folder.
 - C2: 3716 items in 186 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 8531 items (authoritative script count after merge).
+- Total: 8551 items (authoritative script count after merge).
 
 ## Current position
 
@@ -76,7 +76,8 @@ At the end of every checkpoint update current level, last completed lesson, next
 - New computing coverage now spans registered-memory networking, queue-pair verbs, one-sided RDMA, InfiniBand/RoCE, object namespaces, failure-aware placement, erasure coding, repair, and background replica convergence. Semiconductor coverage now includes pixel charge conversion, image-sensor noise, shutter architecture, optical stacking, and backside illumination. Biomedicine coverage now includes cryo-EM specimen preparation, particle reconstruction, resolution validation, atomic-model refinement, and glycan structure, processing, recognition, and heterogeneity.
 - The local rhetoric sequence now continues through `132-seismology-and-earthquake-hazards.md`; the latest local rhetoric checkpoints added sensory science and seismology.
 - Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- The merged corpus currently reports A1 400, A2 1501, B1 1226, B2 318, C1 1370, C2 3716, C2+ 0; total 8531 items. Re-run `python3 scripts/vocab-progress.py` if any counter becomes stale.
+- Latest continuation added `c1/finance/02-financial-regulation-and-consumer-protection.md` with 20 financial-regulation and consumer-protection items.
+- The merged corpus currently reports A1 400, A2 1501, B1 1226, B2 318, C1 1390, C2 3716, C2+ 0; total 8551 items. Re-run `python3 scripts/vocab-progress.py` if any counter becomes stale.
 - Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
 - A2 reached its soft planning target at 1,501 items. B1 expansion now covers technology, society, business, work, travel, health, education, culture, food, relationships, leisure, services, and household emergency preparedness. B2 expansion now covers decisions, risk, work, communication, research, education, technology, and society.
 - C1 expansion now covers 91 topic files and 1,370 items through programming-languages, alongside the B1/B2 expansion below.
