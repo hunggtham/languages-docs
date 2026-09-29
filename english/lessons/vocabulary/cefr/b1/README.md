@@ -49,6 +49,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
 - [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
 - [Assessment And Study Support](./education/04-assessment-and-study-support.md)
+- [Study Planning And Academic Progress](./education/05-study-planning-and-academic-progress.md)
 
 ## business
 
