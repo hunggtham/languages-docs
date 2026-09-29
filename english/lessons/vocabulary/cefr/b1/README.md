@@ -96,6 +96,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
 - [Device Use And Support](./technology/06-device-use-and-support.md)
 - [Account And Privacy Tools](./technology/07-account-and-privacy-tools.md)
+- [Online Services And Digital Problem-Solving](./technology/08-online-services-and-digital-problem-solving.md)
 
 ## culture
 
