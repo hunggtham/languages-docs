@@ -21,6 +21,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Transfer And Insurance Decisions](./risk/07-risk-transfer-and-insurance-decisions.md)
 - [Risk Culture And Accountability](./risk/08-risk-culture-and-accountability.md)
 - [Risk Data And Measurement](./risk/09-risk-data-and-measurement.md)
+- [Third-Party Risk And Vendor Oversight](./risk/10-third-party-risk-and-vendor-oversight.md)
 
 ## work
 
