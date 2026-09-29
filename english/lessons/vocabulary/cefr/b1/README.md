@@ -98,6 +98,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Account And Privacy Tools](./technology/07-account-and-privacy-tools.md)
 - [Online Services And Digital Problem-Solving](./technology/08-online-services-and-digital-problem-solving.md)
 - [Online Media And Content Sharing](./technology/09-online-media-and-content-sharing.md)
+- [Smart Home And Connected Devices](./technology/10-smart-home-and-connected-devices.md)
 
 ## culture
 

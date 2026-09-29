@@ -19,6 +19,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Operational Risk Controls And Reporting](./risk/05-operational-risk-controls-and-reporting.md)
 - [Scenario Planning And Risk Appetite](./risk/06-scenario-planning-and-risk-appetite.md)
 - [Risk Transfer And Insurance Decisions](./risk/07-risk-transfer-and-insurance-decisions.md)
+- [Risk Culture And Accountability](./risk/08-risk-culture-and-accountability.md)
 
 ## work
 
