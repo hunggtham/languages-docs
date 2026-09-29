@@ -16,19 +16,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** ngập ngừng, cố ý dừng lại làm người khác chờ đợi.
 
-**뉘앙스와 사용법:** 단순히 늦는 것이 아니라 중요한 말을 꺼내기 전 기대·긴장·답답함을 만드는 모습이다. 요리에서 뜸을 들이는 이미지가 말하기 방식으로 확장됐다.
+**뉘앙스와 사용법:** Không chỉ là đến muộn mà còn tạo ra sự mong đợi, căng thẳng và thất vọng trước khi nói điều gì đó quan trọng. Hình ảnh dành thời gian để nấu ăn đã được mở rộng thành một cách nói.
 
-**재사용 가능한 콜로케이션·청크:** `한참 뜸을 들이다`, `대답하기 전에 뜸을 들이다`, `뜸 들이지 말고 말하다`.
+**재사용 가능한 콜로케이션·청크:** `한참 뜸을 들이다`, `대답하기 전에 뜸을 들이다`, `뜸 들이지 말고 말하다`. — `Tạm dừng một lúc lâu`, `Tạm dừng trước khi trả lời`, `Nói không ngừng`.
 
-**자주 쓰는 문형과 성분:** `N을 말하기 전에 뜸을 들이다`; `뜸 들이지 말고 V-아/어`; 발표·고백·결과 통보와 결합한다.
+**자주 쓰는 문형과 성분:** `N을 말하기 전에 뜸을 들이다`, `뜸 들이지 말고 V-아/어`, `Tạm dừng trước khi nói N`, `Đừng ngần ngại, V-ah/uh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·예능·인터뷰에서 자연스럽다. 상급자에게 `뜸 들이지 마세요`라고 직접 말하면 재촉하는 느낌이 강하다.
+**사회적 관계·주제별 register:** Tự nhiên trong cuộc sống đời thường, giải trí và phỏng vấn. Khi bạn trực tiếp nói với cấp trên của mình rằng “Đừng ngần ngại”, có cảm giác như bạn đang thúc giục họ.
 
 **예문:** 팀장이 한참 뜸을 들이더니 결국 프로젝트가 취소됐다고 말했다.
 
-**어휘 연결:** `망설이다` là do chưa quyết định được; `뜸을 들이다` nhấn mạnh khoảng dừng khiến người nghe phải chờ, đôi khi có chủ ý tạo kịch tính.
+**Dịch:** Trưởng nhóm do dự một lúc và cuối cùng nói rằng dự án đã bị hủy bỏ.
 
-**영어 참고:** *pause for effect*, *keep someone waiting*, *hesitate* — gần nhất là cố dừng trước khi nói để tạo chờ đợi hoặc căng thẳng.
+**어휘 연결:** `망설이다` là do chưa quyết định được; `뜸을 들이다` nhấn mạnh khoảng dừng khiến người nghe phải chờ, đôi khi có chủ ý tạo kịch tính. — `Hesitate` là do chưa được quyết định; `Để nghỉ ngơi` nhấn mạnh khoảng dừng khiến người nghe phải chờ, đôi khi có chủ ý tạo kịch tính.
+
+**영어 참고:** *pause for effect*, *keep someone waiting*, *hesitate* — Đúng vậy.
 
 ---
 
@@ -41,19 +43,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** thói hỗn, nết cư xử thiếu lễ phép.
 
-**뉘앙스와 사용법:** 주로 `버르장머리가 없다`로 쓰며, 윗사람이나 제삼자가 상대의 태도를 매우 거칠게 비난한다. 세대·권력 관계가 강하게 드러난다.
+**뉘앙스와 사용법:** Nó thường được viết là 'không có gì gọi là thô lỗ' và cấp trên hoặc bên thứ ba chỉ trích thái độ của người khác một cách rất gay gắt. Mối quan hệ giữa thế hệ và quyền lực được bộc lộ rõ ​​ràng.
 
-**재사용 가능한 콜로케이션·청크:** `버르장머리가 없다`, `버르장머리를 고치다`, `그 버르장머리`.
+**재사용 가능한 콜로케이션·청크:** `버르장머리가 없다`, `버르장머리를 고치다`, `그 버르장머리`. — `Không có beuljangmeori`, `sửa beuljangmeori`, `beurjangmeori` đó.
 
-**자주 쓰는 문형과 성분:** `N은/는 버르장머리가 없다`; `버르장머리 없이 V-다`; 아이·후배·부하의 태도와 결합하지만 직접 사용은 위험하다.
+**자주 쓰는 문형과 성분:** `N은/는 버르장머리가 없다`, `버르장머리 없이 V-다`, `N/không có tóc ngắn`, `V-da không có beorjangmeori` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 매우 낮잡는 구어다. 직장·공적 자리에서는 `예의가 없다`, `태도가 부적절하다`가 안전하다.
+**사회적 관계·주제별 register:** Đây là một cụm từ rất xúc phạm. Ở nơi làm việc và những nơi công cộng, có thể an toàn khi nói “Tôi không lịch sự” và “Tôi có thái độ không phù hợp”.
 
 **예문:** 의견이 다르다는 이유만으로 후배에게 버르장머리가 없다고 몰아붙이면 권위적인 사람으로 보인다.
 
-**어휘 연결:** `예의가 없다` là cách phê bình tương đối trung tính; `버르장머리가 없다` mang giọng bề trên, miệt thị và dễ biến thành công kích cá nhân.
+**Dịch:** Nếu bạn chỉ trích đàn em của mình thô lỗ chỉ vì bạn có quan điểm khác, bạn sẽ bị coi là người độc tài.
 
-**영어 참고:** *bad manners*, *insolence*, *no upbringing* — sắc thái gần *insolent*, nhưng tiếng Hàn còn hàm ý người trên mắng người dưới.
+**어휘 연결:** `예의가 없다` là cách phê bình tương đối trung tính; `버르장머리가 없다` mang giọng bề trên, miệt thị và dễ biến thành công kích cá nhân. — `Không lịch sự` là cách phê bình tương đối trung tính; ``Không có beuljangmeori` mang giọng bề trên, trải thị và dễ biến thành công kích cá nhân.
+
+**영어 참고:** *bad manners*, *insolence*, *no upbringing* — sắc thái gần *xấc xược*, nhưng tiếng Hàn vẫn hàm ý người trên tối đa người dưới.
 
 ---
 
@@ -66,19 +70,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** đám tay chân vô dụng, hạng người ăn theo.
 
-**뉘앙스와 사용법:** 사람의 가치와 소속을 통째로 깎아내리는 표현이다. 친한 사이의 자조적 농담이 아니면 모욕성이 매우 크다.
+**뉘앙스와 사용법:** Đó là biểu hiện hạ thấp hoàn toàn giá trị và mối quan hệ của một người. Trừ khi đó là một trò đùa tự ti giữa những người bạn thân, nếu không thì rất xúc phạm.
 
-**재사용 가능한 콜로케이션·청크:** `떨거지 취급`, `떨거지를 거느리다`, `남은 떨거지`.
+**재사용 가능한 콜로케이션·청크:** `떨거지 취급`, `떨거지를 거느리다`, `남은 떨거지`. — `Điều trị con đi lạc`, `Chăm sóc con đi lạc`, `Rác thải còn sót lại`.
 
-**자주 쓰는 문형과 성분:** `N을 떨거지 취급하다`; `N의 떨거지`; 파벌·권력자 주변·조연 집단과 결합한다.
+**자주 쓰는 문형과 성분:** `N을 떨거지 취급하다`, `N의 떨거지`, `Đối xử với N như rác`, `N's drop` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 거친 구어·온라인·범죄물 대사에서 보인다. 사람을 직접 지칭하는 실제 대화에서는 피해야 한다.
+**사회적 관계·주제별 register:** Xuất hiện trong ngôn ngữ thô tục, trực tuyến và đối thoại hình sự. Nên tránh nó trong những cuộc trò chuyện thực tế đề cập trực tiếp đến mọi người.
 
 **예문:** 반대파를 전부 떨거지라고 부르는 순간 토론은 정책이 아니라 모욕 경쟁이 된다.
 
-**어휘 연결:** `추종자` là người đi theo một nhân vật/ý tưởng, có thể trung tính; `떨거지` hạ thấp cả năng lực lẫn giá trị của nhóm đó.
+**Dịch:** Khoảnh khắc bạn gọi tất cả các đối thủ là ngu ngốc, cuộc tranh luận sẽ trở thành cuộc cạnh tranh của những lời lăng mạ hơn là các chính sách.
 
-**영어 참고:** *hangers-on*, *lackeys*, *deadweight* — *hangers-on* gần với người bám theo, còn `떨거지` nặng tính khinh miệt hơn.
+**어휘 연결:** `추종자` là người đi theo một nhân vật/ý tưởng, có thể trung tính; `떨거지` hạ thấp cả năng lực lẫn giá trị của nhóm đó. — `Folfollow` là người đi theo một nhân vật/ý tưởng, có thể trung tính; `Tôi sắp run rẩy`.
+
+**영어 참고:** *hangers-on*, *lackeys*, *deadweight* — *bực mình* Đó là một trò đùa.
 
 ---
 
@@ -91,19 +97,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** sự quá nhiệt tình, quá mức, dữ dội.
 
-**뉘앙스와 사용법:** 열정 자체보다 주변 사람이 부담스러울 정도로 과하다는 평가가 흔하다. 문맥에 따라 현상이 매우 왕성하다는 뜻도 있다.
+**뉘앙스와 사용법:** Người ta thường nói rằng niềm đam mê quá lớn đến mức trở thành gánh nặng cho những người xung quanh hơn là chính niềm đam mê đó. Tùy thuộc vào ngữ cảnh, nó cũng có thể có nghĩa là hiện tượng này đang diễn ra rất tích cực.
 
-**재사용 가능한 콜로케이션·청크:** `극성 학부모`, `극성을 부리다`, `극성에 못 이기다`.
+**재사용 가능한 콜로케이션·청크:** `극성 학부모`, `극성을 부리다`, `극성에 못 이기다`. — `Cha mẹ cực`, `Hãy phân cực`, `Không thể vượt qua sự phân cực`.
 
-**자주 쓰는 문형과 성분:** `N의 극성에 지치다`; `극성을 부리다`; 교육·팬덤·민원·유행과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 극성에 지치다`, `극성을 부리다`, `Mệt mỏi với tính phân cực của N`, `Hãy phân cực` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·기사 제목의 평가어다. 상대에게 직접 쓰면 행동 전체를 과하다고 비난하는 느낌이다.
+**사회적 관계·주제별 register:** Đây là từ đánh giá về cuộc sống hàng ngày và tiêu đề bài viết. Nếu bạn dùng nó trực tiếp với người khác, có cảm giác như bạn đang chỉ trích toàn bộ hành vi của họ là quá đáng.
 
 **예문:** 일부 팬의 극성 때문에 정작 조용히 응원하던 사람들까지 같은 집단으로 오해받았다.
 
-**어휘 연결:** `열성` là nhiệt tình tích cực; `극성` thường thêm đánh giá “quá mức, gây mệt mỏi”, nên không phải lời khen trung tính.
+**Dịch:** Vì sự phân cực của một số người hâm mộ, ngay cả những người đang lặng lẽ cổ vũ cũng bị nhầm lẫn với cùng một nhóm.
 
-**영어 참고:** *overzealousness*, *fervor*, *excessive enthusiasm* — thường chỉ sự nhiệt tình vượt mức khiến người khác chịu áp lực.
+**어휘 연결:** `열성` là nhiệt tình tích cực; `극성` thường thêm đánh giá “quá mức, gây mệt mỏi”, nên không phải lời khen trung tính. — `nhiệt tình` là nhiệt tình tích cực; `Polarity` thường đánh giá thêm “quá trình, gây mệt mỏi”, nên không phải lời khen trung tính.
+
+**영어 참고:** *overzealousness*, *fervor*, *excessive enthusiasm* — Đúng vậy.
 
 ---
 
@@ -116,19 +124,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** vị trí bị xếp sau, bị gạt sang một bên.
 
-**뉘앙스와 사용법:** 물리적인 뒤쪽보다 `뒷전으로 밀리다`라는 비유가 핵심이다. 우선순위에서 부당하게 배제됐다는 비판을 담기 쉽다.
+**뉘앙스와 사용법:** Phép ẩn dụ 'bị đẩy ra phía sau' thay vì bị tụt lại phía sau về mặt vật lý chính là chìa khóa. Người ta dễ dàng chỉ trích rằng nó đã bị loại khỏi danh sách ưu tiên một cách bất công.
 
-**재사용 가능한 콜로케이션·청크:** `뒷전으로 밀리다`, `안전은 뒷전이다`, `일은 뒷전으로 하다`.
+**재사용 가능한 콜로케이션·청크:** `뒷전으로 밀리다`, `안전은 뒷전이다`, `일은 뒷전으로 하다`. — `Bị đẩy xuống nền`, `An toàn bị xếp ở hàng ghế sau`, `Công việc bị xếp ở hàng ghế sau`.
 
-**자주 쓰는 문형과 성분:** `N은/는 뒷전이다`; `N을 뒷전으로 미루다`; 안전·돌봄·본업·원칙과 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 뒷전이다`, `N을 뒷전으로 미루다`, `N đứng sau`, `đặt N ở phía sau` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상과 비판적 뉴스 문장에서 모두 자연스럽다.
+**사회적 관계·주제별 register:** Tự nhiên trong cả những câu đời thường và những câu tin quan trọng.
 
 **예문:** 조회수 경쟁이 심해지면서 사실 확인은 뒷전으로 밀렸다.
 
-**어휘 연결:** `후순위` là thứ tự ưu tiên thấp mang tính hành chính; `뒷전` giàu hình ảnh và thường hàm ý bị xem nhẹ một cách đáng trách.
+**Dịch:** Khi sự cạnh tranh về lượt xem ngày càng tăng, việc xác minh tính xác thực sẽ bị lùi lại.
 
-**영어 참고:** *take a back seat*, *be sidelined*, *be put on the back burner* — chỉ việc bị đẩy khỏi ưu tiên chính.
+**어휘 연결:** `후순위` là thứ tự ưu tiên thấp mang tính hành chính; `뒷전` giàu hình ảnh và thường hàm ý bị xem nhẹ một cách đáng trách. — `cấp dưới` là thứ tự ưu tiên mang tính chất hành động chính; ``Behind the Scene` giàu hình ảnh và thường hàm ý được xem nhẹ một cách đáng trách.
+
+**영어 참고:** *take a back seat*, *be sidelined*, *be put on the back burner* — Đúng vậy.
 
 ---
 
@@ -141,19 +151,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** phát điên, mê mệt đến mất tỉnh táo.
 
-**뉘앙스와 사용법:** 실제 정신질환이 아니라 감정의 극단을 과장하는 속된 말이다. `답답해서 환장하다`와 `N에 환장하다`의 방향이 다르다.
+**뉘앙스와 사용법:** Đây không phải là một bệnh tâm thần thực sự mà là một thuật ngữ thô tục phóng đại những cảm xúc cực đoan. Hướng của 'Tôi bị N mê hoặc' và 'Tôi bị N mê hoặc' là khác nhau.
 
-**재사용 가능한 콜로케이션·청크:** `답답해서 환장하다`, `N에 환장하다`, `환장할 노릇이다`.
+**재사용 가능한 콜로케이션·청크:** `답답해서 환장하다`, `N에 환장하다`, `환장할 노릇이다`. — `Tôi phát điên vì tôi thất vọng`, `Tôi phát điên vì N`, `Tôi rất phấn khích`.
 
-**자주 쓰는 문형과 성분:** `N 때문에 환장하겠다`; `N에 환장하다`; 답답함·음식·돈·관심과 결합한다.
+**자주 쓰는 문형과 성분:** `N 때문에 환장하겠다`, `N에 환장하다`, `Tôi phát điên vì N`, `Được N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 친한 사이의 거친 구어다. 공적 자리·낯선 사람·정신건강 맥락에서는 피한다.
+**사회적 관계·주제별 register:** Đây là cách nói thông tục thô bạo giữa những người bạn thân. Tránh ở nơi công cộng, với người lạ và trong bối cảnh sức khỏe tâm thần.
 
 **예문:** 결재자가 매번 말을 바꾸니 담당자는 환장할 노릇이라고 하소연했다.
 
-**어휘 연결:** `미치겠다` cũng là phóng đại cảm xúc; `환장하다` thô và kịch tính hơn, thường gắn với bực bội hoặc mê một thứ quá mức.
+**Dịch:** Người phụ trách phàn nàn rằng thật điên rồ vì người phê duyệt lần nào cũng thay đổi lời nói.
 
-**영어 참고:** *drive someone crazy*, *be crazy about*, *lose one’s mind* — nghĩa thay đổi giữa bực phát điên và mê mệt tùy trợ từ `때문에/에`.
+**어휘 연결:** `미치겠다` cũng là phóng đại cảm xúc; `환장하다` thô và kịch tính hơn, thường gắn với bực bội hoặc mê một thứ quá mức. — `Tôi sắp điên rồi` cũng là phóng đại cảm xúc; `Enjoyed` raw và script feature hơn, thường được gắn với cường hóa hoặc mê cung một thứ quá sức mạnh.
+
+**영어 참고:** *drive someone crazy*, *be crazy about*, *lose one’s mind* — nghĩa thay đổi giữa tốc độ phát điên và mê mệt `vì/to`.
 
 ---
 
@@ -166,19 +178,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** hỗn xược, vô lễ, không biết điều.
 
-**뉘앙스와 사용법:** 구체적 행동보다 사람의 인성 전체를 평가하는 것처럼 들리기 쉽다. 친근한 농담도 가능하지만 관계와 억양에 크게 의존한다.
+**뉘앙스와 사용법:** Nó có vẻ giống như việc đánh giá toàn bộ tính cách của một người hơn là những hành động cụ thể. Có thể nói đùa thân thiện nhưng chúng phụ thuộc rất nhiều vào mối quan hệ và ngữ điệu.
 
-**재사용 가능한 콜로케이션·청크:** `진짜 싸가지 없다`, `말투가 싸가지 없다`, `싸가지 없게 굴다`.
+**재사용 가능한 콜로케이션·청크:** `진짜 싸가지 없다`, `말투가 싸가지 없다`, `싸가지 없게 굴다`. — `Không sến`, `Nói chuyện không sến`, `Cư xử sến`.
 
-**자주 쓰는 문형과 성분:** `N은/는 싸가지가 없다`; `싸가지 없게 V-다`; 말투·태도·응대와 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 싸가지가 없다`, `싸가지 없게 V-다`, `N là/không hề rẻ`, `V-da mà không hề rẻ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 모욕성이 강한 속어다. 직장에서는 `응대가 무례하다`, `태도가 부적절하다`로 바꾼다.
+**사회적 관계·주제별 register:** Đây là một thuật ngữ tiếng lóng có tính xúc phạm cao. Tại nơi làm việc, nó chuyển thành ‘phản ứng thô lỗ’ và ‘thái độ không phù hợp’.
 
 **예문:** 서비스가 늦었다고 직원에게 싸가지가 없다고 소리치는 행동도 명백한 폭언이다.
 
-**어휘 연결:** `무례하다` là từ chuẩn, có thể chỉ rõ hành vi; `싸가지가 없다` quy kết mạnh vào con người và dễ làm xung đột leo thang.
+**Dịch:** La mắng một nhân viên vì tỏ ra thô lỗ vì dịch vụ đến trễ cũng rõ ràng là lạm dụng bằng lời nói.
 
-**영어 참고:** *rude*, *ill-mannered*, *have an attitude* — gần *have an attitude*, nhưng mức xúc phạm của tiếng Hàn thường mạnh hơn.
+**어휘 연결:** `무례하다` là từ chuẩn, có thể chỉ rõ hành vi; `싸가지가 없다` quy kết mạnh vào con người và dễ làm xung đột leo thang. — `rude` là từ chuẩn, có thể chỉ định vi hành động; `Không có sự rẻ tiền` quy kết mạnh vào con người và dễ làm xung đột leo thang.
+
+**영어 참고:** *rude*, *ill-mannered*, *have an attitude* — gần *có thái độ*, nhưng khả năng căng thẳng của tiếng Hàn thường mạnh hơn.
 
 ---
 
@@ -191,19 +205,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** tài giỏi, linh nghiệm; đáng khen vì làm được việc khó.
 
-**뉘앙스와 사용법:** `용한 의사/점쟁이`처럼 능력·효험을 말하거나, `그걸 참은 것도 용하다`처럼 뜻밖의 성취를 감탄한다. 현대 일상에서는 두 번째 용법이 특히 구어적이다.
+**뉘앙스와 사용법:** Nói về khả năng và hiệu quả như trong 'bác sĩ/thầy bói dũng cảm', hoặc ngưỡng mộ những thành tựu bất ngờ như trong 'thật dũng cảm khi chịu đựng được điều đó'. Trong cuộc sống hàng ngày hiện đại, cách sử dụng thứ hai đặc biệt thông tục.
 
-**재사용 가능한 콜로케이션·청크:** `용한 의사`, `용한 점집`, `그걸 해낸 것도 용하다`.
+**재사용 가능한 콜로케이션·청크:** `용한 의사`, `용한 점집`, `그걸 해낸 것도 용하다`. — `Bác sĩ dũng cảm`, `Thầy bói dũng cảm`, `Thật dũng cảm khi làm được điều đó`.
 
-**자주 쓰는 문형과 성분:** `N이 용하다`; `V-(으)ㄴ 것도 용하다`; 치료·점괘·참음·버팀과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 용하다`, `V-(으)ㄴ 것도 용하다`, `N hữu ích`, `V-(eu)ㄴ cũng hữu ích` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 민간신앙·일상 감탄의 표현이다. 공식 평가는 `유능하다`, `효과가 뛰어나다`가 자연스럽다.
+**사회적 관계·주제별 register:** Đó là sự thể hiện niềm tin dân gian và sự ngưỡng mộ hàng ngày. Việc đánh giá chính thức là đương nhiên vì ‘có thẩm quyền’ và ‘hiệu quả’.
 
 **예문:** 그렇게 복잡한 팀에서 삼 년이나 버틴 것도 용하다며 동료들이 웃었다.
 
-**어휘 연결:** `유능하다` đánh giá năng lực một cách chính thức; `용하다` có sắc thái dân gian hoặc cảm thán “làm được thế cũng giỏi thật”.
+**Dịch:** Các đồng nghiệp của tôi cười lớn và nói rằng thật là kỳ công khi tồn tại được ba năm trong một nhóm phức tạp như vậy.
 
-**영어 참고:** *remarkably capable*, *effective*, *it is a wonder that...* — nghĩa cụ thể phụ thuộc vào người tài, hiệu nghiệm hay sự chịu đựng đáng ngạc nhiên.
+**어휘 연결:** `유능하다` đánh giá năng lực một cách chính thức; `용하다` có sắc thái dân gian hoặc cảm thán “làm được thế cũng giỏi thật”. — `competent` đánh giá năng lực theo cách chính thức; `To be hào phóng` có sắc thái dân gian hoặc cảm giác “làm được thế cũng giỏi thật”.
+
+**영어 참고:** *remarkably capable*, *effective*, *it is a wonder that...* — Không sao nếu bạn không biết phải làm gì.
 
 ---
 
@@ -216,19 +232,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** sự bành trướng kiểu “vòi bạch tuộc”.
 
-**뉘앙스와 사용법:** 단순한 다각화보다 핵심 역량 없이 여기저기 손을 뻗는다는 부정적 평가가 강하다.
+**뉘앙스와 사용법:** Có sự đánh giá tiêu cực mạnh mẽ hơn về việc dàn trải ở đây và ở đó mà không có năng lực cốt lõi hơn là đa dạng hóa đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `문어발 경영`, `문어발 확장`, `문어발식 사업`.
+**재사용 가능한 콜로케이션·청크:** `문어발 경영`, `문어발 확장`, `문어발식 사업`. — `Quản lý chân bạch tuộc`, `Mở rộng chân bạch tuộc`, `Kinh doanh thực phẩm chân bạch tuộc`.
 
-**자주 쓰는 문형과 성분:** `사업을 문어발식으로 확장하다`; `문어발 경영을 하다`; 재벌·가맹점·계열사와 결합한다.
+**자주 쓰는 문형과 성분:** `사업을 문어발식으로 확장하다`, `문어발 경영을 하다`, `Mở rộng kinh doanh theo phong cách bạch tuộc`, `Quản lý chân bạch tuộc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제 기사·비판적 논평의 비유어다. 중립 보고서에서는 `사업 다각화`, `과도한 확장`을 쓴다.
+**사회적 관계·주제별 register:** Một phép ẩn dụ cho các bài báo kinh tế và bình luận phê bình. Trong các báo cáo trung lập, 'đa dạng hóa kinh doanh' và 'mở rộng quá mức' được sử dụng.
 
 **예문:** 회사는 문어발 확장으로 매출을 키웠지만 내부 통제와 품질 관리는 약해졌다.
 
-**어휘 연결:** `사업 다각화` là mở rộng danh mục có thể trung tính/chiến lược; `문어발 확장` phê phán việc lan rộng thiếu chọn lọc và kiểm soát.
+**Dịch:** Công ty tăng doanh số bán hàng bằng cách mở rộng bạch tuộc, nhưng kiểm soát nội bộ và kiểm soát chất lượng lại yếu đi.
 
-**영어 참고:** *octopus-like expansion*, *overexpansion*, *sprawling conglomerate* — chỉ việc vươn sang quá nhiều lĩnh vực một cách thiếu kiểm soát.
+**어휘 연결:** `사업 다각화` là mở rộng danh mục có thể trung tính/chiến lược; `문어발 확장` phê phán việc lan rộng thiếu chọn lọc và kiểm soát. — `Đa dạng hóa kinh doanh` `Mở rộng chân bạch tuộc` phê phán việc làm lan rộng thiếu lọc và kiểm soát.
+
+**영어 참고:** *octopus-like expansion*, *overexpansion*, *sprawling conglomerate* — chỉ việc leo sang quá nhiều lĩnh vực một cách thiếu kiểm soát.
 
 ---
 
@@ -241,19 +259,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** vượt quá giới hạn, đi quá ranh giới chấp nhận được.
 
-**뉘앙스와 사용법:** 물리적 선이 아니라 관계의 암묵적 경계를 뜻한다. 무엇이 선인지는 친밀도·권력·상황에 따라 달라진다.
+**뉘앙스와 사용법:** Điều này đề cập đến ranh giới tiềm ẩn của mối quan hệ, không phải đường dây vật lý. Điều gì là tốt phụ thuộc vào sự thân mật, quyền lực và hoàn cảnh.
 
-**재사용 가능한 콜로케이션·청크:** `농담이 선을 넘다`, `선을 넘는 발언`, `여기서 선 넘지 마`.
+**재사용 가능한 콜로케이션·청크:** `농담이 선을 넘다`, `선을 넘는 발언`, `여기서 선 넘지 마`. — 'Truyện cười vượt quá giới hạn', 'Nhận xét vượt quá giới hạn', 'Đừng vượt quá giới hạn ở đây'.
 
-**자주 쓰는 문형과 성분:** `N이 선을 넘다`; `선을 넘는 N`; 농담·간섭·질문·행동과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 선을 넘다`, `선을 넘는 N`, `N vượt qua dòng`, `N vượt qua ranh giới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 현재 구어·온라인에서 매우 자연스럽다. 공적 문서에서는 `허용 범위를 벗어나다`로 바꾼다.
+**사회적 관계·주제별 register:** Hiện nay nó rất tự nhiên trong lời nói và trực tuyến. Trong các văn bản chính thức, nó được đổi thành “ngoài phạm vi cho phép”.
 
 **예문:** 친하다는 이유로 사생활을 공개적으로 묻는 건 선을 넘는 행동이다.
 
-**어휘 연결:** `무례하다` đánh giá hành vi thiếu lễ; `선을 넘다` nhấn mạnh việc vượt ranh giới ngầm của quan hệ, quyền hạn hoặc trò đùa.
+**Dịch:** Hỏi công khai về đời tư của ai đó chỉ vì bạn thân thiết với họ là đi quá giới hạn.
 
-**영어 참고:** *cross the line*, *overstep a boundary* — tương đương khá trực tiếp, nhưng “đường ranh” cụ thể phụ thuộc quan hệ xã hội.
+**어휘 연결:** `무례하다` đánh giá hành vi thiếu lễ; `선을 넘다` nhấn mạnh việc vượt ranh giới ngầm của quan hệ, quyền hạn hoặc trò đùa. — `thô lỗ` đánh giá hành vi thiếu lễ; `Vượt ranh giới` Vượt ranh giới là được.
+
+**영어 참고:** *cross the line*, *overstep a boundary* — tương thích với các trực tiếp tiếp theo, nhưng “đường ranh giới” cụ thể phụ thuộc quan hệ xã hội.
 
 ---
 
@@ -266,19 +286,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** để bụng, giữ hằn học sau khi sự việc đã qua.
 
-**뉘앙스와 사용법:** 기억력이 좋다는 뜻이 아니라 이미 끝난 일을 계속 끌고 와 보복하거나 냉랭하게 구는 태도를 평가한다.
+**뉘앙스와 사용법:** Điều đó không có nghĩa là bạn có trí nhớ tốt mà nó đánh giá thái độ của bạn là tiếp tục lôi kéo những việc đã làm rồi trả thù hoặc lạnh lùng.
 
-**재사용 가능한 콜로케이션·청크:** `뒤끝이 있다/없다`, `뒤끝이 길다`, `뒤끝 있게 굴다`.
+**재사용 가능한 콜로케이션·청크:** `뒤끝이 있다/없다`, `뒤끝이 길다`, `뒤끝 있게 굴다`. — `Có/không có phần cuối`, `Phần cuối dài`, `Hãy xử lý với phần cuối`.
 
-**자주 쓰는 문형과 성분:** `N은/는 뒤끝이 있다`; `지난 일을 두고 뒤끝을 보이다`; 다툼·평가·거절과 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 뒤끝이 있다`, `지난 일을 두고 뒤끝을 보이다`, `N có phần kết thúc cuối cùng`, `Hãy buông bỏ quá khứ và chấm dứt nó` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·직장 잡담에서 자연스럽지만 당사자에게 직접 말하면 성격 비판이 된다.
+**사회적 관계·주제별 register:** Đó là điều tự nhiên trong cuộc trò chuyện hàng ngày hoặc nơi làm việc, nhưng nếu bạn nói trực tiếp với người được đề cập, điều đó sẽ trở thành sự chỉ trích tính cách của họ.
 
 **예문:** 회의에서 반대했다고 다음 인사평가에 불이익을 주면 뒤끝이 있다는 말을 들을 수밖에 없다.
 
-**어휘 연결:** `서운함이 남다` mô tả cảm xúc; `뒤끝이 있다` đánh giá cách người đó kéo cảm xúc cũ vào hành vi sau này, thường tiêu cực hơn.
+**Dịch:** Nếu bạn gặp bất lợi trong lần đánh giá nhân sự tiếp theo vì bạn đã phản đối trong một cuộc họp, bạn chắc chắn sẽ nghe rằng sẽ có hậu quả.
 
-**영어 참고:** *hold a grudge*, *be vindictive*, *not let things go* — nhấn mạnh việc không buông xung đột đã qua.
+**어휘 연결:** `서운함이 남다` mô tả cảm xúc; `뒤끝이 있다` đánh giá cách người đó kéo cảm xúc cũ vào hành vi sau này, thường tiêu cực hơn. — `Cảm giác thất vọng vẫn còn` mô tả cảm xúc; `Có một kết thúc cho nó`.
+
+**영어 참고:** *hold a grudge*, *be vindictive*, *not let things go* — Không sao đâu.
 
 ---
 
@@ -291,19 +313,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** mặt dày, trơ trẽn.
 
-**뉘앙스와 사용법:** 얼굴 피부의 두께가 아니라 수치심과 사회적 체면에 둔감하다는 비유다. 사람의 인격을 강하게 비난한다.
+**뉘앙스와 사용법:** Nó không phải là phép ẩn dụ cho độ dày của da mặt mà là phép ẩn dụ cho sự xấu hổ và vô cảm trước sự tôn trọng của xã hội. Phê phán mạnh mẽ tính cách của một người.
 
-**재사용 가능한 콜로케이션·청크:** `낯이 두껍다`, `낯 두껍게 부탁하다`, `참 낯도 두껍다`.
+**재사용 가능한 콜로케이션·청크:** `낯이 두껍다`, `낯 두껍게 부탁하다`, `참 낯도 두껍다`. — ‘Tôi có mặt dày’, ‘Tôi yêu cầu mặt dày’, ‘Tôi thực sự có mặt dày’.
 
-**자주 쓰는 문형과 성분:** `N은/는 낯이 두껍다`; `낯 두껍게 V-다`; 거짓말·부탁·책임 회피와 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 낯이 두껍다`, `낯 두껍게 V-다`, `N là mặt dày`, `V-da mặt dày` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 비공식적 비난과 풍자에 쓰인다. 공식 글에서는 `뻔뻔하다`, `책임 의식이 부족하다`로 구체화한다.
+**사회적 관계·주제별 register:** Được sử dụng cho những lời chỉ trích và châm biếm không chính thức. Trong bài báo chính thức, nó được mô tả là “vô liêm sỉ” và “thiếu tinh thần trách nhiệm”.
 
 **예문:** 사과 한마디 없이 다시 지원금을 요구하다니 낯이 두껍다는 비판이 나왔다.
 
-**어휘 연결:** `뻔뻔하다` là từ chuẩn phê phán thiếu xấu hổ; `낯이 두껍다` dùng hình ảnh “mặt dày”, giàu tính khẩu ngữ và châm biếm hơn.
+**Dịch:** Đã có ý kiến ​​chỉ trích rằng thật quá táo bạo khi yêu cầu trợ cấp một lần nữa mà không hề có một lời xin lỗi.
 
-**영어 참고:** *thick-skinned*는 비판을 잘 견딘다는 긍정 의미도 있어 다르다. 여기서는 *shameless* 또는 *brazen*이 가깝다.
+**어휘 연결:** `뻔뻔하다` là từ chuẩn phê phán thiếu xấu hổ; `낯이 두껍다` dùng hình ảnh “mặt dày”, giàu tính khẩu ngữ và châm biếm hơn. — `shameless` là từ chuẩn phê phán thiếu xấu hổ; `Mặt dày` dùng hình ảnh “mặt dày”, giàu tính khẩu ngữ và châm biếm hơn.
+
+**영어 참고:** *thick-skinned*, *shameless*, *brazen* — *thick-skinned* nhấn mạnh khả năng chịu được lời phê bình, còn *shameless* và *brazen* gần hơn với sắc thái trơ trẽn hoặc không biết xấu hổ trong mục từ này.
 
 ---
 
@@ -316,19 +340,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** dò ý, thăm dò ý định thật của đối phương.
 
-**뉘앙스와 사용법:** 공개적으로 확인하기 어려운 의도를 간접적으로 시험한다. 신중함일 수도 있지만 계산적이라는 인상도 줄 수 있다.
+**뉘앙스와 사용법:** Kiểm tra gián tiếp các ý định khó xác nhận công khai. Nó có thể thận trọng, nhưng nó cũng có thể tạo ấn tượng là đang tính toán.
 
-**재사용 가능한 콜로케이션·청크:** `상대의 속내를 떠보다`, `질문으로 속내를 떠보다`, `슬쩍 떠보다`.
+**재사용 가능한 콜로케이션·청크:** `상대의 속내를 떠보다`, `질문으로 속내를 떠보다`, `슬쩍 떠보다`. — ‘Suy nghĩ về cảm xúc thực sự của người khác’, ‘Suy nghĩ về cảm xúc thực sự của họ thông qua các câu hỏi’, ‘Nghĩ về cảm xúc thực sự của họ một cách bí mật’.
 
-**자주 쓰는 문형과 성분:** `N의 속내를 떠보다`; `V-(으)ㄹ 생각인지 떠보다`; 협상·연애·인사·거래와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 속내를 떠보다`, `V-(으)ㄹ 생각인지 떠보다`, `Khám phá suy nghĩ nội tâm của N`, `V-(ugh)ㄹ Đang nghĩ về nó` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·협상 뒷이야기에서 자연스럽다. 공식 문서에서는 `의중을 파악하다`를 쓴다.
+**사회적 관계·주제별 register:** Đó là điều tự nhiên trong cuộc sống hàng ngày và các cuộc đàm phán hậu trường. Trong các văn bản chính thức, “hiểu ý định” được sử dụng.
 
 **예문:** 그는 이직 의사가 있는지 직접 묻지 않고 연봉 이야기를 꺼내 동료의 속내를 떠봤다.
 
-**어휘 연결:** `의중을 묻다` có thể hỏi trực tiếp và trang trọng; `속내를 떠보다` là thử phản ứng gián tiếp để đoán ý thật.
+**Dịch:** Thay vì trực tiếp hỏi nhân viên có sẵn sàng thay đổi công việc hay không, anh ấy lại đề cập đến mức lương và bày tỏ suy nghĩ của mình.
 
-**영어 참고:** *sound someone out*, *probe someone’s intentions*, *test the waters* — hỏi vòng để thăm dò phản ứng và ý định.
+**어휘 연결:** `의중을 묻다` có thể hỏi trực tiếp và trang trọng; `속내를 떠보다` là thử phản ứng gián tiếp để đoán ý thật. — `Hỏi về ý định` có thể hỏi trực tiếp và trang trọng; 'Hãy suy nghĩ về những gì trong tâm trí bạn'.
+
+**영어 참고:** *sound someone out*, *probe someone’s intentions*, *test the waters* — Đúng vậy.
 
 ---
 
@@ -341,19 +367,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** bắt bẻ câu chữ, vin vào tiểu tiết lời nói.
 
-**뉘앙스와 사용법:** 정확성을 확인하는 정당한 질문보다, 작은 표현을 공격 재료로 삼아 대화를 소모시키는 행동을 비판한다.
+**뉘앙스와 사용법:** Chỉ trích hành vi làm cạn kiệt cuộc trò chuyện bằng cách sử dụng các cách diễn đạt nhỏ làm tài liệu tấn công thay vì đặt các câu hỏi chính đáng để kiểm tra độ chính xác.
 
-**재사용 가능한 콜로케이션·청크:** `말꼬리를 잡고 늘어지다`, `사소한 말꼬리를 잡다`, `말꼬리 잡지 마`.
+**재사용 가능한 콜로케이션·청크:** `말꼬리를 잡고 늘어지다`, `사소한 말꼬리를 잡다`, `말꼬리 잡지 마`. — `nắm đuôi ngựa', `nắm đuôi ngựa nhỏ', `không nắm đuôi ngựa`.
 
-**자주 쓰는 문형과 성분:** `N의 말꼬리를 잡다`; `말꼬리를 잡고 V-다`; 논쟁·회의·댓글과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 말꼬리를 잡다`, `말꼬리를 잡고 V-다`, `Bắt đuôi N`, `Giữ đuôi ngựa và V-da` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 논쟁 상황의 구어적 비판어다. 공식 분석에서는 `논점을 벗어난 표현상의 트집`으로 풀어 쓴다.
+**사회적 관계·주제별 register:** Đây là lời chỉ trích thông tục trong một tình huống gây tranh cãi. Trong phân tích chính thức, nó được hiểu là một “trục trặc về biểu cảm vượt quá tầm quan trọng”.
 
 **예문:** 핵심 대안은 논의하지 않고 숫자 하나의 표현만 두고 말꼬리를 잡는 회의가 이어졌다.
 
-**어휘 연결:** `반박하다` là phản biện nội dung có căn cứ; `말꼬리를 잡다` phê phán việc bám tiểu tiết câu chữ để né trọng tâm.
+**Dịch:** Cuộc họp tiếp tục mà không thảo luận các phương án thay thế chính và chỉ tranh luận về cách biểu thị một con số.
 
-**영어 참고:** *nitpick someone’s wording*, *split hairs*, *seize on a phrase* — tập trung vào chi tiết lời nói thay vì luận điểm chính.
+**어휘 연결:** `반박하다` là phản biện nội dung có căn cứ; `말꼬리를 잡다` phê phán việc bám tiểu tiết câu chữ để né trọng tâm. — `refle` là phản biện nội dung có căn cứ; `Giữ đuôi ngựa` phê phán việc bám tiểu tiết câu chữ để né tâm trí.
+
+**영어 참고:** *nitpick someone’s wording*, *split hairs*, *seize on a phrase* — Đúng vậy.
 
 ---
 
@@ -366,19 +394,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** phá vỡ cuộc chơi/thỏa thuận, làm đổ bể tình thế đang diễn ra.
 
-**뉘앙스와 사용법:** 실제 판을 부수는 것이 아니라 여러 사람이 어렵게 만든 협력 구조를 한 행동이 무너뜨린다는 이미지다.
+**뉘앙스와 사용법:** Đây không phải là hình ảnh phá hủy bảng thực tế mà là hình ảnh một hành động phá hủy cơ cấu hợp tác do nhiều người tạo ra.
 
-**재사용 가능한 콜로케이션·청크:** `협상판을 깨다`, `한마디로 판을 깨다`, `판을 깰 생각`.
+**재사용 가능한 콜로케이션·청크:** `협상판을 깨다`, `한마디로 판을 깨다`, `판을 깰 생각`. — ‘Phá bàn đàm phán’, ‘Tóm lại là phá bàn’, ‘Hãy nghĩ đến việc phá bàn’.
 
-**자주 쓰는 문형과 성분:** `N이 판을 깨다`; `V-아서 판을 깨다`; 협상·회식·프로젝트·연합과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 판을 깨다`, `V-아서 판을 깨다`, `N phá bảng`, `V-Arthur làm vỡ bảng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·스포츠·직장 뒷이야기의 구어다. 공식 기사에서는 `협상을 결렬시키다`가 더 중립적이다.
+**사회적 관계·주제별 register:** Cụm từ thông tục về chính trị, thể thao và những câu chuyện hậu trường tại nơi làm việc. Trong bài viết chính thức, “đàm phán phá vỡ” mang tính trung lập hơn.
 
 **예문:** 마지막 순간에 합의 조건을 전부 바꾸면 상대는 판을 깨려는 의도로 받아들일 수 있다.
 
-**어휘 연결:** `결렬시키다` là từ chính thức mô tả đàm phán đổ vỡ; `판을 깨다` khẩu ngữ hơn và thường quy trách nhiệm cho người phá cấu trúc hợp tác.
+**Dịch:** Nếu bạn thay đổi tất cả các điều khoản của thỏa thuận vào phút cuối, đối thủ có thể coi đó là ý định phá vỡ trò chơi.
 
-**영어 참고:** *blow up the deal*, *break up the arrangement*, *walk away and wreck the process* — làm cho cuộc thương lượng hoặc kế hoạch không thể tiếp tục.
+**어휘 연결:** `결렬시키다` là từ chính thức mô tả đàm phán đổ vỡ; `판을 깨다` khẩu ngữ hơn và thường quy trách nhiệm cho người phá cấu trúc hợp tác. — `to break up` là từ chính thức mô tả nói phán đoán gãy; `break the disk` khẩu ngữ hơn và thường quy trách nhiệm cho người phá cấu trúc hợp tác.
+
+**영어 참고:** *blow up the deal*, *break up the arrangement*, *walk away and wreck the process* — thực hiện khối lượng hoặc kế hoạch không thể tiếp tục.
 
 ---
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** tính giao thoa của các bất bình đẳng.
 
-**뉘앙스와 사용법:** 차별 요인을 단순히 더하는 것이 아니라, 여러 위치가 결합해 서로 다른 경험과 취약성을 만든다는 점을 강조한다.
+**뉘앙스와 사용법:** Trong mục này, `교차성` không chỉ mang nghĩa “tính giao thoa của các bất bình đẳng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `교차성 관점`, `교차성을 고려하다`, `교차적 차별`.
+**재사용 가능한 콜로케이션·청크:** `교차성 관점`, `교차성을 고려하다`, `교차적 차별` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정책이 교차성을 반영하다`; 젠더·이주·계층·장애와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 교차성을 반영하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회학·여성학·인권정책·복지의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 이주 여성 장애인의 경험을 이해하려면 단일한 성별 정책보다 교차성 관점이 필요하다.
 
-**어휘 연결:** `다중격차` là nhiều khoảng cách cùng tồn tại; `교차성` giải thích cách các vị trí xã hội giao nhau và tạo ra trải nghiệm đặc thù, không chỉ cộng các khoảng cách.
+**Dịch:** Để hiểu trải nghiệm của phụ nữ di cư khuyết tật, cần góc nhìn giao thoa thay vì chỉ một chính sách giới đơn nhất.
 
-**영어 참고:** *intersectionality* — khung phân tích các hệ thống quyền lực và vị trí xã hội giao thoa.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `교차성`.
+
+**영어 참고:** *intersectionality* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** cuộc đấu tranh đòi được công nhận.
 
-**뉘앙스와 사용법:** 단순한 칭찬이나 승인보다 법적 권리·사회적 존중·자기 정체성의 가치를 인정받으려는 구조적 요구를 뜻한다.
+**뉘앙스와 사용법:** Trong mục này, `인정투쟁` không chỉ mang nghĩa “cuộc đấu tranh đòi được công nhận.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `인정투쟁의 주체`, `사회적 인정투쟁`, `인정투쟁이 가시화되다`.
+**재사용 가능한 콜로케이션·청크:** `인정투쟁의 주체`, `사회적 인정투쟁`, `인정투쟁이 가시화되다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단이 인정투쟁을 벌이다`; 소수자·노동·성별·이주와 결합한다.
+**자주 쓰는 문형과 성분:** `집단이 인정투쟁을 벌이다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회철학·사회운동·정체성 정치의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 장애인 운동은 복지 혜택만이 아니라 시민으로서의 인정투쟁이기도 했다.
 
-**어휘 연결:** `권리투쟁` tập trung vào quyền pháp lý cụ thể; `인정투쟁` rộng hơn, bao gồm phẩm giá, bản sắc và vị trí xã hội.
+**Dịch:** Phong trào người khuyết tật không chỉ là yêu cầu phúc lợi mà còn là cuộc đấu tranh được công nhận như công dân.
 
-**영어 참고:** *struggle for recognition* — đấu tranh để được xã hội công nhận về phẩm giá, bản sắc và quyền.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `인정투쟁`.
+
+**영어 참고:** *struggle for recognition* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** bạo lực biểu tượng.
 
-**뉘앙스와 사용법:** 물리적 강제보다 말·이미지·교육·제도에 스며들어 피해자조차 불평등을 당연하게 느끼게 하는 작동을 분석한다.
+**뉘앙스와 사용법:** Trong mục này, `상징폭력` không chỉ mang nghĩa “bạo lực biểu tượng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `상징폭력이 작동하다`, `상징폭력을 재생산하다`, `언어적 상징폭력`.
+**재사용 가능한 콜로케이션·청크:** `상징폭력이 작동하다`, `상징폭력을 재생산하다`, `언어적 상징폭력` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `담론이 상징폭력을 행사하다`; 표준어·계층·미디어·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `담론이 상징폭력을 행사하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회학·문화연구·교육비평의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 특정 억양을 무식하다고 규정하는 태도는 상징폭력으로 이어질 수 있다.
 
-**어휘 연결:** `혐오표현` là lời nói thù ghét trực tiếp; `상징폭력` rộng hơn, phân tích cách chuẩn mực và phân loại làm bất bình đẳng có vẻ tự nhiên.
+**Dịch:** Thái độ quy định một giọng địa phương nào đó là ngu dốt có thể dẫn đến bạo lực biểu tượng.
 
-**영어 참고:** *symbolic violence* — bạo lực thông qua ngôn ngữ, biểu tượng và chuẩn mực được nội hóa.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `상징폭력`.
+
+**영어 참고:** *symbolic violence* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** phân biệt đối xử mang tính thể chế.
 
-**뉘앙스와 사용법:** 차별 의도가 명시되지 않아도 기준과 결과가 지속적으로 불평등하면 제도적 차별을 분석할 수 있다.
+**뉘앙스와 사용법:** Trong mục này, `제도적 차별` không chỉ mang nghĩa “phân biệt đối xử mang tính thể chế.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `제도적 차별을 시정하다`, `제도적 차별의 구조`, `제도적 차별 관행`.
+**재사용 가능한 콜로케이션·청크:** `제도적 차별을 시정하다`, `제도적 차별의 구조`, `제도적 차별 관행` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `규정이 제도적 차별을 낳다`; 채용·주거·교육·이민행정과 결합한다.
+**자주 쓰는 문형과 성분:** `규정이 제도적 차별을 낳다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인권·행정·노동·사회정책의 공식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 서류 요건이 같아 보여도 현실의 접근성이 다르면 제도적 차별이 발생할 수 있다.
 
-**어휘 연결:** `개인적 편견` là thái độ của một người; `제도적 차별` là kết quả lặp lại do quy tắc và cách vận hành của tổ chức.
+**Dịch:** Dù các yêu cầu giấy tờ có vẻ giống nhau, phân biệt đối xử thể chế có thể xảy ra nếu khả năng tiếp cận thực tế khác nhau.
 
-**영어 참고:** *institutional discrimination*, *systemic discrimination* — bất bình đẳng được tạo ra hoặc duy trì bởi cơ chế tổ chức.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `제도적 차별`.
+
+**영어 참고:** *institutional discrimination*, *systemic discrimination* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** phân biệt đối xử mang tính cơ cấu.
 
-**뉘앙스와 사용법:** 한 기관의 규정만이 아니라 노동시장·주거·교육·가족·문화의 여러 구조가 서로 연결되어 차이를 재생산한다.
+**뉘앙스와 사용법:** Trong mục này, `구조적 차별` không chỉ mang nghĩa “phân biệt đối xử mang tính cơ cấu.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `구조적 차별을 해소하다`, `구조적 차별의 재생산`, `구조적 차별에 맞서다`.
+**재사용 가능한 콜로케이션·청크:** `구조적 차별을 해소하다`, `구조적 차별의 재생산`, `구조적 차별에 맞서다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `사회가 구조적 차별을 재생산하다`; 계층·젠더·인종·지역과 결합한다.
+**자주 쓰는 문형과 성분:** `사회가 구조적 차별을 재생산하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회이론·정책연구·인권운동의 분석어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 개인의 성공 사례만 강조하면 교육과 주거에 남아 있는 구조적 차별을 가릴 수 있다.
 
-**어휘 연결:** `제도적 차별` có thể tập trung vào một hệ thống cụ thể; `구조적 차별` nhìn mạng lưới rộng hơn giữa nhiều lĩnh vực và lịch sử.
+**Dịch:** Nếu chỉ nhấn mạnh các trường hợp thành công cá nhân, có thể che khuất phân biệt đối xử cơ cấu còn tồn tại trong giáo dục và nhà ở.
 
-**영어 참고:** *structural discrimination*, *structural inequality* — bất bình đẳng được duy trì bởi cấu trúc xã hội rộng lớn.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `구조적 차별`.
+
+**영어 참고:** *structural discrimination*, *structural inequality* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** chính trị của các nhóm thiểu số.
 
-**뉘앙스와 사용법:** 단순히 인구가 적은 집단을 뜻하지 않으며, 권력과 발언권의 비대칭을 함께 고려한다.
+**뉘앙스와 사용법:** Trong mục này, `소수자 정치` không chỉ mang nghĩa “chính trị của các nhóm thiểu số.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `소수자 정치의 부상`, `소수자 정치와 대표성`, `소수자 정치 세력`.
+**재사용 가능한 콜로케이션·청크:** `소수자 정치의 부상`, `소수자 정치와 대표성`, `소수자 정치 세력` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단이 소수자 정치를 조직하다`; 선거·권리·대표성·연대와 결합한다.
+**자주 쓰는 문형과 성분:** `집단이 소수자 정치를 조직하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치학·사회운동·인권정책의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 소수자 정치는 복지 수혜를 넘어 의사결정 과정에 참여할 권리를 요구한다.
 
-**어휘 연결:** `소수집단` là mô tả dân số; `소수자 정치` nhấn mạnh hành động chính trị, đại diện và quyền lực của nhóm đó.
+**Dịch:** Chính trị của nhóm thiểu số yêu cầu quyền tham gia vào quá trình ra quyết định, vượt ra ngoài việc chỉ nhận phúc lợi.
 
-**영어 참고:** *minority politics* — hoạt động chính trị của các nhóm có vị trí thiểu số hoặc bị gạt ra ngoài quyền lực.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `소수자 정치`.
+
+**영어 참고:** *minority politics* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** quá trình trở thành vấn đề/quyền công dân.
 
-**뉘앙스와 사용법:** 체류 허가나 국적 취득만이 아니라 돌봄·이주·장애·환경 문제를 시민권과 공공의 권리 문제로 재구성한다.
+**뉘앙스와 사용법:** Trong mục này, `시민권화` không chỉ mang nghĩa “quá trình trở thành vấn đề/quyền công dân.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `권리의 시민권화`, `시민권화 과정`, `문제의 시민권화`.
+**재사용 가능한 콜로케이션·청크:** `권리의 시민권화`, `시민권화 과정`, `문제의 시민권화` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `운동이 N을 시민권화하다`; 복지·이주·돌봄·인권과 결합한다.
+**자주 쓰는 문형과 성분:** `운동이 N을 시민권화하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치사회학·시민권 연구·사회운동의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 이주노동자 보호 요구가 시민권화되면서 노동권이 국적과 무관한 공적 권리로 논의됐다.
 
-**어휘 연결:** `시민권 취득` là取得 quốc tịch hoặc status pháp lý; `시민권화` là quá trình biến một vấn đề thành yêu cầu về quyền và bình đẳng công dân.
+**Dịch:** Khi yêu cầu bảo vệ lao động di cư được công dân hóa, quyền lao động được thảo luận như quyền công cộng không phụ thuộc quốc tịch.
 
-**영어 참고:** *citizenshipization*, *claim-making as citizenship* — quá trình yêu cầu hoặc mở rộng quyền công dân trong thực tế xã hội.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `시민권화`.
+
+**영어 참고:** *citizenshipization*, *claim-making as citizenship* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** quyền công dân về văn hóa.
 
-**뉘앙스와 사용법:** 법적 국적만이 아니라 문화적 차이를 지우지 않고 공공 공간에서 대표·참여·향유할 수 있는 권리를 강조한다.
+**뉘앙스와 사용법:** Trong mục này, `문화적 시민권` không chỉ mang nghĩa “quyền công dân về văn hóa.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `문화적 시민권 보장`, `문화적 시민권의 확대`, `문화적 시민권 정책`.
+**재사용 가능한 콜로케이션·청크:** `문화적 시민권 보장`, `문화적 시민권의 확대`, `문화적 시민권 정책` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정책이 문화적 시민권을 보장하다`; 언어·교육·문화시설·이주민과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 문화적 시민권을 보장하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화정책·다문화주의·인권 담화의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 공공도서관의 다언어 서비스는 이주민의 문화적 시민권을 실질적으로 넓힐 수 있다.
 
-**어휘 연결:** `문화향유권` là quyền tiếp cận và thưởng thức văn hóa; `문화적 시민권` rộng hơn, bao gồm đại diện, ngôn ngữ và quyền tham gia định hình đời sống văn hóa.
+**Dịch:** Dịch vụ đa ngôn ngữ của thư viện công có thể mở rộng thực chất quyền công dân về văn hóa của người di cư.
 
-**영어 참고:** *cultural citizenship* — quyền được tham gia, đại diện và được công nhận trong đời sống văn hóa công.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `문화적 시민권`.
+
+**영어 참고:** *cultural citizenship* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** chính trị bản sắc.
 
-**뉘앙스와 사용법:** 집단의 경험을 공적 의제로 드러내는 힘이 있지만, 집단 경계를 고정하거나 다른 요구를 배제할 위험도 함께 논의한다.
+**뉘앙스와 사용법:** Trong mục này, `정체성 정치` không chỉ mang nghĩa “chính trị bản sắc.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `정체성 정치의 부상`, `정체성 정치와 계급`, `정체성 정치를 비판하다`.
+**재사용 가능한 콜로케이션·청크:** `정체성 정치의 부상`, `정체성 정치와 계급`, `정체성 정치를 비판하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `운동이 정체성 정치를 전개하다`; 대표성·차별·연대·선거와 결합한다.
+**자주 쓰는 문형과 성분:** `운동이 정체성 정치를 전개하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치학·문화비평·사회운동의 분석어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 정체성 정치는 보이지 않던 차별을 드러내지만 공동의 사회정책을 어렵게 만들 수도 있다.
 
-**어휘 연결:** `집단정치` là chính trị của nhóm nói chung; `정체성 정치` dựa trên kinh nghiệm và vị trí bản sắc, thường tranh luận cùng với giai cấp và liên minh.
+**Dịch:** Chính trị bản sắc làm lộ ra phân biệt đối xử vốn vô hình nhưng cũng có thể khiến chính sách xã hội chung khó xây dựng hơn.
 
-**영어 참고:** *identity politics* — chính trị tổ chức quanh bản sắc xã hội và trải nghiệm bất bình đẳng.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `정체성 정치`.
+
+**영어 참고:** *identity politics* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** mạng lưới xuyên quốc gia.
 
-**뉘앙스와 사용법:** 국제기구처럼 공식 조직만이 아니라 가족 송금, 디아스포라, 온라인 운동 같은 비공식 연결도 포함한다.
+**뉘앙스와 사용법:** Trong mục này, `초국적 네트워크` không chỉ mang nghĩa “mạng lưới xuyên quốc gia.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `초국적 네트워크를 구축하다`, `이주민 초국적 네트워크`, `초국적 네트워크의 확장`.
+**재사용 가능한 콜로케이션·청크:** `초국적 네트워크를 구축하다`, `이주민 초국적 네트워크`, `초국적 네트워크의 확장` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단이 초국적 네트워크를 통해 N하다`; 이주·송금·시민운동·문화와 결합한다.
+**자주 쓰는 문형과 성분:** `집단이 초국적 네트워크를 통해 N하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 이주연구·국제사회학·디지털 시민사회의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 이주민 단체는 초국적 네트워크를 활용해 본국과 정착국의 권리 문제를 함께 제기했다.
 
-**어휘 연결:** `국제관계` là quan hệ giữa nhà nước; `초국적 네트워크` nhấn mạnh các chủ thể và quan hệ vượt biên giới không nhất thiết do quốc gia điều khiển.
+**Dịch:** Các tổ chức người di cư đã tận dụng mạng lưới xuyên quốc gia để đồng thời nêu vấn đề quyền lợi ở quê hương và nước định cư.
 
-**영어 참고:** *transnational network* — mạng lưới xã hội, tổ chức hoặc kinh tế hoạt động qua nhiều quốc gia.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `초국적 네트워크`.
+
+**영어 참고:** *transnational network* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** khoảng cách về quyền công dân.
 
-**뉘앙스와 사용법:** 법 조항의 평등만으로 가려지는 행정 접근성·소득·언어·차별의 차이를 분석한다.
+**뉘앙스와 사용법:** Trong mục này, `시민권 격차` không chỉ mang nghĩa “khoảng cách về quyền công dân.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `시민권 격차를 줄이다`, `시민권 격차의 원인`, `지역별 시민권 격차`.
+**재사용 가능한 콜로케이션·청크:** `시민권 격차를 줄이다`, `시민권 격차의 원인`, `지역별 시민권 격차` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단 사이에 시민권 격차가 나타나다`; 투표·복지·교육·사법접근과 결합한다.
+**자주 쓰는 문형과 성분:** `집단 사이에 시민권 격차가 나타나다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 시민권 연구·사회정책·행정평가의 분석어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 디지털 신청만 허용하면 고령층과 이주민의 시민권 격차가 커질 수 있다.
 
-**어휘 연결:** `소득격차` chỉ chênh lệch thu nhập; `시민권 격차` chỉ chênh lệch trong khả năng thực hiện quyền và tiếp cận thể chế công.
+**Dịch:** Nếu chỉ cho phép nộp đơn trực tuyến, khoảng cách quyền công dân của người cao tuổi và người di cư có thể tăng lên.
 
-**영어 참고:** *citizenship gap*, *civic inequality* — khác biệt giữa các nhóm trong việc thực thi quyền và tham gia đời sống công.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `시민권 격차`.
+
+**영어 참고:** *citizenship gap*, *civic inequality* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** tính công dân đa văn hóa.
 
-**뉘앙스와 사용법:** 소수자가 다수 문화에 동화되는 것만을 요구하지 않고, 공통 규칙과 차이의 존중을 함께 설계한다.
+**뉘앙스와 사용법:** Trong mục này, `다문화 시민성` không chỉ mang nghĩa “tính công dân đa văn hóa.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `다문화 시민성 교육`, `다문화 시민성의 형성`, `다문화 시민성을 실천하다`.
+**재사용 가능한 콜로케이션·청크:** `다문화 시민성 교육`, `다문화 시민성의 형성`, `다문화 시민성을 실천하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `학교가 다문화 시민성을 기르다`; 교육·지역사회·언어·참여와 결합한다.
+**자주 쓰는 문형과 성분:** `학교가 다문화 시민성을 기르다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 다문화정책·시민교육·이주사회 연구의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 다문화 시민성은 서로 다른 문화를 구경하는 태도보다 공동 의사결정에 참여하는 능력을 요구한다.
 
-**어휘 연결:** `동화주의` buộc nhóm thiểu số hòa vào văn hóa chính; `다문화 시민성` tìm cách cùng sống với khác biệt và chia sẻ trách nhiệm công.
+**Dịch:** Tính công dân đa văn hóa đòi hỏi năng lực tham gia vào quyết định chung, chứ không chỉ thái độ đứng xem các nền văn hóa khác nhau.
 
-**영어 참고:** *multicultural citizenship* — 시민권과 공동 책임을 문화적 다양성 속에서 재구성하는 개념.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `다문화 시민성`.
+
+**영어 참고:** *multicultural citizenship* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** sự công nhận xã hội.
 
-**뉘앙스와 사용법:** 칭찬이나 인기가 아니라 권리·존엄·참여 자격이 동등하게 인정되는지를 묻는 개념이다.
+**뉘앙스와 사용법:** Trong mục này, `사회적 인정` không chỉ mang nghĩa “sự công nhận xã hội.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사회적 인정을 받다`, `사회적 인정의 결핍`, `인정의 기준`.
+**재사용 가능한 콜로케이션·청크:** `사회적 인정을 받다`, `사회적 인정의 결핍`, `인정의 기준` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단이 사회적 인정을 요구하다`; 노동·돌봄·장애·이주와 결합한다.
+**자주 쓰는 문형과 성분:** `집단이 사회적 인정을 요구하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회철학·복지·노동·정체성 연구의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 돌봄 노동의 사회적 인정이 낮으면 필수적인 일이 주변화되기 쉽다.
 
-**어휘 연결:** `존중` là thái độ cá nhân; `사회적 인정` bao gồm cả sự công nhận được thể chế hóa trong quyền, tiền lương và đại diện.
+**Dịch:** Nếu sự công nhận xã hội đối với lao động chăm sóc thấp, công việc thiết yếu này dễ bị đẩy ra bên lề.
 
-**영어 참고:** *social recognition*, *social esteem* — sự công nhận về phẩm giá, đóng góp và tư cách tham gia xã hội.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `사회적 인정`.
+
+**영어 참고:** *social recognition*, *social esteem* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** ranh giới biểu tượng.
 
-**뉘앙스와 사용법:** 법적으로 닫힌 경계가 아니어도 말투·복장·취향·교육 수준 같은 기준이 소속과 배제를 만들어 낼 수 있다.
+**뉘앙스와 사용법:** Trong mục này, `상징적 경계` không chỉ mang nghĩa “ranh giới biểu tượng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `상징적 경계를 긋다`, `상징적 경계가 흐려지다`, `계층적 상징적 경계`.
+**재사용 가능한 콜로케이션·청크:** `상징적 경계를 긋다`, `상징적 경계가 흐려지다`, `계층적 상징적 경계` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집단이 상징적 경계를 만들다`; 계층·문화자본·취향·소속과 결합한다.
+**자주 쓰는 문형과 성분:** `집단이 상징적 경계를 만들다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화사회학·계층연구·소비문화 비평의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 특정 카페의 복장 규칙은 공식 입장료가 없어도 상징적 경계를 만들 수 있다.
 
-**어휘 연결:** `사회적 경계` rộng hơn; `상징적 경계` tập trung vào dấu hiệu văn hóa và cách phân loại khiến người ta cảm thấy thuộc hoặc không thuộc.
+**Dịch:** Quy định về trang phục của một quán cà phê cụ thể có thể tạo ra ranh giới biểu tượng dù không có phí vào cửa chính thức.
 
-**영어 참고:** *symbolic boundary* — ranh giới văn hóa dùng để phân loại con người, nhóm và lối sống.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `상징적 경계`.
+
+**영어 참고:** *symbolic boundary* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** sự thiếu tính đại diện.
 
-**뉘앙스와 사용법:** 한 명의 상징적 인물을 세우는 것만으로 해결되지 않으며, 의제 설정·권한·지속적인 참여까지 포함해 판단한다.
+**뉘앙스와 사용법:** Trong mục này, `대표성 결핍` không chỉ mang nghĩa “sự thiếu tính đại diện.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `대표성 결핍을 해소하다`, `정치적 대표성 결핍`, `미디어 대표성 결핍`.
+**재사용 가능한 콜로케이션·청크:** `대표성 결핍을 해소하다`, `정치적 대표성 결핍`, `미디어 대표성 결핍` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N에서 대표성 결핍이 드러나다`; 여성·장애·이주·소수언어와 결합한다.
+**자주 쓰는 문형과 성분:** `N에서 대표성 결핍이 드러나다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어·정치·조직 다양성·인권정책의 공식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 자문위원회에서 청년과 이주민의 대표성 결핍이 뚜렷하게 나타났다.
 
-**어휘 연결:** `대표성` là mức độ một nhóm được phản ánh; `대표성 결핍` nhấn mạnh khoảng trống mang tính cơ cấu chứ không phải chỉ thiếu một cá nhân.
+**Dịch:** Sự thiếu đại diện của thanh niên và người di cư trong hội đồng cố vấn đã bộc lộ rõ.
 
-**영어 참고:** *representational deficit*, *underrepresentation* — một nhóm xuất hiện hoặc có tiếng nói ít hơn mức tương xứng.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `대표성 결핍`.
+
+**영어 참고:** *representational deficit*, *underrepresentation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 

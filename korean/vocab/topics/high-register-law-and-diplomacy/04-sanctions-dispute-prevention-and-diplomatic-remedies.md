@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** quyền miễn trừ quốc gia.
 
-**뉘앙스와 사용법:** 국가의 주권 평등에서 출발하지만 상업적 행위나 국제협정에 따라 제한될 수 있어 범위를 구분해야 한다.
+**뉘앙스와 사용법:** Nó bắt đầu từ chủ quyền và sự bình đẳng quốc gia nhưng có thể bị giới hạn bởi các hoạt động thương mại hoặc các hiệp định quốc tế nên phải phân biệt rõ phạm vi.
 
-**재사용 가능한 콜로케이션·청크:** `국가면제를 주장하다`, `국가면제의 범위`, `국가면제 예외`.
+**재사용 가능한 콜로케이션·청크:** `국가면제를 주장하다`, `국가면제의 범위`, `국가면제 예외`. — `Yêu cầu quyền miễn trừ cấp bang`, `phạm vi miễn trừ cấp bang`, `các trường hợp ngoại lệ đối với quyền miễn trừ cấp bang`.
 
-**자주 쓰는 문형과 성분:** `국가가 국가면제를 원용하다`; 외국 법원·주권·상업행위·집행과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 국가면제를 원용하다`, `Nhà nước yêu cầu quyền miễn trừ nhà nước` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·외교·국가소송의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ luật pháp quốc tế, ngoại giao và kiện tụng cấp nhà nước.
 
 **예문:** 해당 국가는 공적 행위에 대해서는 국가면제가 인정되어야 한다고 주장했다.
 
-**어휘 연결:** `외교적 보호`는 자국민을 보호하는 국가의 조치이고, `국가면제`는 국가 자신이 다른 국가의 재판·집행에서 보호되는 원칙이다.
+**Dịch:** Quốc gia lập luận rằng quyền miễn trừ cấp nhà nước phải được công nhận đối với các hành vi chính thức.
 
-**영어 참고:** *state immunity*, *sovereign immunity* — 국가가 외국 법원의 관할과 집행에서 면제되는 원칙.
+**어휘 연결:** `외교적 보호`는 자국민을 보호하는 국가의 조치이고, `국가면제`는 국가 자신이 다른 국가의 재판·집행에서 보호되는 원칙이다. — 'Bảo vệ ngoại giao' là biện pháp của tiểu bang để bảo vệ công dân của mình và 'miễn trừ tiểu bang' là nguyên tắc mà chính tiểu bang đó được bảo vệ khỏi các cuộc xét xử và hành quyết bởi các tiểu bang khác.
+
+**영어 참고:** *state immunity*, *sovereign immunity* — Nguyên tắc một tiểu bang được miễn trừ khỏi thẩm quyền xét xử và thi hành của tòa án nước ngoài.
 
 ---
 
@@ -38,17 +40,19 @@
 
 **베트남어 뜻:** nguyên tắc có đi có lại.
 
-**뉘앙스와 사용법:** 협력과 압박을 동시에 설명한다. 상대의 조치에 맞춰 동일하거나 대응하는 조치를 취한다는 뜻이지 항상 보복을 의미하지는 않는다.
+**뉘앙스와 사용법:** Giải thích đồng thời sự hợp tác và áp lực. Nó có nghĩa là thực hiện hành động tương tự hoặc tương ứng với hành động của người khác và không phải lúc nào cũng có nghĩa là trả đũa.
 
-**재사용 가능한 콜로케이션·청크:** `상호주의 원칙`, `상호주의에 따라 대우하다`, `상호주의를 적용하다`.
+**재사용 가능한 콜로케이션·청크:** `상호주의 원칙`, `상호주의에 따라 대우하다`, `상호주의를 적용하다`. — `Nguyên tắc có đi có lại`, `Đối xử theo nguyên tắc có đi có lại`, `Áp dụng có đi có lại`.
 
-**자주 쓰는 문형과 성분:** `국가가 상호주의를 근거로 N하다`; 비자·통상·외교특권·재판협력과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 상호주의를 근거로 N하다`, `Trạng thái N dựa trên sự có đi có lại` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·통상·국제법의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của ngoại giao, thương mại và luật pháp quốc tế.
 
 **예문:** 양국은 비자 발급에서 상호주의 원칙을 적용하기로 합의했다.
 
-**어휘 연결:** `보복` là đáp trả với mục đích trừng phạt; `상호주의` có thể là cơ chế cân bằng và hợp tác bình thường, không nhất thiết mang tính thù địch.
+**Dịch:** Hai nước nhất trí áp dụng nguyên tắc có đi có lại trong việc cấp thị thực.
+
+**어휘 연결:** `보복` là đáp trả với mục đích trừng phạt; `상호주의` có thể là cơ chế cân bằng và hợp tác bình thường, không nhất thiết mang tính thù địch. — `Retaliation` là câu trả lời cho mục tiêu trừng phạt; 'Có đi có lại' là một điều phổ biến.
 
 **영어 참고:** *reciprocity*, *principle of reciprocity* — đối xử tương ứng giữa các quốc gia.
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** quy phạm bắt buộc tuyệt đối của luật quốc tế.
 
-**뉘앙스와 사용법:** 일반적인 조약 규정과 달리 국제사회 전체가 인정하는 기본 가치에 해당하며, 이를 위반한 합의는 효력을 인정받기 어렵다.
+**뉘앙스와 사용법:** Không giống như các điều khoản chung của hiệp ước, đó là giá trị cơ bản được toàn bộ cộng đồng quốc tế công nhận và các thỏa thuận vi phạm điều này khó được công nhận là có hiệu lực.
 
-**재사용 가능한 콜로케이션·청크:** `강행규범 위반`, `강행규범의 성격`, `국제법상 강행규범`.
+**재사용 가능한 콜로케이션·청크:** `강행규범 위반`, `강행규범의 성격`, `국제법상 강행규범`. — ‘Vi phạm jus cogens’, ‘Bản chất của jus cogens’, ‘Jus cogens theo luật pháp quốc tế’.
 
-**자주 쓰는 문형과 성분:** `N이 강행규범에 반하다`; 집단살해·고문·노예제·침략과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 강행규범에 반하다`, `N chống lại jus cogens` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·인권·국제형사법의 최고 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật tốt nhất cho luật pháp quốc tế, nhân quyền và luật hình sự quốc tế.
 
 **예문:** 고문 금지는 국가 간 협정으로 배제할 수 없는 강행규범으로 논의된다.
 
-**어휘 연결:** `국제 규범` là chuẩn mực quốc tế nói chung; `강행규범` là tầng đặc biệt mạnh, không thể loại bỏ bằng thỏa thuận.
+**Dịch:** Việc cấm tra tấn được thảo luận như một quy tắc jus cogens không thể bị loại trừ bởi các thỏa thuận giữa các quốc gia.
 
-**영어 참고:** *peremptory norm*, *jus cogens* — chuẩn mực cơ bản của luật quốc tế mà các quốc gia không được thỏa thuận loại bỏ.
+**어휘 연결:** `국제 규범` là chuẩn mực quốc tế nói chung; `강행규범` là tầng đặc biệt mạnh, không thể loại bỏ bằng thỏa thuận. — `Quy chuẩn quốc tế` là chuẩn mực quốc tế nói chung; `Jus cogens' là tầng đặc biệt mạnh, không thể bỏ bằng lòng.
+
+**영어 참고:** *peremptory norm*, *jus cogens* — chuẩn mực cơ bản của luật quốc tế mà các quốc gia không được tán thành loại bỏ.
 
 ---
 
@@ -88,17 +94,19 @@
 
 **베트남어 뜻:** bảo lưu điều ước.
 
-**뉘앙스와 사용법:** 조약 참여를 넓히는 기능이 있지만 조약의 목적·취지를 훼손하는 유보는 다른 국가가 이의를 제기할 수 있다.
+**뉘앙스와 사용법:** Mặc dù nó có chức năng mở rộng sự tham gia vào hiệp ước, nhưng những bảo lưu làm suy yếu mục đích và mục đích của hiệp ước có thể bị các quốc gia khác phản đối.
 
-**재사용 가능한 콜로케이션·청크:** `조약유보를 제기하다`, `유보 조항`, `조약유보의 허용성`.
+**재사용 가능한 콜로케이션·청크:** `조약유보를 제기하다`, `유보 조항`, `조약유보의 허용성`. — `Đưa ra bảo lưu đối với một hiệp ước`, `Điều khoản bảo lưu`, `Cho phép bảo lưu đối với một hiệp ước`.
 
-**자주 쓰는 문형과 성분:** `국가가 N에 조약유보를 하다`; 비준·가입·이의제기·조약 해석과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 N에 조약유보를 하다`, `Nhà nước đưa ra bảo lưu hiệp ước đối với N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 조약법·외교·국제기구의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ luật hiệp ước, ngoại giao và các tổ chức quốc tế.
 
 **예문:** 국가는 인권협약에 가입했지만 일부 조항에 조약유보를 붙였다.
 
-**어휘 연결:** `유보` là giữ lại hoặc chưa quyết định nói chung; `조약유보` là tuyên bố pháp lý chính thức nhằm giới hạn hiệu lực của điều khoản đối với quốc gia đó.
+**Dịch:** Quốc gia này đã tham gia công ước nhân quyền nhưng đã bổ sung thêm các bảo lưu hiệp ước vào một số điều khoản.
+
+**어휘 연결:** `유보` là giữ lại hoặc chưa quyết định nói chung; `조약유보` là tuyên bố pháp lý chính thức nhằm giới hạn hiệu lực của điều khoản đối với quốc gia đó. — `Reservation` đang được giữ lại hoặc chưa được quyết định nói chung; ``Bảo lưu hiệp ước` là tuyên bố pháp lý chính thức nhằm giới hạn hiệu lực của điều khoản đối với quốc gia đó.
 
 **영어 참고:** *treaty reservation* — tuyên bố đơn phương giới hạn hoặc loại trừ hiệu lực pháp lý của một số điều khoản.
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** bảo hộ ngoại giao.
 
-**뉘앙스와 사용법:** 개인의 권리를 국가가 자동으로 대신 소송한다는 뜻은 아니며, 국내 구제 절차와 국가의 재량이 문제 된다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là tiểu bang tự động khởi kiện các quyền cá nhân thay mặt cho cá nhân đó và các thủ tục hỗ trợ trong nước cũng như quyền tự quyết định của tiểu bang là vấn đề.
 
-**재사용 가능한 콜로케이션·청크:** `외교적 보호를 행사하다`, `외교적 보호의 요건`, `자국민에 대한 외교적 보호`.
+**재사용 가능한 콜로케이션·청크:** `외교적 보호를 행사하다`, `외교적 보호의 요건`, `자국민에 대한 외교적 보호`. — `Thực hiện bảo vệ ngoại giao`, `Yêu cầu bảo vệ ngoại giao`, `Bảo vệ ngoại giao công dân`.
 
-**자주 쓰는 문형과 성분:** `국가가 국민에게 외교적 보호를 제공하다`; 국적·손해·국내구제·분쟁과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 국민에게 외교적 보호를 제공하다`, `Nhà nước cung cấp sự bảo vệ ngoại giao cho công dân của mình` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 영사·국제분쟁·국제법의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ lãnh sự, tranh chấp quốc tế và luật pháp quốc tế.
 
 **예문:** 정부는 피해 기업의 국내 구제 절차가 끝난 뒤 외교적 보호 가능성을 검토했다.
 
-**어휘 연결:** `영사 조력` là hỗ trợ lãnh sự trong sự vụ cụ thể; `외교적 보호` là hành động cấp nhà nước nhằm nêu trách nhiệm quốc tế của nước khác.
+**Dịch:** Chính phủ đã xem xét khả năng bảo vệ ngoại giao sau khi hoàn tất quá trình giải cứu trong nước đối với công ty bị ảnh hưởng.
 
-**영어 참고:** *diplomatic protection* — quốc gia đưa yêu cầu quốc tế để bảo vệ quyền của công dân hoặc pháp nhân của mình.
+**어휘 연결:** `영사 조력` là hỗ trợ lãnh sự trong sự vụ cụ thể; `외교적 보호` là hành động cấp nhà nước nhằm nêu trách nhiệm quốc tế của nước khác. — `Hỗ trợ lãnh sự` là sự hỗ trợ được hỗ trợ trong dịch vụ cụ thể; `Bảo vệ ngoại giao` là rất quan trọng.
+
+**영어 참고:** *diplomatic protection* — quốc gia đưa ra yêu cầu quốc tế để bảo vệ quyền lợi của công dân hoặc pháp nhân của mình.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** trách nhiệm hình sự quốc tế.
 
-**뉘앙스와 사용법:** 국가의 국제책임과 구별되며, 지시한 지도자나 직접 실행한 개인의 책임을 묻는 개념이다.
+**뉘앙스와 사용법:** Nó khác với trách nhiệm quốc tế của một quốc gia và là một khái niệm quy trách nhiệm cho người đứng đầu ra lệnh hoặc cá nhân trực tiếp thực hiện nó.
 
-**재사용 가능한 콜로케이션·청크:** `국제형사책임을 묻다`, `개인의 국제형사책임`, `국제형사책임의 성립`.
+**재사용 가능한 콜로케이션·청크:** `국제형사책임을 묻다`, `개인의 국제형사책임`, `국제형사책임의 성립`. — `Yêu cầu trách nhiệm hình sự quốc tế`, `Trách nhiệm hình sự quốc tế cá nhân`, `Thiết lập trách nhiệm hình sự quốc tế`.
 
-**자주 쓰는 문형과 성분:** `N이 국제형사책임을 부담하다`; 지휘책임·전쟁범죄·국제형사재판소와 결합한다.
+**자주 쓰는 문형과 성분:** `N이 국제형사책임을 부담하다`, `N chịu trách nhiệm hình sự quốc tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제형사법·인권·분쟁 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật hình sự quốc tế, nhân quyền và báo cáo xung đột.
 
 **예문:** 지휘관이 범죄를 알고도 막지 않았다면 국제형사책임이 쟁점이 될 수 있다.
 
-**어휘 연결:** `국가책임` là trách nhiệm của nhà nước; `국제형사책임` tập trung vào cá nhân và hình phạt hình sự cho tội phạm quốc tế.
+**Dịch:** Nếu người chỉ huy biết về tội phạm nhưng không ngăn chặn nó thì trách nhiệm hình sự quốc tế có thể trở thành vấn đề.
 
-**영어 참고:** *international criminal responsibility* — trách nhiệm hình sự của cá nhân đối với tội phạm quốc tế nghiêm trọng.
+**어휘 연결:** `국가책임` là trách nhiệm của nhà nước; `국제형사책임` tập trung vào cá nhân và hình phạt hình sự cho tội phạm quốc tế. — `Trách nhiệm nhà nước` là trách nhiệm của nhà nước; `Trách nhiệm hình sự quốc tế` là rất quan trọng.
+
+**영어 참고:** *international criminal responsibility* — Đúng vậy.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** biện pháp trả đũa, biện pháp đáp trả.
 
-**뉘앙스와 사용법:** 정치적 표현이며, 국제법상 허용되는 대응인지 불법적인 보복인지에 따라 정당성 평가가 달라진다.
+**뉘앙스와 사용법:** Đó là một biểu hiện chính trị và việc đánh giá tính hợp pháp của nó khác nhau tùy thuộc vào việc liệu đó có phải là phản hồi được chấp nhận theo luật pháp quốc tế hay là hành động trả đũa bất hợp pháp.
 
-**재사용 가능한 콜로케이션·청크:** `보복조치를 취하다`, `보복조치를 예고하다`, `상응하는 보복조치`.
+**재사용 가능한 콜로케이션·청크:** `보복조치를 취하다`, `보복조치를 예고하다`, `상응하는 보복조치`. — 'Thực hiện các biện pháp trả đũa', 'Báo trước các biện pháp trả đũa', 'Các biện pháp trả đũa tương ứng'.
 
-**자주 쓰는 문형과 성분:** `국가가 N에 보복조치를 취하다`; 관세·제재·수출제한·군사적 긴장과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 N에 보복조치를 취하다`, `Nhà nước thực hiện các biện pháp trả đũa N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·통상·안보 뉴스의 강한 표현이다.
+**사회적 관계·주제별 register:** Thể hiện mạnh mẽ tin tức ngoại giao, thương mại và an ninh.
 
 **예문:** 양국은 추가 관세를 보복조치로 규정하며 협상 중단을 경고했다.
 
-**어휘 연결:** `대응조치` là từ trung tính; `보복조치` chứa ý trả đũa và có thể làm căng thẳng leo thang.
+**Dịch:** Cả hai quốc gia đều xác định mức thuế bổ sung là biện pháp trả đũa và cảnh báo ngừng đàm phán.
 
-**영어 참고:** *retaliatory measure*, *reprisal* — biện pháp đáp trả nhằm gây chi phí cho hành động bị xem là vi phạm.
+**어휘 연결:** `대응조치` là từ trung tính; `보복조치` chứa ý trả đũa và có thể làm căng thẳng leo thang. — `Các biện pháp ứng phó` là từ trung tính; `Hành động trả đũa` Có thể thực hiện các biện pháp trả đũa không?
+
+**영어 참고:** *retaliatory measure*, *reprisal* — biện pháp trả lời gây ra chi phí cho hành động bị xem là vi phạm.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** áp dụng ngoài lãnh thổ.
 
-**뉘앙스와 사용법:** 자국 시장 접근이나 금융망을 지렛대로 삼을 수 있지만 주권 침해와 관할권 충돌 논란을 낳는다.
+**뉘앙스와 사용법:** Việc tiếp cận thị trường trong nước hoặc mạng lưới tài chính có thể được sử dụng làm đòn bẩy nhưng nó gây ra tranh cãi về vi phạm chủ quyền và xung đột quyền tài phán.
 
-**재사용 가능한 콜로케이션·청크:** `규제의 역외 적용`, `역외 적용 조항`, `역외 적용을 둘러싼 갈등`.
+**재사용 가능한 콜로케이션·청크:** `규제의 역외 적용`, `역외 적용 조항`, `역외 적용을 둘러싼 갈등`. — `Việc áp dụng các quy định ngoài lãnh thổ`, `Các điều khoản áp dụng ngoài lãnh thổ`, `Xung đột trong việc áp dụng ngoài lãnh thổ`.
 
-**자주 쓰는 문형과 성분:** `법률이 역외 적용되다`; 제재·개인정보·경쟁법·금융거래와 결합한다.
+**자주 쓰는 문형과 성분:** `법률이 역외 적용되다`, `Luật áp dụng ngoài lãnh thổ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제통상·규제·경제안보의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ thương mại quốc tế, quy định và an ninh kinh tế.
 
 **예문:** 개인정보 규제의 역외 적용으로 해외 플랫폼도 현지 이용자 보호 의무를 부담하게 됐다.
 
-**어휘 연결:** `관할권` là quyền tài phán; `역외 적용` mô tả việc luật được áp dụng ra ngoài lãnh thổ, có thể gây tranh chấp về quyền tài phán.
+**Dịch:** Do việc áp dụng các quy định về thông tin cá nhân ngoài lãnh thổ, các nền tảng ở nước ngoài cũng có nghĩa vụ bảo vệ người dùng địa phương.
 
-**영어 참고:** *extraterritorial application*, *extraterritorial reach* — phạm vi áp dụng của luật vượt ra ngoài lãnh thổ ban hành.
+**어휘 연결:** `관할권` là quyền tài phán; `역외 적용` mô tả việc luật được áp dụng ra ngoài lãnh thổ, có thể gây tranh chấp về quyền tài phán. — `Quyền tài phán` là quyền tài phán; `Ứng dụng ngoài lãnh thổ` không phải là một lựa chọn.
+
+**영어 참고:** *extraterritorial application*, *extraterritorial reach* — phạm vi áp dụng luật ngoài lãnh thổ cấm hành động.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** cấm vận thứ cấp.
 
-**뉘앙스와 사용법:** 직접 제재보다 국제 거래망에 미치는 파급력이 크며, 동맹국에도 선택을 강요하는 수단이 될 수 있다.
+**뉘앙스와 사용법:** Nó có tác động lớn hơn đến mạng lưới thương mại quốc tế so với các biện pháp trừng phạt trực tiếp và có thể là một phương tiện buộc các đồng minh phải lựa chọn.
 
-**재사용 가능한 콜로케이션·청크:** `세컨더리 보이콧 위협`, `세컨더리 보이콧을 발동하다`, `세컨더리 보이콧 우려`.
+**재사용 가능한 콜로케이션·청크:** `세컨더리 보이콧 위협`, `세컨더리 보이콧을 발동하다`, `세컨더리 보이콧 우려`. — 'Mối đe dọa tẩy chay thứ cấp', 'Kêu gọi tẩy chay thứ cấp', 'Mối lo ngại về tẩy chay thứ cấp'.
 
-**자주 쓰는 문형과 성분:** `국가가 N에 세컨더리 보이콧을 적용하다`; 금융·수출통제·제재 회피와 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 N에 세컨더리 보이콧을 적용하다`, `Tiểu bang áp dụng tẩy chay thứ cấp đối với N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제안보·대외정책·금융제재 보도의 외래 전문어다.
+**사회적 관계·주제별 register:** Biệt ngữ nước ngoài để báo cáo về an ninh kinh tế, chính sách đối ngoại và trừng phạt tài chính.
 
 **예문:** 동맹국 기업들은 세컨더리 보이콧 위험 때문에 해당 시장과의 거래를 재검토했다.
 
-**어휘 연결:** `직접 제재` đánh vào đối tượng chính; `세컨더리 보이콧` gây áp lực lên bên thứ ba đang giao dịch với đối tượng đó.
+**Dịch:** Các công ty liên minh đã xem xét lại các giao dịch của họ với thị trường do nguy cơ bị tẩy chay thứ cấp.
 
-**영어 참고:** *secondary boycott*, *secondary sanctions* — trừng phạt bên thứ ba để buộc họ cắt quan hệ với đối tượng bị trừng phạt.
+**어휘 연결:** `직접 제재` đánh vào đối tượng chính; `세컨더리 보이콧` gây áp lực lên bên thứ ba đang giao dịch với đối tượng đó. — `Các biện pháp trừng phạt trực tiếp` đánh vào chính đối tượng; `Tẩy chay thứ cấp` không phải là vấn đề.
+
+**영어 참고:** *secondary boycott*, *secondary sanctions* — Đúng vậy, nó không tệ đến thế.
 
 ---
 
@@ -238,17 +256,19 @@
 
 **베트남어 뜻:** thực thi lệnh trừng phạt.
 
-**뉘앙스와 사용법:** 제재를 발표하는 것만이 아니라 대상 확인, 자산 동결, 거래 감시, 예외 관리까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm việc thông báo các biện pháp trừng phạt mà còn xác định mục tiêu, phong tỏa tài sản, giám sát giao dịch và quản lý các trường hợp ngoại lệ.
 
-**재사용 가능한 콜로케이션·청크:** `제재 이행 체계`, `제재 이행을 점검하다`, `제재 이행 보고서`.
+**재사용 가능한 콜로케이션·청크:** `제재 이행 체계`, `제재 이행을 점검하다`, `제재 이행 보고서`. — `Hệ thống thực hiện các biện pháp trừng phạt`, `Kiểm tra việc thực hiện các biện pháp trừng phạt`, `Báo cáo thực hiện các biện pháp trừng phạt`.
 
-**자주 쓰는 문형과 성분:** `정부가 제재를 이행하다`; 금융기관·수출통제·감시·예외허가와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 제재를 이행하다`, `Chính phủ thực hiện các biện pháp trừng phạt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·금융규제·국제안보의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của ngoại giao, quy định tài chính và an ninh quốc tế.
 
 **예문:** 제재 이행이 허술하면 불법 환적과 우회 거래가 반복될 수 있다.
 
-**어휘 연결:** `제재 결의` là quyết định/chủ trương áp đặt; `제재 이행` là toàn bộ bước đưa quyết định đó vào thực tế và kiểm tra tuân thủ.
+**Dịch:** Việc thực thi kém các lệnh trừng phạt có thể dẫn đến việc chuyển tải bất hợp pháp nhiều lần và các giao dịch vòng vo.
+
+**어휘 연결:** `제재 결의` là quyết định/chủ trương áp đặt; `제재 이행` là toàn bộ bước đưa quyết định đó vào thực tế và kiểm tra tuân thủ. — `Giải pháp xử phạt` được quyết định/áp dụng tài khoản chủ; `Thực hiện các biện pháp trừng phạt` là toàn bộ bước được đưa ra quyết định thực tế và kiểm tra dày thủ công.
 
 **영어 참고:** *sanctions implementation*, *enforcement of sanctions* — quá trình biến quyết định trừng phạt thành kiểm soát thực tế.
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** phòng ngừa xung đột.
 
-**뉘앙스와 사용법:** 전쟁이 난 뒤의 중재보다 긴장 고조를 조기에 감지하고 신뢰를 유지하는 데 초점을 둔다.
+**뉘앙스와 사용법:** Tập trung vào việc phát hiện sớm những căng thẳng gia tăng và duy trì lòng tin thay vì hòa giải sau khi chiến tranh nổ ra.
 
-**재사용 가능한 콜로케이션·청크:** `분쟁예방 외교`, `분쟁예방机制`, `분쟁예방 활동`.
+**재사용 가능한 콜로케이션·청크:** `분쟁예방 외교`, `분쟁예방机制`, `분쟁예방 활동`. — `Ngoại giao phòng ngừa xung đột`, `Chính sách phòng ngừa xung đột`, `Hoạt động phòng ngừa xung đột`.
 
-**자주 쓰는 문형과 성분:** `기구가 분쟁예방에 나서다`; 조기경보·대화·중재·지역안보와 결합한다.
+**자주 쓰는 문형과 성분:** `기구가 분쟁예방에 나서다`, `Tổ chức thực hiện hành động để ngăn chặn xung đột` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제기구·평화정책·안보외교의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của các tổ chức quốc tế, chính sách hòa bình và ngoại giao an ninh.
 
 **예문:** 국경 지역의 우발적 충돌을 막는 연락망은 분쟁예방의 실질적 수단이 될 수 있다.
 
-**어휘 연결:** `분쟁해결` là xử lý khi tranh chấp đã rõ; `분쟁예방` can thiệp sớm trước khi xung đột bùng phát, nên công cụ và thời điểm khác nhau.
+**Dịch:** Mạng liên lạc ngăn ngừa xung đột ngẫu nhiên ở khu vực biên giới có thể là phương tiện thực tế để ngăn ngừa xung đột.
 
-**영어 참고:** *conflict prevention*, *conflict prevention diplomacy* — ngăn xung đột leo thang trước khi trở thành bạo lực.
+**어휘 연결:** `분쟁해결` là xử lý khi tranh chấp đã rõ; `분쟁예방` can thiệp sớm trước khi xung đột bùng phát, nên công cụ và thời điểm khác nhau. — `Giải quyết tranh chấp` được xử lý khi đã xác định chấp nhận tranh chấp; `Phòng ngừa xung đột` có thể giúp bạn.
+
+**영어 참고:** *conflict prevention*, *conflict prevention diplomacy* — ngăn xung đột leo thang trước khi trở thành thành bạo lực.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** biện pháp xây dựng lòng tin.
 
-**뉘앙스와 사용법:** 곧바로 동맹이나 평화를 완성하는 것이 아니라 군사훈련 통보, 연락망, 정보 교환처럼 위험을 낮추는 단계적 조치다.
+**뉘앙스와 사용법:** Thay vì hoàn thành liên minh hoặc hòa bình ngay lập tức, đây là biện pháp từng bước để giảm thiểu rủi ro, chẳng hạn như thông báo về huấn luyện quân sự, mạng lưới liên lạc và trao đổi thông tin.
 
-**재사용 가능한 콜로케이션·청크:** `신뢰구축조치에 합의하다`, `군사적 신뢰구축조치`, `신뢰구축조치 이행`.
+**재사용 가능한 콜로케이션·청크:** `신뢰구축조치에 합의하다`, `군사적 신뢰구축조치`, `신뢰구축조치 이행`. — 'Thống nhất về các biện pháp xây dựng lòng tin', 'Các biện pháp xây dựng lòng tin về quân sự', 'Thực hiện các biện pháp xây dựng lòng tin'.
 
-**자주 쓰는 문형과 성분:** `당사국이 신뢰구축조치를 마련하다`; 군비통제·연락망·검증·투명성과 결합한다.
+**자주 쓰는 문형과 성분:** `당사국이 신뢰구축조치를 마련하다`, `Các bên chuẩn bị các biện pháp xây dựng lòng tin` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 안보외교·군비통제·평화협상의 전문어다.
+**사회적 관계·주제별 register:** Đây là biệt ngữ về ngoại giao an ninh, kiểm soát vũ khí và đàm phán hòa bình.
 
 **예문:** 양측은 대규모 훈련을 사전에 통보하는 신뢰구축조치부터 논의했다.
 
-**어휘 연결:** `신뢰 회복` là mục tiêu rộng về quan hệ; `신뢰구축조치` là các bước cụ thể, có thể kiểm chứng để giảm hiểu lầm và rủi ro.
+**Dịch:** Hai bên đã thảo luận về các biện pháp xây dựng lòng tin bao gồm việc cung cấp thông báo trước về hoạt động đào tạo quy mô lớn.
 
-**영어 참고:** *confidence-building measures*, *CBMs* — các bước minh bạch và liên lạc nhằm giảm nguy cơ xung đột ngoài ý muốn.
+**어휘 연결:** `신뢰 회복` là mục tiêu rộng về quan hệ; `신뢰구축조치` là các bước cụ thể, có thể kiểm chứng để giảm hiểu lầm và rủi ro. — `Khôi phục niềm tin` là mục tiêu rộng về quan hệ; `Các biện pháp xây dựng lòng tin` có thể được thực hiện dễ dàng.
+
+**영어 참고:** *confidence-building measures*, *CBMs* — các bước minh bạch và liên lạc nhắm giảm nguy cơ xung đột ngoài ý muốn.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** phản đối ngoại giao.
 
-**뉘앙스와 사용법:** 군사적 대응보다 낮은 단계의 공식 신호이며, 항의의 강도와 후속 조치는 별도로 판단한다.
+**뉘앙스와 사용법:** Tín hiệu chính thức ở cấp độ thấp hơn phản ứng quân sự và cường độ phản đối cũng như các hành động tiếp theo được đánh giá riêng biệt.
 
-**재사용 가능한 콜로케이션·청크:** `외교적 항의를 전달하다`, `강력한 외교적 항의`, `외교적 항의 성명`.
+**재사용 가능한 콜로케이션·청크:** `외교적 항의를 전달하다`, `강력한 외교적 항의`, `외교적 항의 성명`. — `Đưa ra phản đối ngoại giao`, `phản đối ngoại giao mạnh mẽ`, `tuyên bố phản đối ngoại giao`.
 
-**자주 쓰는 문형과 성분:** `정부가 상대국에 외교적 항의를 제기하다`; 영공 침범·영사 사건·역사 왜곡과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 상대국에 외교적 항의를 제기하다`, `Chính phủ gửi phản đối ngoại giao tới quốc gia khác` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교부 발표·국제뉴스·공식 성명의 정형어다.
+**사회적 관계·주제별 register:** Đây là khuôn mẫu cho các thông báo, tin tức quốc tế và tuyên bố chính thức của Bộ Ngoại giao.
 
 **예문:** 정부는 선박의 영해 침범에 대해 상대국에 외교적 항의를 전달했다.
 
-**어휘 연결:** `유감 표명` nhẹ hơn, thường thể hiện tiếc nuối; `외교적 항의` rõ ràng hơn về việc phản đối và yêu cầu giải thích/sửa chữa.
+**Dịch:** Chính phủ đã gửi phản đối ngoại giao tới quốc gia khác về việc tàu vi phạm lãnh hải của mình.
 
-**영어 참고:** *diplomatic protest*, *formal demarche* — phản đối chính thức giữa các chính phủ.
+**어휘 연결:** `유감 표명` nhẹ hơn, thường thể hiện tiếc nuối; `외교적 항의` rõ ràng hơn về việc phản đối và yêu cầu giải thích/sửa chữa. — `Biểu hiện tiếc nuối` nhẹ nhàng hơn, thường hiện tại tiếc nuối; `Phản đối ngoại giao` rõ ràng hơn về việc phản đối và yêu cầu giải thích/sửa chữa.
+
+**영어 참고:** *diplomatic protest*, *formal demarche* — Phản ánh biểu thức chính giữa các lớp phủ chính.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** biện pháp tạm thời.
 
-**뉘앙스와 사용법:** 본안의 최종 책임을 확정하는 판단과 달리 긴급한 손해를 막기 위한 임시적 성격을 가진다.
+**뉘앙스와 사용법:** Không giống như phán quyết xác định trách nhiệm cuối cùng của vụ việc chính, nó mang tính chất tạm thời nhằm ngăn ngừa thiệt hại khẩn cấp.
 
-**재사용 가능한 콜로케이션·청크:** `잠정조치를 신청하다`, `잠정조치 명령`, `잠정조치의 필요성`.
+**재사용 가능한 콜로케이션·청크:** `잠정조치를 신청하다`, `잠정조치 명령`, `잠정조치의 필요성`. — `Đơn xin áp dụng các biện pháp tạm thời`, `Lệnh áp dụng các biện pháp tạm thời`, `Sự cần thiết của các biện pháp tạm thời`.
 
-**자주 쓰는 문형과 성분:** `재판소가 잠정조치를 명하다`; 국제재판·환경피해·무력충돌·증거보전과 결합한다.
+**자주 쓰는 문형과 성분:** `재판소가 잠정조치를 명하다`, `Tòa án ra lệnh cho các biện pháp tạm thời` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제재판·중재·민사소송의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho các phiên tòa quốc tế, trọng tài và kiện tụng dân sự.
 
 **예문:** 재판소는 환경 피해가 회복 불가능해질 수 있다며 잠정조치를 명했다.
 
-**어휘 연결:** `가처분` là biện pháp tạm thời trong hệ thống pháp luật quốc gia; `잠정조치` thường dùng trong tranh chấp quốc tế và có mục đích bảo toàn quyền/hiện trạng.
+**Dịch:** Tòa án đã ra lệnh áp dụng các biện pháp tạm thời, cho biết thiệt hại về môi trường có thể trở nên không thể khắc phục được.
 
-**영어 참고:** *provisional measures*, *interim measures* — mệnh lệnh tạm thời trước quyết định cuối cùng.
+**어휘 연결:** `가처분` là biện pháp tạm thời trong hệ thống pháp luật quốc gia; `잠정조치` thường dùng trong tranh chấp quốc tế và có mục đích bảo toàn quyền/hiện trạng. — `Lệnh tạm thời` là biện pháp tạm thời trong hệ thống luật pháp quốc gia; `Các biện pháp tạm thời` thường được sử dụng trong các cuộc tranh chấp quốc tế và có mục tiêu được bảo đảm an toàn/hiện tại.
+
+**영어 참고:** *provisional measures*, *interim measures* — Đúng vậy.
 
 ---
 
@@ -363,17 +391,19 @@
 
 **베트남어 뜻:** nghĩa vụ theo luật quốc tế.
 
-**뉘앙스와 사용법:** 정치적 약속이나 예의상의 기대보다 위반 시 국제책임과 분쟁 절차가 문제 될 수 있는 법적 의무를 뜻한다.
+**뉘앙스와 사용법:** Thay vì lời hứa chính trị hoặc kỳ vọng lịch sự, nó đề cập đến nghĩa vụ pháp lý mà nếu bị vi phạm có thể dẫn đến các vấn đề về trách nhiệm pháp lý quốc tế và thủ tục tranh chấp.
 
-**재사용 가능한 콜로케이션·청크:** `국제법상 의무를 이행하다`, `국제법상 의무 위반`, `국제법상 의무의 범위`.
+**재사용 가능한 콜로케이션·청크:** `국제법상 의무를 이행하다`, `국제법상 의무 위반`, `국제법상 의무의 범위`. — `Thực hiện nghĩa vụ theo luật quốc tế`, `Vi phạm nghĩa vụ theo luật quốc tế`, `Phạm vi nghĩa vụ theo luật quốc tế`.
 
-**자주 쓰는 문형과 성분:** `국가가 국제법상 의무를 부담하다`; 조약·관습법·책임·이행과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 국제법상 의무를 부담하다`, `Nhà nước chịu trách nhiệm theo luật pháp quốc tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·외교·국제기구의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của luật pháp quốc tế, ngoại giao và các tổ chức quốc tế.
 
 **예문:** 국가는 조약 당사국으로서 민간인 보호라는 국제법상 의무를 부담한다.
 
-**어휘 연결:** `국제적 약속` có thể mang tính chính trị; `국제법상 의무` xác định nghĩa vụ có cơ sở pháp lý và hậu quả khi vi phạm.
+**Dịch:** Là một bên tham gia hiệp ước, nhà nước có nghĩa vụ theo luật pháp quốc tế để bảo vệ dân thường.
+
+**어휘 연결:** `국제적 약속` có thể mang tính chính trị; `국제법상 의무` xác định nghĩa vụ có cơ sở pháp lý và hậu quả khi vi phạm. — `Cam kết quốc tế` có thể mang tính chính trị; `Nghĩa vụ theo luật pháp quốc tế`
 
 **영어 참고:** *obligation under international law*, *international legal obligation* — nghĩa vụ pháp lý của quốc gia theo điều ước hoặc luật quốc tế.
 

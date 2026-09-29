@@ -16,19 +16,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** tính thẩm mỹ, cảm quan thẩm mỹ.
 
-**뉘앙스와 사용법:** 단순히 예쁘다는 반응보다 형식·구성·감각이 어떤 미적 경험을 만드는지 분석할 때 쓰인다.
+**뉘앙스와 사용법:** Được sử dụng để phân tích loại trải nghiệm thẩm mỹ mà hình thức, bố cục và giác quan tạo ra thay vì chỉ phản hồi mức độ đẹp của nó.
 
-**재사용 가능한 콜로케이션·청크:** `심미적 가치`, `심미 감각`, `심미성을 고려하다`.
+**재사용 가능한 콜로케이션·청크:** `심미적 가치`, `심미 감각`, `심미성을 고려하다`. — `Giá trị thẩm mỹ`, `Ý thức thẩm mỹ`, `Xem xét về thẩm mỹ`.
 
-**자주 쓰는 문형과 성분:** `심미를 추구하다`; `심미적 N`; 디자인·전시·건축·영상과 결합한다.
+**자주 쓰는 문형과 성분:** `심미를 추구하다`, `심미적 N`, `Theo đuổi thẩm mỹ`, `Thẩm mỹ N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 예술 비평·디자인·건축·문화기획의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật để chỉ phê bình nghệ thuật, thiết kế, kiến ​​trúc và quy hoạch văn hóa.
 
 **예문:** 전시장은 작품의 심미뿐 아니라 관람객의 이동과 접근성도 고려해 설계됐다.
 
-**어휘 연결:** `미학`은 아름다움과 예술의 원리를 연구하는 분야이고, `심미`는 작품이나 공간을 아름답게 느끼고 평가하는 감각에 가깝다.
+**Dịch:** Phòng triển lãm được thiết kế không chỉ tính đến tính thẩm mỹ của tác phẩm mà còn tính đến sự di chuyển và khả năng tiếp cận của khách tham quan.
 
-**영어 참고:** *aesthetic sense*, *aesthetic value*, *aesthetic appreciation* — 아름다움과 형식적 가치를 지각하고 평가하는 감각이다.
+**어휘 연결:** `미학`은 아름다움과 예술의 원리를 연구하는 분야이고, `심미`는 작품이나 공간을 아름답게 느끼고 평가하는 감각에 가깝다. — 'Thẩm mỹ' là lĩnh vực nghiên cứu các nguyên tắc về cái đẹp và nghệ thuật, và 'thẩm mỹ' gần với cảm giác và đánh giá một tác phẩm hoặc không gian là đẹp.
+
+**영어 참고:** *aesthetic sense*, *aesthetic value*, *aesthetic appreciation* — Đây là ý thức cảm nhận, đánh giá vẻ đẹp và giá trị hình thức.
 
 ---
 
@@ -41,19 +43,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** nổi tiếng hàng đầu, được công nhận là xuất sắc.
 
-**뉘앙스와 사용법:** 주로 `내로라하는 N` 형태로 쓰이며, 분야의 대표적인 인물·기관을 문어적으로 소개한다.
+**뉘앙스와 사용법:** Chủ yếu được sử dụng ở dạng ‘N’, nó giới thiệu các nhân vật, tổ chức đại diện trong lĩnh vực này dưới dạng văn bản.
 
-**재사용 가능한 콜로케이션·청크:** `내로라하는 작가`, `내로라하는 전문가`, `내로라하는 기관`.
+**재사용 가능한 콜로케이션·청크:** `내로라하는 작가`, `내로라하는 전문가`, `내로라하는 기관`. — `cái gọi là nhà văn`, `cái gọi là chuyên gia`, `cái gọi là tổ chức`.
 
-**자주 쓰는 문형과 성분:** `내로라하는 N`; 사람·작가·배우·연구자·기업과 결합한다.
+**자주 쓰는 문형과 성분:** `내로라하는 N`, `Naerora N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기사·소개문·행사 홍보의 격식 있는 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt chính thức để quảng cáo các bài viết, phần giới thiệu và sự kiện.
 
 **예문:** 개막식에는 국내에서 내로라하는 작가들이 참여해 작품을 선보였다.
 
-**어휘 연결:** `유명하다`는 널리 알려졌다는 중립어이고, `내로라하다`는 해당 분야에서 손꼽히는 실력과 명성을 강조한다.
+**Dịch:** Tại lễ khai mạc, một số nghệ sĩ hàng đầu Hàn Quốc đã tham gia và trình bày tác phẩm của mình.
 
-**영어 참고:** *leading*, *renowned*, *prominent* — 특정 분야에서 이름난 대표 인물이나 기관을 소개하는 표현이다.
+**어휘 연결:** `유명하다`는 널리 알려졌다는 중립어이고, `내로라하다`는 해당 분야에서 손꼽히는 실력과 명성을 강조한다. — 'Nổi tiếng' là một từ trung lập có nghĩa là được biết đến rộng rãi và 'khu phố' nhấn mạnh các kỹ năng và danh tiếng hàng đầu của một người trong lĩnh vực này.
+
+**영어 참고:** *leading*, *renowned*, *prominent* — Đây là cách diễn đạt giới thiệu một cá nhân hoặc tổ chức đại diện nổi tiếng trong một lĩnh vực cụ thể.
 
 ---
 
@@ -66,19 +70,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** vai chính, diễn viên chính.
 
-**뉘앙스와 사용법:** 단순히 분량이 많은 배역보다 서사의 중심 갈등과 인물의 변화를 이끄는 역할을 가리킨다.
+**뉘앙스와 사용법:** Điều này đề cập đến một vai diễn dẫn đến xung đột trung tâm của câu chuyện và những thay đổi về nhân vật chứ không chỉ đơn giản là một vai có thời lượng xuất hiện lớn.
 
-**재사용 가능한 콜로케이션·청크:** `주연 배우`, `주연을 맡다`, `주연으로 발탁되다`.
+**재사용 가능한 콜로케이션·청크:** `주연 배우`, `주연을 맡다`, `주연으로 발탁되다`. — `diễn viên chính`, `đóng vai chính`, `được chọn làm diễn viên chính`.
 
-**자주 쓰는 문형과 성분:** `배우가 N에서 주연을 맡다`; 영화·공연·서사·캐릭터와 결합한다.
+**자주 쓰는 문형과 성분:** `배우가 N에서 주연을 맡다`, `Diễn viên đóng vai chính trong N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 영화·연극·방송 기사와 비평에서 쓰이는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật được sử dụng trong các bài báo và phê bình phim, sân khấu và truyền hình.
 
 **예문:** 신인 배우가 독립영화의 주연을 맡아 복잡한 내면을 설득력 있게 표현했다.
 
-**어휘 연결:** `주인공`은 이야기 속 중심 인물이고, `주연`은 그 인물을 연기하는 배우나 배역의 지위를 강조한다.
+**Dịch:** Một diễn viên mới đảm nhận vai chính trong một bộ phim độc lập và thể hiện một cách thuyết phục nội tâm phức tạp của mình.
 
-**영어 참고:** *lead role*, *starring role*, *protagonist* — *lead role*은 배우의 중심 배역, *protagonist*는 이야기 속 중심 인물이다.
+**어휘 연결:** `주인공`은 이야기 속 중심 인물이고, `주연`은 그 인물을 연기하는 배우나 배역의 지위를 강조한다. — 'Nhân vật chính' là nhân vật trung tâm trong câu chuyện và 'nhân vật chính' nhấn mạnh địa vị của diễn viên hoặc nhân vật đóng vai nhân vật đó.
+
+**영어 참고:** *lead role*, *starring role*, *protagonist* — *vai chính* là vai trung tâm của diễn viên và *nhân vật chính* là nhân vật trung tâm trong câu chuyện.
 
 ---
 
@@ -91,19 +97,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** khán giả/người dự thính tại chỗ.
 
-**뉘앙스와 사용법:** 단순한 시청자보다 현장에 참석해 발언과 진행을 직접 지켜보는 위치를 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh vị trí của người tham dự hiện trường và trực tiếp quan sát các nhận xét và diễn biến chứ không phải là người xem đơn thuần.
 
-**재사용 가능한 콜로케이션·청크:** `방청객의 반응`, `방청객을 초청하다`, `방청객석`.
+**재사용 가능한 콜로케이션·청크:** `방청객의 반응`, `방청객을 초청하다`, `방청객석`. — ‘Phản ứng của khán giả’, ‘Mời khán giả’, ‘Chỗ ngồi của khán giả’.
 
-**자주 쓰는 문형과 성분:** `방청객이 N을 지켜보다`; `방청객의 질문을 받다`; 토론·재판·공개방송과 결합한다.
+**자주 쓰는 문형과 성분:** `방청객이 N을 지켜보다`, `방청객의 질문을 받다`, `Khán giả xem N`, `Nhận câu hỏi từ khán giả` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 방송·의회·법정·공개행사의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho phát thanh truyền hình, quốc hội, tòa án và các sự kiện công cộng.
 
 **예문:** 방청객의 질문이 토론의 쟁점을 추상적인 논의에서 생활 문제로 바꾸었다.
 
-**어휘 연결:** `관객`은 공연이나 작품을 보는 넓은 말이고, `방청객`은 공개된 진행을 현장에서 듣고 지켜보는 참여자를 가리킨다.
+**Dịch:** Câu hỏi của khán giả đã thay đổi chủ đề thảo luận từ một cuộc thảo luận trừu tượng sang một vấn đề cuộc sống.
 
-**영어 참고:** *audience member*, *observer*, *attendee* — 공개 행사나 토론을 현장에서 지켜보는 참석자다.
+**어휘 연결:** `관객`은 공연이나 작품을 보는 넓은 말이고, `방청객`은 공개된 진행을 현장에서 듣고 지켜보는 참여자를 가리킨다. — 'Khán giả' là một thuật ngữ rộng để chỉ những người xem buổi biểu diễn hoặc tác phẩm và 'khán giả' đề cập đến những người tham gia lắng nghe và xem quá trình diễn ra công khai tại chỗ.
+
+**영어 참고:** *audience member*, *observer*, *attendee* — Người tham gia quan sát sự kiện hoặc cuộc thảo luận công khai trên trang web.
 
 ---
 
@@ -116,19 +124,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** gìn giữ, lưu giữ trong lòng.
 
-**뉘앙스와 사용법:** 단순히 보관하는 것보다 개인적 의미와 애착을 지닌 채 기억하고 지킨다는 정서가 강하다.
+**뉘앙스와 사용법:** Có một cảm giác mạnh mẽ về việc ghi nhớ và bảo vệ mọi thứ có ý nghĩa và sự gắn bó cá nhân thay vì chỉ lưu giữ chúng.
 
-**재사용 가능한 콜로케이션·청크:** `기억을 간직하다`, `소중히 간직하다`, `마음에 간직하다`.
+**재사용 가능한 콜로케이션·청크:** `기억을 간직하다`, `소중히 간직하다`, `마음에 간직하다`. — `Giữ kỷ niệm`, `Hãy giữ nó quý giá`, `Hãy giữ nó trong tim`.
 
-**자주 쓰는 문형과 성분:** `N을/를 간직하다`; 기억·사진·유산·마음과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 간직하다`, `Giữ N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 회고·문화유산·문학·인터뷰의 정서적 표현이다.
+**사회적 관계·주제별 register:** Biểu hiện cảm xúc về hồi tưởng, di sản văn hóa, văn học và cuộc phỏng vấn.
 
 **예문:** 주민들은 사라진 골목의 사진을 간직하며 그 장소의 역사를 다음 세대에 전했다.
 
-**어휘 연결:** `보관하다`는 물건을 안전하게 두는 실무어이고, `간직하다`는 기억·감정·상징적 의미까지 오래 지킨다는 뜻이다.
+**Dịch:** Cư dân lưu giữ những bức ảnh về những con hẻm đã biến mất và truyền lại lịch sử của nơi này cho thế hệ sau.
 
-**영어 참고:** *cherish*, *keep*, *preserve* — 소중한 물건이나 기억을 잃지 않도록 오래 지킨다는 의미다.
+**어휘 연결:** `보관하다`는 물건을 안전하게 두는 실무어이고, `간직하다`는 기억·감정·상징적 의미까지 오래 지킨다는 뜻이다. — ‘Giữ’ là một từ thực tế để giữ một đồ vật an toàn và ‘giữ’ có nghĩa là lưu giữ những kỷ niệm, cảm xúc và thậm chí cả ý nghĩa biểu tượng trong một thời gian dài.
+
+**영어 참고:** *cherish*, *keep*, *preserve* — Điều này có nghĩa là bảo vệ những vật phẩm hoặc kỷ niệm có giá trị trong thời gian dài để chúng không bị mất.
 
 ---
 
@@ -141,19 +151,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** năm tháng, dòng thời gian.
 
-**뉘앙스와 사용법:** 달력상의 기간보다 사람·장소·기억이 시간 속에서 변해 온 과정을 정서적으로 표현한다.
+**뉘앙스와 사용법:** Thay vì một khoảng thời gian theo lịch, nó thể hiện một cách đầy cảm xúc quá trình mà con người, địa điểm và ký ức đã thay đổi theo thời gian.
 
-**재사용 가능한 콜로케이션·청크:** `세월이 흐르다`, `세월의 흔적`, `세월을 견디다`.
+**재사용 가능한 콜로케이션·청크:** `세월이 흐르다`, `세월의 흔적`, `세월을 견디다`. — `Thời gian trôi qua`, `Dấu vết thời gian`, `Vượt qua thử thách của thời gian`.
 
-**자주 쓰는 문형과 성분:** `세월이 N을 바꾸다`; `세월을 거치다`; 장소·사람·유산·기억과 결합한다.
+**자주 쓰는 문형과 성분:** `세월이 N을 바꾸다`, `세월을 거치다`, `Thời gian thay đổi N`, `vượt qua thời gian` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·회고·문화 기사에서 자주 쓰이는 서정적 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt trữ tình thường được sử dụng trong các bài viết văn học, hồi tưởng và văn hóa.
 
 **예문:** 세월의 흔적이 남은 공장은 지역 산업사의 중요한 기억 공간이 되었다.
 
-**어휘 연결:** `시간`은 중립적인 물리적 흐름이고, `세월`은 시간이 쌓이며 만든 변화와 정서를 함께 드러낸다.
+**Dịch:** Nhà máy với dấu vết thời gian đã trở thành không gian ký ức quan trọng cho lịch sử công nghiệp địa phương.
 
-**영어 참고:** *the passing years*, *time*, *the passage of time* — 시간이 흐르며 삶과 장소에 변화가 쌓이는 과정을 뜻한다.
+**어휘 연결:** `시간`은 중립적인 물리적 흐름이고, `세월`은 시간이 쌓이며 만든 변화와 정서를 함께 드러낸다. — ‘Thời gian’ là một dòng chảy vật lý trung tính và ‘thời gian’ bộc lộ những thay đổi và cảm xúc được tạo ra bởi sự tích tụ của thời gian.
+
+**영어 참고:** *the passing years*, *time*, *the passage of time* — Nó đề cập đến quá trình tích lũy những thay đổi trong cuộc sống và địa điểm theo thời gian.
 
 ---
 
@@ -166,19 +178,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** sự lưu luyến, tiếc nuối dai dẳng.
 
-**뉘앙스와 사용법:** 단순한 아쉬움보다 관계·장소·기회에 대한 집착과 잔여 감정이 오래 남아 있음을 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh rằng nỗi ám ảnh và cảm giác còn sót lại về các mối quan hệ, địa điểm và cơ hội kéo dài hơn những hối tiếc đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `미련이 남다`, `미련을 버리다`, `미련을 떨치다`.
+**재사용 가능한 콜로케이션·청크:** `미련이 남다`, `미련을 버리다`, `미련을 떨치다`. — `Tôi có những tiếc nuối còn sót lại`, `loại bỏ những cảm giác còn sót lại`, `loại bỏ những cảm giác còn sót lại`.
 
-**자주 쓰는 문형과 성분:** `N에 미련이 남다`; `미련을 버리다`; 관계·고향·기회·과거와 결합한다.
+**자주 쓰는 문형과 성분:** `N에 미련이 남다`, `미련을 버리다`, `Tôi rất tiếc về N`, `Hãy buông bỏ sự hối tiếc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리·문학·인터뷰의 정서 분석어다.
+**사회적 관계·주제별 register:** Thuật ngữ phân tích tình cảm dành cho tâm lý học, văn học và phỏng vấn.
 
 **예문:** 철거 대상 건물을 기록하는 작업에는 주민들이 고향에 느끼는 미련도 담겨 있었다.
 
-**어휘 연결:** `아쉬움`은 기대에 못 미친 감정 전반이고, `미련`은 놓아야 할 대상에 계속 매달리는 잔여 감정이다.
+**Dịch:** Công việc ghi lại những tòa nhà sắp bị phá dỡ cũng bao gồm những cảm xúc hoài niệm của người dân đối với quê hương.
 
-**영어 참고:** *lingering attachment*, *regret*, *reluctance to let go* — 지나간 대상이나 관계를 쉽게 놓지 못하는 마음이다.
+**어휘 연결:** `아쉬움`은 기대에 못 미친 감정 전반이고, `미련`은 놓아야 할 대상에 계속 매달리는 잔여 감정이다. — 'Thất vọng' là cảm giác chung khi không đáp ứng được kỳ vọng và 'hối tiếc' là cảm xúc còn sót lại cứ bám víu vào thứ gì đó đáng lẽ phải buông bỏ.
+
+**영어 참고:** *lingering attachment*, *regret*, *reluctance to let go* — Cảm giác không thể dễ dàng buông bỏ những đồ vật hoặc mối quan hệ trong quá khứ.
 
 ---
 
@@ -191,19 +205,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** quấy rối tình dục.
 
-**뉘앙스와 사용법:** 장난이나 사적인 호감 표현으로 축소할 수 없는 인권·노동·법률상의 문제를 가리킨다.
+**뉘앙스와 사용법:** Điều này đề cập đến các vấn đề về nhân quyền, lao động và pháp lý không thể biến thành một trò đùa hoặc một biểu hiện tình cảm cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `성희롱 예방교육`, `성희롱 신고`, `성희롱 사건을 조사하다`.
+**재사용 가능한 콜로케이션·청크:** `성희롱 예방교육`, `성희롱 신고`, `성희롱 사건을 조사하다`. — `Giáo dục phòng chống quấy rối tình dục`, `Báo cáo quấy rối tình dục`, `Điều tra các trường hợp quấy rối tình dục`.
 
-**자주 쓰는 문형과 성분:** `N이 성희롱에 해당하다`; `성희롱을 신고하다`; 직장·촬영장·학교·공연과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 성희롱에 해당하다`, `성희롱을 신고하다`, `N cấu thành quấy rối tình dục`, `Báo cáo quấy rối tình dục` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·노동·미디어 윤리의 공식어이며 피해자 보호 맥락에서 사용한다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức của luật pháp, lao động và đạo đức truyền thông và được sử dụng trong bối cảnh bảo vệ nạn nhân.
 
 **예문:** 제작사는 촬영장에서 발생한 성희롱 신고를 독립적인 조사 절차에 따라 처리했다.
 
-**어휘 연결:** `성차별`은 성별에 따른 불평등한 대우이고, `성희롱`은 성적 언동으로 존엄과 환경을 침해하는 행위다.
+**Dịch:** Công ty sản xuất đã xử lý các báo cáo về quấy rối tình dục xảy ra trên phim trường theo thủ tục điều tra độc lập.
 
-**영어 참고:** *sexual harassment* — 성적 언동으로 상대의 존엄이나 안전한 환경을 침해하는 행위다.
+**어휘 연결:** `성차별`은 성별에 따른 불평등한 대우이고, `성희롱`은 성적 언동으로 존엄과 환경을 침해하는 행위다. — 'Phân biệt đối xử về giới tính' là sự đối xử bất bình đẳng dựa trên giới tính và 'quấy rối tình dục' là hành động vi phạm nhân phẩm và môi trường thông qua lời nói và hành động tình dục.
+
+**영어 참고:** *sexual harassment* — Đó là hành động xâm phạm nhân phẩm của người khác hoặc môi trường an toàn thông qua lời nói và hành động mang tính chất tình dục.
 
 ---
 
@@ -216,19 +232,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** sự biểu tượng hóa, sự thể hiện/đại diện trong hình ảnh và văn bản.
 
-**뉘앙스와 사용법:** 현실을 그대로 복사한다기보다 어떤 관점과 권력 관계를 통해 선택적으로 구성한다는 비평적 의미가 있다.
+**뉘앙스와 사용법:** Có ý nghĩa phê phán của việc xây dựng thực tế có chọn lọc thông qua các quan điểm và quan hệ quyền lực nhất định, thay vì sao chép thực tế như hiện tại.
 
-**재사용 가능한 콜로케이션·청크:** `소수자 표상`, `미디어 표상`, `표상의 정치`.
+**재사용 가능한 콜로케이션·청크:** `소수자 표상`, `미디어 표상`, `표상의 정치`. — `Đại diện thiểu số`, `Đại diện truyền thông`, `Chính trị đại diện`.
 
-**자주 쓰는 문형과 성분:** `N을/를 표상하다`; `N의 표상을 분석하다`; 인물·집단·역사·미디어와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 표상하다`, `N의 표상을 분석하다`, `Đại diện/N`, `Phân tích cách biểu diễn của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화연구·미디어 비평·문학이론의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật cho nghiên cứu văn hóa, phê bình truyền thông và lý thuyết văn học.
 
 **예문:** 드라마 속 이주민 표상이 반복해서 주변적인 인물로만 구성되는지 살펴볼 필요가 있다.
 
-**어휘 연결:** `재현`은 현실을 작품에 다시 나타내는 행위이고, `표상`은 그 과정에서 특정 의미와 관점이 형성된 결과와 방식을 분석한다.
+**Dịch:** Cần phải kiểm tra xem liệu việc thể hiện người nhập cư trong các vở kịch có liên tục chỉ bao gồm các nhân vật ngoại vi hay không.
 
-**영어 참고:** *representation*, *depiction*, *signification* — 현실의 대상이 이미지·언어·서사 속에서 의미화되는 방식이다.
+**어휘 연결:** `재현`은 현실을 작품에 다시 나타내는 행위이고, `표상`은 그 과정에서 특정 의미와 관점이 형성된 결과와 방식을 분석한다. — `Trình bày` là hành động trình bày lại hiện thực trong một tác phẩm và `trình bày` phân tích các kết quả và phương pháp trong đó các ý nghĩa và quan điểm cụ thể được hình thành trong quy trình.
+
+**영어 참고:** *representation*, *depiction*, *signification* — Đây là cách mà các đối tượng của thực tế được làm cho có ý nghĩa bằng hình ảnh, ngôn ngữ và tường thuật.
 
 ---
 
@@ -241,19 +259,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** giá trị nghệ thuật, chất lượng nghệ thuật của tác phẩm.
 
-**뉘앙스와 사용법:** 흥행 성적이나 유명세와 구별해 형식·내용·연출의 예술적 성취를 평가한다.
+**뉘앙스와 사용법:** Đánh giá các thành tựu nghệ thuật về hình thức, nội dung và phương hướng, phân biệt chúng với thành tích phòng vé hay danh tiếng.
 
-**재사용 가능한 콜로케이션·청크:** `작품성을 인정받다`, `작품성이 뛰어나다`, `흥행성과 작품성`.
+**재사용 가능한 콜로케이션·청크:** `작품성을 인정받다`, `작품성이 뛰어나다`, `흥행성과 작품성`. — `Được công nhận về chất lượng nghệ thuật`, `Chất lượng nghệ thuật xuất sắc`, `Trình diễn trước công chúng và chất lượng nghệ thuật`.
 
-**자주 쓰는 문형과 성분:** `작품성이 높다`; `작품성을 평가하다`; 영화·문학·공연·전시와 결합한다.
+**자주 쓰는 문형과 성분:** `작품성이 높다`, `작품성을 평가하다`, `Chất lượng công việc cao`, `Đánh giá tay nghề` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 예술 비평·시상식·문화 기사에서 쓰이는 평가어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ đánh giá được sử dụng trong phê bình nghệ thuật, lễ trao giải và các bài báo về văn hóa.
 
 **예문:** 이 영화는 대중적 흥행뿐 아니라 작품성에서도 높은 평가를 받았다.
 
-**어휘 연결:** `완성도`는 기술적 마무리와 전체 품질을 넓게 말하고, `작품성`은 예술적 가치와 독창성을 중심으로 평가한다.
+**Dịch:** Bộ phim này nhận được nhiều lời khen ngợi không chỉ vì mức độ nổi tiếng mà còn về chất lượng.
 
-**영어 참고:** *artistic merit*, *artistic quality*, *literary value* — 작품의 예술적 완성도와 창작적 가치를 뜻한다.
+**어휘 연결:** `완성도`는 기술적 마무리와 전체 품질을 넓게 말하고, `작품성`은 예술적 가치와 독창성을 중심으로 평가한다. — 'Tính hoàn chỉnh' nói rộng ra là sự hoàn thiện về mặt kỹ thuật và chất lượng tổng thể, trong khi 'chất lượng tác phẩm' được đánh giá dựa trên giá trị nghệ thuật và tính độc đáo.
+
+**영어 참고:** *artistic merit*, *artistic quality*, *literary value* — Điều này đề cập đến tính hoàn chỉnh về mặt nghệ thuật và giá trị sáng tạo của tác phẩm.
 
 ---
 
@@ -266,19 +286,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** quyền nhân thân của tác giả.
 
-**뉘앙스와 사용법:** 작품을 이용해 경제적 이익을 얻는 저작재산권과 달리 창작자의 인격·명예·동일성을 보호한다.
+**뉘앙스와 사용법:** Không giống như quyền sở hữu bản quyền, thu được lợi ích kinh tế từ việc sử dụng tác phẩm, nhân cách, danh dự và danh tính của người sáng tạo được bảo vệ.
 
-**재사용 가능한 콜로케이션·청크:** `저작인격권을 침해하다`, `저작인격권을 보호하다`, `동일성유지권`.
+**재사용 가능한 콜로케이션·청크:** `저작인격권을 침해하다`, `저작인격권을 보호하다`, `동일성유지권`. — `Xâm phạm quyền nhân thân`, `Bảo vệ quyền nhân thân`, `Quyền duy trì danh tính`.
 
-**자주 쓰는 문형과 성분:** `저작인격권을 행사하다`; `N이 저작인격권을 침해하다`; 편집·번역·전시·영상화와 결합한다.
+**자주 쓰는 문형과 성분:** `저작인격권을 행사하다`, `N이 저작인격권을 침해하다`, `Thực hiện các quyền nhân thân`, `N xâm phạm quyền nhân thân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 저작권·출판·공연·디지털 콘텐츠의 법률 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ pháp lý về bản quyền, xuất bản, biểu diễn và nội dung kỹ thuật số.
 
 **예문:** 전시 기획자는 작품을 과도하게 편집해 작가의 저작인격권을 침해하지 않도록 주의했다.
 
-**어휘 연결:** `저작재산권`은 복제·배포·이용에서 발생하는 경제적 권리이고, `저작인격권`은 창작자와 작품의 인격적 연결을 보호한다.
+**Dịch:** Người tổ chức triển lãm đã cẩn thận không vi phạm quyền nhân thân của nghệ sĩ bằng cách chỉnh sửa tác phẩm quá mức.
 
-**영어 참고:** *moral rights*, *author’s personal rights* — 창작자의 이름과 작품의 동일성·명예를 보호하는 권리다.
+**어휘 연결:** `저작재산권`은 복제·배포·이용에서 발생하는 경제적 권리이고, `저작인격권`은 창작자와 작품의 인격적 연결을 보호한다. — 'Quyền sở hữu bản quyền' là các quyền kinh tế phát sinh từ việc sao chép, phân phối và sử dụng và 'quyền nhân thân' bảo vệ mối liên hệ cá nhân giữa người sáng tạo và tác phẩm.
+
+**영어 참고:** *moral rights*, *author’s personal rights* — Đây là quyền bảo vệ danh tính và danh dự tên tuổi và tác phẩm của người sáng tạo.
 
 ---
 
@@ -291,19 +313,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** người tham quan, người xem.
 
-**뉘앙스와 사용법:** 단순히 소비하는 관객보다 공간을 이동하고 해석하며 경험을 구성하는 방문자의 위치를 강조할 수 있다.
+**뉘앙스와 사용법:** Vị trí của khách truy cập di chuyển và diễn giải không gian cũng như xây dựng trải nghiệm có thể được nhấn mạnh thay vì khán giả chỉ đơn giản là xem.
 
-**재사용 가능한 콜로케이션·청크:** `관람자 동선`, `관람자 경험`, `관람자 참여형 전시`.
+**재사용 가능한 콜로케이션·청크:** `관람자 동선`, `관람자 경험`, `관람자 참여형 전시`. — `Phong trào của người xem`, `Trải nghiệm của người xem`, `Triển lãm có sự tham gia của người xem`.
 
-**자주 쓰는 문형과 성분:** `관람자가 N을 경험하다`; `관람자를 고려하다`; 전시·공연·박물관·접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `관람자가 N을 경험하다`, `관람자를 고려하다`, `Trải nghiệm của người xem N`, `Hãy xem xét người xem` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 전시기획·박물관학·문화행정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của quy hoạch triển lãm, bảo tàng học và quản lý văn hóa.
 
 **예문:** 기획자는 관람자의 동선을 분석해 작품 설명과 휴식 공간의 위치를 바꾸었다.
 
-**어휘 연결:** `관객`은 공연·영상의 집단적 수용자이고, `관람자`는 전시·공간을 직접 이동하며 경험하는 개인을 강조한다.
+**Dịch:** Người lập kế hoạch đã phân tích chuyển động của người xem và thay đổi mô tả công việc cũng như vị trí của khu vực nghỉ ngơi.
 
-**영어 참고:** *visitor*, *viewer*, *museum-goer* — 전시·공연·문화 공간을 직접 보고 경험하는 사람이다.
+**어휘 연결:** `관객`은 공연·영상의 집단적 수용자이고, `관람자`는 전시·공간을 직접 이동하며 경험하는 개인을 강조한다. — ‘Khán giả’ là người tiếp nhận tập thể các buổi biểu diễn và video, còn ‘người xem’ nhấn mạnh đến những cá nhân trực tiếp di chuyển và trải nghiệm triển lãm/không gian.
+
+**영어 참고:** *visitor*, *viewer*, *museum-goer* — Người trực tiếp xem và trải nghiệm các triển lãm, biểu diễn và không gian văn hóa.
 
 ---
 
@@ -316,19 +340,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** mang tính tự sự, thuộc về cấu trúc câu chuyện.
 
-**뉘앙스와 사용법:** 단순히 이야기가 있다는 뜻보다 무엇을 선택하고 연결해 의미를 만드는지에 초점을 둔다.
+**뉘앙스와 사용법:** Thay vì chỉ nói rằng có một câu chuyện, trọng tâm là những gì được chọn lọc và kết nối để tạo ra ý nghĩa.
 
-**재사용 가능한 콜로케이션·청크:** `서사적 구조`, `서사적 장치`, `서사적 관점`.
+**재사용 가능한 콜로케이션·청크:** `서사적 구조`, `서사적 장치`, `서사적 관점`. — `cấu trúc tường thuật`, `thiết bị tường thuật`, `góc nhìn trần thuật`.
 
-**자주 쓰는 문형과 성분:** `서사적인 N`; `경험을 서사적으로 구성하다`; 영화·문학·전시·역사기억과 결합한다.
+**자주 쓰는 문형과 성분:** `서사적인 N`, `경험을 서사적으로 구성하다`, `sử thi N`, `để xây dựng một trải nghiệm một cách tường thuật` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·영화·역사·문화연구의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho văn học, phim ảnh, lịch sử và nghiên cứu văn hóa.
 
 **예문:** 전시는 개인의 증언을 서사적 구조로 엮되 서로 다른 기억의 충돌도 숨기지 않았다.
 
-**어휘 연결:** `이야기식`은 말이나 글의 형식을 설명하는 일반어이고, `서사적`은 사건의 선택·배열·관점이 의미를 만드는 구조를 분석한다.
+**Dịch:** Triển lãm đan xen những lời chứng thực của từng cá nhân vào một cấu trúc tường thuật, nhưng không che giấu sự xung đột của những ký ức khác nhau.
 
-**영어 참고:** *narrative*, *story-based*, *narratological* — 사건과 경험을 이야기 구조와 관점으로 조직하는 성격이다.
+**어휘 연결:** `이야기식`은 말이나 글의 형식을 설명하는 일반어이고, `서사적`은 사건의 선택·배열·관점이 의미를 만드는 구조를 분석한다. — 'Tường thuật' là thuật ngữ chung mô tả hình thức nói hoặc viết và 'tường thuật' phân tích cấu trúc trong đó việc lựa chọn, sắp xếp và quan điểm của các sự kiện tạo ra ý nghĩa.
+
+**영어 참고:** *narrative*, *story-based*, *narratological* — Một nhân cách tổ chức các sự kiện và trải nghiệm thành các cấu trúc và quan điểm câu chuyện.
 
 ---
 
@@ -341,19 +367,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** tái đặt vào bối cảnh, tái diễn giải theo bối cảnh mới.
 
-**뉘앙스와 사용법:** 원래 의미를 그대로 옮기는 것이 아니라 새로운 장소·매체·관객과의 관계 속에서 의미를 재구성한다.
+**뉘앙스와 사용법:** Thay vì chỉ dịch nghĩa gốc, nghĩa được xây dựng lại trong mối quan hệ với địa điểm, phương tiện truyền thông và khán giả mới.
 
-**재사용 가능한 콜로케이션·청크:** `기억의 재맥락화`, `자료를 재맥락화하다`, `재맥락화된 전시`.
+**재사용 가능한 콜로케이션·청크:** `기억의 재맥락화`, `자료를 재맥락화하다`, `재맥락화된 전시`. — `Tái ngữ cảnh hóa bộ nhớ`, `Tái ngữ cảnh hóa dữ liệu`, `Triển lãm được tái ngữ cảnh hóa`.
 
-**자주 쓰는 문형과 성분:** `N을/를 재맥락화하다`; `새로운 맥락에서 재맥락화하다`; 기록·사진·유산·서사와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 재맥락화하다`, `새로운 맥락에서 재맥락화하다`, `Tái ngữ cảnh hóa/N`, `tái ngữ cảnh hóa trong một bối cảnh mới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화기획·역사교육·미디어 비평의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quy hoạch văn hóa, giáo dục lịch sử và phê bình truyền thông.
 
 **예문:** 작가는 식민지 시기의 사진을 지역 주민의 구술과 함께 배치해 재맥락화했다.
 
-**어휘 연결:** `각색`은 작품의 형식이나 내용을 바꾸는 것이고, `재맥락화`는 자료가 놓이는 사회적·역사적 관계를 바꿔 의미를 다시 읽는 일이다.
+**Dịch:** Tác giả đã tái ngữ cảnh hóa các bức ảnh từ thời kỳ thuộc địa bằng cách đặt chúng cùng với những câu nói truyền miệng của cư dân địa phương.
 
-**영어 참고:** *recontextualization*, *reframing*, *relocation of meaning* — 기존 자료를 새로운 맥락에 놓아 의미를 다시 구성하는 과정이다.
+**어휘 연결:** `각색`은 작품의 형식이나 내용을 바꾸는 것이고, `재맥락화`는 자료가 놓이는 사회적·역사적 관계를 바꿔 의미를 다시 읽는 일이다. — 'Chuyển thể' đang thay đổi hình thức hoặc nội dung của một tác phẩm và 'tái văn bản hóa' là đọc lại ý nghĩa bằng cách thay đổi các mối quan hệ lịch sử và xã hội mà tài liệu được đặt vào đó.
+
+**영어 참고:** *recontextualization*, *reframing*, *relocation of meaning* — Đây là quá trình tái tạo lại ý nghĩa bằng cách đặt dữ liệu hiện có vào một ngữ cảnh mới.
 
 ---
 
@@ -366,19 +394,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** cộng đồng ký ức, cộng đồng cùng ghi nhớ.
 
-**뉘앙스와 사용법:** 단순히 같은 지역에 사는 집단보다 공동의 기억을 보존하고 공공의 의미로 만드는 관계를 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh các mối quan hệ giúp lưu giữ những kỷ niệm chung và mang lại ý nghĩa chung cho chúng thay vì chỉ đơn giản là các nhóm sống trong cùng một khu vực.
 
-**재사용 가능한 콜로케이션·청크:** `기억공동체의 형성`, `기억공동체를 복원하다`, `지역 기억공동체`.
+**재사용 가능한 콜로케이션·청크:** `기억공동체의 형성`, `기억공동체를 복원하다`, `지역 기억공동체`. — `Hình thành cộng đồng bộ nhớ`, `Khôi phục cộng đồng bộ nhớ`, `Cộng đồng bộ nhớ cục bộ`.
 
-**자주 쓰는 문형과 성분:** `기억공동체가 N을 기록하다`; `기억공동체를 지원하다`; 지역·유산·추모·구술 기록과 결합한다.
+**자주 쓰는 문형과 성분:** `기억공동체가 N을 기록하다`, `기억공동체를 지원하다`, `Bản ghi cộng đồng bộ nhớ N`, `Hỗ trợ cộng đồng trí nhớ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역사기억·지역문화·사회학·문화정책의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật cho ký ức lịch sử, văn hóa khu vực, xã hội học và chính sách văn hóa.
 
 **예문:** 주민 기록관은 세대가 다른 기억공동체가 서로의 경험을 듣는 장을 마련했다.
 
-**어휘 연결:** `공동체`는 공동의 생활·관계를 포괄하고, `기억공동체`는 특정한 과거 경험을 함께 보존하고 해석하는 결속을 강조한다.
+**Dịch:** Kho lưu trữ thường trú cung cấp một địa điểm cho cộng đồng ký ức thuộc các thế hệ khác nhau lắng nghe trải nghiệm của nhau.
 
-**영어 참고:** *memory community*, *community of remembrance*, *mnemonic community* — 공동의 과거를 기억하고 해석하며 정체성을 만드는 집단이다.
+**어휘 연결:** `공동체`는 공동의 생활·관계를 포괄하고, `기억공동체`는 특정한 과거 경험을 함께 보존하고 해석하는 결속을 강조한다. — 'Cộng đồng' bao gồm cuộc sống và các mối quan hệ chung, còn 'cộng đồng ký ức' nhấn mạnh sự đoàn kết trong việc cùng nhau lưu giữ và giải thích những trải nghiệm cụ thể trong quá khứ.
+
+**영어 참고:** *memory community*, *community of remembrance*, *mnemonic community* — Một nhóm ghi nhớ và diễn giải quá khứ chung và tạo ra bản sắc.
 
 ---
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** phân tầng nguy cơ.
 
-**뉘앙스와 사용법:** 사람을 고정된 등급으로 낙인찍는 것이 아니라, 예방·검진·치료 자원을 위험도에 맞게 조정하는 정책·임상 도구다.
+**뉘앙스와 사용법:** Đây là chính sách và công cụ lâm sàng giúp điều chỉnh các nguồn lực phòng ngừa, sàng lọc và điều trị theo rủi ro, thay vì kỳ thị mọi người vào một tầng lớp cố định.
 
-**재사용 가능한 콜로케이션·청크:** `위험층화 모형`, `환자 위험층화`, `위험층화에 기반한 개입`.
+**재사용 가능한 콜로케이션·청크:** `위험층화 모형`, `환자 위험층화`, `위험층화에 기반한 개입`. — `Mô hình phân tầng rủi ro`, `Phân tầng rủi ro bệnh nhân`, `Can thiệp dựa trên phân tầng rủi ro`.
 
-**자주 쓰는 문형과 성분:** `환자를 위험도에 따라 위험층화하다`; 만성질환·재입원·예방서비스와 결합한다.
+**자주 쓰는 문형과 성분:** `환자를 위험도에 따라 위험층화하다`, `Phân tầng rủi ro bệnh nhân theo rủi ro` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역학·보험·일차의료·보건행정의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho dịch tễ học, bảo hiểm, chăm sóc ban đầu và quản lý y tế.
 
 **예문:** 보건소는 재입원 위험층화를 바탕으로 고위험 환자에게 방문관리를 우선 제공했다.
 
-**어휘 연결:** `분류` là chia nhóm nói chung; `위험층화` tập trung vào các tầng nguy cơ để quyết định can thiệp và nguồn lực.
+**Dịch:** Trung tâm y tế công cộng cung cấp dịch vụ quản lý thăm khám trước tiên cho những bệnh nhân có nguy cơ cao dựa trên phân tầng nguy cơ tái nhập viện.
 
-**영어 참고:** *risk stratification* — phân tầng đối tượng theo xác suất hoặc mức độ rủi ro để cá thể hóa theo dõi.
+**어휘 연결:** `분류` là chia nhóm nói chung; `위험층화` tập trung vào các tầng nguy cơ để quyết định can thiệp và nguồn lực. — `Classification` là chia nhóm nói chung; `Phân tầng rủi ro` là quan trọng.
+
+**영어 참고:** *risk stratification* — Đúng vậy.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tính hiệu quả chi phí.
 
-**뉘앙스와 사용법:** 가장 싼 선택을 뜻하지 않는다. 추가 비용으로 얻는 건강 개선이 지불할 가치가 있는지 비교하는 개념이다.
+**뉘앙스와 사용법:** Không có nghĩa là lựa chọn rẻ nhất. Khái niệm này là để so sánh liệu những cải thiện về sức khỏe mà bạn nhận được với khoản chi phí bổ sung có đáng để trả hay không.
 
-**재사용 가능한 콜로케이션·청크:** `비용효과성 분석`, `비용효과성이 높다`, `비용효과성을 평가하다`.
+**재사용 가능한 콜로케이션·청크:** `비용효과성 분석`, `비용효과성이 높다`, `비용효과성을 평가하다`. — `Phân tích hiệu quả chi phí`, `Hiệu quả chi phí cao`, `Đánh giá hiệu quả chi phí`.
 
-**자주 쓰는 문형과 성분:** `N의 비용효과성을 비교하다`; 약제·검진·예방사업·의료기술과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 비용효과성을 비교하다`, `So sánh hiệu quả chi phí của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건경제·보험급여·공공예산의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ về kinh tế y tế, phúc lợi bảo hiểm và ngân sách công.
 
 **예문:** 신약의 임상 효과뿐 아니라 기존 치료와 비교한 비용효과성도 급여 결정에 반영된다.
 
-**어휘 연결:** `비용절감` chỉ giảm số tiền; `비용효과성` cân đối chi phí với kết quả sức khỏe, nên một can thiệp đắt vẫn có thể hiệu quả về chi phí.
+**Dịch:** Không chỉ hiệu quả lâm sàng của thuốc mới mà hiệu quả chi phí của chúng so với các phương pháp điều trị hiện tại cũng được phản ánh trong các quyết định hoàn trả.
 
-**영어 참고:** *cost-effectiveness* — so sánh chi phí với kết quả đạt được, khác với *cost-saving* chỉ nói giảm chi.
+**어휘 연결:** `비용절감` chỉ giảm số tiền; `비용효과성` cân đối chi phí với kết quả sức khỏe, nên một can thiệp đắt vẫn có thể hiệu quả về chi phí. — `Giảm chi phí` chỉ giảm số tiền; ``Hiệu quả chi phí` có thể giúp bạn nhận ra hiệu quả chi phí.
+
+**영어 참고:** *cost-effectiveness* — so sánh chi phí với kết quả đạt được, khác với *tiết kiệm chi phí* chỉ nói giảm chi.
 
 ---
 
@@ -63,17 +67,19 @@
 
 **베트남어 뜻:** phân bổ nguồn lực.
 
-**뉘앙스와 사용법:** 단순한 분배보다 우선순위, 형평성, 효율성, 책임 기준을 함께 정하는 정책적 판단이다.
+**뉘앙스와 사용법:** Đó là đánh giá chính sách đặt ra các tiêu chuẩn ưu tiên, công bằng, hiệu quả và trách nhiệm thay vì phân phối đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `의료 자원배분`, `자원배분 기준`, `자원배분의 형평성`.
+**재사용 가능한 콜로케이션·청크:** `의료 자원배분`, `자원배분 기준`, `자원배분의 형평성`. — `Phân phối tài nguyên y tế`, `Tiêu chuẩn phân phối tài nguyên`, `Phân phối tài nguyên công bằng`.
 
-**자주 쓰는 문형과 성분:** `정부가 N에 자원을 배분하다`; 병상·인력·예산·지역과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 N에 자원을 배분하다`, `Chính phủ phân bổ nguồn lực cho N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공행정·보건정책·재난대응의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho hành chính công, chính sách y tế và ứng phó thảm họa.
 
 **예문:** 응급의료 자원배분은 환자 수뿐 아니라 지역의 접근성 격차도 고려해야 한다.
 
-**어휘 연결:** `분배` thường nói phần được chia ra giữa các nhóm; `자원배분` nhấn mạnh quyết định chiến lược đưa nguồn lực hữu hạn vào mục tiêu nào.
+**Dịch:** Việc phân bổ nguồn lực y tế khẩn cấp phải xem xét không chỉ số lượng bệnh nhân mà còn cả khoảng cách tiếp cận khu vực.
+
+**어휘 연결:** `분배` thường nói phần được chia ra giữa các nhóm; `자원배분` nhấn mạnh quyết định chiến lược đưa nguồn lực hữu hạn vào mục tiêu nào. — `Distribution` thường nói phần được chia ra giữa các nhóm; `Phân bổ nguồn lực` Thật dễ hiểu.
 
 **영어 참고:** *resource allocation* — quyết định phân bổ nguồn lực khan hiếm giữa các mục tiêu hoặc nhóm.
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** các yếu tố quyết định sức khỏe.
 
-**뉘앙스와 사용법:** 병원 치료만이 아니라 소득·주거·교육·노동·환경처럼 건강을 만들어 내는 구조적 조건을 포함한다.
+**뉘앙스와 사용법:** Nó không chỉ bao gồm điều trị tại bệnh viện mà còn bao gồm các điều kiện cơ cấu tạo ra sức khỏe như thu nhập, nhà ở, giáo dục, lao động và môi trường.
 
-**재사용 가능한 콜로케이션·청크:** `사회적 건강결정요인`, `건강결정요인을 개선하다`, `건강결정요인 분석`.
+**재사용 가능한 콜로케이션·청크:** `사회적 건강결정요인`, `건강결정요인을 개선하다`, `건강결정요인 분석`. — `Các yếu tố xã hội quyết định sức khỏe`, `Cải thiện các yếu tố quyết định sức khỏe`, `Phân tích các yếu tố quyết định sức khỏe`.
 
-**자주 쓰는 문형과 성분:** `N이 건강의 결정요인으로 작용하다`; 빈곤·주거·교육·환경과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 건강의 결정요인으로 작용하다`, `N đóng vai trò là yếu tố quyết định sức khỏe` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·사회역학·건강형평성 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho y tế công cộng, dịch tễ học xã hội và chính sách công bằng y tế.
 
 **예문:** 만성질환을 줄이려면 의료서비스뿐 아니라 건강결정요인인 주거와 식품 환경도 바꿔야 한다.
 
-**어휘 연결:** `위험요인` là yếu tố làm tăng xác suất một bệnh cụ thể; `건강결정요인` rộng hơn, bao gồm cả điều kiện xã hội định hình sức khỏe tổng thể.
+**Dịch:** Để giảm bớt các bệnh mãn tính, chúng ta cần thay đổi không chỉ các dịch vụ y tế mà còn cả môi trường nhà ở và thực phẩm, những yếu tố quyết định sức khỏe.
 
-**영어 참고:** *social determinants of health*, *health determinants* — điều kiện xã hội và môi trường ảnh hưởng đến sức khỏe.
+**어휘 연결:** `위험요인` là yếu tố làm tăng xác suất một bệnh cụ thể; `건강결정요인` rộng hơn, bao gồm cả điều kiện xã hội định hình sức khỏe tổng thể. — `Yếu tố rủi ro` là yếu tố làm tăng xác một bệnh cụ thể; ``Các yếu tố quyết định sức khỏe`` rộng hơn, bao gồm các điều kiện xã hội quyết định sức khỏe tổng thể.
+
+**영어 참고:** *social determinants of health*, *health determinants* — Đó là điều tôi đã làm.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** cơ chế quản trị y tế và chăm sóc sức khỏe.
 
-**뉘앙스와 사용법:** 중앙정부의 지시만이 아니라 여러 주체의 참여·조정·책임성·정보공개를 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh không chỉ hướng dẫn của chính quyền trung ương mà còn cả sự tham gia, phối hợp, trách nhiệm và tiết lộ thông tin của nhiều đơn vị.
 
-**재사용 가능한 콜로케이션·청크:** `보건의료 거버넌스 체계`, `지역 보건의료 거버넌스`, `거버넌스를 강화하다`.
+**재사용 가능한 콜로케이션·청크:** `보건의료 거버넌스 체계`, `지역 보건의료 거버넌스`, `거버넌스를 강화하다`. — `Hệ thống quản lý chăm sóc sức khỏe`, `Quản lý chăm sóc sức khỏe địa phương`, `Tăng cường quản lý`.
 
-**자주 쓰는 문형과 성분:** `기관들이 보건의료 거버넌스를 구축하다`; 감염병·병상·재정·지역협력과 결합한다.
+**자주 쓰는 문형과 성분:** `기관들이 보건의료 거버넌스를 구축하다`, `Các tổ chức thiết lập quản lý chăm sóc sức khỏe` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공행정·보건정책·의료개혁의 전문어다.
+**사회적 관계·주제별 register:** Đây là biệt ngữ về hành chính công, chính sách y tế và cải cách y tế.
 
 **예문:** 감염병 대응의 신뢰를 높이려면 중앙정부와 지역 의료기관을 잇는 거버넌스가 필요하다.
 
-**어휘 연결:** `보건행정` là việc cơ quan nhà nước thực hiện quản lý; `거버넌스` nhấn mạnh mạng lưới nhiều chủ thể cùng quyết định và chịu trách nhiệm.
+**Dịch:** Để tăng cường niềm tin trong việc ứng phó với các bệnh truyền nhiễm, việc quản lý kết nối chính quyền trung ương và các tổ chức y tế địa phương là cần thiết.
 
-**영어 참고:** *health governance*, *healthcare governance* — cơ chế phối hợp, ra quyết định và giải trình trong hệ thống y tế.
+**어휘 연결:** `보건행정` là việc cơ quan nhà nước thực hiện quản lý; `거버넌스` nhấn mạnh mạng lưới nhiều chủ thể cùng quyết định và chịu trách nhiệm. — `Quản lý y tế` là việc làm cơ quan nhà nước thực hiện quản lý; `Quản trị` là một điều tốt.
+
+**영어 참고:** *health governance*, *healthcare governance* — Đúng rồi, không sao đâu.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** kê đơn xã hội, kết nối người bệnh với hoạt động cộng đồng.
 
-**뉘앙스와 사용법:** 질병을 마음가짐 탓으로 돌리는 것이 아니라 고립·주거·경제 문제를 지역 자원과 연결해 건강의 조건을 개선한다.
+**뉘앙스와 사용법:** Thay vì đổ lỗi cho bệnh tật về tư duy, hãy cải thiện tình trạng sức khỏe bằng cách kết nối các vấn đề về sự cô lập, nhà ở và kinh tế với các nguồn lực địa phương.
 
-**재사용 가능한 콜로케이션·청크:** `사회적 처방 프로그램`, `사회적 처방을 연계하다`, `지역사회 사회적 처방`.
+**재사용 가능한 콜로케이션·청크:** `사회적 처방 프로그램`, `사회적 처방을 연계하다`, `지역사회 사회적 처방`. — `Chương trình kê đơn xã hội`, `Liên kết đơn thuốc xã hội`, `Đơn thuốc xã hội cộng đồng`.
 
-**자주 쓰는 문형과 성분:** `의료진이 N을 사회적 처방으로 연계하다`; 고립·우울·노인돌봄·문화활동과 결합한다.
+**자주 쓰는 문형과 성분:** `의료진이 N을 사회적 처방으로 연계하다`, `Nhân viên y tế kết nối N với đơn thuốc xã hội` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 지역보건·정신건강·통합돌봄의 정책어다.
+**사회적 관계·주제별 register:** Thuật ngữ chính sách về sức khỏe địa phương, sức khỏe tâm thần và chăm sóc tổng hợp.
 
 **예문:** 의료진은 약을 늘리기보다 고립된 노인을 사회적 처방 프로그램과 연결했다.
 
-**어휘 연결:** `의료 처방` là chỉ định điều trị y khoa; `사회적 처방` bổ sung kết nối xã hội và hoạt động cộng đồng, không thay thế mọi điều trị cần thiết.
+**Dịch:** Thay vì tăng lượng thuốc, nhân viên y tế đã kết nối những người già bị cô lập với chương trình kê đơn xã hội.
 
-**영어 참고:** *social prescribing* — kết nối người bệnh với hoạt động cộng đồng và hỗ trợ xã hội như một phần của chăm sóc.
+**어휘 연결:** `의료 처방` là chỉ định điều trị y khoa; `사회적 처방` bổ sung kết nối xã hội và hoạt động cộng đồng, không thay thế mọi điều trị cần thiết. — `Toa thuốc` là điều trị y khoa chỉ định; Tiện ích bổ sung ``Đơn thuốc xã hội` kết nối xã hội và hoạt động cộng đồng, không thay thế.
+
+**영어 참고:** *social prescribing* — Đó chính là điều tôi đang nói đến.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** tính liên tục của chăm sóc.
 
-**뉘앙스와 사용법:** 한 번의 친절한 서비스보다 기록·책임·관계·정보가 다음 단계로 이어지는 체계를 말한다.
+**뉘앙스와 사용법:** Đề cập đến hệ thống trong đó các bản ghi, trách nhiệm, mối quan hệ và thông tin tiếp tục chuyển sang bước tiếp theo thay vì chỉ một dịch vụ thân thiện.
 
-**재사용 가능한 콜로케이션·청크:** `돌봄 연속성 확보`, `돌봄 연속성이 끊기다`, `지역 돌봄 연속성`.
+**재사용 가능한 콜로케이션·청크:** `돌봄 연속성 확보`, `돌봄 연속성이 끊기다`, `지역 돌봄 연속성`. — `Đảm bảo tính liên tục của việc chăm sóc`, `Gián đoạn việc liên tục chăm sóc`, `Tính liên tục của việc chăm sóc tại địa phương`.
 
-**자주 쓰는 문형과 성분:** `기관이 돌봄 연속성을 보장하다`; 퇴원·전원·재가돌봄·가족과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 돌봄 연속성을 보장하다`, `Tổ chức đảm bảo tính liên tục của việc chăm sóc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 통합돌봄·장기요양·의료전달체계의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho hệ thống chăm sóc tích hợp, chăm sóc dài hạn và cung cấp dịch vụ y tế.
 
 **예문:** 퇴원 뒤에도 돌봄 연속성이 유지되도록 병원과 지역 복지기관이 정보를 공유했다.
 
-**어휘 연결:** `서비스 연계` là nối các dịch vụ; `돌봄 연속성` nhấn mạnh trải nghiệm hỗ trợ không bị đứt đoạn qua thời gian và cơ quan.
+**Dịch:** Bệnh viện và các tổ chức phúc lợi địa phương đã chia sẻ thông tin để đảm bảo tính liên tục của việc chăm sóc ngay cả sau khi xuất viện.
 
-**영어 참고:** *continuity of care* — việc chăm sóc nhất quán và liên tục khi người bệnh chuyển giữa các nhà cung cấp.
+**어휘 연결:** `서비스 연계` là nối các dịch vụ; `돌봄 연속성` nhấn mạnh trải nghiệm hỗ trợ không bị đứt đoạn qua thời gian và cơ quan. — `Kết nối dịch vụ` là kết nối các dịch vụ; `Continuity of care` nhấn mạnh trải nghiệm hỗ trợ không cần thiết giai đoạn cơ bản và thời gian.
+
+**영어 참고:** *continuity of care* — Đó là điều sẽ xảy ra.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** ra quyết định chung.
 
-**뉘앙스와 사용법:** 환자에게 선택을 떠넘기는 것이 아니라, 전문적 판단과 환자의 가치·생활 조건을 함께 반영한다.
+**뉘앙스와 사용법:** Thay vì để bệnh nhân lựa chọn, nó phản ánh phán đoán chuyên môn cũng như các giá trị và điều kiện sống của bệnh nhân.
 
-**재사용 가능한 콜로케이션·청크:** `공유 의사결정`, `의사결정 공유 과정`, `의사결정을 공유하다`.
+**재사용 가능한 콜로케이션·청크:** `공유 의사결정`, `의사결정 공유 과정`, `의사결정을 공유하다`. — `Ra quyết định chung`, `Quy trình ra quyết định chung`, `Ra quyết định chung`.
 
-**자주 쓰는 문형과 성분:** `의료진과 환자가 의사결정을 공유하다`; 치료선택·위험·예후와 결합한다.
+**자주 쓰는 문형과 성분:** `의료진과 환자가 의사결정을 공유하다`, `Nhân viên y tế và bệnh nhân chia sẻ việc ra quyết định` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상윤리·환자권리·의료 커뮤니케이션의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật về đạo đức lâm sàng, quyền của bệnh nhân và giao tiếp y tế.
 
 **예문:** 치료 선택지가 여러 개라면 의료진은 환자와 의사결정 공유를 거쳐 계획을 정해야 한다.
 
-**어휘 연결:** `환자 동의` là sự chấp thuận sau khi được giải thích; `의사결정 공유` rộng hơn, bao gồm đối thoại về giá trị, lựa chọn và sự không chắc chắn.
+**Dịch:** Nếu có nhiều lựa chọn điều trị, nhân viên y tế phải quyết định một kế hoạch sau khi chia sẻ quyền ra quyết định với bệnh nhân.
 
-**영어 참고:** *shared decision-making* — quá trình bệnh nhân và chuyên gia cùng cân nhắc bằng chứng, rủi ro và ưu tiên cá nhân.
+**어휘 연결:** `환자 동의` là sự chấp thuận sau khi được giải thích; `의사결정 공유` rộng hơn, bao gồm đối thoại về giá trị, lựa chọn và sự không chắc chắn. — `Sự đồng ý của bệnh nhân` là sự chấp thuận sau khi được giải quyết; ``Quyết định được chia sẻ`rộng hơn, bao gồm các đối thoại về giá trị, lựa chọn và sự không chắc chắn.
+
+**영어 참고:** *shared decision-making* — Đúng vậy.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** kết quả do bệnh nhân tự báo cáo.
 
-**뉘앙스와 사용법:** 의사가 측정한 수치나 검사 결과만으로는 보이지 않는 치료의 실제 체감 효과를 평가한다.
+**뉘앙스와 사용법:** Đánh giá hiệu quả điều trị thực tế được cảm nhận mà không thể chỉ nhìn thấy được thông qua các giá trị do bác sĩ đo lường hoặc kết quả xét nghiệm.
 
-**재사용 가능한 콜로케이션·청크:** `환자보고결과 측정`, `환자보고결과 지표`, `환자보고결과를 반영하다`.
+**재사용 가능한 콜로케이션·청크:** `환자보고결과 측정`, `환자보고결과 지표`, `환자보고결과를 반영하다`. — `Đo lường kết quả do bệnh nhân báo cáo`, `Chỉ báo kết quả do bệnh nhân báo cáo`, `Phản ánh kết quả do bệnh nhân báo cáo`.
 
-**자주 쓰는 문형과 성분:** `환자보고결과를 수집하다`; 통증·피로·삶의 질·기능회복과 결합한다.
+**자주 쓰는 문형과 성분:** `환자보고결과를 수집하다`, `Thu thập kết quả báo cáo của bệnh nhân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상시험·보건의료 평가·환자중심 의료의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật cho các thử nghiệm lâm sàng, đánh giá chăm sóc sức khỏe và chăm sóc y tế lấy bệnh nhân làm trung tâm.
 
 **예문:** 임상시험은 종양 크기뿐 아니라 환자보고결과인 피로와 일상 기능도 함께 평가했다.
 
-**어휘 연결:** `임상지표` thường do bác sĩ hoặc thiết bị đo; `환자보고결과` giữ tiếng nói trực tiếp của người bệnh về trải nghiệm và chức năng.
+**Dịch:** Thử nghiệm không chỉ đánh giá kích thước khối u mà còn đánh giá kết quả do bệnh nhân báo cáo về tình trạng mệt mỏi và chức năng hàng ngày.
 
-**영어 참고:** *patient-reported outcome*, *PRO* — kết quả sức khỏe được bệnh nhân tự đánh giá bằng bảng hỏi hoặc báo cáo.
+**어휘 연결:** `임상지표` thường do bác sĩ hoặc thiết bị đo; `환자보고결과` giữ tiếng nói trực tiếp của người bệnh về trải nghiệm và chức năng. — `Chỉ số lâm sàng` thường làm bác sĩ hoặc thiết bị đo; `Bệnh nhân báo cáo kết quả`
+
+**영어 참고:** *patient-reported outcome*, *PRO* — Đúng vậy.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** mức độ tuân thủ điều trị.
 
-**뉘앙스와 사용법:** 환자에게 책임을 돌리는 말로만 쓰면 안 된다. 비용·부작용·이해도·접근성 같은 의료체계 조건도 순응도에 영향을 준다.
+**뉘앙스와 사용법:** Bạn không nên chỉ sử dụng những từ ngữ đặt trách nhiệm lên vai bệnh nhân. Các điều kiện của hệ thống y tế như chi phí, tác dụng phụ, sự hiểu biết và khả năng tiếp cận cũng ảnh hưởng đến việc tuân thủ.
 
-**재사용 가능한 콜로케이션·청크:** `치료 순응도 향상`, `순응도가 낮다`, `약물 순응도`.
+**재사용 가능한 콜로케이션·청크:** `치료 순응도 향상`, `순응도가 낮다`, `약물 순응도`. — `Tuân thủ điều trị được cải thiện`, `Tuân thủ thấp`, `Tuân thủ thuốc`.
 
-**자주 쓰는 문형과 성분:** `환자의 치료 순응도가 높다`; 복약·추적관찰·만성질환과 결합한다.
+**자주 쓰는 문형과 성분:** `환자의 치료 순응도가 높다`, `Sự tuân thủ điều trị của bệnh nhân cao` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상·약학·보건교육의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho giáo dục lâm sàng, dược phẩm và sức khỏe.
 
 **예문:** 복약 순응도를 높이려면 환자에게 지시만 하기보다 부작용과 비용을 함께 조정해야 한다.
 
-**어휘 연결:** `순응도` có thể nghe như đánh giá bệnh nhân phải nghe lời; `치료 이행` trung tính hơn và nhấn mạnh cả hỗ trợ hệ thống để thực hiện kế hoạch.
+**Dịch:** Để tăng cường tuân thủ thuốc, tác dụng phụ và chi phí phải được điều chỉnh cùng nhau thay vì chỉ đưa ra hướng dẫn cho bệnh nhân.
 
-**영어 참고:** *treatment adherence*, *medication adherence* — mức độ người bệnh thực hiện kế hoạch điều trị, khác với khái niệm “compliance” mang sắc thái bị động hơn.
+**어휘 연결:** `순응도` có thể nghe như đánh giá bệnh nhân phải nghe lời; `치료 이행` trung tính hơn và nhấn mạnh cả hỗ trợ hệ thống để thực hiện kế hoạch. — `Tuân thủ` cũng quan trọng; `Triển khai điều trị` trung tính hơn và nhấn hệ thống hỗ trợ để thực hiện kế hoạch.
+
+**영어 참고:** *treatment adherence*, *medication adherence* — “tuân thủ” mang sắc thái thiết bị hơn.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** sử dụng dịch vụ y tế quá mức.
 
-**뉘앙스와 사용법:** 많이 이용한다는 뜻만으로 판단하지 않으며, 환자에게 실질적 이득이 있는지와 위해·비용을 함께 비교한다.
+**뉘앙스와 사용법:** Chúng tôi không đánh giá chỉ dựa trên thực tế là nó được sử dụng rộng rãi mà so sánh lợi ích thực tế đối với bệnh nhân cũng như rủi ro và chi phí.
 
-**재사용 가능한 콜로케이션·청크:** `의료 과잉이용을 줄이다`, `과잉이용 방지`, `불필요한 의료 과잉이용`.
+**재사용 가능한 콜로케이션·청크:** `의료 과잉이용을 줄이다`, `과잉이용 방지`, `불필요한 의료 과잉이용`. — ‘Giảm lạm dụng dịch vụ y tế’, ‘Ngăn chặn lạm dụng dịch vụ y tế’, ‘Ngăn chặn lạm dụng dịch vụ y tế không cần thiết’.
 
-**자주 쓰는 문형과 성분:** `N이 의료 과잉이용으로 이어지다`; 영상검사·항생제·응급실과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 의료 과잉이용으로 이어지다`, `N dẫn đến lạm dụng y tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건의료 정책·환자안전·보험재정의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về chính sách chăm sóc sức khỏe, an toàn bệnh nhân và tài chính bảo hiểm.
 
 **예문:** 설명 없이 반복 검사를 권하면 의료 과잉이용과 환자의 불안을 함께 키울 수 있다.
 
-**어휘 연결:** `의료이용 증가` là mô tả số lần dùng tăng, trung tính; `의료 과잉이용` là đánh giá rằng lợi ích không tương xứng với chi phí hoặc nguy cơ.
+**Dịch:** Đề xuất xét nghiệm lặp lại mà không giải thích có thể dẫn đến việc lạm dụng dịch vụ chăm sóc y tế và làm tăng sự lo lắng của bệnh nhân.
 
-**영어 참고:** *overuse of healthcare*, *low-value care* — sử dụng hoặc cung cấp chăm sóc có lợi ích thấp so với chi phí/rủi ro.
+**어휘 연결:** `의료이용 증가` là mô tả số lần dùng tăng, trung tính; `의료 과잉이용` là đánh giá rằng lợi ích không tương xứng với chi phí hoặc nguy cơ. — `Gia tăng sử dụng y tế` là mô tả số lần sử dụng tăng, trung tính; ``Lạm dụng chăm sóc y tế` là một vấn đề lớn.
+
+**영어 참고:** *overuse of healthcare*, *low-value care* — use or cung cấp chăm sóc có ích thấp với chi phí/rủi ro.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** sử dụng dịch vụ y tế không đủ mức cần thiết.
 
-**뉘앙스와 사용법:** 개인의 무관심만이 아니라 비용·거리·차별·정보 부족·예약 구조 같은 장벽을 함께 분석한다.
+**뉘앙스와 사용법:** Phân tích không chỉ sự thờ ơ của cá nhân mà còn cả các rào cản như chi phí, khoảng cách, sự phân biệt đối xử, thiếu thông tin và cấu trúc đặt trước.
 
-**재사용 가능한 콜로케이션·청크:** `의료 과소이용 문제`, `필수의료 과소이용`, `과소이용을 해소하다`.
+**재사용 가능한 콜로케이션·청크:** `의료 과소이용 문제`, `필수의료 과소이용`, `과소이용을 해소하다`. — `Vấn đề sử dụng không đúng mức dịch vụ chăm sóc y tế`, `Sử dụng không đúng mức các dịch vụ y tế thiết yếu`, `Giải quyết việc sử dụng không đúng mức`.
 
-**자주 쓰는 문형과 성분:** `취약계층에서 의료 과소이용이 나타나다`; 예방접종·검진·정신건강과 결합한다.
+**자주 쓰는 문형과 성분:** `취약계층에서 의료 과소이용이 나타나다`, `Việc sử dụng dịch vụ chăm sóc y tế không đúng mức xuất hiện ở các nhóm dễ bị tổn thương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 건강형평성·복지·지역의료 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật về công bằng y tế, phúc lợi và chính sách y tế khu vực.
 
 **예문:** 본인부담금과 교통 불편이 동시에 높으면 만성질환자의 의료 과소이용이 심해질 수 있다.
 
-**어휘 연결:** `미이용` chỉ việc không dùng; `의료 과소이용` hàm ý dịch vụ cần thiết đã không được tiếp cận đủ do rào cản hoặc phân bổ bất bình đẳng.
+**Dịch:** Nếu chi phí tự chi trả và sự bất tiện trong vận chuyển đồng thời cao, việc sử dụng dịch vụ chăm sóc y tế không đúng mức ở bệnh nhân mắc bệnh mãn tính có thể trở nên tồi tệ hơn.
 
-**영어 참고:** *underuse of healthcare*, *undertreatment* — không nhận đủ dịch vụ cần thiết, thường gắn với bất bình đẳng tiếp cận.
+**어휘 연결:** `미이용` chỉ việc không dùng; `의료 과소이용` hàm ý dịch vụ cần thiết đã không được tiếp cận đủ do rào cản hoặc phân bổ bất bình đẳng. — `Not used` chỉ không dùng; `Việc sử dụng không đúng mức dịch vụ chăm sóc y tế` là một vấn đề.
+
+**영어 참고:** *underuse of healthcare*, *undertreatment* — Đúng vậy, đúng vậy.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** giá trị ngoại suy, tính khái quát bên ngoài.
 
-**뉘앙스와 사용법:** 연구 내부에서 원인과 결과를 제대로 판단했는지와 별개로, 실제 현장에 옮겨도 같은 결과가 나오는지를 묻는다.
+**뉘앙스와 사용법:** Bất kể nguyên nhân và kết quả có được xác định chính xác trong nghiên cứu hay không, chúng tôi hỏi liệu có thu được kết quả tương tự khi thực hiện trong trường thực tế hay không.
 
-**재사용 가능한 콜로케이션·청크:** `외적 타당도가 높다`, `외적 타당도에 한계가 있다`, `외적 타당도를 검토하다`.
+**재사용 가능한 콜로케이션·청크:** `외적 타당도가 높다`, `외적 타당도에 한계가 있다`, `외적 타당도를 검토하다`. — `Giá trị bên ngoài cao`, `Giá trị bên ngoài có giới hạn`, `Kiểm tra giá trị bên ngoài`.
 
-**자주 쓰는 문형과 성분:** `연구 결과의 외적 타당도를 평가하다`; 표본·현장·일반화와 결합한다.
+**자주 쓰는 문형과 성분:** `연구 결과의 외적 타당도를 평가하다`, `Đánh giá giá trị bên ngoài của kết quả nghiên cứu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상시험·정책평가·연구방법론의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật cho các thử nghiệm lâm sàng, đánh giá chính sách và phương pháp nghiên cứu.
 
 **예문:** 젊은 성인만 포함한 실험의 결과는 고령 환자에게 외적 타당도가 낮을 수 있다.
 
-**어휘 연결:** `일반화 가능성` là cách nói dễ hiểu; `외적 타당도` là khái niệm phương pháp luận hỏi điều kiện và phạm vi mà kết quả có thể áp dụng.
+**Dịch:** Kết quả từ các thử nghiệm chỉ bao gồm những người trưởng thành trẻ tuổi có thể có giá trị bên ngoài thấp hơn ở những bệnh nhân lớn tuổi.
 
-**영어 참고:** *external validity*, *generalizability* — mức độ kết quả có thể áp dụng ngoài mẫu và bối cảnh nghiên cứu.
+**어휘 연결:** `일반화 가능성` là cách nói dễ hiểu; `외적 타당도` là khái niệm phương pháp luận hỏi điều kiện và phạm vi mà kết quả có thể áp dụng. — `Generalizability` là cách khá dễ hiểu; ``Giá trị bên ngoài` là quan trọng.
+
+**영어 참고:** *external validity*, *generalizability* — Đúng vậy.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** giá trị nội tại, tính đúng đắn nội bộ của nghiên cứu.
 
-**뉘앙스와 사용법:** 교란·선택편향·측정오류·탈락 때문에 결론이 흔들리지 않는지를 평가한다. 내적 타당도가 낮으면 일반화 이전에 연구 자체의 인과 결론이 약하다.
+**뉘앙스와 사용법:** Đánh giá xem kết luận có chắc chắn hay không do gây nhiễu, sai lệch lựa chọn, lỗi đo lường hoặc bỏ học. Nếu giá trị nội tại thấp thì bản thân các kết luận nhân quả của nghiên cứu sẽ yếu trước khi khái quát hóa.
 
-**재사용 가능한 콜로케이션·청크:** `내적 타당도 확보`, `내적 타당도가 높다`, `내적 타당도 위협`.
+**재사용 가능한 콜로케이션·청크:** `내적 타당도 확보`, `내적 타당도가 높다`, `내적 타당도 위협`. — `Đảm bảo tính hợp lệ nội bộ`, `Tính hợp lệ nội bộ cao`, `Mối đe dọa đối với tính hợp lệ nội bộ`.
 
-**자주 쓰는 문형과 성분:** `연구의 내적 타당도를 저해하다`; 무작위배정·대조군·편향과 결합한다.
+**자주 쓰는 문형과 성분:** `연구의 내적 타당도를 저해하다`, `Làm suy yếu giá trị nội bộ của nghiên cứu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상연구·역학·실험설계의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ dành cho nghiên cứu lâm sàng, dịch tễ học và thiết kế thí nghiệm.
 
 **예문:** 무작위배정과 눈가림을 적용해 연구의 내적 타당도를 높였다.
 
-**어휘 연결:** `내적 타당도` hỏi kết luận nhân quả có đáng tin trong chính nghiên cứu; `외적 타당도` hỏi có thể chuyển kết quả ra bối cảnh khác hay không.
+**Dịch:** Chọn ngẫu nhiên và làm mù đã được áp dụng để tăng giá trị nội tại của nghiên cứu.
 
-**영어 참고:** *internal validity* — mức độ thiết kế và thực hiện nghiên cứu hỗ trợ kết luận nhân quả bên trong mẫu nghiên cứu.
+**어휘 연결:** `내적 타당도` hỏi kết luận nhân quả có đáng tin trong chính nghiên cứu; `외적 타당도` hỏi có thể chuyển kết quả ra bối cảnh khác hay không. — `Giá trị nội tại` hỏi kết luận nhân tác có đáng tin trong nghiên cứu chính; ``Giá trị bên ngoài` là quan trọng.
+
+**영어 참고:** *internal validity* — Đó chính là điều tôi đang nói đến.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** khác biệt tối thiểu có ý nghĩa lâm sàng.
 
-**뉘앙스와 사용법:** 통계적으로 유의한 차이가 환자 삶에서 체감할 만큼 중요한지 판단하는 기준이다.
+**뉘앙스와 사용법:** Đây là tiêu chuẩn để xác định liệu sự khác biệt có ý nghĩa thống kê có đủ quan trọng để bệnh nhân cảm nhận được hay không.
 
-**재사용 가능한 콜로케이션·청크:** `최소임상중요차이 이상`, `최소임상중요차이를 설정하다`, `임상적 의미`.
+**재사용 가능한 콜로케이션·청크:** `최소임상중요차이 이상`, `최소임상중요차이를 설정하다`, `임상적 의미`. — `Nhiều hơn sự khác biệt quan trọng về mặt lâm sàng`, `Thiết lập sự khác biệt quan trọng về mặt lâm sàng tối thiểu`, `Ý nghĩa lâm sàng`.
 
-**자주 쓰는 문형과 성분:** `효과가 최소임상중요차이를 넘다`; 통증·기능·삶의 질·환자보고결과와 결합한다.
+**자주 쓰는 문형과 성분:** `효과가 최소임상중요차이를 넘다`, `Hiệu quả vượt quá sự khác biệt quan trọng về mặt lâm sàng tối thiểu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 임상시험·의료기술평가·환자중심 연구의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật để chỉ các thử nghiệm lâm sàng, đánh giá công nghệ y tế và nghiên cứu lấy bệnh nhân làm trung tâm.
 
 **예문:** 평균 점수의 차이는 통계적으로 유의했지만 최소임상중요차이에는 미치지 못했다.
 
-**어휘 연결:** `통계적 유의성` chỉ khó xảy ra do ngẫu nhiên; `최소임상중요차이` hỏi bệnh nhân có thật sự cảm nhận được thay đổi đủ quan trọng hay không.
+**Dịch:** Sự khác biệt về điểm số trung bình có ý nghĩa thống kê nhưng không đạt đến mức khác biệt quan trọng về mặt lâm sàng tối thiểu.
 
-**영어 참고:** *minimal clinically important difference*, *MCID* — mức thay đổi nhỏ nhất được xem là có ý nghĩa thực tế đối với bệnh nhân.
+**어휘 연결:** `통계적 유의성` chỉ khó xảy ra do ngẫu nhiên; `최소임상중요차이` hỏi bệnh nhân có thật sự cảm nhận được thay đổi đủ quan trọng hay không. — `Ý nghĩa thống kê` chỉ khó xảy ra do ngẫu nhiên; `Sự khác biệt quan trọng về mặt lâm sàng tối thiểu` là sự khác biệt quan trọng về mặt lâm sàng tối thiểu.
+
+**영어 참고:** *minimal clinically important difference*, *MCID* — Không sao nếu bạn không biết phải làm gì.
 
 ---
 

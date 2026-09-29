@@ -1,5 +1,13 @@
 # Korean Vocabulary Expansion State
 
+## 2026-09-29 Vietnamese-first retrofit
+
+- Applied the current Korean common-language contract to all 102 Korean lesson Markdown files under `korean/vocab/topics/` (legacy flat files included): `뉘앙스와 사용법`, reusable collocations/chunks, sentence patterns/components, social/topic register, `어휘 연결`, and `영어 참고` now carry Vietnamese explanations while retaining Korean/English lookup keywords.
+- Added a Vietnamese `Dịch` line after every learner-facing Korean example. Structural audit covers 1,393 entries with no missing required fields; `git diff --check` passes.
+- Follow-up cleanup removed generic translation placeholders and duplicate `Dịch` lines in the remaining legacy files; the final audit reports exactly one Vietnamese example translation per entry.
+- Updated `korean/prompt/COMMON_PROMPT.md`, `VOCAB_PROMPT.md`, `GRAMMAR_PROMPT.md`, and `vocabulary_goal/GOAL.md` to make the Vietnamese-first rule explicit and to require English references to be explained in Vietnamese.
+- This working tree cannot create `.git/index.lock` because the managed `.git` mount is read-only; changes are intentionally left unstaged for the next checkpoint commit in a writable checkout.
+
 ## Corpus baseline
 
 - Existing flat files under `korean/vocab/topics/` are legacy lessons and remain in place.

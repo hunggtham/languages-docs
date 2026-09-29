@@ -17,19 +17,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** đường nét khái quát, phác thảo tổng thể.
 
-**뉘앙스와 사용법:** 세부 조항을 모두 확정하기 전, 사업·사건·계획의 큰 구조가 드러난 상태를 말한다.
+**뉘앙스와 사용법:** Điều này đề cập đến trạng thái trong đó cấu trúc lớn của một dự án, sự kiện hoặc kế hoạch được tiết lộ trước khi tất cả các điều khoản chi tiết được hoàn thiện.
 
-**재사용 가능한 콜로케이션·청크:** `계약의 윤곽이 잡히다`, `사업 윤곽을 제시하다`, `전체 윤곽을 파악하다`.
+**재사용 가능한 콜로케이션·청크:** `계약의 윤곽이 잡히다`, `사업 윤곽을 제시하다`, `전체 윤곽을 파악하다`. — `Đề cương hợp đồng`, `Trình bày tóm tắt về doanh nghiệp`, `Hiểu được đề cương tổng thể`.
 
-**자주 쓰는 문형과 성분:** `N의 윤곽이 잡히다`; `N의 전체 윤곽을 그리다`; 사업·계획·사건·협상과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 윤곽이 잡히다`, `N의 전체 윤곽을 그리다`, `N được phác thảo`, `Vẽ toàn bộ đường nét của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기획·정책·언론 분석에서 쓰이는 공식적 분석어다.
+**사회적 관계·주제별 register:** Thuật ngữ phân tích chính thức được sử dụng trong lập kế hoạch, chính sách và phân tích phương tiện truyền thông.
 
 **예문:** 양측은 세부 조건을 조율하기 전에 공동 사업의 윤곽부터 공개했다.
 
-**어휘 연결:** `개요`는 내용을 간단히 요약한 정보이고, `윤곽`은 아직 세부가 완성되지 않았지만 전체 형태가 보인다는 뉘앙스다.
+**Dịch:** Cả hai bên đều tiết lộ đề cương của dự án chung trước khi thống nhất các điều kiện chi tiết.
 
-**영어 참고:** *outline*, *contours*, *overall shape* — 계획이나 사건의 큰 구조와 방향을 보여 주는 말이다.
+**어휘 연결:** `개요`는 내용을 간단히 요약한 정보이고, `윤곽`은 아직 세부가 완성되지 않았지만 전체 형태가 보인다는 뉘앙스다. — ‘Outline’ là thông tin tóm tắt ngắn gọn nội dung, còn ‘outline’ là sắc thái thể hiện hình khối tổng thể mặc dù các chi tiết chưa hoàn chỉnh.
+
+**영어 참고:** *outline*, *contours*, *overall shape* — Một từ thể hiện cấu trúc và hướng đi lớn của một kế hoạch hoặc sự kiện.
 
 ---
 
@@ -42,19 +44,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** vững chắc, kiên định, không lay chuyển.
 
-**뉘앙스와 사용법:** 단순히 강하다는 뜻보다 외부 압력이나 협상에도 입장과 기준이 쉽게 흔들리지 않는다는 뜻이다.
+**뉘앙스와 사용법:** Thay vì chỉ đơn giản là mạnh mẽ, điều đó có nghĩa là vị trí và tiêu chuẩn của một người không dễ bị lung lay bởi áp lực hoặc đàm phán bên ngoài.
 
-**재사용 가능한 콜로케이션·청크:** `확고한 원칙`, `입장이 확고하다`, `확고한 의지`.
+**재사용 가능한 콜로케이션·청크:** `확고한 원칙`, `입장이 확고하다`, `확고한 의지`. — `nguyên tắc vững chắc`, `lập trường vững chắc`, `ý chí vững chắc`.
 
-**자주 쓰는 문형과 성분:** `N이 확고하다`; `확고한 N을 세우다`; 원칙·입장·의지·기준과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 확고하다`, `확고한 N을 세우다`, `N vững chắc`, `Thành lập công ty N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책·협상·조직 운영에서 원칙과 태도를 평가하는 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức đánh giá các nguyên tắc và thái độ trong chính sách, đàm phán và hoạt động của tổ chức.
 
 **예문:** 발주처는 안전을 우선한다는 확고한 원칙을 계약서에 명시했다.
 
-**어휘 연결:** `단호하다`는 거부·결정을 강하게 밀어붙이는 태도이고, `확고하다`는 생각·기준·입장이 지속적으로 흔들리지 않는 상태다.
+**Dịch:** Bên đặt hàng nêu rõ trong hợp đồng nguyên tắc chắc chắn là ưu tiên an toàn.
 
-**영어 참고:** *firm*, *steadfast*, *well-established* — 입장·원칙·의지가 외부 압력에도 흔들리지 않는다는 뜻이다.
+**어휘 연결:** `단호하다`는 거부·결정을 강하게 밀어붙이는 태도이고, `확고하다`는 생각·기준·입장이 지속적으로 흔들리지 않는 상태다. — 'Kiên quyết' là thái độ phản đối mạnh mẽ những lời từ chối và quyết định, còn 'kiên quyết' là trạng thái của những suy nghĩ, tiêu chuẩn và lập trường liên tục không lay chuyển.
+
+**영어 참고:** *firm*, *steadfast*, *well-established* — Điều này có nghĩa là vị trí, nguyên tắc và ý chí không bị lung lay bởi áp lực bên ngoài.
 
 ---
 
@@ -67,19 +71,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** tiếp nhận, chấp nhận yêu cầu hoặc ý kiến.
 
-**뉘앙스와 사용법:** 마지못해 허용하는 것보다 검토한 뒤 공식적으로 받아들여 정책·계약·절차에 반영한다는 의미가 강하다.
+**뉘앙스와 사용법:** Có ý thức mạnh mẽ về việc xem xét và chính thức chấp nhận nó cũng như phản ánh nó trong các chính sách, hợp đồng và thủ tục thay vì miễn cưỡng cho phép nó.
 
-**재사용 가능한 콜로케이션·청크:** `요구를 수용하다`, `의견 수용`, `수용 여부를 검토하다`.
+**재사용 가능한 콜로케이션·청크:** `요구를 수용하다`, `의견 수용`, `수용 여부를 검토하다`. — `Chấp nhận yêu cầu`, `Chấp nhận ý kiến`, `Xem xét xem có nên chấp nhận nó` hay không.
 
-**자주 쓰는 문형과 성분:** `N을/를 수용하다`; `요구·의견·조건을 수용하다`; 협상·민원·정책과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 수용하다`, `요구·의견·조건을 수용하다`, `Chấp nhận N`, `Chấp nhận yêu cầu, ý kiến ​​và điều kiện` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 계약 협상·공공정책·민원 조정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho đàm phán hợp đồng, chính sách công và hòa giải khiếu nại dân sự.
 
 **예문:** 발주처는 현장 의견을 일부 수용해 안전 점검 절차를 보완했다.
 
-**어휘 연결:** `허용`은 해도 된다고 인정하는 것이고, `수용`은 상대의 요구나 의견을 받아들여 실제 결정에 반영하는 뉘앙스다.
+**Dịch:** Bên đặt hàng đã tiếp thu một số ý kiến ​​từ hiện trường và bổ sung các quy trình kiểm tra an toàn.
 
-**영어 참고:** *accept*, *accommodate*, *acceptance* — 요구·의견·조건을 검토한 뒤 받아들이는 행위다.
+**어휘 연결:** `허용`은 해도 된다고 인정하는 것이고, `수용`은 상대의 요구나 의견을 받아들여 실제 결정에 반영하는 뉘앙스다. — 'Cho phép' có nghĩa là thừa nhận rằng bạn có thể làm điều gì đó và 'chấp nhận' là sắc thái chấp nhận yêu cầu hoặc ý kiến ​​của người khác và phản ánh chúng trong quyết định thực tế.
+
+**영어 참고:** *accept*, *accommodate*, *acceptance* — Hành động xem xét và chấp nhận các yêu cầu, ý kiến ​​và điều kiện.
 
 ---
 
@@ -92,19 +98,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** chủ doanh nghiệp, người sở hữu/thực quyền của công ty.
 
-**뉘앙스와 사용법:** `대표이사`처럼 등기된 직책보다 실제 소유·지배 관계를 강조하며, 점술의 `사주`와는 문맥과 한자가 다르다.
+**뉘앙스와 사용법:** Nó nhấn mạnh vào các mối quan hệ sở hữu và kiểm soát thực tế hơn là các vị trí đã đăng ký như 'CEO', đồng thời bối cảnh và ký tự tiếng Trung khác với 'bói' trong bói toán.
 
-**재사용 가능한 콜로케이션·청크:** `회사 사주`, `사주의 지시`, `사주 일가`.
+**재사용 가능한 콜로케이션·청크:** `회사 사주`, `사주의 지시`, `사주 일가`. — `Người xúi giục công ty`, `Hướng dẫn của người xúi giục`, `Gia đình người xúi giục`.
 
-**자주 쓰는 문형과 성분:** `사주가 N을 결정하다`; `사주에게 책임을 묻다`; 지분·경영권·계열사와 결합한다.
+**자주 쓰는 문형과 성분:** `사주가 N을 결정하다`, `사주에게 책임을 묻다`, `Chủ sở hữu quyết định N`, `Giữ trách nhiệm cho chủ sở hữu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기업 지배구조와 언론 보도에서 쓰이는 준공식어이며, 중립적 문서에서는 `소유주`가 더 적절할 수 있다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ bán chính thức được sử dụng trong các báo cáo truyền thông và quản trị doanh nghiệp và 'chủ sở hữu' có thể phù hợp hơn trong các tài liệu trung lập.
 
 **예문:** 사주는 하청업체 선정 과정에 직접 개입하지 않았다고 해명했다.
 
-**어휘 연결:** `대표이사`는 법적으로 회사를 대표하는 직책이고, `사주`는 회사의 소유·지배력을 가진 사람이라는 뉘앙스가 강하다.
+**Dịch:** Chủ sở hữu giải thích rằng ông không trực tiếp tham gia vào quá trình lựa chọn nhà thầu phụ.
 
-**영어 참고:** *owner*, *controlling shareholder*, *business proprietor* — 등기 직책보다 소유·지배의 실질을 강조하는 표현이다.
+**어휘 연결:** `대표이사`는 법적으로 회사를 대표하는 직책이고, `사주`는 회사의 소유·지배력을 가진 사람이라는 뉘앙스가 강하다. — Có một sắc thái rõ ràng rằng ‘CEO’ là một vị trí đại diện hợp pháp cho công ty và ‘chủ sở hữu’ là người sở hữu và kiểm soát công ty.
+
+**영어 참고:** *owner*, *controlling shareholder*, *business proprietor* — Đây là cách diễn đạt nhấn mạnh bản chất của quyền sở hữu và kiểm soát hơn là vị trí đã đăng ký.
 
 ---
 
@@ -117,19 +125,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** việc bàn giao, chuyển giao vật phẩm hoặc quyền lợi.
 
-**뉘앙스와 사용법:** 물건을 보내는 `배송`보다 소유·점유·책임의 이전을 강조하는 법률·계약 용어다.
+**뉘앙스와 사용법:** Điều khoản pháp lý/hợp đồng nhấn mạnh đến việc chuyển giao quyền sở hữu, quyền sở hữu và trách nhiệm thay vì 'giao hàng' gửi hàng.
 
-**재사용 가능한 콜로케이션·청크:** `물품 인도`, `인도 시점`, `인도 의무를 이행하다`.
+**재사용 가능한 콜로케이션·청크:** `물품 인도`, `인도 시점`, `인도 의무를 이행하다`. — `Giao hàng`, `Thời gian giao hàng`, `Thực hiện nghĩa vụ giao hàng`.
 
-**자주 쓰는 문형과 성분:** `N을/를 인도하다`; `인도가 완료되다`; 물품·권리·서류·시설과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 인도하다`, `인도가 완료되다`, `giao N`, `Việc giao hàng đã hoàn tất` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 매매·조달·임대·법률 계약의 고급 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cấp cao dành cho hợp đồng mua bán, mua sắm, cho thuê và hợp đồng pháp lý.
 
 **예문:** 장비의 인도가 완료된 날부터 유지보수 책임은 수급 업체로 넘어간다.
 
-**어휘 연결:** `납품`은 발주처에 결과물을 넘기는 계약 행위이고, `인도`는 넘긴 뒤 소유·점유·책임이 이전되는 법적 효과까지 포함할 수 있다.
+**Dịch:** Kể từ ngày thiết bị được giao, trách nhiệm bảo trì được chuyển cho nhà cung cấp.
 
-**영어 참고:** *delivery*, *handover*, *transfer* — *handover*는 공식적인 인계, *transfer*는 권리·소유의 이전을 특히 강조한다.
+**어휘 연결:** `납품`은 발주처에 결과물을 넘기는 계약 행위이고, `인도`는 넘긴 뒤 소유·점유·책임이 이전되는 법적 효과까지 포함할 수 있다. — 'Giao hàng' là hành động hợp đồng bàn giao kết quả cho bên đặt hàng và 'giao hàng' có thể bao gồm hiệu lực pháp lý của việc chuyển quyền sở hữu, quyền sở hữu và trách nhiệm sau khi bàn giao.
+
+**영어 참고:** *delivery*, *handover*, *transfer* — *chuyển giao* đặc biệt nhấn mạnh đến việc chuyển giao chính thức và *chuyển giao* nhấn mạnh đến việc chuyển giao quyền và quyền sở hữu.
 
 ---
 
@@ -142,19 +152,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** bản chính, bản gốc có giá trị xác nhận.
 
-**뉘앙스와 사용법:** 단순한 복사본이 아니라 법적·행정적 효력을 판단할 때 기준이 되는 문서라는 의미가 강하다.
+**뉘앙스와 사용법:** Nó có ý nghĩa mạnh mẽ vì nó không chỉ là một bản sao mà còn là một tài liệu đóng vai trò là tiêu chuẩn khi đánh giá hiệu quả pháp lý và hành chính.
 
-**재사용 가능한 콜로케이션·청크:** `정본을 제출하다`, `정본과 사본`, `정본을 보관하다`.
+**재사용 가능한 콜로케이션·청크:** `정본을 제출하다`, `정본과 사본`, `정본을 보관하다`. — `Gửi bản sao xác thực`, `Bản gốc và bản sao`, `Giữ bản sao xác thực`.
 
-**자주 쓰는 문형과 성분:** `정본을/를 확인하다`; `정본으로 갈음하다`; 계약서·판결문·증명서·공증과 결합한다.
+**자주 쓰는 문형과 성분:** `정본을/를 확인하다`, `정본으로 갈음하다`, `Kiểm tra bản sao xác thực`, `thay thế bằng bản gốc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법원·공증·행정·계약 문서의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ cho các tài liệu tòa án, công chứng, hành chính và hợp đồng.
 
 **예문:** 양측은 서명한 계약서 정본을 각각 한 부씩 보관하기로 했다.
 
-**어휘 연결:** `원본`은 최초로 작성된 문서이고, `정본`은 공식 효력이 있는 기준 문서라는 기능을 강조하며, `사본`은 복제본이다.
+**Dịch:** Cả hai bên đồng ý giữ mỗi bên một bản sao của hợp đồng đã ký.
 
-**영어 참고:** *original*, *certified original*, *official copy* — 문서의 최초본 또는 공적으로 효력이 인정되는 기준본을 가리킨다.
+**어휘 연결:** `원본`은 최초로 작성된 문서이고, `정본`은 공식 효력이 있는 기준 문서라는 기능을 강조하며, `사본`은 복제본이다. — `Bản gốc` là tài liệu được tạo ban đầu, `bản sao xác thực` nhấn mạnh chức năng của một tài liệu tiêu chuẩn có hiệu lực chính thức và `bản sao` là bản sao.
+
+**영어 참고:** *original*, *certified original*, *official copy* — Đề cập đến phiên bản gốc của tài liệu hoặc phiên bản tiêu chuẩn được công nhận là có hiệu lực.
 
 ---
 
@@ -167,19 +179,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** khiếm khuyết, lỗi, khuyết điểm.
 
-**뉘앙스와 사용법:** 사소한 흠보다 계약 기준이나 안전·성능을 충족하지 못하게 하는 객관적인 문제를 가리키는 공식어다.
+**뉘앙스와 사용법:** Một từ chính thức đề cập đến các vấn đề khách quan cản trở việc đáp ứng các tiêu chuẩn hợp đồng hoặc sự an toàn/hiệu suất thay vì những sai sót nhỏ.
 
-**재사용 가능한 콜로케이션·청크:** `제품 결함`, `결함을 발견하다`, `결함을 보수하다`.
+**재사용 가능한 콜로케이션·청크:** `제품 결함`, `결함을 발견하다`, `결함을 보수하다`. — `Lỗi sản phẩm`, `Khám phá lỗi`, `Sửa lỗi`.
 
-**자주 쓰는 문형과 성분:** `N에 결함이 있다`; `결함을 시정하다`; 설계·품질·안전·납품과 결합한다.
+**자주 쓰는 문형과 성분:** `N에 결함이 있다`, `결함을 시정하다`, `N bị lỗi`, `sửa lỗi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 품질관리·제조·건설·법률 분쟁의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ các tranh chấp về kiểm soát chất lượng, sản xuất, xây dựng và pháp lý.
 
 **예문:** 검수 과정에서 구조적 결함이 발견되어 업체가 보강 공사를 진행했다.
 
-**어휘 연결:** `하자`는 계약 대상의 품질상 문제를 법률적으로 다루는 말이고, `결함`은 제품·구조·설계의 불완전성을 넓게 설명한다.
+**Dịch:** Các khiếm khuyết về kết cấu được phát hiện trong quá trình kiểm tra nên công ty đã tiến hành công việc gia cố.
 
-**영어 참고:** *defect*, *flaw*, *deficiency* — *defect*는 기능·품질상의 결함, *flaw*는 흠, *deficiency*는 요구 수준에 못 미치는 부족함이다.
+**어휘 연결:** `하자`는 계약 대상의 품질상 문제를 법률적으로 다루는 말이고, `결함`은 제품·구조·설계의 불완전성을 넓게 설명한다. — 'Khiếm khuyết' là thuật ngữ giải quyết về mặt pháp lý các vấn đề về chất lượng của đối tượng trong hợp đồng và 'khiếm khuyết' mô tả một cách rộng rãi những điểm không hoàn hảo trong sản phẩm, cấu trúc và thiết kế.
+
+**영어 참고:** *defect*, *flaw*, *deficiency* — *khiếm khuyết* là khiếm khuyết về chức năng hoặc chất lượng, *khiếm khuyết* là khiếm khuyết và *thiếu sót* là khiếm khuyết nằm dưới mức yêu cầu.
 
 ---
 
@@ -192,19 +206,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** thời hạn, khoảng thời gian.
 
-**뉘앙스와 사용법:** 막연한 시간보다 시작점·종료점이 정해진 법률·행정·계약상의 시간 범위를 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh phạm vi thời gian pháp lý, hành chính và hợp đồng với điểm bắt đầu và điểm kết thúc được xác định thay vì thời gian mơ hồ.
 
-**재사용 가능한 콜로케이션·청크:** `계약 기간`, `유효 기간`, `기간을 연장하다`.
+**재사용 가능한 콜로케이션·청크:** `계약 기간`, `유효 기간`, `기간을 연장하다`. — `Thời hạn hợp đồng`, `Thời hạn hiệu lực`, `Gia hạn`.
 
-**자주 쓰는 문형과 성분:** `기간 동안 N을 수행하다`; `기간이 만료되다`; 계약·보증·허가·사업과 결합한다.
+**자주 쓰는 문형과 성분:** `기간 동안 N을 수행하다`, `기간이 만료되다`, `thực hiện N trong khoảng thời gian`, `thời gian hết hạn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 계약서·공고·행정 문서의 기본 공식어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức cơ bản cho hợp đồng, thông báo và tài liệu hành chính.
 
 **예문:** 용역 기간 동안 발생한 안전사고의 보고 절차를 계약서에 명시했다.
 
-**어휘 연결:** `기한`은 반드시 지켜야 하는 마감 시점이고, `기간`은 시작과 끝 사이의 지속 구간이다.
+**Dịch:** Thủ tục báo cáo về các tai nạn an toàn xảy ra trong thời gian phục vụ đã được quy định trong hợp đồng.
 
-**영어 참고:** *term*, *period*, *duration* — *term*은 계약의 존속 기간, *period*는 일정 구간, *duration*은 지속 시간을 강조한다.
+**어휘 연결:** `기한`은 반드시 지켜야 하는 마감 시점이고, `기간`은 시작과 끝 사이의 지속 구간이다. — 'Hạn chót' là thời hạn phải được đáp ứng và 'thời hạn' là khoảng thời gian từ đầu đến cuối.
+
+**영어 참고:** *term*, *period*, *duration* — *thời hạn* nhấn mạnh thời hạn của hợp đồng, *thời gian* nhấn mạnh một khoảng thời gian nhất định và *duration* nhấn mạnh thời hạn.
 
 ---
 
@@ -217,19 +233,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** hỗn loạn, rối ren, mất trật tự.
 
-**뉘앙스와 사용법:** 단순한 실수보다 규정 위반과 통제 실패가 반복되어 질서가 무너진 상태를 비판하는 말이다.
+**뉘앙스와 사용법:** Đây là thuật ngữ chỉ trích sự phá vỡ trật tự do vi phạm quy tắc nhiều lần và lỗi kiểm soát chứ không phải là những lỗi đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `질서 문란`, `업무 문란`, `문란 행위를 바로잡다`.
+**재사용 가능한 콜로케이션·청크:** `질서 문란`, `업무 문란`, `문란 행위를 바로잡다`. — `Gây rối trật tự`, `Gián đoạn công việc`, `Khắc phục hành vi mất trật tự`.
 
-**자주 쓰는 문형과 성분:** `N이 문란해지다`; `질서를 문란하게 하다`; 조직·시장·풍기·계약 관리와 결합한다.
+**자주 쓰는 문형과 성분:** `N이 문란해지다`, `질서를 문란하게 하다`, `N trở nên lăng nhăng`, `gây rối trật tự` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 감사·법률·행정·사회 비평에서 쓰이는 강한 비판어다.
+**사회적 관계·주제별 register:** Một từ chỉ trích mạnh mẽ được sử dụng trong kiểm toán, luật, hành chính và phản biện xã hội.
 
 **예문:** 책임 주체가 계속 바뀌면 계약 관리가 문란해지고 피해 구제도 늦어진다.
 
-**어휘 연결:** `혼란`은 상황이 뒤섞여 판단하기 어려운 상태이고, `문란`은 규범·질서가 지켜지지 않는다는 비판적 의미가 강하다.
+**Dịch:** Nếu bên chịu trách nhiệm tiếp tục thay đổi, việc quản lý hợp đồng sẽ trở nên lộn xộn và việc khắc phục thiệt hại bị trì hoãn.
 
-**영어 참고:** *disorder*, *chaos*, *breach of order* — 규정과 질서가 무너진 상태를 비판적으로 표현한다.
+**어휘 연결:** `혼란`은 상황이 뒤섞여 판단하기 어려운 상태이고, `문란`은 규범·질서가 지켜지지 않는다는 비판적 의미가 강하다. — 'Hỗn loạn' là trạng thái trong đó các tình huống hỗn hợp và khó đánh giá, đồng thời 'rối loạn' có ý nghĩa phê phán mạnh mẽ rằng các chuẩn mực và trật tự không được duy trì.
+
+**영어 참고:** *disorder*, *chaos*, *breach of order* — Thể hiện một cách nghiêm túc tình trạng mà các quy định và trật tự đã sụp đổ.
 
 ---
 
@@ -242,19 +260,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** giành được, đạt được và nắm giữ.
 
-**뉘앙스와 사용법:** 일상적인 `얻다`보다 경쟁·투쟁·협상에서 성과를 적극적으로 쟁취했다는 문어적 뉘앙스가 강하다.
+**뉘앙스와 사용법:** Có một sắc thái văn học mạnh mẽ hơn về việc tích cực đạt được kết quả thông qua cạnh tranh, đấu tranh và đàm phán thay vì 'đạt được' hàng ngày.
 
-**재사용 가능한 콜로케이션·청크:** `시장 우위를 전취하다`, `성과를 전취하다`, `주도권을 전취하다`.
+**재사용 가능한 콜로케이션·청크:** `시장 우위를 전취하다`, `성과를 전취하다`, `주도권을 전취하다`. — `Chiếm lấy lợi thế thị trường`, `Chiếm lấy hiệu suất`, `Chiếm lấy vị trí dẫn đầu`.
 
-**자주 쓰는 문형과 성분:** `N을/를 전취하다`; 경쟁력·주도권·성과·권리와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 전취하다`, `giữ N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 논평·역사·정치·경영 전략의 높은 문어체에서 드물게 쓰인다.
+**사회적 관계·주제별 register:** Hiếm khi được sử dụng trong ngôn ngữ viết cấp cao trong bình luận, lịch sử, chính trị và chiến lược quản lý.
 
 **예문:** 후발 기업이 기술 격차를 줄이려면 신뢰와 품질에서 시장의 주도권을 전취해야 한다.
 
-**어휘 연결:** `확보하다`는 필요한 것을 안정적으로 마련하는 중립어이고, `전취하다`는 경쟁을 뚫고 성과를 쟁취했다는 적극적·문어적 느낌이 강하다.
+**Dịch:** Để những người đi sau thu hẹp khoảng cách về công nghệ, họ phải chiếm lấy vị trí dẫn đầu thị trường về niềm tin và chất lượng.
 
-**영어 참고:** *seize*, *secure*, *win* — 경쟁 속에서 기회·권리·우위를 적극적으로 차지한다는 뜻이다.
+**어휘 연결:** `확보하다`는 필요한 것을 안정적으로 마련하는 중립어이고, `전취하다`는 경쟁을 뚫고 성과를 쟁취했다는 적극적·문어적 느낌이 강하다. — 'An toàn' là một từ trung lập cung cấp ổn định những gì cần thiết và 'nắm bắt' có cảm giác mạnh mẽ, tích cực, bằng văn bản về việc vượt qua cạnh tranh và đạt được kết quả.
+
+**영어 참고:** *seize*, *secure*, *win* — Có nghĩa là tích cực nắm bắt các cơ hội, quyền lợi và lợi thế trong cạnh tranh.
 
 ---
 
@@ -267,19 +287,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** mức độ, cấp độ; (nghĩa gốc) mực nước.
 
-**뉘앙스와 사용법:** 본래 물의 높이를 뜻하지만, 정책·갈등·비판·제재가 얼마나 심한지를 평가하는 비유적 용법이 고급 담화에서 자주 쓰인다.
+**뉘앙스와 사용법:** Ban đầu đề cập đến mực nước, nhưng nó thường được sử dụng một cách ẩn dụ trong diễn ngôn cấp cao để đánh giá mức độ nghiêm trọng của các chính sách, xung đột, chỉ trích và trừng phạt.
 
-**재사용 가능한 콜로케이션·청크:** `비판 수위`, `제재 수위를 높이다`, `심각한 수위에 이르다`.
+**재사용 가능한 콜로케이션·청크:** `비판 수위`, `제재 수위를 높이다`, `심각한 수위에 이르다`. — `Mức độ chỉ trích`, `Nâng cao mức xử phạt`, `Đạt đến mức nghiêm trọng`.
 
-**자주 쓰는 문형과 성분:** `수위가 높아지다`; `수위를 조절하다`; 비판·대응·갈등·제재와 결합한다.
+**자주 쓰는 문형과 성분:** `수위가 높아지다`, `수위를 조절하다`, `mực nước dâng cao`, `điều chỉnh mực nước` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론·정책·외교·분쟁 보도의 분석어다.
+**사회적 관계·주제별 register:** Thuật ngữ phân tích về báo cáo truyền thông, chính sách, ngoại giao và xung đột.
 
 **예문:** 협상이 결렬되자 양측은 상대방을 향한 비판의 수위를 낮추지 않았다.
 
-**어휘 연결:** `정도`는 일반적인 수준이고, `수위`는 발언·조치·갈등의 강도나 단계가 높아지고 낮아지는 양상을 강조한다.
+**Dịch:** Khi đàm phán đổ vỡ, cả hai bên đều không hạ thấp mức độ chỉ trích đối phương.
 
-**영어 참고:** *level*, *intensity*, *degree* — 조치·갈등·발언의 강도나 단계가 어느 정도인지 나타낸다.
+**어휘 연결:** `정도`는 일반적인 수준이고, `수위`는 발언·조치·갈등의 강도나 단계가 높아지고 낮아지는 양상을 강조한다. — 'Cấp độ' là cấp độ chung và 'Cấp độ' nhấn mạnh cường độ hoặc mức độ nhận xét, hành động và xung đột ngày càng tăng và giảm.
+
+**영어 참고:** *level*, *intensity*, *degree* — Cho biết cường độ hoặc mức độ hành động, xung đột hoặc nhận xét.
 
 ---
 
@@ -292,19 +314,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** cắt giảm, giảm bớt về số lượng hoặc quy mô.
 
-**뉘앙스와 사용법:** 자연스럽게 줄어드는 `감소하다`와 달리, 조직이나 정책 주체가 목표를 세워 의도적으로 줄인다는 뜻이다.
+**뉘앙스와 사용법:** Không giống như 'giảm', giảm một cách tự nhiên, điều đó có nghĩa là một tổ chức hoặc thực thể chính sách đặt ra mục tiêu và cố tình giảm mục tiêu đó.
 
-**재사용 가능한 콜로케이션·청크:** `예산을 감축하다`, `배출량을 감축하다`, `인력을 감축하다`.
+**재사용 가능한 콜로케이션·청크:** `예산을 감축하다`, `배출량을 감축하다`, `인력을 감축하다`. — `Giảm ngân sách`, `Giảm khí thải`, `Giảm nhân lực`.
 
-**자주 쓰는 문형과 성분:** `N을/를 감축하다`; 비용·예산·인력·온실가스와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 감축하다`, `giảm ​​N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재정·환경·기업 구조조정·공공정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về tài chính, môi trường, tái cơ cấu doanh nghiệp và chính sách công.
 
 **예문:** 기관은 중복 사업을 정리해 운영비를 감축하기로 했다.
 
-**어휘 연결:** `감소하다`는 수량이 줄어드는 현상이고, `감축하다`는 정책·조직이 목표를 정해 줄이는 행위다.
+**Dịch:** Tổ chức đã quyết định giảm chi phí vận hành bằng cách loại bỏ các hoạt động kinh doanh chồng chéo.
 
-**영어 참고:** *reduce*, *cut*, *curtail* — *reduce*는 일반적 감소·감축, *cut*은 비용·인력의 직접 삭감, *curtail*은 활동·권한을 제한적으로 줄이는 격식어다.
+**어휘 연결:** `감소하다`는 수량이 줄어드는 현상이고, `감축하다`는 정책·조직이 목표를 정해 줄이는 행위다. — ‘Giảm’ là hiện tượng giảm số lượng và ‘giảm’ là hành động giảm bằng cách đặt mục tiêu cho chính sách hoặc tổ chức.
+
+**영어 참고:** *reduce*, *cut*, *curtail* — *reduce* là sự cắt giảm/cắt giảm chung, *cắt* là sự cắt giảm trực tiếp chi phí và nhân lực, và *cắt giảm* là một từ trang trọng nhằm hạn chế các hoạt động và quyền hạn.
 
 ---
 
@@ -317,19 +341,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** tình hình, cục diện chính trị-xã hội.
 
-**뉘앙스와 사용법:** 단순한 `상황`보다 여러 세력과 조건이 움직이는 큰 흐름을 분석할 때 쓰며, 국제·산업·지역과 자주 결합한다.
+**뉘앙스와 사용법:** Được sử dụng khi phân tích một lượng lớn các lực lượng và điều kiện khác nhau thay vì một 'tình huống' đơn giản và thường được kết hợp với các yếu tố quốc tế, công nghiệp và khu vực.
 
-**재사용 가능한 콜로케이션·청크:** `국제 정세`, `정세 변화`, `정세를 주시하다`.
+**재사용 가능한 콜로케이션·청크:** `국제 정세`, `정세 변화`, `정세를 주시하다`. — ‘Tình hình quốc tế’, ‘Thay đổi tình hình’, ‘Theo dõi tình hình’.
 
-**자주 쓰는 문형과 성분:** `정세가 급변하다`; `정세를 고려하다`; 국제관계·시장·안보·정책과 결합한다.
+**자주 쓰는 문형과 성분:** `정세가 급변하다`, `정세를 고려하다`, `Tình hình thay đổi nhanh chóng`, `xem xét tình hình` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·안보·경제 전망·공공정책의 분석어다.
+**사회적 관계·주제별 register:** Một từ phân tích về ngoại giao, an ninh, triển vọng kinh tế và chính sách công.
 
 **예문:** 불안정한 국제 정세 속에서 발주처는 공급망 위험을 계약 조건에 반영했다.
 
-**어휘 연결:** `정세`는 정치·경제적 세력 관계의 흐름이고, `동향`은 특정 집단이나 수치가 움직이는 방향을 관찰하는 말이다.
+**Dịch:** Trong bối cảnh tình hình quốc tế không ổn định, bên đặt hàng đã phản ánh rủi ro chuỗi cung ứng trong các điều khoản hợp đồng.
 
-**영어 참고:** *political situation*, *geopolitical landscape*, *state of affairs* — 여러 조건과 세력의 현재 국면을 분석하는 표현이다.
+**어휘 연결:** `정세`는 정치·경제적 세력 관계의 흐름이고, `동향`은 특정 집단이나 수치가 움직이는 방향을 관찰하는 말이다. — 'Tình hình' là dòng chảy của các mối quan hệ quyền lực chính trị và kinh tế và 'xu hướng' là một từ chỉ hướng di chuyển của một nhóm hoặc nhân vật cụ thể.
+
+**영어 참고:** *political situation*, *geopolitical landscape*, *state of affairs* — Đây là biểu thức phân tích tình hình hiện tại của các điều kiện và lực lượng khác nhau.
 
 ---
 
@@ -342,19 +368,21 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **베트남어 뜻:** việc tính thời hạn bắt đầu từ mốc quy định.
 
-**뉘앙스와 사용법:** 단순히 날짜를 세는 것이 아니라 법률·계약상 효력이 발생하는 기준점을 정한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là không chỉ đơn giản là đếm số ngày mà còn thiết lập một điểm chuẩn mà tại đó hiệu lực pháp lý và hợp đồng có hiệu lực.
 
-**재사용 가능한 콜로케이션·청크:** `기산일`, `기간을 기산하다`, `인도일을 기준으로 기산하다`.
+**재사용 가능한 콜로케이션·청크:** `기산일`, `기간을 기산하다`, `인도일을 기준으로 기산하다`. — `Ngày bắt đầu`, `Giai đoạn bắt đầu`, `Bắt đầu dựa trên ngày giao hàng`.
 
-**자주 쓰는 문형과 성분:** `N을 기준으로 기간을 기산하다`; `기산일이 다르다`; 계약·소송·보증·행정 기한과 결합한다.
+**자주 쓰는 문형과 성분:** `N을 기준으로 기간을 기산하다`, `기산일이 다르다`, `Tính thời gian dựa trên N`, `Ngày bắt đầu khác nhau` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·회계·행정·계약서의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho luật, kế toán, quản trị và hợp đồng.
 
 **예문:** 하자보수 기간은 장비의 인도일을 기준으로 기산한다.
 
-**어휘 연결:** `계산하다`는 수를 셈하는 일반어이고, `기산하다`는 법적·계약적 기간의 시작 기준을 정해 세는 전문어다.
+**Dịch:** Thời gian sửa chữa lỗi được tính dựa trên ngày giao thiết bị.
 
-**영어 참고:** *calculate from*, *run from*, *reckon from* — 특정 기준일을 시작점으로 기간을 계산한다는 뜻이다.
+**어휘 연결:** `계산하다`는 수를 셈하는 일반어이고, `기산하다`는 법적·계약적 기간의 시작 기준을 정해 세는 전문어다. — 'Tính toán' là từ chung để đếm số và 'tính toán' là từ kỹ thuật để tính bằng cách đặt tiêu chuẩn cho thời điểm bắt đầu thời hạn pháp lý hoặc hợp đồng.
+
+**영어 참고:** *calculate from*, *run from*, *reckon from* — Điều này có nghĩa là tính toán khoảng thời gian bắt đầu từ một ngày cơ sở cụ thể.
 
 ---
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** chuẩn bị cho đại dịch.
 
-**뉘앙스와 사용법:** 유행이 시작된 뒤의 방역만이 아니라 평시에 위험을 예측하고 반복 훈련하는 장기적 역량을 뜻한다.
+**뉘앙스와 사용법:** Điều này đề cập đến khả năng dài hạn để dự đoán rủi ro và huấn luyện liên tục trong thời gian bình thường chứ không chỉ cách ly sau khi đợt bùng phát bắt đầu.
 
-**재사용 가능한 콜로케이션·청크:** `팬데믹 대비 역량`, `팬데믹 대비 계획`, `팬데믹 대비 투자`.
+**재사용 가능한 콜로케이션·청크:** `팬데믹 대비 역량`, `팬데믹 대비 계획`, `팬데믹 대비 투자`. — 'Năng lực chuẩn bị cho đại dịch', 'Kế hoạch chuẩn bị cho đại dịch', 'Đầu tư chuẩn bị cho đại dịch'.
 
-**자주 쓰는 문형과 성분:** `정부가 팬데믹 대비를 강화하다`; 비축·모의훈련·감시와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 팬데믹 대비를 강화하다`, `Chính phủ tăng cường chuẩn bị cho đại dịch` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건정책·국제기구·재난관리 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo về chính sách y tế, các tổ chức quốc tế và quản lý thảm họa.
 
 **예문:** 팬데믹 대비는 새로운 병원체가 나타난 뒤가 아니라 평상시에 예산과 인력을 확보하는 일이다.
 
-**어휘 연결:** `감염병 대응`은 발생 후 조치이고, `팬데믹 대비`는 발생 전의 구조와 준비를 강조한다.
+**Dịch:** Chuẩn bị cho đại dịch là đảm bảo ngân sách và nhân lực trong thời gian bình thường chứ không phải sau khi mầm bệnh mới xuất hiện.
 
-**영어 참고:** *pandemic preparedness* — 대규모 감염병에 대비하는 평시의 정책·훈련·자원 준비다.
+**어휘 연결:** `감염병 대응`은 발생 후 조치이고, `팬데믹 대비`는 발생 전의 구조와 준비를 강조한다. — 'Ứng phó với bệnh truyền nhiễm' là biện pháp được thực hiện sau khi bùng phát, trong khi 'chuẩn bị cho đại dịch' nhấn mạnh vào cơ cấu và sự chuẩn bị trước khi bùng phát.
+
+**영어 참고:** *pandemic preparedness* — Chính sách thời bình, đào tạo và chuẩn bị nguồn lực để chuẩn bị cho các bệnh truyền nhiễm quy mô lớn.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** an ninh y tế.
 
-**뉘앙스와 사용법:** 군사안보와 분리된 의료 문제가 아니라 경제·사회 기능과 국가 회복력에 영향을 주는 전략 영역으로 다룬다.
+**뉘앙스와 사용법:** Đây không phải là vấn đề y tế tách biệt với an ninh quân sự mà được coi là một lĩnh vực chiến lược ảnh hưởng đến hoạt động kinh tế, xã hội và khả năng phục hồi của quốc gia.
 
-**재사용 가능한 콜로케이션·청크:** `국가 보건 안보`, `보건 안보 전략`, `보건 안보 위협`.
+**재사용 가능한 콜로케이션·청크:** `국가 보건 안보`, `보건 안보 전략`, `보건 안보 위협`. — `An ninh Y tế Quốc gia`, `Chiến lược An ninh Y tế`, `Các mối đe dọa An ninh Y tế`.
 
-**자주 쓰는 문형과 성분:** `국가가 보건 안보를 강화하다`; 백신·의약품·공급망과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 보건 안보를 강화하다`, `Quốc gia tăng cường an ninh y tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건복지·외교안보·국제협력 보도의 고급 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách nâng cao để báo cáo về sức khỏe và phúc lợi, ngoại giao và an ninh cũng như hợp tác quốc tế.
 
 **예문:** 보건 안보를 확보하려면 의료진뿐 아니라 원료와 진단 장비의 공급망도 안정되어야 한다.
 
-**어휘 연결:** `공중보건`은 인구집단의 건강 증진이고, `보건 안보`는 위기와 외부 충격에 대한 국가적 보호를 강조한다.
+**Dịch:** Để đảm bảo an ninh y tế, chuỗi cung ứng nguyên liệu, thiết bị chẩn đoán cũng như nhân viên y tế phải ổn định.
 
-**영어 참고:** *health security* — 감염병과 보건 위협으로부터 사회의 건강 기반을 보호하는 개념이다.
+**어휘 연결:** `공중보건`은 인구집단의 건강 증진이고, `보건 안보`는 위기와 외부 충격에 대한 국가적 보호를 강조한다. — 'Sức khỏe cộng đồng' là nâng cao sức khỏe dân số và 'an ninh y tế' nhấn mạnh đến việc bảo vệ quốc gia trước các cuộc khủng hoảng và các cú sốc bên ngoài.
+
+**영어 참고:** *health security* — Khái niệm bảo vệ nền tảng sức khỏe của xã hội khỏi các bệnh truyền nhiễm và các mối đe dọa về sức khỏe.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** an ninh sinh học.
 
-**뉘앙스와 사용법:** 연구실 안전사고를 막는 것보다 넓게, 악의적 이용과 정보·물질의 유출까지 다룬다.
+**뉘앙스와 사용법:** Rộng hơn việc ngăn chặn các tai nạn an toàn trong phòng thí nghiệm, nó còn bao gồm việc sử dụng có mục đích xấu và rò rỉ thông tin cũng như tài liệu.
 
-**재사용 가능한 콜로케이션·청크:** `생물안보 체계`, `생물안보 위협`, `생물안보 교육`.
+**재사용 가능한 콜로케이션·청크:** `생물안보 체계`, `생물안보 위협`, `생물안보 교육`. — `Hệ thống an toàn sinh học`, `Các mối đe dọa an toàn sinh học`, `Giáo dục về an toàn sinh học`.
 
-**자주 쓰는 문형과 성분:** `기관이 생물안보 기준을 마련하다`; 병원체·접근권한·감시와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 생물안보 기준을 마련하다`, `Cơ quan thiết lập các tiêu chuẩn an toàn sinh học` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 안보정책·생명과학 연구·국제협약의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về chính sách an ninh, nghiên cứu khoa học đời sống và các hiệp định quốc tế.
 
 **예문:** 생물안보를 위해서는 연구 성과를 공개하는 원칙과 위험한 실험의 접근 통제를 함께 설계해야 한다.
 
-**어휘 연결:** `생물안전`은 우발적 노출과 사고 예방이고, `생물안보`는 고의적 오용과 탈취를 막는 데 초점을 둔다.
+**Dịch:** Để đảm bảo an toàn sinh học, nguyên tắc tiết lộ kết quả nghiên cứu và kiểm soát truy cập đối với các thí nghiệm nguy hiểm phải được thiết kế cùng nhau.
 
-**영어 참고:** *biosecurity* — 병원체와 생명과학 기술의 악의적 오용·탈취를 예방하는 체계다.
+**어휘 연결:** `생물안전`은 우발적 노출과 사고 예방이고, `생물안보`는 고의적 오용과 탈취를 막는 데 초점을 둔다. — 'An toàn sinh học' là ngăn chặn sự tiếp xúc ngẫu nhiên và tai nạn, trong khi 'an toàn sinh học' tập trung vào việc ngăn chặn việc sử dụng sai mục đích và chiếm đoạt có chủ ý.
+
+**영어 참고:** *biosecurity* — Một hệ thống ngăn chặn việc lạm dụng và đánh cắp mầm bệnh và công nghệ khoa học đời sống một cách có mục đích.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** an toàn sinh học.
 
-**뉘앙스와 사용법:** 개인보호장비만을 뜻하지 않고 시설 등급, 폐기, 교육, 사고 보고와 검증을 포함한다.
+**뉘앙스와 사용법:** không chỉ đề cập đến thiết bị bảo hộ cá nhân mà còn bao gồm việc phân loại cơ sở, xử lý, đào tạo, báo cáo và xác minh sự cố.
 
-**재사용 가능한 콜로케이션·청크:** `생물안전 수준`, `생물안전 관리`, `생물안전 사고`.
+**재사용 가능한 콜로케이션·청크:** `생물안전 수준`, `생물안전 관리`, `생물안전 사고`. — `Mức độ an toàn sinh học`, `Quản lý an toàn sinh học`, `Sự cố an toàn sinh học`.
 
-**자주 쓰는 문형과 성분:** `연구소가 생물안전 수칙을 준수하다`; 실험실·폐기물·노출과 결합한다.
+**자주 쓰는 문형과 성분:** `연구소가 생물안전 수칙을 준수하다`, `Phòng thí nghiệm tuân thủ các quy tắc an toàn sinh học` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 연구기관·병원·보건행정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của viện nghiên cứu, bệnh viện và cơ quan quản lý y tế.
 
 **예문:** 생물안전 교육은 장비 사용법뿐 아니라 이상 징후를 즉시 보고하는 문화까지 포함해야 한다.
 
-**어휘 연결:** `감염관리`는 환자와 의료환경의 전파를 줄이고, `생물안전`은 연구·제조 과정의 우발적 노출을 다룬다.
+**Dịch:** Đào tạo về an toàn sinh học không chỉ bao gồm cách sử dụng thiết bị mà còn bao gồm văn hóa báo cáo ngay những bất thường.
 
-**영어 참고:** *biosafety* — 생물학적 위험 물질의 우발적 노출과 사고를 예방하는 원칙이다.
+**어휘 연결:** `감염관리`는 환자와 의료환경의 전파를 줄이고, `생물안전`은 연구·제조 과정의 우발적 노출을 다룬다. — 'Kiểm soát lây nhiễm' làm giảm sự lây truyền giữa bệnh nhân và môi trường y tế và 'an toàn sinh học' giải quyết vấn đề phơi nhiễm do vô tình trong quá trình nghiên cứu và sản xuất.
+
+**영어 참고:** *biosafety* — Đây là nguyên tắc ngăn ngừa sự tiếp xúc ngẫu nhiên và tai nạn với các chất nguy hiểm sinh học.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** kháng thuốc kháng khuẩn.
 
-**뉘앙스와 사용법:** 항생제 내성을 포함하는 더 넓은 표현이며, 사람·동물·환경의 사용을 함께 관리해야 한다.
+**뉘앙스와 사용법:** Một biểu hiện rộng hơn bao gồm tình trạng kháng kháng sinh và việc sử dụng nó ở người, động vật và môi trường phải được quản lý cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `항균제 내성균`, `항균제 내성 감시`, `항균제 내성 대응`.
+**재사용 가능한 콜로케이션·청크:** `항균제 내성균`, `항균제 내성 감시`, `항균제 내성 대응`. — `Vi khuẩn kháng kháng sinh`, `Giám sát kháng kháng sinh`, `Phản ứng kháng kháng sinh`.
 
-**자주 쓰는 문형과 성분:** `항균제 내성이 확산되다`; 처방·축산·감염관리와 결합한다.
+**자주 쓰는 문형과 성분:** `항균제 내성이 확산되다`, `Lây lan kháng kháng sinh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·수의학·국제보건 보도의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về y tế công cộng, thú y và báo cáo y tế quốc tế.
 
 **예문:** 항균제 내성을 늦추려면 필요한 환자에게만 적절한 약을 정확한 기간 동안 써야 한다.
 
-**어휘 연결:** `항생제 내성`은 주로 세균과 항생제를 가리키고, `항균제 내성`은 항진균제 등 더 넓은 범위를 포함한다.
+**Dịch:** Để làm chậm tình trạng kháng kháng sinh, các loại thuốc thích hợp chỉ được cấp cho những bệnh nhân cần chúng và trong khoảng thời gian chính xác.
 
-**영어 참고:** *antimicrobial resistance (AMR)* — 미생물이 항균 약물에 반응하지 않게 되는 현상이다.
+**어휘 연결:** `항생제 내성`은 주로 세균과 항생제를 가리키고, `항균제 내성`은 항진균제 등 더 넓은 범위를 포함한다. — 'Kháng kháng sinh' chủ yếu đề cập đến vi khuẩn và thuốc kháng sinh, trong khi 'kháng kháng sinh' bao gồm phạm vi rộng hơn, bao gồm cả thuốc chống nấm.
+
+**영어 참고:** *antimicrobial resistance (AMR)* — Đây là hiện tượng vi sinh vật không phản ứng với thuốc kháng khuẩn.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** hệ thống giám sát.
 
-**뉘앙스와 사용법:** 단순한 관찰이 아니라 자료의 표준화, 분석, 신고, 의사결정으로 이어지는 순환을 뜻한다.
+**뉘앙스와 사용법:** Điều này đề cập đến một chu trình dẫn đến tiêu chuẩn hóa, phân tích, báo cáo và ra quyết định dữ liệu thay vì quan sát đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `감염병 감시체계`, `감시체계 고도화`, `감시체계 공백`.
+**재사용 가능한 콜로케이션·청크:** `감염병 감시체계`, `감시체계 고도화`, `감시체계 공백`. — 'Hệ thống giám sát bệnh truyền nhiễm', 'Tiến bộ hệ thống giám sát', 'Khoảng cách hệ thống giám sát'.
 
-**자주 쓰는 문형과 성분:** `당국이 감시체계를 가동하다`; 신고·표본·조기경보와 결합한다.
+**자주 쓰는 문형과 성분:** `당국이 감시체계를 가동하다`, `Chính quyền vận hành hệ thống giám sát` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역학·보건행정·재난대응 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo về dịch tễ học, quản lý y tế và ứng phó thảm họa.
 
 **예문:** 감시체계가 지역별 자료를 제때 공유하지 못하면 유행의 방향을 늦게 파악하게 된다.
 
-**어휘 연결:** `모니터링`은 관찰 행위이고, `감시체계`는 관찰 자료를 정책 대응으로 연결하는 제도적 구조다.
+**Dịch:** Nếu hệ thống giám sát không chia sẻ dữ liệu khu vực kịp thời thì chiều hướng của dịch bệnh sẽ được xác định muộn.
 
-**영어 참고:** *surveillance system* — 위험과 질병의 변화를 지속적으로 수집·분석하는 체계다.
+**어휘 연결:** `모니터링`은 관찰 행위이고, `감시체계`는 관찰 자료를 정책 대응으로 연결하는 제도적 구조다. — 'Giám sát' là hành động quan sát và 'hệ thống giám sát' là cấu trúc thể chế kết nối dữ liệu quan sát với phản hồi chính sách.
+
+**영어 참고:** *surveillance system* — Một hệ thống liên tục thu thập và phân tích những thay đổi về rủi ro và bệnh tật.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** giám sát nước thải.
 
-**뉘앙스와 사용법:** 개인을 직접 검사하는 방식이 아니라 집단 수준의 조기 신호를 포착하는 보완적 감시다.
+**뉘앙스와 사용법:** Đây là hoạt động giám sát bổ sung nhằm thu thập các tín hiệu sớm ở cấp độ nhóm thay vì kiểm tra trực tiếp các cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `하수 감시 자료`, `하수 감시망`, `하수 기반 감염병 감시`.
+**재사용 가능한 콜로케이션·청크:** `하수 감시 자료`, `하수 감시망`, `하수 기반 감염병 감시`. — `Dữ liệu giám sát nước thải`, `Mạng lưới giám sát nước thải`, `Giám sát bệnh truyền nhiễm dựa trên nước thải`.
 
-**자주 쓰는 문형과 성분:** `지자체가 하수 감시를 실시하다`; 표본·유행·조기경보와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 하수 감시를 실시하다`, `Chính quyền địa phương tiến hành giám sát nước thải` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 환경보건·역학·지방정부 정책의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về sức khỏe môi trường, dịch tễ học và chính sách của chính quyền địa phương.
 
 **예문:** 하수 감시는 무증상 감염자가 늘어나는 지역을 임상 신고보다 먼저 알려 줄 수 있다.
 
-**어휘 연결:** `개인 검사`는 환자 단위의 진단이고, `하수 감시`는 지역사회 전체의 신호를 추정한다.
+**Dịch:** Giám sát nước thải có thể chỉ ra những khu vực có số ca nhiễm trùng không có triệu chứng đang gia tăng sớm hơn so với các báo cáo lâm sàng.
 
-**영어 참고:** *wastewater surveillance* — 하수의 생물학적 신호로 지역사회 건강 상태를 추정하는 방법이다.
+**어휘 연결:** `개인 검사`는 환자 단위의 진단이고, `하수 감시`는 지역사회 전체의 신호를 추정한다. — 'Xét nghiệm cá nhân' là chẩn đoán ở cấp độ bệnh nhân và 'giám sát nước thải' ước tính tín hiệu từ toàn bộ cộng đồng.
+
+**영어 참고:** *wastewater surveillance* — Phương pháp ước tính tình trạng sức khỏe cộng đồng bằng cách sử dụng tín hiệu sinh học từ nước thải.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** công bằng vắc-xin.
 
-**뉘앙스와 사용법:** 단순히 백신 수량을 똑같이 나누는 것이 아니라 위험과 접근 조건의 차이를 고려해 공정하게 배분한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là thay vì chỉ chia đều số lượng vắc xin, số lượng vắc xin được phân phối một cách công bằng có tính đến sự khác biệt về rủi ro và điều kiện tiếp cận.
 
-**재사용 가능한 콜로케이션·청크:** `백신 형평성 확보`, `글로벌 백신 형평성`, `백신 형평성 격차`.
+**재사용 가능한 콜로케이션·청크:** `백신 형평성 확보`, `글로벌 백신 형평성`, `백신 형평성 격차`. — 'Đảm bảo công bằng vắc xin', 'Công bằng vắc xin toàn cầu', 'Khoảng cách công bằng vắc xin'.
 
-**자주 쓰는 문형과 성분:** `국제기구가 백신 형평성을 촉구하다`; 특허·공급·접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `국제기구가 백신 형평성을 촉구하다`, `Các tổ chức quốc tế kêu gọi công bằng về vắc xin` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제보건·의약품 정책·공중보건 윤리의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về y tế quốc tế, chính sách thuốc và đạo đức y tế công cộng.
 
 **예문:** 백신 형평성을 높이려면 생산국과 저소득국 사이의 공급 시차를 줄여야 한다.
 
-**어휘 연결:** `백신 공급`은 물량 전달이고, `백신 형평성`은 필요와 위험에 비례한 공정한 접근을 묻는다.
+**Dịch:** Để tăng công bằng vắc xin, phải giảm độ trễ cung cấp giữa các nước sản xuất và các nước thu nhập thấp.
 
-**영어 참고:** *vaccine equity* — 필요한 사람이 공정하게 백신에 접근할 수 있어야 한다는 원칙이다.
+**어휘 연결:** `백신 공급`은 물량 전달이고, `백신 형평성`은 필요와 위험에 비례한 공정한 접근을 묻는다. — 'Cung cấp vắc xin' là cung cấp số lượng và 'công bằng vắc xin' yêu cầu cách tiếp cận công bằng tỷ lệ thuận với nhu cầu và rủi ro.
+
+**영어 참고:** *vaccine equity* — Nguyên tắc là những người cần nó phải được tiếp cận vắc xin một cách công bằng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** chủ quyền vắc-xin.
 
-**뉘앙스와 사용법:** 모든 생산을 국내화한다는 뜻이 아니라 핵심 기술, 생산시설, 원료, 계약을 안정적으로 확보한다는 의미다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là tất cả hoạt động sản xuất sẽ được nội địa hóa, nhưng các công nghệ cốt lõi, cơ sở sản xuất, nguyên liệu thô và hợp đồng sẽ được đảm bảo ổn định.
 
-**재사용 가능한 콜로케이션·청크:** `백신 주권 확보`, `백신 주권 전략`, `백신 생산 주권`.
+**재사용 가능한 콜로케이션·청크:** `백신 주권 확보`, `백신 주권 전략`, `백신 생산 주권`. — 'Đảm bảo chủ quyền vắc xin', 'Chiến lược chủ quyền vắc xin', 'Chủ quyền sản xuất vắc xin'.
 
-**자주 쓰는 문형과 성분:** `정부가 백신 주권을 강화하다`; 연구개발·생산·공급망과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 백신 주권을 강화하다`, `Chính phủ tăng cường chủ quyền về vắc xin` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 바이오산업·보건안보·국가 연구정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho ngành công nghiệp sinh học, an ninh y tế và chính sách nghiên cứu quốc gia.
 
 **예문:** 백신 주권은 공장 하나를 짓는 것보다 임상시험과 원료 공급의 생태계를 갖추는 문제에 가깝다.
 
-**어휘 연결:** `백신 자급`은 국내 생산 비율에 초점을 두고, `백신 주권`은 위기 때의 기술·조달 자율성까지 포함한다.
+**Dịch:** Chủ quyền của vắc xin là vấn đề thiết lập một hệ sinh thái cho các thử nghiệm lâm sàng và cung cấp nguyên liệu thô hơn là xây dựng một nhà máy duy nhất.
 
-**영어 참고:** *vaccine sovereignty* — 위기 상황에서 백신을 안정적으로 연구·생산·확보할 수 있는 자율성이다.
+**어휘 연결:** `백신 자급`은 국내 생산 비율에 초점을 두고, `백신 주권`은 위기 때의 기술·조달 자율성까지 포함한다. — 'Tự cung cấp vắc xin' tập trung vào tỷ lệ sản xuất trong nước và 'chủ quyền về vắc xin' bao gồm quyền tự chủ về công nghệ và mua sắm trong thời kỳ khủng hoảng.
+
+**영어 참고:** *vaccine sovereignty* — Tự chủ để nghiên cứu, sản xuất và bảo đảm vắc xin một cách ổn định trong các tình huống khủng hoảng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** chủ quyền chẩn đoán.
 
-**뉘앙스와 사용법:** 검사 키트 생산만이 아니라 표준, 품질관리, 데이터 해석과 현장 인력을 포함하는 정책어다.
+**뉘앙스와 사용법:** Từ chính sách không chỉ bao gồm việc sản xuất bộ xét nghiệm mà còn bao gồm các tiêu chuẩn, kiểm soát chất lượng, diễn giải dữ liệu và nhân viên hiện trường.
 
-**재사용 가능한 콜로케이션·청크:** `진단 주권 확보`, `진단 주권 강화`, `국가 진단 주권`.
+**재사용 가능한 콜로케이션·청크:** `진단 주권 확보`, `진단 주권 강화`, `국가 진단 주권`. — 'Đảm bảo chủ quyền chẩn đoán', 'Tăng cường chủ quyền chẩn đoán', 'Chủ quyền chẩn đoán quốc gia'.
 
-**자주 쓰는 문형과 성분:** `국가가 진단 주권을 확보하다`; 시약·검사망·데이터와 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 진단 주권을 확보하다`, `Nhà nước đảm bảo chủ quyền chẩn đoán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 감염병 대응·바이오산업·보건안보 기사에서 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng trong các bài viết về ứng phó với bệnh truyền nhiễm, công nghiệp sinh học và an ninh y tế.
 
 **예문:** 진단 주권이 약하면 해외 시약 공급이 막힐 때 유행 규모조차 정확히 파악하기 어렵다.
 
-**어휘 연결:** `진단 역량`은 검사 능력의 범주이고, `진단 주권`은 외부 공급과 표준에 대한 자율성을 강조한다.
+**Dịch:** Nếu chủ quyền chẩn đoán yếu thì khó xác định chính xác quy mô của dịch khi nguồn cung cấp thuốc thử ở nước ngoài bị chặn.
 
-**영어 참고:** *diagnostic sovereignty* — 진단 기술과 공급망을 스스로 안정적으로 확보하는 능력이다.
+**어휘 연결:** `진단 역량`은 검사 능력의 범주이고, `진단 주권`은 외부 공급과 표준에 대한 자율성을 강조한다. — 'Khả năng chẩn đoán' là một loại khả năng kiểm tra và 'chủ quyền chẩn đoán' nhấn mạnh quyền tự chủ đối với các nguồn cung cấp và tiêu chuẩn bên ngoài.
+
+**영어 참고:** *diagnostic sovereignty* — Đây là khả năng đảm bảo ổn định công nghệ chẩn đoán và chuỗi cung ứng.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** tình trạng khẩn cấp y tế công cộng.
 
-**뉘앙스와 사용법:** 공포를 표현하는 일상어가 아니라 법률과 행정이 비상 권한을 발동할 수 있는 공식 분류다.
+**뉘앙스와 사용법:** Đây không phải là một từ hàng ngày thể hiện sự sợ hãi mà là một cách phân loại chính thức cho phép luật pháp và chính quyền sử dụng các quyền lực khẩn cấp.
 
-**재사용 가능한 콜로케이션·청크:** `공중보건 비상사태 선포`, `국제적 공중보건 비상사태`, `비상사태 해제`.
+**재사용 가능한 콜로케이션·청크:** `공중보건 비상사태 선포`, `국제적 공중보건 비상사태`, `비상사태 해제`. — `Tuyên bố tình trạng khẩn cấp về sức khỏe cộng đồng`, `Tình trạng khẩn cấp về sức khỏe cộng đồng quốc tế`, `Dỡ bỏ tình trạng khẩn cấp`.
 
-**자주 쓰는 문형과 성분:** `당국이 공중보건 비상사태를 선포하다`; 격리·자원·국제협력과 결합한다.
+**자주 쓰는 문형과 성분:** `당국이 공중보건 비상사태를 선포하다`, `Nhà chức trách tuyên bố tình trạng khẩn cấp về sức khỏe cộng đồng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건법·국제기구·재난 행정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của luật y tế, tổ chức quốc tế và quản lý thảm họa.
 
 **예문:** 공중보건 비상사태를 선포할 때는 권한의 범위와 종료 조건도 함께 공개해야 한다.
 
-**어휘 연결:** `감염병 유행`은 발생 규모를 말하고, `공중보건 비상사태`는 특별한 행정 대응이 필요한 법적·정책적 상태다.
+**Dịch:** Khi tuyên bố tình trạng khẩn cấp về sức khỏe cộng đồng, phạm vi thẩm quyền và điều khoản chấm dứt cũng phải được tiết lộ.
 
-**영어 참고:** *public health emergency* — 특별한 공중보건 조치와 자원 동원이 필요한 위기 상태다.
+**어휘 연결:** `감염병 유행`은 발생 규모를 말하고, `공중보건 비상사태`는 특별한 행정 대응이 필요한 법적·정책적 상태다. — 'Dịch bệnh truyền nhiễm' đề cập đến quy mô bùng phát và 'tình trạng khẩn cấp về sức khỏe cộng đồng' là một tình huống chính sách và pháp lý yêu cầu phản hồi hành chính đặc biệt.
+
+**영어 참고:** *public health emergency* — Đây là một cuộc khủng hoảng đòi hỏi các biện pháp y tế công cộng đặc biệt và huy động nguồn lực.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** hệ thống ứng phó khẩn cấp.
 
-**뉘앙스와 사용법:** 문서가 존재하는 것보다 실제 상황에서 기관 간 역할이 겹치지 않고 작동하는지가 중요하다.
+**뉘앙스와 사용법:** Điều quan trọng hơn là vai trò giữa các cơ quan hoạt động mà không chồng chéo trong các tình huống thực tế hơn là sự tồn tại của một tài liệu.
 
-**재사용 가능한 콜로케이션·청크:** `감염병 비상대응체계`, `비상대응체계 가동`, `비상대응체계 점검`.
+**재사용 가능한 콜로케이션·청크:** `감염병 비상대응체계`, `비상대응체계 가동`, `비상대응체계 점검`. — 'Hệ thống ứng phó khẩn cấp bệnh truyền nhiễm', 'Vận hành hệ thống ứng phó khẩn cấp', 'Kiểm tra hệ thống ứng phó khẩn cấp'.
 
-**자주 쓰는 문형과 성분:** `기관이 비상대응체계를 가동하다`; 지휘·병상·정보공유와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 비상대응체계를 가동하다`, `Cơ quan kích hoạt hệ thống ứng phó khẩn cấp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건행정·재난관리·병원 협력의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quản lý y tế, quản lý thảm họa và hợp tác bệnh viện.
 
 **예문:** 비상대응체계가 작동하려면 중앙정부의 지침과 지역 병원의 재량이 충돌하지 않아야 한다.
 
-**어휘 연결:** `비상 매뉴얼`은 절차 문서이고, `비상대응체계`는 사람·권한·자원의 운영 구조까지 포함한다.
+**Dịch:** Để hệ thống ứng phó khẩn cấp hoạt động, không được có xung đột giữa hướng dẫn của chính quyền trung ương và quyết định của bệnh viện địa phương.
 
-**영어 참고:** *emergency response system* — 위기 때 조직과 자원을 동원하는 사전 설계된 체계다.
+**어휘 연결:** `비상 매뉴얼`은 절차 문서이고, `비상대응체계`는 사람·권한·자원의 운영 구조까지 포함한다. — 'Sổ tay hướng dẫn khẩn cấp' là một tài liệu thủ tục và 'Hệ thống ứng phó khẩn cấp' bao gồm cơ cấu vận hành của con người, thẩm quyền và nguồn lực.
+
+**영어 참고:** *emergency response system* — Đây là một hệ thống được thiết kế sẵn nhằm huy động các tổ chức và nguồn lực trong thời kỳ khủng hoảng.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** khả năng chống chịu và phục hồi y tế.
 
-**뉘앙스와 사용법:** 병상 수만 늘리는 것이 아니라 인력, 지역 네트워크, 재정, 데이터와 신뢰의 지속 가능성을 함께 평가한다.
+**뉘앙스와 사용법:** Thay vì chỉ tăng số lượng giường bệnh, chúng tôi còn đánh giá tính bền vững của nguồn nhân lực, mạng lưới khu vực, tài chính, dữ liệu và sự tin cậy.
 
-**재사용 가능한 콜로케이션·청크:** `보건 회복력 강화`, `지역 보건 회복력`, `보건 회복력 지표`.
+**재사용 가능한 콜로케이션·청크:** `보건 회복력 강화`, `지역 보건 회복력`, `보건 회복력 지표`. — ‘Tăng cường khả năng phục hồi sức khỏe’, ‘Khả năng phục hồi sức khỏe khu vực’, ‘Chỉ số khả năng phục hồi sức khỏe’.
 
-**자주 쓰는 문형과 성분:** `정책이 보건 회복력을 높이다`; 지역사회·인력·재정과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 보건 회복력을 높이다`, `Chính sách tăng khả năng phục hồi sức khỏe` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·재난관리·국제개발 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về y tế công cộng, quản lý thiên tai và chính sách phát triển quốc tế.
 
 **예문:** 보건 회복력이 높은 지역은 유행 중에도 만성질환 진료와 예방접종을 완전히 중단하지 않는다.
 
-**어휘 연결:** `의료 역량`은 평상시 서비스 능력이고, `보건 회복력`은 충격 전후의 유지·학습·복구 능력이다.
+**Dịch:** Các khu vực có khả năng phục hồi sức khỏe cao không tạm dừng hoàn toàn việc điều trị bệnh mãn tính và tiêm chủng ngay cả khi có dịch.
 
-**영어 참고:** *health-system resilience* — 보건의료 체계가 충격을 견디고 회복·개선하는 능력이다.
+**어휘 연결:** `의료 역량`은 평상시 서비스 능력이고, `보건 회복력`은 충격 전후의 유지·학습·복구 능력이다. — 'Năng lực y tế' là năng lực phục vụ trong các trường hợp bình thường và 'khả năng phục hồi sức khỏe' là khả năng duy trì, học hỏi và phục hồi trước và sau một cú sốc.
+
+**영어 참고:** *health-system resilience* — Khả năng của hệ thống chăm sóc sức khỏe trước những cú sốc, phục hồi và cải thiện.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** di chứng hậu COVID.
 
-**뉘앙스와 사용법:** 일상 대화와 뉴스에서 널리 쓰이지만 증상과 원인이 사람마다 다르므로 하나의 확정된 질환명처럼 단정하지 않는다.
+**뉘앙스와 사용법:** Nó được sử dụng rộng rãi trong cuộc trò chuyện và tin tức hàng ngày, nhưng vì các triệu chứng và nguyên nhân khác nhau đối với mỗi người nên nó không thể kết luận là một tên bệnh duy nhất được xác nhận.
 
-**재사용 가능한 콜로케이션·청크:** `코로나 후유증 환자`, `코로나 후유증 클리닉`, `코로나 후유증 연구`.
+**재사용 가능한 콜로케이션·청크:** `코로나 후유증 환자`, `코로나 후유증 클리닉`, `코로나 후유증 연구`. — ‘Bệnh nhân hậu quả Corona’, ‘Phòng khám hậu quả Corona’, ‘Nghiên cứu hậu quả Corona’.
 
-**자주 쓰는 문형과 성분:** `코로나 후유증을 호소하다`; 피로·호흡·재활과 결합한다.
+**자주 쓰는 문형과 성분:** `코로나 후유증을 호소하다`, `Phàn nàn về hậu quả của Corona` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 현재 환자 대화, 의료 기사, 보건 연구에서 활발한 hot 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt hấp dẫn hiện đang được sử dụng trong các cuộc trò chuyện với bệnh nhân, các bài báo y tế và nghiên cứu sức khỏe.
 
 **예문:** 코로나 후유증을 겪는 사람은 검사 결과가 정상이어도 일상 기능이 회복되지 않을 수 있다.
 
-**어휘 연결:** `롱코비드`는 국제 연구·의료 담화의 표현이고, `코로나 후유증`은 한국어 환자·뉴스 담화에서 더 직관적이다.
+**Dịch:** Những người bị hậu quả của vi-rút Corona có thể không phục hồi được chức năng hàng ngày ngay cả khi kết quả xét nghiệm của họ là bình thường.
 
-**영어 참고:** *post-COVID condition*, *long COVID* — 코로나19 이후 지속되는 다양한 증상과 기능 저하다.
+**어휘 연결:** `롱코비드`는 국제 연구·의료 담화의 표현이고, `코로나 후유증`은 한국어 환자·뉴스 담화에서 더 직관적이다. — 'Long Covid' là một cách diễn đạt trong diễn ngôn y học và nghiên cứu quốc tế, còn 'hậu quả của hào quang' mang tính trực quan hơn trong diễn ngôn tin tức và bệnh nhân ở Hàn Quốc.
+
+**영어 참고:** *post-COVID condition*, *long COVID* — Nhiều triệu chứng và suy giảm chức năng khác nhau vẫn tồn tại sau COVID-19.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** sự mệt mỏi vì phòng dịch.
 
-**뉘앙스와 사용법:** 규칙을 거부한다는 비난보다 장기 위기에서 시민의 부담과 정책 신뢰를 점검하는 표현으로 사용한다.
+**뉘앙스와 사용법:** Được sử dụng như một biểu thức để kiểm tra gánh nặng đối với người dân và tin tưởng vào các chính sách trong một cuộc khủng hoảng dài hạn thay vì chỉ trích việc bác bỏ các quy tắc.
 
-**재사용 가능한 콜로케이션·청크:** `방역 피로감 누적`, `방역 피로감 해소`, `시민의 방역 피로감`.
+**재사용 가능한 콜로케이션·청크:** `방역 피로감 누적`, `방역 피로감 해소`, `시민의 방역 피로감`. — 'Sự mệt mỏi do cách ly tích lũy', 'Giảm bớt sự mệt mỏi do cách ly', 'Sự mệt mỏi do cách ly của công dân'.
 
-**자주 쓰는 문형과 성분:** `방역 피로감이 커지다`; 거리두기·순응·소통과 결합한다.
+**자주 쓰는 문형과 성분:** `방역 피로감이 커지다`, `Sự mệt mỏi khi cách ly tăng lên` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건 뉴스, 여론조사, 온라인 일상 대화에서 현재 쓰이는 hot 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt phổ biến hiện được sử dụng trong tin tức sức khỏe, các cuộc thăm dò ý kiến ​​và các cuộc trò chuyện trực tuyến hàng ngày.
 
 **예문:** 방역 피로감이 큰 시기일수록 정부는 규칙을 늘리기보다 근거와 종료 조건을 분명히 설명해야 한다.
 
-**어휘 연결:** `피로사회`는 사회 전반의 만성 피로이고, `방역 피로감`은 감염병 대응 조치에서 생긴 구체적 부담이다.
+**Dịch:** Trong thời điểm kiểm dịch mệt mỏi hơn, chính phủ nên giải thích rõ ràng các điều kiện cơ bản và chấm dứt thay vì tăng các quy định.
 
-**영어 참고:** *pandemic fatigue* — 장기간의 방역 규칙과 위기 정보로 인해 대응 의지가 약해지는 상태다.
+**어휘 연결:** `피로사회`는 사회 전반의 만성 피로이고, `방역 피로감`은 감염병 대응 조치에서 생긴 구체적 부담이다. — 'Xã hội mệt mỏi' là tình trạng mệt mỏi mãn tính trong toàn xã hội và 'mệt mỏi do cách ly' là gánh nặng cụ thể do các biện pháp ứng phó với bệnh truyền nhiễm gây ra.
+
+**영어 참고:** *pandemic fatigue* — Ý chí ứng phó đang suy yếu do các quy tắc cách ly dài hạn và thông tin khủng hoảng.
 
 ---
 

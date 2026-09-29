@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** hệ sinh thái truyền thông.
 
-**뉘앙스와 사용법:** 개별 매체의 성과보다 정보가 생산·유통·소비되는 관계망을 분석할 때 쓰는 추상적 표현이다.
+**뉘앙스와 사용법:** Đây là biểu thức trừu tượng được sử dụng khi phân tích mạng lưới các mối quan hệ qua đó thông tin được tạo ra, phân phối và tiêu thụ thay vì hiệu suất của từng phương tiện truyền thông.
 
-**재사용 가능한 콜로케이션·청크:** `미디어 생태계 변화`, `지역 미디어 생태계`, `건강한 미디어 생태계`.
+**재사용 가능한 콜로케이션·청크:** `미디어 생태계 변화`, `지역 미디어 생태계`, `건강한 미디어 생태계`. — `Những thay đổi trong hệ sinh thái truyền thông`, `Hệ sinh thái truyền thông địa phương`, `Hệ sinh thái truyền thông lành mạnh`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 미디어 생태계를 재편하다`; 언론사·수익모델·이용자와 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 미디어 생태계를 재편하다`, `Nền tảng tổ chức lại hệ sinh thái truyền thông` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론정책, 문화연구, 디지털 산업 분석의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách truyền thông, nghiên cứu văn hóa và phân tích ngành kỹ thuật số.
 
 **예문:** 짧은 영상 플랫폼의 성장은 뉴스 미디어 생태계의 수익과 편집 관행을 동시에 바꾸고 있다.
 
-**어휘 연결:** `미디어 환경`은 조건을 넓게 말하고, `미디어 생태계`는 주체 사이의 상호의존 관계를 강조한다.
+**Dịch:** Sự phát triển của nền tảng video ngắn đang đồng thời thay đổi doanh thu và cách thức biên tập của hệ sinh thái truyền thông tin tức.
 
-**영어 참고:** *media ecosystem* — 매체와 기술, 이용자, 산업 주체가 연결된 전체 환경이다.
+**어휘 연결:** `미디어 환경`은 조건을 넓게 말하고, `미디어 생태계`는 주체 사이의 상호의존 관계를 강조한다. — 'Môi trường truyền thông' đề cập rộng rãi đến các điều kiện và 'hệ sinh thái truyền thông' nhấn mạnh mối quan hệ phụ thuộc lẫn nhau giữa các thực thể.
+
+**영어 참고:** *media ecosystem* — Toàn bộ môi trường nơi phương tiện, công nghệ, người dùng và các thực thể công nghiệp được kết nối.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** quá trình nền tảng hóa.
 
-**뉘앙스와 사용법:** 단순히 온라인으로 옮긴다는 뜻이 아니라, 플랫폼 사업자의 중개와 평가 체계에 의존하게 되는 과정을 말한다.
+**뉘앙스와 사용법:** Điều này không chỉ đơn giản là chuyển sang trực tuyến mà còn đề cập đến một quy trình dựa vào hệ thống môi giới và đánh giá của nhà điều hành nền tảng.
 
-**재사용 가능한 콜로케이션·청크:** `뉴스의 플랫폼화`, `문화의 플랫폼화`, `플랫폼화가 가속되다`.
+**재사용 가능한 콜로케이션·청크:** `뉴스의 플랫폼화`, `문화의 플랫폼화`, `플랫폼화가 가속되다`. — `Nền tảng hóa tin tức`, `Nền tảng hóa văn hóa`, `Nền tảng hóa đang tăng tốc`.
 
-**자주 쓰는 문형과 성분:** `플랫폼화가 언론의 수익 구조를 바꾸다`; 알고리즘·중개·데이터와 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼화가 언론의 수익 구조를 바꾸다`, `Nền tảng hóa thay đổi cơ cấu lợi nhuận của phương tiện truyền thông` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어경제·노동·문화정책 연구의 담론어다.
+**사회적 관계·주제별 register:** Ngôn ngữ diễn ngôn dành cho nghiên cứu chính sách văn hóa, lao động và kinh tế truyền thông.
 
 **예문:** 뉴스의 플랫폼화는 독자가 무엇을 읽는지보다 플랫폼이 무엇을 배치하는지가 중요해지는 결과를 낳았다.
 
-**어휘 연결:** `디지털화`는 정보를 디지털 형식으로 바꾸는 과정이고, `플랫폼화`는 중개 구조와 권력의 변화를 포함한다.
+**Dịch:** Việc nền tảng hóa tin tức đã khiến những gì nền tảng đặt vào trở nên quan trọng hơn những gì người đọc đọc.
 
-**영어 참고:** *platformization* — 사회·산업 활동이 플랫폼의 인프라와 규칙에 의존하게 되는 과정이다.
+**어휘 연결:** `디지털화`는 정보를 디지털 형식으로 바꾸는 과정이고, `플랫폼화`는 중개 구조와 권력의 변화를 포함한다. — 'Số hóa' là quá trình chuyển đổi thông tin sang định dạng kỹ thuật số và 'nền tảng hóa' bao gồm những thay đổi về cấu trúc và quyền lực trung gian.
+
+**영어 참고:** *platformization* — Đây là quá trình trong đó các hoạt động xã hội và công nghiệp trở nên phụ thuộc vào cơ sở hạ tầng và các quy tắc của nền tảng.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** phân cực cảm xúc.
 
-**뉘앙스와 사용법:** 정책 의견의 차이만이 아니라 상대 진영에 대한 정서적 거리와 혐오가 커진다는 점을 분석한다.
+**뉘앙스와 사용법:** Phân tích không chỉ những khác biệt về quan điểm chính sách mà còn cả khoảng cách cảm xúc và sự căm ghét ngày càng tăng đối với phe đối lập.
 
-**재사용 가능한 콜로케이션·청크:** `감정적 양극화 심화`, `감정적 양극화 지표`, `세대 간 감정적 양극화`.
+**재사용 가능한 콜로케이션·청크:** `감정적 양극화 심화`, `감정적 양극화 지표`, `세대 간 감정적 양극화`. — 'Tăng cường phân cực cảm xúc', 'Chỉ số phân cực cảm xúc', 'Phân cực cảm xúc giữa các thế hệ'.
 
-**자주 쓰는 문형과 성분:** `추천 알고리즘이 감정적 양극화를 부추기다`; 정치·댓글·집단정체성과 결합한다.
+**자주 쓰는 문형과 성분:** `추천 알고리즘이 감정적 양극화를 부추기다`, `Thuật toán đề xuất khuyến khích sự phân cực cảm xúc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치 커뮤니케이션과 여론조사 보도의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích để báo cáo thông tin liên lạc chính trị và thăm dò ý kiến.
 
 **예문:** 같은 사실을 두고도 감정적 양극화가 심하면 상대 진영의 설명을 들으려 하지 않게 된다.
 
-**어휘 연결:** `이념적 양극화`는 가치·정책의 거리를 강조하고, `감정적 양극화`는 사람과 집단에 대한 정서를 강조한다.
+**Dịch:** Nếu sự phân cực cảm xúc trở nên nghiêm trọng ngay cả đối với những sự việc giống nhau, mọi người sẽ không sẵn lòng lắng nghe lời giải thích của đối phương.
 
-**영어 참고:** *affective polarization* — 다른 정치 집단에 대한 감정적 적대와 거리감이 커지는 현상이다.
+**어휘 연결:** `이념적 양극화`는 가치·정책의 거리를 강조하고, `감정적 양극화`는 사람과 집단에 대한 정서를 강조한다. — 'Sự phân cực về mặt tư tưởng' nhấn mạnh khoảng cách giữa các giá trị và chính sách, còn 'sự phân cực về cảm xúc' nhấn mạnh đến cảm xúc đối với mọi người và các nhóm.
+
+**영어 참고:** *affective polarization* — Đây là hiện tượng ngày càng có nhiều cảm xúc thù địch và khoảng cách với các nhóm chính trị khác.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** rửa nguồn tin.
 
-**뉘앙스와 사용법:** 단순한 오보가 아니라 정보의 계보와 책임 소재를 흐리려는 유통 전략을 비판할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng để chỉ trích các chiến lược phân phối cố gắng che giấu phả hệ và trách nhiệm của thông tin thay vì thông tin sai lệch đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `출처세탁 의혹`, `출처세탁 네트워크`, `출처세탁을 거치다`.
+**재사용 가능한 콜로케이션·청크:** `출처세탁 의혹`, `출처세탁 네트워크`, `출처세탁을 거치다`. — ‘Nghi ngờ rửa nguồn’, ‘Mạng lưới rửa nguồn’, ‘Tiến hành rửa nguồn’.
 
-**자주 쓰는 문형과 성분:** `계정들이 출처세탁으로 주장을 확산하다`; 재인용·익명채널·허위정보와 결합한다.
+**자주 쓰는 문형과 성분:** `계정들이 출처세탁으로 주장을 확산하다`, `Tài khoản lan truyền các khiếu nại thông qua hoạt động rửa nguồn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 팩트체크, 선거 보도, 정보전 분석의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích để kiểm tra thực tế, báo cáo bầu cử và phân tích chiến tranh thông tin.
 
 **예문:** 원문이 삭제된 뒤에도 여러 블로그가 같은 문장을 반복하면 출처세탁 가능성을 의심해야 한다.
 
-**어휘 연결:** `재인용`은 중립적인 전달이고, `출처세탁`은 출처를 흐려 신뢰도를 조작하려는 부정적 의미다.
+**Dịch:** Nếu nhiều blog lặp lại cùng một câu ngay cả sau khi văn bản gốc đã bị xóa, bạn nên nghi ngờ khả năng rửa nguồn.
 
-**영어 참고:** *source laundering* — 의심스러운 정보의 출처를 감춘 채 신뢰할 만한 정보처럼 유통하는 행위다.
+**어휘 연결:** `재인용`은 중립적인 전달이고, `출처세탁`은 출처를 흐려 신뢰도를 조작하려는 부정적 의미다. — 'Trích dẫn lại' là cách truyền tải trung lập và 'rửa nguồn' có ý nghĩa tiêu cực là cố gắng thao túng độ tin cậy bằng cách che giấu nguồn.
+
+**영어 참고:** *source laundering* — Hành động phân phối thông tin đáng ngờ như thể đó là thông tin đáng tin cậy trong khi che giấu nguồn.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** kiểm chứng sự thật.
 
-**뉘앙스와 사용법:** 참·거짓만 판정하는 것이 아니라 통계의 기준, 발언의 시점, 생략된 조건까지 확인해야 한다.
+**뉘앙스와 사용법:** Bạn không chỉ phải đánh giá xem nó đúng hay sai mà còn phải kiểm tra các tiêu chuẩn thống kê, thời gian nhận xét và các điều kiện bị bỏ qua.
 
-**재사용 가능한 콜로케이션·청크:** `팩트체크 기사`, `팩트체크 결과`, `팩트체크 데이터베이스`.
+**재사용 가능한 콜로케이션·청크:** `팩트체크 기사`, `팩트체크 결과`, `팩트체크 데이터베이스`. — `Bài viết xác minh tính xác thực`, `Kết quả xác minh tính xác thực`, `Cơ sở dữ liệu xác minh tính xác thực`.
 
-**자주 쓰는 문형과 성분:** `기자가 주장을 팩트체크하다`; 원자료·맥락·판정과 결합한다.
+**자주 쓰는 문형과 성분:** `기자가 주장을 팩트체크하다`, `Tuyên bố xác minh tính xác thực của phóng viên` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론사, 시민단체, 선거 보도와 미디어교육에서 널리 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong các phương tiện truyền thông, nhóm dân sự, báo cáo bầu cử và giáo dục truyền thông.
 
 **예문:** 팩트체크는 숫자가 맞는지뿐 아니라 그 숫자가 무엇을 비교한 것인지도 설명해야 한다.
 
-**어휘 연결:** `검증`은 기술·연구 전반의 확인이고, `팩트체크`는 공적 주장과 뉴스 정보에 집중한다.
+**Dịch:** Việc kiểm tra tính xác thực không chỉ phải giải thích liệu con số đó có đúng hay không mà còn phải giải thích con số đó được so sánh với cái gì.
 
-**영어 참고:** *fact-checking* — 공개된 주장과 자료의 사실성·맥락을 검증하는 작업이다.
+**어휘 연결:** `검증`은 기술·연구 전반의 확인이고, `팩트체크`는 공적 주장과 뉴스 정보에 집중한다. — 'Xác minh' là xác nhận về công nghệ và nghiên cứu tổng thể, còn 'kiểm tra thực tế' tập trung vào các tuyên bố công khai và thông tin tin tức.
+
+**영어 참고:** *fact-checking* — Đây là nhiệm vụ xác minh tính thực tế và bối cảnh của các tuyên bố và dữ liệu đã xuất bản.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** báo chí luận, journalism.
 
-**뉘앙스와 사용법:** 기사 한 편보다 취재 규범, 독립성, 공공성, 책임을 포함하는 학술·비평 용어다.
+**뉘앙스와 사용법:** Thuật ngữ học thuật/phê bình bao gồm các chuẩn mực báo cáo, tính độc lập, tính công khai và trách nhiệm ngoài một bài viết.
 
-**재사용 가능한 콜로케이션·청크:** `탐사 저널리즘`, `공공 서비스 저널리즘`, `저널리즘의 위기`.
+**재사용 가능한 콜로케이션·청크:** `탐사 저널리즘`, `공공 서비스 저널리즘`, `저널리즘의 위기`. — `Báo chí điều tra`, `Báo chí dịch vụ công`, `Khủng hoảng báo chí`.
 
-**자주 쓰는 문형과 성분:** `디지털 전환이 저널리즘을 재구성하다`; 신뢰·취재·공공성과 결합한다.
+**자주 쓰는 문형과 성분:** `디지털 전환이 저널리즘을 재구성하다`, `Chuyển đổi kỹ thuật số định hình lại ngành báo chí` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론학·미디어 비평·언론사 전략 보고서의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao dành cho báo chí, phê bình truyền thông và báo cáo chiến lược truyền thông.
 
 **예문:** 플랫폼이 뉴스를 유통해도 저널리즘의 핵심인 검증과 설명 책임이 사라지는 것은 아니다.
 
-**어휘 연결:** `언론`은 기관과 산업을 포함하는 넓은 말이고, `저널리즘`은 취재와 공공적 보도의 원리·실천을 강조한다.
+**Dịch:** Ngay cả khi một nền tảng phân phối tin tức, trách nhiệm xác minh và giải thích, vốn là cốt lõi của báo chí, vẫn không biến mất.
 
-**영어 참고:** *journalism* — 사실을 취재·검증해 공중에게 전달하는 언론의 실천과 제도다.
+**어휘 연결:** `언론`은 기관과 산업을 포함하는 넓은 말이고, `저널리즘`은 취재와 공공적 보도의 원리·실천을 강조한다. — 'Truyền thông' là một từ rộng bao gồm các tổ chức và ngành và 'báo chí' nhấn mạnh các nguyên tắc và thực tiễn báo cáo và báo cáo công khai.
+
+**영어 참고:** *journalism* — Đây là phương pháp và hệ thống báo chí bao gồm và xác minh sự thật và cung cấp chúng cho công chúng.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** sự mệt mỏi vì tin tức.
 
-**뉘앙스와 사용법:** 단순한 관심 부족이 아니라 뉴스 소비를 줄이거나 회피하게 만드는 누적된 정서 반응을 분석한다.
+**뉘앙스와 사용법:** Phân tích các phản ứng cảm xúc tích lũy dẫn đến giảm hoặc tránh xem tin tức thay vì đơn giản là thiếu quan tâm.
 
-**재사용 가능한 콜로케이션·청크:** `뉴스 피로감 누적`, `뉴스 피로감과 뉴스 회피`, `부정적 뉴스 피로감`.
+**재사용 가능한 콜로케이션·청크:** `뉴스 피로감 누적`, `뉴스 피로감과 뉴스 회피`, `부정적 뉴스 피로감`. — 'Mệt mỏi vì tin tức tích lũy', 'Mệt mỏi vì tin tức và né tránh tin tức', 'Mệt mỏi vì tin tức tiêu cực'.
 
-**자주 쓰는 문형과 성분:** `재난 보도가 뉴스 피로감을 키우다`; 회피·냉소·알림과 결합한다.
+**자주 쓰는 문형과 성분:** `재난 보도가 뉴스 피로감을 키우다`, `Báo cáo thảm họa làm tăng thêm sự mệt mỏi về tin tức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 수용자 조사, 언론 연구, 공공 커뮤니케이션의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho nghiên cứu khán giả, nghiên cứu phương tiện truyền thông và truyền thông đại chúng.
 
 **예문:** 뉴스 피로감이 커지면 시민은 중요한 선거 정보까지 피할 수 있다.
 
-**어휘 연결:** `뉴스 회피`는 행동이고, `뉴스 피로감`은 그 행동을 낳을 수 있는 누적된 심리 상태다.
+**Dịch:** Khi tình trạng mệt mỏi vì tin tức ngày càng gia tăng, người dân thậm chí có thể tránh né những thông tin bầu cử quan trọng.
 
-**영어 참고:** *news fatigue* — 뉴스의 양과 부정성 때문에 소비자가 지치고 회피하는 상태다.
+**어휘 연결:** `뉴스 회피`는 행동이고, `뉴스 피로감`은 그 행동을 낳을 수 있는 누적된 심리 상태다. — 'Tránh tin tức' là một hành vi và 'mệt mỏi vì tin tức' là một trạng thái tâm lý tích lũy có thể dẫn đến hành vi đó.
+
+**영어 참고:** *news fatigue* — Người tiêu dùng kiệt sức và né tránh tin tức do số lượng và sự tiêu cực.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** đề xuất bằng thuật toán.
 
-**뉘앙스와 사용법:** 개인화의 편리함뿐 아니라 추천 기준, 노출 편향, 이용자 선택권을 함께 따질 때 쓰인다.
+**뉘앙스와 사용법:** Được sử dụng khi xem xét không chỉ sự tiện lợi của việc cá nhân hóa mà còn cả các tiêu chuẩn đề xuất, xu hướng hiển thị và lựa chọn của người dùng.
 
-**재사용 가능한 콜로케이션·청크:** `알고리즘 추천 시스템`, `추천 알고리즘 투명성`, `알고리즘 추천 편향`.
+**재사용 가능한 콜로케이션·청크:** `알고리즘 추천 시스템`, `추천 알고리즘 투명성`, `알고리즘 추천 편향`. — `Hệ thống đề xuất thuật toán`, `Tính minh bạch của thuật toán đề xuất`, `Khuynh hướng đề xuất thuật toán`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 알고리즘 추천으로 체류 시간을 늘리다`; 클릭·개인화·필터버블과 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 알고리즘 추천으로 체류 시간을 늘리다`, `Nền tảng tăng thời gian dừng thông qua đề xuất thuật toán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 플랫폼 규제, 미디어 연구, 이용자 권리 담론의 전문어다.
+**사회적 관계·주제별 register:** Biệt ngữ về quy định nền tảng, nghiên cứu truyền thông và diễn ngôn về quyền người dùng.
 
 **예문:** 알고리즘 추천은 관심 있는 뉴스를 빨리 보여주지만 다른 관점을 만날 기회를 줄일 수 있다.
 
-**어휘 연결:** `편집`은 사람이 선택·배치하는 과정이고, `알고리즘 추천`은 데이터와 규칙에 따라 자동으로 노출을 조정한다.
+**Dịch:** Đề xuất thuật toán nhanh chóng hiển thị tin tức được quan tâm nhưng có thể làm giảm cơ hội gặp phải các quan điểm khác nhau.
 
-**영어 참고:** *algorithmic recommendation* — 이용자 데이터에 따라 콘텐츠 노출을 자동으로 결정하는 방식이다.
+**어휘 연결:** `편집`은 사람이 선택·배치하는 과정이고, `알고리즘 추천`은 데이터와 규칙에 따라 자동으로 노출을 조정한다. — 'Chỉnh sửa' là quá trình lựa chọn và bố trí con người, đồng thời 'đề xuất thuật toán' tự động điều chỉnh mức độ hiển thị theo dữ liệu và quy tắc.
+
+**영어 참고:** *algorithmic recommendation* — Đây là phương pháp tự động xác định mức hiển thị nội dung dựa trên dữ liệu người dùng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** nội dung do người dùng tạo.
 
-**뉘앙스와 사용법:** 참여와 다양성을 넓히지만 저작권, 사실성, 혐오표현, 플랫폼 관리 책임을 함께 제기한다.
+**뉘앙스와 사용법:** Mở rộng sự tham gia và tính đa dạng nhưng cũng nâng cao trách nhiệm về bản quyền, sự thật, lời nói căm thù và quản lý nền tảng.
 
-**재사용 가능한 콜로케이션·청크:** `이용자 생성 콘텐츠 정책`, `이용자 생성 콘텐츠 플랫폼`, `이용자 생성 콘텐츠 검수`.
+**재사용 가능한 콜로케이션·청크:** `이용자 생성 콘텐츠 정책`, `이용자 생성 콘텐츠 플랫폼`, `이용자 생성 콘텐츠 검수`. — `Chính sách nội dung do người dùng tạo`, `Nền tảng nội dung do người dùng tạo`, `Kiểm tra nội dung do người dùng tạo`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 이용자 생성 콘텐츠를 중개하다`; 댓글·크리에이터·모더레이션과 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 이용자 생성 콘텐츠를 중개하다`, `Nền tảng dàn xếp nội dung do người dùng tạo` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 플랫폼 산업·콘텐츠 정책·디지털 문화 연구의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho ngành nền tảng, chính sách nội dung và nghiên cứu văn hóa kỹ thuật số.
 
 **예문:** 이용자 생성 콘텐츠가 늘수록 플랫폼은 표현의 자유와 피해 예방 사이에서 기준을 세워야 한다.
 
-**어휘 연결:** `1인 미디어`는 개인 제작자와 채널에 초점을 두고, `이용자 생성 콘텐츠`는 콘텐츠 생산 주체와 형식의 범주를 말한다.
+**Dịch:** Khi nội dung do người dùng tạo tăng lên, các nền tảng phải đặt ra các tiêu chuẩn giữa quyền tự do ngôn luận và ngăn ngừa thiệt hại.
 
-**영어 참고:** *user-generated content (UGC)* — 일반 이용자가 만들고 게시한 콘텐츠다.
+**어휘 연결:** `1인 미디어`는 개인 제작자와 채널에 초점을 두고, `이용자 생성 콘텐츠`는 콘텐츠 생산 주체와 형식의 범주를 말한다. — 'Phương tiện truyền thông một người' tập trung vào các nhà sản xuất và kênh riêng lẻ, còn 'nội dung do người dùng tạo' đề cập đến danh mục các thực thể và định dạng sản xuất nội dung.
+
+**영어 참고:** *user-generated content (UGC)* — Nội dung do người dùng phổ thông tạo và đăng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** sa mạc tin tức.
 
-**뉘앙스와 사용법:** 단순히 신문사가 적다는 뜻이 아니라 시민 감시와 지역 공론장을 지탱할 독립적인 뉴스 공급이 사라진 상태를 비판한다.
+**뉘앙스와 사용법:** Nó không chỉ đơn giản có nghĩa là có ít tờ báo mà nó còn chỉ trích sự biến mất của nguồn cung cấp tin tức độc lập hỗ trợ sự giám sát của công dân và tranh luận công khai ở địa phương.
 
-**재사용 가능한 콜로케이션·청크:** `지역 뉴스 사막`, `뉴스 사막 해소`, `뉴스 사막의 확산`.
+**재사용 가능한 콜로케이션·청크:** `지역 뉴스 사막`, `뉴스 사막 해소`, `뉴스 사막의 확산`. — `Sa mạc tin tức địa phương`, `Giải pháp sa mạc tin tức`, `Sự phổ biến của sa mạc tin tức`.
 
-**자주 쓰는 문형과 성분:** `지역 언론 붕괴가 뉴스 사막을 만들다`; 지방소멸·공공성·지원정책과 결합한다.
+**자주 쓰는 문형과 성분:** `지역 언론 붕괴가 뉴스 사막을 만들다`, `Sự sụp đổ của phương tiện truyền thông địa phương tạo ra sa mạc tin tức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 지역정책·언론재정·민주주의 연구의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách khu vực, tài chính truyền thông và nghiên cứu dân chủ.
 
 **예문:** 뉴스 사막에서는 지방의회와 공공기관의 결정이 주민에게 충분히 알려지지 않을 수 있다.
 
-**어휘 연결:** `정보 격차`는 접근 능력의 차이를 넓게 말하고, `뉴스 사막`은 지역 뉴스 공급 자체의 부재를 특정한다.
+**Dịch:** Trong vùng sa mạc tin tức, các quyết định của hội đồng địa phương và các tổ chức công cộng có thể không được người dân biết đầy đủ.
 
-**영어 참고:** *news desert* — 지역 주민이 지속적인 지역 뉴스 보도를 이용하기 어려운 지역이다.
+**어휘 연결:** `정보 격차`는 접근 능력의 차이를 넓게 말하고, `뉴스 사막`은 지역 뉴스 공급 자체의 부재를 특정한다. — 'Khoảng cách thông tin' nói rộng ra là đề cập đến sự khác biệt về khả năng truy cập và 'sa mạc tin tức' chỉ rõ sự thiếu vắng nguồn cung cấp tin tức địa phương.
+
+**영어 참고:** *news desert* — Đây là khu vực mà người dân địa phương khó tiếp cận tin tức địa phương liên tục.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** báo chí công dân vì lợi ích công.
 
-**뉘앙스와 사용법:** 단순한 캠페인 홍보가 아니라 시민의 목소리, 숙의, 문제 해결을 취재 구조에 반영한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là không chỉ đơn giản là quảng bá một chiến dịch mà còn phản ánh tiếng nói, sự cân nhắc và giải quyết vấn đề của người dân trong cấu trúc báo cáo.
 
-**재사용 가능한 콜로케이션·청크:** `공공저널리즘 모델`, `공공저널리즘 실험`, `공공저널리즘의 책무`.
+**재사용 가능한 콜로케이션·청크:** `공공저널리즘 모델`, `공공저널리즘 실험`, `공공저널리즘의 책무`. — `Mô hình báo chí đại chúng`, `Thử nghiệm báo chí đại chúng`, `Trách nhiệm báo chí đại chúng`.
 
-**자주 쓰는 문형과 성분:** `지역 매체가 공공저널리즘을 실천하다`; 숙의·참여·지역 의제와 결합한다.
+**자주 쓰는 문형과 성분:** `지역 매체가 공공저널리즘을 실천하다`, `Truyền thông địa phương thực hành báo chí đại chúng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론학·지역 미디어·민주주의 담론의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ nâng cao trong báo chí, truyền thông địa phương và diễn ngôn dân chủ.
 
 **예문:** 공공저널리즘은 주민을 사건의 수동적인 독자가 아니라 해결 논의의 참여자로 대한다.
 
-**어휘 연결:** `시민저널리즘`은 시민이 직접 취재하는 생산 방식이고, `공공저널리즘`은 공적 숙의와 참여를 목표로 하는 언론 철학이다.
+**Dịch:** Báo chí đại chúng coi cư dân là những người tham gia thảo luận về các giải pháp chứ không phải là những độc giả thụ động của các sự kiện.
 
-**영어 참고:** *public journalism*, *civic journalism* — 시민 참여와 공적 문제 해결을 강화하려는 언론 실천이다.
+**어휘 연결:** `시민저널리즘`은 시민이 직접 취재하는 생산 방식이고, `공공저널리즘`은 공적 숙의와 참여를 목표로 하는 언론 철학이다. — 'Báo chí công dân' là một phương pháp sản xuất trong đó công dân đưa tin trực tiếp và 'báo chí đại chúng' là một triết lý truyền thông nhằm vào sự cân nhắc và tham gia của công chúng.
+
+**영어 참고:** *public journalism*, *civic journalism* — Đây là hoạt động truyền thông nhằm tăng cường sự tham gia của người dân và giải quyết các vấn đề công cộng.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** báo chí dữ liệu.
 
-**뉘앙스와 사용법:** 숫자를 많이 보여주는 것이 아니라 자료의 수집·정제·분석 과정과 한계를 독자에게 설명해야 한다.
+**뉘앙스와 사용법:** Thay vì hiển thị nhiều con số, quy trình và các hạn chế của việc thu thập, sàng lọc và phân tích dữ liệu phải được giải thích cho người đọc.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 저널리즘 프로젝트`, `데이터 저널리즘팀`, `데이터 시각화 기사`.
+**재사용 가능한 콜로케이션·청크:** `데이터 저널리즘 프로젝트`, `데이터 저널리즘팀`, `데이터 시각화 기사`. — `Dự án Báo chí Dữ liệu`, `Nhóm Báo chí Dữ liệu`, `Bài báo Trực quan hóa Dữ liệu`.
 
-**자주 쓰는 문형과 성분:** `기자가 데이터 저널리즘으로 격차를 분석하다`; 오픈데이터·코딩·시각화와 결합한다.
+**자주 쓰는 문형과 성분:** `기자가 데이터 저널리즘으로 격차를 분석하다`, `Phóng viên phân tích khoảng trống thông qua báo chí dữ liệu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 탐사보도·과학보도·공공데이터 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho báo cáo điều tra, báo cáo khoa học và chính sách dữ liệu công cộng.
 
 **예문:** 데이터 저널리즘 기사는 평균값 뒤에 가려진 지역별 격차를 드러낼 수 있다.
 
-**어휘 연결:** `통계 기사`는 결과 전달에 가까울 수 있고, `데이터 저널리즘`은 데이터 수집과 분석, 서사화를 함께 포함한다.
+**Dịch:** Các bài báo báo chí dữ liệu có thể tiết lộ sự chênh lệch giữa các khu vực ẩn sau mức trung bình.
 
-**영어 참고:** *data journalism* — 데이터 분석과 시각화를 중심으로 사실을 취재·설명하는 방식이다.
+**어휘 연결:** `통계 기사`는 결과 전달에 가까울 수 있고, `데이터 저널리즘`은 데이터 수집과 분석, 서사화를 함께 포함한다. — 'Các bài báo thống kê' có thể gần gũi hơn với việc truyền đạt kết quả và 'báo chí dữ liệu' bao gồm thu thập, phân tích và tường thuật dữ liệu.
+
+**영어 참고:** *data journalism* — Phương pháp báo cáo và giải thích các sự kiện tập trung vào phân tích và trực quan hóa dữ liệu.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** sự lệ thuộc nền tảng.
 
-**뉘앙스와 사용법:** 플랫폼을 이용한다는 사실보다 협상력이 약해져 정책 변경과 수수료에 취약해지는 구조를 비판한다.
+**뉘앙스와 사용법:** Chỉ trích cấu trúc làm suy yếu sức mạnh đàm phán hơn là thực tế sử dụng nền tảng, khiến nền tảng dễ bị thay đổi chính sách và phí.
 
-**재사용 가능한 콜로케이션·청크:** `플랫폼 종속 심화`, `플랫폼 종속 구조`, `플랫폼 종속에서 벗어나다`.
+**재사용 가능한 콜로케이션·청크:** `플랫폼 종속 심화`, `플랫폼 종속 구조`, `플랫폼 종속에서 벗어나다`. — `Làm sâu sắc thêm sự phụ thuộc vào nền tảng`, `Cấu trúc phụ thuộc vào nền tảng`, `Thoát khỏi sự phụ thuộc vào nền tảng`.
 
-**자주 쓰는 문형과 성분:** `창작자가 플랫폼 종속을 우려하다`; 수익배분·검색노출·정책변경과 결합한다.
+**자주 쓰는 문형과 성분:** `창작자가 플랫폼 종속을 우려하다`, `Người sáng tạo lo ngại về sự phụ thuộc vào nền tảng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어경제·창작노동·플랫폼 규제의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho nền kinh tế truyền thông, lao động sáng tạo và quy định về nền tảng.
 
 **예문:** 플랫폼 종속이 심하면 이용자 데이터와 독자 관계를 언론사가 직접 축적하기 어렵다.
 
-**어휘 연결:** `플랫폼화`는 사회 구조의 변화이고, `플랫폼 종속`은 그 변화 속에서 생기는 비대칭적 의존을 말한다.
+**Dịch:** Nếu sự phụ thuộc vào nền tảng là nghiêm trọng thì các công ty truyền thông khó có thể trực tiếp tích lũy dữ liệu người dùng và mối quan hệ với người đọc.
 
-**영어 참고:** *platform dependency* — 플랫폼의 유통과 수익 구조에 과도하게 의존하는 상태다.
+**어휘 연결:** `플랫폼화`는 사회 구조의 변화이고, `플랫폼 종속`은 그 변화 속에서 생기는 비대칭적 의존을 말한다. — 'Nền tảng hóa' là một sự thay đổi trong cấu trúc xã hội và 'sự phụ thuộc vào nền tảng' đề cập đến sự phụ thuộc bất đối xứng phát sinh trong quá trình thay đổi đó.
+
+**영어 참고:** *platform dependency* — Có sự phụ thuộc quá mức vào cơ cấu phân phối và lợi nhuận của nền tảng.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** hành vi lạm dụng tin tức để câu lượt xem.
 
-**뉘앙스와 사용법:** 한국 온라인 뉴스 현장에서 현재 통용되는 비판적 업계어이며, 일반적인 오류나 단순 재전송과 구별한다.
+**뉘앙스와 사용법:** Đây là thuật ngữ quan trọng trong ngành hiện đang được sử dụng trong bối cảnh tin tức trực tuyến của Hàn Quốc và phân biệt nó với các lỗi chung hoặc việc truyền lại đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `어뷰징 기사`, `어뷰징 경쟁`, `어뷰징을 줄이다`.
+**재사용 가능한 콜로케이션·청크:** `어뷰징 기사`, `어뷰징 경쟁`, `어뷰징을 줄이다`. — `Lạm dụng bài viết`, `Lợi dụng cạnh tranh`, `Giảm lạm dụng`.
 
-**자주 쓰는 문형과 성분:** `언론사가 어뷰징으로 트래픽을 끌어올리다`; 포털·클릭·낚시성 제목과 결합한다.
+**자주 쓰는 문형과 성분:** `언론사가 어뷰징으로 트래픽을 끌어올리다`, `Phương tiện tăng lưu lượng truy cập thông qua việc lạm dụng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기자·편집자 대화, 언론 비평, 온라인 커뮤니티에서 현재 사용되는 hot 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt phổ biến hiện được sử dụng trong các cuộc trò chuyện của phóng viên/biên tập viên, phê bình truyền thông và cộng đồng trực tuyến.
 
 **예문:** 속보를 거의 그대로 반복한 어뷰징 기사는 독자의 신뢰와 검색 결과의 품질을 함께 떨어뜨린다.
 
-**어휘 연결:** `낚시성 기사`는 과장된 제목을 강조하고, `어뷰징`은 반복 송고와 노출 조작의 행위를 강조한다.
+**Dịch:** Lạm dụng các bài viết lặp lại tin nóng gần như nguyên văn làm giảm sự tin tưởng của người đọc và chất lượng của kết quả tìm kiếm.
 
-**영어 참고:** *news abuse*, *content abuse* — 반복·변형 송고로 온라인 노출을 부풀리는 행위다.
+**어휘 연결:** `낚시성 기사`는 과장된 제목을 강조하고, `어뷰징`은 반복 송고와 노출 조작의 행위를 강조한다. — 'Bài viết câu cá' nhấn mạnh tiêu đề phóng đại và 'lạm dụng' nhấn mạnh việc gửi đi lặp lại và thao túng hiển thị.
+
+**영어 참고:** *news abuse*, *content abuse* — Đây là hành động tăng cường hiển thị trực tuyến thông qua các lần gửi lặp đi lặp lại và được sửa đổi.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** sự mệt mỏi vì quá nhiều gói đăng ký.
 
-**뉘앙스와 사용법:** 플랫폼 산업 분석뿐 아니라 한국 소비자가 일상 대화에서 지출과 로그인 부담을 호소할 때 쓰는 최신 표현이다.
+**뉘앙스와 사용법:** Đây là biểu thức mới nhất không chỉ được sử dụng trong phân tích ngành nền tảng mà còn khi người tiêu dùng Hàn Quốc phàn nàn về gánh nặng chi tiêu và đăng nhập trong các cuộc trò chuyện hàng ngày.
 
-**재사용 가능한 콜로케이션·청크:** `구독 피로감 확산`, `구독 피로감 해소`, `구독 피로감에 해지하다`.
+**재사용 가능한 콜로케이션·청크:** `구독 피로감 확산`, `구독 피로감 해소`, `구독 피로감에 해지하다`. — 'Sự lan rộng của tình trạng mệt mỏi đăng ký', 'Giảm bớt tình trạng mệt mỏi khi đăng ký', 'Hủy do tình trạng mệt mỏi đăng ký'.
 
-**자주 쓰는 문형과 성분:** `이용자가 구독 피로감을 느끼다`; OTT·뉴스레터·자동결제와 결합한다.
+**자주 쓰는 문형과 성분:** `이용자가 구독 피로감을 느끼다`, `Người dùng cảm thấy mệt mỏi khi đăng ký` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 소비자 기사, 플랫폼 비즈니스, 직장인·온라인 대화에서 현재 활발하다.
+**사회적 관계·주제별 register:** Hiện đang hoạt động trong các bài viết dành cho người tiêu dùng, kinh doanh nền tảng và nhân viên văn phòng/cuộc trò chuyện trực tuyến.
 
 **예문:** 구독 피로감이 커지자 이용자는 매달 쓰는 서비스만 남기고 나머지는 번갈아 결제하기 시작했다.
 
-**어휘 연결:** `구독 경제`는 사업 모델이고, `구독 피로감`은 그 모델을 이용하는 소비자가 겪는 누적 부담이다.
+**Dịch:** Khi nhu cầu đăng ký ngày càng gia tăng, người dùng bắt đầu lần lượt thanh toán cho phần còn lại, chỉ để lại những dịch vụ họ sử dụng hàng tháng.
 
-**영어 참고:** *subscription fatigue* — 너무 많은 구독 비용과 선택 때문에 이용자가 피로를 느끼는 현상이다.
+**어휘 연결:** `구독 경제`는 사업 모델이고, `구독 피로감`은 그 모델을 이용하는 소비자가 겪는 누적 부담이다. — 'Nền kinh tế đăng ký' là một mô hình kinh doanh và 'sự mệt mỏi khi đăng ký' là gánh nặng tích lũy mà người tiêu dùng sử dụng mô hình đó phải trải qua.
+
+**영어 참고:** *subscription fatigue* — Đây là hiện tượng người dùng cảm thấy mệt mỏi do có quá nhiều chi phí đăng ký và nhiều lựa chọn.
 
 ---
 

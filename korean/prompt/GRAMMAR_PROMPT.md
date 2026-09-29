@@ -7,7 +7,7 @@
 - Làm rõ vì sao người Hàn chọn cấu trúc này thay vì cấu trúc gần nghĩa khác; chú ý register, khoảng cách xã hội, spoken/written usage và mức độ trang trọng.
 - Liên kết những grammar gần nhau theo flow kiến thức và contrast thực tế; không tách thành các danh sách pattern rời rạc.
 - Đặc biệt chú ý 어미, 축약, 생략, 높임말/반말, discourse markers, sentence endings và các dạng biến đổi thường gặp khi cấu trúc đi vào hội thoại thật.
-- Chủ yếu giải thích bằng tiếng Hàn tự nhiên; khi wording, nuance hoặc khái niệm khó thì giải thích ngay bằng tiếng Việt. Khi hữu ích, note Korean / English / Vietnamese.
+- Giải thích chính bằng tiếng Việt để người học hiểu ngay; giữ mẫu câu, đuôi câu và keyword Korean làm dữ liệu tra cứu, kèm gloss tiếng Việt ngay bên cạnh. Nếu dùng thuật ngữ English, giữ keyword English nhưng giải thích bằng tiếng Việt.
 - Ví dụ phải phản ánh cách người Hàn thực sự nói hoặc viết, ưu tiên hội thoại đời thường, công việc, báo chí và discourse hiện đại thay vì câu minh họa kiểu giáo trình.
 - Nếu một câu đúng ngữ pháp nhưng không phải lựa chọn tự nhiên của native speaker trong context đó, phải chỉ rõ và giải thích lựa chọn tự nhiên hơn.
 

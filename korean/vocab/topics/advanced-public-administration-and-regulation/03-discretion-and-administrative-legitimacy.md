@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** lập quy hành chính, việc cơ quan hành chính ban hành quy định.
 
-**뉘앙스와 사용법:** 국회가 만드는 법률과 달리 행정기관이 전문성과 집행 필요를 바탕으로 세부 기준을 정한다. 위임 범위를 벗어나면 문제가 된다.
+**뉘앙스와 사용법:** Không giống như luật do Quốc hội ban hành, các cơ quan hành chính đặt ra các tiêu chuẩn chi tiết dựa trên chuyên môn và nhu cầu thực thi. Nếu vượt quá phạm vi ủy quyền sẽ trở thành vấn đề.
 
-**재사용 가능한 콜로케이션·청크:** `행정입법 절차`, `행정입법 예고`, `행정입법의 한계`.
+**재사용 가능한 콜로케이션·청크:** `행정입법 절차`, `행정입법 예고`, `행정입법의 한계`. — `Thủ tục pháp luật hành chính`, `Xem trước pháp luật hành chính`, `Hạn chế của pháp luật hành chính`.
 
-**자주 쓰는 문형과 성분:** `부처가 행정입법을 추진하다`; 시행령·시행규칙·위임·법률과 결합한다.
+**자주 쓰는 문형과 성분:** `부처가 행정입법을 추진하다`, `Bộ thúc đẩy luật hành chính` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·행정법·규제정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho hiến pháp, luật hành chính và chính sách quản lý.
 
 **예문:** 부처는 행정입법을 추진하면서 이해관계자의 의견을 사전에 수렴했다.
 
-**어휘 연결:** `법률` là quy phạm do cơ quan lập pháp ban hành; `행정입법` là quy tắc do hành chính ban hành trong phạm vi được ủy quyền để thực thi luật.
+**Dịch:** Bộ đã thu thập trước ý kiến ​​từ các bên liên quan trong khi thúc đẩy luật hành chính.
 
-**영어 참고:** *administrative rulemaking*, *subordinate legislation* — việc cơ quan hành chính ban hành quy tắc dưới luật.
+**어휘 연결:** `법률` là quy phạm do cơ quan lập pháp ban hành; `행정입법` là quy tắc do hành chính ban hành trong phạm vi được ủy quyền để thực thi luật. — `Luật` là quy phạm do cơ quan lập pháp cấm hành động; `Luật hành chính` cũng vậy.
+
+**영어 참고:** *administrative rulemaking*, *subordinate legislation* — việc làm cơ quan hành chính ban hành quy tắc dưới luật.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** kiểm soát quyền tùy nghi hành chính.
 
-**뉘앙스와 사용법:** 행정청의 전문 판단을 모두 대신하는 것이 아니라, 자의적·불합리한 결정인지 경계를 확인한다.
+**뉘앙스와 사용법:** Nó không thay thế toàn bộ các phán đoán chuyên môn của cơ quan hành chính mà kiểm tra xem quyết định đó có tùy tiện hay không hợp lý hay không.
 
-**재사용 가능한 콜로케이션·청크:** `재량통제의 기준`, `법원의 재량통제`, `재량통제를 강화하다`.
+**재사용 가능한 콜로케이션·청크:** `재량통제의 기준`, `법원의 재량통제`, `재량통제를 강화하다`. — `Tiêu chuẩn cho việc kiểm soát tùy ý`, `Kiểm soát tùy ý của tòa án`, `Tăng cường kiểm soát tùy ý`.
 
-**자주 쓰는 문형과 성분:** `법원이 행정재량을 통제하다`; 비례·평등·일탈·남용과 결합한다.
+**자주 쓰는 문형과 성분:** `법원이 행정재량을 통제하다`, `Tòa án kiểm soát quyền quyết định hành chính` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정소송·헌법재판·감사의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho kiện tụng hành chính, xét xử hiến pháp và kiểm toán.
 
 **예문:** 법원은 처분의 필요성뿐 아니라 행정청이 재량통제의 한계를 지켰는지도 살폈다.
 
-**어휘 연결:** `감독` là theo dõi hoạt động nói chung; `재량통제` tập trung vào việc quyền lựa chọn của cơ quan có bị dùng tùy tiện hay vượt mục đích pháp luật không.
+**Dịch:** Tòa án không chỉ xem xét sự cần thiết của biện pháp xử lý mà còn xem xét liệu cơ quan hành chính có duy trì các giới hạn kiểm soát tùy ý hay không.
 
-**영어 참고:** *control of administrative discretion*, *judicial review of discretion* — kiểm tra giới hạn pháp lý của quyền tùy nghi.
+**어휘 연결:** `감독` là theo dõi hoạt động nói chung; `재량통제` tập trung vào việc quyền lựa chọn của cơ quan có bị dùng tùy tiện hay vượt mục đích pháp luật không. — `Director` là người theo dõi hoạt động chung; `Kiểm soát tùy ý` không phải là một vấn đề.
+
+**영어 참고:** *control of administrative discretion*, *judicial review of discretion* — check giới hạn pháp lý của quyền tùy nghi.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** hướng dẫn hành chính, khuyến nghị hành chính không mang tính cưỡng chế trực tiếp.
 
-**뉘앙스와 사용법:** 형식상 자율적 협조를 전제로 하지만, 실제로는 인허가·감독 권한 때문에 상대가 압박을 느낄 수 있어 근거와 기록이 중요하다.
+**뉘앙스와 사용법:** Về mặt hình thức, giả định là hợp tác tự chủ, nhưng trên thực tế, bên kia có thể cảm thấy bị áp lực do cơ quan cấp phép và giám sát nên bằng chứng và hồ sơ rất quan trọng.
 
-**재사용 가능한 콜로케이션·청크:** `행정지도를 실시하다`, `행정지도에 따르다`, `행정지도의 한계`.
+**재사용 가능한 콜로케이션·청크:** `행정지도를 실시하다`, `행정지도에 따르다`, `행정지도의 한계`. — ‘Triển khai hướng dẫn hành chính’, ‘Tuân theo hướng dẫn hành chính’, ‘Các hạn chế của hướng dẫn hành chính’.
 
-**자주 쓰는 문형과 성분:** `기관이 사업자에게 N을 행정지도하다`; 협조 요청·개선 권고·시장 감독과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 사업자에게 N을 행정지도하다`, `Cơ quan cung cấp hướng dẫn hành chính cho các nhà điều hành doanh nghiệp N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정 실무·규제·공공기관의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của thực hành hành chính, quy định và các tổ chức công.
 
 **예문:** 감독기관은 처벌에 앞서 사업자에게 안전 개선을 행정지도로 요청했다.
 
-**어휘 연결:** `명령` có hiệu lực bắt buộc trực tiếp; `행정지도` hình thức là khuyến nghị nhưng có thể tạo áp lực thực tế nên không được dùng để né luật.
+**Dịch:** Trước khi bị trừng phạt, cơ quan giám sát đã yêu cầu hướng dẫn hành chính từ nhà điều hành để cải thiện mức độ an toàn.
 
-**영어 참고:** *administrative guidance*, *regulatory guidance* — khuyến nghị của cơ quan quản lý, thường không phải mệnh lệnh cưỡng chế trực tiếp.
+**어휘 연결:** `명령` có hiệu lực bắt buộc trực tiếp; `행정지도` hình thức là khuyến nghị nhưng có thể tạo áp lực thực tế nên không được dùng để né luật. — `Command` có hiệu lực bắt trực tiếp; `Hướng dẫn hành chính` là rất quan trọng.
+
+**영어 참고:** *administrative guidance*, *regulatory guidance* — khuyến nghị của cơ quan quản lý, thường không phải mệnh lệnh Gợi chế trực tiếp.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** tính chính danh về mặt thủ tục.
 
-**뉘앙스와 사용법:** 결과가 좋아 보여도 당사자 의견을 듣지 않았거나 기준을 사후에 바꾸면 절차적 정당성이 약해진다.
+**뉘앙스와 사용법:** Ngay cả khi kết quả có vẻ tốt, tính hợp pháp của thủ tục sẽ bị suy yếu nếu ý kiến ​​của các bên không được lắng nghe hoặc các tiêu chuẩn bị thay đổi sau thực tế.
 
-**재사용 가능한 콜로케이션·청크:** `절차적 정당성 확보`, `절차적 정당성을 훼손하다`, `절차적 정당성 논란`.
+**재사용 가능한 콜로케이션·청크:** `절차적 정당성 확보`, `절차적 정당성을 훼손하다`, `절차적 정당성 논란`. — `Đảm bảo tính hợp pháp của thủ tục`, `Gây tổn hại đến tính hợp pháp của thủ tục`, `Tranh cãi về tính hợp pháp của thủ tục`.
 
-**자주 쓰는 문형과 성분:** `결정의 절차적 정당성을 따지다`; 공청회·통지·의견제출·심사와 결합한다.
+**자주 쓰는 문형과 성분:** `결정의 절차적 정당성을 따지다`, `Xem xét tính hợp pháp về mặt thủ tục của quyết định` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정법·정책평가·공공갈등의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật hành chính, đánh giá chính sách và xung đột công cộng.
 
 **예문:** 결과에 동의하지 않는 주민도 의견을 제출할 기회를 얻어야 절차적 정당성이 생긴다.
 
-**어휘 연결:** `절차 준수` chỉ làm đúng quy trình; `절차적 정당성` hỏi quy trình có công bằng, minh bạch và cho người liên quan cơ hội tham gia hay không.
+**Dịch:** Tính hợp pháp của thủ tục chỉ được tạo ra khi những cư dân không đồng ý với kết quả có cơ hội gửi ý kiến ​​của mình.
 
-**영어 참고:** *procedural legitimacy*, *procedural fairness* — tính chính đáng và công bằng được tạo ra bởi cách thức ra quyết định.
+**어휘 연결:** `절차 준수` chỉ làm đúng quy trình; `절차적 정당성` hỏi quy trình có công bằng, minh bạch và cho người liên quan cơ hội tham gia hay không. — `Tuân thủ các quy trình` chỉ thực hiện đúng quy trình; `Tính hợp pháp về mặt thủ tục` là đúng.
+
+**영어 참고:** *procedural legitimacy*, *procedural fairness* — Đúng vậy.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** sức mạnh chuẩn tắc, khả năng ràng buộc của quy phạm.
 
-**뉘앙스와 사용법:** 문서에 규정이 적혀 있다는 사실보다 사람들이 그 규정을 행동 기준으로 받아들이고 따르는지를 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh liệu mọi người có chấp nhận và tuân theo các quy định như một tiêu chuẩn hành vi hay không chứ không phải thực tế là các quy định đó được viết trong tài liệu.
 
-**재사용 가능한 콜로케이션·청크:** `규범력을 갖다`, `규범력이 약화되다`, `국제규범의 규범력`.
+**재사용 가능한 콜로케이션·청크:** `규범력을 갖다`, `규범력이 약화되다`, `국제규범의 규범력`. — ‘Có sức mạnh quy phạm’, ‘Quyền lực quy phạm bị suy yếu’, ‘Quyền lực quy phạm của các quy chuẩn quốc tế’.
 
-**자주 쓰는 문형과 성분:** `규범이 규범력을 발휘하다`; 법률·국제규범·윤리·관행과 결합한다.
+**자주 쓰는 문형과 성분:** `규범이 규범력을 발휘하다`, `Quy tắc thực hiện quyền lực quy phạm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법학·정치학·국제관계 분석의 추상어다.
+**사회적 관계·주제별 register:** Một từ trừu tượng trong luật, khoa học chính trị và phân tích quan hệ quốc tế.
 
 **예문:** 처벌 조항이 있어도 집행이 일관되지 않으면 규정의 규범력이 약해진다.
 
-**어휘 연결:** `법적 효력` là hiệu lực được pháp luật công nhận; `규범력` rộng hơn, bao gồm khả năng định hướng hành vi và tạo sự tuân thủ trong thực tế.
+**Dịch:** Ngay cả khi có các điều khoản về hình phạt, nếu việc thực thi không nhất quán thì sức mạnh quy phạm của các quy định sẽ bị suy yếu.
 
-**영어 참고:** *normative force*, *normativity* — sức mạnh khiến một quy tắc được xem là chuẩn mực cần tuân theo.
+**어휘 연결:** `법적 효력` là hiệu lực được pháp luật công nhận; `규범력` rộng hơn, bao gồm khả năng định hướng hành vi và tạo sự tuân thủ trong thực tế. — `hiệu lực pháp luật` là hiệu lực pháp luật công nhận; `Quyền lực quy chuẩn` rộng hơn, bao gồm khả năng định hướng hành động và tạo ra sự phong phú trong thực tế.
+
+**영어 참고:** *normative force*, *normativity* — sức mạnh tạo ra một quy tắc được
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** tính ràng buộc pháp lý.
 
-**뉘앙스와 사용법:** 선언·권고·정치적 약속과 달리 법적으로 이행을 요구하거나 위반을 판단할 근거가 되는지 묻는다.
+**뉘앙스와 사용법:** Không giống như các tuyên bố, khuyến nghị và lời hứa chính trị, chúng tôi hỏi liệu chúng có yêu cầu thực hiện về mặt pháp lý hay dùng làm cơ sở để đánh giá các vi phạm hay không.
 
-**재사용 가능한 콜로케이션·청크:** `법적 구속력이 있다`, `법적 구속력이 없다`, `구속력을 갖는 합의`.
+**재사용 가능한 콜로케이션·청크:** `법적 구속력이 있다`, `법적 구속력이 없다`, `구속력을 갖는 합의`. — `Ràng buộc về mặt pháp lý`, `Không ràng buộc về mặt pháp lý`, `Thỏa thuận ràng buộc`.
 
-**자주 쓰는 문형과 성분:** `N이 법적 구속력을 갖다`; 조약·계약·협약·결정문과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 법적 구속력을 갖다`, `N bị ràng buộc về mặt pháp lý` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·외교·계약·행정의 공식어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức của luật pháp, ngoại giao, hợp đồng và hành chính.
 
 **예문:** 공동성명은 정치적 의미가 크지만 그 자체로 법적 구속력을 갖는 조약은 아니다.
 
-**어휘 연결:** `규범력` có thể tồn tại như sức ảnh hưởng chuẩn tắc; `법적 구속력` hẹp hơn và hỏi có nghĩa vụ pháp lý có thể cưỡng chế hay không.
+**Dịch:** Mặc dù tuyên bố chung có ý nghĩa chính trị to lớn nhưng bản thân nó không phải là một hiệp ước ràng buộc về mặt pháp lý.
 
-**영어 참고:** *legally binding force*, *binding effect* — khả năng tạo nghĩa vụ pháp lý có thể yêu cầu thực hiện.
+**어휘 연결:** `규범력` có thể tồn tại như sức ảnh hưởng chuẩn tắc; `법적 구속력` hẹp hơn và hỏi có nghĩa vụ pháp lý có thể cưỡng chế hay không. — `quyền quy phạm` có thể tồn tại như sức mạnh ảnh hưởng tiêu chuẩn; ``Lực lượng ràng buộc pháp lý` thắt chặt hơn và hỏi có nghĩa vụ pháp lý có thể cưỡng chế hay không.
+
+**영어 참고:** *legally binding force*, *binding effect* — khả năng tạo ra giải pháp nhiệm vụ có thể yêu cầu thực hiện.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** tính cân xứng, nguyên tắc tỷ lệ.
 
-**뉘앙스와 사용법:** 목적의 정당성, 수단의 적합성·필요성, 침해와 공익의 균형을 단계적으로 따진다.
+**뉘앙스와 사용법:** Tính hợp pháp của mục đích, sự phù hợp/sự cần thiết của phương tiện và sự cân bằng giữa vi phạm và lợi ích công cộng được xem xét từng bước.
 
-**재사용 가능한 콜로케이션·청크:** `비례성 원칙`, `비례성을 심사하다`, `비례성을 잃다`.
+**재사용 가능한 콜로케이션·청크:** `비례성 원칙`, `비례성을 심사하다`, `비례성을 잃다`. — `Nguyên tắc tỷ lệ`, `Kiểm tra tỷ lệ`, `Mất tỷ lệ`.
 
-**자주 쓰는 문형과 성분:** `처분의 비례성을 판단하다`; 과징금·집회 제한·개인정보·방역과 결합한다.
+**자주 쓰는 문형과 성분:** `처분의 비례성을 판단하다`, `Đánh giá mức độ xử lý theo tỷ lệ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·행정법·인권정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho hiến pháp, luật hành chính và chính sách nhân quyền.
 
 **예문:** 위반 정도가 가벼운데 영업정지 처분을 내리면 비례성 원칙에 어긋날 수 있다.
 
-**어휘 연결:** `균형` là cân bằng nói chung; `비례성` là kiểm tra pháp lý có hệ thống giữa mục tiêu công và mức hạn chế quyền.
+**Dịch:** Nếu vi phạm nhỏ và việc đình chỉ kinh doanh được áp dụng, điều đó có thể vi phạm nguyên tắc tương xứng.
 
-**영어 참고:** *proportionality*, *proportionality principle* — nguyên tắc biện pháp hạn chế quyền phải tương xứng với mục tiêu công.
+**어휘 연결:** `균형` là cân bằng nói chung; `비례성` là kiểm tra pháp lý có hệ thống giữa mục tiêu công và mức hạn chế quyền. — `Balance` là cân bằng nói chung; `Tỷ lệ` là chìa khóa của sự cân xứng.
+
+**영어 참고:** *proportionality*, *proportionality principle* — Đúng vậy.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** tính có thể dự đoán.
 
-**뉘앙스와 사용법:** 결과를 항상 정확히 맞힌다는 뜻이 아니라 기준이 명확하고 일관되어 갑작스러운 불이익을 피할 수 있다는 의미다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là kết quả luôn chính xác mà là các tiêu chuẩn rõ ràng và nhất quán để có thể tránh được những bất lợi bất ngờ.
 
-**재사용 가능한 콜로케이션·청크:** `법적 예측가능성`, `예측가능성을 높이다`, `예측가능성이 떨어지다`.
+**재사용 가능한 콜로케이션·청크:** `법적 예측가능성`, `예측가능성을 높이다`, `예측가능성이 떨어지다`. — `Khả năng dự đoán pháp lý`, `Tăng khả năng dự đoán`, `Giảm khả năng dự đoán`.
 
-**자주 쓰는 문형과 성분:** `정책의 예측가능성을 확보하다`; 규제·세금·허가·판례와 결합한다.
+**자주 쓰는 문형과 성분:** `정책의 예측가능성을 확보하다`, `Đảm bảo khả năng dự đoán của chính sách` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법치행정·규제정책·기업환경의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ quy định quản lý pháp luật, chính sách quản lý và môi trường kinh doanh.
 
 **예문:** 규제 기준이 매년 바뀌면 기업은 투자와 고용의 예측가능성을 확보하기 어렵다.
 
-**어휘 연결:** `안정성` là sự ít thay đổi; `예측가능성` nhấn mạnh người bị điều chỉnh có thể dựa vào quy tắc để dự đoán và lập kế hoạch.
+**Dịch:** Nếu các tiêu chuẩn quy định thay đổi hàng năm, các công ty khó có thể đảm bảo khả năng dự đoán về đầu tư và việc làm.
 
-**영어 참고:** *predictability*, *legal certainty* — khả năng dự đoán hành động và kết quả pháp lý dựa trên quy tắc nhất quán.
+**어휘 연결:** `안정성` là sự ít thay đổi; `예측가능성` nhấn mạnh người bị điều chỉnh có thể dựa vào quy tắc để dự đoán và lập kế hoạch. — `Tính ổn định` là ít thay đổi; `Khả năng dự đoán` là chìa khóa của khả năng dự đoán.
+
+**영어 참고:** *predictability*, *legal certainty* — Đó là điều sẽ xảy ra.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** nền hành chính theo pháp quyền.
 
-**뉘앙스와 사용법:** 행정기관도 법에 근거하고 법의 한계 안에서 권한을 행사해야 한다는 시민 보호의 관점이다.
+**뉘앙스와 사용법:** Đây là góc độ bảo vệ công dân mà các cơ quan hành chính cũng phải thực thi thẩm quyền của mình dựa trên pháp luật và trong giới hạn của pháp luật.
 
-**재사용 가능한 콜로케이션·청크:** `법치행정 원칙`, `법치행정을 구현하다`, `법치행정에 반하다`.
+**재사용 가능한 콜로케이션·청크:** `법치행정 원칙`, `법치행정을 구현하다`, `법치행정에 반하다`. — ‘Các nguyên tắc quản lý nhà nước pháp luật’, ‘Thực hiện nhà nước pháp quyền’, ‘Chống lại nhà nước pháp quyền’.
 
-**자주 쓰는 문형과 성분:** `행정이 법치행정의 원칙을 따르다`; 법률유보·재량·권리보호와 결합한다.
+**자주 쓰는 문형과 성분:** `행정이 법치행정의 원칙을 따르다`, `Quản trị tuân theo các nguyên tắc quản lý nhà nước pháp quyền` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·행정법·공직윤리의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao về hiến pháp, luật hành chính và đạo đức công vụ.
 
 **예문:** 긴급한 상황일수록 행정기관은 법치행정의 원칙과 사후 통제를 함께 지켜야 한다.
 
-**어휘 연결:** `법 집행` là thực thi luật; `법치행정` là nguyên tắc nền tảng yêu cầu chính cả cơ quan hành chính cũng bị giới hạn bởi luật.
+**Dịch:** Tình hình càng cấp bách, cơ quan hành chính càng phải tuân thủ các nguyên tắc quản lý nhà nước pháp quyền và kiểm soát theo dõi.
 
-**영어 참고:** *administration under the rule of law*, *rule-of-law administration* — hành chính chịu sự ràng buộc và kiểm soát của pháp luật.
+**어휘 연결:** `법 집행` là thực thi luật; `법치행정` là nguyên tắc nền tảng yêu cầu chính cả cơ quan hành chính cũng bị giới hạn bởi luật. — `Thực thi pháp luật` là thực thi luật; “Quản trị pháp luật” là quy định của pháp luật.
+
+**영어 참고:** *administration under the rule of law*, *rule-of-law administration* — Đúng vậy.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** quyền tùy nghi trong chính sách.
 
-**뉘앙스와 사용법:** 마음대로 결정하는 권한이 아니라 법적 목적·예산·증거·형평성 안에서 판단해야 하는 제한된 선택 공간이다.
+**뉘앙스와 사용법:** Đây không phải là cơ quan có thẩm quyền quyết định một cách tùy tiện mà là không gian lựa chọn hạn chế phải được đánh giá trong phạm vi mục đích pháp lý, ngân sách, bằng chứng và sự công bằng.
 
-**재사용 가능한 콜로케이션·청크:** `정책재량의 범위`, `정책재량을 행사하다`, `정책재량을 남용하다`.
+**재사용 가능한 콜로케이션·청크:** `정책재량의 범위`, `정책재량을 행사하다`, `정책재량을 남용하다`. — `Phạm vi tự quyết định về chính sách`, `Thực hiện quyền tự quyết định về chính sách`, `Lạm dụng quyền tự quyết định về chính sách`.
 
-**자주 쓰는 문형과 성분:** `기관이 정책재량을 행사하다`; 예산·우선순위·위기대응·지원대상과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 정책재량을 행사하다`, `Cơ quan thực hiện toàn quyền về chính sách` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책학·행정법·공공관리의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho nghiên cứu chính sách, luật hành chính và quản lý công.
 
 **예문:** 예산이 부족해도 정책재량을 행사할 때 취약계층을 배제한 이유를 설명해야 한다.
 
-**어휘 연결:** `행정재량` là quyền lựa chọn trong áp dụng và thi hành; `정책재량` rộng hơn, bao gồm lựa chọn mục tiêu, ưu tiên và phương án chính sách.
+**Dịch:** Ngay cả khi ngân sách không đủ, lý do loại trừ các nhóm dễ bị tổn thương phải được giải thích khi thực hiện chính sách theo ý mình.
 
-**영어 참고:** *policy discretion*, *policy latitude* — khoảng lựa chọn của nhà hoạch định trong giới hạn pháp lý và mục tiêu công.
+**어휘 연결:** `행정재량` là quyền lựa chọn trong áp dụng và thi hành; `정책재량` rộng hơn, bao gồm lựa chọn mục tiêu, ưu tiên và phương án chính sách. — `Quyền hành chính` `Quyền quyết định chính sách`rộng hơn, bao gồm các loại mục tiêu, ưu tiên và phương pháp chính sách.
+
+**영어 참고:** *policy discretion*, *policy latitude* — Đó chính là điều tôi đang nói đến.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** mức độ tuân thủ quy định.
 
-**뉘앙스와 사용법:** 처벌이 두려워 형식적으로 따르는 것뿐 아니라 규정의 목적을 이해하고 내부 운영에 반영하는 것까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm việc tuân thủ chính thức vì sợ bị trừng phạt mà còn bao gồm hiểu mục đích của các quy định và phản ánh chúng trong các hoạt động nội bộ.
 
-**재사용 가능한 콜로케이션·청크:** `규제순응 비용`, `규제순응을 높이다`, `자발적 규제순응`.
+**재사용 가능한 콜로케이션·청크:** `규제순응 비용`, `규제순응을 높이다`, `자발적 규제순응`. — `Chi phí tuân thủ quy định`, `Tăng cường tuân thủ quy định`, `Tuân thủ quy định tự nguyện`.
 
-**자주 쓰는 문형과 성분:** `사업자의 규제순응을 평가하다`; 안전·환경·금융·개인정보와 결합한다.
+**자주 쓰는 문형과 성분:** `사업자의 규제순응을 평가하다`, `Đánh giá việc tuân thủ các quy định của nhà điều hành doanh nghiệp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 규제정책·감독·기업 준법경영의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho chính sách quy định, giám sát và quản lý tuân thủ của công ty.
 
 **예문:** 규정이 지나치게 복잡하면 소규모 사업자의 규제순응 비용이 커질 수 있다.
 
-**어휘 연결:** `준수` là hành vi tuân theo một quy tắc cụ thể; `규제순응` nhìn rộng hơn về mức độ chủ thể hiểu, chấp nhận và thực hiện cả hệ thống quy định.
+**Dịch:** Nếu các quy định quá phức tạp thì chi phí tuân thủ đối với các doanh nghiệp nhỏ có thể tăng lên.
 
-**영어 참고:** *regulatory compliance*, *regulatory adherence* — mức độ đáp ứng yêu cầu pháp lý và quy định.
+**어휘 연결:** `준수` là hành vi tuân theo một quy tắc cụ thể; `규제순응` nhìn rộng hơn về mức độ chủ thể hiểu, chấp nhận và thực hiện cả hệ thống quy định. — `Tuân thủ` là hành vi cộng theo một quy tắc cụ thể; `Tuân thủ quy định` Việc tuân thủ các quy định rất dễ dàng.
+
+**영어 참고:** *regulatory compliance*, *regulatory adherence* — Không sao nếu bạn không biết phải làm gì.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** hiện tượng cơ quan quản lý bị ngành bị quản lý “chiếm giữ”.
 
-**뉘앙스와 사용법:** 노골적인 뇌물만이 아니라 인사 교류·정보 의존·전문성 격차 때문에 감독자가 피감독자 관점에 동화되는 과정을 포함한다.
+**뉘앙스와 사용법:** Nó không chỉ bao gồm hành vi hối lộ trắng trợn mà còn bao gồm quá trình mà người giám sát tiếp thu quan điểm của người được giám sát do trao đổi nhân sự, sự phụ thuộc thông tin và khoảng cách chuyên môn.
 
-**재사용 가능한 콜로케이션·청크:** `규제포획 위험`, `규제포획을 방지하다`, `산업에 의한 규제포획`.
+**재사용 가능한 콜로케이션·청크:** `규제포획 위험`, `규제포획을 방지하다`, `산업에 의한 규제포획`. — `Rủi ro nắm bắt quy định`, `Ngăn chặn việc nắm bắt quy định`, `Việc nắm bắt quy định theo ngành`.
 
-**자주 쓰는 문형과 성분:** `기관이 규제포획에 빠지다`; 감독·로비·회전문 인사·공익과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 규제포획에 빠지다`, `Đại lý rơi vào tầm kiểm soát theo quy định` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정학·정치경제·금융감독 비평의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật để chỉ trích hành chính công, kinh tế chính trị và giám sát tài chính.
 
 **예문:** 감독기관과 산업계의 인사 교류가 지나치면 규제포획 의심을 받을 수 있다.
 
-**어휘 연결:** `이해충돌` là xung đột lợi ích ở một quyết định; `규제포획` là vấn đề mang tính cơ cấu khiến cả cơ quan quản lý bị lợi ích ngành chi phối.
+**Dịch:** Nếu việc trao đổi nhân sự giữa cơ quan giám sát và ngành diễn ra quá mức thì có thể nghi ngờ việc nắm bắt theo quy định.
 
-**영어 참고:** *regulatory capture* — cơ quan quản lý dần phục vụ lợi ích của ngành hoặc đối tượng mà mình phải giám sát.
+**어휘 연결:** `이해충돌` là xung đột lợi ích ở một quyết định; `규제포획` là vấn đề mang tính cơ cấu khiến cả cơ quan quản lý bị lợi ích ngành chi phối. — `Xung đột lợi ích` Thật khó hiểu; `Nắm bắt quy định` là vấn đề mang tính cơ cấu tạo ra cả cơ quan quản lý được lợi ích lớn chi phối.
+
+**영어 참고:** *regulatory capture* — Đó là điều sẽ xảy ra.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** trách nhiệm hành chính và trách nhiệm giải trình của cơ quan công quyền.
 
-**뉘앙스와 사용법:** 결과가 나빴다는 이유만으로 처벌하는 것이 아니라 권한·절차·예산·위험을 어떻게 판단했는지 설명할 의무를 포함한다.
+**뉘앙스와 사용법:** Điều này bao gồm nghĩa vụ giải thích cách thẩm quyền, thủ tục, ngân sách và rủi ro được đánh giá thay vì trừng phạt chỉ vì kết quả tồi tệ.
 
-**재사용 가능한 콜로케이션·청크:** `행정책임을 묻다`, `행정책임 체계`, `행정책임을 강화하다`.
+**재사용 가능한 콜로케이션·청크:** `행정책임을 묻다`, `행정책임 체계`, `행정책임을 강화하다`. — `Hỏi về trách nhiệm hành chính`, `Hệ thống trách nhiệm hành chính`, `Tăng cường trách nhiệm hành chính`.
 
-**자주 쓰는 문형과 성분:** `기관이 행정책임을 부담하다`; 설명의무·감사·손해배상·시정과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 행정책임을 부담하다`, `Cơ quan chịu trách nhiệm hành chính` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공감사·행정법·정책평가의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho kiểm toán công, luật hành chính và đánh giá chính sách.
 
 **예문:** 사고 원인을 공개하고 재발 방지책을 이행하는 것이 행정책임의 출발점이다.
 
-**어휘 연결:** `책임` là nghĩa vụ chung; `행정책임` nhấn mạnh nghĩa vụ giải trình và hậu quả pháp lý của quyền lực công.
+**Dịch:** Tiết lộ nguyên nhân vụ tai nạn và thực hiện các biện pháp ngăn ngừa tái diễn là điểm khởi đầu của trách nhiệm hành chính.
 
-**영어 참고:** *administrative accountability*, *public administrative responsibility* — trách nhiệm giải trình và chịu hậu quả khi thực thi quyền lực hành chính.
+**어휘 연결:** `책임` là nghĩa vụ chung; `행정책임` nhấn mạnh nghĩa vụ giải trình và hậu quả pháp lý của quyền lực công. — `Trách nhiệm` là nghĩa vụ chung; `Trách nhiệm hành chính` Thật dễ hiểu.
+
+**영어 참고:** *administrative accountability*, *public administrative responsibility* — Đúng vậy.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** cân nhắc, cân lượng các lợi ích công.
 
-**뉘앙스와 사용법:** 공익이라는 말을 내세워 자동으로 우선하는 것이 아니라, 충돌하는 가치와 영향을 구체적으로 비교해야 한다.
+**뉘앙스와 사용법:** Không nên so sánh các giá trị và tác động xung đột một cách chi tiết thay vì tự động được ưu tiên vì lợi ích công cộng.
 
-**재사용 가능한 콜로케이션·청크:** `공익형량의 기준`, `공익을 형량하다`, `공익형량이 부족하다`.
+**재사용 가능한 콜로케이션·청크:** `공익형량의 기준`, `공익을 형량하다`, `공익형량이 부족하다`. — ‘Tiêu chuẩn cho các câu vì lợi ích công’, ‘Các câu vì lợi ích công’, ‘Các câu vì lợi ích công là chưa đủ’.
 
-**자주 쓰는 문형과 성분:** `기관이 공익과 사익을 형량하다`; 개발·환경·재산권·안전과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 공익과 사익을 형량하다`, `Các thể chế xác định lợi ích công và tư` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·행정법·공공정책 분쟁의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ cho các tranh chấp về hiến pháp, luật hành chính và chính sách công.
 
 **예문:** 개발 허가를 내리려면 경제적 편익과 주민의 환경권을 공익형량의 대상으로 삼아야 한다.
 
-**어휘 연결:** `이익조정` là điều hòa lợi ích nói chung; `공익형량` là đánh giá có cấu trúc, thường trong quyết định công và tranh chấp quyền.
+**Dịch:** Để cấp phép phát triển, lợi ích kinh tế và quyền môi trường của cư dân phải được coi là lợi ích công cộng.
 
-**영어 참고:** *balancing of public interests*, *public-interest balancing* — so sánh có lý do giữa các lợi ích và quyền xung đột.
+**어휘 연결:** `이익조정` là điều hòa lợi ích nói chung; `공익형량` là đánh giá có cấu trúc, thường trong quyết định công và tranh chấp quyền. — `Điều chỉnh lợi nhuận` là điều hòa lợi lợi nói chung; ``Bản án lợi ích công` được đánh giá có cấu trúc, thường được quyết định công bằng và tranh chấp quyền.
+
+**영어 참고:** *balancing of public interests*, *public-interest balancing* — So sánh lý do giữa các lợi ích và xung đột.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** lập pháp hồi tố.
 
-**뉘앙스와 사용법:** 국민이 당시에는 알 수 없었던 기준으로 과거 행위를 불리하게 평가할 수 있어 법적 안정성과 신뢰보호 문제가 생긴다.
+**뉘앙스와 사용법:** Công chúng có thể đánh giá các hành động trong quá khứ một cách bất lợi dựa trên các tiêu chí chưa được biết đến vào thời điểm đó, gây ra các vấn đề về sự ổn định pháp lý và bảo vệ lòng tin.
 
-**재사용 가능한 콜로케이션·청크:** `소급입법 금지`, `소급입법 논란`, `불리한 소급입법`.
+**재사용 가능한 콜로케이션·청크:** `소급입법 금지`, `소급입법 논란`, `불리한 소급입법`. — 'Cấm áp dụng luật hồi tố', 'Tranh cãi về luật hồi tố', 'Luật hồi tố không thuận lợi'.
 
-**자주 쓰는 문형과 성분:** `법률이 소급입법에 해당하다`; 과세·처벌·재산권·헌법과 결합한다.
+**자주 쓰는 문형과 성분:** `법률이 소급입법에 해당하다`, `Luật tương ứng với luật hồi tố` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·입법정책·조세·형사법의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ kỹ thuật cho hiến pháp, chính sách lập pháp, thuế và luật hình sự.
 
 **예문:** 이미 종료된 계약에 새 부담금을 적용하면 소급입법 논란이 발생할 수 있다.
 
-**어휘 연결:** `법 개정` chỉ thay đổi luật cho tương lai; `소급입법` đưa hiệu lực mới về quá khứ và có thể xung đột với dự đoán hợp pháp của người dân.
+**Dịch:** Áp dụng mức thuế mới cho hợp đồng đã kết thúc có thể dẫn đến tranh cãi về luật hồi tố.
 
-**영어 참고:** *retroactive legislation*, *ex post facto law* — luật áp dụng cho sự kiện hoặc hành vi xảy ra trước khi luật được ban hành.
+**어휘 연결:** `법 개정` chỉ thay đổi luật cho tương lai; `소급입법` đưa hiệu lực mới về quá khứ và có thể xung đột với dự đoán hợp pháp của người dân. — `Luật sửa đổi` chỉ thay đổi luật cho tương lai; `Luật hồi tố` là một vấn đề.
+
+**영어 참고:** *retroactive legislation*, *ex post facto law* — Nếu bạn không biết phải làm gì thì đừng lo lắng về điều đó.
 
 ---
 
