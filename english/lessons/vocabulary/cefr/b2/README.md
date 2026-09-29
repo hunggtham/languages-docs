@@ -50,6 +50,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
 - [Platforms And Digital Infrastructure](./technology/04-platforms-and-digital-infrastructure.md)
+- [Service Reliability And Platform Design](./technology/05-service-reliability-and-platform-design.md)
 
 ## society
 

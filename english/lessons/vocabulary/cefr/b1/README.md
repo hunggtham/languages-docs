@@ -62,6 +62,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Entrepreneurship And Startups](./business/05-entrepreneurship-and-startups.md)
 - [Financial Records And Accounting](./business/06-financial-records-and-accounting.md)
 - [Business Cash And Planning](./business/07-business-cash-and-planning.md)
+- [Sustainable Business And Consumer Choices](./business/08-sustainable-business-and-consumer-choices.md)
 
 ## travel
 
