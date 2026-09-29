@@ -239,3 +239,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Transplant Immunology And Organ Allocation](./biomedicine/30-transplant-immunology-and-organ-allocation.md)
 - [Antimicrobial Pharmacology And Resistance Ecology](./biomedicine/31-antimicrobial-pharmacology-and-resistance-ecology.md)
 - [Phage Therapy And Pathogen Ecology](./biomedicine/32-phage-therapy-and-pathogen-ecology.md)
+- [Clinical Neuroimmunology And Neuroinflammation](./biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md)
