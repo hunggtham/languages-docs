@@ -189,6 +189,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [GPU Kernel Optimization And Accelerator Performance](./computing/40-gpu-kernel-optimization-and-accelerator-performance.md)
 - [Post-Quantum Cryptography And Migration](./computing/41-post-quantum-cryptography-and-migration.md)
 - [Measured Boot And Remote Attestation](./computing/42-measured-boot-and-remote-attestation.md)
+- [Serializability And Distributed Transactions](./computing/43-serializability-and-distributed-transactions.md)
 
 ## semiconductors
 
