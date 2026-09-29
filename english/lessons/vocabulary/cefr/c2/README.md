@@ -206,3 +206,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Biomarkers And Clinical Trial Design](./biomedicine/15-biomarkers-and-clinical-trial-design.md)
 - [Cell Therapy Manufacturing And Release](./biomedicine/16-cell-therapy-manufacturing-and-release.md)
 - [Systems Pharmacokinetics And Dose Modeling](./biomedicine/17-systems-pharmacokinetics-and-dose-modeling.md)
+- [Mechanistic Dose Modeling And Virtual Patients](./biomedicine/18-mechanistic-dose-modeling-and-virtual-patients.md)
