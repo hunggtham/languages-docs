@@ -8,6 +8,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
 - [Priority Setting And Decision Timing](./decisions/03-priority-setting-and-decision-timing.md)
 - [Decision Ownership And Implementation](./decisions/04-decision-ownership-and-implementation.md)
+- [Decision Evidence And Uncertainty](./decisions/05-decision-evidence-and-uncertainty.md)
 
 ## risk
 

@@ -68,6 +68,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Financial Records And Accounting](./business/06-financial-records-and-accounting.md)
 - [Business Cash And Planning](./business/07-business-cash-and-planning.md)
 - [Sustainable Business And Consumer Choices](./business/08-sustainable-business-and-consumer-choices.md)
+- [Business Meetings And Customer Needs](./business/09-business-meetings-and-customer-needs.md)
 
 ## travel
 
