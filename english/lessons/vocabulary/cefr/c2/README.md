@@ -226,3 +226,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Clinical Data Interoperability And Standards](./biomedicine/21-clinical-data-interoperability-and-standards.md)
 - [Medical-Device Lifecycle And Surveillance](./biomedicine/22-medical-device-lifecycle-and-surveillance.md)
 - [Variant Interpretation And Genetic Counseling](./biomedicine/23-variant-interpretation-and-genetic-counseling.md)
+- [Health Economics And Outcomes Research](./biomedicine/24-health-economics-and-outcomes-research.md)
