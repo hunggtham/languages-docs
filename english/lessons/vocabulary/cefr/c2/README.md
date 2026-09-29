@@ -185,6 +185,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Silicon Photonics And Optical Interconnects](./semiconductors/13-silicon-photonics-and-optical-interconnects.md)
 - [Semiconductor Sustainability And Circular Manufacturing](./semiconductors/14-semiconductor-sustainability-and-circular-manufacturing.md)
 - [Design For Test And Silicon Validation](./semiconductors/15-design-for-test-and-silicon-validation.md)
+- [Compact Modeling And Physical Design Signoff](./semiconductors/16-compact-modeling-and-physical-design-signoff.md)
 
 ## biomedicine
 
