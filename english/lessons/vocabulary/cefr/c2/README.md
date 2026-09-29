@@ -223,3 +223,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Quantitative Medical Imaging And Radiomics](./biomedicine/19-quantitative-medical-imaging-and-radiomics.md)
 - [Digital Pathology And Computational Histology](./biomedicine/20-digital-pathology-and-computational-histology.md)
 - [Clinical Data Interoperability And Standards](./biomedicine/21-clinical-data-interoperability-and-standards.md)
+- [Medical-Device Lifecycle And Surveillance](./biomedicine/22-medical-device-lifecycle-and-surveillance.md)
