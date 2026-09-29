@@ -178,6 +178,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [ML Observability And Deployment Lifecycle](./computing/29-ml-observability-and-deployment-lifecycle.md)
 - [Carbon-Aware Data Center Operations](./computing/30-carbon-aware-data-center-operations.md)
 - [Model Compression And Efficient Inference](./computing/31-model-compression-and-efficient-inference.md)
+- [Confidential Inference And Enclave Security](./computing/32-confidential-inference-and-enclave-security.md)
 
 ## semiconductors
 
