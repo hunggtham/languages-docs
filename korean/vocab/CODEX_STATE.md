@@ -465,6 +465,11 @@
 - Coverage: 15 advanced-native climate-adaptation, just-transition, biodiversity, and environmental-accountability headwords (`기후정의`, `적응재원`, `적응 격차`, `기후 회복력`, `기후망명`, `기후 손실`, `전환계획`, `탄소제거`, `메탄감축`, `배출경로`, `자연기반해법`, `생태계 서비스`, `생물다양성 순손실`, `공급망 실사`, `환경영향평가`) in one 106-eojeol `target_set` passage; source PDF used as reference only and prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-mobility-and-transport-policy`
+- File: `03-transport-equity-and-logistics-resilience.md`
+- Coverage: 15 advanced-native transport-equity, freight-transition, logistics, mobility-data, and spatial-justice headwords (`교통 형평성`, `통행권`, `탄소집약도`, `물류 병목`, `공급망 회복력`, `화물전환`, `철도화물`, `친환경 선박`, `항공수요관리`, `도시물류`, `공동배송`, `교통 데이터 주권`, `이동데이터`, `접근성설계`, `공간적 배제`) in one 101-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
