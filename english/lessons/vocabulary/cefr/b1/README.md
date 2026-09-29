@@ -39,6 +39,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## transport
 
 - [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
+- [Active Travel And Commuter Choices](./transport/02-active-travel-and-commuter-choices.md)
 
 ## education
 

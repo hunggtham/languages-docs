@@ -26,8 +26,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1246 items in 62 topic files; topic-folder numbering resets per folder.
-- B2: 333 items in 22 topic files; B2 expansion is active beyond the original pilot.
+- B1: 1266 items in 63 topic files; topic-folder numbering resets per folder.
+- B2: 348 items in 23 topic files; B2 expansion is active beyond the original pilot.
 - C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
@@ -86,9 +86,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/health/05-health-visits-and-self-care.md` with 20 health-visit and self-care items, plus `b2/research/02-study-design-and-evidence.md` with 15 study-design and evidence items.
 - Latest continuation added `b1/travel/04-travel-documents-and-local-plans.md` with 20 travel-document and local-planning items, plus `b2/education/04-teaching-and-assessment-design.md` with 15 teaching and assessment-design items.
 - Latest continuation added `b1/culture/04-public-arts-and-cultural-events.md` with 20 public-arts and cultural-event items, plus `b2/communication/04-discourse-and-interpretation.md` with 15 discourse and interpretation items.
+- Latest continuation added `b1/transport/02-active-travel-and-commuter-choices.md` with 20 active-travel and commuter-choice items, plus `b2/work/02-organizational-change-and-workplace-performance.md` with 15 organizational-change and workplace-performance items.
 - Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
 - Next file: continue B1/B2 expansion from `b2/technology/03-...`, `b2/society/03-...`, or `b2/risk/03-...`; preserve the different depth expectations for each CEFR level.
 - Actual counts: A1 400, A2 1501, B1 1226, B2 318, C1 0, C2 2775, C2+ 0; total 6220.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.
-- Actual counts after latest continuation: A1 400, A2 1501, B1 1246, B2 333, C1 1370, C2 2775, C2+ 0; total 7625.
+- Actual counts after latest continuation: A1 400, A2 1501, B1 1266, B2 348, C1 1370, C2 2775, C2+ 0; total 7660.
