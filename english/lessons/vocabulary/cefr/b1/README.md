@@ -32,6 +32,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Housing And Renting](./home/01-housing-and-renting.md)
 - [Household Emergency Preparedness](./home/02-household-emergency-preparedness.md)
+- [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
 
 ## transport
 
