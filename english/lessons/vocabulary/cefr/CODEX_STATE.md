@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1726 items in 86 topic files; topic-folder numbering resets per folder.
-- B2: 693 items in 46 topic files; B2 expansion is active beyond the original pilot.
+- B1: 1746 items in 87 topic files; topic-folder numbering resets per folder.
+- B2: 708 items in 47 topic files; B2 expansion is active beyond the original pilot.
 - C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 8465 items.
+- Total: 8500 items.
 
 ## Current position
 
@@ -110,9 +110,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/science/06-field-observation-and-science-practice.md` with 20 field-observation and science-practice items, plus `b2/research/06-evidence-synthesis-and-limitations.md` with 15 evidence-synthesis and research-limitation items.
 - Latest continuation added `b1/business/09-business-meetings-and-customer-needs.md` with 20 business-meeting and customer-needs items, plus `b2/decisions/05-decision-evidence-and-uncertainty.md` with 15 decision-evidence and uncertainty items.
 - Latest continuation added `b1/technology/08-online-services-and-digital-problem-solving.md` with 20 online-service and digital problem-solving items, plus `b2/risk/06-scenario-planning-and-risk-appetite.md` with 15 scenario-planning and risk-appetite items.
+- Latest continuation added `b1/technology/09-online-media-and-content-sharing.md` with 20 online-media and content-sharing items, plus `b2/risk/07-risk-transfer-and-insurance-decisions.md` with 15 risk-transfer and insurance items.
 - Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
-- Next file: continue B1 technology from `09-...` or B2 risk from `07-...`; preserve the different depth expectations for each CEFR level.
+- Next file: continue B1 technology from `10-...` or B2 risk from `08-...`; preserve the different depth expectations for each CEFR level.
 - Actual counts: A1 400, A2 1501, B1 1226, B2 318, C1 0, C2 2775, C2+ 0; total 6220.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.
-- Actual counts after latest continuation: A1 400, A2 1501, B1 1726, B2 693, C1 1370, C2 2775, C2+ 0; total 8465.
+- Actual counts after latest continuation: A1 400, A2 1501, B1 1746, B2 708, C1 1370, C2 2775, C2+ 0; total 8500.

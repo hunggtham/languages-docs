@@ -18,6 +18,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Continuity And Recovery Operations](./risk/04-continuity-and-recovery-operations.md)
 - [Operational Risk Controls And Reporting](./risk/05-operational-risk-controls-and-reporting.md)
 - [Scenario Planning And Risk Appetite](./risk/06-scenario-planning-and-risk-appetite.md)
+- [Risk Transfer And Insurance Decisions](./risk/07-risk-transfer-and-insurance-decisions.md)
 
 ## work
 
