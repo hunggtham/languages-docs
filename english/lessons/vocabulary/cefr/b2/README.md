@@ -5,6 +5,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## decisions
 
 - [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
+- [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
 
 ## risk
 
