@@ -215,3 +215,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Systems Pharmacokinetics And Dose Modeling](./biomedicine/17-systems-pharmacokinetics-and-dose-modeling.md)
 - [Mechanistic Dose Modeling And Virtual Patients](./biomedicine/18-mechanistic-dose-modeling-and-virtual-patients.md)
 - [Quantitative Medical Imaging And Radiomics](./biomedicine/19-quantitative-medical-imaging-and-radiomics.md)
+- [Digital Pathology And Computational Histology](./biomedicine/20-digital-pathology-and-computational-histology.md)
