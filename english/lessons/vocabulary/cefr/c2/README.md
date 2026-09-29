@@ -181,6 +181,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Confidential Inference And Enclave Security](./computing/32-confidential-inference-and-enclave-security.md)
 - [Workload Identity And Zero-Trust Authorization](./computing/33-workload-identity-and-zero-trust-authorization.md)
 - [eBPF And Kernel Observability](./computing/34-ebpf-and-kernel-observability.md)
+- [Formal Methods And Type-Theoretic Verification](./computing/35-formal-methods-and-type-theoretic-verification.md)
 
 ## semiconductors
 
