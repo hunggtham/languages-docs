@@ -34,6 +34,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
 - [Study Design And Evidence](./research/02-study-design-and-evidence.md)
 - [Research Reproducibility And Reporting](./research/03-research-reproducibility-and-reporting.md)
+- [Publication And Research Impact](./research/04-publication-and-research-impact.md)
 
 ## education
 
