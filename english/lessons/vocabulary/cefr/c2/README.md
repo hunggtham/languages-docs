@@ -245,3 +245,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Phage Therapy And Pathogen Ecology](./biomedicine/32-phage-therapy-and-pathogen-ecology.md)
 - [Clinical Neuroimmunology And Neuroinflammation](./biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md)
 - [Clinical Pharmacogenomics And Drug-Gene Interactions](./biomedicine/34-clinical-pharmacogenomics-and-drug-gene-interactions.md)
+- [Clinical-Trial Safety And Data Oversight](./biomedicine/35-clinical-trial-safety-and-data-oversight.md)
