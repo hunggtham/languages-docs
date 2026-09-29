@@ -182,6 +182,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Workload Identity And Zero-Trust Authorization](./computing/33-workload-identity-and-zero-trust-authorization.md)
 - [eBPF And Kernel Observability](./computing/34-ebpf-and-kernel-observability.md)
 - [Formal Methods And Type-Theoretic Verification](./computing/35-formal-methods-and-type-theoretic-verification.md)
+- [Stream Processing And Event-Time Semantics](./computing/36-stream-processing-and-event-time-semantics.md)
 
 ## semiconductors
 
