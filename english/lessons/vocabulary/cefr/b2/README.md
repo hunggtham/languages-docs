@@ -20,6 +20,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Scenario Planning And Risk Appetite](./risk/06-scenario-planning-and-risk-appetite.md)
 - [Risk Transfer And Insurance Decisions](./risk/07-risk-transfer-and-insurance-decisions.md)
 - [Risk Culture And Accountability](./risk/08-risk-culture-and-accountability.md)
+- [Risk Data And Measurement](./risk/09-risk-data-and-measurement.md)
 
 ## work
 
