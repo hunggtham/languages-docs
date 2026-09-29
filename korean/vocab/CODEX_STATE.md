@@ -470,6 +470,11 @@
 - Coverage: 15 advanced-native transport-equity, freight-transition, logistics, mobility-data, and spatial-justice headwords (`교통 형평성`, `통행권`, `탄소집약도`, `물류 병목`, `공급망 회복력`, `화물전환`, `철도화물`, `친환경 선박`, `항공수요관리`, `도시물류`, `공동배송`, `교통 데이터 주권`, `이동데이터`, `접근성설계`, `공간적 배제`) in one 101-eojeol `target_set` passage; source PDF used as reference only and prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `03-grid-flexibility-and-energy-democracy.md`
+- Coverage: 15 advanced-native power-system, electricity-market, storage, critical-mineral, and energy-democracy headwords (`계통 관성`, `계통혼잡`, `송전제약`, `출력예측`, `수요반응`, `전력중개시장`, `계통운영`, `무탄소전원`, `전력망 회복력`, `전력시장 가격신호`, `장주기 저장`, `배터리 재활용`, `핵심광물`, `에너지 민주주의`, `지역에너지`) in one 99-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
