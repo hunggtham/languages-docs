@@ -10,7 +10,7 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 - Expansion target: 20,000 unique learning items
 - Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `/prompt/vocabulary_goal/GOAL.md`.
 - Every headword must be reused naturally in a review context.
-- Target integration branch: `main` via short-lived task branches created from the latest `main`.
+- Target integration branch: `feat/vocabulary-learning`
 
 ## Active generation contract
 
@@ -28,18 +28,18 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 848 items in 42 topic files; topic-folder numbering resets per folder.
 - B2: pilot lesson `01`, 15 items.
-- C1: 0 items.
-- C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
+- C2: 35 items in 2 topic files, including the rhetoric expansion.
 - C2+: 0 items.
-- Total: 5539 items.
+- Total: 4169 items.
 
 ## Current position
 
 Status: `READY`
 
-Current level: `C2`
+Current level: `C1`
 
-Next lesson: continue with the next coherent C2 topic. Reuse `computing/15-...`, `semiconductors/09-...`, or `biomedicine/13-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: create the next coherent C1 topic file (for a new topic, `c1/<topic>/01-...md`); the completed C1 topics are institutions, analysis, change, ethics, research, communication, culture, law, technology, economy, health, society, education, work, science, psychology, media, urban, linguistics, food, environment, finance, transport, housing, energy, agriculture, arts, business, statistics, geography, weather, philosophy, religion, music, cinema, architecture, engineering, biology, chemistry, astronomy, oceanography, geology, computer science, phonetics, medicine, psychiatry, public-health, neuroscience, immunology, genomics, ecology, robotics, data-science, cryptography, quantum-computing, geopolitics, sociolinguistics, language-acquisition, behavioral-economics, game-theory, hydrology, seismology, volcanology, paleontology, archaeology, anthropology, demography, econometrics, public-finance, public-administration, international-development, risk-governance, constitutional-law, electoral-politics, comparative-politics, diplomacy, peace-and-conflict, human-rights, criminal-justice, corporate-governance, supply-chain, project-management, quality-management, data-governance, ai-reliability, cybersecurity, cloud-architecture, distributed-systems, database-systems, formal-methods, and programming-languages.
 
 Before choosing the exact lesson topic and words:
 
@@ -69,11 +69,6 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 - A1 and A2 source lessons have been consolidated into larger topic files with multiple review passages; all entries and contexts were revalidated.
 - A2 reached its soft planning target at 1,501 items. The current expansion has added validated B1 technology, community/social-challenges, heritage/museums, data/digital-work, management/leadership, finance/economy, law/public-services, learning/assessment, healthcare/prevention, digital-communication, research/innovation, workplace-wellbeing, travel-planning, cybersecurity/digital-trust, creative-industries, business-operations, networks/emerging-technology, community-participation, healthy-routines, professional-communication, entrepreneurship, travel-safety, academic-life, climate-action, career-development, cultural-program, software-development, professional-writing, public-policy, patient-rights, assessment-support, financial-records, and housing/renting topics.
-- Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, and liquid biopsy.
-- Latest checkpoint added five lessons: `computing/13-rdma-and-high-performance-networking.md`, `computing/14-distributed-object-storage-and-erasure-coding.md`, `semiconductors/08-cmos-image-sensors-and-pixel-readout.md`, `biomedicine/11-cryo-em-and-structural-biology.md`, and `biomedicine/12-glycomics-and-glycobiology.md`.
-- The five latest lessons add 100 reviewed C2 learning items. Each 20-item lesson uses one review passage that naturally reuses all headwords and includes a Vietnamese translation.
-- Dedup validation searched the default corpus for the new semantic networks and representative high-risk terms including `dynamic range`, `zero-copy`, `glycosylation`, `object storage`, and `structural biology`; no existing ordinary headword+sense coverage was found. Nearby branch lessons were also checked to avoid overlap with transport, distributed systems, analog/RF, proteomics, and recent omics content.
-- New computing coverage now spans registered-memory networking, queue-pair verbs, one-sided RDMA, InfiniBand/RoCE, object namespaces, failure-aware placement, erasure coding, repair, and background replica convergence. Semiconductor coverage now includes pixel charge conversion, image-sensor noise, shutter architecture, optical stacking, and backside illumination. Biomedicine coverage now includes cryo-EM specimen preparation, particle reconstruction, resolution validation, atomic-model refinement, and glycan structure, processing, recognition, and heterogeneity.
-- Next file: continue C2 from the next coherent topic folder; do not resume the old global `rhetoric/104` sequence unless the topic is actually rhetoric-related.
-- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 0, C2 2775, C2+ 0; total 5539.
-- Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
+- Next file: continue C1 with the next coherent topic or folder-local sequence.
+- Actual counts: A1 400, A2 1501, B1 848, B2 15, C1 1370, C2 35, C2+ 0; total 4169.
+- No intentional repeated headwords or known vocabulary blocker in this batch.
