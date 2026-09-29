@@ -129,3 +129,4 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Home Utilities And Maintenance](./services/03-home-utilities-and-maintenance.md)
 - [Moving In And Building Support](./services/04-moving-in-and-building-support.md)
 - [Consumer Returns And Service Resolution](./services/05-consumer-returns-and-service-resolution.md)
+- [Customer Support And Service Follow Up](./services/06-customer-support-and-service-follow-up.md)
