@@ -209,6 +209,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Chiplet Interconnect And Die-To-Die Links](./semiconductors/19-chiplet-interconnect-and-die-to-die-links.md)
 - [Design-For-Test And Silicon Validation](./semiconductors/20-design-for-test-and-silicon-validation.md)
 - [Power Integrity And High-Speed Signal Analysis](./semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
+- [EUV Lithography And Stochastic Process Control](./semiconductors/22-euv-lithography-and-stochastic-process-control.md)
 
 ## biomedicine
 
