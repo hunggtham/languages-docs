@@ -169,6 +169,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Event-Driven Architecture And Messaging](./computing/20-event-driven-architecture-and-messaging.md)
 - [Programmable Networking And Function Offload](./computing/21-programmable-networking-and-function-offload.md)
 - [WebAssembly And Portable Execution](./computing/22-webassembly-and-portable-execution.md)
+- [Distributed ML Training And Inference](./computing/23-distributed-ml-training-and-inference.md)
 
 ## semiconductors
 
