@@ -205,6 +205,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Low-Power Design Intent And Power Domains](./semiconductors/18-low-power-design-intent-and-power-domains.md)
 - [Chiplet Interconnect And Die-To-Die Links](./semiconductors/19-chiplet-interconnect-and-die-to-die-links.md)
 - [Design-For-Test And Silicon Validation](./semiconductors/20-design-for-test-and-silicon-validation.md)
+- [Power Integrity And High-Speed Signal Analysis](./semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 
 ## biomedicine
 
