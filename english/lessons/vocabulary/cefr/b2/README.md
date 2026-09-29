@@ -38,6 +38,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Study Design And Evidence](./research/02-study-design-and-evidence.md)
 - [Research Reproducibility And Reporting](./research/03-research-reproducibility-and-reporting.md)
 - [Publication And Research Impact](./research/04-publication-and-research-impact.md)
+- [Peer Review And Research Communication](./research/05-peer-review-and-research-communication.md)
 
 ## education
 
