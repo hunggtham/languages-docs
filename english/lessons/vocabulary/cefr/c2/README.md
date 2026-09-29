@@ -230,3 +230,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Metabolic Phenotyping And Clinical Nutrition](./biomedicine/25-metabolic-phenotyping-and-clinical-nutrition.md)
 - [Sleep Medicine And Circadian Physiology](./biomedicine/26-sleep-medicine-and-circadian-physiology.md)
 - [Rehabilitation Science And Gait Analysis](./biomedicine/27-rehabilitation-science-and-gait-analysis.md)
+- [Digital Therapeutics And Behavioral Intervention](./biomedicine/28-digital-therapeutics-and-behavioral-intervention.md)
