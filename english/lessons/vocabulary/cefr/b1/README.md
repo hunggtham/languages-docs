@@ -120,6 +120,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Community Events And Creative Hobbies](./leisure/03-community-events-and-creative-hobbies.md)
 - [Hobby Clubs And Learning Projects](./leisure/04-hobby-clubs-and-learning-projects.md)
 - [Club And Project Planning](./leisure/05-club-project-planning.md)
+- [Personal Projects And Leisure Skills](./leisure/06-personal-projects-and-leisure-skills.md)
 
 ## services
 

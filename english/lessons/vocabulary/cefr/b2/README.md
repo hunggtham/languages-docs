@@ -56,6 +56,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
 - [Platforms And Digital Infrastructure](./technology/04-platforms-and-digital-infrastructure.md)
 - [Service Reliability And Platform Design](./technology/05-service-reliability-and-platform-design.md)
+- [Data Governance And Lifecycle](./technology/06-data-governance-and-lifecycle.md)
 
 ## society
 
