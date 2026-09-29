@@ -24,6 +24,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Climate Action And Environmental Policy](./science/03-climate-action-and-environmental-policy.md)
 - [Scientific Method And Experiments](./science/04-scientific-method-and-experiments.md)
 - [Weather And Climate Action](./science/05-weather-and-climate-action.md)
+- [Field Observation And Science Practice](./science/06-field-observation-and-science-practice.md)
 
 ## health
 
