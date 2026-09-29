@@ -187,6 +187,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Database Recovery And Logging](./computing/38-database-recovery-and-logging.md)
 - [Lock-Free Concurrency And Memory Reclamation](./computing/39-lock-free-concurrency-and-memory-reclamation.md)
 - [GPU Kernel Optimization And Accelerator Performance](./computing/40-gpu-kernel-optimization-and-accelerator-performance.md)
+- [Post-Quantum Cryptography And Migration](./computing/41-post-quantum-cryptography-and-migration.md)
 
 ## semiconductors
 
