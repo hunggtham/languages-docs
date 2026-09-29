@@ -170,6 +170,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Programmable Networking And Function Offload](./computing/21-programmable-networking-and-function-offload.md)
 - [WebAssembly And Portable Execution](./computing/22-webassembly-and-portable-execution.md)
 - [Distributed ML Training And Inference](./computing/23-distributed-ml-training-and-inference.md)
+- [Privacy-Preserving Federated Learning](./computing/24-privacy-preserving-federated-learning.md)
 
 ## semiconductors
 
