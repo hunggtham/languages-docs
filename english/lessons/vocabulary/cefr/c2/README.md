@@ -212,6 +212,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Design-For-Test And Silicon Validation](./semiconductors/20-design-for-test-and-silicon-validation.md)
 - [Power Integrity And High-Speed Signal Analysis](./semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 - [EUV Lithography And Stochastic Process Control](./semiconductors/22-euv-lithography-and-stochastic-process-control.md)
+- [Electrothermal Design And Package Thermal Behavior](./semiconductors/23-electrothermal-design-and-package-thermal-behavior.md)
 
 ## biomedicine
 
