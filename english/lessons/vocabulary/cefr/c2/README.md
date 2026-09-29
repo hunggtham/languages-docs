@@ -185,6 +185,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Stream Processing And Event-Time Semantics](./computing/36-stream-processing-and-event-time-semantics.md)
 - [CRDTs And Causal Consistency](./computing/37-crdts-and-causal-consistency.md)
 - [Database Recovery And Logging](./computing/38-database-recovery-and-logging.md)
+- [Lock-Free Concurrency And Memory Reclamation](./computing/39-lock-free-concurrency-and-memory-reclamation.md)
 
 ## semiconductors
 
