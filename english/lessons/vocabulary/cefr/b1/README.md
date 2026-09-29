@@ -104,6 +104,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Cooking And Eating Out](./food/01-cooking-and-eating-out.md)
 - [Food Shopping And Nutrition](./food/02-food-shopping-and-nutrition.md)
+- [Food Preparation And Safe Shopping](./food/03-food-preparation-and-safe-shopping.md)
 
 ## relationships
 

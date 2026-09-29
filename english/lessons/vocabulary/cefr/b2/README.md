@@ -15,6 +15,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Governance And Response](./risk/02-risk-governance-and-response.md)
 - [Risk Monitoring And Continuity](./risk/03-risk-monitoring-and-continuity.md)
 - [Continuity And Recovery Operations](./risk/04-continuity-and-recovery-operations.md)
+- [Operational Risk Controls And Reporting](./risk/05-operational-risk-controls-and-reporting.md)
 
 ## work
 
