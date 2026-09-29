@@ -101,6 +101,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Creative Industries And Media](./culture/02-creative-industries-and-media.md)
 - [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
 - [Public Arts And Cultural Events](./culture/04-public-arts-and-cultural-events.md)
+- [Local Arts And Cultural Participation](./culture/05-local-arts-and-cultural-participation.md)
 
 ## food
 
