@@ -203,6 +203,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Hardware Verification And Emulation](./semiconductors/17-hardware-verification-and-emulation.md)
 - [Low-Power Design Intent And Power Domains](./semiconductors/18-low-power-design-intent-and-power-domains.md)
 - [Chiplet Interconnect And Die-To-Die Links](./semiconductors/19-chiplet-interconnect-and-die-to-die-links.md)
+- [Design-For-Test And Silicon Validation](./semiconductors/20-design-for-test-and-silicon-validation.md)
 
 ## biomedicine
 
