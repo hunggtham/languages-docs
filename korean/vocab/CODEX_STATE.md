@@ -455,6 +455,11 @@
 - Coverage: 15 advanced-native media, platform, public-sphere, and cultural-interpretation headwords (`미디어 편향`, `정보 비대칭`, `프레이밍 효과`, `공론장 분절`, `플랫폼 중개`, `알고리즘 증폭`, `주의경제`, `정보 과부하`, `출처 투명성`, `맥락 붕괴`, `공적 기억`, `문화적 번역`, `감정 노동`, `해석 공동체`, `검증 피로`) across `news_formal` and `native_spoken` lanes in one 134-eojeol `target_set` passage; prose is original.
 - Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
 
+- Topic: `social-change-and-belonging`
+- File: `03-citizenship-belonging-and-intersectionality.md`
+- Coverage: 15 advanced-native social-policy, citizenship, and intersectionality headwords (`교차성`, `인정투쟁`, `상징폭력`, `제도적 차별`, `구조적 차별`, `소수자 정치`, `시민권화`, `문화적 시민권`, `정체성 정치`, `초국적 네트워크`, `시민권 격차`, `다문화 시민성`, `사회적 인정`, `상징적 경계`, `대표성 결핍`) in one 122-eojeol `target_set` passage; source PDF used as reference only and prose is original.
+- Validation: all 15 target headings have the required entry fields, lexical-basis/register/source-lane metadata, natural passage coverage, hidden target metadata, topic README link, and global duplicate-heading check; `git diff --check` passed.
+
 ## Resume rule
 
 Continue with the next coherent topic rather than following source-file order. Prefer the candidate topics recorded in `korean/vocab/korean-vietnamese-wordbook.md`, and check existing headword+sense coverage before adding a word.
