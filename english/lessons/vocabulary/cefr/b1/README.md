@@ -110,6 +110,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
 - [Community And Social Support](./relationships/02-community-and-social-support.md)
+- [Family Care And Community Life](./relationships/03-family-care-and-community-life.md)
 
 ## leisure
 
