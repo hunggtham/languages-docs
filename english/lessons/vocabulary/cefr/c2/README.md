@@ -234,3 +234,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Rehabilitation Science And Gait Analysis](./biomedicine/27-rehabilitation-science-and-gait-analysis.md)
 - [Digital Therapeutics And Behavioral Intervention](./biomedicine/28-digital-therapeutics-and-behavioral-intervention.md)
 - [Pain Science And Chronic Pain Rehabilitation](./biomedicine/29-pain-science-and-chronic-pain-rehabilitation.md)
+- [Transplant Immunology And Organ Allocation](./biomedicine/30-transplant-immunology-and-organ-allocation.md)
