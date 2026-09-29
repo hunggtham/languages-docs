@@ -20,6 +20,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
 - [Organizational Change And Workplace Performance](./work/02-organizational-change-and-workplace-performance.md)
+- [Leadership And Organizational Learning](./work/03-leadership-and-organizational-learning.md)
 
 ## communication
 
