@@ -61,6 +61,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Travel And Cultural Awareness](./travel/01-travel-and-cultural-awareness.md)
 - [Travel Planning And Support](./travel/02-travel-planning-and-support.md)
 - [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
+- [Travel Documents And Local Plans](./travel/04-travel-documents-and-local-plans.md)
 
 ## society
 
