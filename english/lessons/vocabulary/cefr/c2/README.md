@@ -228,3 +228,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Variant Interpretation And Genetic Counseling](./biomedicine/23-variant-interpretation-and-genetic-counseling.md)
 - [Health Economics And Outcomes Research](./biomedicine/24-health-economics-and-outcomes-research.md)
 - [Metabolic Phenotyping And Clinical Nutrition](./biomedicine/25-metabolic-phenotyping-and-clinical-nutrition.md)
+- [Sleep Medicine And Circadian Physiology](./biomedicine/26-sleep-medicine-and-circadian-physiology.md)
