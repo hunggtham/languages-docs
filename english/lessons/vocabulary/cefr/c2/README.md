@@ -191,6 +191,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Measured Boot And Remote Attestation](./computing/42-measured-boot-and-remote-attestation.md)
 - [Serializability And Distributed Transactions](./computing/43-serializability-and-distributed-transactions.md)
 - [Homomorphic Encryption And Private Computation](./computing/44-homomorphic-encryption-and-private-computation.md)
+- [Vector Search And Approximate Nearest Neighbors](./computing/45-vector-search-and-approximate-nearest-neighbors.md)
 
 ## semiconductors
 
