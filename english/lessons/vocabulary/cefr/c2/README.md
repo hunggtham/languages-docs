@@ -280,3 +280,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Stacked Memory Controller Reliability](./semiconductors/27-stacked-memory-controller-reliability.md)
 - [Bioanalytical Assay Validation And Matrix Effects](./biomedicine/46-bioanalytical-assay-validation-and-matrix-effects.md)
 - [Storage Integrity And Self-Healing](./computing/54-storage-integrity-and-self-healing.md)
+- [Clinical Event Adjudication And Endpoint Governance](./biomedicine/47-clinical-event-adjudication-and-endpoint-governance.md)
