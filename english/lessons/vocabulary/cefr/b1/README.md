@@ -103,6 +103,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Maps And Navigation Tools](./technology/12-digital-maps-and-navigation-tools.md)
 - [Digital Photos And File Organization](./technology/13-digital-photos-and-file-organization.md)
 - [Digital Communication And Collaboration](./technology/14-digital-communication-and-collaboration.md)
+- [Digital Accessibility And Assistive Tools](./technology/15-digital-accessibility-and-assistive-tools.md)
 
 ## culture
 
