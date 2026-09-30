@@ -289,3 +289,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Antimicrobial Susceptibility And Resistance Surveillance](./biomedicine/49-antimicrobial-susceptibility-and-resistance-surveillance.md)
 - [Digital Pathology Validation And Image-Analysis Quality](./biomedicine/50-digital-pathology-validation-and-image-analysis-quality.md)
 - [Schema Compatibility And Contract Evolution](./computing/57-schema-compatibility-and-contract-evolution.md)
+- [Implant Biocompatibility And Device Safety](./biomedicine/51-implant-biocompatibility-and-device-safety.md)
