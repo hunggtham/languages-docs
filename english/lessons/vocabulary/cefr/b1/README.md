@@ -119,6 +119,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Project Management Tools](./technology/28-digital-project-management-tools.md)
 - [Digital Delivery Tracking Tools](./technology/29-digital-delivery-tracking-tools.md)
 - [Digital Recipe And Meal-Planning Tools](./technology/30-digital-recipe-and-meal-planning-tools.md)
+- [Digital Flashcard And Study Tools](./technology/31-digital-flashcard-and-study-tools.md)
 
 ## culture
 

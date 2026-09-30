@@ -40,6 +40,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Governance Review And Oversight](./risk/26-risk-governance-review-and-oversight.md)
 - [Cyber Risk Exposure And Remediation](./risk/27-cyber-risk-exposure-and-remediation.md)
 - [Risk Culture Behavior Monitoring](./risk/28-risk-culture-behavior-monitoring.md)
+- [Risk Disclosure And Uncertainty Communication](./risk/29-risk-disclosure-and-uncertainty-communication.md)
 
 ## work
 
