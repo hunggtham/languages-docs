@@ -66,6 +66,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Emotion And Self-Regulation](./psychology/01-emotion-and-self-regulation.md)
 - [Cognitive Habits And Motivation](./psychology/02-cognitive-habits-and-motivation.md)
+- [Memory Retrieval And Forgetting](./psychology/03-memory-retrieval-and-forgetting.md)
 
 ## media
 
