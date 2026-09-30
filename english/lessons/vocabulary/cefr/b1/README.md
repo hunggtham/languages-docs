@@ -117,6 +117,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Forms And E-Signing](./technology/26-digital-forms-and-e-signing.md)
 - [Digital Translation Tools](./technology/27-digital-translation-tools.md)
 - [Digital Project Management Tools](./technology/28-digital-project-management-tools.md)
+- [Digital Delivery Tracking Tools](./technology/29-digital-delivery-tracking-tools.md)
 
 ## culture
 

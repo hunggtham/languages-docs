@@ -38,6 +38,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Operational Loss Event Data](./risk/24-operational-loss-event-data.md)
 - [Risk Data Lineage And Quality Controls](./risk/25-risk-data-lineage-and-quality-controls.md)
 - [Risk Governance Review And Oversight](./risk/26-risk-governance-review-and-oversight.md)
+- [Cyber Risk Exposure And Remediation](./risk/27-cyber-risk-exposure-and-remediation.md)
 
 ## work
 
