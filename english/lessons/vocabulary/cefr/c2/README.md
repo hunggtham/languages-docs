@@ -305,3 +305,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Remote Monitoring And Connected Care](./biomedicine/56-remote-monitoring-and-connected-care.md)
 - [Cost-Based Query Optimization And Plan Stability](./computing/64-cost-based-query-optimization-and-plan-stability.md)
 - [Distributed Cache Consistency And Invalidation](./computing/65-distributed-cache-consistency-and-invalidation.md)
+- [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
