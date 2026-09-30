@@ -69,6 +69,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Memory Retrieval And Forgetting](./psychology/03-memory-retrieval-and-forgetting.md)
 - [Social Cognition And Interpersonal Judgment](./psychology/04-social-cognition-and-interpersonal-judgment.md)
 - [Social Influence And Group Decisions](./psychology/05-social-influence-and-group-decisions.md)
+- [Emotion And Moral Judgment](./psychology/06-emotion-and-moral-judgment.md)
 
 ## media
 
