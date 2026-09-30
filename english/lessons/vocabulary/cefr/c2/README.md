@@ -293,3 +293,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Rate Limiting And Quota Semantics](./computing/58-rate-limiting-and-quota-semantics.md)
 - [Metabolic Support And Nutrition Therapy](./biomedicine/52-metabolic-support-and-nutrition-therapy.md)
 - [Emerging Memory Switching And Qualification](./semiconductors/30-emerging-memory-switching-and-qualification.md)
+- [Trace Causality And Observability Economics](./computing/59-trace-causality-and-observability-economics.md)
