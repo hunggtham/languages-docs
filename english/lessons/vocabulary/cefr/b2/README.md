@@ -33,6 +33,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Incident Management And Lessons Learned](./risk/19-incident-management-and-lessons-learned.md)
 - [Control Testing And Remediation Tracking](./risk/20-control-testing-and-remediation-tracking.md)
 - [Risk Exception Acceptance And Expiry](./risk/21-risk-exception-acceptance-and-expiry.md)
+- [Fraud Risk Detection And Case Monitoring](./risk/22-fraud-risk-detection-and-case-monitoring.md)
 
 ## work
 
