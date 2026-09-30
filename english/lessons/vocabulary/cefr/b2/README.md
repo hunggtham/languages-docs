@@ -27,6 +27,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Appetite And Capital Allocation](./risk/13-risk-appetite-and-capital-allocation.md)
 - [Risk Interdependencies And Emerging Threats](./risk/14-risk-interdependencies-and-emerging-threats.md)
 - [Risk Data Governance And Reporting](./risk/15-risk-data-governance-and-reporting.md)
+- [Risk Stress Testing And Recovery Capacity](./risk/16-risk-stress-testing-and-recovery-capacity.md)
 
 ## work
 
