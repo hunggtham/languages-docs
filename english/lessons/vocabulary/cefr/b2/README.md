@@ -44,6 +44,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Scenario Assumptions And Sensitivity Governance](./risk/30-scenario-assumptions-and-sensitivity-governance.md)
 - [Measurement Uncertainty And Confidence Governance](./risk/31-measurement-uncertainty-and-confidence-governance.md)
 - [Risk Concentration And Diversification Monitoring](./risk/32-risk-concentration-and-diversification-monitoring.md)
+- [Risk Action Prioritization And Closure](./risk/33-risk-action-prioritization-and-closure.md)
 
 ## work
 
