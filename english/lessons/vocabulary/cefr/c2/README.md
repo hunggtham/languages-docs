@@ -282,3 +282,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Storage Integrity And Self-Healing](./computing/54-storage-integrity-and-self-healing.md)
 - [Clinical Event Adjudication And Endpoint Governance](./biomedicine/47-clinical-event-adjudication-and-endpoint-governance.md)
 - [Photonic Interposers And Co-Packaged Optics](./semiconductors/28-photonic-interposers-and-co-packaged-optics.md)
+- [Time-Series Storage And Query Engines](./computing/55-time-series-storage-and-query-engines.md)
