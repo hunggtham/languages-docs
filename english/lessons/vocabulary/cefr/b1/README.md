@@ -115,6 +115,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Home Energy Tools](./technology/24-digital-home-energy-tools.md)
 - [Digital Travel Booking Tools](./technology/25-digital-travel-booking-tools.md)
 - [Digital Forms And E-Signing](./technology/26-digital-forms-and-e-signing.md)
+- [Digital Translation Tools](./technology/27-digital-translation-tools.md)
 
 ## culture
 
