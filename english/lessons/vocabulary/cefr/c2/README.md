@@ -279,3 +279,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Compiler Fuzzing And Differential Testing](./computing/53-compiler-fuzzing-and-differential-testing.md)
 - [Stacked Memory Controller Reliability](./semiconductors/27-stacked-memory-controller-reliability.md)
 - [Bioanalytical Assay Validation And Matrix Effects](./biomedicine/46-bioanalytical-assay-validation-and-matrix-effects.md)
+- [Storage Integrity And Self-Healing](./computing/54-storage-integrity-and-self-healing.md)
