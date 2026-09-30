@@ -114,6 +114,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Banking And Payment Tools](./technology/23-digital-banking-and-payment-tools.md)
 - [Digital Home Energy Tools](./technology/24-digital-home-energy-tools.md)
 - [Digital Travel Booking Tools](./technology/25-digital-travel-booking-tools.md)
+- [Digital Forms And E-Signing](./technology/26-digital-forms-and-e-signing.md)
 
 ## culture
 

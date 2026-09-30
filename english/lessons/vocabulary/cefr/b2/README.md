@@ -35,6 +35,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Exception Acceptance And Expiry](./risk/21-risk-exception-acceptance-and-expiry.md)
 - [Fraud Risk Detection And Case Monitoring](./risk/22-fraud-risk-detection-and-case-monitoring.md)
 - [Risk Limit Breach Management](./risk/23-risk-limit-breach-management.md)
+- [Operational Loss Event Data](./risk/24-operational-loss-event-data.md)
 
 ## work
 
