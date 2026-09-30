@@ -291,3 +291,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Schema Compatibility And Contract Evolution](./computing/57-schema-compatibility-and-contract-evolution.md)
 - [Implant Biocompatibility And Device Safety](./biomedicine/51-implant-biocompatibility-and-device-safety.md)
 - [Rate Limiting And Quota Semantics](./computing/58-rate-limiting-and-quota-semantics.md)
+- [Metabolic Support And Nutrition Therapy](./biomedicine/52-metabolic-support-and-nutrition-therapy.md)
