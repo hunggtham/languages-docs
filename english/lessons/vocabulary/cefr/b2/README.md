@@ -45,6 +45,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Measurement Uncertainty And Confidence Governance](./risk/31-measurement-uncertainty-and-confidence-governance.md)
 - [Risk Concentration And Diversification Monitoring](./risk/32-risk-concentration-and-diversification-monitoring.md)
 - [Risk Action Prioritization And Closure](./risk/33-risk-action-prioritization-and-closure.md)
+- [Risk Appetite Calibration And Threshold Setting](./risk/34-risk-appetite-calibration-and-threshold-setting.md)
 
 ## work
 
