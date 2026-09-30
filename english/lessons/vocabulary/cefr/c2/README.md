@@ -295,3 +295,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Emerging Memory Switching And Qualification](./semiconductors/30-emerging-memory-switching-and-qualification.md)
 - [Trace Causality And Observability Economics](./computing/59-trace-causality-and-observability-economics.md)
 - [Gene-Therapy Biodistribution And Shedding](./biomedicine/53-gene-therapy-biodistribution-and-shedding.md)
+- [Security Incident Response And Forensic Reconstruction](./computing/60-security-incident-response-and-forensic-reconstruction.md)
