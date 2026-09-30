@@ -302,3 +302,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Power-Device Ruggedness And Switching Failures](./semiconductors/31-power-device-ruggedness-and-switching-failures.md)
 - [Rehabilitation Outcomes And Functional Recovery](./biomedicine/55-rehabilitation-outcomes-and-functional-recovery.md)
 - [Chaos Engineering And Resilience Experiments](./computing/63-chaos-engineering-and-resilience-experiments.md)
+- [Remote Monitoring And Connected Care](./biomedicine/56-remote-monitoring-and-connected-care.md)
