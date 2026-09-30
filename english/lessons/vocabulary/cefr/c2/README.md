@@ -299,3 +299,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Rare-Disease Natural History And Endpoints](./biomedicine/54-rare-disease-natural-history-and-endpoints.md)
 - [Differential Privacy Accounting And Utility](./computing/61-differential-privacy-accounting-and-utility.md)
 - [Keyless Signing And Provenance Attestations](./computing/62-keyless-signing-and-provenance-attestations.md)
+- [Power-Device Ruggedness And Switching Failures](./semiconductors/31-power-device-ruggedness-and-switching-failures.md)
