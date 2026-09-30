@@ -111,6 +111,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Audio And Recording Tools](./technology/20-digital-audio-and-recording-tools.md)
 - [Digital Reading And Annotation Tools](./technology/21-digital-reading-and-annotation-tools.md)
 - [Digital Calendar And Reminder Tools](./technology/22-digital-calendar-and-reminder-tools.md)
+- [Digital Banking And Payment Tools](./technology/23-digital-banking-and-payment-tools.md)
 
 ## culture
 
