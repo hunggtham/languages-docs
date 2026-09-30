@@ -269,3 +269,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Cutaneous Drug Toxicity And Severe Skin Reactions](./biomedicine/42-cutaneous-drug-toxicity-and-severe-skin-reactions.md)
 - [Gate-Oxide Reliability And Bias-Temperature Instability](./semiconductors/24-gate-oxide-reliability-and-bias-temperature-instability.md)
 - [Disaggregated Memory Fabrics And Composable Infrastructure](./computing/50-disaggregated-memory-fabrics-and-composable-infrastructure.md)
+- [Neurotoxicity And Neurobehavioral Safety](./biomedicine/43-neurotoxicity-and-neurobehavioral-safety.md)
