@@ -23,6 +23,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Data And Measurement](./risk/09-risk-data-and-measurement.md)
 - [Third-Party Risk And Vendor Oversight](./risk/10-third-party-risk-and-vendor-oversight.md)
 - [Conduct Risk And Compliance Monitoring](./risk/11-conduct-risk-and-compliance-monitoring.md)
+- [Risk Audit And Assurance](./risk/12-risk-audit-and-assurance.md)
 
 ## work
 
