@@ -121,6 +121,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Recipe And Meal-Planning Tools](./technology/30-digital-recipe-and-meal-planning-tools.md)
 - [Digital Flashcard And Study Tools](./technology/31-digital-flashcard-and-study-tools.md)
 - [Digital Note-Taking And Scanning Tools](./technology/32-digital-note-taking-and-scanning-tools.md)
+- [Digital File Storage And Backup Tools](./technology/33-digital-file-storage-and-backup-tools.md)
 
 ## culture
 
