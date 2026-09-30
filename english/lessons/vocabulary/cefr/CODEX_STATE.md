@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 1410 items in 93 topic files; topic-folder numbering resets per folder.
-- C2: 5636 items in 282 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 5656 items in 283 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10491 items (authoritative script count after merge).
+- Total: 10511 items (authoritative script count after merge).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue B1/B2/C1 expansion or create the next coherent C2 topic file; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse `computing/63-...`, `semiconductors/32-...`, or `biomedicine/56-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B1/B2/C1 expansion or create the next coherent C2 topic file; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse `computing/64-...`, `semiconductors/32-...`, or `biomedicine/56-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -140,7 +140,8 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/computing/62-keyless-signing-and-provenance-attestations.md` with 20 keyless-signing and provenance-attestation items.
 - Latest continuation added `c2/semiconductors/31-power-device-ruggedness-and-switching-failures.md` with 20 power-device-ruggedness and switching-failure items.
 - Latest continuation added `c2/biomedicine/55-rehabilitation-outcomes-and-functional-recovery.md` with 20 rehabilitation-outcome and functional-recovery items.
-- The merged corpus currently reports A1 400, A2 1501, B1 1226, B2 318, C1 1410, C2 5636, C2+ 0; total 10491 items. Re-run `python3 scripts/vocab-progress.py` if any counter becomes stale.
+- Latest continuation added `c2/computing/63-chaos-engineering-and-resilience-experiments.md` with 20 chaos-engineering and resilience-experiment items.
+- The merged corpus currently reports A1 400, A2 1501, B1 1226, B2 318, C1 1410, C2 5656, C2+ 0; total 10511 items. Re-run `python3 scripts/vocab-progress.py` if any counter becomes stale.
 - Intentional repeated headword/sense notes: `staging` appears with distinct medical (disease extent) and aerospace (rocket-stage separation) senses. `retention time` appears in semiconductor memory and chromatography with materially different senses. `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. `lease`, `yield`, and other ordinary words in newer lessons are taught in distinct technical senses; no known vocabulary blocker in this batch.
 - A2 reached its soft planning target at 1,501 items. B1 expansion now covers technology, society, business, work, travel, health, education, culture, food, relationships, leisure, services, and household emergency preparedness. B2 expansion now covers decisions, risk, work, communication, research, education, technology, and society.
 - C1 expansion now covers 91 topic files and 1,370 items through programming-languages, alongside the B1/B2 expansion below.

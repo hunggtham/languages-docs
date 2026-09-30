@@ -301,3 +301,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Keyless Signing And Provenance Attestations](./computing/62-keyless-signing-and-provenance-attestations.md)
 - [Power-Device Ruggedness And Switching Failures](./semiconductors/31-power-device-ruggedness-and-switching-failures.md)
 - [Rehabilitation Outcomes And Functional Recovery](./biomedicine/55-rehabilitation-outcomes-and-functional-recovery.md)
+- [Chaos Engineering And Resilience Experiments](./computing/63-chaos-engineering-and-resilience-experiments.md)
