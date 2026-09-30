@@ -283,3 +283,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Clinical Event Adjudication And Endpoint Governance](./biomedicine/47-clinical-event-adjudication-and-endpoint-governance.md)
 - [Photonic Interposers And Co-Packaged Optics](./semiconductors/28-photonic-interposers-and-co-packaged-optics.md)
 - [Time-Series Storage And Query Engines](./computing/55-time-series-storage-and-query-engines.md)
+- [Exposure-Response And Pharmacometric Dose Optimization](./biomedicine/48-exposure-response-and-pharmacometric-dose-optimization.md)
