@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1430 items in 94 topic files; topic-folder numbering resets per folder.
+- C1: 1450 items in 95 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10611 items (authoritative script count after merge).
+- Total: 10631 items (authoritative script count after merge).
 
 ## Current position
 
@@ -80,6 +80,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/computing/65-distributed-cache-consistency-and-invalidation.md` with 20 distributed-cache-consistency and invalidation items.
 - Latest continuation added `c2/biomedicine/57-neuroimaging-connectivity-and-network-mapping.md` with 20 neuroimaging-connectivity and network-mapping items.
 - Latest continuation added `c1/psychology/03-memory-retrieval-and-forgetting.md` with 20 memory-retrieval and forgetting items.
+- Latest continuation added `c1/psychology/04-social-cognition-and-interpersonal-judgment.md` with 20 social-cognition and interpersonal-judgment items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.
