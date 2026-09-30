@@ -260,3 +260,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Digital Biomarkers And Endpoint Adjudication](./biomedicine/36-digital-biomarkers-and-endpoint-adjudication.md)
 - [Microbiome Therapeutics And Live Biotherapeutics](./biomedicine/37-microbiome-therapeutics-and-live-biotherapeutics.md)
 - [Pharmacovigilance And Signal Detection](./biomedicine/38-pharmacovigilance-and-signal-detection.md)
+- [Renal Biomarkers And Drug-Induced Nephrotoxicity](./biomedicine/39-renal-biomarkers-and-drug-induced-nephrotoxicity.md)
