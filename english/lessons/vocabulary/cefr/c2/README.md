@@ -262,3 +262,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Pharmacovigilance And Signal Detection](./biomedicine/38-pharmacovigilance-and-signal-detection.md)
 - [Renal Biomarkers And Drug-Induced Nephrotoxicity](./biomedicine/39-renal-biomarkers-and-drug-induced-nephrotoxicity.md)
 - [Change Data Capture And Event Consistency](./computing/47-change-data-capture-and-event-consistency.md)
+- [Durable Workflows And Task Orchestration](./computing/48-durable-workflows-and-task-orchestration.md)
