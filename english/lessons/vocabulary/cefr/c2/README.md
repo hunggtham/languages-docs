@@ -265,3 +265,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Durable Workflows And Task Orchestration](./computing/48-durable-workflows-and-task-orchestration.md)
 - [Hepatotoxicity And Drug-Induced Liver Injury](./biomedicine/40-hepatotoxicity-and-drug-induced-liver-injury.md)
 - [Pulmonary Toxicity And Drug-Induced Interstitial Lung Disease](./biomedicine/41-pulmonary-toxicity-and-drug-induced-interstitial-lung-disease.md)
+- [Policy-As-Code And Authorization Semantics](./computing/49-policy-as-code-and-authorization-semantics.md)
