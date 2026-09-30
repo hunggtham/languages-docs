@@ -272,3 +272,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Neurotoxicity And Neurobehavioral Safety](./biomedicine/43-neurotoxicity-and-neurobehavioral-safety.md)
 - [Backend Interconnect And Via Reliability](./semiconductors/25-backend-interconnect-and-via-reliability.md)
 - [Distributed Time Synchronization And Clock Integrity](./computing/51-distributed-time-synchronization-and-clock-integrity.md)
+- [Ocular Toxicity And Retinal Safety](./biomedicine/44-ocular-toxicity-and-retinal-safety.md)
