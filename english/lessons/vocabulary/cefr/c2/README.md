@@ -264,3 +264,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Change Data Capture And Event Consistency](./computing/47-change-data-capture-and-event-consistency.md)
 - [Durable Workflows And Task Orchestration](./computing/48-durable-workflows-and-task-orchestration.md)
 - [Hepatotoxicity And Drug-Induced Liver Injury](./biomedicine/40-hepatotoxicity-and-drug-induced-liver-injury.md)
+- [Pulmonary Toxicity And Drug-Induced Interstitial Lung Disease](./biomedicine/41-pulmonary-toxicity-and-drug-induced-interstitial-lung-disease.md)
