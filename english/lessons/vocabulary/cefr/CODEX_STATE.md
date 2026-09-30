@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1966 items in 98 topic files; topic-folder numbering resets per folder.
-- B2: 873 items in 58 topic files; B2 expansion is active beyond the original pilot.
+- B1: 1986 items in 99 topic files; topic-folder numbering resets per folder.
+- B2: 888 items in 59 topic files; B2 expansion is active beyond the original pilot.
 - C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 8885 items.
+- Total: 8920 items.
 
 ## Current position
 
@@ -122,9 +122,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/technology/18-digital-health-and-wearable-devices.md` with 20 digital-health and wearable-device items, plus `b2/risk/16-risk-stress-testing-and-recovery-capacity.md` with 15 stress-testing and recovery-capacity items.
 - Latest continuation added `b1/technology/19-digital-creative-tools.md` with 20 digital-creative-tool items, plus `b2/risk/17-insurance-recovery-and-risk-financing.md` with 15 insurance-recovery and risk-financing items.
 - Latest continuation added `b1/technology/20-digital-audio-and-recording-tools.md` with 20 digital-audio and recording-tool items, plus `b2/risk/18-risk-model-governance-and-validation.md` with 15 risk-model governance and validation items.
+- Latest continuation added `b1/technology/21-digital-reading-and-annotation-tools.md` with 20 digital-reading and annotation-tool items, plus `b2/risk/19-incident-management-and-lessons-learned.md` with 15 incident-management and lessons-learned items.
 - Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
-- Next file: continue B1 technology from `21-...` or B2 risk from `19-...`; preserve the different depth expectations for each CEFR level.
+- Next file: continue B1 technology from `22-...` or B2 risk from `20-...`; preserve the different depth expectations for each CEFR level.
 - Actual counts: A1 400, A2 1501, B1 1226, B2 318, C1 0, C2 2775, C2+ 0; total 6220.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.
-- Actual counts after latest continuation: A1 400, A2 1501, B1 1966, B2 873, C1 1370, C2 2775, C2+ 0; total 8885.
+- Actual counts after latest continuation: A1 400, A2 1501, B1 1986, B2 888, C1 1370, C2 2775, C2+ 0; total 8920.

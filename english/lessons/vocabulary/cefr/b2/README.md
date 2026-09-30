@@ -30,6 +30,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Stress Testing And Recovery Capacity](./risk/16-risk-stress-testing-and-recovery-capacity.md)
 - [Insurance Recovery And Risk Financing](./risk/17-insurance-recovery-and-risk-financing.md)
 - [Risk Model Governance And Validation](./risk/18-risk-model-governance-and-validation.md)
+- [Incident Management And Lessons Learned](./risk/19-incident-management-and-lessons-learned.md)
 
 ## work
 
