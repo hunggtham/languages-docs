@@ -286,3 +286,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Exposure-Response And Pharmacometric Dose Optimization](./biomedicine/48-exposure-response-and-pharmacometric-dose-optimization.md)
 - [Stream Processing State And Delivery Semantics](./computing/56-stream-processing-state-and-delivery-semantics.md)
 - [Neuromorphic In-Memory Computing Reliability](./semiconductors/29-neuromorphic-in-memory-computing-reliability.md)
+- [Antimicrobial Susceptibility And Resistance Surveillance](./biomedicine/49-antimicrobial-susceptibility-and-resistance-surveillance.md)
