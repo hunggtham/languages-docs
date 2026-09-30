@@ -104,6 +104,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Photos And File Organization](./technology/13-digital-photos-and-file-organization.md)
 - [Digital Communication And Collaboration](./technology/14-digital-communication-and-collaboration.md)
 - [Digital Accessibility And Assistive Tools](./technology/15-digital-accessibility-and-assistive-tools.md)
+- [Digital Entertainment And Gaming Tools](./technology/16-digital-entertainment-and-gaming-tools.md)
 
 ## culture
 

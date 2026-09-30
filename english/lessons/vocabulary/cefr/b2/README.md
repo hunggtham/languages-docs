@@ -25,6 +25,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Conduct Risk And Compliance Monitoring](./risk/11-conduct-risk-and-compliance-monitoring.md)
 - [Risk Audit And Assurance](./risk/12-risk-audit-and-assurance.md)
 - [Risk Appetite And Capital Allocation](./risk/13-risk-appetite-and-capital-allocation.md)
+- [Risk Interdependencies And Emerging Threats](./risk/14-risk-interdependencies-and-emerging-threats.md)
 
 ## work
 
