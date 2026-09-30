@@ -271,3 +271,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Disaggregated Memory Fabrics And Composable Infrastructure](./computing/50-disaggregated-memory-fabrics-and-composable-infrastructure.md)
 - [Neurotoxicity And Neurobehavioral Safety](./biomedicine/43-neurotoxicity-and-neurobehavioral-safety.md)
 - [Backend Interconnect And Via Reliability](./semiconductors/25-backend-interconnect-and-via-reliability.md)
+- [Distributed Time Synchronization And Clock Integrity](./computing/51-distributed-time-synchronization-and-clock-integrity.md)
