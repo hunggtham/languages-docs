@@ -275,3 +275,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Ocular Toxicity And Retinal Safety](./biomedicine/44-ocular-toxicity-and-retinal-safety.md)
 - [3D Integration And TSV Reliability](./semiconductors/26-3d-integration-and-tsv-reliability.md)
 - [Immunogenicity And Anti-Drug Antibody Assessment](./biomedicine/45-immunogenicity-and-anti-drug-antibody-assessment.md)
+- [Capability Security And Authority Containment](./computing/52-capability-security-and-authority-containment.md)
