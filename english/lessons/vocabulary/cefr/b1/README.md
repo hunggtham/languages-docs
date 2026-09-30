@@ -113,6 +113,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Calendar And Reminder Tools](./technology/22-digital-calendar-and-reminder-tools.md)
 - [Digital Banking And Payment Tools](./technology/23-digital-banking-and-payment-tools.md)
 - [Digital Home Energy Tools](./technology/24-digital-home-energy-tools.md)
+- [Digital Travel Booking Tools](./technology/25-digital-travel-booking-tools.md)
 
 ## culture
 
