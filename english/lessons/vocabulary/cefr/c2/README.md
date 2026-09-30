@@ -298,3 +298,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Security Incident Response And Forensic Reconstruction](./computing/60-security-incident-response-and-forensic-reconstruction.md)
 - [Rare-Disease Natural History And Endpoints](./biomedicine/54-rare-disease-natural-history-and-endpoints.md)
 - [Differential Privacy Accounting And Utility](./computing/61-differential-privacy-accounting-and-utility.md)
+- [Keyless Signing And Provenance Attestations](./computing/62-keyless-signing-and-provenance-attestations.md)
