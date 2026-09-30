@@ -41,6 +41,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Cyber Risk Exposure And Remediation](./risk/27-cyber-risk-exposure-and-remediation.md)
 - [Risk Culture Behavior Monitoring](./risk/28-risk-culture-behavior-monitoring.md)
 - [Risk Disclosure And Uncertainty Communication](./risk/29-risk-disclosure-and-uncertainty-communication.md)
+- [Scenario Assumptions And Sensitivity Governance](./risk/30-scenario-assumptions-and-sensitivity-governance.md)
 
 ## work
 
