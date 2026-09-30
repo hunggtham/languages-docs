@@ -285,3 +285,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Time-Series Storage And Query Engines](./computing/55-time-series-storage-and-query-engines.md)
 - [Exposure-Response And Pharmacometric Dose Optimization](./biomedicine/48-exposure-response-and-pharmacometric-dose-optimization.md)
 - [Stream Processing State And Delivery Semantics](./computing/56-stream-processing-state-and-delivery-semantics.md)
+- [Neuromorphic In-Memory Computing Reliability](./semiconductors/29-neuromorphic-in-memory-computing-reliability.md)
