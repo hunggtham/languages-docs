@@ -292,3 +292,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Implant Biocompatibility And Device Safety](./biomedicine/51-implant-biocompatibility-and-device-safety.md)
 - [Rate Limiting And Quota Semantics](./computing/58-rate-limiting-and-quota-semantics.md)
 - [Metabolic Support And Nutrition Therapy](./biomedicine/52-metabolic-support-and-nutrition-therapy.md)
+- [Emerging Memory Switching And Qualification](./semiconductors/30-emerging-memory-switching-and-qualification.md)
