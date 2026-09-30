@@ -266,3 +266,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Hepatotoxicity And Drug-Induced Liver Injury](./biomedicine/40-hepatotoxicity-and-drug-induced-liver-injury.md)
 - [Pulmonary Toxicity And Drug-Induced Interstitial Lung Disease](./biomedicine/41-pulmonary-toxicity-and-drug-induced-interstitial-lung-disease.md)
 - [Policy-As-Code And Authorization Semantics](./computing/49-policy-as-code-and-authorization-semantics.md)
+- [Cutaneous Drug Toxicity And Severe Skin Reactions](./biomedicine/42-cutaneous-drug-toxicity-and-severe-skin-reactions.md)
