@@ -31,6 +31,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Insurance Recovery And Risk Financing](./risk/17-insurance-recovery-and-risk-financing.md)
 - [Risk Model Governance And Validation](./risk/18-risk-model-governance-and-validation.md)
 - [Incident Management And Lessons Learned](./risk/19-incident-management-and-lessons-learned.md)
+- [Control Testing And Remediation Tracking](./risk/20-control-testing-and-remediation-tracking.md)
 
 ## work
 
