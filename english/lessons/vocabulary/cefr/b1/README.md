@@ -118,6 +118,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Translation Tools](./technology/27-digital-translation-tools.md)
 - [Digital Project Management Tools](./technology/28-digital-project-management-tools.md)
 - [Digital Delivery Tracking Tools](./technology/29-digital-delivery-tracking-tools.md)
+- [Digital Recipe And Meal-Planning Tools](./technology/30-digital-recipe-and-meal-planning-tools.md)
 
 ## culture
 

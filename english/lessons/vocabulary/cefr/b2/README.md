@@ -39,6 +39,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Data Lineage And Quality Controls](./risk/25-risk-data-lineage-and-quality-controls.md)
 - [Risk Governance Review And Oversight](./risk/26-risk-governance-review-and-oversight.md)
 - [Cyber Risk Exposure And Remediation](./risk/27-cyber-risk-exposure-and-remediation.md)
+- [Risk Culture Behavior Monitoring](./risk/28-risk-culture-behavior-monitoring.md)
 
 ## work
 
