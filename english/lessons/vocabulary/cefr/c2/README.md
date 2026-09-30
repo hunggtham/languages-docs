@@ -294,3 +294,4 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Metabolic Support And Nutrition Therapy](./biomedicine/52-metabolic-support-and-nutrition-therapy.md)
 - [Emerging Memory Switching And Qualification](./semiconductors/30-emerging-memory-switching-and-qualification.md)
 - [Trace Causality And Observability Economics](./computing/59-trace-causality-and-observability-economics.md)
+- [Gene-Therapy Biodistribution And Shedding](./biomedicine/53-gene-therapy-biodistribution-and-shedding.md)
