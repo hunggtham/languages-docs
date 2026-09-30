@@ -108,6 +108,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Purchases And Subscriptions](./technology/17-digital-purchases-and-subscriptions.md)
 - [Digital Health And Wearable Devices](./technology/18-digital-health-and-wearable-devices.md)
 - [Digital Creative Tools](./technology/19-digital-creative-tools.md)
+- [Digital Audio And Recording Tools](./technology/20-digital-audio-and-recording-tools.md)
 
 ## culture
 
