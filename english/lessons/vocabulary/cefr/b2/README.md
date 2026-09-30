@@ -43,6 +43,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Disclosure And Uncertainty Communication](./risk/29-risk-disclosure-and-uncertainty-communication.md)
 - [Scenario Assumptions And Sensitivity Governance](./risk/30-scenario-assumptions-and-sensitivity-governance.md)
 - [Measurement Uncertainty And Confidence Governance](./risk/31-measurement-uncertainty-and-confidence-governance.md)
+- [Risk Concentration And Diversification Monitoring](./risk/32-risk-concentration-and-diversification-monitoring.md)
 
 ## work
 
