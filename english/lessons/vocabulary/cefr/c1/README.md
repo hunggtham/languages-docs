@@ -354,6 +354,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Education Economics And Skill Formation](./econometrics/37-education-economics-and-skill-formation.md)
 - [Urban And Regional Economics](./econometrics/38-urban-and-regional-economics.md)
 - [Political Economy And Institutional Performance](./econometrics/39-political-economy-and-institutional-performance.md)
+- [Industrial Organization And Market Structure](./econometrics/40-industrial-organization-and-market-structure.md)
 
 ## public-finance
 
