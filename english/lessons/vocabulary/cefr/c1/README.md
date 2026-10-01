@@ -105,6 +105,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Missing Data And Longitudinal Robustness](./psychometrics/29-missing-data-and-longitudinal-robustness.md)
 - [Robust Resampling And Sensitivity Checks](./psychometrics/30-robust-resampling-and-sensitivity-checks.md)
 - [Cross-Language Survey Adaptation](./psychometrics/31-cross-language-survey-adaptation.md)
+- [Bayesian Hierarchical Assessment](./psychometrics/32-bayesian-hierarchical-assessment.md)
 
 ## media
 
