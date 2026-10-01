@@ -133,6 +133,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Smart-Home Control Tools](./technology/42-digital-smart-home-control-tools.md)
 - [Digital Family Scheduling Tools](./technology/43-digital-family-scheduling-tools.md)
 - [Digital Photo Organization And Sharing Tools](./technology/44-digital-photo-organization-and-sharing-tools.md)
+- [Digital Weather And Outdoor Planning Tools](./technology/45-digital-weather-and-outdoor-planning-tools.md)
 
 ## culture
 

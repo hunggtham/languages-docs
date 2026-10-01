@@ -54,6 +54,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Response Capacity And Resource Readiness](./risk/40-risk-response-capacity-and-resource-readiness.md)
 - [Risk Governance Change And Issue Escalation](./risk/41-risk-governance-change-and-issue-escalation.md)
 - [Risk Model Validation And Use Controls](./risk/42-risk-model-validation-and-use-controls.md)
+- [Risk Assurance Testing And Evidence Quality](./risk/43-risk-assurance-testing-and-evidence-quality.md)
 
 ## work
 
