@@ -306,6 +306,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Public Finance And Compliance](./behavioral-economics/06-behavioral-public-finance-and-compliance.md)
 - [Behavioral Labor And Workplace Decisions](./behavioral-economics/07-behavioral-labor-and-workplace-decisions.md)
 - [Behavioral Health Insurance And Care Decisions](./behavioral-economics/08-behavioral-health-insurance-and-care-decisions.md)
+- [Behavioral Environmental Decisions And Climate Action](./behavioral-economics/09-behavioral-environmental-decisions-and-climate-action.md)
 
 ## game-theory
 
