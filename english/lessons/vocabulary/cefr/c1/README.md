@@ -85,6 +85,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Multivariate Profiles And Latent Groups](./psychometrics/09-multivariate-profiles-and-latent-groups.md)
 - [Questionnaire Design And Cognitive Interviewing](./psychometrics/10-questionnaire-design-and-cognitive-interviewing.md)
 - [Rater-Mediated Assessment And Scoring Consistency](./psychometrics/11-rater-mediated-assessment-and-scoring-consistency.md)
+- [Accessibility And Assessment Accommodations](./psychometrics/12-accessibility-and-assessment-accommodations.md)
 
 ## media
 

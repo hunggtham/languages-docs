@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1730 items in 109 topic files; topic-folder numbering resets per folder.
+- C1: 1750 items in 110 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10911 items (authoritative script count after merge).
+- Total: 10931 items (authoritative script count after merge).
 
 ## Current position
 
@@ -95,6 +95,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/09-multivariate-profiles-and-latent-groups.md` with 20 multivariate-profile and latent-group items.
 - Latest continuation added `c1/psychometrics/10-questionnaire-design-and-cognitive-interviewing.md` with 20 questionnaire-design and cognitive-interviewing items.
 - Latest continuation added `c1/psychometrics/11-rater-mediated-assessment-and-scoring-consistency.md` with 20 rater-mediated-assessment and scoring-consistency items.
+- Latest continuation added `c1/psychometrics/12-accessibility-and-assessment-accommodations.md` with 20 accessibility and assessment-accommodation items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.
