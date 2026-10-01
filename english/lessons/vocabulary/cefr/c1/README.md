@@ -332,6 +332,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Threshold And Regime-Switching Models](./econometrics/15-threshold-and-regime-switching-models.md)
 - [Errors In Variables And Misclassification](./econometrics/16-errors-in-variables-and-misclassification.md)
 - [Count Models And Event Rates](./econometrics/17-count-models-and-event-rates.md)
+- [Instrumental Variables And Weak Identification](./econometrics/18-instrumental-variables-and-weak-identification.md)
 
 ## public-finance
 
