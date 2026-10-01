@@ -130,6 +130,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Event And Ticketing Tools](./technology/39-digital-event-and-ticketing-tools.md)
 - [Digital Public-Transport And Navigation Tools](./technology/40-digital-public-transport-and-navigation-tools.md)
 - [Digital Library And Borrowing Tools](./technology/41-digital-library-and-borrowing-tools.md)
+- [Digital Smart-Home Control Tools](./technology/42-digital-smart-home-control-tools.md)
 
 ## culture
 

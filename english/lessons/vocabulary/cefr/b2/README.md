@@ -51,6 +51,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Action Implementation And Verification](./risk/37-risk-action-implementation-and-verification.md)
 - [Risk Metric Reporting And Management Interpretation](./risk/38-risk-metric-reporting-and-management-interpretation.md)
 - [Risk Scenario Challenge And Contingency Planning](./risk/39-risk-scenario-challenge-and-contingency-planning.md)
+- [Risk Response Capacity And Resource Readiness](./risk/40-risk-response-capacity-and-resource-readiness.md)
 
 ## work
 
