@@ -310,6 +310,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Political Economy And Voting](./behavioral-economics/10-behavioral-political-economy-and-voting.md)
 - [Behavioral Education And Learning Decisions](./behavioral-economics/11-behavioral-education-and-learning-decisions.md)
 - [Retirement, Household Finance, And Aging Decisions](./behavioral-economics/12-retirement-household-finance-and-aging-decisions.md)
+- [Organizational Behavior And Management Decisions](./behavioral-economics/13-organizational-behavior-and-management-decisions.md)
 
 ## game-theory
 
