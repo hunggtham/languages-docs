@@ -87,6 +87,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Rater-Mediated Assessment And Scoring Consistency](./psychometrics/11-rater-mediated-assessment-and-scoring-consistency.md)
 - [Accessibility And Assessment Accommodations](./psychometrics/12-accessibility-and-assessment-accommodations.md)
 - [Ethical Score Use And Assessment Consequences](./psychometrics/13-ethical-score-use-and-assessment-consequences.md)
+- [Visual Score Communication And Data Displays](./psychometrics/14-visual-score-communication-and-data-displays.md)
 
 ## media
 
