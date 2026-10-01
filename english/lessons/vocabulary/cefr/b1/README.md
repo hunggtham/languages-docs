@@ -125,6 +125,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Fitness And Workout Tools](./technology/34-digital-fitness-and-workout-tools.md)
 - [Digital Music Practice Tools](./technology/35-digital-music-practice-tools.md)
 - [Digital Plant-Care And Garden Tools](./technology/36-digital-plant-care-and-garden-tools.md)
+- [Digital Pet-Care And Animal-Health Tools](./technology/37-digital-pet-care-and-animal-health-tools.md)
 
 ## culture
 
