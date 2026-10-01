@@ -101,6 +101,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Score Use And Responsible Decisions](./psychometrics/25-score-use-and-responsible-decisions.md)
 - [Multilevel Measurement And Clustered Data](./psychometrics/26-multilevel-measurement-and-clustered-data.md)
 - [Causal Inference And Score Effects](./psychometrics/27-causal-inference-and-score-effects.md)
+- [Response Process And Content Validity](./psychometrics/28-response-process-and-content-validity.md)
 
 ## media
 
