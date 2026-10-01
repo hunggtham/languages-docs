@@ -336,6 +336,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [GMM And Moment-Based Estimation](./econometrics/19-gmm-and-moment-based-estimation.md)
 - [Policy Learning And Causal Decision Rules](./econometrics/20-policy-learning-and-causal-decision-rules.md)
 - [Quantile And Distributional Effects](./econometrics/21-quantile-and-distributional-effects.md)
+- [Network Econometrics And Peer Effects](./econometrics/22-network-econometrics-and-peer-effects.md)
 
 ## public-finance
 
