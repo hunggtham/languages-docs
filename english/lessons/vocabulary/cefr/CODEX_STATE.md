@@ -26,12 +26,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 2466 items in 123 topic files; topic-folder numbering resets per folder.
-- B2: 1248 items in 83 topic files; B2 expansion is active beyond the original pilot.
+- B1: 2486 items in 124 topic files; topic-folder numbering resets per folder.
+- B2: 1263 items in 84 topic files; B2 expansion is active beyond the original pilot.
 - C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 9760 items.
+- Total: 9795 items.
 
 ## Current position
 
@@ -147,9 +147,10 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/technology/43-digital-family-scheduling-tools.md` with 20 digital-family scheduling-tool items, plus `b2/risk/41-risk-governance-change-and-issue-escalation.md` with 15 risk-governance change and issue-escalation items.
 - Latest continuation added `b1/technology/44-digital-photo-organization-and-sharing-tools.md` with 20 digital-photo organization and sharing-tool items, plus `b2/risk/42-risk-model-validation-and-use-controls.md` with 15 risk-model validation and use-control items.
 - Latest continuation added `b1/technology/45-digital-weather-and-outdoor-planning-tools.md` with 20 digital-weather and outdoor-planning-tool items, plus `b2/risk/43-risk-assurance-testing-and-evidence-quality.md` with 15 risk-assurance testing and evidence-quality items.
+- Latest continuation added `b1/technology/46-digital-restaurant-and-meal-ordering-tools.md` with 20 digital-restaurant and meal-ordering-tool items, plus `b2/risk/44-risk-information-quality-and-decision-confidence.md` with 15 risk-information quality and decision-assurance items.
 - Every new lesson uses a natural review passage with a Vietnamese translation; B1 uses the concise practical format and B2 uses the deeper pilot format. Exact-heading scans were run against the merged corpus before continuing.
 - Earlier C2 checkpoints added distributed systems, compilers/runtime systems, database internals, memory models/concurrency, observability, network transport, filesystems/storage I/O, container orchestration, virtualization, GPU architecture, CPU microarchitecture, memory allocation/GC, RDMA/high-performance networking, distributed object storage, semiconductor fabrication, advanced packaging/chiplets, transistor scaling, semiconductor memory, wide-bandgap power devices, analog/mixed-signal design, RF/mmWave ICs, CMOS image sensors, proteomics, single-cell genomics, genome editing, spatial transcriptomics, epigenomics, cancer immunotherapy, metabolomics, microbiome/metagenomics, flow cytometry, liquid biopsy, cryo-EM, and glycomics.
-- Next file: continue B1 technology from `46-...` or B2 risk from `44-...`; preserve the different depth expectations for each CEFR level.
+- Next file: continue B1 technology from `47-...` or B2 risk from `45-...`; preserve the different depth expectations for each CEFR level.
 - Actual counts: A1 400, A2 1501, B1 1226, B2 318, C1 0, C2 2775, C2+ 0; total 6220.
 - Intentional repeated headword/sense notes from earlier checkpoints remain valid: `staging` appears with distinct medical and aerospace senses; `retention time` appears in semiconductor memory and chromatography with materially different senses; `phase-locked loop synthesizer` is taught as the RF frequency-synthesis expression after the generic `phase-locked loop` concept in analog IC design. No known vocabulary blocker in this merged B1/B2 batch.
-- Actual counts after latest continuation: A1 400, A2 1501, B1 2466, B2 1248, C1 1370, C2 2775, C2+ 0; total 9760.
+- Actual counts after latest continuation: A1 400, A2 1501, B1 2486, B2 1263, C1 1370, C2 2775, C2+ 0; total 9795.

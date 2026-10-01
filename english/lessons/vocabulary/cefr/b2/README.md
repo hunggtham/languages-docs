@@ -55,6 +55,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Governance Change And Issue Escalation](./risk/41-risk-governance-change-and-issue-escalation.md)
 - [Risk Model Validation And Use Controls](./risk/42-risk-model-validation-and-use-controls.md)
 - [Risk Assurance Testing And Evidence Quality](./risk/43-risk-assurance-testing-and-evidence-quality.md)
+- [Risk Information Quality And Decision Confidence](./risk/44-risk-information-quality-and-decision-confidence.md)
 
 ## work
 
