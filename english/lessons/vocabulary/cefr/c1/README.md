@@ -72,6 +72,10 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Emotion And Moral Judgment](./psychology/06-emotion-and-moral-judgment.md)
 - [Personality Measurement And Individual Differences](./psychology/07-personality-measurement-and-individual-differences.md)
 
+## psychometrics
+
+- [Scale Development And Test Quality](./psychometrics/01-scale-development-and-test-quality.md)
+
 ## media
 
 - [Journalism And Public Trust](./media/01-journalism-and-public-trust.md)
