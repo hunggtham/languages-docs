@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 2486 items in 124 topic files; topic-folder numbering resets per folder.
 - B2: 1263 items in 84 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1370 items in 91 topic files; topic-folder numbering resets per folder.
+- C1: 1390 items in 92 topic files; topic-folder numbering resets per folder.
 - C2: 2775 items in 139 topic files, including the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 9795 items.
+- Total: 9815 items.
 
 ## Current position
 
@@ -118,6 +118,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/technology/14-digital-communication-and-collaboration.md` with 20 digital-communication and collaboration items, plus `b2/risk/12-risk-audit-and-assurance.md` with 15 risk-audit and assurance items.
 - Latest continuation added `b1/technology/15-digital-accessibility-and-assistive-tools.md` with 20 digital-accessibility and assistive-tool items, plus `b2/risk/13-risk-appetite-and-capital-allocation.md` with 15 risk-appetite and capital-allocation items.
 - Latest continuation added `b1/technology/16-digital-entertainment-and-gaming-tools.md` with 20 digital-entertainment and gaming-tool items, plus `b2/risk/14-risk-interdependencies-and-emerging-threats.md` with 15 risk-interdependency and emerging-threat items.
+- Latest continuation added `c1/econometrics/02-experimental-design-and-policy-evaluation.md` with 20 experimental-design and policy-evaluation items.
 - Latest continuation added `b1/technology/17-digital-purchases-and-subscriptions.md` with 20 digital-purchase and subscription items, plus `b2/risk/15-risk-data-governance-and-reporting.md` with 15 risk-data governance and reporting items.
 - Latest continuation added `b1/technology/18-digital-health-and-wearable-devices.md` with 20 digital-health and wearable-device items, plus `b2/risk/16-risk-stress-testing-and-recovery-capacity.md` with 15 stress-testing and recovery-capacity items.
 - Latest continuation added `b1/technology/19-digital-creative-tools.md` with 20 digital-creative-tool items, plus `b2/risk/17-insurance-recovery-and-risk-financing.md` with 15 insurance-recovery and risk-financing items.

@@ -273,6 +273,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## econometrics
 
 - [Causal Inference And Data Structure](./econometrics/01-causal-inference-and-data-structure.md)
+- [Experimental Design And Policy Evaluation](./econometrics/02-experimental-design-and-policy-evaluation.md)
 
 ## public-finance
 
