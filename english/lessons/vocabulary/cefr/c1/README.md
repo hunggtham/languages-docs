@@ -328,6 +328,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Survival And Time-To-Event Analysis](./econometrics/11-survival-and-time-to-event-analysis.md)
 - [Monte Carlo And Estimator Diagnostics](./econometrics/12-monte-carlo-and-estimator-diagnostics.md)
 - [Discrete Choice And Limited Dependent Variables](./econometrics/13-discrete-choice-and-limited-dependent-variables.md)
+- [Nonparametric And Semiparametric Estimation](./econometrics/14-nonparametric-and-semiparametric-estimation.md)
 
 ## public-finance
 
