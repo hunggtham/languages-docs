@@ -70,6 +70,7 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 
 - 각 file dùng title và heading bằng tiếng Hàn; `품사` đặt dưới title của từng mục.
 - Mỗi mục có: 핵심 의미, 베트남어 뜻, 뉘앙스와 사용법, 재사용 가능한 콜로케이션·청크, 자주 쓰는 문형과 성분, 사회적 관계·주제별 register, 예문, 어휘 연결, 영어 참고.
+- Với phần giải thích dành cho người học, tiếng Việt là ngôn ngữ chính (khoảng 90–100%) trong `뉘앙스와 사용법`, collocation/chunk, mẫu câu–thành phần, register, `어휘 연결` và `영어 참고`. Giữ cụm Korean/English làm keyword tra cứu và ghi gloss tiếng Việt ngay sau dấu `—`; ví dụ Korean luôn có dòng `Dịch` tiếng Việt.
 - `---` ngăn cách các mục từ mới.
 - Lesson mới chia context thành các nhóm tối đa 15 headword; mỗi nhóm có một đoạn tiếng Hàn ngắn và bản dịch tiếng Việt. Đây là quy tắc chia passage, không phải giới hạn tổng số từ trong file.
 - Mỗi context có metadata ẩn ghi `target_set` để kiểm tra coverage; mọi headword phải xuất hiện trong context dưới dạng tự nhiên hoặc biến thể ngữ pháp tự nhiên.

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** di động xã hội.
 
-**뉘앙스와 사용법:** 세대 안의 이동뿐 아니라 부모 세대와 자녀 세대 사이의 상승·하락 이동과 기회의 개방성을 함께 본다.
+**뉘앙스와 사용법:** Trong mục này, `사회이동` không chỉ mang nghĩa “di động xã hội.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사회이동 가능성`, `사회이동성 저하`, `세대 간 사회이동`.
+**재사용 가능한 콜로케이션·청크:** `사회이동 가능성`, `사회이동성 저하`, `세대 간 사회이동` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `교육이 사회이동을 촉진하다`; 계층·소득·기회와 결합한다.
+**자주 쓰는 문형과 성분:** `교육이 사회이동을 촉진하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회학·교육·복지·노동정책의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 주거와 교육의 격차가 커지면 사회이동의 사다리가 약해질 수 있다.
 
-**어휘 연결:** `신분 상승`은 개인의 결과를 강조하고, `사회이동`은 계층 구조와 기회의 흐름을 분석한다.
+**Dịch:** Khi khoảng cách về nhà ở và giáo dục tăng lên, nấc thang dịch chuyển xã hội có thể yếu đi.
 
-**영어 참고:** *social mobility* — 사회적 계층과 경제적 위치 사이를 이동하는 현상이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `사회이동`.
+
+**영어 참고:** *social mobility* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** sự cố định giai tầng.
 
-**뉘앙스와 사용법:** 개인 능력보다 자산·학교·인맥·주거가 세대 간 재생산되는 구조를 비판적으로 분석한다.
+**뉘앙스와 사용법:** Trong mục này, `계층고착` không chỉ mang nghĩa “sự cố định giai tầng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `계층고착 심화`, `계층고착 구조`, `계층고착을 완화하다`.
+**재사용 가능한 콜로케이션·청크:** `계층고착 심화`, `계층고착 구조`, `계층고착을 완화하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `자산 격차가 계층고착을 낳다`; 교육·주거·세대와 결합한다.
+**자주 쓰는 문형과 성분:** `자산 격차가 계층고착을 낳다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 불평등·교육·사회정책의 추상 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 사교육과 주거 자산의 격차는 계층고착을 강화할 수 있다.
 
-**어휘 연결:** `빈부격차`는 소득 차이를 말하고, `계층고착`은 그 차이가 다음 세대로 굳어지는 과정을 뜻한다.
+**Dịch:** Khoảng cách về học thêm và tài sản nhà ở có thể củng cố sự cố kết giai tầng.
 
-**영어 참고:** *class entrenchment* — 계층 위치가 세대 간 고착되는 현상이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `계층고착`.
+
+**영어 참고:** *class entrenchment* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tái sản xuất thế hệ.
 
-**뉘앙스와 사용법:** 부모가 자녀에게 돈만 물려주는 것이 아니라 언어·문화자본·네트워크와 기대까지 전달한다는 분석어다.
+**뉘앙스와 사용법:** Trong mục này, `세대재생산` không chỉ mang nghĩa “tái sản xuất thế hệ.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `세대재생산 구조`, `불평등의 세대재생산`, `세대재생산을 끊다`.
+**재사용 가능한 콜로케이션·청크:** `세대재생산 구조`, `불평등의 세대재생산`, `세대재생산을 끊다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `교육이 세대재생산에 기여하다`; 가족·학교·자산과 결합한다.
+**자주 쓰는 문형과 성분:** `교육이 세대재생산에 기여하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회학·교육·계층 연구의 최고급 추상어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 명문대 진학률의 차이는 가정의 문화자본과 세대재생산을 함께 살펴야 설명된다.
 
-**어휘 연결:** `상속`은 재산 이전이고, `세대재생산`은 재산·문화·지위가 구조적으로 이어지는 전 과정을 포함한다.
+**Dịch:** Muốn giải thích chênh lệch tỷ lệ vào đại học danh tiếng, cần xem xét cả vốn văn hóa gia đình và tái sản xuất thế hệ.
 
-**영어 참고:** *intergenerational reproduction* — 자원과 계층 위치가 세대 간에 반복되는 과정이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `세대재생산`.
+
+**영어 참고:** *intergenerational reproduction* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** loại trừ xã hội.
 
-**뉘앙스와 사용법:** 가난만을 뜻하지 않고 제도·관계·문화적 장벽이 여러 영역에서 겹치는 상태를 말한다.
+**뉘앙스와 사용법:** Trong mục này, `사회적 배제` không chỉ mang nghĩa “loại trừ xã hội.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사회적 배제 완화`, `사회적 배제 위험`, `배제의 구조`.
+**재사용 가능한 콜로케이션·청크:** `사회적 배제 완화`, `사회적 배제 위험`, `배제의 구조` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정책이 사회적 배제를 줄이다`; 빈곤·장애·이주·참여와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 사회적 배제를 줄이다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지·인권·지역사회 정책의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 디지털 행정이 오히려 고령층의 사회적 배제를 심화하지 않도록 대면 창구를 남겨야 한다.
 
-**어휘 연결:** `차별`은 특정 대우의 불공정이고, `사회적 배제`는 여러 제도와 관계에서 지속적으로 밀려나는 구조다.
+**Dịch:** Cần giữ quầy giao dịch trực tiếp để hành chính số không vô tình làm trầm trọng thêm sự loại trừ xã hội của người cao tuổi.
 
-**영어 참고:** *social exclusion* — 사회의 자원·관계·참여에서 구조적으로 배제되는 과정이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `사회적 배제`.
+
+**영어 참고:** *social exclusion* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** hiệu ứng kỳ thị/dán nhãn.
 
-**뉘앙스와 사용법:** 말이나 분류가 단순한 묘사에 그치지 않고 행동과 제도적 기대를 바꿔 불이익을 재생산한다는 분석어다.
+**뉘앙스와 사용법:** Trong mục này, `낙인효과` không chỉ mang nghĩa “hiệu ứng kỳ thị/dán nhãn.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `낙인효과를 줄이다`, `정신질환 낙인효과`, `낙인효과가 작동하다`.
+**재사용 가능한 콜로케이션·청크:** `낙인효과를 줄이다`, `정신질환 낙인효과`, `낙인효과가 작동하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `보도가 낙인효과를 키우다`; 범죄·질병·복지와 결합한다.
+**자주 쓰는 문형과 성분:** `보도가 낙인효과를 키우다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회심리·복지·미디어 비평의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 복지 수급자를 게으르다고 묘사하면 낙인효과 때문에 필요한 사람이 신청을 꺼릴 수 있다.
 
-**어휘 연결:** `편견`은 부정적 믿음이고, `낙인효과`는 그 믿음이 기회와 행동에 미치는 결과까지 본다.
+**Dịch:** Nếu mô tả người nhận phúc lợi là lười biếng, hiệu ứng kỳ thị có thể khiến người cần hỗ trợ ngại đăng ký.
 
-**영어 참고:** *stigma effect* — 부정적 라벨이 실제 차별과 자기인식에 미치는 영향이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `낙인효과`.
+
+**영어 참고:** *stigma effect* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** khoảng cách đa tầng/đa chiều.
 
-**뉘앙스와 사용법:** 하나의 지표로 빈곤을 설명할 수 없으며, 여러 불리함이 서로 강화된다는 정책 분석어다.
+**뉘앙스와 사용법:** Trong mục này, `다중격차` không chỉ mang nghĩa “khoảng cách đa tầng/đa chiều.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `다중격차 해소`, `다중격차 지표`, `격차의 중첩`.
+**재사용 가능한 콜로케이션·청크:** `다중격차 해소`, `다중격차 지표`, `격차의 중첩` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `취약계층에 다중격차가 집중되다`; 지역·세대·서비스와 결합한다.
+**자주 쓰는 문형과 성분:** `취약계층에 다중격차가 집중되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회정책·지역균형·불평등 연구의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 농촌 노인은 소득과 의료, 교통의 다중격차를 동시에 겪을 수 있다.
 
-**어휘 연결:** `소득격차`는 한 차원이고, `다중격차`는 여러 영역의 불리함이 겹치는 구조를 뜻한다.
+**Dịch:** Người cao tuổi ở nông thôn có thể đồng thời chịu nhiều khoảng cách về thu nhập, y tế và giao thông.
 
-**영어 참고:** *multiple disadvantage* — 여러 사회적 격차와 불리함이 중첩된 상태다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `다중격차`.
+
+**영어 참고:** *multiple disadvantage* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** bất bình đẳng cơ hội.
 
-**뉘앙스와 사용법:** 결과의 차이보다 경쟁을 시작하기 전의 조건과 접근 기회가 공정한지를 따진다.
+**뉘앙스와 사용법:** Trong mục này, `기회불평등` không chỉ mang nghĩa “bất bình đẳng cơ hội.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `기회불평등 심화`, `기회불평등 완화`, `기회의 불평등 구조`.
+**재사용 가능한 콜로케이션·청크:** `기회불평등 심화`, `기회불평등 완화`, `기회의 불평등 구조` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `교육이 기회불평등을 줄이다`; 배경·공정성·세대와 결합한다.
+**자주 쓰는 문형과 성분:** `교육이 기회불평등을 줄이다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·노동·사회이동 정책의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 입시 경쟁의 공정성을 높이려면 지역별 기회불평등부터 측정해야 한다.
 
-**어휘 연결:** `결과불평등`은 성취의 차이이고, `기회불평등`은 그 결과가 나오기 전 조건의 차이다.
+**Dịch:** Muốn tăng tính công bằng của cạnh tranh thi cử, trước hết phải đo bất bình đẳng cơ hội giữa các khu vực.
 
-**영어 참고:** *inequality of opportunity* — 출신과 배경에 따른 기회의 불공정한 차이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `기회불평등`.
+
+**영어 참고:** *inequality of opportunity* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** cảm giác bị tước đoạt tương đối.
 
-**뉘앙스와 사용법:** 소득 수준보다 비교 대상·기대치·자산 가격·세대 경험의 차이가 감정과 정치적 불만을 만든다는 개념이다.
+**뉘앙스와 사용법:** Trong mục này, `상대적 박탈감` không chỉ mang nghĩa “cảm giác bị tước đoạt tương đối.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `상대적 박탈감이 커지다`, `박탈감 해소`, `세대 간 상대적 박탈감`.
+**재사용 가능한 콜로케이션·청크:** `상대적 박탈감이 커지다`, `박탈감 해소`, `세대 간 상대적 박탈감` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `집값 상승이 상대적 박탈감을 키우다`; 비교·세대·불평등과 결합한다.
+**자주 쓰는 문형과 성분:** `집값 상승이 상대적 박탈감을 키우다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회심리·정치·부동산 보도의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 자산 가격이 급등하면 소득이 유지된 사람도 상대적 박탈감을 느낄 수 있다.
 
-**어휘 연결:** `빈곤`은 자원 부족의 상태이고, `상대적 박탈감`은 타인과 비교해 느끼는 불공정과 감정이다.
+**Dịch:** Khi giá tài sản tăng vọt, ngay cả người vẫn giữ được thu nhập cũng có thể cảm thấy bị tước đoạt tương đối.
 
-**영어 참고:** *relative deprivation* — 다른 사람과 비교해 부당하게 덜 가진다고 느끼는 상태다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `상대적 박탈감`.
+
+**영어 참고:** *relative deprivation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** vốn xã hội.
 
-**뉘앙스와 사용법:** 개인의 재산이 아니라 관계 속에 축적되어 거래 비용과 갈등을 줄이는 공공적 자원이라는 뜻이다.
+**뉘앙스와 사용법:** Trong mục này, `사회적 자본` không chỉ mang nghĩa “vốn xã hội.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사회적 자본 축적`, `사회적 자본이 약화되다`, `지역 사회적 자본`.
+**재사용 가능한 콜로케이션·청크:** `사회적 자본 축적`, `사회적 자본이 약화되다`, `지역 사회적 자본` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `공동체가 사회적 자본을 형성하다`; 신뢰·네트워크·협력과 결합한다.
+**자주 쓰는 문형과 성분:** `공동체가 사회적 자본을 형성하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회학·지역개발·공공정책의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 지역 축제와 주민 모임은 위기 때 활용할 사회적 자본을 쌓을 수 있다.
 
-**어휘 연결:** `인맥`은 개인적 연결을 말하고, `사회적 자본`은 신뢰와 협력으로 공동체가 얻는 집단적 자원을 뜻한다.
+**Dịch:** Lễ hội địa phương và các nhóm cư dân có thể xây dựng vốn xã hội để sử dụng khi khủng hoảng xảy ra.
 
-**영어 참고:** *social capital* — 신뢰와 네트워크가 협력을 가능하게 하는 사회적 자원이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `사회적 자본`.
+
+**영어 참고:** *social capital* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** khả năng phục hồi của cộng đồng.
 
-**뉘앙스와 사용법:** 시설 복구만이 아니라 주민 신뢰·상호돌봄·정보 공유·참여 구조까지 포함한다.
+**뉘앙스와 사용법:** Trong mục này, `공동체 회복력` không chỉ mang nghĩa “khả năng phục hồi của cộng đồng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `공동체 회복력 강화`, `지역 공동체 회복력`, `회복력 있는 공동체`.
+**재사용 가능한 콜로케이션·청크:** `공동체 회복력 강화`, `지역 공동체 회복력`, `회복력 있는 공동체` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정책이 공동체 회복력을 높이다`; 재난·연대·지역과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 공동체 회복력을 높이다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재난·복지·지역개발의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 공동체 회복력은 공공시설뿐 아니라 주민 사이의 신뢰와 자원봉사 네트워크에서 나온다.
 
-**어휘 연결:** `복구`는 시설과 서비스를 되돌리는 일이고, `공동체 회복력`은 관계와 자치 능력까지 본다.
+**Dịch:** Khả năng phục hồi của cộng đồng đến không chỉ từ cơ sở công cộng mà còn từ niềm tin giữa cư dân và mạng lưới tình nguyện.
 
-**영어 참고:** *community resilience* — 충격을 견디고 공동체 기능과 관계를 회복하는 능력이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `공동체 회복력`.
+
+**영어 참고:** *community resilience* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** tăng trưởng bao trùm.
 
-**뉘앙스와 사용법:** GDP 증가만으로 평가하지 않고 고용의 질, 재분배, 사회서비스, 취약계층 참여를 함께 본다.
+**뉘앙스와 사용법:** Trong mục này, `포용적 성장` không chỉ mang nghĩa “tăng trưởng bao trùm.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `포용적 성장 전략`, `포용적 성장의 조건`, `포용적 성장 정책`.
+**재사용 가능한 콜로케이션·청크:** `포용적 성장 전략`, `포용적 성장의 조건`, `포용적 성장 정책` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정부가 포용적 성장을 추진하다`; 분배·고용·복지와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 포용적 성장을 추진하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제·복지·국제개발 정책의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 포용적 성장은 취약계층을 보호하는 것뿐 아니라 양질의 일자리에 참여시키는 전략이다.
 
-**어휘 연결:** `경제성장`은 생산과 소득의 증가이고, `포용적 성장`은 그 혜택의 분배와 참여까지 포함한다.
+**Dịch:** Tăng trưởng bao trùm không chỉ bảo vệ nhóm dễ tổn thương mà còn là chiến lược đưa họ tham gia việc làm chất lượng.
 
-**영어 참고:** *inclusive growth* — 성장의 기회와 혜택을 넓은 집단이 공유하도록 하는 방식이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `포용적 성장`.
+
+**영어 참고:** *inclusive growth* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** chủ nghĩa trọng năng lực.
 
-**뉘앙스와 사용법:** 공정한 경쟁을 약속하지만 출발선의 격차를 가리거나 실패를 개인 책임으로 돌리는 효과가 있다는 비판도 있다.
+**뉘앙스와 사용법:** Trong mục này, `능력주의` không chỉ mang nghĩa “chủ nghĩa trọng năng lực.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `능력주의 사회`, `능력주의의 한계`, `능력주의 이데올로기`.
+**재사용 가능한 콜로케이션·청크:** `능력주의 사회`, `능력주의의 한계`, `능력주의 이데올로기` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `능력주의가 불평등을 정당화하다`; 경쟁·공정성·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `능력주의가 불평등을 정당화하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·정치·노동·불평등 비평의 고급어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 능력주의를 말하려면 시험 성적을 만들었던 가정의 자원도 함께 살펴야 한다.
 
-**어휘 연결:** `공정한 경쟁`은 절차의 이상이고, `능력주의`는 능력에 따른 보상 원리를 사회 질서로 확장한다.
+**Dịch:** Khi nói về chế độ trọng dụng người tài, cũng cần xem xét nguồn lực gia đình đã tạo nên thành tích thi cử.
 
-**영어 참고:** *meritocracy* — 능력과 성취에 따라 지위와 보상이 배분돼야 한다는 이념이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `능력주의`.
+
+**영어 참고:** *meritocracy* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** tính công bằng.
 
-**뉘앙스와 사용법:** 모두를 똑같이 대하는 절차적 공정성과 조건이 다른 사람을 고려하는 실질적 공정성을 구분해야 한다.
+**뉘앙스와 사용법:** Trong mục này, `공정성` không chỉ mang nghĩa “tính công bằng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `절차적 공정성`, `공정성 논란`, `공정성을 확보하다`.
+**재사용 가능한 콜로케이션·청크:** `절차적 공정성`, `공정성 논란`, `공정성을 확보하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정책의 공정성을 검증하다`; 입시·채용·분배와 결합한다.
+**자주 쓰는 문형과 성분:** `정책의 공정성을 검증하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법·정책·조직·교육 담화의 핵심 추상어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 결과가 같지 않더라도 절차의 공정성이 보장되면 정책에 대한 신뢰가 높아질 수 있다.
 
-**어휘 연결:** `평등`은 동일한 대우나 분배를 강조하고, `공정성`은 절차·조건·결과가 정당한지 평가한다.
+**Dịch:** Ngay cả khi kết quả không giống nhau, niềm tin vào chính sách có thể tăng nếu bảo đảm được sự công bằng của quy trình.
 
-**영어 참고:** *fairness* — 규칙과 결과가 부당하지 않은지 판단하는 원칙이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `공정성`.
+
+**영어 참고:** *fairness* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** thuyết phân tầng “thìa bạc/đất”.
 
-**뉘앙스와 사용법:** 엄밀한 사회계층 이론보다 청년 세대가 자산·교육·인맥 격차를 풍자하고 비판하는 온라인·뉴스 표현이다.
+**뉘앙스와 사용법:** Trong mục này, `수저계급론` không chỉ mang nghĩa “thuyết phân tầng “thìa bạc/đất”.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `수저계급론 확산`, `수저계급론 비판`, `수저계급론이 보여 주는 격차`.
+**재사용 가능한 콜로케이션·청크:** `수저계급론 확산`, `수저계급론 비판`, `수저계급론이 보여 주는 격차` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `청년들이 수저계급론을 말하다`; 자산·세대·기회와 결합한다.
+**자주 쓰는 문형과 성분:** `청년들이 수저계급론을 말하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 커뮤니티·청년 담론·불평등 기사에서 현재 통하는 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 수저계급론은 개인의 노력보다 부모 자산이 중요해졌다는 청년층의 체감을 드러낸다.
 
-**어휘 연결:** `계층고착`은 사회과학 분석어이고, `수저계급론`은 그 고착을 대중적 비유로 표현한다.
+**Dịch:** Lý thuyết “phân chia giai tầng theo thìa” cho thấy cảm nhận của giới trẻ rằng tài sản cha mẹ đã trở nên quan trọng hơn nỗ lực cá nhân.
 
-**영어 참고:** *spoon-class theory* — 부모의 자산과 배경이 계층을 결정한다는 대중적 비유다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `수저계급론`.
+
+**영어 참고:** *spoon-class theory* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** thế hệ từ bỏ N điều.
 
-**뉘앙스와 사용법:** ‘N’은 포기한 항목이 늘어날 수 있음을 뜻하며, 개인의 의지보다 경제·주거·노동 조건을 비판하는 현재의 세대 담론이다.
+**뉘앙스와 사용법:** Trong mục này, `N포세대` không chỉ mang nghĩa “thế hệ từ bỏ N điều.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `N포세대 담론`, `N포세대의 현실`, `N포세대라는 표현`.
+**재사용 가능한 콜로케이션·청크:** `N포세대 담론`, `N포세대의 현실`, `N포세대라는 표현` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `청년을 N포세대로 부르다`; 저출생·주거·불안정 노동과 결합한다.
+**자주 쓰는 문형과 성분:** `청년을 N포세대로 부르다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 청년 기사·온라인 커뮤니티·사회비평의 비격식 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** N포세대라는 말은 청년의 선택보다 그 선택을 제한하는 구조를 묻는다.
 
-**어휘 연결:** `청년실업`은 고용 상태이고, `N포세대`는 여러 생애 계획이 좌절되는 세대 감정을 압축한다.
+**Dịch:** Cụm từ “thế hệ từ bỏ N thứ” đặt câu hỏi về cấu trúc hạn chế lựa chọn của thanh niên, chứ không chỉ về bản thân lựa chọn.
 
-**영어 참고:** *the N-po generation* — 경제 조건 때문에 여러 삶의 목표를 포기·유예하는 세대라는 표현이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `N포세대`.
+
+**영어 참고:** *the N-po generation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 <!-- passage_word_count: 107 Korean eojeol; target_set: 사회이동, 계층고착, 세대재생산, 사회적 배제, 낙인효과, 다중격차, 기회불평등, 상대적 박탈감, 사회적 자본, 공동체 회복력, 포용적 성장, 능력주의, 공정성, 수저계급론, N포세대 -->
 

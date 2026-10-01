@@ -50,6 +50,7 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [건강보험과 노후소득의 정책 언어](./topics/advanced-health-insurance-and-aging-policy/README.md)
 - [의료 접근성과 필수의료의 정책 언어](./topics/advanced-medical-access-and-care-delivery/README.md)
 - [법적 절차와 사법 책임의 고급 언어](./topics/advanced-legal-procedure-and-judicial-accountability/README.md)
+- [구금과 제도적 통제](./topics/advanced-legal-procedure-and-judicial-accountability/03-confinement-and-institutional-control.md)
 - [에너지 전환과 전력 안보의 정책 언어](./topics/advanced-energy-transition-and-power-security/README.md)
 - [디지털 권리와 플랫폼 거버넌스의 언어](./topics/advanced-digital-rights-and-platform-governance/README.md)
 - [식량안보와 농업정책의 언어](./topics/advanced-food-security-and-agricultural-policy/README.md)

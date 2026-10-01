@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** thương mại hóa, đưa công nghệ vào sử dụng thực tế.
 
-**뉘앙스와 사용법:** 발명에 성공했다는 뜻을 넘어 비용·안전·생산 체계를 갖춰 지속적으로 공급한다는 의미다. `상용화 단계`는 연구와 대량 보급 사이의 현실적 관문을 가리킨다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là sáng chế đã thành công mà nó cung cấp nguồn cung liên tục bằng cách thiết lập các hệ thống chi phí, an toàn và sản xuất. ‘Giai đoạn thương mại hóa’ đề cập đến cánh cửa thực tế giữa nghiên cứu và phổ biến rộng rãi.
 
-**재사용 가능한 콜로케이션·청크:** `기술을 상용화하다`, `상용화에 성공하다`, `상용화 시점`.
+**재사용 가능한 콜로케이션·청크:** `기술을 상용화하다`, `상용화에 성공하다`, `상용화 시점`. — `Thương mại hóa công nghệ`, `Thương mại hóa thành công`, `Thời điểm thương mại hóa`.
 
-**자주 쓰는 문형과 성분:** `기업이 N을 상용화하다`; 신약·배터리·AI 서비스·소재와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 N을 상용화하다`, `Công ty thương mại hóa N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업·과학 기사와 투자 발표의 공식어이며 일상에서는 `제품으로 내놓다`로 풀어 말한다.
+**사회적 관계·주제별 register:** Đây là từ chính thức cho các bài báo công nghiệp/khoa học và thông báo đầu tư. Trong cuộc sống hàng ngày, nó được dịch là “xuất ra như một sản phẩm”.
 
 **예문:** 연구팀은 시제품의 안정성을 확인한 뒤 해당 센서를 상용화할 계획이다.
 
-**어휘 연결:** `개발하다`는 만드는 과정 전체이고, `상용화하다`는 시장에 공급할 수 있는 단계까지 갔다는 뜻이다. `사업화하다`는 기술 외 아이디어에도 쓸 수 있다.
+**Dịch:** Nhóm nghiên cứu có kế hoạch thương mại hóa cảm biến sau khi xác nhận tính ổn định của nguyên mẫu.
 
-**영어 참고:** *commercialize*, *bring to market* — 연구 결과를 실제 판매·사용 단계로 옮기는 행위다.
+**어휘 연결:** `개발하다`는 만드는 과정 전체이고, `상용화하다`는 시장에 공급할 수 있는 단계까지 갔다는 뜻이다. `사업화하다`는 기술 외 아이디어에도 쓸 수 있다. — 'Phát triển' đề cập đến toàn bộ quá trình sản xuất và 'thương mại hóa' có nghĩa là đạt đến giai đoạn có thể cung cấp sản phẩm ra thị trường. 'Thương mại hóa' có thể được sử dụng cho các ý tưởng khác ngoài công nghệ.
+
+**영어 참고:** *commercialize*, *bring to market* — Đây là hành động chuyển kết quả nghiên cứu thành doanh số bán hàng và sử dụng thực tế.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** nâng cao, hiện đại hóa và tinh vi hóa.
 
-**뉘앙스와 사용법:** 단순히 규모를 키우는 것이 아니라 기능과 운영 체계를 더 정교하게 만든다는 뜻이다. 정책 기사에서는 범죄나 공격 수법이 `고도화되다`처럼 부정적 대상에도 쓰인다.
+**뉘앙스와 사용법:** Điều này có nghĩa là không chỉ đơn giản là tăng quy mô mà còn làm cho các chức năng và hệ điều hành trở nên phức tạp hơn. Trong các bài viết về chính sách, các phương pháp tấn công hoặc tội phạm cũng được sử dụng một cách tiêu cực, chẳng hạn như 'ngày càng tinh vi'.
 
-**재사용 가능한 콜로케이션·청크:** `시스템을 고도화하다`, `공격 수법이 고도화되다`, `고도화 전략`.
+**재사용 가능한 콜로케이션·청크:** `시스템을 고도화하다`, `공격 수법이 고도화되다`, `고도화 전략`. — `Hệ thống nâng cao`, `Phương pháp tấn công nâng cao`, `Chiến lược nâng cao`.
 
-**자주 쓰는 문형과 성분:** `A가 B를 고도화하다`, `N이 고도화되다`; 플랫폼·보안·제조·행정 시스템과 결합한다.
+**자주 쓰는 문형과 성분:** `A가 B를 고도화하다`, `N이 고도화되다`, `A nâng cấp B`, `N nâng cao` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기업 발표·정책 보고서·뉴스에서 흔한 고급어다.
+**사회적 관계·주제별 register:** Đây là từ nâng cao phổ biến trong các thông báo, báo cáo chính sách và tin tức của công ty.
 
 **예문:** 병원은 진료 기록을 분석하는 AI를 고도화해 대기 시간을 줄였다.
 
-**어휘 연결:** `개선하다`보다 기술적 복잡성과 체계의 수준 향상을 강조한다. `확대하다`는 규모, `고도화하다`는 질과 정밀도에 초점이 있다.
+**Dịch:** Bệnh viện giảm thời gian chờ đợi bằng cách nâng cấp AI phân tích hồ sơ bệnh án.
 
-**영어 참고:** *upgrade*, *sophisticate*, *advance* — 기능과 운영 수준을 더 정교하게 만든다는 뜻이다.
+**어휘 연결:** `개선하다`보다 기술적 복잡성과 체계의 수준 향상을 강조한다. `확대하다`는 규모, `고도화하다`는 질과 정밀도에 초점이 있다. — Nhấn mạnh vào việc cải thiện độ phức tạp kỹ thuật và cấp độ hệ thống thay vì 'cải tiến'. 'Mở rộng' tập trung vào quy mô và 'nâng cao' tập trung vào chất lượng và độ chính xác.
+
+**영어 참고:** *upgrade*, *sophisticate*, *advance* — Điều này có nghĩa là làm cho chức năng và mức độ hoạt động phức tạp hơn.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** kiểm chứng thực nghiệm, chứng minh bằng thử nghiệm thực tế.
 
-**뉘앙스와 사용법:** 연구실의 성능 수치만으로 충분하지 않고 현장 조건에서 재현되는지 확인한다는 의미다. 정책·산업 기사에서 `실증 사업`과 함께 자주 등장한다.
+**뉘앙스와 사용법:** Điều này có nghĩa là số liệu hiệu suất chỉ từ phòng thí nghiệm là không đủ và cần kiểm tra xem liệu chúng có thể được sao chép trong điều kiện hiện trường hay không. Nó thường xuất hiện cùng với 'dự án xác minh' trong các bài viết về chính sách và ngành.
 
-**재사용 가능한 콜로케이션·청크:** `기술을 실증하다`, `현장에서 실증하다`, `실증 결과`.
+**재사용 가능한 콜로케이션·청크:** `기술을 실증하다`, `현장에서 실증하다`, `실증 결과`. — `trình diễn công nghệ`, `trình diễn tại hiện trường`, `trình diễn kết quả`.
 
-**자주 쓰는 문형과 성분:** `연구팀이 N의 효과를 실증하다`; 신기술·의료기기·정책 모델과 결합한다.
+**자주 쓰는 문형과 성분:** `연구팀이 N의 효과를 실증하다`, `Nhóm nghiên cứu chứng minh tác dụng của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 과학·정책·산업 보도의 전문어이며 일상에서는 `현장에서 시험해 입증하다`로 설명한다.
+**사회적 관계·주제별 register:** Đây là biệt ngữ dành cho báo cáo khoa học, chính sách và ngành và trong cuộc sống hàng ngày, nó được giải thích là 'thử nghiệm và chứng minh trên thực địa'.
 
 **예문:** 기업은 농촌 지역에서 자율주행 장비의 안전성을 실증했다.
 
-**어휘 연결:** `검증하다`가 사실·주장 전반을 확인한다면, `실증하다`는 실제 실험과 관찰을 통해 효과를 보여 준다는 뜻이 강하다.
+**Dịch:** Công ty đã chứng minh sự an toàn của thiết bị lái xe tự động ở khu vực nông thôn.
 
-**영어 참고:** *validate empirically*, *demonstrate in the field* — 실제 조건에서 작동함을 증명한다.
+**어휘 연결:** `검증하다`가 사실·주장 전반을 확인한다면, `실증하다`는 실제 실험과 관찰을 통해 효과를 보여 준다는 뜻이 강하다. — Nếu 'xác minh' xác nhận các dữ kiện và tuyên bố tổng thể thì 'xác minh' có ý nghĩa mạnh mẽ trong việc thể hiện tính hiệu quả thông qua các thử nghiệm và quan sát thực tế.
+
+**영어 참고:** *validate empirically*, *demonstrate in the field* — Chứng minh rằng nó hoạt động trong điều kiện thực tế.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** tính tái lập, khả năng cho lại cùng kết quả.
 
-**뉘앙스와 사용법:** 한 번의 성공적인 결과보다 다른 연구자와 다른 장소에서도 같은 결론이 나오는지를 평가한다. 과학 보도에서 연구의 신뢰도를 판단하는 핵심 기준이다.
+**뉘앙스와 사용법:** Thay vì chỉ có một kết quả thành công duy nhất, hãy đánh giá xem liệu các nhà nghiên cứu khác và ở những nơi khác nhau có thể đạt được kết luận tương tự hay không. Đây là tiêu chuẩn quan trọng để đánh giá độ tin cậy của nghiên cứu trong báo cáo khoa học.
 
-**재사용 가능한 콜로케이션·청크:** `연구의 재현성`, `재현성을 확보하다`, `재현성 논란`.
+**재사용 가능한 콜로케이션·청크:** `연구의 재현성`, `재현성을 확보하다`, `재현성 논란`. — `Khả năng tái tạo của nghiên cứu`, `Đảm bảo khả năng tái tạo`, `Tranh cãi về khả năng tái tạo`.
 
-**자주 쓰는 문형과 성분:** `N의 재현성이 높다/낮다`; 실험·데이터·모델·분석 결과와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 재현성이 높다/낮다`, `N khả năng tái tạo cao/thấp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학술·의료·AI 연구 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật để báo cáo về nghiên cứu học thuật, y tế và AI.
 
 **예문:** 논문에 제시된 모델은 다른 데이터셋에서 재현성이 충분히 확인되지 않았다.
 
-**어휘 연결:** `정확도`는 한 번의 예측이 맞는 비율이고, `재현성`은 같은 절차를 반복했을 때 결과가 안정적으로 나오는지를 본다.
+**Dịch:** Mô hình được trình bày trong bài viết chưa được xác nhận đầy đủ để có thể tái tạo trong các bộ dữ liệu khác.
 
-**영어 참고:** *reproducibility*, *replicability* — 연구 결과를 같은 방식으로 다시 얻을 수 있는 성질이다.
+**어휘 연결:** `정확도`는 한 번의 예측이 맞는 비율이고, `재현성`은 같은 절차를 반복했을 때 결과가 안정적으로 나오는지를 본다. — 'Độ chính xác' là tốc độ mà tại đó một dự đoán duy nhất là đúng và 'khả năng tái tạo' đề cập đến việc liệu kết quả có ổn định hay không khi lặp lại cùng một quy trình.
+
+**영어 참고:** *reproducibility*, *replicability* — Đây là đặc tính có thể lấy lại kết quả nghiên cứu theo cách tương tự.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** tính thiên lệch, mức độ thiên vị.
 
-**뉘앙스와 사용법:** 개인의 악의만을 뜻하지 않고 데이터 수집과 설계 과정에 구조적으로 들어간 불균형까지 포함한다. `편향성 검토`는 기술의 공정성을 점검하는 절차다.
+**뉘앙스와 사용법:** Nó không chỉ đề cập đến mục đích xấu riêng lẻ mà còn bao gồm sự mất cân bằng về cấu trúc trong quá trình thiết kế và thu thập dữ liệu. ‘Đánh giá thiên vị’ là một thủ tục kiểm tra tính công bằng của công nghệ.
 
-**재사용 가능한 콜로케이션·청크:** `알고리즘 편향성`, `편향성을 줄이다`, `편향성 검토`.
+**재사용 가능한 콜로케이션·청크:** `알고리즘 편향성`, `편향성을 줄이다`, `편향성 검토`. — `Độ lệch thuật toán`, `Giảm độ lệch`, `Xem lại độ lệch`.
 
-**자주 쓰는 문형과 성분:** `N에 편향성이 나타나다`, `편향성을 평가하다`; 데이터·추천·채용·의료 모델과 결합한다.
+**자주 쓰는 문형과 성분:** `N에 편향성이 나타나다`, `편향성을 평가하다`, `Độ lệch xuất hiện trong N`, `Đánh giá độ lệch` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 윤리·정책·학술 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về đạo đức, chính sách và báo cáo học thuật AI.
 
 **예문:** 얼굴 인식 모델의 편향성을 확인하기 위해 다양한 피부색의 자료를 추가했다.
 
-**어휘 연결:** `편견`은 사람의 고정관념을, `편향성`은 데이터와 시스템의 결과에 나타나는 구조적 치우침을 분석적으로 말한다.
+**Dịch:** Dữ liệu về các màu da khác nhau đã được thêm vào để kiểm tra độ lệch của mô hình nhận dạng khuôn mặt.
 
-**영어 참고:** *bias*, *biasedness* — 사람·데이터·알고리즘 어디에나 나타날 수 있는 체계적 치우침이다.
+**어휘 연결:** `편견`은 사람의 고정관념을, `편향성`은 데이터와 시스템의 결과에 나타나는 구조적 치우침을 분석적으로 말한다. — 'Định kiến' đề cập đến các khuôn mẫu của con người và 'thiên vị' đề cập đến sự thiên vị về mặt cấu trúc xuất hiện trong dữ liệu và kết quả hệ thống về mặt phân tích.
+
+**영어 참고:** *bias*, *biasedness* — Đó là thành kiến ​​mang tính hệ thống có thể xuất hiện ở bất kỳ đâu trong con người, dữ liệu và thuật toán.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** tính giải thích được, khả năng giải thích quyết định của hệ thống.
 
-**뉘앙스와 사용법:** 결과가 맞는지만 보는 것이 아니라 결정에 영향을 준 요인과 과정을 설명할 수 있어야 한다는 요구다. 의료·금융·행정처럼 책임 소재가 중요한 분야에서 특히 강조된다.
+**뉘앙스와 사용법:** Yêu cầu là phải có khả năng giải thích các yếu tố và quy trình đã ảnh hưởng đến quyết định thay vì chỉ thấy rằng kết quả là chính xác. Điều này đặc biệt được nhấn mạnh trong các lĩnh vực coi trọng trách nhiệm, chẳng hạn như y học, tài chính và quản trị.
 
-**재사용 가능한 콜로케이션·청크:** `모델의 설명가능성`, `설명가능성을 높이다`, `설명가능한 AI`.
+**재사용 가능한 콜로케이션·청크:** `모델의 설명가능성`, `설명가능성을 높이다`, `설명가능한 AI`. — `Khả năng giải thích của mô hình`, `Tăng khả năng giải thích`, `AI có thể giải thích`.
 
-**자주 쓰는 문형과 성분:** `N의 설명가능성을 확보하다`; AI 모델·의사결정·감사와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 설명가능성을 확보하다`, `Đảm bảo khả năng giải thích của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기술 정책·AI 윤리·학술 담화의 전문어다.
+**사회적 관계·주제별 register:** Biệt ngữ về chính sách công nghệ, đạo đức AI và diễn ngôn học thuật.
 
 **예문:** 대출 심사 모델은 고객에게 불이익을 준 이유를 설명할 수 있는 설명가능성을 갖춰야 한다.
 
-**어휘 연결:** `투명성`은 운영과 정보 공개 전반의 개방성이고, `설명가능성`은 특정 결과의 근거를 이해시키는 능력이다.
+**Dịch:** Mô hình sàng lọc khoản vay phải có khả năng giải thích được tại sao khách hàng lại gặp bất lợi.
 
-**영어 참고:** *explainability*, *interpretability* — 모델의 판단 이유를 사람이 추적하고 설명할 수 있는 성질이다.
+**어휘 연결:** `투명성`은 운영과 정보 공개 전반의 개방성이고, `설명가능성`은 특정 결과의 근거를 이해시키는 능력이다. — 'Tính minh bạch' là tính cởi mở tổng thể của các hoạt động và tiết lộ thông tin, còn 'khả năng giải thích' là khả năng hiểu được cơ sở của một kết quả cụ thể.
+
+**영어 참고:** *explainability*, *interpretability* — Đây là thuộc tính cho phép một người theo dõi và giải thích lý do đưa ra phán đoán của mô hình.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** khả năng tương tác liên thông giữa các hệ thống.
 
-**뉘앙스와 사용법:** 단순한 호환보다 조직과 플랫폼의 경계를 넘어 데이터 형식과 업무 절차가 연동된다는 의미가 강하다. 공공 데이터와 의료 기록에서 중요한 설계 기준이다.
+**뉘앙스와 사용법:** Thay vì khả năng tương thích đơn giản, nó có ý nghĩa mạnh mẽ hơn trong việc liên kết các định dạng dữ liệu và quy trình kinh doanh xuyên qua các ranh giới tổ chức và nền tảng. Đây là tiêu chí thiết kế quan trọng đối với dữ liệu công cộng và hồ sơ y tế.
 
-**재사용 가능한 콜로케이션·청크:** `시스템 상호운용성`, `상호운용성을 확보하다`, `상호운용성 표준`.
+**재사용 가능한 콜로케이션·청크:** `시스템 상호운용성`, `상호운용성을 확보하다`, `상호운용성 표준`. — `Khả năng tương tác của hệ thống`, `Đảm bảo khả năng tương tác`, `Tiêu chuẩn về khả năng tương tác`.
 
-**자주 쓰는 문형과 성분:** `N 간 상호운용성이 높다`; 플랫폼·기관·데이터베이스·기기와 결합한다.
+**자주 쓰는 문형과 성분:** `N 간 상호운용성이 높다`, `Khả năng tương tác cao giữa N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** IT·공공 행정·산업 표준의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về CNTT, hành chính công và các tiêu chuẩn ngành.
 
 **예문:** 응급의료 체계는 병원 간 기록의 상호운용성을 높여야 한다.
 
-**어휘 연결:** `호환성`은 특정 기기나 파일이 맞는지에 가깝고, `상호운용성`은 서로 다른 조직과 시스템이 실제 업무를 함께 수행하는 범위가 더 넓다.
+**Dịch:** Hệ thống y tế khẩn cấp phải tăng cường khả năng tương tác của hồ sơ giữa các bệnh viện.
 
-**영어 참고:** *interoperability* — 이질적인 시스템들이 정보와 기능을 교환하며 함께 작동하는 능력이다.
+**어휘 연결:** `호환성`은 특정 기기나 파일이 맞는지에 가깝고, `상호운용성`은 서로 다른 조직과 시스템이 실제 업무를 함께 수행하는 범위가 더 넓다. — 'Khả năng tương thích' gần hơn với việc liệu một thiết bị hoặc tệp cụ thể có phù hợp hay không, trong khi 'khả năng tương tác' có phạm vi rộng hơn trong đó các tổ chức và hệ thống khác nhau thực hiện các nhiệm vụ thực tế cùng nhau.
+
+**영어 참고:** *interoperability* — Khả năng các hệ thống không đồng nhất làm việc cùng nhau bằng cách trao đổi thông tin và chức năng.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** quản trị dữ liệu.
 
-**뉘앙스와 사용법:** 데이터를 많이 모으는 것보다 누가 어떤 목적과 권한으로 관리하는지에 초점이 있다. 공공기관과 AI 기업의 책임 구조를 논할 때 현재 널리 쓰인다.
+**뉘앙스와 사용법:** Thay vì thu thập nhiều dữ liệu, trọng tâm là ai quản lý dữ liệu đó, với mục đích và quyền hạn gì. Nó hiện đang được sử dụng rộng rãi khi thảo luận về cơ cấu trách nhiệm của các tổ chức công và các công ty AI.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 거버넌스 체계`, `데이터 거버넌스를 구축하다`, `거버넌스 원칙`.
+**재사용 가능한 콜로케이션·청크:** `데이터 거버넌스 체계`, `데이터 거버넌스를 구축하다`, `거버넌스 원칙`. — `Hệ thống quản trị dữ liệu`, `Thiết lập quản trị dữ liệu`, `Nguyên tắc quản trị`.
 
-**자주 쓰는 문형과 성분:** `기관이 데이터 거버넌스를 마련하다`; 개인정보·공공데이터·AI 학습자료와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 데이터 거버넌스를 마련하다`, `Tổ chức thiết lập quản trị dữ liệu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책·기업 전략·기술 보고서의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho các báo cáo về chính sách, chiến lược công ty và công nghệ.
 
 **예문:** 생성형 AI 도입에 앞서 학습 데이터의 출처와 이용 권한을 포함한 데이터 거버넌스가 필요하다.
 
-**어휘 연결:** `데이터 관리`가 실무 운영을 말한다면 `데이터 거버넌스`는 권한·책임·원칙을 정하는 제도적 틀이다.
+**Dịch:** Trước khi giới thiệu AI tổng quát, việc quản trị dữ liệu bao gồm quyền nguồn và quyền sử dụng dữ liệu học tập là cần thiết.
 
-**영어 참고:** *data governance* — 데이터의 생애주기와 책임 주체를 통제하는 체계다.
+**어휘 연결:** `데이터 관리`가 실무 운영을 말한다면 `데이터 거버넌스`는 권한·책임·원칙을 정하는 제도적 틀이다. — Nếu 'quản lý dữ liệu' đề cập đến hoạt động thực tế thì 'quản trị dữ liệu' là một khuôn khổ thể chế thiết lập thẩm quyền, trách nhiệm và nguyên tắc.
+
+**영어 참고:** *data governance* — Một hệ thống kiểm soát vòng đời của dữ liệu và các bên chịu trách nhiệm.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** sandbox quản lý, cơ chế thử nghiệm có kiểm soát.
 
-**뉘앙스와 사용법:** 규제를 없애는 것이 아니라 안전장치와 감독을 둔 채 혁신의 실제 가능성을 시험한다는 뜻이다. 모빌리티·핀테크·의료기술 정책 기사에서 자주 나온다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là loại bỏ các quy định mà là kiểm tra tiềm năng thực sự của sự đổi mới bằng các biện pháp an toàn và giám sát tại chỗ. Nó thường xuất hiện trong các bài viết về chính sách di động, fintech và công nghệ y tế.
 
-**재사용 가능한 콜로케이션·청크:** `규제 샌드박스를 신청하다`, `규제 샌드박스 지정`, `샌드박스 실증`.
+**재사용 가능한 콜로케이션·청크:** `규제 샌드박스를 신청하다`, `규제 샌드박스 지정`, `샌드박스 실증`. — `Đơn đăng ký hộp cát quy định`, `Chỉ định hộp cát quy định`, `Xác minh hộp cát'.
 
-**자주 쓰는 문형과 성분:** `기업이 N을 규제 샌드박스에서 시험하다`; 신서비스·신기술·규제 기관과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 N을 규제 샌드박스에서 시험하다`, `Công ty kiểm tra N trong hộp cát quy định` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책·산업·스타트업 담화의 현재형 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ thì hiện tại trong diễn ngôn về chính sách, ngành và khởi nghiệp.
 
 **예문:** 자율주행 배송 로봇은 규제 샌드박스에서 보행자 안전성을 먼저 검증했다.
 
-**어휘 연결:** `규제 완화`는 규칙 자체를 느슨하게 하는 방향이고, `규제 샌드박스`는 제한된 환경에서 예외적으로 시험하는 제도다.
+**Dịch:** Robot giao hàng tự động lần đầu tiên đã xác minh sự an toàn cho người đi bộ trong hộp cát quy định.
 
-**영어 참고:** *regulatory sandbox* — 감독 아래 혁신 서비스를 제한적으로 시험하는 장치다.
+**어휘 연결:** `규제 완화`는 규칙 자체를 느슨하게 하는 방향이고, `규제 샌드박스`는 제한된 환경에서 예외적으로 시험하는 제도다. — 'Bãi bỏ quy định' là hướng nới lỏng các quy tắc và 'hộp cát quy định' là một hệ thống thử nghiệm đặc biệt trong một môi trường hạn chế.
+
+**영어 참고:** *regulatory sandbox* — Một thiết bị dùng để thử nghiệm có giới hạn các dịch vụ đổi mới dưới sự giám sát.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** khử carbon, chuyển đổi giảm phụ thuộc carbon.
 
-**뉘앙스와 사용법:** 일회성 감축보다 생산과 소비 체계를 바꾸는 장기적 전환을 뜻한다. `탈탄소화 전략`은 기술·투자·정책을 함께 포함한다.
+**뉘앙스와 사용법:** Điều này đề cập đến quá trình chuyển đổi dài hạn làm thay đổi hệ thống sản xuất và tiêu dùng thay vì giảm thiểu một lần. 'Chiến lược khử cacbon' bao gồm công nghệ, đầu tư và chính sách.
 
-**재사용 가능한 콜로케이션·청크:** `산업 탈탄소화`, `탈탄소화 경로`, `탈탄소화를 가속하다`.
+**재사용 가능한 콜로케이션·청크:** `산업 탈탄소화`, `탈탄소화 경로`, `탈탄소화를 가속하다`. — `Khử cacbon công nghiệp`, `Con đường khử cacbon`, `Tăng tốc quá trình khử cacbon`.
 
-**자주 쓰는 문형과 성분:** `N의 탈탄소화를 추진하다`; 전력·철강·수송·도시와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 탈탄소화를 추진하다`, `Thúc đẩy quá trình khử cacbon của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후 정책·산업·과학 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo chính sách khí hậu, ngành và khoa học.
 
 **예문:** 철강업계는 수소 환원 제철을 중심으로 탈탄소화 경로를 다시 짜고 있다.
 
-**어휘 연결:** `탄소 감축`은 배출량을 줄이는 결과나 목표이고, `탈탄소화`는 경제 시스템 자체를 바꾸는 과정이다.
+**Dịch:** Ngành thép đang vẽ lại con đường khử cacbon, tập trung vào sản xuất thép khử hydro.
 
-**영어 참고:** *decarbonization* — 탄소 배출을 줄이는 구조적 전환과 산업 전략을 뜻한다.
+**어휘 연결:** `탄소 감축`은 배출량을 줄이는 결과나 목표이고, `탈탄소화`는 경제 시스템 자체를 바꾸는 과정이다. — 'Giảm lượng carbon' là kết quả hoặc mục tiêu của việc giảm lượng khí thải và 'khử cacbon' là quá trình thay đổi bản thân hệ thống kinh tế.
+
+**영어 참고:** *decarbonization* — Điều này đề cập đến sự chuyển đổi cơ cấu và các chiến lược công nghiệp nhằm giảm lượng khí thải carbon.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** giảm thiểu, làm giảm mức độ.
 
-**뉘앙스와 사용법:** 완전히 없애는 `제거하다`보다 일부를 줄여 관리 가능한 수준으로 만든다는 의미다. 환경·재난·의료·안전 정책에서 목적어가 다양하다.
+**뉘앙스와 사용법:** Thay vì 'xóa' hoàn toàn, điều đó có nghĩa là giảm một số dữ liệu xuống mức có thể quản lý được. Các mục tiêu rất đa dạng về chính sách môi trường, thảm họa, y tế và an toàn.
 
-**재사용 가능한 콜로케이션·청크:** `배출량을 저감하다`, `위험을 저감하다`, `소음 저감 기술`.
+**재사용 가능한 콜로케이션·청크:** `배출량을 저감하다`, `위험을 저감하다`, `소음 저감 기술`. — `Giảm khí thải`, `Giảm rủi ro`, `Công nghệ giảm tiếng ồn`.
 
-**자주 쓰는 문형과 성분:** `N을 저감하다`; 온실가스·미세먼지·위험·소음과 결합한다.
+**자주 쓰는 문형과 성분:** `N을 저감하다`, `giảm ​​N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보고서·정책·기술 기사에 자연스럽고 일상에서는 `줄이다`가 더 일반적이다.
+**사회적 관계·주제별 register:** Điều này là tự nhiên trong các báo cáo, chính sách và bài viết kỹ thuật và 'giảm' phổ biến hơn trong cuộc sống hàng ngày.
 
 **예문:** 새 공정은 폐수의 유해 물질을 크게 저감할 것으로 기대된다.
 
-**어휘 연결:** `감소시키다`가 수치 변화 전반을 말한다면, `저감하다`는 피해나 오염을 관리해 낮춘다는 전문적 느낌이 있다.
+**Dịch:** Quy trình mới dự kiến ​​sẽ giảm đáng kể các chất độc hại trong nước thải.
 
-**영어 참고:** *reduce*, *mitigate* — 완전 제거가 아니라 영향과 수준을 낮추는 행위다.
+**어휘 연결:** `감소시키다`가 수치 변화 전반을 말한다면, `저감하다`는 피해나 오염을 관리해 낮춘다는 전문적 느낌이 있다. — Nếu 'reduce' đề cập đến sự thay đổi tổng thể về số lượng, thì 'reduce' mang lại cảm giác chuyên nghiệp trong việc quản lý và giảm thiểu thiệt hại hoặc ô nhiễm.
+
+**영어 참고:** *reduce*, *mitigate* — Đây không phải là loại bỏ hoàn toàn mà là hành động làm giảm tác động và mức độ.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** tính bất định, mức độ không chắc chắn.
 
-**뉘앙스와 사용법:** 단순한 무지보다 자료·모델·환경 변화 때문에 남는 예측의 한계를 정량적으로 다룰 때 쓴다. 기후·의료·경제·AI 보도에서 책임 있는 표현이다.
+**뉘앙스와 사용법:** Được sử dụng khi xử lý một cách định lượng các hạn chế còn lại trong dự đoán do những thay đổi về dữ liệu, mô hình và môi trường thay vì sự thiếu hiểu biết đơn giản. Đây là cách thể hiện có trách nhiệm trong việc đưa tin về khí hậu, y học, kinh tế và AI.
 
-**재사용 가능한 콜로케이션·청크:** `예측의 불확실성`, `불확실성을 감안하다`, `불확실성이 크다`.
+**재사용 가능한 콜로케이션·청크:** `예측의 불확실성`, `불확실성을 감안하다`, `불확실성이 크다`. — `độ không chắc chắn của dự đoán`, `xem xét độ không chắc chắn`, `độ không chắc chắn cao`.
 
-**자주 쓰는 문형과 성분:** `N의 불확실성을 줄이다/평가하다`; 전망·모델·위험·데이터와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 불확실성을 줄이다/평가하다`, `Giảm/đánh giá độ không chắc chắn trong N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 과학·정책·경제 분석의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho phân tích khoa học, chính sách và kinh tế.
 
 **예문:** 연구진은 강수량 전망의 불확실성을 공개하고 여러 시나리오를 제시했다.
 
-**어휘 연결:** `모호함`은 표현이나 경계가 분명하지 않은 상태이고, `불확실성`은 미래 결과를 확정할 수 없는 인식·확률의 문제다.
+**Dịch:** Các nhà nghiên cứu tiết lộ sự không chắc chắn trong dự báo lượng mưa và đưa ra một số kịch bản.
 
-**영어 참고:** *uncertainty* — 예측과 측정에 남아 있는 알 수 없음의 범위를 뜻한다.
+**어휘 연결:** `모호함`은 표현이나 경계가 분명하지 않은 상태이고, `불확실성`은 미래 결과를 확정할 수 없는 인식·확률의 문제다. — 'Sự mơ hồ' là trạng thái trong đó các biểu thức hoặc ranh giới không rõ ràng và 'sự không chắc chắn' là vấn đề về nhận thức và xác suất trong đó không thể xác định được kết quả trong tương lai.
+
+**영어 참고:** *uncertainty* — Đề cập đến phạm vi chưa biết còn lại trong dự đoán và đo lường.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** trí tuệ nhân tạo tạo sinh.
 
-**뉘앙스와 사용법:** 현재 한국어 기술 기사와 직장 대화에서 `생성형 AI`라는 형태로 매우 활발히 쓰인다. 검색·분류 중심의 AI와 달리 결과물을 생성한다는 점을 강조한다.
+**뉘앙스와 사용법:** Hiện tại, nó được sử dụng rất tích cực dưới dạng 'AI sáng tạo' trong các bài viết kỹ thuật tiếng Hàn và các cuộc trò chuyện tại nơi làm việc. Cần nhấn mạnh rằng, không giống như AI tập trung vào tìm kiếm và phân loại, nó tạo ra kết quả.
 
-**재사용 가능한 콜로케이션·청크:** `생성형 인공지능 모델`, `생성형 AI를 도입하다`, `생성형 인공지능의 저작권 문제`.
+**재사용 가능한 콜로케이션·청크:** `생성형 인공지능 모델`, `생성형 AI를 도입하다`, `생성형 인공지능의 저작권 문제`. — 'Mô hình AI sáng tạo', 'Giới thiệu AI sáng tạo', 'Vấn đề bản quyền của trí tuệ nhân tạo sáng tạo'.
 
-**자주 쓰는 문형과 성분:** `N이 생성형 인공지능을 활용하다`; 콘텐츠·업무 자동화·저작권과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 생성형 인공지능을 활용하다`, `N sử dụng trí tuệ nhân tạo tổng hợp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·기업·온라인 커뮤니티에서 현재 사용되는 contemporary-hot 기술어다.
+**사회적 관계·주제별 register:** Một bộ mô tả hấp dẫn đương đại hiện đang được sử dụng trong các cộng đồng tin tức, kinh doanh và trực tuyến.
 
 **예문:** 회사는 생성형 인공지능을 활용하되 고객 정보가 학습에 남지 않도록 별도 환경을 마련했다.
 
-**어휘 연결:** `자동화`는 반복 작업을 대신하는 넓은 개념이고, `생성형 인공지능`은 새 콘텐츠를 만들어 내는 모델군을 가리킨다.
+**Dịch:** Công ty sử dụng trí tuệ nhân tạo tổng hợp nhưng đã chuẩn bị một môi trường riêng biệt để thông tin khách hàng không bị bỏ lại để tìm hiểu.
 
-**영어 참고:** *generative AI* — 학습한 패턴을 바탕으로 새로운 콘텐츠를 산출하는 인공지능이다.
+**어휘 연결:** `자동화`는 반복 작업을 대신하는 넓은 개념이고, `생성형 인공지능`은 새 콘텐츠를 만들어 내는 모델군을 가리킨다. — 'Tự động hóa' là một khái niệm rộng thay thế các nhiệm vụ lặp đi lặp lại và 'trí tuệ nhân tạo tổng hợp' đề cập đến một nhóm mô hình tạo ra nội dung mới.
+
+**영어 참고:** *generative AI* — Trí tuệ nhân tạo tạo ra nội dung mới dựa trên các mẫu đã học.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** hiện tượng “ảo giác” của AI, tạo thông tin bịa nhưng nghe có vẻ thật.
 
-**뉘앙스와 사용법:** 원래는 의학적 감각 이상을 뜻하지만, 한국어 AI 대화에서는 `AI 환각`이라는 기술적 비유가 현재 널리 쓰인다. 모델이 거짓말을 의도한다는 뜻은 아니다.
+**뉘앙스와 사용법:** Ban đầu có nghĩa là dị cảm y tế, nhưng ẩn dụ kỹ thuật 'ảo giác AI' hiện được sử dụng rộng rãi trong các cuộc trò chuyện về AI ở Hàn Quốc. Điều này không có nghĩa là người mẫu có ý định nói dối.
 
-**재사용 가능한 콜로케이션·청크:** `AI 환각 현상`, `환각을 줄이다`, `환각 답변을 검증하다`.
+**재사용 가능한 콜로케이션·청크:** `AI 환각 현상`, `환각을 줄이다`, `환각 답변을 검증하다`. — `Hiện tượng ảo giác AI`, `Giảm ảo giác`, `Xác minh câu trả lời ảo giác`.
 
-**자주 쓰는 문형과 성분:** `모델이 환각을 일으키다`, `환각이 발생하다`; 챗봇·생성형 AI·출처 확인과 결합한다.
+**자주 쓰는 문형과 성분:** `모델이 환각을 일으키다`, `환각이 발생하다`, `mô hình gây ảo giác`, `xảy ra ảo giác` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기술 기사, 개발자 대화, 온라인 AI 커뮤니티에서 현재 활발한 표현이다.
+**사회적 관계·주제별 register:** Hiện đang tích cực thể hiện trong các bài viết kỹ thuật, cuộc trò chuyện dành cho nhà phát triển và cộng đồng AI trực tuyến.
 
 **예문:** 법률 질문에서는 환각 가능성이 높기 때문에 원문 판례를 반드시 다시 확인해야 한다.
 
-**어휘 연결:** `오류`는 결과가 틀렸다는 넓은 말이고, `환각`은 AI가 근거 없는 내용을 그럴듯하게 생성하는 특수한 오류 유형이다.
+**Dịch:** Trong các câu hỏi pháp luật, khả năng xảy ra ảo giác rất cao nên phải kiểm tra lại tiền lệ ban đầu.
 
-**영어 참고:** *AI hallucination* — 모델이 사실이 아닌 내용을 사실처럼 생성하는 현상을 뜻한다.
+**어휘 연결:** `오류`는 결과가 틀렸다는 넓은 말이고, `환각`은 AI가 근거 없는 내용을 그럴듯하게 생성하는 특수한 오류 유형이다. — 'Lỗi' là một thuật ngữ rộng có nghĩa là kết quả sai và 'ảo giác' là một loại lỗi đặc biệt trong đó AI tạo ra nội dung vô căn cứ một cách hợp lý.
+
+**영어 참고:** *AI hallucination* — Điều này đề cập đến hiện tượng trong đó mô hình tạo ra nội dung không phải sự thật như thể nó là sự thật.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** tấn công chèn prompt, đưa chỉ thị giả để đánh lừa AI.
 
-**뉘앙스와 사용법:** 개발자·보안 커뮤니티와 최신 기술 보도에서 쓰이는 contemporary-hot 표현이다. 사용자가 단순히 질문을 잘못한 것이 아니라 시스템 지시를 우회하려는 보안 위협을 가리킨다.
+**뉘앙스와 사용법:** Một biểu thức phổ biến hiện đại được sử dụng trong cộng đồng nhà phát triển/bảo mật và trong các báo cáo công nghệ mới nhất. Điều này cho thấy rằng người dùng không chỉ hỏi sai câu hỏi mà còn là một mối đe dọa bảo mật đang cố gắng bỏ qua các hướng dẫn của hệ thống.
 
-**재사용 가능한 콜로케이션·청크:** `프롬프트 주입 공격`, `프롬프트 주입을 차단하다`, `간접 프롬프트 주입`.
+**재사용 가능한 콜로케이션·청크:** `프롬프트 주입 공격`, `프롬프트 주입을 차단하다`, `간접 프롬프트 주입`. — `Tấn công tiêm nhắc nhanh`, `Chặn tiêm nhắc nhở`, `Tiêm nhắc nhở gián tiếp`.
 
-**자주 쓰는 문형과 성분:** `공격자가 N에 프롬프트 주입을 시도하다`; 에이전트·검색 연동·보안 필터와 결합한다.
+**자주 쓰는 문형과 성분:** `공격자가 N에 프롬프트 주입을 시도하다`, `Kẻ tấn công cố gắng đưa dấu nhắc vào N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 개발·보안·온라인 기술 토론에서 현재 사용되며 일반 독자에게는 설명이 필요하다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong các cuộc thảo luận về công nghệ trực tuyến, bảo mật và phát triển AI và yêu cầu giải thích cho người đọc nói chung.
 
 **예문:** 외부 문서에 숨겨진 문장이 에이전트의 프롬프트 주입 공격으로 이어질 수 있다.
 
-**어휘 연결:** `해킹`은 시스템 침입 전반을, `프롬프트 주입`은 자연어 입력을 이용해 AI의 지시 우선순위를 교란하는 특정 공격을 뜻한다.
+**Dịch:** Các câu ẩn trong tài liệu bên ngoài có thể dẫn đến các cuộc tấn công tiêm nhắc tác nhân.
 
-**영어 참고:** *prompt injection* — 모델이나 에이전트에 악의적 지시를 삽입해 행동을 바꾸는 공격이다.
+**어휘 연결:** `해킹`은 시스템 침입 전반을, `프롬프트 주입`은 자연어 입력을 이용해 AI의 지시 우선순위를 교란하는 특정 공격을 뜻한다. — 'Hacking' đề cập đến hành vi xâm nhập tổng thể vào hệ thống và 'tội nhắc nhở' đề cập đến một cuộc tấn công cụ thể làm gián đoạn mức độ ưu tiên của các hướng dẫn AI sử dụng đầu vào ngôn ngữ tự nhiên.
+
+**영어 참고:** *prompt injection* — Đây là cuộc tấn công thay đổi hành vi bằng cách chèn các hướng dẫn độc hại vào mô hình hoặc tác nhân.
 
 <!-- passage_word_count: 104 Korean eojeol; target_set: 상용화하다, 고도화하다, 실증하다, 재현성, 편향성, 설명가능성, 상호운용성, 데이터 거버넌스, 규제 샌드박스, 탈탄소화, 저감하다, 불확실성, 생성형 인공지능, 환각, 프롬프트 주입 -->
 

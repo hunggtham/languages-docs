@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** mô hình ngôn ngữ lớn.
 
-**뉘앙스와 사용법:** 단순한 챗봇 이름이 아니라 사전학습 규모·모델 구조·추론 능력을 설명하는 연구·산업 용어다.
+**뉘앙스와 사용법:** Nó không chỉ là tên chatbot mà là một thuật ngữ nghiên cứu và công nghiệp mô tả quy mô của quá trình học trước, cấu trúc mô hình và khả năng suy luận.
 
-**재사용 가능한 콜로케이션·청크:** `대규모언어모델 학습`, `대규모언어모델 성능`, `대규모언어모델 경쟁`.
+**재사용 가능한 콜로케이션·청크:** `대규모언어모델 학습`, `대규모언어모델 성능`, `대규모언어모델 경쟁`. — `Học mô hình ngôn ngữ quy mô lớn`, `Hiệu suất mô hình ngôn ngữ quy mô lớn`, `Cuộc thi mô hình ngôn ngữ quy mô lớn`.
 
-**자주 쓰는 문형과 성분:** `기업이 대규모언어모델을 공개하다`; 사전학습·추론·데이터와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 대규모언어모델을 공개하다`, `Công ty phát hành mô hình ngôn ngữ quy mô lớn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 연구·산업·정책 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho báo cáo chính sách, ngành và nghiên cứu AI.
 
 **예문:** 대규모언어모델은 문장을 유창하게 만들지만 사실성을 스스로 보장하지는 않는다.
 
-**어휘 연결:** `생성형 인공지능`은 기술·서비스 범주이고, `대규모언어모델`은 그중 언어 생성의 기반 모델을 특정한다.
+**Dịch:** Các mô hình ngôn ngữ quy mô lớn làm cho câu trôi chảy hơn nhưng bản thân chúng không đảm bảo tính hiện thực.
 
-**영어 참고:** *large language model (LLM)* — 대규모 텍스트로 학습한 언어 생성 모델이다.
+**어휘 연결:** `생성형 인공지능`은 기술·서비스 범주이고, `대규모언어모델`은 그중 언어 생성의 기반 모델을 특정한다. — 'Trí tuệ nhân tạo sáng tạo' là một danh mục công nghệ/dịch vụ và 'mô hình ngôn ngữ quy mô lớn' chỉ định mô hình cơ sở để tạo ngôn ngữ.
+
+**영어 참고:** *large language model (LLM)* — Mô hình tạo ngôn ngữ được học từ văn bản có quy mô lớn.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** mô hình nền tảng.
 
-**뉘앙스와 사용법:** 하나의 서비스보다 여러 애플리케이션이 공유하는 기반 기술과 생태계의 지배력을 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh sự thống trị của công nghệ cơ bản và hệ sinh thái được chia sẻ bởi nhiều ứng dụng thay vì một dịch vụ duy nhất.
 
-**재사용 가능한 콜로케이션·청크:** `파운데이션 모델 개발`, `오픈 파운데이션 모델`, `모델 생태계`.
+**재사용 가능한 콜로케이션·청크:** `파운데이션 모델 개발`, `오픈 파운데이션 모델`, `모델 생태계`. — `Phát triển mô hình nền tảng`, `Mô hình nền tảng mở`, `Hệ sinh thái mô hình`.
 
-**자주 쓰는 문형과 성분:** `연구팀이 파운데이션 모델을 공개하다`; 사전학습·미세조정·플랫폼과 결합한다.
+**자주 쓰는 문형과 성분:** `연구팀이 파운데이션 모델을 공개하다`, `Nhóm nghiên cứu công bố mô hình nền tảng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 산업전략·연구·규제의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho chiến lược, nghiên cứu và quy định công nghiệp AI.
 
 **예문:** 파운데이션 모델의 데이터와 컴퓨팅 자원에 대한 접근성이 경쟁 구도를 좌우한다.
 
-**어휘 연결:** `기반 모델`은 번역어이고, `파운데이션 모델`은 여러 작업의 토대가 되는 범용성을 강조하는 산업 용어다.
+**Dịch:** Quyền truy cập vào dữ liệu và tài nguyên điện toán trong mô hình nền tảng xác định bối cảnh cạnh tranh.
 
-**영어 참고:** *foundation model* — 다양한 AI 응용의 기반이 되는 대규모 사전학습 모델이다.
+**어휘 연결:** `기반 모델`은 번역어이고, `파운데이션 모델`은 여러 작업의 토대가 되는 범용성을 강조하는 산업 용어다. — 'Mô hình cơ sở' là từ dịch và 'Mô hình nền tảng' là thuật ngữ công nghiệp nhấn mạnh tính linh hoạt làm nền tảng cho nhiều nhiệm vụ.
+
+**영어 참고:** *foundation model* — Mô hình đào tạo trước quy mô lớn làm cơ sở cho các ứng dụng AI khác nhau.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** thẻ mô hình.
 
-**뉘앙스와 사용법:** 제품 설명서보다 책임성과 재현성을 위해 어떤 조건에서 잘 작동하고 실패하는지 기록한다.
+**뉘앙스와 사용법:** Ghi lại những điều kiện nào mọi thứ hoạt động tốt và thất bại vì trách nhiệm giải trình và khả năng tái tạo thay vì tài liệu về sản phẩm.
 
-**재사용 가능한 콜로케이션·청크:** `모델 카드 공개`, `모델 카드 작성`, `모델 카드의 한계`.
+**재사용 가능한 콜로케이션·청크:** `모델 카드 공개`, `모델 카드 작성`, `모델 카드의 한계`. — `Hiển thị thẻ mô hình`, `Tạo thẻ mô hình`, `Hạn chế của thẻ mô hình`.
 
-**자주 쓰는 문형과 성분:** `개발사가 모델 카드를 제공하다`; 데이터셋·평가·투명성과 결합한다.
+**자주 쓰는 문형과 성분:** `개발사가 모델 카드를 제공하다`, `Nhà phát triển cung cấp thẻ mẫu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 책임·오픈소스·연구 재현성의 전문어다.
+**사회적 관계·주제별 register:** Biệt ngữ về trách nhiệm AI, nguồn mở và khả năng tái tạo nghiên cứu.
 
 **예문:** 모델 카드에 특정 언어와 집단에서 성능이 낮다는 사실을 명시해야 한다.
 
-**어휘 연결:** `기술 문서`는 사용법을 설명하고, `모델 카드`는 모델의 사회적 위험과 적용 한계까지 공개한다.
+**Dịch:** Thẻ mô hình phải cho biết hiệu suất thấp ở một số ngôn ngữ và nhóm dân số nhất định.
 
-**영어 참고:** *model card* — AI 모델의 용도·성능·한계·위험을 기록한 문서다.
+**어휘 연결:** `기술 문서`는 사용법을 설명하고, `모델 카드`는 모델의 사회적 위험과 적용 한계까지 공개한다. — 'Tài liệu kỹ thuật' giải thích cách sử dụng nó và 'thẻ mẫu' tiết lộ các rủi ro xã hội và giới hạn ứng dụng của mô hình.
+
+**영어 참고:** *model card* — Đây là tài liệu ghi lại mục đích, hiệu suất, các hạn chế và rủi ro của mô hình AI.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** dữ liệu tổng hợp.
 
-**뉘앙스와 사용법:** 개인정보 노출을 줄일 수 있지만 실제 분포를 제대로 반영하는지와 편향 재생산 여부를 검증해야 한다.
+**뉘앙스와 사용법:** Việc tiết lộ thông tin cá nhân có thể được giảm thiểu nhưng phải được xác minh xem liệu thông tin đó có phản ánh chính xác sự phân phối thực tế hay không và liệu sự thiên vị có được tái tạo hay không.
 
-**재사용 가능한 콜로케이션·청크:** `합성데이터 생성`, `합성데이터 품질`, `합성데이터 활용`.
+**재사용 가능한 콜로케이션·청크:** `합성데이터 생성`, `합성데이터 품질`, `합성데이터 활용`. — `Tạo dữ liệu tổng hợp`, `Chất lượng dữ liệu tổng hợp`, `Sử dụng dữ liệu tổng hợp`.
 
-**자주 쓰는 문형과 성분:** `기업이 합성데이터로 모델을 학습시키다`; 개인정보·시뮬레이션·검증과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 합성데이터로 모델을 학습시키다`, `Các công ty đào tạo mô hình bằng dữ liệu tổng hợp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 학습·의료·개인정보 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ chính sách học tập, y tế và thông tin cá nhân của AI.
 
 **예문:** 합성데이터가 실제 환자 집단의 다양성을 충분히 반영하는지 확인해야 한다.
 
-**어휘 연결:** `익명화 데이터`는 실제 기록의 식별자를 지운 것이고, `합성데이터`는 새로운 가상 기록을 생성한다.
+**Dịch:** Phải xác nhận rằng dữ liệu tổng hợp phản ánh đầy đủ tính đa dạng của nhóm bệnh nhân thực tế.
 
-**영어 참고:** *synthetic data* — 실제 데이터의 특성을 모사해 인공적으로 만든 데이터다.
+**어휘 연결:** `익명화 데이터`는 실제 기록의 식별자를 지운 것이고, `합성데이터`는 새로운 가상 기록을 생성한다. — `Dữ liệu ẩn danh` xóa mã định danh của bản ghi thực và `dữ liệu tổng hợp` tạo một bản ghi ảo mới.
+
+**영어 참고:** *synthetic data* — Đây là dữ liệu được tạo giả tạo mô phỏng các đặc điểm của dữ liệu thực.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** gắn nhãn dữ liệu.
 
-**뉘앙스와 사용법:** 자동화와 인간 검수의 품질, 라벨러의 노동 조건, 문화적 편향이 모델 성능과 직결된다.
+**뉘앙스와 사용법:** Chất lượng tự động hóa và kiểm tra con người, điều kiện làm việc của người gắn nhãn và thành kiến ​​văn hóa có liên quan trực tiếp đến hiệu suất mô hình.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 라벨링 작업`, `라벨링 품질`, `라벨링 인력`.
+**재사용 가능한 콜로케이션·청크:** `데이터 라벨링 작업`, `라벨링 품질`, `라벨링 인력`. — `Hoạt động ghi nhãn dữ liệu`, `Chất lượng ghi nhãn`, `Nhân sự ghi nhãn`.
 
-**자주 쓰는 문형과 성분:** `기업이 데이터를 라벨링하다`; 학습셋·검수·플랫폼 노동과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 데이터를 라벨링하다`, `Dữ liệu nhãn công ty` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 산업·노동·데이터 품질의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ chỉ ngành AI, lao động và chất lượng dữ liệu.
 
 **예문:** 데이터 라벨링 기준이 모호하면 같은 사진에도 서로 다른 정답이 붙을 수 있다.
 
-**어휘 연결:** `데이터 전처리`는 정리·변환 전체를 말하고, `데이터 라벨링`은 학습 정답을 부여하는 작업에 초점을 둔다.
+**Dịch:** Nếu tiêu chí ghi nhãn dữ liệu không rõ ràng thì các câu trả lời đúng khác nhau có thể được đưa ra cho cùng một bức ảnh.
 
-**영어 참고:** *data labeling*, *data annotation* — 학습 데이터에 정답이나 의미를 표시하는 작업이다.
+**어휘 연결:** `데이터 전처리`는 정리·변환 전체를 말하고, `데이터 라벨링`은 학습 정답을 부여하는 작업에 초점을 둔다. — 'Tiền xử lý dữ liệu' đề cập đến toàn bộ quá trình làm sạch và chuyển đổi, còn 'gắn nhãn dữ liệu' tập trung vào việc cung cấp các câu trả lời học tập.
+
+**영어 참고:** *data labeling*, *data annotation* — Đây là nhiệm vụ hiển thị câu trả lời đúng hoặc ý nghĩa trong dữ liệu học tập.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** đánh giá tác động thuật toán.
 
-**뉘앙스와 사용법:** 정확도 테스트를 넘어 영향을 받는 집단, 구제 절차, 대안과 위험 완화책을 검토한다.
+**뉘앙스와 사용법:** Ngoài việc kiểm tra độ chính xác, hãy kiểm tra các nhóm dân cư bị ảnh hưởng, quy trình khắc phục, các giải pháp thay thế và biện pháp giảm thiểu rủi ro.
 
-**재사용 가능한 콜로케이션·청크:** `알고리즘 영향평가 의무`, `영향평가 보고서`, `영향평가 대상`.
+**재사용 가능한 콜로케이션·청크:** `알고리즘 영향평가 의무`, `영향평가 보고서`, `영향평가 대상`. — `Nghĩa vụ đánh giá tác động của thuật toán`, `Báo cáo đánh giá tác động`, `Mục tiêu đánh giá tác động`.
 
-**자주 쓰는 문형과 성분:** `기관이 알고리즘 영향평가를 실시하다`; 공공서비스·차별·감사와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 알고리즘 영향평가를 실시하다`, `Cơ quan tiến hành đánh giá tác động của thuật toán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 규제·행정·인권 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quy định, quản lý và chính sách nhân quyền về AI.
 
 **예문:** 복지 수급자를 자동 분류하기 전에 알고리즘 영향평가를 거쳐야 한다.
 
-**어휘 연결:** `알고리즘 감사`는 운영 중인 시스템의 준수·위험을 점검하고, `알고리즘 영향평가`는 도입 전 파급을 예측한다.
+**Dịch:** Đánh giá tác động của thuật toán phải được thực hiện trước khi tự động phân loại người nhận phúc lợi.
 
-**영어 참고:** *algorithmic impact assessment* — 알고리즘이 사회와 권리에 미칠 영향을 사전 분석한다.
+**어휘 연결:** `알고리즘 감사`는 운영 중인 시스템의 준수·위험을 점검하고, `알고리즘 영향평가`는 도입 전 파급을 예측한다. — 'Kiểm tra thuật toán' kiểm tra sự tuân thủ và rủi ro của hệ điều hành và 'Đánh giá tác động của thuật toán' dự đoán các tác động lan tỏa trước khi triển khai.
+
+**영어 참고:** *algorithmic impact assessment* — Phân tích sơ bộ về tác động của thuật toán đối với xã hội và quyền lợi.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** tính an toàn của trí tuệ nhân tạo.
 
-**뉘앙스와 사용법:** 모델의 정확도만이 아니라 악용 방지, 견고성, 인간 통제, 사고 대응까지 포함한다.
+**뉘앙스와 사용법:** Không chỉ bao gồm độ chính xác của mô hình mà còn bao gồm khả năng ngăn chặn lạm dụng, độ bền, kiểm soát con người và ứng phó sự cố.
 
-**재사용 가능한 콜로케이션·청크:** `인공지능 안전성 평가`, `AI 안전성 연구`, `안전성 기준`.
+**재사용 가능한 콜로케이션·청크:** `인공지능 안전성 평가`, `AI 안전성 연구`, `안전성 기준`. — 'Đánh giá an toàn trí tuệ nhân tạo', 'Nghiên cứu an toàn AI', 'Tiêu chuẩn an toàn'.
 
-**자주 쓰는 문형과 성분:** `연구진이 인공지능 안전성을 검증하다`; 정렬·위험·규제와 결합한다.
+**자주 쓰는 문형과 성분:** `연구진이 인공지능 안전성을 검증하다`, `Các nhà nghiên cứu xác minh độ an toàn của trí tuệ nhân tạo` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 연구·국제규범·기술정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho nghiên cứu AI, các chuẩn mực quốc tế và chính sách công nghệ.
 
 **예문:** 인공지능 안전성을 확보하려면 출시 전 레드팀 테스트와 사고 보고 체계가 필요하다.
 
-**어휘 연결:** `보안`은 외부 공격 방어이고, `인공지능 안전성`은 모델의 내부 오류와 사회적 오용까지 포함한다.
+**Dịch:** Để đảm bảo an toàn cho trí tuệ nhân tạo, việc thử nghiệm của đội đỏ và hệ thống báo cáo tai nạn là cần thiết trước khi khởi động.
 
-**영어 참고:** *AI safety* — AI의 오작동·오용·통제 상실로 인한 피해를 줄이는 연구와 기준이다.
+**어휘 연결:** `보안`은 외부 공격 방어이고, `인공지능 안전성`은 모델의 내부 오류와 사회적 오용까지 포함한다. — 'Bảo mật' là biện pháp bảo vệ chống lại các cuộc tấn công từ bên ngoài và 'an toàn trí tuệ nhân tạo' bao gồm các lỗi nội bộ và việc lạm dụng mô hình về mặt xã hội.
+
+**영어 참고:** *AI safety* — Nghiên cứu và tiêu chuẩn nhằm giảm thiểu thiệt hại do trục trặc AI, sử dụng sai và mất kiểm soát.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** AI có trách nhiệm.
 
-**뉘앙스와 사용법:** 선언적 구호에 그치지 않으려면 위험 평가, 인간 검토, 감사, 피해 구제의 운영 절차가 필요하다.
+**뉘앙스와 사용법:** Cần có các quy trình hoạt động để đánh giá rủi ro, xem xét con người, kiểm toán và khắc phục thiệt hại vượt xa các khẩu hiệu tuyên bố.
 
-**재사용 가능한 콜로케이션·청크:** `책임 있는 AI 원칙`, `책임 있는 AI 거버넌스`, `책임 있는 AI 개발`.
+**재사용 가능한 콜로케이션·청크:** `책임 있는 AI 원칙`, `책임 있는 AI 거버넌스`, `책임 있는 AI 개발`. — `Các nguyên tắc AI có trách nhiệm`, `Quản trị AI có trách nhiệm`, `Phát triển AI có trách nhiệm`.
 
-**자주 쓰는 문형과 성분:** `기업이 책임 있는 AI를 구축하다`; 윤리·감사·책임과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 책임 있는 AI를 구축하다`, `Doanh nghiệp xây dựng AI có trách nhiệm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기업 정책·국제규범·AI 윤리의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách công ty, chuẩn mực quốc tế và đạo đức AI.
 
 **예문:** 책임 있는 AI를 위해서는 모델 성능뿐 아니라 피해를 신고할 통로도 공개해야 한다.
 
-**어휘 연결:** `AI 윤리`는 가치와 원칙을 논의하고, `책임 있는 AI`는 이를 개발·운영 체계로 구현하는 표현이다.
+**Dịch:** Đối với AI có trách nhiệm, không chỉ hiệu suất của mô hình mà cả các kênh báo cáo thiệt hại đều phải được tiết lộ.
 
-**영어 참고:** *responsible AI* — 공정하고 안전하며 책임을 설명할 수 있는 AI 개발 원칙이다.
+**어휘 연결:** `AI 윤리`는 가치와 원칙을 논의하고, `책임 있는 AI`는 이를 개발·운영 체계로 구현하는 표현이다. — 'Đạo đức AI' thảo luận về các giá trị và nguyên tắc và 'AI có trách nhiệm' là cách diễn đạt triển khai những điều này vào một hệ thống phát triển và vận hành.
+
+**영어 참고:** *responsible AI* — Nguyên tắc phát triển AI công bằng, an toàn và có trách nhiệm.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** thiết kế lấy con người làm trung tâm.
 
-**뉘앙스와 사용법:** 기술을 도입하는 것 자체보다 실제 이용자, 취약한 사용자, 오류 상황의 경험을 설계에 반영한다.
+**뉘앙스와 사용법:** Thay vì giới thiệu bản thân công nghệ, trải nghiệm của người dùng thực tế, người dùng dễ bị tổn thương và các tình huống lỗi được phản ánh trong thiết kế.
 
-**재사용 가능한 콜로케이션·청크:** `인간중심 설계 원칙`, `인간중심 설계 프로세스`, `인간중심 서비스`.
+**재사용 가능한 콜로케이션·청크:** `인간중심 설계 원칙`, `인간중심 설계 프로세스`, `인간중심 서비스`. — `Nguyên tắc thiết kế lấy con người làm trung tâm`, `Quy trình thiết kế lấy con người làm trung tâm`, `Dịch vụ lấy con người làm trung tâm`.
 
-**자주 쓰는 문형과 성분:** `개발팀이 인간중심으로 서비스를 설계하다`; 접근성·UX·안전과 결합한다.
+**자주 쓰는 문형과 성분:** `개발팀이 인간중심으로 서비스를 설계하다`, `Nhóm phát triển thiết kế các dịch vụ lấy con người làm trung tâm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 제품 디자인·공공서비스·AI 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ thiết kế sản phẩm, dịch vụ công và chính sách AI.
 
 **예문:** 자동화가 실패해도 사용자가 이유를 이해하고 개입할 수 있게 인간중심 설계를 적용해야 한다.
 
-**어휘 연결:** `사용자 친화적`은 편의성을 강조하고, `인간중심 설계`는 권리·안전·통제까지 포함한다.
+**Dịch:** Ngay cả khi tự động hóa không thành công, thiết kế lấy con người làm trung tâm vẫn phải được áp dụng để người dùng có thể hiểu lý do và can thiệp.
 
-**영어 참고:** *human-centered design* — 사용자의 맥락과 권리를 중심으로 기술을 설계하는 접근이다.
+**어휘 연결:** `사용자 친화적`은 편의성을 강조하고, `인간중심 설계`는 권리·안전·통제까지 포함한다. — 'Thân thiện với người dùng' nhấn mạnh đến sự tiện lợi và 'thiết kế lấy con người làm trung tâm' bao gồm các quyền, sự an toàn và khả năng kiểm soát.
+
+**영어 참고:** *human-centered design* — Đây là cách tiếp cận để thiết kế công nghệ tập trung vào bối cảnh và quyền của người dùng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** sự sụp đổ mô hình.
 
-**뉘앙스와 사용법:** 합성 콘텐츠의 대량 유통과 데이터 오염이 반복되면 희귀한 표현과 현실의 분포가 사라질 수 있다는 연구 용어다.
+**뉘앙스와 사용법:** Thuật ngữ nghiên cứu nêu rõ rằng các biểu hiện và phân phối thực tế hiếm gặp có thể biến mất nếu việc phân phối hàng loạt nội dung tổng hợp và ô nhiễm dữ liệu lặp lại.
 
-**재사용 가능한 콜로케이션·청크:** `모델 붕괴 위험`, `모델 붕괴를 방지하다`, `합성 데이터와 모델 붕괴`.
+**재사용 가능한 콜로케이션·청크:** `모델 붕괴 위험`, `모델 붕괴를 방지하다`, `합성 데이터와 모델 붕괴`. — `Rủi ro sập mô hình`, `Ngăn chặn sập mô hình`, `Dữ liệu tổng hợp và sập mô hình`.
 
-**자주 쓰는 문형과 성분:** `연구진이 모델 붕괴를 관찰하다`; 학습데이터·합성콘텐츠·다양성과 결합한다.
+**자주 쓰는 문형과 성분:** `연구진이 모델 붕괴를 관찰하다`, `Các nhà nghiên cứu quan sát sự sụp đổ của mô hình` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 연구·데이터 품질·미디어 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho nghiên cứu AI, chất lượng dữ liệu và báo cáo truyền thông.
 
 **예문:** 웹에 생성형 콘텐츠가 과도하게 쌓이면 다음 세대 모델의 모델 붕괴가 빨라질 수 있다.
 
-**어휘 연결:** `과적합`은 특정 학습 데이터에 맞춰지는 현상이고, `모델 붕괴`는 반복 학습으로 정보 다양성이 소실되는 문제다.
+**Dịch:** Nếu nội dung tổng hợp tích lũy quá mức trên web thì sự sụp đổ mô hình của mô hình thế hệ tiếp theo có thể tăng tốc.
 
-**영어 참고:** *model collapse* — AI가 생성한 데이터의 반복 학습으로 다양성과 성능이 저하되는 현상이다.
+**어휘 연결:** `과적합`은 특정 학습 데이터에 맞춰지는 현상이고, `모델 붕괴`는 반복 학습으로 정보 다양성이 소실되는 문제다. — 'Trang bị quá mức' là một hiện tượng được điều chỉnh cho phù hợp với dữ liệu học tập cụ thể và 'sự sụp đổ mô hình' là một vấn đề trong đó tính đa dạng của thông tin bị mất đi do học tập lặp đi lặp lại.
+
+**영어 참고:** *model collapse* — Đây là hiện tượng trong đó tính đa dạng và hiệu suất suy giảm do việc học lặp đi lặp lại dữ liệu do AI tạo ra.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** tài nguyên tính toán.
 
-**뉘앙스와 사용법:** 모델의 아이디어뿐 아니라 누가 고성능 칩과 전력을 사용할 수 있는지가 연구·산업 경쟁력을 좌우한다.
+**뉘앙스와 사용법:** Không chỉ ý tưởng về mô hình mà việc ai có thể sử dụng chip và sức mạnh hiệu suất cao cũng quyết định khả năng cạnh tranh nghiên cứu và công nghiệp.
 
-**재사용 가능한 콜로케이션·청크:** `연산 자원 확보`, `연산 자원 부족`, `연산 자원 배분`.
+**재사용 가능한 콜로케이션·청크:** `연산 자원 확보`, `연산 자원 부족`, `연산 자원 배분`. — `Tài nguyên máy tính an toàn`, `tài nguyên máy tính không đủ`, `phân bổ tài nguyên máy tính`.
 
-**자주 쓰는 문형과 성분:** `스타트업이 연산 자원을 확보하다`; GPU·전력·클라우드와 결합한다.
+**자주 쓰는 문형과 성분:** `스타트업이 연산 자원을 확보하다`, `Khởi động đảm bảo tài nguyên tính toán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 산업·반도체·과학정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho chính sách khoa học, chất bán dẫn và ngành AI.
 
 **예문:** 대학 연구팀은 연산 자원 부족 때문에 대규모 모델 실험을 반복하기 어렵다.
 
-**어휘 연결:** `컴퓨팅 성능`은 기계의 능력이고, `연산 자원`은 칩·전력·클라우드에 접근할 수 있는 실제 조건이다.
+**Dịch:** Các nhóm nghiên cứu của trường đại học khó lặp lại các thí nghiệm mô hình quy mô lớn do thiếu tài nguyên máy tính.
 
-**영어 참고:** *compute resources* — AI 계산에 필요한 하드웨어·전력·클라우드 자원이다.
+**어휘 연결:** `컴퓨팅 성능`은 기계의 능력이고, `연산 자원`은 칩·전력·클라우드에 접근할 수 있는 실제 조건이다. — 'Hiệu suất tính toán' là khả năng của máy và 'tài nguyên tính toán' là điều kiện thực tế để truy cập vào chip, nguồn điện và đám mây.
+
+**영어 참고:** *compute resources* — Cần có tài nguyên phần cứng, nguồn và đám mây để tính toán AI.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** chất bán dẫn AI.
 
-**뉘앙스와 사용법:** GPU·NPU·메모리·패키징을 포함해 AI 연산의 속도와 전력 효율을 좌우하는 산업 영역이다.
+**뉘앙스와 사용법:** Đây là khu vực công nghiệp xác định tốc độ và hiệu suất năng lượng của các phép tính AI, bao gồm GPU, NPU, bộ nhớ và đóng gói.
 
-**재사용 가능한 콜로케이션·청크:** `AI 반도체 경쟁`, `AI 반도체 수출`, `AI 반도체 생태계`.
+**재사용 가능한 콜로케이션·청크:** `AI 반도체 경쟁`, `AI 반도체 수출`, `AI 반도체 생태계`. — `Cạnh tranh bán dẫn AI`, `Xuất khẩu chất bán dẫn AI`, `Hệ sinh thái bán dẫn AI`.
 
-**자주 쓰는 문형과 성분:** `기업이 AI 반도체를 설계하다`; GPU·데이터센터·공급망과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 AI 반도체를 설계하다`, `Các công ty thiết kế chất bán dẫn AI` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업정책·기술안보·반도체 보도의 핵심어다.
+**사회적 관계·주제별 register:** Từ khóa trong chính sách công nghiệp, bảo mật công nghệ và báo cáo chất bán dẫn.
 
 **예문:** AI 반도체의 전력 효율은 데이터센터 운영비와 탄소 배출을 함께 좌우한다.
 
-**어휘 연결:** `반도체`는 산업 전체를 가리키고, `AI 반도체`는 행렬 연산과 추론에 특화된 칩을 특정한다.
+**Dịch:** Hiệu suất năng lượng của chất bán dẫn AI xác định cả chi phí vận hành trung tâm dữ liệu và lượng khí thải carbon.
 
-**영어 참고:** *AI semiconductor* — AI 학습·추론을 가속하도록 설계된 전용 칩이다.
+**어휘 연결:** `반도체`는 산업 전체를 가리키고, `AI 반도체`는 행렬 연산과 추론에 특화된 칩을 특정한다. — 'Chất bán dẫn' đề cập đến toàn bộ ngành và 'Chất bán dẫn AI' chỉ định các chip chuyên về hoạt động ma trận và suy luận.
+
+**영어 참고:** *AI semiconductor* — Một con chip chuyên dụng được thiết kế để tăng tốc quá trình học tập và suy luận AI.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** bản sao kỹ thuật số.
 
-**뉘앙스와 사용법:** 3D 모델에 그치지 않고 실제 상태와 실시간으로 연동해 고장·교통·생산 변화를 시험한다.
+**뉘앙스와 사용법:** Nó vượt ra ngoài mô hình 3D và kiểm tra các sự cố, lưu lượng truy cập và các thay đổi về sản xuất bằng cách liên kết với các điều kiện thực tế trong thời gian thực.
 
-**재사용 가능한 콜로케이션·청크:** `디지털 트윈 구축`, `도시 디지털 트윈`, `디지털 트윈 시뮬레이션`.
+**재사용 가능한 콜로케이션·청크:** `디지털 트윈 구축`, `도시 디지털 트윈`, `디지털 트윈 시뮬레이션`. — `Xây dựng bộ đôi kỹ thuật số`, `Bộ đôi kỹ thuật số thành phố`, `Mô phỏng bộ đôi kỹ thuật số`.
 
-**자주 쓰는 문형과 성분:** `지자체가 도시를 디지털 트윈으로 구현하다`; 센서·시뮬레이션·스마트시티와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 도시를 디지털 트윈으로 구현하다`, `Chính quyền địa phương triển khai thành phố như bản song sinh kỹ thuật số` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 제조·도시계획·재난관리의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho sản xuất, quy hoạch đô thị và quản lý thảm họa.
 
 **예문:** 디지털 트윈으로 공장 설비의 고장을 미리 시뮬레이션하면 정비 비용을 줄일 수 있다.
 
-**어휘 연결:** `가상현실`은 체험 환경이고, `디지털 트윈`은 현실 시스템의 데이터와 상태를 지속적으로 반영하는 운영 모델이다.
+**Dịch:** Có thể giảm chi phí bảo trì bằng cách mô phỏng trước các lỗi thiết bị của nhà máy bằng cách sử dụng bản sao kỹ thuật số.
 
-**영어 참고:** *digital twin* — 현실 시스템을 데이터로 복제해 운영과 예측에 쓰는 가상 모델이다.
+**어휘 연결:** `가상현실`은 체험 환경이고, `디지털 트윈`은 현실 시스템의 데이터와 상태를 지속적으로 반영하는 운영 모델이다. — 'Thực tế ảo' là môi trường trải nghiệm và 'bản sao kỹ thuật số' là mô hình hoạt động phản ánh liên tục dữ liệu và trạng thái của hệ thống thực.
+
+**영어 참고:** *digital twin* — Mô hình ảo sao chép hệ thống thực dưới dạng dữ liệu và sử dụng nó để vận hành và dự đoán.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** bong bóng AI.
 
-**뉘앙스와 사용법:** 공식 경제지표가 아니라 현재 기술 투자와 스타트업 평가를 비판적으로 말하는 뉴스·대화 표현이다.
+**뉘앙스와 사용법:** Đây không phải là chỉ báo kinh tế chính thức mà là biểu hiện tin tức/cuộc trò chuyện chỉ trích các khoản đầu tư công nghệ hiện tại và đánh giá khởi nghiệp.
 
-**재사용 가능한 콜로케이션·청크:** `AI 거품 논란`, `AI 거품이 꺼지다`, `AI 거품 우려`.
+**재사용 가능한 콜로케이션·청크:** `AI 거품 논란`, `AI 거품이 꺼지다`, `AI 거품 우려`. — 'Tranh cãi về bong bóng AI', 'Vụ vỡ bong bóng AI', 'Lo ngại về bong bóng AI'.
 
-**자주 쓰는 문형과 성분:** `시장이 AI 거품을 경고하다`; 투자·기업가치·수익성과 결합한다.
+**자주 쓰는 문형과 성분:** `시장이 AI 거품을 경고하다`, `Thị trường cảnh báo về bong bóng AI` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제지·스타트업 인터뷰·온라인 기술 토론에서 현재 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trên các tạp chí kinh tế, các cuộc phỏng vấn khởi nghiệp và thảo luận công nghệ trực tuyến.
 
 **예문:** 실제 매출보다 홍보가 앞서면 AI 거품이라는 비판을 받을 수 있다.
 
-**어휘 연결:** `기술 낙관론`은 긍정적 전망이고, `AI 거품`은 기대와 가격이 실체를 앞선다는 비판적 평가다.
+**Dịch:** Nếu khuyến mãi đi trước doanh số bán hàng thực tế thì nó có thể bị chỉ trích là bong bóng AI.
 
-**영어 참고:** *AI bubble* — AI에 대한 투자와 기대가 실적보다 과도하게 부풀려진 상태다.
+**어휘 연결:** `기술 낙관론`은 긍정적 전망이고, `AI 거품`은 기대와 가격이 실체를 앞선다는 비판적 평가다. — 'Sự lạc quan về công nghệ' là một triển vọng tích cực, trong khi 'Bong bóng AI' là một đánh giá quan trọng cho thấy kỳ vọng và giá cả vượt xa thực tế.
+
+**영어 참고:** *AI bubble* — Đầu tư và kỳ vọng vào AI bị thổi phồng quá mức so với hiệu suất.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** kỹ thuật thiết kế prompt.
 
-**뉘앙스와 사용법:** 단순히 말을 잘 거는 요령을 넘어 업무 맥락·검증·반복 실험으로 모델의 출력을 통제하려는 현재의 실무 표현이다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt thực tế hiện tại vượt xa việc chỉ nói hay và tìm cách kiểm soát đầu ra của mô hình thông qua bối cảnh công việc, xác minh và thử nghiệm lặp lại.
 
-**재사용 가능한 콜로케이션·청크:** `프롬프트 엔지니어링 기법`, `프롬프트 엔지니어링 역량`, `프롬프트 템플릿`.
+**재사용 가능한 콜로케이션·청크:** `프롬프트 엔지니어링 기법`, `프롬프트 엔지니어링 역량`, `프롬프트 템플릿`. — `Kỹ thuật kỹ thuật nhanh`, `Năng lực kỹ thuật nhanh`, `Mẫu lời nhắc`.
 
-**자주 쓰는 문형과 성분:** `직원이 프롬프트 엔지니어링을 익히다`; 생성형 AI·자동화·업무와 결합한다.
+**자주 쓰는 문형과 성분:** `직원이 프롬프트 엔지니어링을 익히다`, `Nhân viên học kỹ thuật nhanh chóng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 개발자 커뮤니티·직장 교육·테크 미디어에서 현재 쓰이는 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt hiện đang được sử dụng trong cộng đồng nhà phát triển, giáo dục tại nơi làm việc và phương tiện truyền thông công nghệ.
 
 **예문:** 프롬프트 엔지니어링만으로 오류를 없앨 수는 없으므로 결과 검증 절차가 필요하다.
 
-**어휘 연결:** `질문 작성`은 일반적 표현이고, `프롬프트 엔지니어링`은 모델의 특성을 실험하며 지시 구조를 최적화하는 실무 영역이다.
+**Dịch:** Chỉ kỹ thuật nhắc nhở không thể loại bỏ được lỗi, do đó cần có quy trình xác minh kết quả.
 
-**영어 참고:** *prompt engineering* — AI 모델의 출력을 원하는 방향으로 유도하도록 지시를 설계하는 작업이다.
+**어휘 연결:** `질문 작성`은 일반적 표현이고, `프롬프트 엔지니어링`은 모델의 특성을 실험하며 지시 구조를 최적화하는 실무 영역이다. — 'Viết câu hỏi' là một cách diễn đạt chung và 'Kỹ thuật nhắc nhở' là lĩnh vực thực tế kiểm tra các đặc điểm của mô hình và tối ưu hóa cấu trúc hướng dẫn.
+
+**영어 참고:** *prompt engineering* — Đây là nhiệm vụ thiết kế các hướng dẫn để hướng dẫn đầu ra của mô hình AI theo hướng mong muốn.
 
 <!-- passage_word_count: 105 Korean eojeol; target_set: 대규모언어모델, 파운데이션 모델, 모델 카드, 합성데이터, 데이터 라벨링, 알고리즘 영향평가, 인공지능 안전성, 책임 있는 AI, 인간중심 설계, 모델 붕괴, 연산 자원, AI 반도체, 디지털 트윈, AI 거품, 프롬프트 엔지니어링 -->
 

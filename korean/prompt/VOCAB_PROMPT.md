@@ -16,7 +16,7 @@
 - Với mỗi mục, ở cuối phần giải thích phải có `어휘 연결`: giữ keyword tiếng Hàn nhưng giải thích chủ yếu bằng tiếng Việt để người học nhìn rõ sự khác nhau giữa từ cơ bản, từ cao cấp/văn viết, từ gần nghĩa và từ trái nghĩa. Phải nói rõ khác biệt về meaning, register, collocation và context. Nếu không có trái nghĩa trực tiếp, phải nói rõ đó là một trục đối lập theo context chứ không phải antonym tuyệt đối.
 - Phân biệt spoken Korean, written Korean, news language, formal language, slang, 신조어, 관용 표현 và các cách nói chỉ tự nhiên trong một số context nhất định.
 - Register phải được giải thích theo cả quan hệ xã hội (thân mật, lịch sự, công việc, công chúng) và chủ đề (đời sống, công sở, báo chí, pháp lý, tôn giáo, cảm xúc…).
-- Chủ yếu giải thích bằng tiếng Hàn tự nhiên; khi wording, nuance hoặc khái niệm khó thì giải thích ngay bằng tiếng Việt. Khi hữu ích, note Korean / English / Vietnamese.
+- Trong năm phần `뉘앙스와 사용법`, `재사용 가능한 콜로케이션·청크`, `자주 쓰는 문형과 성분`, `사회적 관계·주제별 register` và `영어 참고`, tiếng Việt phải chiếm khoảng 90–100%. Giữ keyword tiếng Hàn hoặc tiếng Anh để tra cứu nhưng ghi nghĩa tiếng Việt ngay bên cạnh. Không dùng tiếng Hàn để thay cho phần giải thích tiếng Việt.
 - Ví dụ phải giống câu người Hàn có thể thực sự nói hoặc viết; ưu tiên hội thoại đời thường, công việc, báo chí và discourse hiện đại thay vì câu minh họa kiểu giáo trình.
 - Nếu một từ đúng nghĩa từ điển nhưng nghe không tự nhiên trong context cụ thể, phải chỉ rõ lựa chọn native tự nhiên hơn.
 - Mỗi file chủ đề phải có ít nhất một đoạn đọc tiếng Hàn liền mạch bao phủ toàn bộ từ mới trong file; không giới hạn file ở 15 hay 20 từ nếu các mục vẫn thuộc cùng một chủ đề.
@@ -25,7 +25,7 @@
 - Đoạn đọc phải có title tiếng Hàn; bản dịch tiếng Việt và note từ vựng có thể đặt bên dưới nhưng không được đưa tiếng Việt/tiếng Anh vào title. Đoạn đọc phải kiểm tra khả năng nhận diện nghĩa trong context, không chỉ lặp lại câu ví dụ của từng mục.
 - Ưu tiên một tình huống liền mạch thuộc đời sống, công việc, xã hội, báo chí hoặc discourse đương đại. Nếu chủ đề quá rộng, tách file thay vì nhồi các từ không liên quan.
 - PDF và Naver Dictionary được dùng để đối chiếu, không phải nội dung để sao chép. Bản giải thích và đoạn đọc phải là nội dung biên soạn mới; provenance có thể lưu bằng tag/front matter/HTML comment ẩn.
-- Ở cuối mỗi mục, thêm `영어 참고` với keyword tiếng Anh tương đương gần nhất, nhưng phần giải thích phạm vi nghĩa và khác biệt cách dùng phải chủ yếu bằng tiếng Việt. Đây là refer để nối mạng lưới ngôn ngữ, không thay thế giải thích tiếng Hàn.
+- Ở cuối mỗi mục, thêm `영어 참고` với keyword tiếng Anh tương đương gần nhất, nhưng phần giải thích phạm vi nghĩa và khác biệt cách dùng phải bằng tiếng Việt. Đây là refer để nối mạng lưới ngôn ngữ, không thay thế phần giải thích Korean trong `핵심 의미` hay ví dụ.
 - Dùng đường phân cách Markdown `---` giữa hai mục từ mới; không dùng đường này để chia nhỏ các phần bên trong cùng một mục.
 - Khi file còn thiếu chiều sâu, ưu tiên bổ sung theo thứ tự: phát âm/biến âm, 문형 và 논항, register theo quan hệ xã hội, 연어/chunk, bản đồ từ gần nghĩa, bài tập đọc–hồi tưởng và metadata ôn tập ẩn. Chỉ thêm mục nào giúp phân biệt hoặc dùng được từ, tránh biến mỗi entry thành một danh sách metadata máy móc.
 - Có thể bổ sung các từ ngoài nhóm hiện tại nếu chúng giúp tạo thành một chủ đề hoàn chỉnh. Không cần và không nên giữ thứ tự PDF; PDF chỉ là nguồn tham khảo để phát hiện và kiểm tra mục từ.

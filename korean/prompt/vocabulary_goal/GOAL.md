@@ -64,7 +64,7 @@ Every headword in `target_set` must appear naturally in the passage. Do not turn
 
 ## Entry requirements
 
-Keep the format used by the existing Korean lessons: the title is the Korean word or phrase, `품사` appears directly below it, followed by core meaning, Vietnamese meaning, mental image and nuance, reusable collocations/chunks, sentence patterns and typical arguments, register by social relationship/topic, natural examples, `어휘 연결`, and `영어 참고`. Add pronunciation, sound changes, near-synonyms, or unusable contexts when they help learners distinguish and use the item correctly.
+Keep the format used by the existing Korean lessons: the title is the Korean word or phrase, `품사` appears directly below it, followed by core meaning, Vietnamese meaning, mental image and nuance, reusable collocations/chunks, sentence patterns and typical arguments, register by social relationship/topic, natural examples, `어휘 연결`, and `영어 참고`. In `뉘앙스와 사용법`, collocations/chunks, sentence patterns/components, register, and `영어 참고`, Vietnamese must carry roughly 90–100% of the explanation. Preserve Korean/English lookup keywords and put Vietnamese glosses beside them. Add pronunciation, sound changes, near-synonyms, or unusable contexts when they help learners distinguish and use the item correctly.
 
 Prefer natural Korean from daily life, 잡담, workplaces, journalism, and contemporary discourse. If an item is rare, archaic, specialized, slang, or dictionary-correct but unnatural in ordinary contexts, state its limitation and provide a more natural native alternative.
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** cấp cứu, khẩn cấp.
 
-**뉘앙스와 사용법:** 단순히 중요하다는 뜻보다 시간 지연이 생명·안전에 영향을 주는 상태를 말한다.
+**뉘앙스와 사용법:** Đề cập đến trạng thái trong đó việc trì hoãn thời gian ảnh hưởng đến tính mạng và sự an toàn thay vì chỉ có nghĩa là điều đó quan trọng.
 
-**재사용 가능한 콜로케이션·청크:** `응급 상황`, `응급실`, `응급 처치`, `응급 환자`.
+**재사용 가능한 콜로케이션·청크:** `응급 상황`, `응급실`, `응급 처치`, `응급 환자`. — `cấp cứu`, `phòng cấp cứu`, `sơ cứu`, `bệnh nhân cấp cứu`.
 
-**자주 쓰는 문형과 성분:** `응급 상황이 발생하다`; `응급 처치를 하다`; 사고·질병·부상과 결합한다.
+**자주 쓰는 문형과 성분:** `응급 상황이 발생하다`, `응급 처치를 하다`, `Xảy ra trường hợp khẩn cấp`, `sơ cứu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·재난·안전 안내의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho thông tin y tế, thảm họa và an toàn.
 
 **예문:** 의식이 없으면 즉시 119에 신고하고 응급 처치를 시작해야 한다.
 
-**어휘 연결:** `긴급`은 시간이 촉박함, `응급`은 의료·안전상 즉시 조치가 필요한 상태, `비상`은 평상시가 아닌 위기 대응 체계를 뜻한다.
+**Dịch:** Nếu bất tỉnh, hãy gọi 119 ngay lập tức và bắt đầu sơ cứu.
 
-**영어 참고:** *emergency*, *urgent*, *acute* — *emergency*는 위기 상황, *urgent*는 즉시 처리가 필요함, *acute*는 의학적으로 갑작스럽고 심함을 말한다.
+**어휘 연결:** `긴급`은 시간이 촉박함, `응급`은 의료·안전상 즉시 조치가 필요한 상태, `비상`은 평상시가 아닌 위기 대응 체계를 뜻한다. — 'Cấp cứu' có nghĩa là thời gian sắp hết, 'Cấp cứu' có nghĩa là tình huống cần các biện pháp an toàn và y tế ngay lập tức và 'Cấp cứu' có nghĩa là một hệ thống ứng phó khủng hoảng không bình thường.
+
+**영어 참고:** *emergency*, *urgent*, *acute* — *khẩn cấp* đề cập đến tình huống khủng hoảng, *khẩn cấp* đề cập đến việc điều trị ngay lập tức và *cấp tính* đề cập đến tình trạng bệnh lý nghiêm trọng và đột ngột.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** xử trí, sơ cứu, biện pháp xử lý.
 
-**뉘앙스와 사용법:** 병을 완전히 고치는 `치료`보다 당장 필요한 응급·현장 조치에 초점이 있다.
+**뉘앙스와 사용법:** Trọng tâm là các biện pháp khẩn cấp và thực địa ngay lập tức thay vì 'điều trị' để chữa khỏi bệnh hoàn toàn.
 
-**재사용 가능한 콜로케이션·청크:** `응급 처치`, `초기 처치`, `처치를 받다`, `현장 처치`.
+**재사용 가능한 콜로케이션·청크:** `응급 처치`, `초기 처치`, `처치를 받다`, `현장 처치`. — 'Sơ cứu', 'Sơ cứu ban đầu', 'Tiếp nhận điều trị', 'Điều trị tại chỗ'.
 
-**자주 쓰는 문형과 성분:** `N을/를 처치하다`; `처치를 받다`; 상처·출혈·화상·골절과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 처치하다`, `처치를 받다`, `Giết N`, `được điều trị` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·구급·안전 교육의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho giáo dục y tế, cấp cứu và an toàn.
 
 **예문:** 구급대원은 출혈 부위에 먼저 압박 처치를 했다.
 
-**어휘 연결:** `조치`는 문제에 대한 대응 일반, `처치`는 몸의 부상·증상에 대한 현장 대응, `치료`는 진단 뒤 회복을 위한 의료 행위다.
+**Dịch:** Nhân viên y tế lần đầu tiên ấn lên vùng đang chảy máu.
 
-**영어 참고:** *treatment*, *first aid*, *medical management* — *first aid*는 응급 처치, *treatment*는 치료 전반, *medical management*는 의료적 관리다.
+**어휘 연결:** `조치`는 문제에 대한 대응 일반, `처치`는 몸의 부상·증상에 대한 현장 대응, `치료`는 진단 뒤 회복을 위한 의료 행위다. — 'Hành động' là phản hồi chung cho một vấn đề, 'điều trị' là phản hồi tại chỗ đối với các triệu chứng và tổn thương thực thể, và 'điều trị' là hành động y tế để phục hồi sau khi chẩn đoán.
+
+**영어 참고:** *treatment*, *first aid*, *medical management* — *sơ cứu* là sơ cứu, *điều trị* là điều trị tổng thể và *quản lý y tế* là quản lý y tế.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** sơ tán, di tản.
 
-**뉘앙스와 사용법:** 단순히 장소를 떠나는 것보다 위험 지역에서 체계적으로 빠져나와 안전을 확보한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là đảm bảo an toàn bằng cách thoát khỏi khu vực nguy hiểm một cách có hệ thống thay vì chỉ rời khỏi khu vực đó.
 
-**재사용 가능한 콜로케이션·청크:** `대피 명령`, `대피로`, `신속한 대피`, `대피소로 이동하다`.
+**재사용 가능한 콜로케이션·청크:** `대피 명령`, `대피로`, `신속한 대피`, `대피소로 이동하다`. — `Lệnh sơ tán`, `Tuyến đường sơ tán`, `Sơ tán nhanh`, `Di chuyển đến nơi trú ẩn`.
 
-**자주 쓰는 문형과 성분:** `N에서 대피하다`; `대피를 안내하다`; 화재·홍수·지진·전쟁과 결합한다.
+**자주 쓰는 문형과 성분:** `N에서 대피하다`, `대피를 안내하다`, `Di tản khỏi N`, `Hướng dẫn sơ tán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재난·안전·군사·공공 안내의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho thông tin về thiên tai, an toàn, quân sự và công cộng.
 
 **예문:** 연기가 퍼지자 직원들은 안내 방송에 따라 가까운 대피로를 이용했다.
 
-**어휘 연결:** `피난`은 전쟁·재난을 피해 떠남, `대피`는 정해진 절차로 안전한 곳으로 이동, `대비`는 위험이 오기 전 준비함이다.
+**Dịch:** Khi khói lan rộng, nhân viên đã làm theo thông báo và sử dụng tuyến đường sơ tán gần đó.
 
-**영어 참고:** *evacuation*, *shelter*, *retreat* — *evacuation*은 위험 지역에서 대피, *shelter*는 보호 장소, *retreat*는 물러남이나 후퇴를 뜻한다.
+**어휘 연결:** `피난`은 전쟁·재난을 피해 떠남, `대피`는 정해진 절차로 안전한 곳으로 이동, `대비`는 위험이 오기 전 준비함이다. — 'Sơ tán' có nghĩa là rời đi để tránh chiến tranh hoặc thảm họa, 'sơ tán' có nghĩa là di chuyển đến một nơi an toàn theo các quy trình đã được thiết lập và 'chuẩn bị' có nghĩa là chuẩn bị trước khi nguy hiểm đến.
+
+**영어 참고:** *evacuation*, *shelter*, *retreat* — *sơ tán* có nghĩa là sơ tán khỏi khu vực nguy hiểm, *nơi trú ẩn* có nghĩa là nơi bảo vệ và *rút lui* có nghĩa là rút lui hoặc rút lui.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** thiết bị bảo hộ.
 
-**뉘앙스와 사용법:** 안전모·보안경·장갑·마스크처럼 위험의 종류에 맞는 장비를 통칭한다.
+**뉘앙스와 사용법:** Thuật ngữ chung cho thiết bị phù hợp với loại rủi ro, chẳng hạn như mũ cứng, kính an toàn, găng tay và khẩu trang.
 
-**재사용 가능한 콜로케이션·청크:** `보호장비를 착용하다`, `개인 보호장비`, `보호장비 점검`, `보호장비 지급`.
+**재사용 가능한 콜로케이션·청크:** `보호장비를 착용하다`, `개인 보호장비`, `보호장비 점검`, `보호장비 지급`. — `Mang thiết bị bảo hộ`, `Thiết bị bảo hộ cá nhân`, `Kiểm tra thiết bị bảo hộ`, `Cấp thiết bị bảo hộ`.
 
-**자주 쓰는 문형과 성분:** `보호장비를 착용하다/지급하다`; 작업·실험·공사·구조와 결합한다.
+**자주 쓰는 문형과 성분:** `보호장비를 착용하다/지급하다`, `Mang/cung cấp thiết bị bảo hộ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업안전·의료·재난·스포츠의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về an toàn công nghiệp, chăm sóc y tế, thảm họa và thể thao.
 
 **예문:** 실험실에 들어갈 때는 보호장비를 빠짐없이 착용해야 한다.
 
-**어휘 연결:** `안전용품`은 넓은 생활용품, `보호장비`는 특정 위험을 막는 전문 장비, `복장`은 장비보다 옷차림 전체를 뜻한다.
+**Dịch:** Khi vào phòng thí nghiệm, bạn phải mặc tất cả các thiết bị bảo hộ.
 
-**영어 참고:** *personal protective equipment (PPE)*, *protective gear*, *safety equipment* — *PPE*가 산업안전의 표준 용어이고, *protective gear*는 스포츠·현장에도 넓게 쓴다.
+**어휘 연결:** `안전용품`은 넓은 생활용품, `보호장비`는 특정 위험을 막는 전문 장비, `복장`은 장비보다 옷차림 전체를 뜻한다. — 'Sản phẩm an toàn' nói đến những nhu cầu thiết yếu hàng ngày, 'thiết bị bảo hộ' nói đến thiết bị chuyên dụng giúp ngăn ngừa các mối nguy hiểm cụ thể và 'quần áo' nói đến toàn bộ trang phục thay vì thiết bị.
+
+**영어 참고:** *personal protective equipment (PPE)*, *protective gear*, *safety equipment* — *PPE* là thuật ngữ tiêu chuẩn cho an toàn công nghiệp và *đồ bảo hộ* cũng được sử dụng rộng rãi trong thể thao và lĩnh vực.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** khử trùng, sát khuẩn.
 
-**뉘앙스와 사용법:** 단순한 청소보다 미생물과 감염 관리에 초점이 있다. 방법과 대상에 따라 `소독하다`, `소독제`를 쓴다.
+**뉘앙스와 사용법:** Tập trung vào vi sinh vật và kiểm soát nhiễm trùng hơn là làm sạch đơn giản. Tùy thuộc vào phương pháp và đối tượng, 'khử trùng' và 'chất khử trùng' được sử dụng.
 
-**재사용 가능한 콜로케이션·청크:** `손 소독`, `시설 소독`, `소독제를 사용하다`, `정기 소독`.
+**재사용 가능한 콜로케이션·청크:** `손 소독`, `시설 소독`, `소독제를 사용하다`, `정기 소독`. — ‘Khử trùng tay’, ‘Khử trùng cơ sở’, ‘Sử dụng chất khử trùng’, ‘Khử trùng thường xuyên’.
 
-**자주 쓰는 문형과 성분:** `N을/를 소독하다`; 손·도구·병실·표면과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 소독하다`, `Khử trùng N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·식품·공공시설·방역의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về chăm sóc y tế, thực phẩm, cơ sở công cộng và kiểm dịch.
 
 **예문:** 여러 사람이 만지는 손잡이는 하루에 몇 번씩 소독한다.
 
-**어휘 연결:** `세척`은 먼지·오염을 씻어 냄, `소독`은 병원체를 줄임, `멸균`은 미생물을 거의 모두 없애는 더 엄격한 처리다.
+**Dịch:** Tay cầm được nhiều người chạm vào sẽ được khử trùng nhiều lần trong ngày.
 
-**영어 참고:** *disinfection*, *sanitization*, *sterilization* — *disinfection*은 병원체 감소, *sanitization*은 위생 수준 확보, *sterilization*은 완전한 멸균을 목표로 한다.
+**어휘 연결:** `세척`은 먼지·오염을 씻어 냄, `소독`은 병원체를 줄임, `멸균`은 미생물을 거의 모두 없애는 더 엄격한 처리다. — 'Giặt' sẽ rửa sạch bụi và ô nhiễm, 'khử trùng' làm giảm mầm bệnh và 'khử trùng' là phương pháp xử lý nghiêm ngặt hơn giúp loại bỏ hầu hết tất cả vi sinh vật.
+
+**영어 참고:** *disinfection*, *sanitization*, *sterilization* — *khử trùng* nhằm mục đích giảm mầm bệnh, *khử trùng* nhằm đảm bảo mức độ vệ sinh và *khử trùng* nhằm mục đích khử trùng hoàn toàn.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** nhiễm trùng, lây nhiễm.
 
-**뉘앙스와 사용법:** 병원체에 노출되는 것과 실제 감염되는 것은 다를 수 있다. 사람 사이의 전파와 개인의 감염을 구분한다.
+**뉘앙스와 사용법:** Việc tiếp xúc với mầm bệnh và tình trạng lây nhiễm thực tế có thể khác nhau. Phân biệt giữa lây truyền từ người sang người và lây nhiễm cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `감염 위험`, `감염 경로`, `감염을 예방하다`, `감염이 확산되다`.
+**재사용 가능한 콜로케이션·청크:** `감염 위험`, `감염 경로`, `감염을 예방하다`, `감염이 확산되다`. — `Nguy cơ lây nhiễm`, `Con đường lây nhiễm`, `Ngăn ngừa lây nhiễm`, `Lây nhiễm`.
 
-**자주 쓰는 문형과 성분:** `N에 감염되다`; `감염을 막다`; 바이러스·세균·기생충·상처와 결합한다.
+**자주 쓰는 문형과 성분:** `N에 감염되다`, `감염을 막다`, `bị nhiễm N`, `ngăn ngừa nhiễm trùng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·역학·공공보건의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho y học, dịch tễ học và sức khỏe cộng đồng.
 
 **예문:** 손을 씻고 환기를 하면 호흡기 감염 위험을 낮출 수 있다.
 
-**어휘 연결:** `전염`은 사람 사이로 병이 옮겨 감, `감염`은 병원체가 몸에 들어간 상태, `전파`는 정보·질병·현상이 퍼지는 과정을 넓게 말한다.
+**Dịch:** Rửa tay và thông gió có thể làm giảm nguy cơ nhiễm trùng đường hô hấp.
 
-**영어 참고:** *infection*, *contagion*, *transmission* — *infection*은 몸의 감염, *contagion*은 전염성, *transmission*은 병원체가 옮겨 가는 경로다.
+**어휘 연결:** `전염`은 사람 사이로 병이 옮겨 감, `감염`은 병원체가 몸에 들어간 상태, `전파`는 정보·질병·현상이 퍼지는 과정을 넓게 말한다. — 'Lây nhiễm' đề cập đến sự di chuyển của một căn bệnh giữa con người, 'lây nhiễm' đề cập đến trạng thái mầm bệnh xâm nhập vào cơ thể và 'lây nhiễm' nói chung là quá trình lan truyền thông tin, bệnh tật hoặc hiện tượng.
+
+**영어 참고:** *infection*, *contagion*, *transmission* — *lây nhiễm* là sự lây nhiễm của cơ thể, *lây nhiễm* là bệnh truyền nhiễm và *lây truyền* là con đường mà mầm bệnh di chuyển.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** cứu hộ, cứu nạn, giải cứu.
 
-**뉘앙스와 사용법:** 사고 현장의 인명 구조부터 무너진 건물의 수색까지 전문적인 활동을 가리킨다.
+**뉘앙스와 사용법:** Đề cập đến các hoạt động chuyên môn từ cứu người tại hiện trường vụ tai nạn đến tìm kiếm tòa nhà bị sập.
 
-**재사용 가능한 콜로케이션·청크:** `인명 구조`, `구조 작업`, `구조대`, `구조 신호`.
+**재사용 가능한 콜로케이션·청크:** `인명 구조`, `구조 작업`, `구조대`, `구조 신호`. — `cứu hộ`, `hoạt động cứu hộ`, `đội cứu hộ`, `tín hiệu cứu hộ`.
 
-**자주 쓰는 문형과 성분:** `N을/를 구조하다`; `구조에 나서다`; 재난·해상·산악·교통사고와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 구조하다`, `구조에 나서다`, `Cứu N`, `Hãy đến giải cứu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재난·소방·해경·뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho thảm họa, cứu hỏa, bảo vệ bờ biển và tin tức.
 
 **예문:** 구조대는 어두워지기 전에 고립된 등산객을 안전하게 데려왔다.
 
-**어휘 연결:** `구호`는 피해자를 돕는 지원 활동, `구조`는 위험에서 직접 구해 냄, `대피`는 위험을 피해 스스로 안전한 곳으로 이동함이다.
+**Dịch:** Lực lượng cứu hộ đã đưa người đi bộ đường dài bị mắc kẹt đến nơi an toàn trước khi trời tối.
 
-**영어 참고:** *rescue*, *relief*, *search and rescue* — *rescue*는 구출, *relief*는 피해 지원, *search and rescue*는 수색과 구조를 함께 수행하는 활동이다.
+**어휘 연결:** `구호`는 피해자를 돕는 지원 활동, `구조`는 위험에서 직접 구해 냄, `대피`는 위험을 피해 스스로 안전한 곳으로 이동함이다. — 'Cứu trợ' đề cập đến các hoạt động hỗ trợ giúp đỡ nạn nhân, 'cứu hộ' đề cập đến việc trực tiếp giải cứu một người khỏi nguy hiểm và 'sơ tán' đề cập đến việc tự mình di chuyển đến nơi an toàn để tránh nguy hiểm.
+
+**영어 참고:** *rescue*, *relief*, *search and rescue* — *cứu hộ* là cứu hộ, *cứu trợ* là hỗ trợ thiệt hại và *tìm kiếm và cứu hộ* là hoạt động bao gồm cả tìm kiếm và cứu hộ.
 
 ---
 

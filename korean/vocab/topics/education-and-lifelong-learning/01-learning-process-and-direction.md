@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** chương trình giáo dục.
 
-**뉘앙스와 사용법:** 단순한 과목 목록보다 목표·내용·평가를 포함하는 공식적인 설계를 말한다.
+**뉘앙스와 사용법:** Đề cập đến thiết kế chính thức bao gồm mục tiêu, nội dung và đánh giá thay vì danh sách chủ đề đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `교육과정 개편`, `교육과정에 포함되다`, `국가 교육과정`, `교육과정 운영`.
+**재사용 가능한 콜로케이션·청크:** `교육과정 개편`, `교육과정에 포함되다`, `국가 교육과정`, `교육과정 운영`. — 'Cải cách chương trình giảng dạy', 'Đưa vào chương trình giảng dạy', 'Chương trình giảng dạy quốc gia', 'Hoạt động chương trình giảng dạy'.
 
-**자주 쓰는 문형과 성분:** `교육과정을 + 설계하다/개정하다`; 학교·학년·과목·정책과 결합한다.
+**자주 쓰는 문형과 성분:** `교육과정을 + 설계하다/개정하다`, `Thiết kế/sửa đổi chương trình giảng dạy` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학교 행정·정책·교육 연구에서 쓰는 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức được sử dụng trong nghiên cứu giáo dục, chính sách và quản lý trường học.
 
 **예문:** 새 교육과정은 실제 문제를 해결하는 활동을 더 많이 포함한다.
 
-**어휘 연결:** `교육과정`은 전체 설계, `교과`는 특정 지식 영역, `수업`은 실제로 진행되는 교수 활동이다.
+**Dịch:** Chương trình giảng dạy mới bao gồm nhiều hoạt động hơn nhằm giải quyết các vấn đề trong thế giới thực.
 
-**영어 참고:** *curriculum*, *syllabus*, *program* — *curriculum*은 교육 전체 설계, *syllabus*는 한 과목의 세부 계획이다.
+**어휘 연결:** `교육과정`은 전체 설계, `교과`는 특정 지식 영역, `수업`은 실제로 진행되는 교수 활동이다. — 'Chương trình giảng dạy' là thiết kế tổng thể, 'chủ đề' là một lĩnh vực kiến ​​thức cụ thể và 'lớp học' là hoạt động giảng dạy thực tế.
+
+**영어 참고:** *curriculum*, *syllabus*, *program* — *chương trình giảng dạy* là thiết kế giáo dục tổng thể và *giáo trình* là kế hoạch chi tiết cho một môn học.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** môn học, lĩnh vực môn học.
 
-**뉘앙스와 사용법:** `국어`, `수학`, `과학`처럼 제도 안에서 구분된 과목 영역을 말하며 다소 공식적이다.
+**뉘앙스와 사용법:** Đề cập đến các lĩnh vực chủ đề được phân chia trong hệ thống, chẳng hạn như 'tiếng Hàn', 'toán học' và 'khoa học' và có phần trang trọng.
 
-**재사용 가능한 콜로케이션·청크:** `교과 지식`, `교과서`, `교과 간 연계`, `교과 수업`.
+**재사용 가능한 콜로케이션·청크:** `교과 지식`, `교과서`, `교과 간 연계`, `교과 수업`. — `Kiến thức môn học`, `Sách giáo khoa`, `Liên kết giữa các môn học`, `Hướng dẫn môn học`.
 
-**자주 쓰는 문형과 성분:** `교과를 + 선택하다/통합하다`; 지식·교사·수업·평가와 결합한다.
+**자주 쓰는 문형과 성분:** `교과를 + 선택하다/통합하다`, `Chọn/Tích hợp + Chủ đề` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학교 행정과 교육학에서 주로 쓰고 일상에서는 `과목`이 더 흔하다.
+**사회적 관계·주제별 register:** Chủ yếu được sử dụng trong quản lý và giáo dục trong trường học và 'chủ đề' được sử dụng phổ biến hơn trong cuộc sống hàng ngày.
 
 **예문:** 여러 교과를 연결한 프로젝트라서 학생들의 역할 분담이 중요했다.
 
-**어휘 연결:** `교과`는 제도적 학문 영역, `과목`은 시간표의 한 과목, `분야`는 학교 밖에도 쓰는 더 넓은 말이다.
+**Dịch:** Vì đây là dự án kết nối nhiều môn học nên việc phân chia vai trò giữa các học sinh là rất quan trọng.
 
-**영어 참고:** *subject area*, *school subject*, *discipline* — *discipline*은 학문 분야의 전문성이 더 강하다.
+**어휘 연결:** `교과`는 제도적 학문 영역, `과목`은 시간표의 한 과목, `분야`는 학교 밖에도 쓰는 더 넓은 말이다. — 'Chủ đề' là một lĩnh vực học thuật của tổ chức, 'chủ đề' là một chủ đề trên thời khóa biểu và 'lĩnh vực' là một từ rộng hơn cũng được sử dụng bên ngoài trường học.
+
+**영어 참고:** *subject area*, *school subject*, *discipline* — *ngành* có kiến ​​thức chuyên môn vững vàng hơn trong lĩnh vực học thuật.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** mức độ thành tích, mức độ đạt được.
 
-**뉘앙스와 사용법:** 학습 결과를 수치나 단계로 비교할 때 쓰며, 사람 전체의 능력과 동일시하면 부자연스럽거나 부담을 줄 수 있다.
+**뉘앙스와 사용법:** Được sử dụng khi so sánh kết quả học tập theo con số hoặc số bước và đánh giá nó với khả năng của toàn bộ con người có thể không tự nhiên hoặc nặng nề.
 
-**재사용 가능한 콜로케이션·청크:** `학업 성취도`, `성취도 평가`, `성취도가 높다`, `성취도 격차`.
+**재사용 가능한 콜로케이션·청크:** `학업 성취도`, `성취도 평가`, `성취도가 높다`, `성취도 격차`. — `Thành tích học tập`, `Đánh giá thành tích`, `Thành tích cao`, `Khoảng cách thành tích`.
 
-**자주 쓰는 문형과 성분:** `성취도를 + 높이다/측정하다`; 목표·학습자·점수·격차와 결합한다.
+**자주 쓰는 문형과 성분:** `성취도를 + 높이다/측정하다`, `+ tăng/đo lường thành tích` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육 연구·정책·평가 보고서의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho các báo cáo đánh giá, chính sách và nghiên cứu giáo dục.
 
 **예문:** 단기간의 점수보다 학습 목표에 대한 성취도를 차분히 확인했다.
 
-**어휘 연결:** `성취도`는 목표 달성 수준, `성적`은 시험과 과제의 결과, `실력`은 실제로 발휘할 수 있는 능력을 더 넓게 말한다.
+**Dịch:** Tôi bình tĩnh kiểm tra việc đạt được mục tiêu học tập hơn là điểm số ngắn hạn.
 
-**영어 참고:** *achievement level*, *attainment*, *learning outcomes* — *learning outcomes*는 학습 후 도달해야 할 결과를 강조한다.
+**어휘 연결:** `성취도`는 목표 달성 수준, `성적`은 시험과 과제의 결과, `실력`은 실제로 발휘할 수 있는 능력을 더 넓게 말한다. — 'Thành tích' ám chỉ mức độ đạt được mục tiêu, 'điểm' ám chỉ kết quả của các bài kiểm tra và bài tập, và 'kỹ năng' ám chỉ rộng hơn khả năng có thể được thể hiện trên thực tế.
+
+**영어 참고:** *achievement level*, *attainment*, *learning outcomes* — *kết quả học tập* nhấn mạnh kết quả phải đạt được sau khi học.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** năng lực đọc hiểu và sử dụng thông tin.
 
-**뉘앙스와 사용법:** 글자를 읽는 기초 능력보다 맥락·주장·근거를 해석하는 폭넓은 능력을 포함한다.
+**뉘앙스와 사용법:** Bao gồm khả năng diễn giải ngữ cảnh, tuyên bố và bằng chứng rộng hơn thay vì khả năng đọc văn bản cơ bản.
 
-**재사용 가능한 콜로케이션·청크:** `문해력 교육`, `디지털 문해력`, `문해력이 높다`, `문해력 격차`.
+**재사용 가능한 콜로케이션·청크:** `문해력 교육`, `디지털 문해력`, `문해력이 높다`, `문해력 격차`. — `Giáo dục xóa mù chữ`, `Trình độ kỹ thuật số`, `Trình độ đọc viết cao`, `Khoảng cách về trình độ đọc viết`.
 
-**자주 쓰는 문형과 성분:** `문해력을 + 기르다/높이다`; 읽기·정보·미디어·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `문해력을 + 기르다/높이다`, ` trau dồi/ nâng cao khả năng đọc viết` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·사회 정책·미디어 비평에서 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong giáo dục, chính sách xã hội và phê bình truyền thông.
 
 **예문:** 문해력이 있으면 기사에 제시된 주장과 근거를 구분하기 쉽다.
 
-**어휘 연결:** `문해력`은 글과 정보의 이해·활용, `독해력`은 읽은 글의 내용 파악, `정보 활용 능력`은 디지털 자료까지 더 넓게 포함한다.
+**Dịch:** Nếu bạn có kỹ năng đọc viết, bạn có thể dễ dàng phân biệt giữa các tuyên bố và bằng chứng được trình bày trong bài viết.
 
-**영어 참고:** *literacy*, *reading comprehension*, *information literacy* — *literacy*는 디지털·미디어 등과 결합해 영역을 넓힐 수 있다.
+**어휘 연결:** `문해력`은 글과 정보의 이해·활용, `독해력`은 읽은 글의 내용 파악, `정보 활용 능력`은 디지털 자료까지 더 넓게 포함한다. — 'Biết chữ' đề cập đến sự hiểu biết và sử dụng văn bản và thông tin, 'Đọc hiểu' bao gồm nắm bắt nội dung của văn bản đã đọc và 'Khả năng sử dụng thông tin' nói chung bao gồm các tài liệu kỹ thuật số.
+
+**영어 참고:** *literacy*, *reading comprehension*, *information literacy* — *biết chữ* có thể mở rộng phạm vi của nó bằng cách kết hợp với kỹ thuật số và phương tiện truyền thông.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** định hướng nghề nghiệp, con đường sự nghiệp.
 
-**뉘앙스와 사용법:** 당장 직업 하나를 정하는 것보다 관심·능력·가치관을 바탕으로 장기 방향을 탐색한다는 느낌이 있다.
+**뉘앙스와 사용법:** Có cảm giác khám phá hướng đi lâu dài dựa trên sở thích, khả năng, giá trị hơn là quyết định chọn công việc ngay.
 
-**재사용 가능한 콜로케이션·청크:** `진로를 탐색하다`, `진로 상담`, `진로 선택`, `진로 계획`.
+**재사용 가능한 콜로케이션·청크:** `진로를 탐색하다`, `진로 상담`, `진로 선택`, `진로 계획`. — `Khám phá nghề nghiệp`, `Tư vấn nghề nghiệp`, `Lựa chọn nghề nghiệp`, `Lập kế hoạch nghề nghiệp`.
 
-**자주 쓰는 문형과 성분:** `진로를 + 고민하다/정하다`; 적성·전공·직업·상담과 결합한다.
+**자주 쓰는 문형과 성분:** `진로를 + 고민하다/정하다`, `Xem xét/quyết định con đường sự nghiệp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학교 상담·취업·성인 학습에서 널리 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong tư vấn học đường, việc làm và học tập của người lớn.
 
 **예문:** 여러 분야의 사람을 만나 보면서 자신의 진로를 구체화했다.
 
-**어휘 연결:** `진로`는 앞으로의 방향, `직업`은 실제로 하는 일, `경력`은 지금까지 쌓은 경험과 이력이다.
+**Dịch:** Tôi đã định hình con đường sự nghiệp của mình bằng cách gặp gỡ mọi người ở nhiều lĩnh vực khác nhau.
 
-**영어 참고:** *career path*, *career direction*, *vocational guidance* — *career path*는 장기적인 직업 방향, *guidance*는 상담·지도 과정이다.
+**어휘 연결:** `진로`는 앞으로의 방향, `직업`은 실제로 하는 일, `경력`은 지금까지 쌓은 경험과 이력이다. — ‘Sự nghiệp’ là định hướng tương lai, ‘Công việc’ là những gì bạn thực sự làm và ‘Sự nghiệp’ là kinh nghiệm và lịch sử bạn đã tích lũy cho đến nay.
+
+**영어 참고:** *career path*, *career direction*, *vocational guidance* — *con đường sự nghiệp* là định hướng nghề nghiệp lâu dài và *hướng dẫn* là một quá trình tư vấn và hướng dẫn.
 
 ---
 

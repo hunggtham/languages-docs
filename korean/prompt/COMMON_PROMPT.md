@@ -3,7 +3,10 @@
 Mọi nội dung Korean mặc định phải tuân theo prompt này, sau đó mới áp dụng prompt chuyên biệt của từng loại tài liệu và yêu cầu của task hiện tại.
 
 - Viết như tài liệu học thực sự: mạch lạc, tự nhiên, self-contained và ưu tiên hiểu bản chất hơn học thuộc.
-- Chủ yếu dùng tiếng Hàn; dùng tiếng Việt ngay tại chỗ khi cần để người đọc hiểu mà không phải tự dịch thêm. Khi hữu ích, note thuật ngữ theo Korean / English / Vietnamese.
+- Korean là ngôn ngữ của title, heading, tên lesson, ví dụ và các keyword cần tra cứu; tiếng Việt là ngôn ngữ giải thích chính. Riêng `뉘앙스와 사용법`, `재사용 가능한 콜로케이션·청크`, `자주 쓰는 문형과 성분`, `사회적 관계·주제별 register` và `영어 참고`, phần giải thích phải bằng tiếng Việt khoảng 90–100%. Nếu giữ một keyword/cụm tiếng Hàn, phải đặt nghĩa tiếng Việt ngay bên cạnh bằng `—` hoặc trong ngoặc.
+- Không để người học phải tự dịch phần giải thích. Các cụm/câu tiếng Hàn dùng để minh họa phải có gloss tiếng Việt ngay sau đó; ví dụ tiếng Hàn phải có bản dịch tiếng Việt.
+- `영어 참고` luôn giữ từ/cụm tiếng Anh để nối mạng lưới từ vựng, nhưng toàn bộ giải thích về phạm vi nghĩa, sắc thái và khác biệt phải bằng tiếng Việt; không giải thích phần này bằng tiếng Hàn.
+- Khi biên soạn hoặc rà soát Korean vocabulary, đối chiếu format và độ sâu với `prompt/COMMON_PROMPT.md`, `prompt/VOCAB_PROMPT.md`, `english/lessons/vocabulary/AGENTS.md`, `english/lessons/vocabulary/cefr/README.md` và các lesson English gần chủ đề. English chỉ là chuẩn về mental model, collocation, grammar, register và mạng lưới nghĩa; không sao chép wording hay ví dụ.
 - Mọi title, heading, tên lesson, tên section và nhãn điều hướng hiển thị cho người học phải thống nhất bằng tiếng Hàn; không trộn tiếng Anh/tiếng Việt vào title. Tiếng Việt chỉ dùng trong phần giải thích, bản dịch hoặc note hỗ trợ bên dưới.
 - Không dùng các title quản trị kiểu “batch đầu tiên”, “15 từ đầu” hoặc title phản ánh thứ tự của nguồn nếu chúng không giúp việc học. Có thể thay bằng title chủ đề tiếng Hàn có ý nghĩa đối với người học.
 - Hướng đến native-level Korean: mục tiêu là hiểu, suy nghĩ và lựa chọn cách diễn đạt tự nhiên như người Hàn trưởng thành, không viết theo kiểu giáo trình dành cho người nước ngoài.
@@ -12,7 +15,7 @@ Mọi nội dung Korean mặc định phải tuân theo prompt này, sau đó m�
 - Difficulty floor: target mới phải khó hơn từ giao tiếp cơ bản. Ưu tiên từ C2-equivalent, thuật ngữ và cụm diễn đạt có mật độ cao trong báo chí/chính luận, hoặc cách nói khẩu ngữ/slang có sắc thái mà người Hàn hiện nay thực sự dùng; không dùng danh từ đời thường chỉ vì chúng tiện để đủ số lượng.
 - Lấy contemporary Korean thực tế làm chuẩn, đặc biệt từ hội thoại native, 잡담, đời sống, công sở, báo chí và thời sự.
 - Giải thích theo luồng kiến thức tự nhiên; tránh bullet, table và cấu trúc máy móc khi prose phù hợp hơn.
-- Ưu tiên mental model, core meaning, context, 뉘앙스, register, discourse và native usage.
+- Ưu tiên mental model, core meaning, context, 뉘앙스, register, discourse và native usage; trình bày mental model bằng tiếng Việt và giữ keyword Korean để người học nhận diện.
 - Chú ý những yếu tố quyết định độ tự nhiên của tiếng Hàn như 어미, 축약, 생략, 높임말/반말, khoảng cách xã hội và lựa chọn expression theo context.
 - Ví dụ phải tự nhiên, đúng ngữ cảnh và phản ánh cách người Hàn thực sự nói hoặc viết; tránh ví dụ mang cảm giác sách giáo khoa.
 - Trước khi tạo mới hoặc chỉnh sửa file, phải kiểm tra các file liên quan hiện có để giữ nhất quán về format, naming, cấu trúc, thứ tự lesson/file và convention của repository; không tự tạo một format hoặc thứ tự cạnh tranh nếu không có lý do rõ ràng.

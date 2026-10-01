@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** chính sách nhập cư.
 
-**뉘앙스와 사용법:** 국경 통제만이 아니라 인구·노동력·복지·시민권·차별 문제를 함께 다루는 종합 정책어다.
+**뉘앙스와 사용법:** Một từ chính sách toàn diện không chỉ đề cập đến việc kiểm soát biên giới mà còn cả các vấn đề về dân số, lực lượng lao động, phúc lợi, quyền công dân và phân biệt đối xử.
 
-**재사용 가능한 콜로케이션·청크:** `이민정책 개편`, `이민정책의 방향`, `포용적 이민정책`.
+**재사용 가능한 콜로케이션·청크:** `이민정책 개편`, `이민정책의 방향`, `포용적 이민정책`. — 'Cải cách chính sách nhập cư', 'Định hướng chính sách nhập cư', 'Chính sách nhập cư toàn diện'.
 
-**자주 쓰는 문형과 성분:** `정부가 이민정책을 수립하다`; 노동력·통합·귀화와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 이민정책을 수립하다`, `Chính phủ thiết lập chính sách nhập cư` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인구·노동·외교·인권 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách dân số, lao động, đối ngoại và nhân quyền.
 
 **예문:** 이민정책은 인력 부족을 메우는 데서 그치지 않고 정착과 권리 보장까지 포함해야 한다.
 
-**어휘 연결:** `출입국 관리`는 국경과 체류 행정이고, `이민정책`은 사회와 인구의 장기 방향까지 포함한다.
+**Dịch:** Chính sách nhập cư không chỉ phải giải quyết tình trạng thiếu nhân lực mà còn phải bao gồm việc giải quyết và đảm bảo quyền lợi.
 
-**영어 참고:** *immigration policy* — 외국인의 입국·체류·통합·귀화에 관한 국가 정책이다.
+**어휘 연결:** `출입국 관리`는 국경과 체류 행정이고, `이민정책`은 사회와 인구의 장기 방향까지 포함한다. — 'Quản lý nhập cư' là quản lý biên giới và cư trú, và 'chính sách nhập cư' bao gồm định hướng dài hạn của xã hội và dân số.
+
+**영어 참고:** *immigration policy* — Chính sách quốc gia liên quan đến việc nhập cảnh, lưu trú, hội nhập và nhập tịch của người nước ngoài.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** lao động di cư.
 
-**뉘앙스와 사용법:** 국적보다 노동 이동과 권리·고용 조건을 강조하며, 합법 체류 여부와 별개로 쓸 수 있다.
+**뉘앙스와 사용법:** Nhấn mạnh đến khả năng di chuyển lao động, quyền và điều kiện làm việc hơn là quốc tịch và có thể được sử dụng độc lập với thời gian lưu trú hợp pháp.
 
-**재사용 가능한 콜로케이션·청크:** `이주노동자 권리`, `이주노동자 고용`, `이주노동자 지원`.
+**재사용 가능한 콜로케이션·청크:** `이주노동자 권리`, `이주노동자 고용`, `이주노동자 지원`. — `Quyền của người lao động nhập cư`, `Việc làm của người lao động nhập cư`, `Hỗ trợ cho người lao động nhập cư`.
 
-**자주 쓰는 문형과 성분:** `이주노동자가 임금체불을 겪다`; 사업장·송출국·산재와 결합한다.
+**자주 쓰는 문형과 성분:** `이주노동자가 임금체불을 겪다`, `Lao động nhập cư bị không trả lương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동·인권·산업정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về lao động, nhân quyền và chính sách công nghiệp.
 
 **예문:** 이주노동자도 내국인과 같은 산업안전 교육과 산재 보상을 받아야 한다.
 
-**어휘 연결:** `외국인 노동자`는 국적을 강조하고, `이주노동자`는 이동의 배경과 노동권을 강조한다.
+**Dịch:** Người lao động nhập cư phải được đào tạo về an toàn công nghiệp và bồi thường tai nạn lao động giống như người giúp việc gia đình.
 
-**영어 참고:** *migrant worker* — 일자리를 위해 다른 지역이나 국가로 이동한 노동자다.
+**어휘 연결:** `외국인 노동자`는 국적을 강조하고, `이주노동자`는 이동의 배경과 노동권을 강조한다. — 'Lao động nước ngoài' nhấn mạnh vào quốc tịch và 'lao động nhập cư' nhấn mạnh vào nền tảng của phong trào và quyền lao động.
+
+**영어 참고:** *migrant worker* — Người lao động đã chuyển đến các khu vực hoặc quốc gia khác để làm việc.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tư cách lưu trú.
 
-**뉘앙스와 사용법:** 비자 종류보다 넓게 취업 범위·가족 동반·변경·연장·영주 가능성까지 포함한다.
+**뉘앙스와 사용법:** Rộng hơn loại thị thực, nó bao gồm phạm vi việc làm, các thành viên gia đình đi cùng, thay đổi, gia hạn và thường trú.
 
-**재사용 가능한 콜로케이션·청크:** `체류자격 변경`, `체류자격 연장`, `체류자격 외 활동`.
+**재사용 가능한 콜로케이션·청크:** `체류자격 변경`, `체류자격 연장`, `체류자격 외 활동`. — ‘Thay đổi tình trạng cư trú’, ‘Gia hạn tình trạng cư trú’, ‘Các hoạt động không phải tình trạng cư trú’.
 
-**자주 쓰는 문형과 성분:** `외국인이 체류자격을 변경하다`; 비자·취업·출입국과 결합한다.
+**자주 쓰는 문형과 성분:** `외국인이 체류자격을 변경하다`, `Người nước ngoài thay đổi tình trạng cư trú` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 출입국 행정·이민법·노동정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho quản lý nhập cư, luật nhập cư và chính sách lao động.
 
 **예문:** 유학생이 졸업 뒤 취업하려면 체류자격 변경 절차를 밟아야 한다.
 
-**어휘 연결:** `비자`는 입국 허가 문서이고, `체류자격`은 국내에서 할 수 있는 활동과 권한을 정한다.
+**Dịch:** Nếu sinh viên quốc tế muốn có việc làm sau khi tốt nghiệp, sinh viên đó phải làm thủ tục thay đổi tư cách lưu trú.
 
-**영어 참고:** *residence status* — 외국인이 체류하고 활동할 수 있는 법적 지위다.
+**어휘 연결:** `비자`는 입국 허가 문서이고, `체류자격`은 국내에서 할 수 있는 활동과 권한을 정한다. — 'Visa' là giấy phép nhập cảnh và 'tình trạng cư trú' xác định các hoạt động và quyền có thể được thực hiện trong nước.
+
+**영어 참고:** *residence status* — Đây là tư cách pháp lý cho phép người nước ngoài ở lại và tham gia các hoạt động.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** xét duyệt quy chế tị nạn.
 
-**뉘앙스와 사용법:** 진술의 신빙성·출신국 정보·법적 박해 사유를 종합하며, 심사 기간과 통역·법률 지원이 쟁점이다.
+**뉘앙스와 사용법:** Độ tin cậy của tuyên bố, thông tin về quốc gia xuất xứ và các lý do pháp lý cho việc đàn áp được kết hợp lại và giai đoạn xem xét, diễn giải và hỗ trợ pháp lý là các vấn đề.
 
-**재사용 가능한 콜로케이션·청크:** `난민심사 절차`, `난민심사 지연`, `난민심사 기준`.
+**재사용 가능한 콜로케이션·청크:** `난민심사 절차`, `난민심사 지연`, `난민심사 기준`. — 'Thủ tục sàng lọc người tị nạn', 'Sự chậm trễ sàng lọc người tị nạn', 'Tiêu chuẩn sàng lọc người tị nạn'.
 
-**자주 쓰는 문형과 성분:** `당국이 난민심사를 진행하다`; 신청자·박해·인정과 결합한다.
+**자주 쓰는 문형과 성분:** `당국이 난민심사를 진행하다`, `Chính quyền tiến hành sàng lọc người tị nạn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·인권·출입국 행정의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về luật quốc tế, nhân quyền và quản lý nhập cư.
 
 **예문:** 난민심사가 지나치게 지연되면 신청자는 장기간 불안정한 체류 상태에 놓인다.
 
-**어휘 연결:** `망명 신청`은 보호를 요청하는 행위이고, `난민심사`는 그 요청을 판단하는 행정·법적 절차다.
+**Dịch:** Nếu quá trình sàng lọc người tị nạn bị trì hoãn quá mức, người nộp đơn sẽ bị đưa vào tình trạng lưu trú không ổn định trong một thời gian dài.
 
-**영어 참고:** *refugee status determination* — 난민 인정 여부를 판단하는 공식 절차다.
+**어휘 연결:** `망명 신청`은 보호를 요청하는 행위이고, `난민심사`는 그 요청을 판단하는 행정·법적 절차다. — 'Đơn xin tị nạn' là hành động yêu cầu bảo vệ và 'sàng lọc người tị nạn' là thủ tục hành chính và pháp lý nhằm xác định yêu cầu.
+
+**영어 참고:** *refugee status determination* — Đây là thủ tục chính thức để xác định xem có công nhận người tị nạn hay không.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** hội nhập xã hội.
 
-**뉘앙스와 사용법:** 이주민이 일방적으로 동화되는 것이 아니라 언어·제도·문화가 상호 조정되는 장기 과정을 뜻한다.
+**뉘앙스와 사용법:** Điều này đề cập đến một quá trình lâu dài trong đó ngôn ngữ, hệ thống và văn hóa được điều chỉnh lẫn nhau chứ không phải là sự đồng hóa đơn phương của người nhập cư.
 
-**재사용 가능한 콜로케이션·청크:** `사회통합 정책`, `사회통합 프로그램`, `사회통합을 촉진하다`.
+**재사용 가능한 콜로케이션·청크:** `사회통합 정책`, `사회통합 프로그램`, `사회통합을 촉진하다`. — `Chính sách hội nhập xã hội`, `Chương trình hội nhập xã hội`, `Thúc đẩy hội nhập xã hội`.
 
-**자주 쓰는 문형과 성분:** `지자체가 사회통합을 지원하다`; 교육·언어·차별과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 사회통합을 지원하다`, `Chính quyền địa phương hỗ trợ hội nhập xã hội` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 이민·복지·지역사회 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách nhập cư, phúc lợi và cộng đồng.
 
 **예문:** 사회통합은 한국어 교육만이 아니라 주거와 노동시장의 차별을 줄이는 정책도 필요로 한다.
 
-**어휘 연결:** `동화`는 소수 집단이 주류 문화에 맞추는 방향이고, `사회통합`은 상호 참여와 제도적 포용을 강조한다.
+**Dịch:** Hội nhập xã hội không chỉ đòi hỏi giáo dục tiếng Hàn mà còn cần các chính sách nhằm giảm phân biệt đối xử trong nhà ở và thị trường lao động.
 
-**영어 참고:** *social integration* — 이주민과 기존 주민이 동등하게 사회에 참여하는 과정이다.
+**어휘 연결:** `동화`는 소수 집단이 주류 문화에 맞추는 방향이고, `사회통합`은 상호 참여와 제도적 포용을 강조한다. — 'Đồng hóa' là hướng trong đó các nhóm thiểu số phù hợp với văn hóa chính thống và 'hội nhập xã hội' nhấn mạnh sự tham gia lẫn nhau và hòa nhập thể chế.
+
+**영어 참고:** *social integration* — Đó là một quá trình trong đó người nhập cư và cư dân hiện tại tham gia bình đẳng vào xã hội.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** chế độ giấy phép lao động.
 
-**뉘앙스와 사용법:** 인력 수급과 노동권 보호를 조정하지만 사업장 이동 제한과 고용주의 의존성 문제가 발생할 수 있다.
+**뉘앙스와 사용법:** Điều phối cung và cầu nhân lực và bảo vệ quyền lao động, nhưng có thể nảy sinh những hạn chế về việc di chuyển đến nơi làm việc và các vấn đề phụ thuộc vào người sử dụng lao động.
 
-**재사용 가능한 콜로케이션·청크:** `노동허가제 개편`, `노동허가제 적용`, `허가 기간`.
+**재사용 가능한 콜로케이션·청크:** `노동허가제 개편`, `노동허가제 적용`, `허가 기간`. — `Cải cách hệ thống giấy phép lao động`, `Đơn xin hệ thống giấy phép lao động`, `Thời hạn giấy phép`.
 
-**자주 쓰는 문형과 성분:** `정부가 노동허가제를 운영하다`; 이주노동자·고용주·체류자격과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 노동허가제를 운영하다`, `Chính phủ vận hành hệ thống giấy phép lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동행정·이민·산업정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho quản lý lao động, nhập cư và chính sách công nghiệp.
 
 **예문:** 노동허가제는 사업장 변경권과 임금체불 구제 절차를 함께 보장해야 한다.
 
-**어휘 연결:** `취업비자`는 입국·체류 자격이고, `노동허가제`는 실제 노동시장 접근과 고용 관계를 관리한다.
+**Dịch:** Hệ thống giấy phép lao động phải đảm bảo quyền thay đổi nơi làm việc và các thủ tục giải quyết tình trạng không trả lương.
 
-**영어 참고:** *work permit system* — 외국인의 취업을 허가하고 관리하는 제도다.
+**어휘 연결:** `취업비자`는 입국·체류 자격이고, `노동허가제`는 실제 노동시장 접근과 고용 관계를 관리한다. — 'visa làm việc' là bằng cấp nhập cảnh và lưu trú, còn 'hệ thống giấy phép lao động' quản lý việc tiếp cận thị trường lao động và các mối quan hệ việc làm thực tế.
+
+**영어 참고:** *work permit system* — Đây là hệ thống cho phép và quản lý việc làm của người nước ngoài.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** người di cư theo diện kết hôn.
 
-**뉘앙스와 사용법:** 결혼 여부만이 아니라 체류·국적·가족 관계·언어·폭력·자녀 양육의 권리 문제와 연결된다.
+**뉘앙스와 사용법:** Nó không chỉ liên quan đến tình trạng hôn nhân mà còn liên quan đến các vấn đề về nơi cư trú, quốc tịch, mối quan hệ gia đình, ngôn ngữ, bạo lực và quyền nuôi dạy con cái.
 
-**재사용 가능한 콜로케이션·청크:** `결혼이주민 지원`, `결혼이주민 가족`, `결혼이주민의 정착`.
+**재사용 가능한 콜로케이션·청크:** `결혼이주민 지원`, `결혼이주민 가족`, `결혼이주민의 정착`. — 'Hỗ trợ người nhập cư theo diện hôn nhân', 'Gia đình của người nhập cư theo diện hôn nhân', 'Định cư của người nhập cư theo diện hôn nhân'.
 
-**자주 쓰는 문형과 성분:** `결혼이주민이 지역사회에 정착하다`; 다문화가족·국적·돌봄과 결합한다.
+**자주 쓰는 문형과 성분:** `결혼이주민이 지역사회에 정착하다`, `Người nhập cư theo diện hôn nhân định cư tại cộng đồng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 가족·복지·이민정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của các chính sách gia đình, phúc lợi và nhập cư.
 
 **예문:** 결혼이주민의 사회통합을 위해 배우자 가족의 지원과 독립적인 권리 보장이 모두 필요하다.
 
-**어휘 연결:** `다문화가족`은 가족 단위이고, `결혼이주민`은 그 가족을 구성하는 이주 당사자의 경험에 초점을 둔다.
+**Dịch:** Để hòa nhập xã hội của những người nhập cư theo diện hôn nhân, cần có cả sự hỗ trợ từ gia đình vợ/chồng và việc đảm bảo các quyền độc lập.
 
-**영어 참고:** *marriage migrant* — 국제결혼을 통해 이주한 사람이다.
+**어휘 연결:** `다문화가족`은 가족 단위이고, `결혼이주민`은 그 가족을 구성하는 이주 당사자의 경험에 초점을 둔다. — 'Gia đình đa văn hóa' là một đơn vị gia đình và 'những người nhập cư theo diện hôn nhân' tập trung vào trải nghiệm của những người nhập cư tạo nên gia đình.
+
+**영어 참고:** *marriage migrant* — Một người nhập cư thông qua hôn nhân quốc tế.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** cư trú không đăng ký/không có giấy tờ hợp lệ.
 
-**뉘앙스와 사용법:** 사람을 불법으로 규정하기보다 행정상 체류 지위와 노동·의료 접근의 취약성을 설명하는 중립적 표현이다.
+**뉘앙스와 사용법:** Thay vì định nghĩa một người là bất hợp pháp, đó là cách diễn đạt trung lập giải thích tình trạng hành chính của nơi cư trú và tính dễ bị tổn thương trong việc tiếp cận lao động và chăm sóc y tế.
 
-**재사용 가능한 콜로케이션·청크:** `미등록체류 외국인`, `미등록체류 단속`, `미등록체류자의 권리`.
+**재사용 가능한 콜로케이션·청크:** `미등록체류 외국인`, `미등록체류 단속`, `미등록체류자의 권리`. — `Người ngoài hành tinh chưa đăng ký`, `Trấn áp cư dân chưa đăng ký`, `Quyền của cư dân chưa đăng ký`.
 
-**자주 쓰는 문형과 성분:** `미등록체류가 장기화되다`; 단속·자진출국·노동권과 결합한다.
+**자주 쓰는 문형과 성분:** `미등록체류가 장기화되다`, `Thời gian lưu trú chưa đăng ký bị kéo dài` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 이민행정·인권·노동정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho quản lý nhập cư, nhân quyền và chính sách lao động.
 
 **예문:** 미등록체류 여부와 관계없이 산업재해를 당한 노동자는 치료와 보상을 받아야 한다.
 
-**어휘 연결:** `불법체류`는 비난과 범죄 이미지를 불러올 수 있고, `미등록체류`는 행정 상태와 권리 문제를 중립적으로 말한다.
+**Dịch:** Bất kể họ có đăng ký hay không, công nhân bị tai nạn lao động đều phải được điều trị và bồi thường.
 
-**영어 참고:** *undocumented stay*, *irregular migration status* — 유효한 체류 자격이 없는 상태다.
+**어휘 연결:** `불법체류`는 비난과 범죄 이미지를 불러올 수 있고, `미등록체류`는 행정 상태와 권리 문제를 중립적으로 말한다. — 'Lưu trú bất hợp pháp' có thể đưa ra những lời chỉ trích và hình ảnh về tội phạm, trong khi 'lưu trú không đăng ký' nói một cách trung lập về tình trạng hành chính và các vấn đề về quyền.
+
+**영어 참고:** *undocumented stay*, *irregular migration status* — Bạn không có tình trạng cư trú hợp lệ.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** hồi hương cưỡng chế.
 
-**뉘앙스와 사용법:** 추방·송환의 행정 문제를 넘어 고문·박해 위험이 있는 곳으로 돌려보내서는 안 된다는 국제법 원칙과 충돌한다.
+**뉘앙스와 사용법:** Ngoài các vấn đề hành chính về trục xuất và hồi hương, nó mâu thuẫn với nguyên tắc luật pháp quốc tế rằng mọi người không nên bị đưa trở lại những nơi có nguy cơ bị tra tấn hoặc ngược đãi.
 
-**재사용 가능한 콜로케이션·청크:** `강제송환 금지`, `강제송환 위기`, `강제송환 절차`.
+**재사용 가능한 콜로케이션·청크:** `강제송환 금지`, `강제송환 위기`, `강제송환 절차`. — 'Cấm cưỡng bức hồi hương', 'Cuộc khủng hoảng cưỡng bức hồi hương', 'Thủ tục cưỡng bức hồi hương'.
 
-**자주 쓰는 문형과 성분:** `단체가 강제송환을 중단하라고 요구하다`; 난민·인권·추방과 결합한다.
+**자주 쓰는 문형과 성분:** `단체가 강제송환을 중단하라고 요구하다`, `Nhóm yêu cầu ngừng cưỡng bức hồi hương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 난민법·국제인권·외교 보도의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích để báo cáo về luật tị nạn, nhân quyền quốc tế và ngoại giao.
 
 **예문:** 박해 위험이 확인된 신청자를 강제송환해서는 안 된다는 원칙이 있다.
 
-**어휘 연결:** `자진출국`은 본인의 선택이고, `강제송환`은 국가가 물리적·법적으로 돌려보내는 조치다.
+**Dịch:** Có một nguyên tắc là những người nộp đơn được xác định là có nguy cơ bị ngược đãi sẽ không bị buộc phải hồi hương.
 
-**영어 참고:** *forced return*, *forcible repatriation* — 본인의 의사에 반해 다른 국가로 돌려보내는 조치다.
+**어휘 연결:** `자진출국`은 본인의 선택이고, `강제송환`은 국가가 물리적·법적으로 돌려보내는 조치다. — 'Ra đi tự nguyện' là lựa chọn của một người và 'bắt buộc hồi hương' là một biện pháp của nhà nước để trả lại một người về mặt vật chất và hợp pháp.
+
+**영어 참고:** *forced return*, *forcible repatriation* — Đây là biện pháp đưa một người trở lại quốc gia khác trái với ý muốn của họ.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** tái định cư, tái ổn định cuộc sống.
 
-**뉘앙스와 사용법:** 임시 수용을 끝내는 것보다 안정적인 법적 지위와 지역사회 관계를 형성하는 장기 과정에 초점을 둔다.
+**뉘앙스와 사용법:** Tập trung vào quá trình lâu dài nhằm tạo dựng địa vị pháp lý ổn định và các mối quan hệ cộng đồng thay vì chấm dứt việc tạm giam.
 
-**재사용 가능한 콜로케이션·청크:** `난민 재정착`, `지역사회 재정착`, `재정착 지원`.
+**재사용 가능한 콜로케이션·청크:** `난민 재정착`, `지역사회 재정착`, `재정착 지원`. — `Tái định cư cho người tị nạn`, `Tái định cư cộng đồng`, `Hỗ trợ tái định cư`.
 
-**자주 쓰는 문형과 성분:** `가족이 새로운 지역에 재정착하다`; 주거·교육·언어와 결합한다.
+**자주 쓰는 문형과 성분:** `가족이 새로운 지역에 재정착하다`, `Gia đình tái định cư ở khu vực mới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 난민·인도주의·지역정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho các chính sách về người tị nạn, nhân đạo và khu vực.
 
 **예문:** 재정착 정책은 주택을 제공하는 데서 끝나지 않고 학교와 지역 네트워크까지 연결해야 한다.
 
-**어휘 연결:** `정착`은 새곳에 자리 잡는 일반어이고, `재정착`은 강제이주나 재배치 뒤에 다시 생활 기반을 만드는 맥락이 강하다.
+**Dịch:** Chính sách tái định cư không chỉ dừng lại ở việc cung cấp nhà ở mà còn nên kết nối trường học và mạng lưới địa phương.
 
-**영어 참고:** *resettlement* — 난민·이주민이 새로운 지역에서 장기적으로 생활 기반을 마련하는 과정이다.
+**어휘 연결:** `정착`은 새곳에 자리 잡는 일반어이고, `재정착`은 강제이주나 재배치 뒤에 다시 생활 기반을 만드는 맥락이 강하다. — 'Định cư' là thuật ngữ chung để chỉ việc định cư ở một nơi ở mới và 'tái định cư' có bối cảnh rõ ràng là xây dựng lại cơ sở sống sau khi di cư hoặc tái định cư bắt buộc.
+
+**영어 참고:** *resettlement* — Đây là quá trình trong đó người tị nạn và người nhập cư thiết lập cơ sở lâu dài để sinh sống ở một khu vực mới.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** cổ tức nhập cư.
 
-**뉘앙스와 사용법:** 이민자 수만 늘리면 자동으로 발생하는 것이 아니라 교육·고용·사회통합과 노동권 보장이 전제된다.
+**뉘앙스와 사용법:** Điều này không tự động xảy ra bằng cách tăng số lượng người nhập cư mà dựa trên việc đảm bảo giáo dục, việc làm, hội nhập xã hội và quyền lao động.
 
-**재사용 가능한 콜로케이션·청크:** `이민배당 효과`, `이민배당을 실현하다`, `이민배당의 조건`.
+**재사용 가능한 콜로케이션·청크:** `이민배당 효과`, `이민배당을 실현하다`, `이민배당의 조건`. — 'Hiệu ứng cổ tức nhập cư', 'Hiện thực hóa cổ tức nhập cư', 'Các điều kiện của cổ tức nhập cư'.
 
-**자주 쓰는 문형과 성분:** `국가가 이민배당을 성장으로 연결하다`; 인구감소·노동력·통합과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 이민배당을 성장으로 연결하다`, `Quốc gia kết nối lợi tức nhập cư với tăng trưởng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인구경제·이민정책·노동시장 분석의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về kinh tế dân số, chính sách nhập cư và phân tích thị trường lao động.
 
 **예문:** 이민배당을 얻으려면 이주노동자의 숙련과 가족 정착을 함께 지원해야 한다.
 
-**어휘 연결:** `인구배당`은 국내 연령구조의 기회이고, `이민배당`은 이주 유입이 만드는 인구·경제 효과를 특정한다.
+**Dịch:** Để nhận được lợi tức nhập cư, chúng ta phải hỗ trợ cả kỹ năng của người lao động nhập cư và việc định cư gia đình họ.
 
-**영어 참고:** *immigration dividend* — 이민 유입이 노동력과 경제에 주는 긍정적 효과다.
+**어휘 연결:** `인구배당`은 국내 연령구조의 기회이고, `이민배당`은 이주 유입이 만드는 인구·경제 효과를 특정한다. — 'lợi tức nhân khẩu học' là cơ hội cho cơ cấu tuổi trong nước và 'lợi tức nhập cư' chỉ rõ dân số và các tác động kinh tế do dòng người nhập cư tạo ra.
+
+**영어 참고:** *immigration dividend* — Tác động tích cực của việc nhập cư lên lực lượng lao động và nền kinh tế.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** thay thế dân số.
 
-**뉘앙스와 사용법:** 출산만으로 인구를 유지하기 어려울 때 이민이 인구·노동력 감소를 어느 정도 상쇄할 수 있는지 논의한다.
+**뉘앙스와 사용법:** Thảo luận mức độ nhập cư có thể bù đắp cho sự suy giảm dân số và lực lượng lao động khi khó duy trì dân số chỉ thông qua sinh sản.
 
-**재사용 가능한 콜로케이션·청크:** `인구대체 수준`, `이민을 통한 인구대체`, `인구대체 효과`.
+**재사용 가능한 콜로케이션·청크:** `인구대체 수준`, `이민을 통한 인구대체`, `인구대체 효과`. — `Mức thay thế dân số`, `Thay thế dân số thông qua nhập cư`, `Hiệu ứng thay thế dân số`.
 
-**자주 쓰는 문형과 성분:** `이민이 인구대체에 기여하다`; 출산율·노동력·고령화와 결합한다.
+**자주 쓰는 문형과 성분:** `이민이 인구대체에 기여하다`, `Nhập cư góp phần thay thế dân số` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인구학·이민·사회정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật về nhân khẩu học, nhập cư và chính sách xã hội.
 
 **예문:** 인구대체를 이민 숫자만으로 계산하면 교육·정착 비용을 과소평가할 수 있다.
 
-**어휘 연결:** `인구 유지`는 결과를 말하고, `인구대체`는 출생·사망·이동이 구성 변화를 채우는 인구학적 관계를 분석한다.
+**Dịch:** Nếu sự thay thế dân số chỉ được tính toán thông qua số lượng người nhập cư thì chi phí giáo dục và định cư có thể bị đánh giá thấp.
 
-**영어 참고:** *population replacement* — 출생·사망·이민으로 인구 규모와 구성을 유지·보완하는 현상이다.
+**어휘 연결:** `인구 유지`는 결과를 말하고, `인구대체`는 출생·사망·이동이 구성 변화를 채우는 인구학적 관계를 분석한다. — 'Duy trì dân số' đề cập đến các kết quả và 'sự thay thế dân số' phân tích mối quan hệ nhân khẩu học trong đó số sinh, tử và di chuyển tạo nên những thay đổi về thành phần.
+
+**영어 참고:** *population replacement* — Đây là hiện tượng duy trì và bổ sung quy mô và cơ cấu dân số thông qua sinh, tử và nhập cư.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** tuyến đường di cư.
 
-**뉘앙스와 사용법:** 공식 비자만이 아니라 브로커·친족·유학·계절노동·망명 등 다양한 이동 경로를 포함한다.
+**뉘앙스와 사용법:** Nó không chỉ bao gồm thị thực chính thức mà còn bao gồm nhiều lộ trình di chuyển khác nhau như môi giới, thân nhân, du học, làm việc thời vụ và tị nạn.
 
-**재사용 가능한 콜로케이션·청크:** `합법적 이주경로`, `안전한 이주경로`, `이주경로 다변화`.
+**재사용 가능한 콜로케이션·청크:** `합법적 이주경로`, `안전한 이주경로`, `이주경로 다변화`. — `Đường dẫn di chuyển hợp pháp`, `Đường dẫn di chuyển an toàn`, `Đa dạng hóa đường dẫn di chuyển`.
 
-**자주 쓰는 문형과 성분:** `국가가 이주경로를 제도화하다`; 노동허가·난민·밀입국과 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 이주경로를 제도화하다`, `Nhà nước thể chế hóa các tuyến đường di cư` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 이민·난민·국제개발 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách nhập cư, người tị nạn và phát triển quốc tế.
 
 **예문:** 합법적 이주경로가 부족하면 브로커와 위험한 이동에 의존하는 사람이 늘 수 있다.
 
-**어휘 연결:** `이동 경로`는 물리적 동선이고, `이주경로`는 비자·노동·가족 제도까지 포함한 사회적 경로다.
+**Dịch:** Thiếu các lộ trình di cư hợp pháp có thể dẫn đến nhiều người dựa vào người môi giới hơn và các hoạt động di chuyển đầy rủi ro.
 
-**영어 참고:** *migration pathway* — 이주자가 이동하고 체류 자격을 얻는 제도·사회적 경로다.
+**어휘 연결:** `이동 경로`는 물리적 동선이고, `이주경로`는 비자·노동·가족 제도까지 포함한 사회적 경로다. — 'Tuyến đường di cư' là tuyến đường vật lý và 'Tuyến đường di cư' là tuyến đường xã hội bao gồm thị thực, lao động và hệ thống gia đình.
+
+**영어 참고:** *migration pathway* — Đây là con đường thể chế và xã hội mà qua đó người di cư di chuyển và có được tư cách lưu trú.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** cơ quan quản lý nhập cư.
 
-**뉘앙스와 사용법:** 법정 기관명으로 확정된 경우와 별개로, 이민 행정 개편을 둘러싼 최근 정치·뉴스 담론에서 널리 쓰인다.
+**뉘앙스와 사용법:** Bất kể nó có được xác nhận là tên cơ quan theo luật định hay không, nó vẫn được sử dụng rộng rãi trong các diễn ngôn chính trị và tin tức gần đây xung quanh cải cách hành chính nhập cư.
 
-**재사용 가능한 콜로케이션·청크:** `이민청 신설`, `이민청 설립 논의`, `이민청 권한`.
+**재사용 가능한 콜로케이션·청크:** `이민청 신설`, `이민청 설립 논의`, `이민청 권한`. — ‘Thành lập văn phòng nhập cư mới’, ‘Thảo luận về việc thành lập văn phòng nhập cư’, ‘Cơ quan có thẩm quyền của văn phòng nhập cư’.
 
-**자주 쓰는 문형과 성분:** `정부가 이민청 신설을 검토하다`; 출입국·난민·통합과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 이민청 신설을 검토하다`, `Chính phủ xem xét thành lập văn phòng nhập cư mới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국회·정부 브리핑·정책 토론에서 현재적으로 쓰이는 제도명이다.
+**사회적 관계·주제별 register:** Đây là tên của hệ thống hiện đang được sử dụng trong Quốc hội, các cuộc họp giao ban của chính phủ và các cuộc thảo luận chính sách.
 
 **예문:** 이민청 신설 논의는 단속 중심 행정과 사회통합 기능을 어떻게 나눌지 묻는다.
 
-**어휘 연결:** `출입국관리본부`는 기존 행정 조직을 가리키고, `이민청`은 이민 전담 기관으로의 개편 구상을 압축한다.
+**Dịch:** Cuộc thảo luận về việc thành lập văn phòng nhập cư mới hỏi về cách phân chia các chức năng quản lý theo định hướng thực thi và hội nhập xã hội.
 
-**영어 참고:** *immigration agency* — 입국·체류·난민·통합을 담당하는 이민 행정 기관이다.
+**어휘 연결:** `출입국관리본부`는 기존 행정 조직을 가리키고, `이민청`은 이민 전담 기관으로의 개편 구상을 압축한다. — 'Trụ sở Quản lý Nhập cư' đề cập đến tổ chức hành chính hiện có và 'Văn phòng Nhập cư' cô đọng kế hoạch tái tổ chức thành cơ quan chỉ dành cho nhập cư.
+
+**영어 참고:** *immigration agency* — Đây là cơ quan hành chính nhập cư chịu trách nhiệm nhập cảnh, lưu trú, tị nạn và hội nhập.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** sự bài ngoại/người di cư.
 
-**뉘앙스와 사용법:** 최근 온라인·정치·지역사회 논쟁에서 혐오표현, 차별, 범죄 프레임을 함께 분석하는 현재 표현이다.
+**뉘앙스와 사용법:** Đây là biểu thức hiện tại phân tích các khung ngôn từ kích động thù địch, phân biệt đối xử và tội phạm trong các cuộc tranh luận trực tuyến, chính trị và cộng đồng gần đây.
 
-**재사용 가능한 콜로케이션·청크:** `이주민 혐오 발언`, `이주민 혐오 확산`, `혐오를 선동하다`.
+**재사용 가능한 콜로케이션·청크:** `이주민 혐오 발언`, `이주민 혐오 확산`, `혐오를 선동하다`. — 'Lời nói căm thù chống lại người nhập cư', 'Truyền bá sự căm ghét đối với người nhập cư', 'Kích động hận thù'.
 
-**자주 쓰는 문형과 성분:** `단체가 이주민 혐오를 규탄하다`; 온라인·선거·차별과 결합한다.
+**자주 쓰는 문형과 성분:** `단체가 이주민 혐오를 규탄하다`, `Nhóm lên án sự căm ghét người nhập cư` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인권 뉴스·온라인 담론·사회통합 정책에서 현재 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong tin tức nhân quyền, diễn ngôn trực tuyến và các chính sách hội nhập xã hội.
 
 **예문:** 재난 시기에 이주민 혐오가 확산되지 않도록 정확한 통계와 공적 설명이 필요하다.
 
-**어휘 연결:** `외국인 차별`은 행위와 결과를 말하고, `이주민 혐오`는 반복되는 감정·담론·집단 일반화를 강조한다.
+**Dịch:** Cần có số liệu thống kê chính xác và giải thích công khai để ngăn chặn sự căm ghét người nhập cư lan rộng trong thời gian xảy ra thảm họa.
 
-**영어 참고:** *anti-migrant hate* — 이주민을 집단적으로 비하·배제하는 혐오와 적대다.
+**어휘 연결:** `외국인 차별`은 행위와 결과를 말하고, `이주민 혐오`는 반복되는 감정·담론·집단 일반화를 강조한다. — 'Sự phân biệt đối xử với người nước ngoài' đề cập đến các hành động và kết quả, trong khi 'sự căm thù đối với người nhập cư' nhấn mạnh đến những cảm xúc, diễn ngôn và khái quát hóa nhóm lặp đi lặp lại.
+
+**영어 참고:** *anti-migrant hate* — Chính sự thù hận và thù địch đã làm suy thoái và loại trừ những người nhập cư.
 
 <!-- passage_word_count: 109 Korean eojeol; target_set: 이민정책, 이주노동자, 체류자격, 난민심사, 사회통합, 노동허가제, 결혼이주민, 미등록체류, 강제송환, 재정착, 이민배당, 인구대체, 이주경로, 이민청, 이주민 혐오 -->
 

@@ -12,5 +12,7 @@ source_policy: reference material only; explanations, examples, and passages are
 
 - [분류를 넘어 공동체를 다시 묻다](./01-social-categories-and-inclusion.md) — `분화되다`, `전이`, `집합체`, `부조화`, `가시적`, `극명하다`, `낙오자`, `노처녀`, `과부`, `자선`, `확신`, `기대치`, `포용`, `연대`, `편견`
 - [사회이동과 격차의 구조](./02-mobility-stratification-and-social-capital.md)
+- [시민권과 소속의 교차 구조](./03-citizenship-belonging-and-intersectionality.md) — `교차성`, `인정투쟁`, `상징폭력`, `제도적 차별`, `구조적 차별`, `소수자 정치`, `시민권화`, `문화적 시민권`, `정체성 정치`, `초국적 네트워크`, `시민권 격차`, `다문화 시민성`, `사회적 인정`, `상징적 경계`, `대표성 결핍`
+- [정의·이동·사회적 응집력](./04-justice-mobility-and-social-cohesion.md) — `사회적 재분배`, `분배 정의`, `인정 정의`, `돌봄 정의`, `세대 정의`, `이주권`, `사회적 이동성`, `계층 재생산`, `불평등 재생산`, `사회적 응집력`, `사회적 신뢰`, `소속의 정치`, `문화적 중개`, `시민적 연대`
 
 각 파일의 읽기 지문은 최대 15개 target headword를 포함하며, 오래된 명칭을 그대로 재생산하지 않고 현재의 존중하는 표현을 함께 제시한다.

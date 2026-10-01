@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** chăm sóc tích hợp.
 
-**뉘앙스와 사용법:** 기관을 합치는 것보다 당사자의 필요를 중심으로 여러 서비스의 책임과 정보를 이어 주는 데 초점을 둔다.
+**뉘앙스와 사용법:** Thay vì sáp nhập các tổ chức, trọng tâm là kết nối trách nhiệm và thông tin của các dịch vụ khác nhau tập trung vào nhu cầu của các bên liên quan.
 
-**재사용 가능한 콜로케이션·청크:** `지역사회 통합돌봄`, `통합돌봄 체계`, `통합돌봄 시범사업`.
+**재사용 가능한 콜로케이션·청크:** `지역사회 통합돌봄`, `통합돌봄 체계`, `통합돌봄 시범사업`. — 'Chăm sóc tích hợp cộng đồng', 'hệ thống chăm sóc tích hợp', 'dự án thí điểm chăm sóc tích hợp'.
 
-**자주 쓰는 문형과 성분:** `지자체가 통합돌봄을 제공하다`; 재가의료·요양·주거와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 통합돌봄을 제공하다`, `Chính quyền địa phương cung cấp dịch vụ chăm sóc tổng hợp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건복지·고령사회·지역행정의 고급 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách nâng cao về sức khỏe và phúc lợi, xã hội già hóa và quản lý khu vực.
 
 **예문:** 통합돌봄이 작동하려면 병원 퇴원 뒤에도 보건소와 복지기관이 정보를 이어받아야 한다.
 
-**어휘 연결:** `돌봄 서비스`는 개별 지원이고, `통합돌봄`은 의료·복지·주거의 연계 구조를 강조한다.
+**Dịch:** Để hoạt động chăm sóc tích hợp, các trung tâm y tế công cộng và tổ chức phúc lợi phải nhận được thông tin ngay cả sau khi xuất viện.
 
-**영어 참고:** *integrated care* — 의료·요양·복지 서비스를 사람 중심으로 연결하는 체계다.
+**어휘 연결:** `돌봄 서비스`는 개별 지원이고, `통합돌봄`은 의료·복지·주거의 연계 구조를 강조한다. — 'Dịch vụ chăm sóc' là hỗ trợ cá nhân và 'chăm sóc tích hợp' nhấn mạnh cấu trúc liên kết giữa chăm sóc y tế, phúc lợi và nhà ở.
+
+**영어 참고:** *integrated care* — Hệ thống kết nối các dịch vụ y tế, điều dưỡng và phúc lợi tập trung vào con người.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** quản lý sức khỏe tại nhà.
 
-**뉘앙스와 사용법:** 병원 방문이 어려운 고령자·취약계층의 생활 조건과 건강 위험을 함께 살핀다는 의미가 크다.
+**뉘앙스와 사용법:** Điều quan trọng là kiểm tra điều kiện sống và rủi ro sức khỏe của người già và các nhóm dễ bị tổn thương gặp khó khăn khi đến bệnh viện.
 
-**재사용 가능한 콜로케이션·청크:** `방문건강관리 사업`, `방문건강관리 대상자`, `찾아가는 방문건강관리`.
+**재사용 가능한 콜로케이션·청크:** `방문건강관리 사업`, `방문건강관리 대상자`, `찾아가는 방문건강관리`. — ‘Tham quan dự án chăm sóc sức khỏe’, ‘Tham quan mục tiêu chăm sóc sức khỏe’, ‘Tham quan quản lý chăm sóc sức khỏe’.
 
-**자주 쓰는 문형과 성분:** `보건소가 방문건강관리를 실시하다`; 만성질환·독거노인·지역사회와 결합한다.
+**자주 쓰는 문형과 성분:** `보건소가 방문건강관리를 실시하다`, `Trung tâm y tế công cộng tiến hành chăm sóc sức khỏe tại nhà` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·지역복지·건강 형평성의 실무어다.
+**사회적 관계·주제별 register:** Thuật ngữ thực tế về sức khỏe cộng đồng, phúc lợi khu vực và công bằng y tế.
 
 **예문:** 방문건강관리는 혈압 수치뿐 아니라 집안 환경과 식사 습관도 함께 확인해야 효과가 있다.
 
-**어휘 연결:** `재택의료`는 의사의 진료를 강조하고, `방문건강관리`는 예방·상담·생활 지원까지 포괄한다.
+**Dịch:** Chăm sóc sức khỏe tại nhà chỉ hiệu quả khi nó kiểm tra không chỉ mức huyết áp mà còn cả môi trường gia đình và thói quen ăn uống.
 
-**영어 참고:** *home visiting health management* — 보건 인력이 가정을 방문해 건강을 관리하는 서비스다.
+**어휘 연결:** `재택의료`는 의사의 진료를 강조하고, `방문건강관리`는 예방·상담·생활 지원까지 포괄한다. — 'Chăm sóc y tế tại nhà' nhấn mạnh đến việc điều trị của bác sĩ và 'chăm sóc sức khỏe đến thăm' bao gồm phòng ngừa, tư vấn và hỗ trợ cuộc sống hàng ngày.
+
+**영어 참고:** *home visiting health management* — Đây là dịch vụ trong đó nhân viên y tế đến tận nhà để quản lý sức khỏe.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** chăm sóc cuối đời và chăm sóc giảm nhẹ.
 
-**뉘앙스와 사용법:** 치료를 포기한다는 뜻이 아니라 환자의 가치와 편안함을 중심으로 의료 목표를 조정한다는 의미다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là từ bỏ việc điều trị mà là điều chỉnh các mục tiêu y tế xung quanh giá trị và sự thoải mái của bệnh nhân.
 
-**재사용 가능한 콜로케이션·청크:** `호스피스·완화의료 병동`, `완화의료 접근성`, `호스피스 이용`.
+**재사용 가능한 콜로케이션·청크:** `호스피스·완화의료 병동`, `완화의료 접근성`, `호스피스 이용`. — `Khu chăm sóc cuối đời/chăm sóc giảm nhẹ`, `tiếp cận chăm sóc giảm nhẹ`, `sử dụng nhà tế bần`.
 
-**자주 쓰는 문형과 성분:** `환자가 호스피스·완화의료를 선택하다`; 통증 조절·가족·연명의료와 결합한다.
+**자주 쓰는 문형과 성분:** `환자가 호스피스·완화의료를 선택하다`, `Bệnh nhân chọn chăm sóc cuối đời/chăm sóc giảm nhẹ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료윤리·암 치료·생애 말기 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về y đức, điều trị ung thư và chính sách cuối đời.
 
 **예문:** 호스피스·완화의료는 환자의 의사를 확인하고 가족의 돌봄 부담도 함께 줄여야 한다.
 
-**어휘 연결:** `연명의료`는 생명 연장을 위한 처치이고, `호스피스·완화의료`는 고통 완화와 삶의 질을 중심에 둔다.
+**Dịch:** Chăm sóc cuối đời và chăm sóc giảm nhẹ phải xác nhận mong muốn của bệnh nhân và giảm bớt gánh nặng chăm sóc cho gia đình.
 
-**영어 참고:** *hospice and palliative care* — 생애 말기의 통증과 고통을 줄이는 돌봄과 의료다.
+**어휘 연결:** `연명의료`는 생명 연장을 위한 처치이고, `호스피스·완화의료`는 고통 완화와 삶의 질을 중심에 둔다. — 'Chăm sóc duy trì sự sống' là phương pháp điều trị để kéo dài sự sống và 'chăm sóc cuối đời/chăm sóc giảm nhẹ' tập trung vào việc giảm đau và chất lượng cuộc sống.
+
+**영어 참고:** *hospice and palliative care* — Chăm sóc và chăm sóc y tế giúp giảm đau đớn và đau khổ vào cuối đời.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** văn bản chỉ thị trước về điều trị duy trì sự sống.
 
-**뉘앙스와 사용법:** 가족이 대신 결정할 상황을 줄이고 환자의 자기결정권을 존중하기 위한 제도적 장치다.
+**뉘앙스와 사용법:** Đây là một thiết bị của tổ chức nhằm giảm bớt các tình huống mà gia đình quyết định thay họ và tôn trọng quyền tự quyết của bệnh nhân.
 
-**재사용 가능한 콜로케이션·청크:** `사전연명의료의향서 등록`, `의향서 작성`, `연명의료 결정`.
+**재사용 가능한 콜로케이션·청크:** `사전연명의료의향서 등록`, `의향서 작성`, `연명의료 결정`. — `Đăng ký ý định trước đây về điều trị duy trì sự sống`, `Chuẩn bị thư ý định`, `Quyết định về điều trị duy trì sự sống`.
 
-**자주 쓰는 문형과 성분:** `본인이 사전연명의료의향서를 작성하다`; 임종·대리결정·상담과 결합한다.
+**자주 쓰는 문형과 성분:** `본인이 사전연명의료의향서를 작성하다`, `Tôi viết chỉ dẫn trước về điều trị duy trì sự sống` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료법·생명윤리·노년 상담의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật y tế, đạo đức sinh học và tư vấn lão khoa.
 
 **예문:** 사전연명의료의향서를 작성할 때는 치료 중단의 의미와 변경 절차를 충분히 설명받아야 한다.
 
-**어휘 연결:** `유언`은 재산과 사후 의사를 다루고, `사전연명의료의향서`는 생애 말기의 의료 결정을 다룬다.
+**Dịch:** Khi viết chỉ thị trước về điều trị duy trì sự sống, ý nghĩa của việc ngừng điều trị và quá trình thay đổi phải được giải thích đầy đủ.
 
-**영어 참고:** *advance directive for life-sustaining treatment* — 연명의료에 대한 사전 의사를 기록한 문서다.
+**어휘 연결:** `유언`은 재산과 사후 의사를 다루고, `사전연명의료의향서`는 생애 말기의 의료 결정을 다룬다. — 'Di chúc' đề cập đến tài sản và mong muốn sau khi chết và 'chỉ thị trước về điều trị duy trì sự sống' đề cập đến các quyết định y tế vào cuối đời.
+
+**영어 참고:** *advance directive for life-sustaining treatment* — Đây là tài liệu ghi lại ý định trước đó về điều trị duy trì sự sống.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** số năm sống khỏe mạnh.
 
-**뉘앙스와 사용법:** 단순히 오래 사는 기대수명과 달리 삶의 질·기능·건강 격차를 평가하는 지표다.
+**뉘앙스와 사용법:** Không giống như tuổi thọ đơn giản, đây là chỉ số đánh giá những khoảng cách về chất lượng cuộc sống, chức năng và sức khỏe.
 
-**재사용 가능한 콜로케이션·청크:** `건강수명 연장`, `건강수명 격차`, `건강수명 지표`.
+**재사용 가능한 콜로케이션·청크:** `건강수명 연장`, `건강수명 격차`, `건강수명 지표`. — `Kéo dài tuổi thọ khỏe mạnh`, `Khoảng cách tuổi thọ khỏe mạnh`, `Chỉ số tuổi thọ khỏe mạnh`.
 
-**자주 쓰는 문형과 성분:** `정책이 건강수명을 늘리다`; 예방·소득·지역 격차와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 건강수명을 늘리다`, `Chính sách tăng tuổi thọ khỏe mạnh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건통계·고령사회·예방의학의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về thống kê sức khỏe, xã hội già hóa và y tế dự phòng.
 
 **예문:** 평균수명보다 건강수명의 지역 격차를 줄이는 것이 노인 정책의 중요한 목표가 되어야 한다.
 
-**어휘 연결:** `기대수명`은 생존 기간이고, `건강수명`은 독립적이고 건강하게 사는 기간이다.
+**Dịch:** Giảm sự chênh lệch giữa các khu vực về tuổi thọ khỏe mạnh thay vì tuổi thọ trung bình phải là mục tiêu quan trọng của các chính sách dành cho người cao tuổi.
 
-**영어 참고:** *healthy life expectancy* — 건강과 기능을 유지하며 살 것으로 기대되는 기간이다.
+**어휘 연결:** `기대수명`은 생존 기간이고, `건강수명`은 독립적이고 건강하게 사는 기간이다. — 'Tuổi thọ' là khoảng thời gian tồn tại và 'tuổi thọ khỏe mạnh' là khoảng thời gian sống độc lập và khỏe mạnh.
+
+**영어 참고:** *healthy life expectancy* — Đây là khoảng thời gian dự kiến ​​sẽ sống mà vẫn duy trì được sức khỏe và chức năng.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** gánh nặng chi phí chăm sóc người bệnh.
 
-**뉘앙스와 사용법:** 병원비와 별도로 발생하며 장기화될수록 노동 중단·부채·가족 갈등으로 이어질 수 있다.
+**뉘앙스와 사용법:** Nó phát sinh tách biệt với chi phí bệnh viện, càng kéo dài càng dễ dẫn đến gián đoạn công việc, nợ nần, mâu thuẫn gia đình.
 
-**재사용 가능한 콜로케이션·청크:** `간병비 부담 완화`, `간병비 부담이 커지다`, `가계의 간병비 부담`.
+**재사용 가능한 콜로케이션·청크:** `간병비 부담 완화`, `간병비 부담이 커지다`, `가계의 간병비 부담`. — 'Giảm bớt gánh nặng chi phí điều dưỡng', 'Gánh nặng chi phí điều dưỡng ngày càng tăng', 'Gánh nặng chi phí điều dưỡng đối với các hộ gia đình'.
 
-**자주 쓰는 문형과 성분:** `가족이 간병비 부담을 호소하다`; 간병보험·요양병원·소득과 결합한다.
+**자주 쓰는 문형과 성분:** `가족이 간병비 부담을 호소하다`, `Gia đình phàn nàn về gánh nặng chi phí chăm sóc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건의료·복지재정·가계경제 보도의 핵심어다.
+**사회적 관계·주제별 register:** Từ khóa trong báo cáo về chăm sóc sức khỏe, tài chính phúc lợi và kinh tế hộ gia đình.
 
 **예문:** 간병비 부담을 줄이려면 병원 서비스와 지역 돌봄을 함께 보장해야 한다.
 
-**어휘 연결:** `의료비 부담`은 진료와 약값을 포함하고, `간병비 부담`은 돌봄 노동에 드는 별도 비용을 특정한다.
+**Dịch:** Để giảm gánh nặng chi phí điều dưỡng, dịch vụ bệnh viện và chăm sóc tại địa phương phải được đảm bảo cùng nhau.
 
-**영어 참고:** *caregiving cost burden* — 환자 돌봄 비용이 가계에 미치는 경제적 압박이다.
+**어휘 연결:** `의료비 부담`은 진료와 약값을 포함하고, `간병비 부담`은 돌봄 노동에 드는 별도 비용을 특정한다. — 'Gánh nặng chi phí y tế' bao gồm chi phí điều trị và thuốc men, còn 'gánh nặng chi phí chăm sóc điều dưỡng' chỉ rõ chi phí riêng cho công việc chăm sóc.
+
+**영어 참고:** *caregiving cost burden* — Chi phí chăm sóc bệnh nhân là áp lực kinh tế đối với các hộ gia đình.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** bất bình đẳng sức khỏe.
 
-**뉘앙스와 사용법:** 개인의 생활습관만 탓하지 않고 사회적 결정 요인과 제도적 장벽을 분석하는 개념이다.
+**뉘앙스와 사용법:** Đây là khái niệm phân tích các yếu tố quyết định xã hội và các rào cản thể chế thay vì chỉ đổ lỗi cho thói quen lối sống cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `건강불평등 완화`, `건강불평등 지표`, `지역 간 건강불평등`.
+**재사용 가능한 콜로케이션·청크:** `건강불평등 완화`, `건강불평등 지표`, `지역 간 건강불평등`. — `Xóa bỏ bất bình đẳng về sức khỏe`, `Chỉ số bất bình đẳng về sức khỏe`, `Bất bình đẳng về sức khỏe giữa các vùng`.
 
-**자주 쓰는 문형과 성분:** `정책이 건강불평등을 줄이다`; 소득·주거·의료 접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 건강불평등을 줄이다`, `Chính sách làm giảm bất bình đẳng về sức khỏe` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·사회역학·복지정책의 추상 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ cấp cao trừu tượng về y tế công cộng, dịch tễ học xã hội và chính sách phúc lợi.
 
 **예문:** 건강불평등을 줄이려면 병원을 늘리는 것과 함께 주거·노동 조건도 개선해야 한다.
 
-**어휘 연결:** `건강 격차`는 차이를 넓게 말하고, `건강불평등`은 그 차이가 구조적으로 부당하다는 의미를 포함한다.
+**Dịch:** Để giảm bất bình đẳng về sức khỏe, chúng ta cần tăng số lượng bệnh viện và cải thiện điều kiện sống và làm việc.
 
-**영어 참고:** *health inequality/inequity* — 사회적 조건에 따라 건강 결과가 불평등하게 나타나는 현상이다.
+**어휘 연결:** `건강 격차`는 차이를 넓게 말하고, `건강불평등`은 그 차이가 구조적으로 부당하다는 의미를 포함한다. — 'Khoảng cách về sức khỏe' nói rộng ra là sự khác biệt và 'bất bình đẳng về sức khỏe' bao gồm ý nghĩa rằng sự khác biệt là không công bằng về mặt cấu trúc.
+
+**영어 참고:** *health inequality/inequity* — Đây là hiện tượng trong đó kết quả về sức khỏe có vẻ không đồng đều tùy thuộc vào điều kiện xã hội.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** nhóm dễ bị tổn thương về y tế.
 
-**뉘앙스와 사용법:** 개인의 취약함보다 의료기관 거리, 비용, 정보, 이동 장벽 같은 환경을 함께 고려한다.
+**뉘앙스와 사용법:** Xem xét các yếu tố môi trường như khoảng cách đến các cơ sở y tế, chi phí, thông tin và rào cản di chuyển thay vì các lỗ hổng cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `의료취약계층 지원`, `의료취약계층 발굴`, `취약계층 의료 접근성`.
+**재사용 가능한 콜로케이션·청크:** `의료취약계층 지원`, `의료취약계층 발굴`, `취약계층 의료 접근성`. — `Hỗ trợ cho các nhóm dễ bị tổn thương về mặt y tế`, `Xác định các nhóm dễ bị tổn thương về mặt y tế`, `Tiếp cận chăm sóc y tế cho các nhóm dễ bị tổn thương`.
 
-**자주 쓰는 문형과 성분:** `지자체가 의료취약계층을 지원하다`; 방문진료·복지·지역 격차와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 의료취약계층을 지원하다`, `Chính quyền địa phương hỗ trợ các nhóm dễ bị tổn thương về mặt y tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건복지·공공의료·지역정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về sức khỏe và phúc lợi, chăm sóc y tế công cộng và chính sách khu vực.
 
 **예문:** 폭염 대책은 독거노인 같은 의료취약계층의 건강 상태를 먼저 확인해야 한다.
 
-**어휘 연결:** `취약계층`은 여러 사회 영역을 포괄하고, `의료취약계층`은 의료 이용에서의 구체적 장벽을 가리킨다.
+**Dịch:** Các biện pháp sóng nhiệt trước tiên phải kiểm tra tình trạng sức khỏe của các nhóm dễ bị tổn thương về mặt y tế như người già sống một mình.
 
-**영어 참고:** *medically vulnerable groups* — 의료 접근과 건강 결과에서 구조적 불이익을 받는 집단이다.
+**어휘 연결:** `취약계층`은 여러 사회 영역을 포괄하고, `의료취약계층`은 의료 이용에서의 구체적 장벽을 가리킨다. — 'Các nhóm dễ bị tổn thương' bao gồm nhiều lĩnh vực xã hội khác nhau và 'các nhóm dễ bị tổn thương về mặt y tế' đề cập đến các rào cản cụ thể đối với việc sử dụng dịch vụ chăm sóc y tế.
+
+**영어 참고:** *medically vulnerable groups* — Nhóm này bị bất lợi về mặt cấu trúc trong việc tiếp cận các kết quả chăm sóc y tế và sức khỏe.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** chăm sóc phù hợp cho người cao tuổi.
 
-**뉘앙스와 사용법:** 모든 노인에게 같은 방문 횟수를 적용하기보다 독거 여부와 기능 상태에 따라 지원을 조정한다.
+**뉘앙스와 사용법:** Thay vì áp dụng số lượt thăm viếng như nhau cho tất cả người cao tuổi, hỗ trợ được điều chỉnh tùy theo việc họ có sống một mình hay không và tình trạng chức năng của họ.
 
-**재사용 가능한 콜로케이션·청크:** `노인맞춤돌봄서비스`, `노인맞춤돌봄 대상자`, `맞춤돌봄 제공인력`.
+**재사용 가능한 콜로케이션·청크:** `노인맞춤돌봄서비스`, `노인맞춤돌봄 대상자`, `맞춤돌봄 제공인력`. — `Dịch vụ chăm sóc tùy chỉnh cho người cao tuổi`, `Những người nhận được sự chăm sóc tùy chỉnh cho người già`, `Nhân lực cung cấp dịch vụ chăm sóc tùy chỉnh`.
 
-**자주 쓰는 문형과 성분:** `생활지원사가 노인맞춤돌봄을 제공하다`; 안전 확인·일상 지원·독거노인과 결합한다.
+**자주 쓰는 문형과 성분:** `생활지원사가 노인맞춤돌봄을 제공하다`, `Nhân viên hỗ trợ cuộc sống cung cấp dịch vụ chăm sóc tùy chỉnh cho người già` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노인복지·지역사회 돌봄의 행정어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ hành chính dành cho phúc lợi người cao tuổi và chăm sóc cộng đồng.
 
 **예문:** 노인맞춤돌봄은 서비스 시간보다 실제 위험과 당사자의 선택을 반영해야 한다.
 
-**어휘 연결:** `장기요양보험`은 등급과 급여 중심의 제도이고, `노인맞춤돌봄`은 일상생활의 예방적 지원에 가깝다.
+**Dịch:** Chăm sóc phù hợp cho người cao tuổi phải phản ánh những rủi ro thực tế và lựa chọn của người đó hơn là thời gian phục vụ.
 
-**영어 참고:** *tailored care for older adults* — 노인의 상태와 필요에 맞춰 조정하는 돌봄 서비스다.
+**어휘 연결:** `장기요양보험`은 등급과 급여 중심의 제도이고, `노인맞춤돌봄`은 일상생활의 예방적 지원에 가깝다. — 'Bảo hiểm chăm sóc dài hạn' là một hệ thống tập trung vào cấp bậc và phúc lợi, còn 'chăm sóc tùy chỉnh cho người cao tuổi' gần hơn với hỗ trợ phòng ngừa cho cuộc sống hàng ngày.
+
+**영어 참고:** *tailored care for older adults* — Đây là dịch vụ chăm sóc phù hợp với tình trạng và nhu cầu của người cao tuổi.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** thành phố thân thiện với người cao tuổi.
 
-**뉘앙스와 사용법:** 노인 전용 시설을 늘리는 것보다 모든 세대가 오래 살 수 있는 공간과 서비스를 만드는 접근이다.
+**뉘앙스와 사용법:** Thay vì tăng cường cơ sở vật chất dành riêng cho người cao tuổi, đây là cách tiếp cận tạo ra không gian và dịch vụ nơi tất cả các thế hệ có thể sống lâu dài.
 
-**재사용 가능한 콜로케이션·청크:** `고령친화도시 조성`, `고령친화도시 인증`, `고령친화도시 지표`.
+**재사용 가능한 콜로케이션·청크:** `고령친화도시 조성`, `고령친화도시 인증`, `고령친화도시 지표`. — 'Tạo dựng thành phố thân thiện với lứa tuổi', 'Chứng nhận thành phố thân thiện với lứa tuổi', 'Chỉ số thành phố thân thiện với lứa tuổi'.
 
-**자주 쓰는 문형과 성분:** `지자체가 고령친화도시를 추진하다`; 보행·주거·참여와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 고령친화도시를 추진하다`, `Chính quyền địa phương khuyến khích thành phố thân thiện với người già` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시계획·노인복지·공중보건의 정책어다.
+**사회적 관계·주제별 register:** Thuật ngữ chính sách về quy hoạch đô thị, phúc lợi cho người già và y tế công cộng.
 
 **예문:** 고령친화도시는 병원 수뿐 아니라 가까운 상점과 안전한 보행로가 있는지도 평가해야 한다.
 
-**어휘 연결:** `노인복지시설`은 특정 기관이고, `고령친화도시`는 도시 전체의 설계 원칙이다.
+**Dịch:** Một thành phố thân thiện với lứa tuổi không chỉ nên đánh giá số lượng bệnh viện mà còn đánh giá liệu có các cửa hàng gần đó và đường dành cho người đi bộ an toàn hay không.
 
-**영어 참고:** *age-friendly city* — 모든 연령의 참여와 안전을 지원하는 도시다.
+**어휘 연결:** `노인복지시설`은 특정 기관이고, `고령친화도시`는 도시 전체의 설계 원칙이다. — 'Cơ sở phúc lợi người cao tuổi' là các tổ chức cụ thể và 'thành phố thân thiện với lứa tuổi' là nguyên tắc thiết kế cho toàn bộ thành phố.
+
+**영어 참고:** *age-friendly city* — Thành phố hỗ trợ sự tham gia và an toàn cho mọi lứa tuổi.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** lương hưu từ nhà ở/thế chấp nhà.
 
-**뉘앙스와 사용법:** 자산은 있지만 현금 소득이 부족한 고령자의 노후 보장을 돕지만 상속·주거 안정과의 선택을 동반한다.
+**뉘앙스와 사용법:** Nó giúp những người cao tuổi có tài sản nhưng thiếu thu nhập bằng tiền mặt đảm bảo cho việc nghỉ hưu của họ, nhưng nó cũng liên quan đến việc lựa chọn giữa quyền thừa kế và sự ổn định về nhà ở.
 
-**재사용 가능한 콜로케이션·청크:** `주택연금 가입`, `주거연금 수령액`, `주거연금 활용`.
+**재사용 가능한 콜로케이션·청크:** `주택연금 가입`, `주거연금 수령액`, `주거연금 활용`. — `Đăng ký lương hưu nhà ở`, `Số tiền lương hưu nhà ở nhận được`, `Sử dụng lương hưu nhà ở`.
 
-**자주 쓰는 문형과 성분:** `고령자가 주거연금에 가입하다`; 주택자산·노후소득·상속과 결합한다.
+**자주 쓰는 문형과 성분:** `고령자가 주거연금에 가입하다`, `Người cao tuổi đăng ký trợ cấp nhà ở` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 연금·금융소비자·고령사회 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao cho các chính sách lương hưu, người tiêu dùng tài chính và xã hội già hóa.
 
 **예문:** 주거연금은 집을 팔지 않고 생활비를 마련하는 선택지지만 배우자와 상환 조건을 충분히 확인해야 한다.
 
-**어휘 연결:** `주택연금`은 한국의 제도 명칭에 가깝고, `주거연금`은 주택을 활용한 노후소득이라는 기능을 강조한다.
+**Dịch:** Lương hưu nhà ở là một lựa chọn để trang trải chi phí sinh hoạt mà không cần bán nhà, nhưng bạn phải xác nhận kỹ lưỡng các điều khoản trả nợ với vợ/chồng của mình.
 
-**영어 참고:** *home equity pension/reverse mortgage income* — 주택 자산을 담보로 노후 현금을 받는 방식이다.
+**어휘 연결:** `주택연금`은 한국의 제도 명칭에 가깝고, `주거연금`은 주택을 활용한 노후소득이라는 기능을 강조한다. — 'Lương hưu nhà ở' gần giống với tên của hệ thống Hàn Quốc và 'Lương hưu nhà ở' nhấn mạnh chức năng của thu nhập hưu trí bằng nhà ở.
+
+**영어 참고:** *home equity pension/reverse mortgage income* — Đây là phương thức nhận tiền hưu trí bằng cách sử dụng tài sản nhà ở làm tài sản thế chấp.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** tỷ lệ thay thế thu nhập bằng lương hưu.
 
-**뉘앙스와 사용법:** 연금액만 비교하지 않고 가입 기간, 평균임금, 물가, 세대 간 부담을 함께 살피는 지표다.
+**뉘앙스와 사용법:** Đây là chỉ báo không chỉ so sánh số tiền lương hưu mà còn xem xét thời gian đăng ký, mức lương trung bình, giá cả và gánh nặng giữa các thế hệ.
 
-**재사용 가능한 콜로케이션·청크:** `연금소득대체율 인상`, `실질 연금소득대체율`, `대체율 논쟁`.
+**재사용 가능한 콜로케이션·청크:** `연금소득대체율 인상`, `실질 연금소득대체율`, `대체율 논쟁`. — `Tăng tỷ lệ thay thế thu nhập lương hưu`, `tỷ lệ thay thế thu nhập lương hưu thực tế`, `tranh luận về tỷ lệ thay thế`.
 
-**자주 쓰는 문형과 성분:** `개혁안이 연금소득대체율을 조정하다`; 보험료율·노후빈곤·재정과 결합한다.
+**자주 쓰는 문형과 성분:** `개혁안이 연금소득대체율을 조정하다`, `Kế hoạch cải cách điều chỉnh tỷ lệ thay thế lương hưu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 연금개혁·재정·세대정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về cải cách lương hưu, chính sách tài chính và thế hệ.
 
 **예문:** 연금소득대체율을 높이는 방안은 보험료 부담과 재정 지속 가능성을 함께 설명해야 한다.
 
-**어휘 연결:** `연금액`은 받는 돈의 절대 규모이고, `연금소득대체율`은 은퇴 전 생활수준과의 상대적 관계다.
+**Dịch:** Các biện pháp tăng tỷ lệ thay thế lương hưu phải tính đến cả gánh nặng phí bảo hiểm và tính bền vững tài chính.
 
-**영어 참고:** *pension replacement rate* — 은퇴 전 소득 중 연금이 대체하는 비율이다.
+**어휘 연결:** `연금액`은 받는 돈의 절대 규모이고, `연금소득대체율`은 은퇴 전 생활수준과의 상대적 관계다. — 'Số tiền lương hưu' là số tiền tuyệt đối nhận được và 'tỷ lệ thay thế lương hưu' là mối quan hệ tương đối với mức sống trước khi nghỉ hưu.
+
+**영어 참고:** *pension replacement rate* — Đây là tỷ lệ thu nhập trước khi nghỉ hưu được thay thế bằng lương hưu.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** tiêu chí người có nghĩa vụ phụng dưỡng.
 
-**뉘앙스와 사용법:** 가족관계가 있다는 사실과 실제로 도움을 받을 수 있는지는 다르다는 점에서 폐지·완화 논쟁이 이어진다.
+**뉘앙스와 사용법:** Cuộc tranh luận về việc bãi bỏ và giảm nhẹ vẫn tiếp tục ở chỗ thực tế là có mối quan hệ gia đình khác với việc một người có thực sự nhận được trợ giúp hay không.
 
-**재사용 가능한 콜로케이션·청크:** `부양의무자 기준 완화`, `부양의무자 기준 폐지`, `수급자 선정 기준`.
+**재사용 가능한 콜로케이션·청크:** `부양의무자 기준 완화`, `부양의무자 기준 폐지`, `수급자 선정 기준`. — 'Nới lỏng các tiêu chuẩn đối với người có nghĩa vụ hỗ trợ', 'Bãi bỏ các tiêu chuẩn đối với người có nghĩa vụ hỗ trợ', 'Tiêu chuẩn lựa chọn người thụ hưởng'.
 
-**자주 쓰는 문형과 성분:** `정부가 부양의무자 기준을 완화하다`; 기초생활보장·빈곤·가족 책임과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 부양의무자 기준을 완화하다`, `Chính phủ nới lỏng các tiêu chuẩn đối với những người có nghĩa vụ hỗ trợ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지법·빈곤정책·가족주의 논쟁의 고급어다.
+**사회적 관계·주제별 register:** Đây là một thuật ngữ thú vị cho cuộc tranh luận về luật phúc lợi, chính sách nghèo đói và chủ nghĩa gia đình.
 
 **예문:** 부양의무자 기준이 엄격하면 실제로 돌봄을 받지 못하는 노인도 지원에서 제외될 수 있다.
 
-**어휘 연결:** `가족 부양`은 사회적 의무를 말하고, `부양의무자 기준`은 복지 수급을 가르는 행정 기준이다.
+**Dịch:** Nếu các tiêu chuẩn dành cho người chăm sóc rất nghiêm ngặt, ngay cả những người cao tuổi không thực sự được chăm sóc cũng có thể bị loại khỏi hỗ trợ.
 
-**영어 참고:** *family-support eligibility criterion* — 가족의 부양 가능성을 복지 자격에 반영하는 기준이다.
+**어휘 연결:** `가족 부양`은 사회적 의무를 말하고, `부양의무자 기준`은 복지 수급을 가르는 행정 기준이다. — 'Hỗ trợ gia đình' đề cập đến nghĩa vụ xã hội và 'tiêu chuẩn người hỗ trợ' là tiêu chuẩn hành chính xác định việc nhận phúc lợi.
+
+**영어 참고:** *family-support eligibility criterion* — Đây là tiêu chuẩn phản ánh khả năng hỗ trợ một gia đình đủ điều kiện nhận phúc lợi.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** phá sản vì chi phí chăm sóc.
 
-**뉘앙스와 사용법:** 공식 통계 분류라기보다 간병의 경제적 충격과 제도 공백을 고발하는 현재의 뉴스·대화 표현이다.
+**뉘앙스와 사용법:** Thay vì phân loại thống kê chính thức, đây là sự thể hiện tin tức và cuộc trò chuyện hiện tại phơi bày tác động kinh tế của việc điều dưỡng và những lỗ hổng trong hệ thống.
 
-**재사용 가능한 콜로케이션·청크:** `간병 파산을 막다`, `간병 파산 위기`, `간병 파산 대책`.
+**재사용 가능한 콜로케이션·청크:** `간병 파산을 막다`, `간병 파산 위기`, `간병 파산 대책`. — 'Ngăn chặn phá sản dịch vụ chăm sóc', 'Khủng hoảng phá sản dịch vụ chăm sóc', 'Các biện pháp phá sản dịch vụ chăm sóc'.
 
-**자주 쓰는 문형과 성분:** `가족이 간병 파산에 내몰리다`; 간병비·대출·간병보험과 결합한다.
+**자주 쓰는 문형과 성분:** `가족이 간병 파산에 내몰리다`, `Gia đình bị phá sản do phải chăm sóc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 시사 기사·환자 가족 인터뷰·복지 커뮤니티에서 현재적으로 쓰이는 비격식 평가어다.
+**사회적 관계·주제별 register:** Thuật ngữ đánh giá không chính thức hiện đang được sử dụng trong các bài viết thời sự, các cuộc phỏng vấn gia đình bệnh nhân và cộng đồng phúc lợi.
 
 **예문:** 간병 파산을 막으려면 가족에게 비용을 떠넘기지 않는 공공 간병 체계가 필요해.
 
-**어휘 연결:** `간병비 부담`은 정책 분석어이고, `간병 파산`은 그 부담이 가계 전체를 무너뜨리는 극단적 결과를 강조한다.
+**Dịch:** Để ngăn chặn tình trạng phá sản dịch vụ chăm sóc, chúng ta cần một hệ thống chăm sóc công cộng không chuyển chi phí sang các gia đình.
 
-**영어 참고:** *caregiving bankruptcy* — 장기 간병 비용으로 가정의 재정이 붕괴하는 상황이다.
+**어휘 연결:** `간병비 부담`은 정책 분석어이고, `간병 파산`은 그 부담이 가계 전체를 무너뜨리는 극단적 결과를 강조한다. — 'Gánh nặng chi phí chăm sóc' là một từ phân tích chính sách và 'sự phá sản trong lĩnh vực chăm sóc' nhấn mạnh kết quả cực đoan của gánh nặng đè nặng lên toàn bộ hộ gia đình.
+
+**영어 참고:** *caregiving bankruptcy* — Tài chính của gia đình đang suy sụp do chi phí chăm sóc dài hạn.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** ông bà chăm cháu khi về già.
 
-**뉘앙스와 사용법:** 가족의 도움을 따뜻하게 묘사할 수도 있지만, 노년층의 체력·시간·경제 부담을 드러내는 현재의 사회어다.
+**뉘앙스와 사용법:** Nó có thể mô tả sự hỗ trợ của gia đình một cách nồng nhiệt, nhưng nó là ngôn ngữ xã hội hiện tại bộc lộ gánh nặng về thể chất, thời gian và kinh tế của người cao tuổi.
 
-**재사용 가능한 콜로케이션·청크:** `황혼육아 부담`, `황혼육아 수당`, `황혼육아 갈등`.
+**재사용 가능한 콜로케이션·청크:** `황혼육아 부담`, `황혼육아 수당`, `황혼육아 갈등`. — ‘Gánh nặng chăm sóc trẻ trong những năm chạng vạng’, ‘Cho phép chăm sóc trẻ trong những giờ chạng vạng’, ‘Xung đột trong việc chăm sóc trẻ trong những năm chạng vạng’.
 
-**자주 쓰는 문형과 성분:** `조부모가 황혼육아를 맡다`; 저출생·맞벌이·세대 갈등과 결합한다.
+**자주 쓰는 문형과 성분:** `조부모가 황혼육아를 맡다`, `Ông bà đảm trách việc chăm sóc con cái trong những năm tháng tuổi xế chiều` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 육아 기사·가족 대화·온라인 커뮤니티에서 현재적으로 쓰이는 평가적 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt mang tính đánh giá hiện được sử dụng trong các bài viết về nuôi dạy con cái, các cuộc trò chuyện trong gia đình và cộng đồng trực tuyến.
 
 **예문:** 황혼육아를 당연한 가족 의무로 여기면 조부모의 건강과 휴식이 쉽게 희생될 수 있어.
 
-**어휘 연결:** `조부모 돌봄`은 중립적이고, `황혼육아`는 노년기에 양육 책임이 집중되는 세대 현상을 압축한다.
+**Dịch:** Nếu việc chăm sóc trẻ em được coi là nghĩa vụ của gia đình thì sức khỏe và sự nghỉ ngơi của ông bà có thể dễ dàng bị hy sinh.
 
-**영어 참고:** *grandparent caregiving in later life* — 조부모 세대가 손자녀 양육을 맡는 현상이다.
+**어휘 연결:** `조부모 돌봄`은 중립적이고, `황혼육아`는 노년기에 양육 책임이 집중되는 세대 현상을 압축한다. — 'Sự chăm sóc của ông bà' là trung lập và 'chăm sóc trẻ lúc chạng vạng' gói gọn hiện tượng thế hệ trong đó trách nhiệm nuôi dạy con cái tập trung ở tuổi già.
+
+**영어 참고:** *grandparent caregiving in later life* — Đây là hiện tượng thế hệ ông bà đảm nhiệm việc nuôi cháu.
 
 <!-- passage_word_count: 100 Korean eojeol; target_set: 통합돌봄, 방문건강관리, 호스피스·완화의료, 사전연명의료의향서, 건강수명, 간병비 부담, 건강불평등, 의료취약계층, 노인맞춤돌봄, 고령친화도시, 주거연금, 연금소득대체율, 부양의무자 기준, 간병 파산, 황혼육아 -->
 

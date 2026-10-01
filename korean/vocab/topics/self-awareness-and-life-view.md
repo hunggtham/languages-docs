@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** thế giới trần tục, cõi đời.
 
-**뉘앙스와 사용법:** `세상`보다 종교적이고 문학적이다. 일상 대화에서 단순히 “ngoài đời”라고 말할 때는 `세상`이 자연스럽고, 수행·출가와 대비할 때 `속세`가 정확하다.
+**뉘앙스와 사용법:** Nó mang tính tôn giáo và văn học nhiều hơn 'thế giới'. Khi nói đơn giản “ngoại đời” trong cuộc trò chuyện hàng ngày, ‘thế gian’ là điều đương nhiên, và ‘thế gian’ lại chính xác khi đối chiếu nó với lối sống khổ hạnh và đi tu.
 
-**재사용 가능한 콜로케이션·청크:** `속세를 등지다`, `속세의 욕망`, `속세로 돌아오다`.
+**재사용 가능한 콜로케이션·청크:** `속세를 등지다`, `속세의 욕망`, `속세로 돌아오다`. — `Quay lưng lại với thế giới', `Khát vọng thế giới', `Trở về thế giới'.
 
-**자주 쓰는 문형과 성분:** `N이/가 속세를 등지다`; 주어는 승려, 수행자 또는 세속을 떠나려는 사람인 경우가 많다.
+**자주 쓰는 문형과 성분:** `N이/가 속세를 등지다`, `N quay lưng lại với thế giới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 종교, 문학, 사색, 기사·에세이의 문어체. 친구 사이의 일상 대화에서는 다소 과장되거나 문학적으로 들릴 수 있다.
+**사회적 관계·주제별 register:** Hình thức viết về tôn giáo, văn học, suy tư, bài báo và tiểu luận. Trong cuộc trò chuyện hàng ngày giữa bạn bè, nó có vẻ hơi cường điệu hoặc mang tính văn chương.
 
 **예문:** 그는 한동안 속세를 등지고 산속에서 지냈다.
 
-**어휘 연결:** `세상`은 기본적이고 일상적인 표현, `세속`은 문어·종교적 색채가 강하다. `속세`는 특히 출가 생활과 대비된다. 반대축으로 `출가 생활`, `성스러운 세계`를 말할 수 있지만 완전한 반의어는 아니다.
+**Dịch:** Anh ấy đã rời xa thế giới một thời gian và ở lại trong núi.
 
-**영어 참고:** *worldly life*, *secular world* — *worldly life*는 세속적 삶의 방식, *secular world*는 종교 영역과 대비되는 세상을 강조한다.
+**어휘 연결:** `세상`은 기본적이고 일상적인 표현, `세속`은 문어·종교적 색채가 강하다. `속세`는 특히 출가 생활과 대비된다. 반대축으로 `출가 생활`, `성스러운 세계`를 말할 수 있지만 완전한 반의어는 아니다. — 'Thế giới' là cách diễn đạt cơ bản, hàng ngày và 'thế tục' mang đậm hương vị văn học và tôn giáo. ‘Thế giới trần tục’ đặc biệt tương phản với đời sống tu viện. Ở trục đối diện, chúng ta có thể nói về “đời sống tu viện” và “thế giới thiêng liêng”, nhưng chúng không hoàn toàn trái nghĩa.
+
+**영어 참고:** *worldly life*, *secular world* — *cuộc sống trần tục* nhấn mạnh lối sống thế tục và *thế giới thế tục* nhấn mạnh thế giới trái ngược với lĩnh vực tôn giáo.
 
 ---
 
@@ -37,19 +39,21 @@
 
 **베트남어 뜻:** ý thức về bản thân; đôi khi là sự quá để ý ánh nhìn của người khác.
 
-**뉘앙스와 사용법:** 긍정적인 자기 이해일 수도 있지만 `자의식이 강하다`, `자의식 과잉`에서는 타인의 시선을 지나치게 의식한다는 부정적 뉘앙스가 흔하다.
+**뉘앙스와 사용법:** Đó có thể là sự hiểu biết tích cực về bản thân, nhưng trong 'sự tự ý thức mạnh mẽ' và 'tự ý thức quá mức', sắc thái tiêu cực của việc quá ý thức về cái nhìn của người khác là phổ biến.
 
-**재사용 가능한 콜로케이션·청크:** `자의식이 강하다`, `자의식 과잉`, `자의식을 느끼다`, `자의식을 내려놓다`.
+**재사용 가능한 콜로케이션·청크:** `자의식이 강하다`, `자의식 과잉`, `자의식을 느끼다`, `자의식을 내려놓다`. — `tự giác mạnh mẽ`, `tự giác quá mức`, `cảm thấy tự ti`, `buông bỏ tự giác`.
 
-**자주 쓰는 문형과 성분:** `N이/가 자의식이 강하다`; `자의식 때문에 + V`; 원인은 카메라, 발표, 외모, 타인의 평가가 자주 온다.
+**자주 쓰는 문형과 성분:** `N이/가 자의식이 강하다`, `자의식 때문에 + V`, `N/rất tự ti`, `Vì tự giác + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리, 자기계발, 예술 비평에서는 중립적·전문적으로 쓰인다. 일상 대화에서는 “quá ngại ánh mắt người khác”라는 비판적 의미가 더 쉽게 살아난다.
+**사회적 관계·주제별 register:** Được sử dụng một cách trung lập và chuyên nghiệp trong tâm lý học, phát triển bản thân và phê bình nghệ thuật. Trong cuộc trò chuyện hàng ngày, ý nghĩa phê phán của “quá chống ánh mắt người khác” trở nên dễ dàng hơn trong cuộc sống.
 
 **예문:** 카메라 앞에 서면 괜히 자의식이 강해져서 표정이 굳는다.
 
-**어휘 연결:** `자기 인식`은 객관적인 self-awareness에 가깝고, `자의식`은 타인의 시선을 의식하는 느낌까지 포함한다. `메타인지`는 자신의 사고 과정을 점검하는 더 전문적인 개념이다. 반대축은 문맥상 `초연함`, `자연스러움`이다.
+**Dịch:** Khi đứng trước ống kính, tôi trở nên tự ti và vẻ mặt trở nên căng thẳng.
 
-**영어 참고:** *self-awareness*, *self-consciousness* — *self-awareness*는 중립적 자기 이해, *self-consciousness*는 타인의 평가를 의식해 불편한 상태를 뜻한다.
+**어휘 연결:** `자기 인식`은 객관적인 self-awareness에 가깝고, `자의식`은 타인의 시선을 의식하는 느낌까지 포함한다. `메타인지`는 자신의 사고 과정을 점검하는 더 전문적인 개념이다. 반대축은 문맥상 `초연함`, `자연스러움`이다. — `Tự nhận thức` gần với sự tự nhận thức khách quan và `tự ý thức` bao gồm cảm giác nhận thức được cái nhìn của người khác. 'Siêu nhận thức' là một khái niệm chuyên biệt hơn để kiểm tra quá trình tư duy của chính một người. Trục đối diện là 'tách rời' và 'tự nhiên' trong bối cảnh.
+
+**영어 참고:** *self-awareness*, *self-consciousness* — *tự nhận thức* đề cập đến sự hiểu biết trung lập về bản thân và *tự ý thức* đề cập đến trạng thái không thoải mái khi ý thức được việc đánh giá người khác.
 
 ---
 
@@ -61,19 +65,21 @@
 
 **베트남어 뜻:** sự bền bỉ, quyết chí; bản tính khó sửa.
 
-**뉘앙스와 사용법:** `근성이 있다`는 칭찬이지만 `거지 근성`은 경멸적이다. 긍정·부정이 결합어와 말하는 태도에 따라 크게 바뀐다.
+**뉘앙스와 사용법:** 'Có lòng can đảm' là một lời khen ngợi, nhưng 'sự gan dạ ăn xin' là sự xúc phạm. Khẳng định và phủ định thay đổi rất nhiều tùy thuộc vào cách kết hợp từ ngữ và thái độ nói.
 
-**재사용 가능한 콜로케이션·청크:** `근성이 있다`, `근성을 보이다`, `끝까지 해내는 근성`, `거지 근성`.
+**재사용 가능한 콜로케이션·청크:** `근성이 있다`, `근성을 보이다`, `끝까지 해내는 근성`, `거지 근성`. — 'Có lòng can đảm', 'Thể hiện lòng can đảm', 'Có can đảm để xem đến cùng', 'Có can đảm như một kẻ ăn xin'.
 
-**자주 쓰는 문형과 성분:** `N이/가 근성을 보이다`; `근성으로 + V`; 장기 프로젝트, 운동, 경쟁 맥락에서 자연스럽다.
+**자주 쓰는 문형과 성분:** `N이/가 근성을 보이다`, `근성으로 + V`, `N thể hiện sự gan góc`, `Có nhám + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 코칭·스포츠·직장에서는 칭찬으로, 사회 비평이나 다툼에서는 부정적 성격 평가로 쓰인다.
+**사회적 관계·주제별 register:** Nó được sử dụng như một lời khen ngợi trong huấn luyện, thể thao và nơi làm việc cũng như đánh giá tính cách tiêu cực trong các cuộc tranh luận hoặc chỉ trích xã hội.
 
 **예문:** 재능보다 끝까지 버티는 근성이 더 오래가는 힘이 될 때가 많다.
 
-**어휘 연결:** `끈기`는 기본적이고 중립적이다. `근성`은 더 강하고 감정적이며, `집념`은 목표에 대한 집착, `투지`는 경쟁에서 맞서는 의지를 강조한다. 직접적 반의어는 없고 `포기`, `나약함`이 반대축이다.
+**Dịch:** Có nhiều khi sự can đảm kiên trì đến cùng lại là sức mạnh bền vững hơn tài năng.
 
-**영어 참고:** *tenacity*, *grit*, *doggedness* — *tenacity*는 지속력, *grit*은 역경을 견디는 실천적 끈기, *doggedness*는 고집스럽게 밀어붙이는 느낌까지 포함한다.
+**어휘 연결:** `끈기`는 기본적이고 중립적이다. `근성`은 더 강하고 감정적이며, `집념`은 목표에 대한 집착, `투지`는 경쟁에서 맞서는 의지를 강조한다. 직접적 반의어는 없고 `포기`, `나약함`이 반대축이다. — 'Kiên trì' là cơ bản và trung tính. 'Guts' mạnh mẽ hơn và giàu cảm xúc hơn, 'sự ngoan cường' nhấn mạnh nỗi ám ảnh về mục tiêu và 'tinh thần chiến đấu' nhấn mạnh ý chí đối mặt với sự cạnh tranh. Không có từ trái nghĩa trực tiếp, và 'bỏ cuộc' và 'điểm yếu' là hai trục đối lập nhau.
+
+**영어 참고:** *tenacity*, *grit*, *doggedness* — *sự kiên cường* bao gồm sự kiên trì, *sự can đảm* bao gồm sự kiên trì thực tế để chịu đựng nghịch cảnh và *sự ngoan cường* bao gồm cảm giác ngoan cường tiến về phía trước.
 
 ---
 
@@ -85,19 +91,21 @@
 
 **베트남어 뜻:** tam tai, hạn tam tai.
 
-**뉘앙스와 사용법:** 과학적 개념이 아니라 전통적 운세 담론이다. 한국인은 진지하게 믿기도 하고, “올해 삼재라서”를 반농담으로 사용하기도 한다.
+**뉘앙스와 사용법:** Nó không phải là một khái niệm khoa học mà là một bài diễn văn bói toán truyền thống. Người Hàn Quốc tin vào điều đó một cách nghiêm túc hoặc sử dụng nó một cách nửa đùa nửa thật khi nói rằng “Samjae của năm nay”.
 
-**재사용 가능한 콜로케이션·청크:** `삼재가 들다`, `삼재가 끝나다`, `삼재라서 조심하다`.
+**재사용 가능한 콜로케이션·청크:** `삼재가 들다`, `삼재가 끝나다`, `삼재라서 조심하다`. — `Samjae bước vào`, `Samjae kết thúc`, `Hãy cẩn thận vì đó là Samjae`.
 
-**자주 쓰는 문형과 성분:** `N이/가 삼재에 들다`; `삼재라서 + 조심하다/액땜하다`.
+**자주 쓰는 문형과 성분:** `N이/가 삼재에 들다`, `삼재라서 + 조심하다/액땜하다`, `N thuộc lớp thứ ba` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 가족 대화, 점집, 민속·종교 이야기에서 쓰인다. 공적인 보고서나 과학적 설명에는 부적절하다.
+**사회적 관계·주제별 register:** Được sử dụng trong các cuộc trò chuyện gia đình, bói toán và các câu chuyện dân gian, tôn giáo. Nó không phù hợp với các báo cáo công khai hoặc giải thích khoa học.
 
 **예문:** 올해 삼재라서 조심해야 한다는 말을 들었지만, 나는 크게 신경 쓰지 않는다.
 
-**어휘 연결:** `액운`은 나쁜 운 전반, `삼재`는 특정 민간 신앙 체계의 운세다. `흉운`은 문어적이고 드물다. `길운`은 운세 담론 안의 반대축이지만 과학적 반의어는 아니다.
+**Dịch:** Tôi nghe nói phải cẩn thận vì năm nay là Samjae, nhưng tôi không thực sự quan tâm.
 
-**영어 참고:** *bad luck*, *a period of misfortune* — *bad luck*은 일반적인 불운, *a period of misfortune*은 일정 기간 이어지는 불운에 적합하다.
+**어휘 연결:** `액운`은 나쁜 운 전반, `삼재`는 특정 민간 신앙 체계의 운세다. `흉운`은 문어적이고 드물다. `길운`은 운세 담론 안의 반대축이지만 과학적 반의어는 아니다. — 'Bất hạnh' nói đến vận rủi nói chung và 'Samjae' nói đến vận may của một hệ thống tín ngưỡng dân gian cụ thể. 'Xui xẻo' là nghĩa đen và hiếm. ‘Chúc may mắn’ là trục đối lập trong diễn ngôn bói toán, nhưng nó không phải là một từ trái nghĩa khoa học.
+
+**영어 참고:** *bad luck*, *a period of misfortune* — *xui xẻo* phù hợp với vận rủi nói chung, và *giai đoạn xui xẻo* phù hợp với vận rủi kéo dài trong một khoảng thời gian nhất định.
 
 ---
 
@@ -109,19 +117,21 @@
 
 **베트남어 뜻:** buồn bã, u sầu, cô đơn.
 
-**뉘앙스와 사용법:** `슬프다`보다 지속적이고 축 처진 감정이다. 큰 비극보다 날씨, 외로움, 이유 없는 침체에도 쓴다.
+**뉘앙스와 사용법:** Đó là một cảm xúc dai dẳng và uể oải hơn là ‘buồn’. Thay vì những bi kịch lớn, tôi viết về thời tiết, sự cô đơn và chứng trầm cảm không giải thích được.
 
-**재사용 가능한 콜로케이션·청크:** `기분이 울적하다`, `괜히 울적하다`, `울적한 마음`.
+**재사용 가능한 콜로케이션·청크:** `기분이 울적하다`, `괜히 울적하다`, `울적한 마음`. — `Tôi cảm thấy chán nản`, `Tôi cảm thấy chán nản vô cớ`, `Tôi cảm thấy chán nản`.
 
-**자주 쓰는 문형과 성분:** `N 때문에/괜히 울적하다`; 주어는 사람의 기분·마음이다.
+**자주 쓰는 문형과 성분:** `N 때문에/괜히 울적하다`, `Vì N/Tôi cảm thấy chán nản vô cớ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상 감정 표현이며 격식이 낮다. 상담·에세이에서는 섬세한 우울감을 표현할 수 있다.
+**사회적 관계·주제별 register:** Nó là sự thể hiện cảm xúc hàng ngày và mang tính trang trọng thấp. Trong tư vấn và bài luận, bạn có thể bày tỏ cảm giác trầm cảm tinh tế.
 
 **예문:** 비가 며칠째 계속 오니 괜히 마음이 울적하다.
 
-**어휘 연결:** `우울하다`는 더 넓고 강한 표현이며 임상적 맥락도 가능하다. `쓸쓸하다`는 외로움, `침울하다`는 무겁고 공식적인 분위기를 강조한다. 반대축은 `명랑하다`, `활기차다`다.
+**Dịch:** Mấy ngày nay trời mưa nên tôi thấy chán nản vô cớ.
 
-**영어 참고:** *downhearted*, *gloomy*, *melancholy* — *downhearted*는 낙담, *gloomy*는 어두운 기분/분위기, *melancholy*는 문학적이고 잔잔한 우울을 뜻한다.
+**어휘 연결:** `우울하다`는 더 넓고 강한 표현이며 임상적 맥락도 가능하다. `쓸쓸하다`는 외로움, `침울하다`는 무겁고 공식적인 분위기를 강조한다. 반대축은 `명랑하다`, `활기차다`다. — 'Trầm cảm' là cách diễn đạt rộng hơn và mạnh mẽ hơn và cũng có thể được sử dụng trong bối cảnh lâm sàng. 'Cô đơn' nhấn mạnh sự cô đơn, và 'chán nản' nhấn mạnh bầu không khí nặng nề và trang trọng. Trục đối diện là 'vui vẻ' và 'sống động'.
+
+**영어 참고:** *downhearted*, *gloomy*, *melancholy* — *chán nản* có nghĩa là chán nản, *u ám* có nghĩa là tâm trạng/bầu không khí đen tối và *u sầu* có nghĩa là nỗi u sầu mang tính văn chương và êm đềm.
 
 ---
 
@@ -133,19 +143,21 @@
 
 **베트남어 뜻:** cảm giác trống rỗng, vô nghĩa.
 
-**뉘앙스와 사용법:** 단순히 심심한 상태보다 깊다. 목표를 이룬 뒤, 관계가 끊긴 뒤, 반복되는 삶에서 “무엇을 위해 사는가”라는 감각과 연결된다.
+**뉘앙스와 사용법:** Nó sâu sắc hơn là chỉ cảm thấy buồn chán. Sau khi đạt được mục tiêu, chia tay một mối quan hệ và lặp lại cuộc sống, nó được kết nối với cảm giác “bạn sống để làm gì?”
 
-**재사용 가능한 콜로케이션·청크:** `공허감을 느끼다`, `공허감이 밀려오다`, `공허감을 달래다`.
+**재사용 가능한 콜로케이션·청크:** `공허감을 느끼다`, `공허감이 밀려오다`, `공허감을 달래다`. — 'Cảm giác trống rỗng', 'Cảm giác trống rỗng', 'Xoa dịu cảm giác trống rỗng'.
 
-**자주 쓰는 문형과 성분:** `N을/를 하고도 공허감을 느끼다`; `공허감이 + 밀려오다/남다`.
+**자주 쓰는 문형과 성분:** `N을/를 하고도 공허감을 느끼다`, `공허감이 + 밀려오다/남다`, `Cảm thấy trống rỗng ngay cả sau khi làm N`, `Cảm giác trống rỗng + ùa vào/ở lại` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리 상담, 에세이, 예술·철학 주제에서 자연스럽다. 일상 대화에서는 다소 무겁게 들릴 수 있다.
+**사회적 관계·주제별 register:** Tự nhiên trong tư vấn tâm lý, tiểu luận và các chủ đề nghệ thuật/triết học. Nó có vẻ hơi nặng nề trong cuộc trò chuyện hàng ngày.
 
 **예문:** 목표를 이루고 나니 기쁨보다 공허감이 먼저 밀려왔다.
 
-**어휘 연결:** `허전함`은 일상적이고 약한 빈자리의 느낌, `공허감`은 더 깊고 추상적이다. `무기력`은 행동할 힘이 없는 상태, `허무`는 의미 자체에 대한 회의까지 포함한다. 반대축은 `충만감`, `보람`이다.
+**Dịch:** Sau khi đạt được mục tiêu, tôi cảm thấy trống rỗng trước niềm vui.
 
-**영어 참고:** *a sense of emptiness*, *hollowness*, *existential void* — *a sense of emptiness*는 일반적 감정, *hollowness*는 내면의 허위감, *existential void*는 철학적·실존적 공허를 뜻한다.
+**어휘 연결:** `허전함`은 일상적이고 약한 빈자리의 느낌, `공허감`은 더 깊고 추상적이다. `무기력`은 행동할 힘이 없는 상태, `허무`는 의미 자체에 대한 회의까지 포함한다. 반대축은 `충만감`, `보람`이다. — 'Sự trống rỗng' là cảm giác trống rỗng yếu ớt thường ngày, trong khi 'sự trống rỗng' sâu sắc hơn và trừu tượng hơn. 'Lờ đờ' ám chỉ trạng thái không còn sức lực để hành động, và 'vô ích' bao gồm sự hoài nghi về bản thân ý nghĩa. Trục đối diện là 'sự viên mãn' và 'bổ ích'.
+
+**영어 참고:** *a sense of emptiness*, *hollowness*, *existential void* — *cảm giác trống rỗng* ám chỉ một cảm xúc chung, *sự trống rỗng* ám chỉ cảm giác sai lầm bên trong và *khoảng trống hiện sinh* ám chỉ sự trống rỗng mang tính triết học và hiện sinh.
 
 ---
 
@@ -157,19 +169,21 @@
 
 **베트남어 뜻:** mất tự tin, bị lép vế, trở nên ủ rũ.
 
-**뉘앙스와 사용법:** 보통 다른 사람의 권위, 실패, 비교 때문에 심리적으로 움츠러드는 장면에 쓴다. `기죽다`보다 “겁먹고 위축되다”라는 느낌이 강하다.
+**뉘앙스와 사용법:** Thường được sử dụng trong những cảnh mà mọi người co rút tâm lý vì quyền lực, thất bại hoặc so sánh của người khác. Cảm giác “sợ hãi và bị đe dọa” mạnh hơn cảm giác “nản lòng”.
 
-**재사용 가능한 콜로케이션·청크:** `주눅들지 말다`, `주눅든 표정`, `주눅이 들다`.
+**재사용 가능한 콜로케이션·청크:** `주눅들지 말다`, `주눅든 표정`, `주눅이 들다`. — `Đừng bị đe dọa`, `Trông có vẻ bị đe dọa`, `Hãy bị đe dọa`.
 
-**자주 쓰는 문형과 성분:** `N 앞에서/때문에 주눅들다`; `주눅들지 않고 + V`.
+**자주 쓰는 문형과 성분:** `N 앞에서/때문에 주눅들다`, `주눅들지 않고 + V`, `Tôi cảm thấy bị đe dọa trước/vì N`, `Không bị đe dọa + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이며 친구·교사·상사·경쟁자처럼 사회적 비교가 있는 관계에서 자주 쓴다.
+**사회적 관계·주제별 register:** Nó là thông tục và thường được sử dụng trong các mối quan hệ liên quan đến so sánh xã hội, chẳng hạn như bạn bè, giáo viên, sếp và đối thủ cạnh tranh.
 
 **예문:** 실수 하나 했다고 발표할 때부터 주눅들 필요는 없어.
 
-**어휘 연결:** `기죽다`는 더 쉬운 구어체이고, `위축되다`는 공식적·심리학적이다. `당당하다`와 `자신감 있다`가 반대축이며, `겁먹다`는 두려움 자체를 더 강조한다.
+**Dịch:** Không cần phải cảm thấy sợ hãi khi bạn thông báo rằng mình đã mắc lỗi.
 
-**영어 참고:** *feel intimidated*, *lose confidence*, *be cowed* — *feel intimidated*는 상대의 힘 때문에 위축됨, *lose confidence*는 자신감 상실, *be cowed*는 권위에 눌린 상태를 뜻한다.
+**어휘 연결:** `기죽다`는 더 쉬운 구어체이고, `위축되다`는 공식적·심리학적이다. `당당하다`와 `자신감 있다`가 반대축이며, `겁먹다`는 두려움 자체를 더 강조한다. — 'Daunted' là một từ thông tục dễ dàng hơn và 'daunted' là từ mang tính trang trọng và tâm lý. 'Tự tin' và 'tự tin' là hai trục trái ngược nhau, và 'sợ hãi' nhấn mạnh bản thân nỗi sợ hãi nhiều hơn.
+
+**영어 참고:** *feel intimidated*, *lose confidence*, *be cowed* — *cảm thấy bị đe dọa* có nghĩa là bị đe dọa bởi sức mạnh của người khác, *mất tự tin* có nghĩa là mất tự tin và *bị khuất phục* có nghĩa là bị chính quyền áp bức.
 
 ---
 

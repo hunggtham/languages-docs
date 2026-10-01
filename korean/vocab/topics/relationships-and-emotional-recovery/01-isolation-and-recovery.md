@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** cô độc, cô đơn; sống tách biệt.
 
-**뉘앙스와 사용법:** `외롭다`보다 문어적이고 깊은 단절감을 드러낸다. 혼자 있는 시간이 평온하다는 뜻으로도 쓰이지만, 보통은 관계의 부재가 주는 쓸쓸함이 포함된다.
+**뉘앙스와 사용법:** Nó có nghĩa đen hơn là 'cô đơn' và bộc lộ cảm giác mất kết nối sâu sắc. Nó cũng được dùng với nghĩa là thời gian ở một mình thật yên bình, nhưng nó thường bao gồm sự cô đơn do thiếu vắng các mối quan hệ.
 
-**재사용 가능한 콜로케이션·청크:** `고독을 견디다`, `고독한 시간을 보내다`, `고독을 즐기다`, `깊은 고독에 빠지다`.
+**재사용 가능한 콜로케이션·청크:** `고독을 견디다`, `고독한 시간을 보내다`, `고독을 즐기다`, `깊은 고독에 빠지다`. — 'Chịu đựng sự cô độc', 'Dành thời gian cô đơn', 'Tận hưởng sự cô độc', 'Rơi vào sự cô độc sâu sắc'.
 
-**자주 쓰는 문형과 성분:** `N이/가 고독하다`; `고독을 느끼다/견디다`; 사람뿐 아니라 삶·작업·선택도 주어가 될 수 있다.
+**자주 쓰는 문형과 성분:** `N이/가 고독하다`, `고독을 느끼다/견디다`, `N cô đơn`, `cảm nhận/chịu đựng sự cô đơn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 에세이, 문학, 심리 상담과 진지한 대화에서 자연스럽다. 일상적인 안부에는 `외롭다`가 더 가볍다.
+**사회적 관계·주제별 register:** Tự nhiên trong các bài tiểu luận, văn học, tư vấn tâm lý và các cuộc trò chuyện nghiêm túc. Khi nói đến lời chào hàng ngày, “Tôi cô đơn” sẽ nhẹ nhàng hơn.
 
 **예문:** 사람들 속에 있어도 자기 이야기를 나눌 사람이 없으면 고독할 수 있다.
 
-**어휘 연결:** `외롭다`는 감정의 기본어이고, `고독하다`는 지속적인 단절과 사색의 분위기까지 담는다. `쓸쓸하다`는 공간이나 분위기에도 쓴다.
+**Dịch:** Ngay cả khi ở giữa mọi người, bạn vẫn có thể cảm thấy cô đơn nếu không có ai để chia sẻ câu chuyện của mình.
 
-**영어 참고:** *lonely*, *solitary*, *isolated* — *lonely*는 외로운 감정, *solitary*는 혼자 있는 상태, *isolated*는 관계에서 단절된 상태를 강조한다.
+**어휘 연결:** `외롭다`는 감정의 기본어이고, `고독하다`는 지속적인 단절과 사색의 분위기까지 담는다. `쓸쓸하다`는 공간이나 분위기에도 쓴다. — 'Cô đơn' là một cảm xúc cơ bản và 'cô đơn' cũng chứa đựng bầu không khí liên tục mất kết nối và suy ngẫm. 'Cô đơn' cũng được sử dụng để mô tả một không gian hoặc bầu không khí.
+
+**영어 참고:** *lonely*, *solitary*, *isolated* — *cô đơn* nhấn mạnh cảm giác cô đơn, *đơn độc* nhấn mạnh trạng thái ở một mình và *cô lập* nhấn mạnh trạng thái bị cắt đứt khỏi một mối quan hệ.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** thảm hại, khốn khổ, bi thảm.
 
-**뉘앙스와 사용법:** 단순히 힘들다는 말보다 상황의 처참함과 자존심의 상처를 강하게 평가한다. 자기 상태를 말할 때는 과장이나 자기 연민처럼 들릴 수 있다.
+**뉘앙스와 사용법:** Thay vì chỉ nói rằng điều đó là khó khăn, mức độ nghiêm trọng của tình huống và sự tổn thương lòng kiêu hãnh được đánh giá mạnh mẽ hơn. Khi nói về tình trạng của bạn, điều này có vẻ giống như cường điệu hoặc tủi thân.
 
-**재사용 가능한 콜로케이션·청크:** `비참한 처지`, `비참한 최후`, `비참하게 무너지다`, `비참한 기분`.
+**재사용 가능한 콜로케이션·청크:** `비참한 처지`, `비참한 최후`, `비참하게 무너지다`, `비참한 기분`. — `hoàn cảnh khốn khổ`, `kết thúc khốn khổ`, `suy sụp thảm hại`, `cảm giác khốn khổ`.
 
-**자주 쓰는 문형과 성분:** `N이/가 비참하다`; `비참한 + 명사`; 처지·현실·결말·모습과 잘 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 비참하다`, `비참한 + 명사`, `N khổ`, `khốn khổ + danh từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·기사·자기 성찰에서 강한 표현이다. 상대의 삶을 직접 `비참하다`고 하면 모욕이 될 수 있다.
+**사회적 관계·주제별 register:** Đó là sự thể hiện mạnh mẽ trong văn học, bài viết và sự tự suy ngẫm. Có thể là xúc phạm khi trực tiếp gọi cuộc sống của người khác là ‘khốn khổ’.
 
 **예문:** 실패 자체보다 아무에게도 도움을 청하지 못했던 순간이 더 비참하게 느껴졌다.
 
-**어휘 연결:** `불쌍하다`는 연민의 시선, `비참하다`는 상황의 참혹함과 당사자의 굴욕감까지 강조한다. `처참하다`는 피해와 파괴의 장면에 더 자주 쓴다.
+**Dịch:** Khoảnh khắc tôi không thể nhờ ai giúp đỡ còn đau khổ hơn cả thất bại.
 
-**영어 참고:** *miserable*, *wretched*, *pitiful* — *miserable*은 고통스러운 상태, *wretched*는 매우 비참한 처지, *pitiful*은 불쌍해 보인다는 관찰의 뉘앙스다.
+**어휘 연결:** `불쌍하다`는 연민의 시선, `비참하다`는 상황의 참혹함과 당사자의 굴욕감까지 강조한다. `처참하다`는 피해와 파괴의 장면에 더 자주 쓴다. — 'Tội nghiệp' là cái nhìn thương hại và 'khốn khổ' nhấn mạnh sự tàn khốc của hoàn cảnh và sự sỉ nhục của người liên quan. 'Horrible' thường được sử dụng nhiều hơn trong những cảnh hư hại và tàn phá.
+
+**영어 참고:** *miserable*, *wretched*, *pitiful* — *khốn khổ* là một trạng thái đau đớn, *khốn khổ* là một tình huống rất khốn khổ, và *đáng thương* là một sắc thái quan sát có vẻ đáng thương.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** yếu ớt, mong manh, dễ tổn thương.
 
-**뉘앙스와 사용법:** 몸·재료의 약함뿐 아니라 마음·관계·논리의 취약함에도 쓴다. 사람에게 직접 쓰면 보호하고 싶은 느낌과 낮춰 보는 느낌이 모두 가능하다.
+**뉘앙스와 사용법:** Nó không chỉ được sử dụng cho sự yếu đuối của cơ thể và vật chất mà còn cho sự yếu đuối của tâm trí, các mối quan hệ và logic. Khi sử dụng trực tiếp lên người, đều có thể có cảm giác muốn bảo vệ và cảm giác coi thường.
 
-**재사용 가능한 콜로케이션·청크:** `연약한 몸`, `연약한 마음`, `연약한 생명`, `연약해 보이다`.
+**재사용 가능한 콜로케이션·청크:** `연약한 몸`, `연약한 마음`, `연약한 생명`, `연약해 보이다`. — ‘Thân thể mong manh’, ‘Tâm trí mong manh’, ‘Cuộc sống mong manh’, ‘Trông thật mong manh’.
 
-**자주 쓰는 문형과 성분:** `N이/가 연약하다`; `연약한 N`; 몸·마음·생명·구조가 주어 또는 수식 대상이 된다.
+**자주 쓰는 문형과 성분:** `N이/가 연약하다`, `연약한 N`, `N yếu`, `N mềm mại` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학적이고 정서적인 표현이며, 의료·사회복지 글에서도 쓴다. 공식적인 위험 평가에는 `취약하다`가 더 정확하다.
+**사회적 관계·주제별 register:** Nó là một cách diễn đạt văn học và cảm xúc, đồng thời cũng được sử dụng trong các bài viết về y tế và phúc lợi xã hội. Trong đánh giá rủi ro chính thức, ‘dễ bị tổn thương’ chính xác hơn.
 
 **예문:** 겉으로는 차분해 보여도 그 시기에는 마음이 무척 연약했다.
 
-**어휘 연결:** `약하다`는 가장 넓은 기본어, `연약하다`는 섬세하고 쉽게 상하는 느낌, `취약하다`는 방어력이 부족한 구조적 상태를 말한다.
+**Dịch:** Mặc dù bề ngoài tôi trông có vẻ điềm tĩnh nhưng lúc đó tôi rất mong manh.
 
-**영어 참고:** *fragile*, *delicate*, *vulnerable* — *fragile*은 쉽게 깨지거나 무너짐, *delicate*는 섬세함, *vulnerable*은 공격이나 상처에 노출됨을 강조한다.
+**어휘 연결:** `약하다`는 가장 넓은 기본어, `연약하다`는 섬세하고 쉽게 상하는 느낌, `취약하다`는 방어력이 부족한 구조적 상태를 말한다. — 'Yếu' là từ cơ bản rộng nhất, 'mong manh' ám chỉ cảm giác mong manh và dễ bị hư hại, và 'dễ bị tổn thương' ám chỉ trạng thái cấu trúc thiếu khả năng phòng thủ.
+
+**영어 참고:** *fragile*, *delicate*, *vulnerable* — *mong manh* nhấn mạnh dễ bị gãy hoặc sụp đổ, *tinh tế* nhấn mạnh sự mỏng manh và *dễ bị tổn thương* nhấn mạnh khả năng bị tấn công hoặc bị thương.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** sự nản chí, thất vọng, nhụt chí.
 
-**뉘앙스와 사용법:** 순간적인 슬픔보다 다시 시도할 힘이 꺾인 상태를 가리킨다. `낙담하다`, `낙담에 빠지다`처럼 쓴다.
+**뉘앙스와 사용법:** Thay vì nỗi buồn nhất thời, nó ám chỉ trạng thái mất sức để thử lại. Nó được viết là 'chán nản' hoặc 'rơi vào tình trạng chán nản'.
 
-**재사용 가능한 콜로케이션·청크:** `깊은 낙담`, `낙담하지 말다`, `낙담에 빠지다`, `낙담한 표정`.
+**재사용 가능한 콜로케이션·청크:** `깊은 낙담`, `낙담하지 말다`, `낙담에 빠지다`, `낙담한 표정`. — `Chán nản sâu sắc`, `Đừng nản lòng`, `Nụ nản`, `Biểu hiện chán nản`.
 
-**자주 쓰는 문형과 성분:** `N에 낙담하다`; `낙담을 털어내다`; 실패·결과·소식이 원인이 된다.
+**자주 쓰는 문형과 성분:** `N에 낙담하다`, `낙담을 털어내다`, `Nản lòng vì N`, `rũ bỏ sự chán nản` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 글과 진지한 조언에서 자연스럽고, 친한 대화에서는 `기운이 빠지다`가 더 구어적이다.
+**사회적 관계·주제별 register:** Việc viết và đưa ra lời khuyên nghiêm túc là điều tự nhiên, nhưng trong cuộc trò chuyện thân thiện, từ 'cảm thấy thấp' lại thông tục hơn.
 
 **예문:** 첫 시도가 실패했다고 너무 낙담할 필요는 없다.
 
-**어휘 연결:** `실망`은 기대와 결과의 차이에 대한 감정이고, `낙담`은 그 결과로 의욕이 꺾인 상태다. `좌절`은 목표가 막힌 경험과 감정을 더 넓게 가리킨다.
+**Dịch:** Không cần phải quá nản lòng nếu lần thử đầu tiên của bạn thất bại.
 
-**영어 참고:** *discouragement*, *disheartenment*, *despondency* — *discouragement*는 의욕 저하, *disheartenment*는 마음이 꺾임, *despondency*는 더 오래 지속되는 깊은 낙담이다.
+**어휘 연결:** `실망`은 기대와 결과의 차이에 대한 감정이고, `낙담`은 그 결과로 의욕이 꺾인 상태다. `좌절`은 목표가 막힌 경험과 감정을 더 넓게 가리킨다. — 'Thất vọng' là cảm giác về sự khác biệt giữa kỳ vọng và kết quả và kết quả là 'nản lòng' là trạng thái mất động lực. 'Thất vọng' đề cập rộng hơn đến trải nghiệm và cảm xúc khi mục tiêu bị chặn.
+
+**영어 참고:** *discouragement*, *disheartenment*, *despondency* — *nản lòng* là mất động lực, *chán nản* là cảm giác chán nản, *chán nản* là chán nản sâu sắc kéo dài lâu hơn.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** sự thiếu hụt, khiếm khuyết, thiếu thốn.
 
-**뉘앙스와 사용법:** 개인의 감정부터 사회 구조와 영양 상태까지 객관적으로 분석할 때 쓴다. 단순한 `부족`보다 원인과 영향이 지속되는 느낌이 있다.
+**뉘앙스와 사용법:** Được sử dụng để phân tích khách quan mọi thứ, từ cảm xúc cá nhân đến cấu trúc xã hội và tình trạng dinh dưỡng. Có cảm giác về tính liên tục của nguyên nhân và kết quả thay vì chỉ đơn giản là “thiếu”.
 
-**재사용 가능한 콜로케이션·청크:** `애정 결핍`, `영양 결핍`, `관계의 결핍`, `결핍을 보완하다`.
+**재사용 가능한 콜로케이션·청크:** `애정 결핍`, `영양 결핍`, `관계의 결핍`, `결핍을 보완하다`. — `Thiếu tình cảm`, `Thiếu dinh dưỡng`, `Thiếu mối quan hệ`, `Bổ sung sự thiếu hụt`.
 
-**자주 쓰는 문형과 성분:** `N의 결핍`; `결핍을 겪다/느끼다/보완하다`; 애정·자원·경험·영양 등이 앞에 온다.
+**자주 쓰는 문형과 성분:** `N의 결핍`, `결핍을 겪다/느끼다/보완하다`, `thiếu N`, `Trải nghiệm/cảm nhận/bổ sung những thiếu sót` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리학·사회학·의학·정책 글의 분석적 표현이다. 일상 대화에서는 `부족함`이 더 자연스럽다.
+**사회적 관계·주제별 register:** Biểu hiện phân tích của các văn bản tâm lý học, xã hội học, y học và chính sách. Trong cuộc trò chuyện hàng ngày, 'thiếu' là điều tự nhiên hơn.
 
 **예문:** 어린 시절의 애정 결핍이 모든 문제의 원인이라고 단정해서는 안 된다.
 
-**어휘 연결:** `부족`은 양이 모자란 일반 상태, `결핍`은 필요한 요소가 구조적으로 비어 있는 상태, `결여`는 공식적이고 추상적인 문어어다.
+**Dịch:** Chúng ta không nên cho rằng thời thơ ấu thiếu tình cảm là nguyên nhân của mọi vấn đề.
 
-**영어 참고:** *deficiency*, *lack*, *deprivation* — *deficiency*는 필요한 요소의 부족, *lack*은 일반적인 부재, *deprivation*은 필요한 것을 빼앗긴 상태를 강조한다.
+**어휘 연결:** `부족`은 양이 모자란 일반 상태, `결핍`은 필요한 요소가 구조적으로 비어 있는 상태, `결여`는 공식적이고 추상적인 문어어다. — 'Thiếu' là trạng thái chung của tình trạng không đủ số lượng, 'thiếu' là trạng thái thiếu cấu trúc của các yếu tố cần thiết và 'thiếu' là một từ viết trang trọng và trừu tượng.
+
+**영어 참고:** *deficiency*, *lack*, *deprivation* — *thiếu sót* nhấn mạnh việc thiếu yếu tố cần thiết, *thiếu* nhấn mạnh sự vắng mặt nói chung và *tước đoạt* nhấn mạnh trạng thái bị thiếu yếu tố cần thiết.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** sự sốt ruột, bồn chồn, lo lắng.
 
-**뉘앙스와 사용법:** `불안`보다 기다림과 조급함이 함께 느껴진다. `초조하다`, `초조해하다`, `초조한 표정`으로 활용한다.
+**뉘앙스와 사용법:** Thay vì 'lo lắng', tôi cảm thấy vừa chờ đợi vừa thiếu kiên nhẫn. Nó được sử dụng như là 'lo lắng', 'lo lắng' và 'biểu hiện lo lắng'.
 
-**재사용 가능한 콜로케이션·청크:** `초조한 마음`, `초조하게 기다리다`, `초조함을 감추다`, `초조해하다`.
+**재사용 가능한 콜로케이션·청크:** `초조한 마음`, `초조하게 기다리다`, `초조함을 감추다`, `초조해하다`. — `tâm trí lo lắng`, `kiên nhẫn chờ đợi`, `che giấu sự lo lắng`, `lo lắng`.
 
-**자주 쓰는 문형과 성분:** `N이/가 초조하다`; `N을/를 초조해하다`; 발표·연락·결과를 기다리는 사람이 주어다.
+**자주 쓰는 문형과 성분:** `N이/가 초조하다`, `N을/를 초조해하다`, `N lo lắng`, `N/băn khoăn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상과 기사 모두에서 중립적으로 쓰인다. 공식 보고서에서는 `불안정한 심리 상태`처럼 풀어 쓸 수 있다.
+**사회적 관계·주제별 register:** Được sử dụng một cách trung lập trong cả cuộc sống và bài viết hàng ngày. Trong các báo cáo chính thức, nó có thể được viết là ‘trạng thái tâm lý không ổn định’.
 
 **예문:** 합격 발표를 앞두고 그는 휴대전화를 몇 분마다 확인하며 초조해했다.
 
-**어휘 연결:** `조급하다`는 서둘러 판단하거나 행동하려는 태도, `초조하다`는 기다리는 동안의 불안, `불안하다`는 위험이나 불확실성에 대한 넓은 감정이다.
+**Dịch:** Trước thông báo chấp nhận, anh ấy rất lo lắng, cứ vài phút lại kiểm tra điện thoại.
 
-**영어 참고:** *anxiety*, *restlessness*, *impatience* — *anxiety*는 불안, *restlessness*는 가만히 있기 어려운 초조함, *impatience*는 기다림을 견디지 못함을 강조한다.
+**어휘 연결:** `조급하다`는 서둘러 판단하거나 행동하려는 태도, `초조하다`는 기다리는 동안의 불안, `불안하다`는 위험이나 불확실성에 대한 넓은 감정이다. — 'Thiếu kiên nhẫn' là thái độ vội vã phán xét hoặc hành động, 'lo lắng' là lo lắng trong khi chờ đợi và 'lo lắng' là cảm giác rộng rãi về rủi ro hoặc sự không chắc chắn.
+
+**영어 참고:** *anxiety*, *restlessness*, *impatience* — *lo lắng* nhấn mạnh sự lo lắng, *bồn chồn* nhấn mạnh sự lo lắng khiến bạn khó giữ yên và *thiếu kiên nhẫn* nhấn mạnh việc không thể chịu đựng được việc chờ đợi.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** sự hư vô, trống rỗng, vô nghĩa.
 
-**뉘앙스와 사용법:** 단순한 피곤함이나 슬픔보다 삶과 노력의 의미를 의심하는 철학적·정서적 감정이다. `허무하다`, `허무감`과 연결된다.
+**뉘앙스와 사용법:** Đó là một cảm giác triết lý và cảm xúc nghi ngờ ý nghĩa của cuộc sống và nỗ lực hơn là sự mệt mỏi hay buồn bã đơn giản. Nó được kết nối với 'sự trống rỗng' và 'cảm giác trống rỗng'.
 
-**재사용 가능한 콜로케이션·청크:** `허무를 느끼다`, `허무에 빠지다`, `허무한 결말`, `허무를 이겨 내다`.
+**재사용 가능한 콜로케이션·청크:** `허무를 느끼다`, `허무에 빠지다`, `허무한 결말`, `허무를 이겨 내다`. — `Cảm giác trống rỗng`, `Rơi vào trống rỗng`, `Một cái kết vô ích`, `Vượt qua sự trống rỗng`.
 
-**자주 쓰는 문형과 성분:** `허무를 느끼다`; `N이 허무하다`; 노력·성공·결말·삶과 자주 결합한다.
+**자주 쓰는 문형과 성분:** `허무를 느끼다`, `N이 허무하다`, `Cảm giác trống rỗng`, `N là vô ích` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·철학·상담과 깊은 자기 성찰에서 쓰인다. 가벼운 실망에는 지나치게 무거울 수 있다.
+**사회적 관계·주제별 register:** Được sử dụng trong văn học, triết học, tư vấn và suy ngẫm sâu sắc về bản thân. Nó có thể quá nặng nề đối với sự thất vọng nhẹ.
 
 **예문:** 목표를 이룬 뒤에도 허무가 남는다면 다음 삶의 방향을 다시 물어야 한다.
 
-**어휘 연결:** `공허`는 안이 비어 있는 정서적 느낌, `허무`는 의미가 무너졌다는 인식까지 포함한다. `허탈`은 긴장이 풀린 뒤 힘이 빠지는 반응이다.
+**Dịch:** Nếu sự trống rỗng vẫn còn ngay cả sau khi đạt được mục tiêu của bạn, bạn cần hỏi lại về hướng đi tiếp theo của cuộc đời mình.
 
-**영어 참고:** *futility*, *emptiness*, *nihility* — *futility*는 노력의 무의미함, *emptiness*는 마음의 빈자리, *nihility*는 철학적 허무에 가깝다.
+**어휘 연결:** `공허`는 안이 비어 있는 정서적 느낌, `허무`는 의미가 무너졌다는 인식까지 포함한다. `허탈`은 긴장이 풀린 뒤 힘이 빠지는 반응이다. — `Tính trống rỗng` bao gồm cảm giác cảm xúc trống rỗng bên trong và `sự trống rỗng` bao gồm nhận thức rằng ý nghĩa đã bị phá hủy. 'Sụp đổ' là phản ứng mất sức sau khi căng thẳng được giải phóng.
+
+**영어 참고:** *futility*, *emptiness*, *nihility* — *vô ích* là sự vô nghĩa của nỗ lực, *sự trống rỗng* là một khoảng trống trong tâm trí, và *sự hư vô* gần với sự trống rỗng triết học.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** di chứng, hậu quả kéo dài.
 
-**뉘앙스와 사용법:** 의료적 증상뿐 아니라 사회적·정서적 여파에도 쓴다. 원래 사건이 끝났다는 전제가 있어야 자연스럽다.
+**뉘앙스와 사용법:** Được sử dụng không chỉ cho các triệu chứng y tế mà còn cho các hậu quả về mặt xã hội và cảm xúc. Đó là điều tự nhiên khi cho rằng sự việc ban đầu đã kết thúc.
 
-**재사용 가능한 콜로케이션·청크:** `사고 후유증`, `심리적 후유증`, `후유증이 남다`, `후유증을 겪다`.
+**재사용 가능한 콜로케이션·청크:** `사고 후유증`, `심리적 후유증`, `후유증이 남다`, `후유증을 겪다`. — `Hậu quả tai nạn`, `Hậu quả tâm lý`, `Hậu quả vẫn còn`, `Hậu quả trải nghiệm`.
 
-**자주 쓰는 문형과 성분:** `N의 후유증`; `후유증이 남다/나타나다`; 사고·질병·전쟁·이별이 수식어가 된다.
+**자주 쓰는 문형과 성분:** `N의 후유증`, `후유증이 남다/나타나다`, `Hậu quả của N`, `Hậu quả vẫn còn/xuất hiện` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·뉴스·상담에서 중립적이고 정확한 표현이다. 사람의 감정을 가볍게 병리화하지 않도록 주의한다.
+**사회적 관계·주제별 register:** Thể hiện trung lập và chính xác trong y tế, tin tức và tư vấn. Hãy cẩn thận để không coi nhẹ cảm xúc của mọi người.
 
 **예문:** 큰 사고의 후유증으로 한동안 낯선 장소에 가는 것이 힘들었다.
 
-**어휘 연결:** `부작용`은 치료나 선택에 따른 원치 않는 반응, `후유증`은 사건이 지나간 뒤 남은 영향, `여파`는 사회·사건 전체에 퍼지는 파장을 뜻한다.
+**Dịch:** Do hậu quả của một vụ tai nạn nghiêm trọng nên trong một thời gian tôi rất khó đi đến những nơi xa lạ.
 
-**영어 참고:** *aftereffect*, *sequela*, *lingering impact* — *aftereffect*는 일반적인 잔여 영향, *sequela*는 의학적 후유증, *lingering impact*는 오래 남는 넓은 영향을 말한다.
+**어휘 연결:** `부작용`은 치료나 선택에 따른 원치 않는 반응, `후유증`은 사건이 지나간 뒤 남은 영향, `여파`는 사회·사건 전체에 퍼지는 파장을 뜻한다. — 'Tác dụng phụ' ám chỉ những phản ứng không mong muốn do việc điều trị hoặc lựa chọn, 'hậu quả' ám chỉ những tác động còn lại sau khi một sự kiện đã qua và 'hậu quả' ám chỉ hiệu ứng gợn sóng lan rộng khắp xã hội và sự kiện.
+
+**영어 참고:** *aftereffect*, *sequela*, *lingering impact* — *hậu quả* đề cập đến các hậu quả chung, *di chứng* đề cập đến các hậu quả y tế và *tác động kéo dài* đề cập đến các hậu quả lâu dài, trên diện rộng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** sự chữa lành, hồi phục.
 
-**뉘앙스와 사용법:** `치료`가 문제를 고치는 행위와 방법에 초점을 둔다면, `치유`는 시간이 걸리는 회복의 과정과 내면의 변화를 강조한다.
+**뉘앙스와 사용법:** Nếu 'điều trị' tập trung vào các hành động và phương pháp để khắc phục vấn đề thì 'chữa lành' nhấn mạnh vào quá trình phục hồi và thay đổi nội bộ tốn nhiều thời gian.
 
-**재사용 가능한 콜로케이션·청크:** `마음의 치유`, `치유의 과정`, `상처를 치유하다`, `치유받다`.
+**재사용 가능한 콜로케이션·청크:** `마음의 치유`, `치유의 과정`, `상처를 치유하다`, `치유받다`. — `Chữa lành tâm trí`, `Quá trình chữa lành`, `Chữa lành vết thương`, `Được chữa lành`.
 
-**자주 쓰는 문형과 성분:** `N을/를 치유하다`; `치유가 이루어지다`; 몸·마음·관계·상처가 목적어 또는 주어가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 치유하다`, `치유가 이루어지다`, `Chữa lành/N`, `Việc chữa lành diễn ra` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 상담·에세이·사회복지·대중문화에서 널리 쓰인다. 의료 진단의 공식 용어로는 `치료`가 더 정확할 수 있다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong tư vấn, tiểu luận, phúc lợi xã hội và văn hóa đại chúng. Trong thuật ngữ chính thức về chẩn đoán y tế, “điều trị” có thể chính xác hơn.
 
 **예문:** 충분히 말하고 안전한 관계를 경험하는 일이 마음의 치유에 도움이 되었다.
 
-**어휘 연결:** `치료`는 의학적 처치, `회복`은 기능이나 상태가 돌아옴, `치유`는 상처가 아물고 의미를 다시 세우는 긴 과정을 강조한다.
+**Dịch:** Nói đủ và trải nghiệm những mối quan hệ an toàn đã giúp tôi chữa lành trái tim mình.
 
-**영어 참고:** *healing*, *recovery*, *therapy* — *healing*은 몸과 마음의 회복 과정, *recovery*는 상태가 돌아옴, *therapy*는 치료 방법이나 치료 과정이다.
+**어휘 연결:** `치료`는 의학적 처치, `회복`은 기능이나 상태가 돌아옴, `치유`는 상처가 아물고 의미를 다시 세우는 긴 과정을 강조한다. — `Điều trị` nhấn mạnh đến điều trị y tế, `phục hồi` là sự phục hồi của chức năng hoặc tình trạng và `chữa lành` nhấn mạnh đến quá trình lâu dài để chữa lành vết thương và tái thiết lập ý nghĩa.
+
+**영어 참고:** *healing*, *recovery*, *therapy* — *chữa bệnh* là quá trình phục hồi cơ thể và tâm trí, *phục hồi* là tình trạng bệnh quay trở lại và *trị liệu* là một phương pháp hoặc quy trình điều trị.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** dâng lên, trào lên, bốc lên.
 
-**뉘앙스와 사용법:** 물리적인 움직임과 감정의 격화를 함께 표현한다. `눈물이 치오르다`, `분노가 치오르다`처럼 갑작스럽고 억누르기 어려운 상승감이 있다.
+**뉘앙스와 사용법:** Thể hiện cả chuyển động thể chất và cảm xúc mãnh liệt. Có một cảm giác dâng lên đột ngột và khó kìm nén, như ‘nước mắt trào ra’ hay ‘sự tức giận nổi lên’.
 
-**재사용 가능한 콜로케이션·청크:** `눈물이 치오르다`, `화가 치오르다`, `감정이 치오르다`, `울컥 치오르다`.
+**재사용 가능한 콜로케이션·청크:** `눈물이 치오르다`, `화가 치오르다`, `감정이 치오르다`, `울컥 치오르다`. — `Nước mắt trào dâng`, `Tức giận trào dâng`, `Cảm xúc trào dâng`, `Nước mắt trào dâng`.
 
-**자주 쓰는 문형과 성분:** `N이/가 치오르다`; 눈물·분노·욕구·감정이 주어로 자주 온다.
+**자주 쓰는 문형과 성분:** `N이/가 치오르다`, `N tăng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학적이고 생생한 서술에 적합하다. 일상 회화에서는 `울컥하다`, `솟구치다`와도 바꿔 쓴다.
+**사회적 관계·주제별 register:** Thích hợp cho mô tả văn học và sinh động. Trong hội thoại hàng ngày, nó cũng được sử dụng thay thế cho 'to cry' và 'to bar'.
 
 **예문:** 그 말을 듣자 억울함이 가슴 깊은 곳에서 치올랐다.
 
-**어휘 연결:** `솟구치다`는 힘과 높이의 상승, `북받치다`는 감정이 안에서 밀려옴, `치오르다`는 아래에서 위로 올라오는 방향감을 강조한다.
+**Dịch:** Khi tôi nghe những lời đó, một cảm giác bất công dâng lên sâu trong lòng tôi.
 
-**영어 참고:** *well up*, *surge*, *rise* — *well up*은 눈물·감정이 차오름, *surge*는 갑작스러운 급증, *rise*는 가장 중립적인 상승이다.
+**어휘 연결:** `솟구치다`는 힘과 높이의 상승, `북받치다`는 감정이 안에서 밀려옴, `치오르다`는 아래에서 위로 올라오는 방향감을 강조한다. — 'Tăng vọt' có nghĩa là tăng sức mạnh và chiều cao, 'tăng cường' có nghĩa là cảm xúc dâng trào từ bên trong và 'tăng vọt' nhấn mạnh cảm giác về hướng đi lên từ dưới lên trên.
+
+**영어 참고:** *well up*, *surge*, *rise* — *well up* có nghĩa là trào dâng với nước mắt và cảm xúc, *surge* là sự dâng trào đột ngột và *rise* là sự dâng trào trung tính nhất.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** một cách sống động, rõ như thật.
 
-**뉘앙스와 사용법:** `자세히`보다 감각적 현장감이 강하다. 기억, 묘사, 증언, 방송 화면과 잘 어울린다.
+**뉘앙스와 사용법:** Cảm giác hiện thực mạnh mẽ hơn 'Chi tiết'. Nó phù hợp với những ký ức, mô tả, lời khai và cảnh phát sóng.
 
-**재사용 가능한 콜로케이션·청크:** `생생히 기억하다`, `생생히 전하다`, `생생히 묘사하다`, `생생히 떠오르다`.
+**재사용 가능한 콜로케이션·청크:** `생생히 기억하다`, `생생히 전하다`, `생생히 묘사하다`, `생생히 떠오르다`. — `Ghi nhớ một cách sống động`, `Truyền tải một cách sống động`, `Mô tả một cách sống động`, `Nhớ lại một cách sống động`.
 
-**자주 쓰는 문형과 성분:** `생생히 + 동사`; 기억·경험·현장·모습을 전달하거나 떠올리는 동사와 결합한다.
+**자주 쓰는 문형과 성분:** `생생히 + 동사`, `sống động + động từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 글쓰기·인터뷰·뉴스·회상에서 자연스럽고, 일상 대화에서도 강조 표현으로 쓴다.
+**사회적 관계·주제별 register:** Nó được sử dụng một cách tự nhiên trong văn bản, phỏng vấn, tin tức và hồi tưởng, đồng thời cũng được sử dụng như một cách diễn đạt nhấn mạnh trong cuộc trò chuyện hàng ngày.
 
 **예문:** 그는 그날의 냄새와 목소리까지 아직 생생히 기억한다.
 
-**어휘 연결:** `선명하게`는 경계가 뚜렷함, `생생히`는 감각과 현장감, `또렷하게`는 알아듣거나 보이는 정도를 강조한다.
+**Dịch:** Anh ấy vẫn còn nhớ rất rõ mùi và giọng nói của ngày hôm đó.
 
-**영어 참고:** *vividly*, *vividly recall*, *in vivid detail* — *vividly*는 감각적 선명함, *in vivid detail*은 구체적인 세부 묘사를 강조한다.
+**어휘 연결:** `선명하게`는 경계가 뚜렷함, `생생히`는 감각과 현장감, `또렷하게`는 알아듣거나 보이는 정도를 강조한다. — 'Rõ ràng' nhấn mạnh các ranh giới rõ ràng, 'rõ ràng' nhấn mạnh cảm giác và sự hiện diện, và 'rõ ràng' nhấn mạnh mức độ mà thứ gì đó có thể được hiểu hoặc nhìn thấy.
+
+**영어 참고:** *vividly*, *vividly recall*, *in vivid detail* — *sống động* nhấn mạnh sự rõ ràng về cảm giác và *chi tiết sống động* nhấn mạnh các chi tiết cụ thể.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** thể diện, mặt mũi; tư cách để gặp ai đó.
 
-**뉘앙스와 사용법:** 보통 `면목이 없다`, `면목을 세우다`처럼 체면과 도덕적 책임을 함께 말한다. 단순한 얼굴을 뜻할 때는 쓰지 않는다.
+**뉘앙스와 사용법:** Thông thường, nó đề cập đến cả sự tôn trọng và trách nhiệm đạo đức, chẳng hạn như 'không có danh tiếng' hoặc 'có danh tiếng'. Nó không được sử dụng khi đề cập đến một khuôn mặt đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `면목이 없다`, `면목을 세우다`, `볼 면목이 없다`, `면목을 잃다`.
+**재사용 가능한 콜로케이션·청크:** `면목이 없다`, `면목을 세우다`, `볼 면목이 없다`, `면목을 잃다`. — `Không xấu hổ`, `Xây dựng danh tiếng`, `Không xấu hổ khi nhìn thấy`, `Mất nhục`.
 
-**자주 쓰는 문형과 성분:** `N에게 면목이 없다`; `면목을 세우다`; 도움을 준 사람이나 피해를 입힌 사람이 관계의 기준점이 된다.
+**자주 쓰는 문형과 성분:** `N에게 면목이 없다`, `면목을 세우다`, `N không biết xấu hổ`, `tạo dựng tên tuổi cho chính mình` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사과·은혜·가족 관계에서 정서적으로 강한 표현이다. 공식 사과문보다 개인적인 대화에 더 자연스럽다.
+**사회적 관계·주제별 register:** Lời xin lỗi, sự ân cần và sự thể hiện mạnh mẽ về mặt cảm xúc trong mối quan hệ gia đình. Nó tự nhiên hơn trong một cuộc trò chuyện cá nhân hơn là trong một lời xin lỗi trang trọng.
 
 **예문:** 약속을 지키지 못해서 오랫동안 기다린 친구에게 면목이 없었다.
 
-**어휘 연결:** `체면`은 사회적 평가와 겉모습, `자존심`은 자기 가치감, `면목`은 특정 사람 앞에서 느끼는 관계적 책임과 체면을 강조한다.
+**Dịch:** Vì không giữ được lời hứa nên tôi cảm thấy không được tôn trọng bởi người bạn đã chờ đợi bấy lâu nay.
 
-**영어 참고:** *face*, *have the decency*, *feel ashamed before someone* — 영어의 *face*가 가장 가깝지만, `면목이 없다`는 특정 상대에게 미안해 대할 수 없다는 뜻까지 포함한다.
+**어휘 연결:** `체면`은 사회적 평가와 겉모습, `자존심`은 자기 가치감, `면목`은 특정 사람 앞에서 느끼는 관계적 책임과 체면을 강조한다. — 'Khuôn mặt' nhấn mạnh sự đánh giá xã hội và hình dáng bên ngoài, 'niềm tự hào' nhấn mạnh giá trị bản thân và 'khuôn mặt' nhấn mạnh trách nhiệm trong quan hệ và sự tôn trọng được cảm nhận trước một người cụ thể.
+
+**영어 참고:** *face*, *have the decency*, *feel ashamed before someone* — *mặt* trong tiếng Anh là gần nhất, nhưng 'không có mặt' cũng bao hàm ý nghĩa là không thể cảm thấy tiếc cho một người cụ thể.
 
 ---
 

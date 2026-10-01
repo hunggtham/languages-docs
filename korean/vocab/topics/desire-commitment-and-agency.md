@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** dấn thân, dồn tâm sức; lao mình xuống tự vẫn.
 
-**뉘앙스와 사용법:** “헌신하다”라는 긍정적 의미와 자살을 암시할 수 있는 위험한 의미가 공존한다. 목적어와 문맥을 반드시 확인해야 한다.
+**뉘앙스와 사용법:** Ý nghĩa tích cực của “sự cống hiến” và ý nghĩa nguy hiểm có thể ám chỉ việc tự sát cùng tồn tại. Bạn phải kiểm tra đối tượng và bối cảnh.
 
-**재사용 가능한 콜로케이션·청크:** `경찰에 투신하다`, `연구에 투신하다`, `강으로 투신하다`.
+**재사용 가능한 콜로케이션·청크:** `경찰에 투신하다`, `연구에 투신하다`, `강으로 투신하다`. — ‘Hãy lao vào cảnh sát’, ‘Hãy lao vào nghiên cứu’, ‘Hãy lao mình xuống sông’.
 
-**자주 쓰는 문형과 성분:** `N에 투신하다`는 직업·분야에 헌신한다는 뜻, `N으로 투신하다`는 높은 곳·물속으로 몸을 던지는 뜻이 될 수 있다.
+**자주 쓰는 문형과 성분:** `N에 투신하다`, `N으로 투신하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌신 의미는 기사·자서전·격식 있는 서술체, 두 번째 의미는 사건·법의학·뉴스 register다. 일상에서는 모호하므로 `헌신하다`, `뛰어들다`로 풀어 말하는 편이 안전하다.
+**사회적 관계·주제별 register:** Ý nghĩa của sự cống hiến là bài viết, tự truyện, tường thuật chính thức và ý nghĩa thứ hai là sự kiện, pháp y, đăng ký tin tức. Trong cuộc sống hàng ngày, nó mơ hồ nên nói “cống hiến” hoặc “lao dốc” sẽ an toàn hơn.
 
 **예문:** 그는 졸업 후 시민단체 활동에 투신해 오랫동안 현장을 지켰다.
 
-**어휘 연결:** `헌신하다`는 긍정적 dedication, `몰두하다`는 한 활동에 집중함, `투신하다`는 삶의 방향을 그 분야에 던진다는 강도가 더 세다. 위험한 의미의 반대축은 `뛰어내리지 않다`가 아니라 `안전하게 물러나다`처럼 context로 표현한다.
+**Dịch:** Sau khi tốt nghiệp, anh cống hiến hết mình cho các hoạt động nhóm dân sự và gắn bó với lĩnh vực này một thời gian dài.
 
-**영어 참고:** *devote oneself to*, *throw oneself into*, *throw oneself off* — 앞의 두 표현은 헌신, 마지막 표현은 높은 곳에서 몸을 던지는 위험한 의미다.
+**어휘 연결:** `헌신하다`는 긍정적 dedication, `몰두하다`는 한 활동에 집중함, `투신하다`는 삶의 방향을 그 분야에 던진다는 강도가 더 세다. 위험한 의미의 반대축은 `뛰어내리지 않다`가 아니라 `안전하게 물러나다`처럼 context로 표현한다. — 'Cống hiến' là sự cống hiến tích cực, 'đắm chìm' có nghĩa là tập trung vào một hoạt động và 'cam kết' mãnh liệt hơn ở chỗ nó có nghĩa là hướng cuộc đời của một người vào lĩnh vực đó. Trục ngược lại của ý nghĩa nguy hiểm được thể hiện trong ngữ cảnh là “rút lui an toàn” hơn là “không nhảy”.
+
+**영어 참고:** *devote oneself to*, *throw oneself into*, *throw oneself off* — Hai biểu thức đầu tiên có nghĩa là sự cống hiến và biểu thức cuối cùng có nghĩa là nguy cơ ném mình từ nơi cao xuống.
 
 ---
 
@@ -37,19 +39,21 @@
 
 **베트남어 뜻:** sự khao khát mãnh liệt.
 
-**뉘앙스와 사용법:** `원함`보다 강하고, 결핍이 있어 꼭 얻고 싶다는 느낌이 있다. 보통 지식·자유·인정·사랑처럼 추상적인 대상을 갈구한다.
+**뉘앙스와 사용법:** Nó mạnh hơn 'muốn' và có cảm giác muốn một thứ gì đó vì thiếu thốn. Thông thường, chúng ta khao khát những thứ trừu tượng như kiến ​​thức, tự do, sự công nhận và tình yêu.
 
-**재사용 가능한 콜로케이션·청크:** `배움의 갈구`, `자유에 대한 갈구`, `인정을 갈구하다`.
+**재사용 가능한 콜로케이션·청크:** `배움의 갈구`, `자유에 대한 갈구`, `인정을 갈구하다`. — `Khát khao học tập`, `Khát khao tự do`, `Khát khao được công nhận`.
 
-**자주 쓰는 문형과 성분:** `N에 대한 갈구`; `N을/를 갈구하다`; 추상 명사와 결합한다.
+**자주 쓰는 문형과 성분:** `N에 대한 갈구`, `N을/를 갈구하다`, `thèm N`, `thèm N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·철학·심리·자기계발의 추상적이고 문어적인 표현. 일상 대화에서는 `간절히 원하다`가 자연스럽다.
+**사회적 관계·주제별 register:** Sự thể hiện trừu tượng và bằng văn bản về văn học, triết học, tâm lý học và sự phát triển bản thân. Trong cuộc trò chuyện hàng ngày, “Tôi rất muốn” là điều tự nhiên.
 
 **예문:** 실패를 겪은 뒤 그는 더 깊은 배움에 대한 갈구를 느꼈다.
 
-**어휘 연결:** `욕구`는 중립적·심리학적, `열망`은 긍정적 목표 지향, `갈구`는 결핍과 절박함이 더 강하다. 반대축은 `체념`, `무관심`이다.
+**Dịch:** Sau khi trải qua thất bại, anh cảm thấy khao khát được học hỏi sâu hơn.
 
-**영어 참고:** *yearning*, *craving*, *longing* — *yearning*은 깊고 지속적인 열망, *craving*은 강한 욕구, *longing*은 그리움·동경이 섞인 바람이다.
+**어휘 연결:** `욕구`는 중립적·심리학적, `열망`은 긍정적 목표 지향, `갈구`는 결핍과 절박함이 더 강하다. 반대축은 `체념`, `무관심`이다. — 'Ham muốn' là trung tính và mang tính tâm lý, 'ham muốn' là hướng đến mục tiêu tích cực và 'khao khát' thiên về sự thiếu thốn và tuyệt vọng. Trục đối diện là “sự cam chịu” và “sự thờ ơ”.
+
+**영어 참고:** *yearning*, *craving*, *longing* — *khao khát* là ham muốn sâu sắc và liên tục, *khao khát* là ham muốn mạnh mẽ và *khao khát* là mong muốn xen lẫn khao khát và khao khát.
 
 ---
 
@@ -61,19 +65,21 @@
 
 **베트남어 뜻:** sự ngưỡng mộ, khao khát, mong nhớ.
 
-**뉘앙스와 사용법:** 단순히 좋아하는 것을 넘어 “저렇게 되고 싶다/저곳에 가고 싶다”는 이상화와 거리가 있다. 사람·장소·미래·미지의 세계에 쓴다.
+**뉘앙스와 사용법:** Nó vượt xa sự thích đơn giản và khác xa với sự lý tưởng hóa “Tôi muốn được như thế/đi đến nơi đó”. Nó được viết về con người, địa điểm, tương lai và thế giới chưa biết.
 
-**재사용 가능한 콜로케이션·청크:** `미지에 대한 동경`, `고향에 대한 동경`, `동경의 대상`.
+**재사용 가능한 콜로케이션·청크:** `미지에 대한 동경`, `고향에 대한 동경`, `동경의 대상`. — `Nỗi khao khát những điều chưa biết`, `Nỗi nhớ quê hương`, `Đối tượng khao khát`.
 
-**자주 쓰는 문형과 성분:** `N에 대한 동경`; `N을 동경하다`; 사람·나라·예술가·삶의 방식이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N에 대한 동경`, `N을 동경하다`, `Khát khao N`, `khao khát N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·에세이·인터뷰의 문어적 표현. 일상에서는 `동경하다`가 존경과 부러움의 중간 의미로도 쓰인다.
+**사회적 관계·주제별 register:** Các bài viết thể hiện văn học, tiểu luận và phỏng vấn. Trong cuộc sống hàng ngày, 'ngưỡng mộ' còn được dùng làm trung gian giữa sự tôn trọng và đố kỵ.
 
 **예문:** 어린 시절부터 바다에 대한 동경이 커서 결국 해양학을 공부했다.
 
-**어휘 연결:** `선망`은 남이 가진 것을 부러워하는 마음, `동경`은 이상적 대상에 끌리는 마음, `그리움`은 이미 경험한 사람·장소를 다시 바라는 정서다. 반대축은 `환멸`, `냉소`다.
+**Dịch:** Từ khi còn nhỏ, tôi đã rất ngưỡng mộ biển và cuối cùng đã nghiên cứu về hải dương học.
 
-**영어 참고:** *admiration*, *longing*, *aspiration* — *admiration*은 존경, *longing*은 그리움 섞인 열망, *aspiration*은 미래 목표를 향한 포부다.
+**어휘 연결:** `선망`은 남이 가진 것을 부러워하는 마음, `동경`은 이상적 대상에 끌리는 마음, `그리움`은 이미 경험한 사람·장소를 다시 바라는 정서다. 반대축은 `환멸`, `냉소`다. — 'Ghen tị' là cảm giác ghen tị với những gì người khác có, 'ngưỡng mộ' là cảm giác bị thu hút bởi một đối tượng lý tưởng, và 'khao khát' là cảm xúc mong muốn một lần nữa những con người và địa điểm mà một người đã trải qua. Trục đối diện là “vỡ mộng” và “hoang mang”.
+
+**영어 참고:** *admiration*, *longing*, *aspiration* — *ngưỡng mộ* là sự tôn trọng, *khao khát* là mong muốn xen lẫn khao khát và *khát vọng* là khát vọng hướng tới mục tiêu trong tương lai.
 
 ---
 
@@ -85,19 +91,21 @@
 
 **베트남어 뜻:** ăn xin; cầu khẩn, van xin.
 
-**뉘앙스와 사용법:** 물질을 얻는 실제 구걸과 `동정심을 구걸하다` 같은 비유적 용법이 있다. 후자는 상대를 지나치게 애원하며 자존심을 잃는다는 비판적 뉘앙스다.
+**뉘앙스와 사용법:** Có sự cầu xin thực tế để có được của cải vật chất và những cách sử dụng theo nghĩa bóng chẳng hạn như 'cầu xin sự cảm thông.' Sau này là một sắc thái quan trọng của việc cầu xin người khác quá nhiều và đánh mất lòng kiêu hãnh của mình.
 
-**재사용 가능한 콜로케이션·청크:** `돈을 구걸하다`, `동정심을 구걸하다`, `사랑을 구걸하다`.
+**재사용 가능한 콜로케이션·청크:** `돈을 구걸하다`, `동정심을 구걸하다`, `사랑을 구걸하다`. — `Cầu xin tiền`, `Cầu xin sự cảm thông`, `Cầu xin tình yêu`.
 
-**자주 쓰는 문형과 성분:** `N에게 N을/를 구걸하다`; 돈·음식·동정심·관심·사랑과 결합한다.
+**자주 쓰는 문형과 성분:** `N에게 N을/를 구걸하다`, `Xin N từ N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회 문제·문학·비판적 글에서 강한 표현이다. 도움이 필요한 사람을 직접 지칭할 때는 낙인 효과가 있어 `도움을 요청하다`가 더 존중하는 선택이다.
+**사회적 관계·주제별 register:** Thể hiện mạnh mẽ trong các vấn đề xã hội, văn học và viết phê bình. Khi đề cập trực tiếp đến một người đang cần giúp đỡ sẽ có tác dụng mang tính kỳ thị nên “yêu cầu giúp đỡ” là lựa chọn tôn trọng hơn.
 
 **예문:** 그는 동정심을 구걸하기보다 자신의 상황을 차분히 설명했다.
 
-**어휘 연결:** `부탁하다`는 중립적 요청, `애원하다`는 감정적으로 간절한 요청, `구걸하다`는 자존심을 낮추며 얻으려는 부정적 이미지가 강하다. 반대축은 `자립하다`, `당당히 요구하다`다.
+**Dịch:** Thay vì cầu xin sự thông cảm, anh ấy lại bình tĩnh giải thích hoàn cảnh của mình.
 
-**영어 참고:** *beg*, *plead*, *solicit* — *beg*는 간절히 달라고 함, *plead*는 감정적 호소, *solicit*은 공식적으로 요청·모집함이다.
+**어휘 연결:** `부탁하다`는 중립적 요청, `애원하다`는 감정적으로 간절한 요청, `구걸하다`는 자존심을 낮추며 얻으려는 부정적 이미지가 강하다. 반대축은 `자립하다`, `당당히 요구하다`다. — 'Xin' là một yêu cầu trung lập, 'cầu xin' là một yêu cầu tha thiết về mặt cảm xúc và 'cầu xin' có hình ảnh tiêu cực mạnh mẽ về việc hạ thấp lòng kiêu hãnh của một người. Trục ngược lại là “độc lập” và “đưa ra những yêu cầu táo bạo”.
+
+**영어 참고:** *beg*, *plead*, *solicit* — *cầu xin* là một yêu cầu tha thiết, *cầu xin* là một lời kêu gọi tình cảm và *gợi ý* là một yêu cầu/yêu cầu trang trọng.
 
 ---
 
@@ -109,19 +117,21 @@
 
 **베트남어 뜻:** tự nguyện, tự giác.
 
-**뉘앙스와 사용법:** 강요가 없다는 점뿐 아니라 내부 동기에서 행동했다는 점을 강조한다. `자율적`은 시스템·권한의 자유, `자발적`은 행동을 시작한 사람의 의지에 초점이 있다.
+**뉘앙스와 사용법:** Nhấn mạnh không chỉ rằng không có sự ép buộc mà còn rằng bạn đã hành động xuất phát từ động lực bên trong. 'Tự trị' tập trung vào quyền tự do của hệ thống và quyền hạn, còn 'tự nguyện' tập trung vào ý chí của người khởi xướng hành động.
 
-**재사용 가능한 콜로케이션·청크:** `자발적인 참여`, `자발적인 노력`, `자발적으로 나서다`.
+**재사용 가능한 콜로케이션·청크:** `자발적인 참여`, `자발적인 노력`, `자발적으로 나서다`. — `tham gia tự nguyện`, `nỗ lực tự nguyện`, `nỗ lực tự nguyện`.
 
-**자주 쓰는 문형과 성분:** `자발적으로 + V`; 참여·봉사·학습·신고·협력이 자주 뒤따른다.
+**자주 쓰는 문형과 성분:** `자발적으로 + V`, `Tình nguyện + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·조직·시민사회·행정의 중립적이고 긍정적인 표현이다.
+**사회적 관계·주제별 register:** Sự thể hiện trung lập và tích cực về giáo dục, tổ chức, xã hội dân sự và hành chính.
 
 **예문:** 학생들은 자발적으로 모금 활동에 참여했다.
 
-**어휘 연결:** `스스로`는 가장 쉬운 기본어, `자발적`은 공식·조직 문서, `자율적`은 외부 통제 없이 운영되는 구조를 강조한다. 반대축은 `강제적`, `타율적`이다.
+**Dịch:** Học sinh tự nguyện tham gia các hoạt động gây quỹ.
 
-**영어 참고:** *voluntary*, *self-motivated*, *spontaneous* — *voluntary*는 강제가 없음, *self-motivated*는 내부 동기, *spontaneous*는 계획 없이 즉흥적으로 일어남을 뜻한다.
+**어휘 연결:** `스스로`는 가장 쉬운 기본어, `자발적`은 공식·조직 문서, `자율적`은 외부 통제 없이 운영되는 구조를 강조한다. 반대축은 `강제적`, `타율적`이다. — 'Tự định hướng' là từ cơ bản dễ hiểu nhất, 'tự nguyện' là một tài liệu chính thức/tổ chức và 'tự trị' nhấn mạnh một cấu trúc hoạt động mà không có sự kiểm soát từ bên ngoài. Các trục đối diện là 'ép buộc' và 'dị tính'.
+
+**영어 참고:** *voluntary*, *self-motivated*, *spontaneous* — *tự nguyện* có nghĩa là không bị ép buộc, *tự động viên* có nghĩa là động lực bên trong và *tự phát* có nghĩa là nó diễn ra một cách tự nhiên mà không cần lập kế hoạch.
 
 ---
 
@@ -133,19 +143,21 @@
 
 **베트남어 뜻:** trọn vẹn, nguyên vẹn, hoàn toàn.
 
-**뉘앙스와 사용법:** 물리적으로 보존된 상태와 정신·시간·주의를 하나도 나누지 않고 집중하는 상태 모두에 쓴다.
+**뉘앙스와 사용법:** Được sử dụng cả trong trạng thái được bảo tồn về mặt vật lý và trạng thái trong đó tâm trí, thời gian và sự chú ý được tập trung mà không có bất kỳ sự phân chia nào.
 
-**재사용 가능한 콜로케이션·청크:** `온전히 간직하다`, `온전히 집중하다`, `온전히 끝내다`, `온전히 나의 몫이다`.
+**재사용 가능한 콜로케이션·청크:** `온전히 간직하다`, `온전히 집중하다`, `온전히 끝내다`, `온전히 나의 몫이다`. — `Giữ hết`, `Tập trung hoàn toàn`, `Hoàn thành hết`, `Đó hoàn toàn là phần của tôi`.
 
-**자주 쓰는 문형과 성분:** `온전히 + V/형용사`; 기억·시간·책임·권리·마음과 결합한다.
+**자주 쓰는 문형과 성분:** `온전히 + V/형용사`, `hoàn toàn + V/tính từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 에세이·연설·감정 표현에서 문어적이고 진지하다. 일상에서는 `다`, `완전히`, `고스란히`로 풀어 말할 수 있다.
+**사회적 관계·주제별 register:** Viết và nghiêm túc trong các bài tiểu luận, bài phát biểu và biểu đạt cảm xúc. Trong cuộc sống hàng ngày, nó có thể được diễn đạt bằng 'tất cả', 'hoàn toàn' và 'nguyên vẹn'.
 
 **예문:** 주말만큼은 휴대전화를 내려놓고 가족에게 온전히 집중하고 싶다.
 
-**어휘 연결:** `완전히`는 완성·정도, `고스란히`는 원형 보존, `온전히`는 빠짐없이 바르게 유지하거나 집중함을 강조한다. 반대축은 `부분적으로`, `흩어져`다.
+**Dịch:** Tôi muốn đặt điện thoại xuống vào cuối tuần và tập trung hoàn toàn vào gia đình.
 
-**영어 참고:** *fully*, *wholly*, *intact* — *fully/wholly*는 완전한 정도, *intact*는 손상되지 않은 원형 보존을 뜻한다.
+**어휘 연결:** `완전히`는 완성·정도, `고스란히`는 원형 보존, `온전히`는 빠짐없이 바르게 유지하거나 집중함을 강조한다. 반대축은 `부분적으로`, `흩어져`다. — 'Hoàn toàn' nhấn mạnh vào việc hoàn thành/mức độ, 'nguyên vẹn' nhấn mạnh vào việc bảo tồn hình thức ban đầu và 'hoàn toàn' nhấn mạnh vào việc duy trì hoặc tập trung chính xác mà không bỏ sót bất cứ điều gì. Trục đối diện là 'một phần' và 'rải rác'.
+
+**영어 참고:** *fully*, *wholly*, *intact* — *đầy đủ/toàn bộ* có nghĩa là đầy đủ và *nguyên vẹn* có nghĩa là bảo toàn được hình dạng ban đầu của nó mà không bị hư hại.
 
 ---
 
@@ -157,19 +169,21 @@
 
 **베트남어 뜻:** tôi luyện, rèn luyện, huấn luyện.
 
-**뉘앙스와 사용법:** 단순한 `연습하다`보다 고통·반복·저항을 견디며 강해지는 이미지가 있다. 더위·시련처럼 불리한 환경에 익숙해지는 데도 쓴다.
+**뉘앙스와 사용법:** Có hình ảnh trở nên mạnh mẽ hơn bằng cách chịu đựng nỗi đau, sự lặp đi lặp lại và sự phản kháng thay vì chỉ đơn giản là 'luyện tập'. Nó cũng được sử dụng để làm quen với những môi trường không thuận lợi như nóng bức hoặc khó khăn.
 
-**재사용 가능한 콜로케이션·청크:** `근육을 단련하다`, `정신을 단련하다`, `기술을 단련하다`, `시련으로 단련되다`.
+**재사용 가능한 콜로케이션·청크:** `근육을 단련하다`, `정신을 단련하다`, `기술을 단련하다`, `시련으로 단련되다`. — 'Rèn luyện cơ bắp', 'Rèn luyện trí óc', 'Rèn luyện kỹ năng của bạn', 'Luyện tập qua thử thách'.
 
-**자주 쓰는 문형과 성분:** `N을/를 단련하다`; 몸·마음·기술·의지·실력을 목적어로 삼는다.
+**자주 쓰는 문형과 성분:** `N을/를 단련하다`, `đào tạo N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 스포츠·군대·자기계발·문학적 서술에서 강한 표현이다. 가벼운 학습에는 `연습하다`, `익히다`가 자연스럽다.
+**사회적 관계·주제별 register:** Thể hiện mạnh mẽ trong thể thao, quân sự, tự hoàn thiện và mô tả văn học. Đối với việc học nhẹ nhàng, ‘thực hành’ và ‘học hỏi’ là điều đương nhiên.
 
 **예문:** 반복되는 실패가 오히려 그의 판단력을 단련했다.
 
-**어휘 연결:** `연습하다`는 기본적인 반복 학습, `훈련하다`는 체계적인 지도·훈련, `단련하다`는 시련을 견디며 강하게 만드는 과정이다. 반대축은 `약화시키다`, `방치하다`다.
+**Dịch:** Thất bại liên tục thực sự đã củng cố khả năng phán đoán của anh ấy.
 
-**영어 참고:** *forge*, *discipline*, *hone* — *forge*는 시련을 통해 강하게 만듦, *discipline*은 훈련으로 통제함, *hone*은 기술을 갈고닦음이다.
+**어휘 연결:** `연습하다`는 기본적인 반복 학습, `훈련하다`는 체계적인 지도·훈련, `단련하다`는 시련을 견디며 강하게 만드는 과정이다. 반대축은 `약화시키다`, `방치하다`다. — 'Thực hành' là quá trình học tập lặp đi lặp lại cơ bản, 'đào tạo' là hướng dẫn và đào tạo có hệ thống và 'luyện tập' là quá trình khiến ai đó trở nên mạnh mẽ hơn bằng cách chịu đựng thử thách. Trục đối diện là ‘sự suy yếu’ và ‘bỏ bê’.
+
+**영어 참고:** *forge*, *discipline*, *hone* — *rèn* có nghĩa là làm cho thứ gì đó mạnh mẽ hơn thông qua thử nghiệm, *kỷ luật* có nghĩa là kiểm soát nó thông qua đào tạo và *trau dồi* có nghĩa là mài giũa kỹ năng của một người.
 
 ---
 
@@ -181,19 +195,21 @@
 
 **베트남어 뜻:** một cách ngầm, trong vô thức, lúc không nhận ra.
 
-**뉘앙스와 사용법:** 일부러 숨겼다는 뜻보다 본인도 모르는 사이에 나타났다는 느낌이 강하다. 보통 `은연중에` 형태로 쓴다.
+**뉘앙스와 사용법:** Thay vì có nghĩa là nó được cố ý ẩn đi, có cảm giác mạnh mẽ rằng nó xuất hiện mà người đó không hề hay biết. Nó thường được viết dưới dạng 'ngầm'.
 
-**재사용 가능한 콜로케이션·청크:** `은연중에 드러나다`, `은연중에 깨닫다`, `은연중에 영향을 받다`.
+**재사용 가능한 콜로케이션·청크:** `은연중에 드러나다`, `은연중에 깨닫다`, `은연중에 영향을 받다`. — `Tiết lộ ngầm`, `Nhận ra ngầm`, `Bị ảnh hưởng ngầm`.
 
-**자주 쓰는 문형과 성분:** `은연중에 + V`; 태도·편견·감정·기억이 주어/목적어로 온다.
+**자주 쓰는 문형과 성분:** `은연중에 + V`, `ngầm + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리·비평·에세이의 문어적 표현. 일상에서는 `모르는 사이에`, `무심코`가 더 쉽다.
+**사회적 관계·주제별 register:** Văn bản thể hiện tâm lý học, phê bình và tiểu luận. Trong cuộc sống hàng ngày, việc làm mọi việc “không biết” hoặc “vô ý” sẽ dễ dàng hơn.
 
 **예문:** 그는 은연중에 부모의 말투를 따라 하고 있다는 사실을 깨달았다.
 
-**어휘 연결:** `무심코`는 부주의하게 한 행동, `무의식적으로`는 의식되지 않은 심리 과정, `은연중에`는 그 영향이나 태도가 조용히 드러나는 문어적 표현이다. 반대축은 `의식적으로`, `명시적으로`다.
+**Dịch:** Anh ấy nhận ra rằng trong tiềm thức mình đang bắt chước phong cách nói chuyện của cha mẹ mình.
 
-**영어 참고:** *unconsciously*, *implicitly*, *without realizing it* — *unconsciously*는 의식 밖의 과정, *implicitly*는 암묵적으로, *without realizing it*은 본인이 모른 채 했다는 뜻이다.
+**어휘 연결:** `무심코`는 부주의하게 한 행동, `무의식적으로`는 의식되지 않은 심리 과정, `은연중에`는 그 영향이나 태도가 조용히 드러나는 문어적 표현이다. 반대축은 `의식적으로`, `명시적으로`다. — 'Vô tình' là một hành động bất cẩn, 'vô thức' là một quá trình tâm lý không có ý thức và 'ngầm' là một biểu hiện bằng văn bản có ảnh hưởng hoặc thái độ được tiết lộ một cách lặng lẽ. Trục đối diện là 'có ý thức' và 'rõ ràng'.
+
+**영어 참고:** *unconsciously*, *implicitly*, *without realizing it* — *vô thức* có nghĩa là một quá trình nằm ngoài ý thức, *ngầm* có nghĩa là ngầm và *không nhận ra* có nghĩa là nó được thực hiện mà người đó không hề biết.
 
 ---
 

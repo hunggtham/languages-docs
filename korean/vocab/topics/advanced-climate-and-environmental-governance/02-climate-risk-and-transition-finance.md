@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** rủi ro khí hậu.
 
-**뉘앙스와 사용법:** 폭염·홍수 같은 직접 피해뿐 아니라 정책 전환, 시장 변화, 보험 손실 같은 간접 위험도 포함한다.
+**뉘앙스와 사용법:** Không chỉ bao gồm các thiệt hại trực tiếp như đợt nắng nóng và lũ lụt mà còn bao gồm các rủi ro gián tiếp như chuyển đổi chính sách, thay đổi thị trường và tổn thất bảo hiểm.
 
-**재사용 가능한 콜로케이션·청크:** `기후위험 평가`, `기후위험 관리`, `기후위험에 노출되다`.
+**재사용 가능한 콜로케이션·청크:** `기후위험 평가`, `기후위험 관리`, `기후위험에 노출되다`. — `Đánh giá rủi ro khí hậu`, `Quản lý rủi ro khí hậu`, `Tiếp xúc với rủi ro khí hậu`.
 
-**자주 쓰는 문형과 성분:** `기업이 기후위험을 공시하다`; 물리적 위험·전환 위험·금융과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 기후위험을 공시하다`, `Các công ty tiết lộ rủi ro về khí hậu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후금융·재난·기업 전략의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ nâng cao về tài chính khí hậu, thiên tai và chiến lược doanh nghiệp.
 
 **예문:** 금융기관은 대출 기업의 기후위험을 신용 평가에 반영해야 한다.
 
-**어휘 연결:** `환경위험`은 오염과 생태 피해까지 넓게 포함하고, `기후위험`은 기후변화에서 비롯된 물리·전환 손실에 초점을 둔다.
+**Dịch:** Các tổ chức tài chính phải phản ánh rủi ro khí hậu của các công ty cho vay trong đánh giá tín dụng của họ.
 
-**영어 참고:** *climate risk* — 기후변화가 자산·사회·경제에 미칠 손실 가능성이다.
+**어휘 연결:** `환경위험`은 오염과 생태 피해까지 넓게 포함하고, `기후위험`은 기후변화에서 비롯된 물리·전환 손실에 초점을 둔다. — 'Rủi ro môi trường' nói chung bao gồm ô nhiễm và thiệt hại sinh thái, trong khi 'rủi ro khí hậu' tập trung vào những tổn thất vật chất và chuyển đổi do biến đổi khí hậu.
+
+**영어 참고:** *climate risk* — Đây là khả năng thiệt hại do biến đổi khí hậu đối với tài sản, xã hội và nền kinh tế.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tính dễ tổn thương trước khí hậu.
 
-**뉘앙스와 사용법:** 같은 폭염이라도 소득·주거·건강·인프라에 따라 피해가 달라진다는 불평등 분석에 쓰인다.
+**뉘앙스와 사용법:** Được sử dụng trong phân tích bất bình đẳng để chỉ ra rằng ngay cả từ cùng một đợt nắng nóng, thiệt hại vẫn khác nhau tùy thuộc vào thu nhập, nhà ở, sức khỏe và cơ sở hạ tầng.
 
-**재사용 가능한 콜로케이션·청크:** `기후취약성 지표`, `기후취약계층`, `취약성을 낮추다`.
+**재사용 가능한 콜로케이션·청크:** `기후취약성 지표`, `기후취약계층`, `취약성을 낮추다`. — `Chỉ số lỗ hổng khí hậu`, `Lớp dễ bị tổn thương do khí hậu`, `Giảm thiểu lỗ hổng`.
 
-**자주 쓰는 문형과 성분:** `정책이 지역의 기후취약성을 줄이다`; 노인·농촌·주거와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 지역의 기후취약성을 줄이다`, `Chính sách làm giảm tính dễ bị tổn thương do khí hậu địa phương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후적응·복지·재난정책의 추상어다.
+**사회적 관계·주제별 register:** Một từ trừu tượng cho chính sách thích ứng với khí hậu, phúc lợi và thảm họa.
 
 **예문:** 단열이 약한 주택에 사는 노인은 폭염에 대한 기후취약성이 높다.
 
-**어휘 연결:** `피해 규모`는 결과를 측정하고, `기후취약성`은 노출·민감도·대응 능력의 구조를 분석한다.
+**Dịch:** Người cao tuổi sống trong nhà có lớp cách nhiệt yếu có khả năng dễ bị tổn thương do khí hậu cao trước các đợt nắng nóng.
 
-**영어 참고:** *climate vulnerability* — 기후 충격에 노출되고 대응하기 어려운 정도다.
+**어휘 연결:** `피해 규모`는 결과를 측정하고, `기후취약성`은 노출·민감도·대응 능력의 구조를 분석한다. — 'Quy mô thiệt hại' đo lường kết quả và 'tính dễ bị tổn thương về khí hậu' phân tích cấu trúc mức độ phơi nhiễm, độ nhạy cảm và khả năng ứng phó.
+
+**영어 참고:** *climate vulnerability* — Mức độ dễ bị tổn thương trước các cú sốc khí hậu và khó khăn trong việc ứng phó.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tổn thất và thiệt hại.
 
-**뉘앙스와 사용법:** 적응으로 줄일 수 있는 피해와 달리, 사라진 생태계·문화·생명처럼 복구하기 어려운 손실까지 논의한다.
+**뉘앙스와 사용법:** Không giống như thiệt hại có thể giảm bớt thông qua thích ứng, chúng tôi cũng thảo luận về những mất mát khó phục hồi, chẳng hạn như hệ sinh thái, nền văn hóa và cuộc sống bị mất.
 
-**재사용 가능한 콜로케이션·청크:** `손실과 피해 기금`, `손실과 피해 보상`, `손실과 피해 대응`.
+**재사용 가능한 콜로케이션·청크:** `손실과 피해 기금`, `손실과 피해 보상`, `손실과 피해 대응`. — `Quỹ Tổn thất và Thiệt hại`, `Đền bù Tổn thất và Thiệt hại`, `Phản hồi Tổn thất và Thiệt hại`.
 
-**자주 쓰는 문형과 성분:** `국제사회가 손실과 피해를 지원하다`; 기후정의·개도국·재원과 결합한다.
+**자주 쓰는 문형과 성분:** `국제사회가 손실과 피해를 지원하다`, `Cộng đồng quốc tế ủng hộ mất mát và thiệt hại` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 유엔 기후협상·기후정의·국제개발의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho các cuộc đàm phán về khí hậu của Liên hợp quốc, công lý về khí hậu và phát triển quốc tế.
 
 **예문:** 섬나라들은 기후재난으로 발생한 손실과 피해에 대한 국제적 지원을 요구했다.
 
-**어휘 연결:** `재난 피해`는 사건의 결과이고, `손실과 피해`는 기후변화의 장기적 책임과 보상 문제까지 포함한다.
+**Dịch:** Các quốc đảo yêu cầu hỗ trợ quốc tế về những mất mát và thiệt hại do thảm họa khí hậu gây ra.
 
-**영어 참고:** *loss and damage* — 기후변화로 발생한 회복 불가능하거나 큰 피해를 뜻한다.
+**어휘 연결:** `재난 피해`는 사건의 결과이고, `손실과 피해`는 기후변화의 장기적 책임과 보상 문제까지 포함한다. — 'Thiệt hại do thiên tai' là kết quả của một sự kiện và 'mất mát và thiệt hại' bao gồm trách nhiệm lâu dài và các vấn đề bồi thường đối với biến đổi khí hậu.
+
+**영어 참고:** *loss and damage* — Điều này đề cập đến thiệt hại nghiêm trọng hoặc không thể khắc phục được do biến đổi khí hậu gây ra.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** tài chính khí hậu.
 
-**뉘앙스와 사용법:** 돈의 총액만이 아니라 누가 부담하고 어디에 배분되며 취약국에 실제로 도달하는지까지 따진다.
+**뉘앙스와 사용법:** Chúng tôi không chỉ xem xét tổng số tiền mà còn xem xét ai là người nắm giữ số tiền đó, số tiền đó được phân phối ở đâu và liệu số tiền đó có thực sự đến được các quốc gia dễ bị tổn thương hay không.
 
-**재사용 가능한 콜로케이션·청크:** `기후재원 조성`, `기후재원 확대`, `기후재원 공여`.
+**재사용 가능한 콜로케이션·청크:** `기후재원 조성`, `기후재원 확대`, `기후재원 공여`. — 'Tạo tài chính khí hậu', 'Mở rộng tài chính khí hậu', 'Quyên góp tài chính khí hậu'.
 
-**자주 쓰는 문형과 성분:** `선진국이 기후재원을 약속하다`; 녹색채권·원조·적응과 결합한다.
+**자주 쓰는 문형과 성분:** `선진국이 기후재원을 약속하다`, `Các nước phát triển hứa hẹn tài trợ khí hậu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제협상·개발금융·기후정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho đàm phán quốc tế, tài chính phát triển và chính sách khí hậu.
 
 **예문:** 기후재원은 감축 사업뿐 아니라 가난한 지역의 적응 인프라에도 배분돼야 한다.
 
-**어휘 연결:** `환경 투자`는 기업·프로젝트 투자 전반이고, `기후재원`은 기후 목표와 국제적 책임을 중심으로 한다.
+**Dịch:** Tài chính về khí hậu nên được phân bổ không chỉ cho các dự án giảm nhẹ mà còn cho cơ sở hạ tầng thích ứng ở các vùng nghèo.
 
-**영어 참고:** *climate finance* — 기후변화 감축·적응에 투입되는 금융 자원이다.
+**어휘 연결:** `환경 투자`는 기업·프로젝트 투자 전반이고, `기후재원`은 기후 목표와 국제적 책임을 중심으로 한다. — 'Đầu tư vào môi trường' đề cập đến đầu tư tổng thể của doanh nghiệp và dự án, còn 'tài chính khí hậu' tập trung vào các mục tiêu khí hậu và trách nhiệm quốc tế.
+
+**영어 참고:** *climate finance* — Nguồn tài chính đầu tư vào việc giảm thiểu và thích ứng với biến đổi khí hậu.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** khoảng cách thích ứng khí hậu.
 
-**뉘앙스와 사용법:** 계획이 있는지보다 취약 지역이 실제로 방재 시설과 정보를 갖추었는지를 평가하는 정책 개념이다.
+**뉘앙스와 사용법:** Đây là khái niệm chính sách nhằm đánh giá liệu các khu vực dễ bị tổn thương có thực sự có cơ sở vật chất và thông tin phòng chống thiên tai hay không hơn là liệu có kế hoạch hay không.
 
-**재사용 가능한 콜로케이션·청크:** `적응격차 해소`, `적응격차 확대`, `기후 적응격차`.
+**재사용 가능한 콜로케이션·청크:** `적응격차 해소`, `적응격차 확대`, `기후 적응격차`. — `Thu hẹp khoảng cách thích ứng`, `Mở rộng khoảng cách thích ứng`, `Khoảng cách thích ứng khí hậu`.
 
-**자주 쓰는 문형과 성분:** `국가 간 적응격차가 커지다`; 재원·기술·취약국과 결합한다.
+**자주 쓰는 문형과 성분:** `국가 간 적응격차가 커지다`, `Khoảng cách thích ứng giữa các quốc gia ngày càng gia tăng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후협상·개발협력·재난정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho đàm phán về khí hậu, hợp tác phát triển và chính sách thiên tai.
 
 **예문:** 적응격차를 줄이려면 취약국의 지방정부에 직접 재원을 지원해야 한다.
 
-**어휘 연결:** `기후 격차`는 피해와 책임의 차이를 넓게 말하고, `적응격차`는 대응 능력의 부족에 초점을 둔다.
+**Dịch:** Để giảm khoảng cách thích ứng, nguồn tài chính phải được cung cấp trực tiếp cho chính quyền địa phương ở các quốc gia dễ bị tổn thương.
 
-**영어 참고:** *adaptation gap* — 기후 적응에 필요한 역량과 실제 준비 사이의 차이다.
+**어휘 연결:** `기후 격차`는 피해와 책임의 차이를 넓게 말하고, `적응격차`는 대응 능력의 부족에 초점을 둔다. — 'Khoảng cách khí hậu' đề cập rộng rãi đến sự khác biệt về thiệt hại và trách nhiệm, trong khi 'khoảng cách thích ứng' tập trung vào việc thiếu khả năng ứng phó.
+
+**영어 참고:** *adaptation gap* — Khoảng cách giữa khả năng cần thiết và sự chuẩn bị thực tế cho việc thích ứng với khí hậu.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** ngân sách carbon.
 
-**뉘앙스와 사용법:** 매년 배출 감축 목표보다 누적 배출의 한계를 강조하며, 세대·산업별 배분 논쟁을 낳는다.
+**뉘앙스와 사용법:** Nó nhấn mạnh đến các giới hạn phát thải tích lũy hơn là các mục tiêu giảm phát thải hàng năm, làm nảy sinh các cuộc tranh luận về việc phân bổ theo thế hệ và ngành.
 
-**재사용 가능한 콜로케이션·청크:** `국가 탄소예산`, `탄소예산 소진`, `탄소예산 배분`.
+**재사용 가능한 콜로케이션·청크:** `국가 탄소예산`, `탄소예산 소진`, `탄소예산 배분`. — `Ngân sách carbon quốc gia`, `cạn kiệt ngân sách carbon`, `phân bổ ngân sách carbon`.
 
-**자주 쓰는 문형과 성분:** `탄소예산을 초과하다`; 감축경로·산업·세대와 결합한다.
+**자주 쓰는 문형과 성분:** `탄소예산을 초과하다`, `vượt quá giới hạn carbon` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후과학·정책·탄소중립 시나리오의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho khoa học khí hậu, chính sách và các kịch bản trung hòa lượng carbon.
 
 **예문:** 탄소예산을 고려하면 신규 화석연료 시설의 경제성을 다시 계산해야 한다.
 
-**어휘 연결:** `배출 목표`는 특정 시기의 목표이고, `탄소예산`은 미래 전체에 남은 누적 배출 한도다.
+**Dịch:** Xem xét lượng carbon, tính khả thi về mặt kinh tế của các cơ sở nhiên liệu hóa thạch mới phải được tính toán lại.
 
-**영어 참고:** *carbon budget* — 온도 목표를 지키기 위해 허용된 누적 온실가스 배출량이다.
+**어휘 연결:** `배출 목표`는 특정 시기의 목표이고, `탄소예산`은 미래 전체에 남은 누적 배출 한도다. — 'Mục tiêu phát thải' là mục tiêu tại một thời điểm cụ thể và 'ngân sách carbon' là giới hạn phát thải tích lũy còn lại trong toàn bộ tương lai.
+
+**영어 참고:** *carbon budget* — Lượng phát thải khí nhà kính tích lũy được phép đáp ứng các mục tiêu về nhiệt độ.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** công bố thông tin khí hậu.
 
-**뉘앙스와 사용법:** 좋은 환경 활동을 홍보하는 수준이 아니라 투자자가 비교할 수 있는 수치·시나리오·책임 구조를 요구한다.
+**뉘앙스와 사용법:** Thay vì thúc đẩy các hoạt động môi trường tốt, nó đòi hỏi những con số, kịch bản và cơ cấu trách nhiệm mà các nhà đầu tư có thể so sánh.
 
-**재사용 가능한 콜로케이션·청크:** `기후공시 의무화`, `기후공시 기준`, `기후공시 보고서`.
+**재사용 가능한 콜로케이션·청크:** `기후공시 의무화`, `기후공시 기준`, `기후공시 보고서`. — 'Tiết lộ thông tin về khí hậu bắt buộc', 'Tiêu chuẩn tiết lộ về khí hậu', 'Báo cáo tiết lộ về khí hậu'.
 
-**자주 쓰는 문형과 성분:** `기업이 기후공시를 준비하다`; 탄소배출·감사·투자자와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 기후공시를 준비하다`, `Công ty chuẩn bị công bố thông tin về khí hậu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 금융감독·기업지배구조·기후정책의 contemporary 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ hiện đại về giám sát tài chính, quản trị doanh nghiệp và chính sách khí hậu.
 
 **예문:** 기후공시가 의무화되면 기업은 공급망 배출까지 측정해야 할 수 있다.
 
-**어휘 연결:** `환경보고서`는 자율적 홍보 성격이 강하고, `기후공시`는 재무적 중요성과 검증 가능성을 강조한다.
+**Dịch:** Nếu việc tiết lộ thông tin về khí hậu trở thành bắt buộc thì các công ty cũng có thể phải đo lượng phát thải của chuỗi cung ứng.
 
-**영어 참고:** *climate disclosure* — 기업이 기후 관련 위험과 배출 정보를 공개하는 보고다.
+**어휘 연결:** `환경보고서`는 자율적 홍보 성격이 강하고, `기후공시`는 재무적 중요성과 검증 가능성을 강조한다. — 'Báo cáo môi trường' có tính chất quảng cáo tự chủ mạnh mẽ, trong khi 'tiết lộ về khí hậu' nhấn mạnh tầm quan trọng về mặt tài chính và khả năng kiểm chứng.
+
+**영어 참고:** *climate disclosure* — Đây là báo cáo trong đó các công ty tiết lộ thông tin phát thải và rủi ro liên quan đến khí hậu.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** rủi ro chuyển đổi.
 
-**뉘앙스와 사용법:** 기후재난의 물리적 피해와 달리 탄소가격·규제·수요 변화 때문에 기존 사업 모델이 흔들리는 위험이다.
+**뉘앙스와 사용법:** Không giống như thiệt hại vật chất của thảm họa khí hậu, đây là nguy cơ các mô hình kinh doanh hiện tại sẽ bị lung lay do những thay đổi về giá carbon, quy định và nhu cầu.
 
-**재사용 가능한 콜로케이션·청크:** `전환리스크 관리`, `전환리스크 평가`, `고탄소 자산의 전환리스크`.
+**재사용 가능한 콜로케이션·청크:** `전환리스크 관리`, `전환리스크 평가`, `고탄소 자산의 전환리스크`. — 'Quản lý rủi ro chuyển đổi', 'Đánh giá rủi ro chuyển đổi', 'Rủi ro chuyển đổi của tài sản carbon cao'.
 
-**자주 쓰는 문형과 성분:** `은행이 전환리스크를 스트레스 테스트하다`; 탄소가격·규제·산업과 결합한다.
+**자주 쓰는 문형과 성분:** `은행이 전환리스크를 스트레스 테스트하다`, `Rủi ro chuyển đổi kiểm tra căng thẳng của ngân hàng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후금융·산업전략·투자 분석의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về tài chính khí hậu, chiến lược công nghiệp và phân tích đầu tư.
 
 **예문:** 석탄발전 의존 기업은 탄소가격 상승에 따른 전환리스크가 크다.
 
-**어휘 연결:** `기후위험`은 물리적 위험과 전환 위험을 모두 포함하고, `전환리스크`는 저탄소 체제로 이동할 때의 변화 비용에 집중한다.
+**Dịch:** Các công ty phụ thuộc vào sản xuất điện than phải đối mặt với rủi ro chuyển đổi cao do giá carbon tăng.
 
-**영어 참고:** *transition risk* — 저탄소 전환 과정의 규제·시장·기술 변화 위험이다.
+**어휘 연결:** `기후위험`은 물리적 위험과 전환 위험을 모두 포함하고, `전환리스크`는 저탄소 체제로 이동할 때의 변화 비용에 집중한다. — 'Rủi ro khí hậu' bao gồm cả rủi ro vật chất và rủi ro chuyển đổi và 'rủi ro chuyển đổi' tập trung vào chi phí thay đổi khi chuyển sang hệ thống carbon thấp.
+
+**영어 참고:** *transition risk* — Đây là rủi ro của những thay đổi về quy định, thị trường và công nghệ trong quá trình chuyển đổi carbon thấp.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** tài sản mắc kẹt.
 
-**뉘앙스와 사용법:** 석탄발전소·화석연료 매장량처럼 탄소중립 정책으로 회수되지 못할 투자 손실을 분석할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng khi phân tích các khoản lỗ đầu tư không thể phục hồi thông qua chính sách trung hòa lượng carbon, chẳng hạn như các nhà máy điện than và trữ lượng nhiên liệu hóa thạch.
 
-**재사용 가능한 콜로케이션·청크:** `좌초자산 위험`, `좌초자산 규모`, `좌초자산을 줄이다`.
+**재사용 가능한 콜로케이션·청크:** `좌초자산 위험`, `좌초자산 규모`, `좌초자산을 줄이다`. — 'Rủi ro tài sản bị mắc kẹt', 'Quy mô của tài sản bị mắc kẹt', 'Giảm tài sản bị mắc kẹt'.
 
-**자주 쓰는 문형과 성분:** `정책 변화가 자산을 좌초자산으로 만들다`; 석탄·투자·전환과 결합한다.
+**자주 쓰는 문형과 성분:** `정책 변화가 자산을 좌초자산으로 만들다`, `Thay đổi chính sách biến tài sản thành tài sản bị mắc kẹt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 에너지·투자·기후금융의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về năng lượng, đầu tư và tài chính khí hậu.
 
 **예문:** 신규 가스 인프라가 좌초자산이 되지 않도록 수요 전망을 보수적으로 잡아야 한다.
 
-**어휘 연결:** `부실자산`은 현재 재무 상태가 나쁜 자산이고, `좌초자산`은 외부 전환으로 미래 가치가 사라질 자산이다.
+**Dịch:** Dự báo nhu cầu phải thận trọng để ngăn chặn cơ sở hạ tầng khí đốt mới trở thành tài sản bị mắc kẹt.
 
-**영어 참고:** *stranded asset* — 경제·정책 변화로 조기 폐기되거나 가치를 잃는 자산이다.
+**어휘 연결:** `부실자산`은 현재 재무 상태가 나쁜 자산이고, `좌초자산`은 외부 전환으로 미래 가치가 사라질 자산이다. — 'Tài sản kém hiệu quả' là tài sản có tình trạng tài chính hiện tại kém và 'tài sản bị mắc kẹt' là tài sản có giá trị tương lai sẽ biến mất do chuyển đổi bên ngoài.
+
+**영어 참고:** *stranded asset* — Tài sản bị xử lý sớm hoặc mất giá trị do những thay đổi về kinh tế hoặc chính sách.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** chuyển đổi công bằng.
 
-**뉘앙스와 사용법:** 환경 목표만큼 전환 비용의 분배와 의사결정 참여, 지역 경제의 재편을 중요하게 본다.
+**뉘앙스와 사용법:** Phân bổ chi phí chuyển đổi, tham gia vào việc ra quyết định và tổ chức lại nền kinh tế địa phương được coi là quan trọng như các mục tiêu môi trường.
 
-**재사용 가능한 콜로케이션·청크:** `정의로운 전환 기금`, `정의로운 전환 정책`, `노동자 중심의 전환`.
+**재사용 가능한 콜로케이션·청크:** `정의로운 전환 기금`, `정의로운 전환 정책`, `노동자 중심의 전환`. — 'Quỹ chuyển đổi công bằng', 'Chính sách chuyển đổi công bằng', 'Chuyển đổi lấy người lao động làm trung tâm'.
 
-**자주 쓰는 문형과 성분:** `정부가 정의로운 전환을 추진하다`; 노동·석탄지역·재교육과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 정의로운 전환을 추진하다`, `Chính phủ khuyến khích chuyển đổi công bằng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후정의·노동정책·산업전환의 고급어다.
+**사회적 관계·주제별 register:** Từ nâng cao về công bằng khí hậu, chính sách lao động và chuyển đổi công nghiệp.
 
 **예문:** 정의로운 전환을 위해 폐쇄 예정 발전소 지역에 대체 일자리를 마련해야 한다.
 
-**어휘 연결:** `녹색전환`은 기술·산업의 저탄소화를 강조하고, `정의로운 전환`은 그 과정의 사회적 비용과 참여를 본다.
+**Dịch:** Để có một quá trình chuyển đổi công bằng, các công việc thay thế phải được tạo ra ở những khu vực mà các nhà máy điện dự kiến ​​đóng cửa.
 
-**영어 참고:** *just transition* — 저탄소 전환의 비용과 기회를 공정하게 나누는 원칙이다.
+**어휘 연결:** `녹색전환`은 기술·산업의 저탄소화를 강조하고, `정의로운 전환`은 그 과정의 사회적 비용과 참여를 본다. — 'Chuyển đổi xanh' nhấn mạnh đến mức độ carbon hóa thấp của công nghệ và công nghiệp và 'chuyển đổi chỉ' xem xét chi phí xã hội và sự tham gia vào quá trình.
+
+**영어 참고:** *just transition* — Đây là nguyên tắc phân chia công bằng chi phí và cơ hội của quá trình chuyển đổi carbon thấp.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** bất bình đẳng khí hậu.
 
-**뉘앙스와 사용법:** 배출 책임, 노출, 적응 역량, 세대 간 부담을 하나의 분배 문제로 분석한다.
+**뉘앙스와 사용법:** Phân tích trách nhiệm phát thải, mức độ phơi nhiễm, khả năng thích ứng và gánh nặng liên thế hệ như một vấn đề phân phối.
 
-**재사용 가능한 콜로케이션·청크:** `기후불평등 심화`, `기후불평등 해소`, `기후불평등 지표`.
+**재사용 가능한 콜로케이션·청크:** `기후불평등 심화`, `기후불평등 해소`, `기후불평등 지표`. — 'Gia tăng bất bình đẳng về khí hậu', 'Giải quyết bất bình đẳng về khí hậu', 'Chỉ số bất bình đẳng về khí hậu'.
 
-**자주 쓰는 문형과 성분:** `정책이 기후불평등을 완화하다`; 기후정의·소득·세대와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 기후불평등을 완화하다`, `Chính sách giảm bớt bất bình đẳng về khí hậu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 환경정의·복지·국제개발의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về công lý môi trường, phúc lợi và phát triển quốc tế.
 
 **예문:** 기후불평등을 줄이려면 폭염 취약 지역에 더 많은 공공 투자가 필요하다.
 
-**어휘 연결:** `환경불평등`은 오염과 자원 접근 전체를 포함하고, `기후불평등`은 기후 원인과 피해·책임의 분배를 특정한다.
+**Dịch:** Để giảm bất bình đẳng về khí hậu, cần có nhiều đầu tư công hơn ở những khu vực dễ xảy ra sóng nhiệt.
 
-**영어 참고:** *climate inequality* — 기후변화의 책임과 피해·대응 능력이 불평등하게 분배되는 현상이다.
+**어휘 연결:** `환경불평등`은 오염과 자원 접근 전체를 포함하고, `기후불평등`은 기후 원인과 피해·책임의 분배를 특정한다. — 'Bất bình đẳng về môi trường' bao gồm tất cả ô nhiễm và tiếp cận tài nguyên, đồng thời 'bất bình đẳng về khí hậu' chỉ rõ nguyên nhân khí hậu cũng như sự phân bổ thiệt hại và trách nhiệm.
+
+**영어 참고:** *climate inequality* — Đây là hiện tượng trong đó trách nhiệm về biến đổi khí hậu, thiệt hại và khả năng ứng phó được phân bổ không đồng đều.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** trái phiếu xanh.
 
-**뉘앙스와 사용법:** 발행 목적과 사후 사용처 공시가 중요하며, 이름만 친환경인 그린워싱 위험을 함께 관리한다.
+**뉘앙스와 사용법:** Việc tiết lộ mục đích phát hành và sử dụng sau sử dụng là rất quan trọng và nguy cơ tẩy xanh, vốn chỉ thân thiện với môi trường trên danh nghĩa, được quản lý cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `녹색채권 발행`, `녹색채권 시장`, `녹색채권 인증`.
+**재사용 가능한 콜로케이션·청크:** `녹색채권 발행`, `녹색채권 시장`, `녹색채권 인증`. — `Phát hành trái phiếu xanh`, `Thị trường trái phiếu xanh`, `Chứng nhận trái phiếu xanh`.
 
-**자주 쓰는 문형과 성분:** `기업이 녹색채권을 발행하다`; 기후재원·공시·투자와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 녹색채권을 발행하다`, `Công ty phát hành trái phiếu xanh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 금융·기후정책·기업 공시의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ tài chính, chính sách khí hậu và công bố thông tin của công ty.
 
 **예문:** 녹색채권은 조달 자금이 실제 감축 사업에 쓰였는지 사후 검증을 받아야 한다.
 
-**어휘 연결:** `ESG 채권`은 환경·사회·지배구조를 모두 포함할 수 있고, `녹색채권`은 환경 프로젝트에 자금 용도가 한정된다.
+**Dịch:** Trái phiếu xanh phải trải qua quá trình xác minh sau để xác định xem số tiền huy động được có thực sự được sử dụng cho các dự án giảm phát thải hay không.
 
-**영어 참고:** *green bond* — 환경 프로젝트 자금 조달을 목적으로 발행하는 채권이다.
+**어휘 연결:** `ESG 채권`은 환경·사회·지배구조를 모두 포함할 수 있고, `녹색채권`은 환경 프로젝트에 자금 용도가 한정된다. — 'Trái phiếu ESG' có thể bao gồm tất cả các khía cạnh về môi trường, xã hội và quản trị, trong khi 'trái phiếu xanh' được giới hạn ở các dự án môi trường.
+
+**영어 참고:** *green bond* — Đây là trái phiếu được phát hành nhằm mục đích tài trợ cho các dự án môi trường.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** giá carbon.
 
-**뉘앙스와 사용법:** 탄소세·배출권거래제·내부 탄소가격처럼 여러 제도를 포괄하며, 산업 경쟁력과 역진성 논쟁을 낳는다.
+**뉘앙스와 사용법:** Nó bao gồm một số hệ thống như thuế carbon, hệ thống giao dịch khí thải và giá carbon nội bộ, đồng thời làm nảy sinh các cuộc tranh luận về khả năng cạnh tranh công nghiệp và tính thoái lui.
 
-**재사용 가능한 콜로케이션·청크:** `탄소가격 인상`, `탄소가격 신호`, `탄소가격제`.
+**재사용 가능한 콜로케이션·청크:** `탄소가격 인상`, `탄소가격 신호`, `탄소가격제`. — `tăng giá carbon`, `tín hiệu giá carbon`, `hệ thống định giá carbon`.
 
-**자주 쓰는 문형과 성분:** `정부가 탄소가격을 설정하다`; 배출권·세금·산업전환과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 탄소가격을 설정하다`, `Chính phủ quy định giá carbon` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후경제·조세·산업정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về kinh tế khí hậu, thuế và chính sách công nghiệp.
 
 **예문:** 탄소가격이 너무 낮으면 기업의 감축 투자를 유도하기 어렵다.
 
-**어휘 연결:** `탄소세`는 한 가지 가격 제도이고, `탄소가격`은 시장·세금·내부 회계의 가격 신호를 모두 포함한다.
+**Dịch:** Nếu giá carbon quá thấp thì khó có thể khuyến khích các công ty đầu tư vào việc giảm thiểu.
 
-**영어 참고:** *carbon price* — 배출에 경제적 비용을 부과하는 가격 신호다.
+**어휘 연결:** `탄소세`는 한 가지 가격 제도이고, `탄소가격`은 시장·세금·내부 회계의 가격 신호를 모두 포함한다. — 'Thuế carbon' là một hệ thống giá và 'giá carbon' bao gồm các tín hiệu giá từ thị trường, thuế và kế toán nội bộ.
+
+**영어 참고:** *carbon price* — Tín hiệu giá áp đặt chi phí kinh tế cho lượng phát thải.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** kiện tụng khí hậu.
 
-**뉘앙스와 사용법:** 최근 청소년·환경단체·투자자가 기후권리와 기업 책임을 주장하는 뉴스에서 활발히 쓰이는 표현이다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt được sử dụng tích cực gần đây trong tin tức nơi thanh niên, các nhóm môi trường và nhà đầu tư ủng hộ quyền về khí hậu và trách nhiệm của doanh nghiệp.
 
-**재사용 가능한 콜로케이션·청크:** `기후소송 제기`, `기후소송 판결`, `기후소송 확산`.
+**재사용 가능한 콜로케이션·청크:** `기후소송 제기`, `기후소송 판결`, `기후소송 확산`. — `Nộp đơn kiện về khí hậu`, `Quyết định về vụ kiện về khí hậu`, `Sự lan rộng của các vụ kiện về khí hậu`.
 
-**자주 쓰는 문형과 성분:** `청소년들이 정부를 상대로 기후소송을 내다`; 탄소중립·기본권·기업과 결합한다.
+**자주 쓰는 문형과 성분:** `청소년들이 정부를 상대로 기후소송을 내다`, `Thanh niên nộp đơn kiện chính phủ về khí hậu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법원·환경운동·정책 뉴스에서 현재적으로 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong tòa án, phong trào môi trường và tin tức chính sách.
 
 **예문:** 기후소송은 정부의 장기 감축 목표가 시민의 안전을 충분히 보호하는지 묻는다.
 
-**어휘 연결:** `환경소송`은 오염·개발 분쟁 전반이고, `기후소송`은 온실가스와 기후정책의 책임을 특정한다.
+**Dịch:** Kiện tụng về khí hậu hỏi liệu các mục tiêu giảm thiểu dài hạn của chính phủ có bảo vệ đủ sự an toàn của người dân hay không.
 
-**영어 참고:** *climate litigation* — 기후 대응의 적정성과 책임을 법정에서 다투는 소송이다.
+**어휘 연결:** `환경소송`은 오염·개발 분쟁 전반이고, `기후소송`은 온실가스와 기후정책의 책임을 특정한다. — 'Các vụ kiện tụng về môi trường' bao gồm tất cả các tranh chấp về ô nhiễm và phát triển, còn 'các vụ kiện tụng về khí hậu' chỉ rõ trách nhiệm đối với các chính sách về khí hậu và khí nhà kính.
+
+**영어 참고:** *climate litigation* — Đây là vụ kiện thách thức tính phù hợp và trách nhiệm của hoạt động ứng phó với khí hậu trước tòa.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** cổ tức carbon.
 
-**뉘앙스와 사용법:** 탄소가격으로 높아지는 생활비를 보완하고 기후정책의 수용성을 높이자는 현재 정책·시민사회 표현이다.
+**뉘앙스와 사용법:** Đây là sự thể hiện của chính sách hiện tại và xã hội dân sự nhằm bù đắp chi phí sinh hoạt ngày càng tăng bằng giá carbon và tăng khả năng chấp nhận các chính sách khí hậu.
 
-**재사용 가능한 콜로케이션·청크:** `탄소배당 도입`, `탄소배당 지급`, `탄소배당 논의`.
+**재사용 가능한 콜로케이션·청크:** `탄소배당 도입`, `탄소배당 지급`, `탄소배당 논의`. — `Giới thiệu về cổ tức carbon`, `Thanh toán cổ tức carbon`, `Thảo luận về cổ tức carbon`.
 
-**자주 쓰는 문형과 성분:** `정부가 탄소배당을 검토하다`; 탄소세·기후정의·가계와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 탄소배당을 검토하다`, `Nhận xét của Chính phủ về Cổ tức Carbon` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후정책 토론·시민운동·경제 기사에서 현재 확산되는 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt hiện đang phổ biến trong các cuộc thảo luận về chính sách khí hậu, các phong trào dân sự và các bài báo kinh tế.
 
 **예문:** 탄소배당은 저소득 가구의 부담을 줄이면서 감축 정책에 대한 지지를 높일 수 있다.
 
-**어휘 연결:** `에너지바우처`는 특정 비용 지원이고, `탄소배당`은 탄소가격 수입을 시민에게 되돌린다는 분배 원칙이다.
+**Dịch:** Cổ tức carbon có thể tăng cường hỗ trợ cho các chính sách giảm phát thải đồng thời giảm gánh nặng cho các hộ gia đình có thu nhập thấp.
 
-**영어 참고:** *carbon dividend* — 탄소세·배출권 수입을 시민에게 환급하는 정책이다.
+**어휘 연결:** `에너지바우처`는 특정 비용 지원이고, `탄소배당`은 탄소가격 수입을 시민에게 되돌린다는 분배 원칙이다. — 'Phiếu năng lượng' là hỗ trợ cho các chi phí cụ thể và 'cổ tức carbon' là nguyên tắc phân phối trả lại doanh thu từ giá carbon cho người dân.
+
+**영어 참고:** *carbon dividend* — Đây là chính sách hoàn trả doanh thu thuế carbon và tín dụng phát thải cho người dân.
 
 <!-- passage_word_count: 104 Korean eojeol; target_set: 기후위험, 기후취약성, 손실과 피해, 기후재원, 적응격차, 탄소예산, 기후공시, 전환리스크, 좌초자산, 정의로운 전환, 기후불평등, 녹색채권, 탄소가격, 기후소송, 탄소배당 -->
 

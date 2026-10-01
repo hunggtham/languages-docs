@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** mua sắm công.
 
-**뉘앙스와 사용법:** 단순 구매가 아니라 경쟁·투명성·지역기업·사회적 가치까지 고려하는 행정 기능이다.
+**뉘앙스와 사용법:** Đây là chức năng hành chính xem xét tính cạnh tranh, tính minh bạch, doanh nghiệp địa phương và giá trị xã hội thay vì mua hàng đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `공공조달 시장`, `공공조달 혁신`, `공공조달 계약`.
+**재사용 가능한 콜로케이션·청크:** `공공조달 시장`, `공공조달 혁신`, `공공조달 계약`. — `Thị trường mua sắm công`, `Đổi mới mua sắm công`, `Hợp đồng mua sắm công`.
 
-**자주 쓰는 문형과 성분:** `정부가 공공조달을 개방하다`; 입찰·예산·계약과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 공공조달을 개방하다`, `Chính phủ mở mua sắm công` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정·경제·감사 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các báo cáo hành chính, kinh tế và kiểm toán.
 
 **예문:** 공공조달의 기준을 바꾸면 혁신기업과 지역 업체의 참여가 늘어날 수 있다.
 
-**어휘 연결:** `정부 구매`는 일상적 표현이고, `공공조달`은 경쟁 규칙과 공익 목표를 포함하는 제도어다.
+**Dịch:** Việc thay đổi các tiêu chuẩn mua sắm công có thể làm tăng sự tham gia của các công ty đổi mới và doanh nghiệp địa phương.
 
-**영어 참고:** *public procurement* — 공공기관이 계약을 통해 물품·공사·서비스를 구매하는 제도다.
+**어휘 연결:** `정부 구매`는 일상적 표현이고, `공공조달`은 경쟁 규칙과 공익 목표를 포함하는 제도어다. — 'Mua sắm của chính phủ' là cách diễn đạt hàng ngày và 'mua sắm công' là thuật ngữ thể chế bao gồm các quy tắc cạnh tranh và mục tiêu lợi ích công cộng.
+
+**영어 참고:** *public procurement* — Đây là hệ thống trong đó các tổ chức công mua hàng hóa, xây dựng và dịch vụ thông qua hợp đồng.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** thông đồng đấu thầu.
 
-**뉘앙스와 사용법:** 경쟁법상 부당 공동행위로 공공 예산과 시장 경쟁을 훼손하며, 들러리 업체와 가격 합의가 전형적 방식이다.
+**뉘앙스와 사용법:** Theo Đạo luật Cạnh tranh, các hoạt động hợp tác không công bằng làm suy yếu ngân sách công và cạnh tranh thị trường và một phương pháp điển hình là thỏa thuận về giá với các công ty bên thứ ba.
 
-**재사용 가능한 콜로케이션·청크:** `입찰 담합 적발`, `입찰 담합 의혹`, `담합 과징금`.
+**재사용 가능한 콜로케이션·청크:** `입찰 담합 적발`, `입찰 담합 의혹`, `담합 과징금`. — `Đã phát hiện thông đồng đấu thầu`, `Nghi ngờ thông đồng đấu thầu`, `Phạt tiền thông đồng`.
 
-**자주 쓰는 문형과 성분:** `공정위가 입찰 담합을 제재하다`; 건설·과징금·낙찰과 결합한다.
+**자주 쓰는 문형과 성분:** `공정위가 입찰 담합을 제재하다`, `Ủy ban Thương mại Công bằng trừng phạt gian lận đấu thầu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공정거래·감사·공공계약 보도의 법률어다.
+**사회적 관계·주제별 register:** Thuật ngữ pháp lý cho báo cáo thương mại công bằng, kiểm toán và hợp đồng công.
 
 **예문:** 여러 업체가 낙찰 순서를 나눴다면 입찰 담합으로 처벌받을 수 있다.
 
-**어휘 연결:** `경쟁 제한`은 넓은 법적 개념이고, `입찰 담합`은 입찰 결과를 사전에 합의하는 구체적 행위다.
+**Dịch:** Nếu nhiều công ty chia thứ tự trúng thầu, họ có thể bị phạt vì gian lận đấu thầu.
 
-**영어 참고:** *bid rigging* — 입찰자들이 결과와 가격을 미리 조작하는 담합이다.
+**어휘 연결:** `경쟁 제한`은 넓은 법적 개념이고, `입찰 담합`은 입찰 결과를 사전에 합의하는 구체적 행위다. — 'Hạn chế cạnh tranh' là một khái niệm pháp lý rộng và 'thông đồng đấu thầu' là một hành động cụ thể để thỏa thuận trước về kết quả đấu thầu.
+
+**영어 참고:** *bid rigging* — Đây là sự thông đồng trong đó những người đặt giá thầu thao túng kết quả và giá cả trước.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** hợp đồng chỉ định, hợp đồng trực tiếp.
 
-**뉘앙스와 사용법:** 긴급·소액·특수 기술 등 예외 사유가 필요하며, 특혜와 부패의 통로가 되지 않도록 사유 공개가 중요하다.
+**뉘앙스와 사용법:** Cần phải có lý do cho các trường hợp ngoại lệ như trường hợp khẩn cấp, số lượng nhỏ, công nghệ đặc biệt, v.v. và điều quan trọng là phải tiết lộ lý do để không trở thành kênh ưu đãi và tham nhũng.
 
-**재사용 가능한 콜로케이션·청크:** `수의계약 체결`, `수의계약 사유`, `수의계약 논란`.
+**재사용 가능한 콜로케이션·청크:** `수의계약 체결`, `수의계약 사유`, `수의계약 논란`. — ‘Ký kết hợp đồng tư nhân’, ‘Lý do hợp đồng tư nhân’, ‘Tranh cãi về hợp đồng tư nhân’.
 
-**자주 쓰는 문형과 성분:** `기관이 업체와 수의계약을 맺다`; 긴급성·특혜·계약과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 업체와 수의계약을 맺다`, `Một tổ chức ký kết hợp đồng riêng với một công ty` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 조달·감사·지방행정의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ hoạt động mua sắm, kiểm toán và quản lý địa phương.
 
 **예문:** 긴급 복구 공사는 수의계약이 가능하지만 계약 금액과 사유를 공개해야 한다.
 
-**어휘 연결:** `직접 계약`은 넓은 일반어이고, `수의계약`은 경쟁 절차의 예외로 법적 요건을 갖춘 계약이다.
+**Dịch:** Có thể đàm phán hợp đồng cho công việc khôi phục khẩn cấp nhưng phải tiết lộ số tiền và lý do hợp đồng.
 
-**영어 참고:** *negotiated contract*, *direct award* — 공개 경쟁 없이 특정 업체와 직접 체결하는 계약이다.
+**어휘 연결:** `직접 계약`은 넓은 일반어이고, `수의계약`은 경쟁 절차의 예외로 법적 요건을 갖춘 계약이다. — 'Hợp đồng trực tiếp' là một thuật ngữ chung có nghĩa rộng và 'hợp đồng có thể thương lượng' là hợp đồng có các yêu cầu pháp lý là ngoại lệ đối với các thủ tục cạnh tranh.
+
+**영어 참고:** *negotiated contract*, *direct award* — Đây là hợp đồng được ký kết trực tiếp với một công ty cụ thể mà không có sự cạnh tranh mở.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** giá dự toán/giá ước định.
 
-**뉘앙스와 사용법:** 실제 계약가와 다르며, 원가·시장가격·설계금액을 바탕으로 낙찰 판단과 예산 통제를 돕는다.
+**뉘앙스와 사용법:** Nó khác với giá hợp đồng thực tế và giúp xác định ngân sách kiểm soát và giá thầu thành công dựa trên chi phí, giá thị trường và số tiền thiết kế.
 
-**재사용 가능한 콜로케이션·청크:** `예정가격 산정`, `예정가격 이하`, `예정가격 공개`.
+**재사용 가능한 콜로케이션·청크:** `예정가격 산정`, `예정가격 이하`, `예정가격 공개`. — `Ước tính giá dự kiến`, `Dưới giá dự kiến`, `Tiết lộ giá dự kiến`.
 
-**자주 쓰는 문형과 성분:** `기관이 예정가격을 산정하다`; 낙찰가·원가·입찰과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 예정가격을 산정하다`, `Tổ chức tính toán mức giá dự kiến` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공계약·회계·조달 실무의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các hoạt động đấu thầu, kế toán và mua sắm công.
 
 **예문:** 예정가격을 지나치게 낮게 잡으면 부실 공사와 재입찰 위험이 커진다.
 
-**어휘 연결:** `시가`는 시장에서 형성된 가격이고, `예정가격`은 발주기관이 입찰 기준으로 정한 행정상 가격이다.
+**Dịch:** Nếu giá dự kiến ​​được đặt quá thấp, nguy cơ xây dựng kém và đấu thầu lại sẽ tăng lên.
 
-**영어 참고:** *engineer’s estimate*, *estimated contract price* — 입찰 전에 산정하는 기준 가격이다.
+**어휘 연결:** `시가`는 시장에서 형성된 가격이고, `예정가격`은 발주기관이 입찰 기준으로 정한 행정상 가격이다. — 'Giá thị trường' là giá được hình thành trên thị trường và 'giá dự kiến' là giá hành chính do cơ quan đặt hàng đặt làm tiêu chuẩn đấu thầu.
+
+**영어 참고:** *engineer’s estimate*, *estimated contract price* — Đây là mức giá tiêu chuẩn được tính toán trước khi đặt giá thầu.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** tỷ lệ trúng thầu.
 
-**뉘앙스와 사용법:** 경쟁 강도와 가격 적정성을 보여 주지만, 낮은 낙찰률이 언제나 예산 절감이나 좋은 계약을 뜻하지는 않는다.
+**뉘앙스와 사용법:** Thể hiện cường độ cạnh tranh và mức giá phù hợp nhưng tỷ lệ giá thầu thấp không phải lúc nào cũng có nghĩa là tiết kiệm ngân sách hoặc hợp đồng tốt.
 
-**재사용 가능한 콜로케이션·청크:** `낙찰률 하락`, `평균 낙찰률`, `낙찰률 분석`.
+**재사용 가능한 콜로케이션·청크:** `낙찰률 하락`, `평균 낙찰률`, `낙찰률 분석`. — 'Tỷ lệ giá thầu giảm', 'Tỷ lệ giá thầu trung bình', 'Phân tích tỷ lệ giá thầu thành công'.
 
-**자주 쓰는 문형과 성분:** `낙찰률이 지나치게 낮다`; 저가낙찰·품질·경쟁과 결합한다.
+**자주 쓰는 문형과 성분:** `낙찰률이 지나치게 낮다`, `Tỷ lệ giá thầu thành công quá thấp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 조달 통계·감사·건설업 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ để báo cáo về thống kê mua sắm, kiểm toán và ngành xây dựng.
 
 **예문:** 낙찰률이 계속 낮아지면 업체가 품질 비용을 줄일 가능성도 점검해야 한다.
 
-**어휘 연결:** `낙찰가`는 실제 계약 금액이고, `낙찰률`은 기준 가격과 비교한 상대적 비율이다.
+**Dịch:** Nếu tỷ lệ thành công tiếp tục giảm, khả năng các công ty giảm chi phí chất lượng cũng cần được xem xét.
 
-**영어 참고:** *bid award rate* — 낙찰 금액이 기준 가격의 어느 정도인지 나타내는 비율이다.
+**어휘 연결:** `낙찰가`는 실제 계약 금액이고, `낙찰률`은 기준 가격과 비교한 상대적 비율이다. — 'Giá thầu thành công' là số tiền hợp đồng thực tế và 'Tỷ lệ giá thầu thành công' là tỷ lệ tương đối so với giá tiêu chuẩn.
+
+**영어 참고:** *bid award rate* — Đây là tỷ lệ cho biết số tiền đấu thầu thành công so với giá tiêu chuẩn là bao nhiêu.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** cơ quan đặt hàng/chủ đầu tư công.
 
-**뉘앙스와 사용법:** 계약 상대방과 구분되는 행정 주체로서 설계·평가·검수·대금 지급의 책임을 진다.
+**뉘앙스와 사용법:** Thực thể quản trị khác biệt với đối tác hợp đồng và chịu trách nhiệm thiết kế, đánh giá, kiểm tra và thanh toán.
 
-**재사용 가능한 콜로케이션·청크:** `발주기관의 요구사항`, `발주기관 책임`, `발주기관과 협의`.
+**재사용 가능한 콜로케이션·청크:** `발주기관의 요구사항`, `발주기관 책임`, `발주기관과 협의`. — `Yêu cầu của cơ quan đặt hàng`, `Trách nhiệm của cơ quan đặt hàng`, `Tham vấn với cơ quan đặt hàng`.
 
-**자주 쓰는 문형과 성분:** `발주기관이 과업을 변경하다`; 입찰·감독·계약과 결합한다.
+**자주 쓰는 문형과 성분:** `발주기관이 과업을 변경하다`, `Cơ quan đặt hàng thay đổi nhiệm vụ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공사업·조달·감사 문서의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các tài liệu dự án công, mua sắm và kiểm toán.
 
 **예문:** 발주기관은 설계 변경의 필요성과 추가 비용을 기록으로 남겨야 한다.
 
-**어휘 연결:** `수요기관`은 물품·서비스를 실제로 사용하는 기관이고, `발주기관`은 계약을 발주하고 관리하는 주체다.
+**Dịch:** Cơ quan đặt hàng phải lưu giữ hồ sơ về nhu cầu thay đổi thiết kế và chi phí bổ sung.
 
-**영어 참고:** *procuring entity* — 공공 계약을 발주하고 관리하는 기관이다.
+**어휘 연결:** `수요기관`은 물품·서비스를 실제로 사용하는 기관이고, `발주기관`은 계약을 발주하고 관리하는 주체다. — 'Đại lý nhu cầu' là đại lý thực sự sử dụng hàng hóa và dịch vụ và 'đại lý đặt hàng' là đơn vị đặt hàng và quản lý hợp đồng.
+
+**영어 참고:** *procuring entity* — Một tổ chức phát hành và quản lý các hợp đồng công.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** thị trường mua sắm công.
 
-**뉘앙스와 사용법:** 공공 예산이 수요를 만드는 시장인 만큼 중소기업 진입, 혁신제품, 경쟁 구조를 함께 분석한다.
+**뉘앙스와 사용법:** Vì đây là thị trường mà ngân sách công tạo ra nhu cầu nên sự gia nhập của doanh nghiệp vừa và nhỏ, các sản phẩm đổi mới và cơ cấu cạnh tranh được phân tích cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `조달시장 진입`, `조달시장 개방`, `조달시장 규모`.
+**재사용 가능한 콜로케이션·청크:** `조달시장 진입`, `조달시장 개방`, `조달시장 규모`. — `Gia nhập thị trường mua sắm`, `Mở cửa thị trường mua sắm`, `Quy mô thị trường mua sắm`.
 
-**자주 쓰는 문형과 성분:** `기업이 조달시장에 진입하다`; 공공기관·혁신제품·입찰과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 조달시장에 진입하다`, `Công ty tham gia thị trường mua sắm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업정책·중소기업·공공경제의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho chính sách công nghiệp, doanh nghiệp vừa và nhỏ và nền kinh tế công.
 
 **예문:** 혁신기업은 조달시장에 진입하면 초기 고객을 확보할 수 있다.
 
-**어휘 연결:** `공공조달`은 행위와 제도이고, `조달시장`은 그 계약이 형성되는 경쟁 공간이다.
+**Dịch:** Các công ty đổi mới có thể có được khách hàng ban đầu khi họ tham gia thị trường thu mua.
 
-**영어 참고:** *public-procurement market* — 공공기관 구매 계약이 형성되는 시장이다.
+**어휘 연결:** `공공조달`은 행위와 제도이고, `조달시장`은 그 계약이 형성되는 경쟁 공간이다. — 'Mua sắm công' là một hành động và hệ thống, và 'thị trường mua sắm' là một không gian cạnh tranh nơi hợp đồng được hình thành.
+
+**영어 참고:** *public-procurement market* — Đây là thị trường nơi các hợp đồng mua tổ chức công được hình thành.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** kiểm soát nội bộ.
 
-**뉘앙스와 사용법:** 감사 부서만의 일이 아니라 권한 분리, 승인 절차, 기록, 내부 신고를 포함하는 일상적 통제다.
+**뉘앙스와 사용법:** Đây không chỉ là công việc của bộ phận kiểm toán mà còn là công việc kiểm soát hàng ngày bao gồm phân quyền, thủ tục phê duyệt, hồ sơ và báo cáo nội bộ.
 
-**재사용 가능한 콜로케이션·청크:** `내부통제 강화`, `내부통제 미흡`, `내부통제 시스템`.
+**재사용 가능한 콜로케이션·청크:** `내부통제 강화`, `내부통제 미흡`, `내부통제 시스템`. — `Tăng cường kiểm soát nội bộ`, `Kiểm soát nội bộ không đầy đủ`, `Hệ thống kiểm soát nội bộ`.
 
-**자주 쓰는 문형과 성분:** `기관이 내부통제를 점검하다`; 회계·감사·책임과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 내부통제를 점검하다`, `Tổ chức kiểm tra kiểm soát nội bộ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공기관·금융·기업 지배구조의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ các tổ chức công, tài chính và quản trị doanh nghiệp.
 
 **예문:** 내부통제가 작동했다면 장기간 이어진 회계 조작을 조기에 발견했을 것이다.
 
-**어휘 연결:** `감사`는 사후 점검 행위이고, `내부통제`는 사고가 나기 전부터 조직 안에 작동하는 관리 장치다.
+**Dịch:** Nếu kiểm soát nội bộ có hiệu lực thì hành vi thao túng kế toán dài hạn sẽ bị phát hiện sớm.
 
-**영어 참고:** *internal control* — 조직의 규정 준수와 위험 예방을 위한 관리 체계다.
+**어휘 연결:** `감사`는 사후 점검 행위이고, `내부통제`는 사고가 나기 전부터 조직 안에 작동하는 관리 장치다. — 'Kiểm toán' là hoạt động kiểm tra tiếp theo và 'kiểm soát nội bộ' là một công cụ quản lý hoạt động trong tổ chức ngay cả trước khi xảy ra tai nạn.
+
+**영어 참고:** *internal control* — Hệ thống quản lý nhằm tuân thủ tổ chức và phòng ngừa rủi ro.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** mức độ liêm chính.
 
-**뉘앙스와 사용법:** 실제 비리 건수만이 아니라 시민의 체감, 절차의 공정성, 조직 문화와 신뢰를 함께 측정한다.
+**뉘앙스와 사용법:** Đo lường không chỉ số vụ tham nhũng thực tế mà còn đo lường nhận thức của người dân, tính công bằng về thủ tục, văn hóa tổ chức và sự tin cậy.
 
-**재사용 가능한 콜로케이션·청크:** `청렴도 평가`, `청렴도 조사`, `청렴도 제고`.
+**재사용 가능한 콜로케이션·청크:** `청렴도 평가`, `청렴도 조사`, `청렴도 제고`. — `Đánh giá tính toàn vẹn`, `Khảo sát tính toàn vẹn`, `Cải thiện tính toàn vẹn`.
 
-**자주 쓰는 문형과 성분:** `기관의 청렴도가 하락하다`; 부패·신뢰·공직자와 결합한다.
+**자주 쓰는 문형과 성분:** `기관의 청렴도가 하락하다`, `Tính toàn vẹn của tổ chức đang suy giảm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 감사·공직윤리·행정평가의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho kiểm toán, đạo đức dịch vụ công và đánh giá hành chính.
 
 **예문:** 청렴도 조사 결과는 내부 신고가 실제로 보호되는지에 따라 달라질 수 있다.
 
-**어휘 연결:** `청렴`은 가치와 태도이고, `청렴도`는 그 수준을 조사·비교하는 평가 개념이다.
+**Dịch:** Kết quả điều tra tính toàn vẹn có thể khác nhau tùy thuộc vào việc báo cáo nội bộ có thực sự được bảo vệ hay không.
 
-**영어 참고:** *integrity rating* — 조직의 공정성과 부패 방지 수준을 평가한 정도다.
+**어휘 연결:** `청렴`은 가치와 태도이고, `청렴도`는 그 수준을 조사·비교하는 평가 개념이다. — 'Tính chính trực' là một giá trị và thái độ, còn 'sự chính trực' là một khái niệm đánh giá nhằm điều tra và so sánh mức độ.
+
+**영어 참고:** *integrity rating* — Đây là mức độ đánh giá mức độ công bằng và chống tham nhũng của tổ chức.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** người tố giác vì lợi ích công.
 
-**뉘앙스와 사용법:** 내부 고발자보다 법률·제도적 보호와 보상, 신분 비밀 보장의 의미가 분명하다.
+**뉘앙스와 사용법:** Ý nghĩa của việc bảo vệ, bồi thường và bảo mật danh tính về mặt pháp lý và thể chế rõ ràng hơn ý nghĩa của người tố giác.
 
-**재사용 가능한 콜로케이션·청크:** `공익신고자 보호`, `공익신고자 보상`, `공익신고자 불이익`.
+**재사용 가능한 콜로케이션·청크:** `공익신고자 보호`, `공익신고자 보상`, `공익신고자 불이익`. — `Bảo vệ các phóng viên vì lợi ích công`, `Phần thưởng cho các phóng viên vì lợi ích công`, `Nhược điểm của các phóng viên vì lợi ích công`.
 
-**자주 쓰는 문형과 성분:** `법이 공익신고자를 보호하다`; 보복·신고·비밀과 결합한다.
+**자주 쓰는 문형과 성분:** `법이 공익신고자를 보호하다`, `Luật bảo vệ các phóng viên vì lợi ích công` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 반부패·노동·안전 행정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho quản lý chống tham nhũng, lao động và an toàn.
 
 **예문:** 공익신고자가 해고나 인사 불이익을 받지 않도록 독립적인 보호 절차가 필요하다.
 
-**어휘 연결:** `제보자`는 정보를 제공하는 넓은 말이고, `공익신고자`는 공익 침해를 신고하고 법적 보호를 받는 주체다.
+**Dịch:** Cần có một quy trình bảo vệ độc lập để ngăn ngừa việc các phóng viên vì lợi ích công bị sa thải hoặc gặp bất lợi về mặt nhân sự.
 
-**영어 참고:** *public-interest whistleblower* — 공익 침해를 알리고 법적 보호를 받는 신고자다.
+**어휘 연결:** `제보자`는 정보를 제공하는 넓은 말이고, `공익신고자`는 공익 침해를 신고하고 법적 보호를 받는 주체다. — ‘Người cung cấp thông tin’ là thuật ngữ rộng cung cấp thông tin và ‘người báo cáo lợi ích công cộng’ là đối tượng báo cáo hành vi vi phạm lợi ích công cộng và nhận được sự bảo vệ pháp lý.
+
+**영어 참고:** *public-interest whistleblower* — Phóng viên báo cáo hành vi vi phạm lợi ích công cộng và nhận được sự bảo vệ pháp lý.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** phòng chống tham nhũng.
 
-**뉘앙스와 사용법:** 처벌 강화만이 아니라 투명한 절차, 이해충돌 관리, 신고자 보호, 조직 문화 개선까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm tăng cường hình phạt mà còn bao gồm các thủ tục minh bạch, quản lý xung đột lợi ích, bảo vệ phóng viên và cải thiện văn hóa tổ chức.
 
-**재사용 가능한 콜로케이션·청크:** `부패방지 제도`, `부패방지 교육`, `부패방지 정책`.
+**재사용 가능한 콜로케이션·청크:** `부패방지 제도`, `부패방지 교육`, `부패방지 정책`. — `Hệ thống chống tham nhũng`, `Giáo dục chống tham nhũng`, `Chính sách chống tham nhũng`.
 
-**자주 쓰는 문형과 성분:** `기관이 부패방지 대책을 마련하다`; 감사·투명성·공직윤리와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 부패방지 대책을 마련하다`, `Cơ quan chuẩn bị các biện pháp chống tham nhũng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정·국제협력·공직윤리의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quản trị, hợp tác quốc tế và đạo đức dịch vụ công.
 
 **예문:** 부패방지는 비리 적발보다 의사결정 기록과 권한 분리를 먼저 강화해야 한다.
 
-**어휘 연결:** `반부패`는 운동·정책 전반의 표현이고, `부패방지`는 제도적 예방과 통제를 강조한다.
+**Dịch:** Phòng chống tham nhũng yêu cầu tăng cường hồ sơ ra quyết định và phân quyền trước khi phát hiện tham nhũng.
 
-**영어 참고:** *anti-corruption* — 부패를 예방하고 적발·처벌하는 정책과 체계다.
+**어휘 연결:** `반부패`는 운동·정책 전반의 표현이고, `부패방지`는 제도적 예방과 통제를 강조한다. — 'Chống tham nhũng' là sự thể hiện của phong trào và chính sách tổng thể, còn 'chống tham nhũng' nhấn mạnh đến việc ngăn chặn và kiểm soát thể chế.
+
+**영어 참고:** *anti-corruption* — Chính sách và hệ thống ngăn chặn, phát hiện và trừng phạt tham nhũng.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** quy cách kỹ thuật công bố trước đấu thầu.
 
-**뉘앙스와 사용법:** 특정 업체 제품에 맞춘 규격을 피하고 시장 의견을 받아 경쟁을 넓히려는 절차다.
+**뉘앙스와 사용법:** Đây là thủ tục nhằm tránh các tiêu chuẩn được thiết kế riêng cho sản phẩm của một công ty cụ thể và mở rộng cạnh tranh bằng cách tiếp nhận ý kiến ​​thị trường.
 
-**재사용 가능한 콜로케이션·청크:** `사전규격 공개`, `사전규격 의견수렴`, `사전규격 검토`.
+**재사용 가능한 콜로케이션·청크:** `사전규격 공개`, `사전규격 의견수렴`, `사전규격 검토`. — 'Tiết lộ đặc tả từ điển', 'Thu thập ý kiến ​​về đặc tả từ điển', 'Xem xét đặc tả từ điển'.
 
-**자주 쓰는 문형과 성분:** `기관이 사전규격을 공개하다`; 기술요건·입찰·시장조사와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 사전규격을 공개하다`, `Cơ quan công bố thông số kỹ thuật sơ bộ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공조달·행정 실무의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho hoạt động mua sắm công và hành chính.
 
 **예문:** 사전규격에 특정 브랜드만 충족할 조건이 들어갔는지 검토해야 한다.
 
-**어휘 연결:** `제품 사양`은 상품의 기술 정보이고, `사전규격`은 공공 입찰의 공정성을 위해 공개되는 요구사항이다.
+**Dịch:** Cần xem xét liệu tiêu chuẩn trước có chứa các điều kiện mà chỉ một số thương hiệu nhất định mới đáp ứng hay không.
 
-**영어 참고:** *preliminary specification* — 입찰 전에 공개하는 기술 요구사항이다.
+**어휘 연결:** `제품 사양`은 상품의 기술 정보이고, `사전규격`은 공공 입찰의 공정성을 위해 공개되는 요구사항이다. — 'Thông số kỹ thuật của sản phẩm' là thông tin kỹ thuật của sản phẩm và 'thông số kỹ thuật trước' là các yêu cầu được tiết lộ nhằm đảm bảo tính công bằng trong đấu thầu công khai.
+
+**영어 참고:** *preliminary specification* — Yêu cầu kỹ thuật được tiết lộ trước khi đấu thầu.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** hồ sơ yêu cầu đề xuất.
 
-**뉘앙스와 사용법:** 단순한 안내문이 아니라 경쟁의 범위와 평가의 공정성을 결정하는 계약 전 핵심 문서다.
+**뉘앙스와 사용법:** Đây không phải là hướng dẫn đơn giản mà là tài liệu quan trọng trước hợp đồng xác định phạm vi cạnh tranh và tính công bằng của đánh giá.
 
-**재사용 가능한 콜로케이션·청크:** `제안요청서 배포`, `제안요청서 작성`, `제안요청서 평가 기준`.
+**재사용 가능한 콜로케이션·청크:** `제안요청서 배포`, `제안요청서 작성`, `제안요청서 평가 기준`. — `Phân phối yêu cầu đề xuất`, `Viết yêu cầu đề xuất`, `Yêu cầu tiêu chí đánh giá đề xuất`.
 
-**자주 쓰는 문형과 성분:** `발주기관이 제안요청서를 공개하다`; 과업·평가·제안서와 결합한다.
+**자주 쓰는 문형과 성분:** `발주기관이 제안요청서를 공개하다`, `Cơ quan đặt hàng đưa ra yêu cầu đề xuất` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공 IT·연구용역·조달 실무의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho CNTT công cộng, dịch vụ nghiên cứu và hoạt động mua sắm.
 
 **예문:** 제안요청서의 평가 항목이 모호하면 사업자 간 공정한 비교가 어렵다.
 
-**어휘 연결:** `공고문`은 입찰 사실을 알리는 문서이고, `제안요청서`는 사업 수행 방식과 평가 기준을 상세히 설명한다.
+**Dịch:** Nếu các hạng mục đánh giá trong yêu cầu đề xuất không rõ ràng thì khó có thể so sánh công bằng giữa các doanh nghiệp.
 
-**영어 참고:** *request for proposals (RFP)* — 사업자가 제안서를 제출하도록 요구하는 조달 문서다.
+**어휘 연결:** `공고문`은 입찰 사실을 알리는 문서이고, `제안요청서`는 사업 수행 방식과 평가 기준을 상세히 설명한다. — ‘Thông báo’ là tài liệu thông báo về việc thực hiện đấu thầu và ‘Yêu cầu đề xuất’ giải thích chi tiết về phương pháp thực hiện dự án và tiêu chí đánh giá.
+
+**영어 참고:** *request for proposals (RFP)* — Đây là tài liệu mua sắm yêu cầu nhà điều hành doanh nghiệp gửi đề xuất.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** “quan chức mafia”, mạng lưới cựu quan chức.
 
-**뉘앙스와 사용법:** 관료와 마피아를 합친 비격식 신조어로, 실제 불법이 확정됐다는 뜻보다 회전문 인사와 전관 네트워크를 비판한다.
+**뉘앙스와 사용법:** Một từ mới không chính thức kết hợp giữa quan liêu và mafia. Nó chỉ trích nhân viên cửa quay và mạng lưới chuyển giao hơn là ngụ ý rằng hành vi bất hợp pháp đã thực sự được xác nhận.
 
-**재사용 가능한 콜로케이션·청크:** `관피아 논란`, `관피아 척결`, `관피아 인사`.
+**재사용 가능한 콜로케이션·청크:** `관피아 논란`, `관피아 척결`, `관피아 인사`. — 'Tranh cãi Gwanpia', 'Xóa bỏ Gwanpia', 'Vấn đề nhân sự Gwanpia'.
 
-**자주 쓰는 문형과 성분:** `시민단체가 관피아를 비판하다`; 퇴직 관료·규제·로비와 결합한다.
+**자주 쓰는 문형과 성분:** `시민단체가 관피아를 비판하다`, `Nhóm dân sự chỉ trích Gwanpia` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치 뉴스·시사 토론·온라인 커뮤니티에서 현재 통하는 평가어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ đánh giá hiện được sử dụng trong tin tức chính trị, thảo luận thời sự và cộng đồng trực tuyến.
 
 **예문:** 감독기관 출신 인사의 낙하산 취업이 관피아 논란으로 번졌다.
 
-**어휘 연결:** `전관예우`는 법조계 특혜를 가리키고, `관피아`는 관료와 민간업계의 회전문 네트워크를 비판한다.
+**Dịch:** Việc tuyển dụng nhân viên nhảy dù từ các cơ quan giám sát đã lan rộng thành một cuộc tranh cãi về quan hệ chính phủ.
 
-**영어 참고:** *bureaucratic revolving-door network* — 퇴직 관료와 관련 업계의 유착을 비판하는 표현이다.
+**어휘 연결:** `전관예우`는 법조계 특혜를 가리키고, `관피아`는 관료와 민간업계의 회전문 네트워크를 비판한다. — 'Đối xử ưu tiên với tất cả các quan chức' đề cập đến sự đối xử ưu đãi trong ngành luật và 'gwanpia' chỉ trích mạng lưới cửa quay vòng giữa các quan chức và khu vực tư nhân.
+
+**영어 참고:** *bureaucratic revolving-door network* — Đây là biểu hiện chỉ trích sự thông đồng giữa các quan chức đã nghỉ hưu và các ngành liên quan.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** bổ nhiệm “dù”, bổ nhiệm người có quan hệ.
 
-**뉘앙스와 사용법:** 공식 인사 분류가 아니라 자격과 절차가 부족하다는 시민의 평가를 생생하게 전달하는 현재 표현이다.
+**뉘앙스와 사용법:** Đây không phải là cách phân loại nhân sự chính thức mà là cách thể hiện hiện tại truyền tải một cách sinh động đánh giá của người dân về việc thiếu trình độ chuyên môn và thủ tục.
 
-**재사용 가능한 콜로케이션·청크:** `낙하산 인사 논란`, `낙하산 인사를 내려보내다`, `낙하산 인사 철회`.
+**재사용 가능한 콜로케이션·청크:** `낙하산 인사 논란`, `낙하산 인사를 내려보내다`, `낙하산 인사 철회`. — ‘Tranh cãi về nhân viên nhảy dù’, ‘Gửi nhân viên nhảy dù xuống’, ‘Rút quân nhân nhảy dù’.
 
-**자주 쓰는 문형과 성분:** `노조가 낙하산 인사에 반발하다`; 공공기관·사장·전문성과 결합한다.
+**자주 쓰는 문형과 성분:** `노조가 낙하산 인사에 반발하다`, `Liên minh phản đối việc bổ nhiệm nhảy dù` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치 기사·직장 대화·온라인 여론에서 널리 쓰이는 비격식 평가어다.
+**사회적 관계·주제별 register:** Thuật ngữ đánh giá không chính thức được sử dụng rộng rãi trong các bài viết chính trị, cuộc trò chuyện tại nơi làm việc và dư luận trực tuyến.
 
 **예문:** 조직 구성원들은 관련 경력이 없는 인사를 낙하산 인사라고 비판했다.
 
-**어휘 연결:** `인사 임명`은 중립적 사실이고, `낙하산 인사`는 공정성과 전문성이 부족하다는 비판을 포함한다.
+**Dịch:** Các thành viên của tổ chức chỉ trích nhân sự không có kinh nghiệm liên quan làm nhân viên nhảy dù.
 
-**영어 참고:** *parachute appointment* — 연줄로 자격이 부족한 사람이 핵심 자리에 임명되는 인사다.
+**어휘 연결:** `인사 임명`은 중립적 사실이고, `낙하산 인사`는 공정성과 전문성이 부족하다는 비판을 포함한다. — 'Bổ nhiệm nhân sự' là một thông tin trung lập và 'bổ nhiệm nhảy dù' bao gồm những lời chỉ trích rằng việc bổ nhiệm đó thiếu công bằng và chuyên môn.
+
+**영어 참고:** *parachute appointment* — Người không đủ trình độ do có quan hệ được bổ nhiệm vào vị trí chủ chốt.
 
 <!-- passage_word_count: 101 Korean eojeol; target_set: 공공조달, 입찰 담합, 수의계약, 예정가격, 낙찰률, 발주기관, 조달시장, 내부통제, 청렴도, 공익신고자, 부패방지, 사전규격, 제안요청서, 관피아, 낙하산 인사 -->
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** việc viếng tang, đến chia buồn.
 
-**뉘앙스와 사용법:** 단순한 방문이 아니라 고인을 기리고 상주에게 예의를 표하는 공식적인 행위다. `조문하다`보다 명사 `조문`과 `조문객`이 자주 쓰인다.
+**뉘앙스와 사용법:** Đây không phải là một chuyến viếng thăm đơn giản mà là một hành động chính thức nhằm tưởng nhớ người đã khuất và bày tỏ lòng kính trọng đối với người đã khuất. Các danh từ 'chia buồn' và 'người thương tiếc' được sử dụng thường xuyên hơn 'chia buồn'.
 
-**재사용 가능한 콜로케이션·청크:** `조문을 가다`, `조문 예절`, `조문객`, `조문을 받다`.
+**재사용 가능한 콜로케이션·청크:** `조문을 가다`, `조문 예절`, `조문객`, `조문을 받다`. — `Gửi lời chia buồn`, `Nghi thức chia buồn`, `Người đưa tang`, `Nhận lời chia buồn`.
 
-**자주 쓰는 문형과 성분:** `N에게 조문을 가다`; `빈소에서 조문하다`; 상주·유가족·빈소와 결합한다.
+**자주 쓰는 문형과 성분:** `N에게 조문을 가다`, `빈소에서 조문하다`, `Xin chia buồn với N`, `Chia buồn tại nhà xác` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 장례·가족·공식 예절의 격식어. 친한 사이에서도 가볍게 말하지 않으며, 업무 관계에서는 조문 시기와 예절을 조심한다.
+**사회적 관계·주제별 register:** Ngôn ngữ trang trọng dành cho tang lễ, gia đình và nghi thức trang trọng. Ngay cả giữa những người bạn thân, chúng tôi cũng không nói năng nhẹ nhàng, và trong các mối quan hệ kinh doanh, chúng tôi cẩn thận về thời gian và nghi thức chia buồn.
 
 **예문:** 동료의 부친상 소식을 듣고 퇴근 후 빈소에 조문을 갔다.
 
-**어휘 연결:** `문상`은 조문과 거의 같은 뜻으로 조금 더 전통적이며, `위로하다`는 감정적 행위 전반이다. `조문`은 장소 방문과 예절을 포함하는 공식 표현이다. 반대축은 `축하하다`가 아니라 상황상 `경사에 참석하다`다.
+**Dịch:** Sau khi nghe tin bố của đồng nghiệp tôi qua đời, tôi đã đến nhà tang lễ sau giờ làm việc để bày tỏ lòng thành kính.
 
-**영어 참고:** *pay one's respects*, *pay a condolence visit*, *attend a funeral* — 첫 표현은 예의를 표함, 두 번째는 조문 방문, 세 번째는 장례식 참석을 뜻한다.
+**어휘 연결:** `문상`은 조문과 거의 같은 뜻으로 조금 더 전통적이며, `위로하다`는 감정적 행위 전반이다. `조문`은 장소 방문과 예절을 포함하는 공식 표현이다. 반대축은 `축하하다`가 아니라 상황상 `경사에 참석하다`다. — 'Chia buồn' mang tính truyền thống hơn một chút và có ý nghĩa gần giống như lời chia buồn và 'an ủi' nói chung là một hành động đầy cảm xúc. 'Lời chia buồn' là một cách diễn đạt trang trọng bao gồm việc đến thăm một địa điểm và nghi thức. Trục ngược lại không phải là 'chúc mừng' mà là 'tham dự một dịp tốt lành'.
+
+**영어 참고:** *pay one's respects*, *pay a condolence visit*, *attend a funeral* — Biểu thức đầu tiên có nghĩa là tỏ lòng kính trọng, biểu thức thứ hai có nghĩa là đến thăm chia buồn và biểu thức thứ ba có nghĩa là tham dự một đám tang.
 
 ---
 
@@ -37,19 +39,21 @@
 
 **베트남어 뜻:** cáo phó, tin báo tang.
 
-**뉘앙스와 사용법:** 개인의 죽음 자체보다 이를 주변에 알리는 공지·기사·메시지에 초점이 있다. `부고를 전하다`, `부고를 받다`처럼 소식의 이동과 결합한다.
+**뉘앙스와 사용법:** Trọng tâm là các thông báo, bài viết và tin nhắn thông báo cho những người xung quanh về cái chết thay vì chính cái chết của cá nhân đó. Nó được kết hợp với sự chuyển động của tin tức, chẳng hạn như “đưa tin về người chết” hoặc “nhận được tin về người chết”.
 
-**재사용 가능한 콜로케이션·청크:** `부고를 전하다`, `부고를 받다`, `신문의 부고`, `부고 문자`.
+**재사용 가능한 콜로케이션·청크:** `부고를 전하다`, `부고를 받다`, `신문의 부고`, `부고 문자`. — `Gửi cáo phó`, `Nhận cáo phó`, `Cáo phó trên báo`, `Văn bản cáo phó`.
 
-**자주 쓰는 문형과 성분:** `N의 부고를 받다/전하다`; 고인·유가족·발인·장례 일정이 함께 온다.
+**자주 쓰는 문형과 성분:** `N의 부고를 받다/전하다`, `Nhận/chuyển tin N đã chết` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 신문·회사 공지·가족 연락의 격식어. 메시지에서 지나치게 직접적이거나 가벼운 표현을 피해야 한다.
+**사회적 관계·주제별 register:** Ngôn ngữ trang trọng dành cho báo chí, thông báo của công ty và thông tin liên lạc trong gia đình. Tránh quá trực tiếp hoặc nhẹ dạ trong tin nhắn của bạn.
 
 **예문:** 아침에 선배의 부고를 받고 장례 일정부터 확인했다.
 
-**어휘 연결:** `사망 소식`은 중립적인 사건 정보, `부고`는 장례와 함께 전하는 공식 통지, `비보`는 슬픈 소식이라는 감정을 더 강조한다. 반대축은 `결혼 소식`, `출생 소식`처럼 새로운 삶을 알리는 공지다.
+**Dịch:** Tôi nhận được tin tiền bối qua đời vào buổi sáng và đã kiểm tra lịch tang lễ.
 
-**영어 참고:** *obituary*, *death notice*, *notice of passing* — *obituary*는 고인의 생애를 담은 기사, *death notice*는 사실 중심 공지, *notice of passing*은 완곡하고 정중하다.
+**어휘 연결:** `사망 소식`은 중립적인 사건 정보, `부고`는 장례와 함께 전하는 공식 통지, `비보`는 슬픈 소식이라는 감정을 더 강조한다. 반대축은 `결혼 소식`, `출생 소식`처럼 새로운 삶을 알리는 공지다. — 'Tin tử vong' là thông tin sự kiện trung lập, 'Cáo phó' là thông báo chính thức được gửi cùng với đám tang và 'Tin xấu' nhấn mạnh cảm giác về tin buồn. Trục đối diện là thông báo về một cuộc sống mới, chẳng hạn như “tin tức hôn nhân” hay “tin tức sinh nở”.
+
+**영어 참고:** *obituary*, *death notice*, *notice of passing* — *cáo phó* là một bài viết chứa đựng cuộc đời của người đã khuất, *thông báo tử vong* là một thông báo hướng đến sự thật và *thông báo về việc qua đời* là uyển ngữ và lịch sự.
 
 ---
 
@@ -61,19 +65,21 @@
 
 **베트남어 뜻:** nửa ngày, nửa buổi.
 
-**뉘앙스와 사용법:** 정확한 12시간보다 실제 생활에서 체감하는 “오전/오후 한쪽 정도”를 말한다. 일정과 거리의 소요 시간을 표현할 때 유용하다.
+**뉘앙스와 사용법:** Đề cập đến trải nghiệm “khoảng một chiều của buổi sáng/chiều” trong cuộc sống thực chứ không phải chính xác là 12 giờ. Nó rất hữu ích khi thể hiện thời gian cần thiết cho lịch trình và khoảng cách.
 
-**재사용 가능한 콜로케이션·청크:** `반나절이 걸리다`, `반나절 거리`, `반나절 동안`.
+**재사용 가능한 콜로케이션·청크:** `반나절이 걸리다`, `반나절 거리`, `반나절 동안`. — `mất nửa ngày`, `khoảng cách nửa ngày`, `nửa ngày`.
 
-**자주 쓰는 문형과 성분:** `N에 반나절이 걸리다`; 이동·작업·관광의 시간과 결합한다.
+**자주 쓰는 문형과 성분:** `N에 반나절이 걸리다`, `N mất nửa ngày` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·여행·업무 일정의 중립적 표현. 계약서처럼 정확한 시간 기록에는 시각을 직접 적는다.
+**사회적 관계·주제별 register:** Thể hiện trung lập về cuộc sống hàng ngày, việc đi lại và lịch làm việc. Để ghi lại thời gian chính xác, chẳng hạn như hợp đồng, hãy viết thời gian trực tiếp.
 
 **예문:** 산 정상까지 올라갔다 내려오는 데 꼬박 반나절이 걸렸다.
 
-**어휘 연결:** `반일`은 행정·근무 일정의 공식어, `반나절`은 체감 시간의 일상어, `몇 시간`은 가장 중립적이다. 반대축은 `하루 종일`, `짧은 시간`처럼 context에 따라 달라진다.
+**Dịch:** Phải mất trọn một ngày rưỡi để leo lên đỉnh núi và đi xuống.
 
-**영어 참고:** *half a day*, *a morning/afternoon*, *several hours* — *half a day*는 대략 절반, *a morning/afternoon*은 하루의 한 구간, *several hours*는 더 유연한 시간 표현이다.
+**어휘 연결:** `반일`은 행정·근무 일정의 공식어, `반나절`은 체감 시간의 일상어, `몇 시간`은 가장 중립적이다. 반대축은 `하루 종일`, `짧은 시간`처럼 context에 따라 달라진다. — 'Nửa ngày' là từ chính thức để chỉ lịch trình hành chính và làm việc, 'nửa ngày' là từ hàng ngày để chỉ thời gian được cảm nhận và 'vài giờ' là từ trung tính nhất. Trục ngược lại thay đổi tùy theo ngữ cảnh, chẳng hạn như 'cả ngày' hoặc 'một khoảng thời gian ngắn'.
+
+**영어 참고:** *half a day*, *a morning/afternoon*, *several hours* — *nửa ngày* là khoảng một nửa, *một buổi sáng/buổi chiều* là một phần trong ngày và *vài giờ* là cách diễn đạt thời gian linh hoạt hơn.
 
 ---
 
@@ -85,19 +91,21 @@
 
 **베트남어 뜻:** đến đây thôi, dừng ở mức này, tôi đi đây.
 
-**뉘앙스와 사용법:** `이만 가다`, `이만 마치다`처럼 종료·작별을 부드럽게 알린다. 말투에 따라 정중할 수도 있고 단호하게 선을 긋는 느낌도 있다.
+**뉘앙스와 사용법:** Nhẹ nhàng thông báo kết thúc hoặc tạm biệt, chẳng hạn như 'Tôi sắp rời đi' hoặc 'Tôi sẽ hoàn thành việc này.' Tùy thuộc vào giọng điệu của lời nói, nó có thể lịch sự hoặc có thể có cảm giác như đang vạch ra một ranh giới chắc chắn.
 
-**재사용 가능한 콜로케이션·청크:** `이만 가 보겠습니다`, `이만 줄이겠습니다`, `이만 마치겠습니다`.
+**재사용 가능한 콜로케이션·청크:** `이만 가 보겠습니다`, `이만 줄이겠습니다`, `이만 마치겠습니다`. — `Tôi đi đây', `Tôi sẽ dừng ở đây', `Tôi sẽ hoàn thành việc này'.
 
-**자주 쓰는 문형과 성분:** `이만 + 가다/마치다/줄이다`; 회의·전화·방문을 끝내는 발화에 자주 온다.
+**자주 쓰는 문형과 성분:** `이만 + 가다/마치다/줄이다`, `Đủ rồi + đi/kết thúc/dừng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 직장·모임·전화에서 정중한 종료 표현. 친한 사이에서는 `나 이제 갈게`가 더 자연스럽다.
+**사회적 관계·주제별 register:** Các cách diễn đạt kết thúc lịch sự tại nơi làm việc, cuộc họp và trên điện thoại. Giữa những người bạn thân, ‘Tôi sẽ đi ngay’ là điều tự nhiên hơn.
 
 **예문:** 시간이 늦었으니 오늘 회의는 이만 마치겠습니다.
 
-**어휘 연결:** `그만`은 중단 명령·권유가 강할 수 있고, `이만`은 현재 수준에서 예의 있게 끝낸다는 느낌이다. `여기까지`는 범위의 종료를 강조한다. 반대축은 `계속하다`, `더 이어 가다`다.
+**Dịch:** Đã muộn rồi nên tôi sẽ kết thúc cuộc họp hôm nay.
 
-**영어 참고:** *I’ll leave it there*, *That’s all for now*, *I’ll be going* — 각각 논의 종료, 일시적 마무리, 작별의 뉘앙스다.
+**어휘 연결:** `그만`은 중단 명령·권유가 강할 수 있고, `이만`은 현재 수준에서 예의 있게 끝낸다는 느낌이다. `여기까지`는 범위의 종료를 강조한다. 반대축은 `계속하다`, `더 이어 가다`다. — ‘Dừng lại’ có thể là một mệnh lệnh hoặc khuyến nghị mạnh mẽ để dừng lại và ‘Đủ rồi’ có cảm giác kết thúc một cách lịch sự ở cấp độ hiện tại. ‘Đến thời điểm này’ nhấn mạnh sự kết thúc của phạm vi. Trục ngược lại là 'tiếp tục' và 'tiếp tục xa hơn'.
+
+**영어 참고:** *I’ll leave it there*, *That’s all for now*, *I’ll be going* — Đây lần lượt là các sắc thái của việc kết thúc cuộc thảo luận, kết thúc tạm thời và chia tay.
 
 ---
 
@@ -109,19 +117,21 @@
 
 **베트남어 뜻:** đón tiếp, chào đón, đón nhận.
 
-**뉘앙스와 사용법:** 단순히 `만나다`보다 준비와 환영의 태도가 있다. `새로운 시대를 맞이하다`, `며느리를 맞이하다`처럼 추상적 변화와 가족 관계 모두에 쓴다.
+**뉘앙스와 사용법:** Có thái độ chuẩn bị và chào đón hơn là chỉ đơn giản là “gặp gỡ”. Nó được sử dụng cho cả những thay đổi trừu tượng và các mối quan hệ gia đình, chẳng hạn như 'chào đón một kỷ nguyên mới' và 'chào đón con dâu'.
 
-**재사용 가능한 콜로케이션·청크:** `새해를 맞이하다`, `변화를 맞이하다`, `새 식구를 맞이하다`.
+**재사용 가능한 콜로케이션·청크:** `새해를 맞이하다`, `변화를 맞이하다`, `새 식구를 맞이하다`. — `Chào mừng năm mới`, `chào đón sự thay đổi`, `chào mừng thành viên mới trong gia đình`.
 
-**자주 쓰는 문형과 성분:** `N을/를 맞이하다`; 계절·시기·변화·손님·가족 구성원이 목적어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 맞이하다`, `Chào mừng N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행사·인사·가족·에세이에서 정중하고 문어적이다. 일상에서는 `맞다`, `받아들이다`, `환영하다`로 나누어 표현할 수 있다.
+**사회적 관계·주제별 register:** Lịch sự và đúng nghĩa trong các sự kiện, lời chào, gia đình và bài luận. Trong cuộc sống hàng ngày, nó có thể được biểu thị bằng 'đúng', 'chấp nhận' và 'chào đón'.
 
 **예문:** 우리는 새로운 구성원을 따뜻하게 맞이할 준비를 했다.
 
-**어휘 연결:** `맞다`는 오는 것을 받는 기본어, `환영하다`는 기쁘게 맞는 태도, `맞이하다`는 준비와 전환의 순간까지 포함한다. 반대축은 `떠나보내다`, `거부하다`다.
+**Dịch:** Chúng tôi đã chuẩn bị chào đón nồng nhiệt các thành viên mới.
 
-**영어 참고:** *welcome*, *greet*, *embrace* — *welcome*은 환영, *greet*은 만남의 인사, *embrace*는 변화·가치를 적극 받아들임이다.
+**어휘 연결:** `맞다`는 오는 것을 받는 기본어, `환영하다`는 기쁘게 맞는 태도, `맞이하다`는 준비와 전환의 순간까지 포함한다. 반대축은 `떠나보내다`, `거부하다`다. — ‘Đúng’ là từ cơ bản để nhận những gì đến, ‘chào mừng’ là thái độ vui vẻ và ‘chào đón’ bao gồm thời điểm chuẩn bị và chuyển tiếp. Trục đối diện là ‘gửi đi’ và ‘từ chối’.
+
+**영어 참고:** *welcome*, *greet*, *embrace* — *chào mừng* có nghĩa là chào mừng, *chào* có nghĩa là chào khi gặp mặt, *ôm* có nghĩa là tích cực chấp nhận thay đổi và giá trị.
 
 ---
 
@@ -133,19 +143,21 @@
 
 **베트남어 뜻:** thời kỳ đỉnh cao, thời hoàng kim.
 
-**뉘앙스와 사용법:** 사람·배우·가수·스포츠 선수뿐 아니라 기업·산업·시대에도 쓴다. 현재보다 과거의 절정기를 회고하는 경우가 많다.
+**뉘앙스와 사용법:** Nó không chỉ được sử dụng cho mọi người, diễn viên, ca sĩ và người chơi thể thao mà còn cho các công ty, ngành công nghiệp và thời đại. Chúng ta thường nhìn lại thời kỳ đỉnh cao trong quá khứ hơn là hiện tại.
 
-**재사용 가능한 콜로케이션·청크:** `전성기를 누리다`, `전성기가 끝나다`, `전성기 시절`, `제2의 전성기`.
+**재사용 가능한 콜로케이션·청크:** `전성기를 누리다`, `전성기가 끝나다`, `전성기 시절`, `제2의 전성기`. — ‘Tận hưởng thời hoàng kim’, ‘Thời hoàng kim đã qua’, ‘Thời hoàng kim’, ‘Thời hoàng kim thứ hai’.
 
-**자주 쓰는 문형과 성분:** `N이/가 전성기를 맞다/누리다`; 인물·팀·회사·산업이 주어로 온다.
+**자주 쓰는 문형과 성분:** `N이/가 전성기를 맞다/누리다`, `N đang/thích/đang ở thời kỳ đỉnh cao` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 스포츠·연예·역사·경제 기사와 회고 담론에서 자연스럽다.
+**사회적 관계·주제별 register:** Tự nhiên trong các bài viết về thể thao, giải trí, lịch sử, kinh tế và diễn ngôn hồi tưởng.
 
 **예문:** 그 배우는 30대에 전성기를 누렸지만 지금도 꾸준히 작품 활동을 한다.
 
-**어휘 연결:** `절정`은 순간 또는 상태의 최고점, `전성기`는 일정 기간의 번성, `황금기`는 한 집단·시대의 번영을 문학적으로 표현한다. 반대축은 `쇠퇴기`, `침체기`다.
+**Dịch:** Nam diễn viên đang ở đỉnh cao sự nghiệp ở độ tuổi 30 nhưng vẫn tiếp tục làm việc.
 
-**영어 참고:** *prime*, *heyday*, *golden age* — *prime*은 개인의 최전성기, *heyday*는 과거의 번성기, *golden age*는 시대·분야의 황금기를 뜻한다.
+**어휘 연결:** `절정`은 순간 또는 상태의 최고점, `전성기`는 일정 기간의 번성, `황금기`는 한 집단·시대의 번영을 문학적으로 표현한다. 반대축은 `쇠퇴기`, `침체기`다. — 'Đỉnh cao' là đỉnh cao của một thời điểm hoặc trạng thái, 'thời hoàng kim' là sự thịnh vượng của một khoảng thời gian nhất định và 'thời hoàng kim' là cách diễn đạt văn học về sự thịnh vượng của một nhóm hoặc một thời đại. Trục đối diện là “thời kỳ suy thoái” và “thời kỳ trì trệ”.
+
+**영어 참고:** *prime*, *heyday*, *golden age* — *prime* chỉ thời kỳ hoàng kim của một cá nhân, *thời hoàng kim* chỉ sự thịnh vượng trong quá khứ và *thời hoàng kim* chỉ thời kỳ hoàng kim của một thời đại hoặc lĩnh vực.
 
 ---
 
@@ -157,19 +169,21 @@
 
 **베트남어 뜻:** an toàn, yên ổn, bình an.
 
-**뉘앙스와 사용법:** 결과가 좋았다는 의미보다 위험이나 장애가 없었다는 안도감이 강하다. 여행·수술·구조·행사 종료에 폭넓게 쓴다.
+**뉘앙스와 사용법:** Cảm giác nhẹ nhõm vì không gặp rủi ro hay trở ngại nào mạnh mẽ hơn là kết quả tốt. Nó được sử dụng rộng rãi trong du lịch, phẫu thuật, cứu hộ và kết thúc sự kiện.
 
-**재사용 가능한 콜로케이션·청크:** `무사히 도착하다`, `무사히 마치다`, `무사히 귀환하다`, `무사히 넘기다`.
+**재사용 가능한 콜로케이션·청크:** `무사히 도착하다`, `무사히 마치다`, `무사히 귀환하다`, `무사히 넘기다`. — `đến nơi an toàn`, `về đích an toàn`, `trở về an toàn`, `vượt qua an toàn`.
 
-**자주 쓰는 문형과 성분:** `무사히 + V`; 도착·귀가·수료·출산·수술·행사와 결합한다.
+**자주 쓰는 문형과 성분:** `무사히 + V`, `An toàn + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상 안부부터 뉴스·공식 보고까지 중립적이다. 상대의 안전을 바라는 인사말로도 자주 쓴다.
+**사회적 관계·주제별 register:** Trung lập từ lời chào hàng ngày đến tin tức và báo cáo chính thức. Nó cũng thường được sử dụng như một lời chào để chúc người khác được an toàn.
 
 **예문:** 긴 여행을 마치고 모두 무사히 집에 도착했다.
 
-**어휘 연결:** `안전하게`는 위험이 없음을 직접 설명하고, `무사히`는 일이 잘 끝났다는 안도·결과까지 포함한다. `순조롭게`는 과정의 원활함, `평온하게`는 분위기의 안정에 초점을 둔다. 반대축은 `사고를 당하다`, `위험에 처하다`다.
+**Dịch:** Sau một chuyến đi dài, mọi người đã về đến nhà an toàn.
 
-**영어 참고:** *safely*, *without incident*, *sound and safe* — *safely*는 안전하게, *without incident*는 사고 없이, *sound and safe*는 무사히 돌아온 상태를 강조한다.
+**어휘 연결:** `안전하게`는 위험이 없음을 직접 설명하고, `무사히`는 일이 잘 끝났다는 안도·결과까지 포함한다. `순조롭게`는 과정의 원활함, `평온하게`는 분위기의 안정에 초점을 둔다. 반대축은 `사고를 당하다`, `위험에 처하다`다. — ‘An toàn’ giải thích trực tiếp rằng không có rủi ro và ‘An toàn’ bao gồm sự nhẹ nhõm và kết quả là công việc đã được thực hiện tốt. 'Trơn tru' tập trung vào sự suôn sẻ của quá trình và 'bình tĩnh' tập trung vào sự ổn định của bầu không khí. Trục ngược lại là 'gặp tai nạn' và 'gặp nguy hiểm'.
+
+**영어 참고:** *safely*, *without incident*, *sound and safe* — *an toàn* nhấn mạnh sự an toàn, *không có sự cố* nhấn mạnh trạng thái trở về an toàn và *vững chắc và an toàn* nhấn mạnh trạng thái trở về an toàn.
 
 ---
 

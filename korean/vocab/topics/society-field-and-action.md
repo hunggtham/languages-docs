@@ -12,18 +12,21 @@
 **핵심 의미:** 사람·집단·조직 등이 움직이거나 변해 가는 현재의 상태와 흐름이다.
 
 **베트남어 뜻:** động thái, diễn biến.
+**뉘앙스와 사용법:** Trong mục này, `동태` không chỉ mang nghĩa “động thái, diễn biến.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `동태를 살피다`, `동태를 파악하다`, `적의 동태`, `시장 동태`.
+**재사용 가능한 콜로케이션·청크:** `동태를 살피다`, `동태를 파악하다`, `적의 동태`, `시장 동태` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N의 동태를 + 살피다/파악하다/주시하다`; 특정 인물·집단·시장과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 동태를 + 살피다/파악하다/주시하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 군사·경찰·경제·뉴스의 공식어. 친구의 행동을 말할 때는 `움직임`, `상황`이 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 경찰은 용의자의 동태를 며칠 동안 지켜봤다.
 
-**어휘 연결:** `상태`는 현재 모습 전반, `동태`는 변화와 움직임, `동향`은 시장·여론의 방향, `정세`는 정치·국제의 큰 판세다. 변화가 멈춘 반대축은 `정체`다.
+**Dịch:** Cảnh sát đã theo dõi diễn biến của nghi phạm trong vài ngày.
 
-**영어 참고:** *movements*, *developments*, *trend* — *movements*는 특정 대상의 움직임, *developments*는 사건의 진행, *trend*는 장기 방향이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `동태`.
+
+**영어 참고:** *movements*, *developments*, *trend* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -34,18 +37,21 @@
 **핵심 의미:** 야영·임시 거처·행사용 공간으로 쓰는 천막이다.
 
 **베트남어 뜻:** lều, trại, rạp.
+**뉘앙스와 사용법:** Trong mục này, `텐트` không chỉ mang nghĩa “lều, trại, rạp.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `텐트를 치다`, `텐트를 걷다`, `텐트 안에서 자다`.
+**재사용 가능한 콜로케이션·청크:** `텐트를 치다`, `텐트를 걷다`, `텐트 안에서 자다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N에 텐트를 치다`; `텐트를 + 치다/걷다/옮기다`; 캠핑 장비와 결합한다.
+**자주 쓰는 문형과 성분:** `N에 텐트를 치다`, `텐트를 + 치다/걷다/옮기다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·여행·캠핑의 중립적 외래어. 행사·시장에서는 `천막`이 더 공식적일 수 있다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 해가 지기 전에 텐트를 치고 저녁을 준비하자.
 
-**어휘 연결:** `천막`은 행사장까지 포함하는 넓은 native 표현, `가설막`은 공사·행사용 임시 막이라는 전문어다. 고정된 반의어는 없다.
+**Dịch:** Hãy dựng lều và chuẩn bị bữa tối trước khi mặt trời lặn.
 
-**영어 참고:** *tent*, *canopy* — *tent*는 사람이 들어가 머무는 구조물, *canopy*는 위를 덮는 차양·천막이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `텐트`.
+
+**영어 참고:** *tent*, *canopy* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -56,18 +62,21 @@
 **핵심 의미:** 물건을 힘주어 던져 멀리 보내다.
 
 **베트남어 뜻:** quăng, ném mạnh.
+**뉘앙스와 사용법:** Trong mục này, `투척하다` không chỉ mang nghĩa “quăng, ném mạnh.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `물건을 투척하다`, `돌을 투척하다`, `화염병을 투척하다`.
+**재사용 가능한 콜로케이션·청크:** `물건을 투척하다`, `돌을 투척하다`, `화염병을 투척하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 N을/를 투척하다`; 물건·돌·위험물과 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 N을/를 투척하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경찰 발표·뉴스·법률의 공식어. 일상에서는 `던지다`가 기본 선택이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 경기장 안으로 물병을 투척한 관중이 퇴장 조치를 받았다.
 
-**어휘 연결:** `던지다`는 중립적 기본어, `투척하다`는 공식적이고 의도적·위험한 투척, `투사하다`는 빛·영상·감정을 밖으로 보내는 말이다. 반대축은 `받다`, `거두다`다.
+**Dịch:** Khán giả ném chai nước vào sân vận động đã bị yêu cầu rời đi.
 
-**영어 참고:** *throw*, *hurl*, *toss* — *throw*는 중립, *hurl*은 세게 내던짐, *toss*는 가볍게 던짐이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `투척하다`.
+
+**영어 참고:** *throw*, *hurl*, *toss* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -78,18 +87,21 @@
 **핵심 의미:** 정해진 동작에 따라 몸을 움직여 건강을 유지하다.
 
 **베트남어 뜻:** tập thể dục, tập thể dục nhịp điệu.
+**뉘앙스와 사용법:** Trong mục này, `체조하다` không chỉ mang nghĩa “tập thể dục, tập thể dục nhịp điệu.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `아침 체조`, `가볍게 체조하다`, `체조를 하다`.
+**재사용 가능한 콜로케이션·청크:** `아침 체조`, `가볍게 체조하다`, `체조를 하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N에서 체조하다`; `체조를 + 하다/시작하다`; 공원·학교·군대와 자주 결합한다.
+**자주 쓰는 문형과 성분:** `N에서 체조하다`, `체조를 + 하다/시작하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** `체조하다`는 다소 문어적·정형적이고, 회화에서는 `체조를 하다`나 넓은 `운동하다`가 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 아침마다 공원에서 가볍게 체조하는 어르신들이 많다.
 
-**어휘 연결:** `운동하다`는 가장 넓은 기본어, `체조하다`는 정해진 동작, `몸을 단련하다`는 장기적인 강화 과정을 강조한다. 반대축은 `가만히 있다`다.
+**Dịch:** Mỗi sáng có nhiều người lớn tuổi tập thể dục nhẹ trong công viên.
 
-**영어 참고:** *exercise*, *do calisthenics*, *do gymnastics* — *exercise*는 일반 운동, *calisthenics*는 맨몸 체조, *gymnastics*는 스포츠 종목이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `체조하다`.
+
+**영어 참고:** *exercise*, *do calisthenics*, *do gymnastics* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -100,18 +112,21 @@
 **핵심 의미:** 외부에서 노동력이나 전문 서비스를 제공하는 일 또는 계약이다.
 
 **베트남어 뜻:** dịch vụ thuê ngoài, lao động theo hợp đồng.
+**뉘앙스와 사용법:** Trong mục này, `용역` không chỉ mang nghĩa “dịch vụ thuê ngoài, lao động theo hợp đồng.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `용역 업체`, `용역 계약`, `용역을 맡기다`, `시설 관리 용역`.
+**재사용 가능한 콜로케이션·청크:** `용역 업체`, `용역 계약`, `용역을 맡기다`, `시설 관리 용역` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 용역 업체에 맡기다`; 관리·청소·보안·연구 업무와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 용역 업체에 맡기다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 입찰·계약·행정·비즈니스의 공식어. 일상에서는 `서비스 업체`, `외주`가 더 쉽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 건물 관리는 전문 용역 업체에 맡기기로 했다.
 
-**어휘 연결:** `서비스`보다 공식적이고 계약성이 강하다. `외주`는 외부에 맡기는 행위, `도급`은 결과물과 법적 책임, `직영`은 조직이 직접 수행하는 반대축이다.
+**Dịch:** Chúng tôi quyết định giao việc quản lý tòa nhà cho một công ty dịch vụ chuyên nghiệp.
 
-**영어 참고:** *outsourced service*, *contract labor*, *service contract* — 각각 외주 업무, 계약 노동력, 서비스 제공 계약을 가리킨다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `용역`.
+
+**영어 참고:** *outsourced service*, *contract labor*, *service contract* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -122,18 +137,21 @@
 **핵심 의미:** 돈을 받고 육체노동을 하는 사람, 특히 공사 현장의 노동자다.
 
 **베트남어 뜻:** công nhân làm thuê, lao động chân tay.
+**뉘앙스와 사용법:** Trong mục này, `인부` không chỉ mang nghĩa “công nhân làm thuê, lao động chân tay.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `공사장 인부`, `인부를 고용하다`, `인부들이 작업하다`.
+**재사용 가능한 콜로케이션·청크:** `공사장 인부`, `인부를 고용하다`, `인부들이 작업하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N 명의 인부`; 공사장·현장·임금·안전과 결합한다.
+**자주 쓰는 문형과 성분:** `N 명의 인부` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 다소 오래되고 대상화하는 느낌이 있어 현대 공식 문서에서는 `근로자`, `건설 노동자`, `현장 작업자`가 더 안전하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 공사장 인부들은 안전모와 안전화를 반드시 착용해야 한다.
 
-**어휘 연결:** `일꾼`은 구어적·넓은 표현, `인부`는 육체노동에 초점, `근로자`는 공식적·존중하는 표현이다. `고용주`는 직무 관계의 반대편이지 사전식 반의어는 아니다.
+**Dịch:** Công nhân công trường nhất định phải đội mũ bảo hộ và đi giày an toàn.
 
-**영어 참고:** *manual laborer*, *construction worker*, *worker* — 육체노동 일반, 건설 현장, 가장 넓은 중립 표현의 차이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `인부`.
+
+**영어 참고:** *manual laborer*, *construction worker*, *worker* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -144,18 +162,21 @@
 **핵심 의미:** 외부 사람이나 조직에 연락하고 설득해 참여를 조정하는 일이다.
 
 **베트남어 뜻:** liên hệ mời, thu xếp người tham gia.
+**뉘앙스와 사용법:** Không chỉ là liên lạc mà còn bao gồm thuyết phục và sắp xếp để người hoặc tổ chức bên ngoài tham gia; thường dùng trong truyền thông, sự kiện và kinh doanh.
 
-**재사용 가능한 콜로케이션·청크:** `출연자를 섭외하다`, `강사 섭외`, `고객 섭외`, `섭외가 되다`.
+**재사용 가능한 콜로케이션·청크:** `출연자를 섭외하다`, `강사 섭외`, `고객 섭외`, `섭외가 되다`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `N을/를 섭외하다`; 출연자·강사·연사·고객·전문가가 목적어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 섭외하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 방송·행사·마케팅·영업의 실무어. 단순 연락보다 부탁·협상·일정 조율까지 포함한다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 다음 달 강연에 모실 연사를 섭외하고 있다.
 
-**어휘 연결:** `연락하다`는 연락 자체, `섭외하다`는 참여를 성사시키는 과정, `초빙하다`는 전문가를 공식적으로 모심, `위촉하다`는 역할을 맡김이다. 직접 반의어는 없고 `거절하다`가 결과의 반대다.
+**Dịch:** Chúng tôi đang mời một diễn giả sẽ tham gia buổi nói chuyện vào tháng sau.
 
-**영어 참고:** *approach*, *book*, *recruit* — 접촉·제안, 일정 확정, 참여자 모집의 단계 차이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `섭외`.
+
+**영어 참고:** *approach*, *book*, *recruit* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -166,18 +187,21 @@
 **핵심 의미:** 다른 사람이나 조직의 일을 대신 수행하는 것, 또는 임시로 권한을 대신 맡는 사람·직책이다.
 
 **베트남어 뜻:** làm thay, đại diện làm dịch vụ; quyền tạm thời.
+**뉘앙스와 사용법:** Trong mục này, `대행` không chỉ mang nghĩa “làm thay, đại diện làm dịch vụ; quyền tạm thời.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `계약 대행`, `구매 대행`, `권한 대행`, `대행 업체`.
+**재사용 가능한 콜로케이션·청크:** `계약 대행`, `구매 대행`, `권한 대행`, `대행 업체` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 대행하다`; 계약·신청·구매·업무·권한과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 대행하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정·법무·비즈니스에서 공식적이다. 서비스 광고에서는 소비자에게 익숙한 실무어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 해외 구매 대행 업체를 이용할 때는 수수료를 먼저 확인해야 한다.
 
-**어휘 연결:** `대신하다`는 기본 동사, `대행하다`는 업무·권한을 공식적으로 대신 수행함, `위임하다`는 권한을 맡기는 행위다. 반대축은 `직접 수행하다`다.
+**Dịch:** Khi dùng dịch vụ mua hàng hộ từ nước ngoài, trước hết phải kiểm tra phí.
 
-**영어 참고:** *act on behalf of*, *代理 service*, *substitute* — 첫 표현은 대표 수행, 두 번째는 대행 서비스, *substitute*는 사람을 대신함에 초점을 둔다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `대행`.
+
+**영어 참고:** *act on behalf of*, *代理 service*, *substitute* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -188,18 +212,21 @@
 **핵심 의미:** 제출한 것, 주장, 신청 또는 결정을 다시 거두어 취소하는 일이다.
 
 **베트남어 뜻:** thu hồi, rút lại, hủy bỏ.
+**뉘앙스와 사용법:** Trong mục này, `철회` không chỉ mang nghĩa “thu hồi, rút lại, hủy bỏ.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사표 철회`, `신청 철회`, `주장을 철회하다`, `철회 의사`.
+**재사용 가능한 콜로케이션·청크:** `사표 철회`, `신청 철회`, `주장을 철회하다`, `철회 의사` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 철회하다`; 사표·신청·발언·주장·결정이 목적어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 철회하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·정치·행정·공식 발표의 격식어. 일상에서는 `취소하다`, `거둬들이다`가 쉽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 논란이 커지자 회사는 해당 공지를 철회했다.
 
-**어휘 연결:** `취소하다`는 예약·계획 전반, `철회하다`는 이미 제출·발표한 것을 공식적으로 거둠, `번복하다`는 입장이나 결정을 뒤집음이다. 반대축은 `제출하다`, `공표하다`다.
+**Dịch:** Khi tranh cãi lan rộng, công ty đã rút lại thông báo đó.
 
-**영어 참고:** *withdraw*, *retract*, *rescind* — *withdraw*는 신청·주장 철회, *retract*는 발언 철회, *rescind*는 계약·결정 취소에 공식적으로 쓴다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `철회`.
+
+**영어 참고:** *withdraw*, *retract*, *rescind* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -210,18 +237,21 @@
 **핵심 의미:** 설비·기관·장치를 목적에 맞게 만들거나 정해진 자리에 놓는 일이다.
 
 **베트남어 뜻:** lắp đặt, thiết lập, xây dựng.
+**뉘앙스와 사용법:** Bao gồm việc tạo lập hoặc đặt thiết bị, cơ quan hay hệ thống vào vị trí/chức năng đã định; nghĩa cụ thể phụ thuộc vào đối tượng đi kèm.
 
-**재사용 가능한 콜로케이션·청크:** `설치 계획`, `시설을 설치하다`, `프로그램 설치`, `임시 설치`.
+**재사용 가능한 콜로케이션·청크:** `설치 계획`, `시설을 설치하다`, `프로그램 설치`, `임시 설치`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `N을/를 설치하다`; 장비·시설·CCTV·프로그램·부스와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 설치하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기술·건설·행정·IT에서 중립적이고 공식적이다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 다음 주까지 건물 입구에 보안 카메라를 설치할 예정이다.
 
-**어휘 연결:** `놓다`는 기본적 배치, `설치하다`는 기능과 목적을 고려한 공식적 장착, `구축하다`는 시스템·기반을 만드는 더 큰 규모의 말이다. 반대축은 `철거하다`, `삭제하다`다.
+**Dịch:** Dự kiến sẽ lắp camera an ninh ở lối vào tòa nhà trước tuần sau.
 
-**영어 참고:** *install*, *set up*, *establish* — *install*은 장치·프로그램, *set up*은 현장 배치, *establish*는 조직·제도 설립에 가깝다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `설치`.
+
+**영어 참고:** *install*, *set up*, *establish* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -232,18 +262,21 @@
 **핵심 의미:** 검사나 분석을 통해 주로 유해 성분·요소를 찾아내는 일이다.
 
 **베트남어 뜻:** phát hiện, tìm ra qua kiểm tra.
+**뉘앙스와 사용법:** Là phát hiện một thành phần hoặc yếu tố qua kiểm tra/phân tích, thường trong khoa học, y tế, an toàn và pháp quy; không chỉ đơn giản là “nhìn thấy”.
 
-**재사용 가능한 콜로케이션·청크:** `성분이 검출되다`, `검출 결과`, `미량 검출`, `유해 물질 검출`.
+**재사용 가능한 콜로케이션·청크:** `성분이 검출되다`, `검출 결과`, `미량 검출`, `유해 물질 검출`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `N이/가 검출되다`; 물질·바이러스·오염·성분이 주어로 온다.
+**자주 쓰는 문형과 성분:** `N이/가 검출되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 과학·의료·식품 안전·법의학·뉴스의 전문어. 일상에서는 `발견되다`가 더 쉽다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 검사 결과 식수에서 기준치를 넘는 성분이 검출됐다.
 
-**어휘 연결:** `발견`은 넓은 기본어, `검출`은 검사 장비·분석을 통해 찾아냄, `탐지`는 신호·위치를 감지함이다. 반대축은 `불검출`, `검출되지 않다`다.
+**Dịch:** Kết quả kiểm tra cho thấy một thành phần vượt mức tiêu chuẩn đã được phát hiện trong nước uống.
 
-**영어 참고:** *detection*, *test positive for*, *identify* — *detection*은 분석상 검출, *test positive for*는 검사 양성, *identify*는 대상을 확인함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `검출`.
+
+**영어 참고:** *detection*, *test positive for*, *identify* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -254,18 +287,21 @@
 **핵심 의미:** 본문과 별도로 뒤에 덧붙인 문서나 자료다.
 
 **베트남어 뜻:** tài liệu đính kèm, phụ lục kèm theo.
+**뉘앙스와 사용법:** Chỉ tài liệu được đặt riêng sau hoặc bên cạnh văn bản chính; đây là nhãn hành chính–văn bản, tương đương “phụ lục đính kèm” hơn là một phần nội dung chính.
 
-**재사용 가능한 콜로케이션·청크:** `별첨 서류`, `별첨 자료`, `별첨 파일`, `별첨 참조`.
+**재사용 가능한 콜로케이션·청크:** `별첨 서류`, `별첨 자료`, `별첨 파일`, `별첨 참조`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `별첨으로 보내다`; `별첨 자료를 확인하다`; 공문·이메일의 첨부물과 결합한다.
+**자주 쓰는 문형과 성분:** `별첨으로 보내다`, `별첨 자료를 확인하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공문, 계약, 행정 이메일의 격식어. 개인 메신저에서는 `첨부 파일`, `붙임`이 더 자연스럽다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 세부 일정은 별첨 파일을 참조해 주시기 바랍니다.
 
-**어휘 연결:** `첨부`는 붙이는 행위·상태, `별첨`은 별도로 붙인 자료 자체, `부록`은 책·보고서 뒤의 추가 section이다. 반대축은 본문·본문 자료다.
+**Dịch:** Vui lòng tham khảo tệp đính kèm để biết lịch trình chi tiết.
 
-**영어 참고:** *attachment*, *enclosure*, *appendix* — *attachment*는 이메일 파일, *enclosure*는 공문 동봉물, *appendix*는 문서의 부록이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `별첨`.
+
+**영어 참고:** *attachment*, *enclosure*, *appendix* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -276,18 +312,21 @@
 **핵심 의미:** 새 집이나 지역으로 옮겨 살거나, 일정 구역에 업체·시설이 들어가다.
 
 **베트남어 뜻:** chuyển vào ở; doanh nghiệp/cửa hàng đi vào khu vực.
+**뉘앙스와 사용법:** Có thể nói về người chuyển vào nhà/khu vực mới hoặc doanh nghiệp, cơ sở đi vào một khu được quy hoạch; không chỉ giới hạn ở việc “chuyển nhà”.
 
-**재사용 가능한 콜로케이션·청크:** `신도시에 입주하다`, `아파트에 입주하다`, `업체가 입주하다`.
+**재사용 가능한 콜로케이션·청크:** `신도시에 입주하다`, `아파트에 입주하다`, `업체가 입주하다`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `N에 입주하다`; 사람·가구·업체·시설이 주어로 올 수 있다.
+**자주 쓰는 문형과 성분:** `N에 입주하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·도시 개발·공식 공지의 실무어. 일상에서는 `이사 오다`, `들어오다`가 더 쉽다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 내년 봄부터 새 아파트에 입주할 수 있다.
 
-**어휘 연결:** `이사하다`는 이동 과정, `입주하다`는 새 공간에 실제로 들어가 사는 단계, `입점하다`는 상점·업체가 상업 공간에 들어가는 전문어다. 반대축은 `퇴거하다`, `이전하다`다.
+**Dịch:** Có thể chuyển vào căn hộ mới từ mùa xuân năm sau.
 
-**영어 참고:** *move in*, *take occupancy*, *move into a commercial space* — *move in*은 일상 주거, *take occupancy*는 공식·법적 점유, 마지막 표현은 업체 입점에 가깝다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `입주하다`.
+
+**영어 참고:** *move in*, *take occupancy*, *move into a commercial space* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -298,18 +337,21 @@
 **핵심 의미:** 생명·신체·재산·명예 등에 해를 입은 사람이다.
 
 **베트남어 뜻:** nạn nhân, người bị thiệt hại.
+**뉘앙스와 사용법:** Chỉ người chịu thiệt hại về tính mạng, thân thể, tài sản hoặc danh dự; là thuật ngữ trung tính–chính thức trong pháp luật, tin tức và chính sách hỗ trợ.
 
-**재사용 가능한 콜로케이션·청크:** `사고 피해자`, `피해자 지원`, `피해자 보호`, `피해자 진술`.
+**재사용 가능한 콜로케이션·청크:** `사고 피해자`, `피해자 지원`, `피해자 보호`, `피해자 진술`. — Các cụm trên là những kết hợp thường dùng; nghĩa tiếng Việt được hiểu theo ngữ cảnh của mục từ.
 
-**자주 쓰는 문형과 성분:** `피해자가 발생하다`, `피해자를 돕다/보호하다`; 사고·범죄·재난과 결합한다.
+**자주 쓰는 문형과 성분:** `피해자가 발생하다`, `피해자를 돕다/보호하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·뉴스·상담·공공정책의 공식어. 당사자를 존중해야 하므로 가벼운 농담에 쓰지 않는다.
+**사회적 관계·주제별 register:** Từ này dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chú ý khoảng cách xã hội và mức độ trang trọng.
 
 **예문:** 최근 뺑소니 사고의 피해자가 급격하게 늘고 있다.
 
-**어휘 연결:** `희생자`는 사망·큰 희생의 뉘앙스가 강하고, `피해자`는 재산·명예 손해까지 넓다. `당사자`는 피해 여부를 판단하지 않는 중립어다. 반대 역할은 `가해자`다.
+**Dịch:** Số nạn nhân của các vụ tai nạn bỏ chạy gần đây đã tăng nhanh.
 
-**영어 참고:** *victim*, *survivor*, *injured party* — *victim*은 피해를 입은 사람, *survivor*는 살아남음과 회복을 강조, *injured party*는 법률·계약의 당사자다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `피해자`.
+
+**영어 참고:** *victim*, *survivor*, *injured party* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -320,18 +362,21 @@
 **핵심 의미:** 특정 업무를 해 달라고 부탁하여 맡기는 일 또는 그 의뢰다.
 
 **베트남어 뜻:** sự ủy thác, nhờ làm việc.
+**뉘앙스와 사용법:** Trong mục này, `촉탁` không chỉ mang nghĩa “sự ủy thác, nhờ làm việc.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `촉탁을 하다`, `촉탁 업무`, `촉탁 의사`, `촉탁 직원`.
+**재사용 가능한 콜로케이션·청크:** `촉탁을 하다`, `촉탁 업무`, `촉탁 의사`, `촉탁 직원` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N에게 N을 촉탁하다`; 전문가·의사·기관에 특정 업무를 맡길 때 쓴다.
+**자주 쓰는 문형과 성분:** `N에게 N을 촉탁하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·의료·행정·기관 업무의 격식어. 친구에게 부탁한다는 뜻으로는 부자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 법원은 전문 감정인에게 감정을 촉탁했다.
 
-**어휘 연결:** `의뢰하다`는 전문 서비스나 일을 맡기는 일반어, `위탁하다`는 책임·운영을 맡김, `촉탁하다`는 특정 기관·전문가에게 공식적으로 부탁함이다. 반대축은 `직접 처리하다`다.
+**Dịch:** Tòa án đã yêu cầu một chuyên gia giám định thực hiện việc giám định.
 
-**영어 참고:** *commission*, *entrust*, *engage* — *commission*은 특정 업무를 의뢰, *entrust*는 책임을 맡김, *engage*는 전문가를 고용·섭외함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `촉탁`.
+
+**영어 참고:** *commission*, *entrust*, *engage* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 

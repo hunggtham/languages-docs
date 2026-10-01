@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** điều phối/xử lý xung đột.
 
-**뉘앙스와 사용법:** 한쪽을 이기는 해결보다 쟁점을 구조화하고 대화·절차·중재를 통해 관계를 재설계하는 의미가 강하다.
+**뉘앙스와 사용법:** Ý nghĩa của việc cấu trúc vấn đề và thiết kế lại mối quan hệ thông qua đối thoại, thủ tục và hòa giải mạnh hơn việc giải quyết một bên để giành chiến thắng.
 
-**재사용 가능한 콜로케이션·청크:** `갈등조정 기구`, `갈등조정 절차`, `갈등조정 전문가`.
+**재사용 가능한 콜로케이션·청크:** `갈등조정 기구`, `갈등조정 절차`, `갈등조정 전문가`. — `Tổ chức hòa giải xung đột`, `Thủ tục hòa giải xung đột`, `Chuyên gia hòa giải xung đột`.
 
-**자주 쓰는 문형과 성분:** `기관이 갈등조정을 맡다`; 주민·노사·중재와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 갈등조정을 맡다`, `Cơ quan chịu trách nhiệm hòa giải xung đột` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동·행정·지역사회·조직문화의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ lao động, hành chính, cộng đồng và văn hóa tổ chức.
 
 **예문:** 공개 토론만으로 풀리지 않는 주민 갈등에는 독립적인 갈등조정 절차가 필요하다.
 
-**어휘 연결:** `화해`는 관계 회복의 결과이고, `갈등조정`은 그 결과를 만들기 위한 구조화된 과정이다.
+**Dịch:** Xung đột thường trú không thể giải quyết chỉ bằng thảo luận mở đòi hỏi một quy trình giải quyết xung đột độc lập.
 
-**영어 참고:** *conflict resolution* — 갈등의 원인과 이해관계를 조정해 지속 가능한 합의를 만드는 과정이다.
+**어휘 연결:** `화해`는 관계 회복의 결과이고, `갈등조정`은 그 결과를 만들기 위한 구조화된 과정이다. — 'Hòa giải' là kết quả của việc khôi phục các mối quan hệ và 'hòa giải xung đột' là một quy trình có cấu trúc để tạo ra kết quả đó.
+
+**영어 참고:** *conflict resolution* — Đây là quá trình tạo ra thỏa thuận bền vững bằng cách điều chỉnh nguyên nhân xung đột và lợi ích.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** làm rõ sự thật/sự việc.
 
-**뉘앙스와 사용법:** 단순한 해명이나 유감 표명이 아니라 자료 조사, 증언, 독립적인 검증과 후속 조치를 포함한다.
+**뉘앙스와 사용법:** Bao gồm việc điều tra dữ liệu, lời khai, xác minh độc lập và theo dõi chứ không phải là lời giải thích hoặc bày tỏ sự hối tiếc đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `진상규명 요구`, `진상규명위원회`, `진상규명 작업`.
+**재사용 가능한 콜로케이션·청크:** `진상규명 요구`, `진상규명위원회`, `진상규명 작업`. — ‘Yêu cầu tìm kiếm sự thật’, ‘Ủy ban tìm kiếm sự thật’, ‘Công việc tìm kiếm sự thật’.
 
-**자주 쓰는 문형과 성분:** `유가족이 진상규명을 촉구하다`; 책임·조사·기록과 결합한다.
+**자주 쓰는 문형과 성분:** `유가족이 진상규명을 촉구하다`, `Gia đình tang quyến kêu gọi điều tra sự thật` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재난·인권·정치·조직 사건 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo về thảm họa, nhân quyền, chính trị và các sự kiện của tổ chức.
 
 **예문:** 피해자들은 형식적인 사과보다 독립적인 진상규명과 재발방지를 요구했다.
 
-**어휘 연결:** `사실 확인`은 정보의 진위를 점검하고, `진상규명`은 사건의 구조와 책임까지 밝히려 한다.
+**Dịch:** Thay vì lời xin lỗi chính thức, nạn nhân yêu cầu một cuộc điều tra độc lập về sự thật và ngăn chặn tái diễn.
 
-**영어 참고:** *fact-finding and truth investigation* — 사건의 경위와 책임을 체계적으로 밝히는 절차다.
+**어휘 연결:** `사실 확인`은 정보의 진위를 점검하고, `진상규명`은 사건의 구조와 책임까지 밝히려 한다. — 'Xác minh sự thật' kiểm tra tính xác thực của thông tin và 'tìm kiếm sự thật' tìm cách tiết lộ cấu trúc và trách nhiệm của vụ việc.
+
+**영어 참고:** *fact-finding and truth investigation* — Đây là quy trình tiết lộ một cách có hệ thống các trường hợp và trách nhiệm của một sự cố.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tranh cãi đổ lỗi trách nhiệm.
 
-**뉘앙스와 사용법:** 책임 소재를 밝히는 생산적 논쟁일 수도 있지만, 실질적인 해결 없이 비난만 오가는 맥락에서 비판적으로 쓰인다.
+**뉘앙스와 사용법:** Đây có thể là một cuộc tranh luận hiệu quả thể hiện trách nhiệm nhưng nó được sử dụng một cách nghiêm túc trong bối cảnh chỉ trao đổi những lời chỉ trích mà không có giải pháp thực sự.
 
-**재사용 가능한 콜로케이션·청크:** `책임공방이 벌어지다`, `책임공방으로 번지다`, `정치권 책임공방`.
+**재사용 가능한 콜로케이션·청크:** `책임공방이 벌어지다`, `책임공방으로 번지다`, `정치권 책임공방`. — ‘Một cuộc chiến về trách nhiệm diễn ra’, ‘Nó lan rộng thành một cuộc chiến về trách nhiệm’, ‘Một cuộc chiến về trách nhiệm giữa các chính trị gia’.
 
-**자주 쓰는 문형과 성분:** `여야가 책임공방을 벌이다`; 사고·정쟁·진상규명과 결합한다.
+**자주 쓰는 문형과 성분:** `여야가 책임공방을 벌이다`, `Các đảng cầm quyền và phe đối lập tham gia vào cuộc chiến về trách nhiệm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·재난·기업 위기 보도의 평가어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ đánh giá để báo cáo về các cuộc khủng hoảng chính trị, thảm họa và doanh nghiệp.
 
 **예문:** 사고 원인보다 책임공방만 커지면서 피해자 지원이 늦어졌다.
 
-**어휘 연결:** `책임 추궁`은 책임을 묻는 방향이고, `책임공방`은 당사자들이 서로 책임을 떠넘기는 대립을 강조한다.
+**Dịch:** Do tranh chấp về trách nhiệm ngày càng lớn hơn nguyên nhân vụ tai nạn nên việc hỗ trợ nạn nhân bị trì hoãn.
 
-**영어 참고:** *blame game* — 당사자들이 서로에게 책임을 돌리며 다투는 상황이다.
+**어휘 연결:** `책임 추궁`은 책임을 묻는 방향이고, `책임공방`은 당사자들이 서로 책임을 떠넘기는 대립을 강조한다. — 'Theo đuổi trách nhiệm' là hướng yêu cầu trách nhiệm, trong khi 'đổ lỗi' nhấn mạnh xung đột trong đó các bên chuyển trách nhiệm cho nhau.
+
+**영어 참고:** *blame game* — Đây là tình huống các bên tranh cãi và đổ lỗi cho nhau.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** bày tỏ tiếc nuối.
 
-**뉘앙스와 사용법:** 잘못을 인정하고 용서를 구하는 사과보다 책임을 제한하는 외교·정치적 표현으로 받아들여질 수 있다.
+**뉘앙스와 사용법:** Thay vì một lời xin lỗi thừa nhận hành vi sai trái và cầu xin sự tha thứ, nó có thể được coi là một biểu hiện ngoại giao hoặc chính trị nhằm hạn chế trách nhiệm.
 
-**재사용 가능한 콜로케이션·청크:** `유감 표명에 그치다`, `유감을 표명하다`, `공식 유감 표명`.
+**재사용 가능한 콜로케이션·청크:** `유감 표명에 그치다`, `유감을 표명하다`, `공식 유감 표명`. — 'Đơn giản là bày tỏ sự hối tiếc', 'Bày tỏ sự hối tiếc', 'Biểu hiện sự hối tiếc chính thức'.
 
-**자주 쓰는 문형과 성분:** `기관이 논란에 유감을 표명하다`; 사과·책임·공식입장과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 논란에 유감을 표명하다`, ` Cơ quan bày tỏ sự tiếc nuối về cuộc tranh cãi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·정치·기업 위기 커뮤니케이션의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho giao tiếp ngoại giao, chính trị và khủng hoảng doanh nghiệp.
 
 **예문:** 피해자 측은 유감 표명만으로는 책임을 인정한 것으로 보기 어렵다고 말했다.
 
-**어휘 연결:** `사과`는 잘못과 책임 인정의 의미가 강하고, `유감 표명`은 거리 두기와 안타까움에 머물 수 있다.
+**Dịch:** Nạn nhân cho rằng khó có thể coi việc bày tỏ sự hối hận là sự thừa nhận trách nhiệm.
 
-**영어 참고:** *expression of regret* — 유감과 안타까움을 공식적으로 나타내는 표현이다.
+**어휘 연결:** `사과`는 잘못과 책임 인정의 의미가 강하고, `유감 표명`은 거리 두기와 안타까움에 머물 수 있다. — 'Xin lỗi' có ý nghĩa mạnh mẽ là thừa nhận lỗi lầm và trách nhiệm, trong khi 'bày tỏ sự hối tiếc' chỉ có thể có nghĩa là xa cách và hối tiếc.
+
+**영어 참고:** *expression of regret* — Đây là cách thể hiện chính thức sự tiếc nuối và buồn bã.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** phòng ngừa tái diễn.
 
-**뉘앙스와 사용법:** 개인 처벌만이 아니라 조직의 절차·교육·감독·위험 관리 구조를 개선한다는 의미가 강하다.
+**뉘앙스와 사용법:** Nó có ý nghĩa mạnh mẽ trong việc cải thiện không chỉ hình phạt cá nhân mà còn cả các thủ tục, đào tạo, giám sát và cơ cấu quản lý rủi ro của tổ chức.
 
-**재사용 가능한 콜로케이션·청크:** `재발방지 대책`, `재발방지 약속`, `재발방지 시스템`.
+**재사용 가능한 콜로케이션·청크:** `재발방지 대책`, `재발방지 약속`, `재발방지 시스템`. — `Các biện pháp ngăn ngừa tái diễn`, `Lời hứa ngăn ngừa tái diễn`, `Hệ thống ngăn ngừa tái diễn`.
 
-**자주 쓰는 문형과 성분:** `기관이 재발방지책을 마련하다`; 사고·징계·제도 개선과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 재발방지책을 마련하다`, `Tổ chức chuẩn bị các biện pháp ngăn ngừa tái diễn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 안전·노동·공공기관·인권 보도의 정책어다.
+**사회적 관계·주제별 register:** Từ chính sách để báo cáo về an toàn, lao động, thể chế công và nhân quyền.
 
 **예문:** 재발방지를 위해서는 담당자 문책뿐 아니라 신고와 감독 절차를 바꿔야 한다.
 
-**어휘 연결:** `대책`은 문제에 대한 대응 전반이고, `재발방지`는 같은 문제가 반복되지 않도록 구조를 바꾸는 목표다.
+**Dịch:** Để ngăn chặn sự tái diễn, các thủ tục báo cáo và giám sát cũng như biện pháp kỷ luật phải được thay đổi.
 
-**영어 참고:** *prevention of recurrence* — 같은 사건이나 문제가 다시 발생하지 않게 하는 조치다.
+**어휘 연결:** `대책`은 문제에 대한 대응 전반이고, `재발방지`는 같은 문제가 반복되지 않도록 구조를 바꾸는 목표다. — 'Biện pháp' là phản hồi tổng thể cho một vấn đề và 'ngăn ngừa tái diễn' là mục tiêu thay đổi cấu trúc để ngăn chặn vấn đề tương tự tái diễn.
+
+**영어 참고:** *prevention of recurrence* — Đây là biện pháp nhằm ngăn chặn sự cố hoặc sự cố tương tự xảy ra lần nữa.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** khôi phục niềm tin.
 
-**뉘앙스와 사용법:** 말 한마디보다 투명한 정보 공개, 약속 이행, 책임 인정, 시간이 필요한 장기 과정으로 다룬다.
+**뉘앙스와 사용법:** Hãy coi đó là một quá trình lâu dài đòi hỏi nhiều thời gian hơn là chỉ nói suông: tiết lộ thông tin một cách minh bạch, thực hiện lời hứa, thừa nhận trách nhiệm và thời gian.
 
-**재사용 가능한 콜로케이션·청크:** `신뢰회복 조치`, `신뢰회복 노력`, `사회적 신뢰회복`.
+**재사용 가능한 콜로케이션·청크:** `신뢰회복 조치`, `신뢰회복 노력`, `사회적 신뢰회복`. — `Các biện pháp khôi phục lòng tin`, `Các nỗ lực khôi phục lòng tin`, `Khôi phục lòng tin xã hội`.
 
-**자주 쓰는 문형과 성분:** `기관이 시민의 신뢰를 회복하다`; 사과·투명성·개혁과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 시민의 신뢰를 회복하다`, `Thể chế khôi phục lòng tin của công dân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·조직·외교·공공기관 담화의 추상어다.
+**사회적 관계·주제별 register:** Nó là một từ trừu tượng để chỉ diễn ngôn về chính trị, tổ chức, ngoại giao và các tổ chức công.
 
 **예문:** 신뢰회복을 위해 조사 결과와 의사결정 기록을 모두 공개해야 한다.
 
-**어휘 연결:** `화해`는 당사자 관계에 초점을 두고, `신뢰회복`은 제도와 대중의 믿음까지 포함한다.
+**Dịch:** Để khôi phục lòng tin, tất cả kết quả điều tra và hồ sơ ra quyết định phải được tiết lộ.
 
-**영어 참고:** *restoration of trust* — 무너진 관계나 제도에 대한 믿음을 다시 쌓는 과정이다.
+**어휘 연결:** `화해`는 당사자 관계에 초점을 두고, `신뢰회복`은 제도와 대중의 믿음까지 포함한다. — 'Hòa giải' tập trung vào mối quan hệ giữa các bên, trong khi 'khôi phục niềm tin' bao gồm các thể chế và niềm tin của công chúng.
+
+**영어 참고:** *restoration of trust* — Đây là quá trình xây dựng lại lòng tin trong một mối quan hệ hoặc hệ thống bị đổ vỡ.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** người trung gian hòa giải.
 
-**뉘앙스와 사용법:** 판결을 내리는 심판과 달리 당사자의 자율적 합의와 신뢰 형성을 지원한다.
+**뉘앙스와 사용법:** Không giống như trọng tài đưa ra quyết định, nó hỗ trợ sự thỏa thuận tự chủ và hình thành lòng tin của các bên.
 
-**재사용 가능한 콜로케이션·청크:** `독립적인 중재자`, `중재자 역할`, `중재자 선임`.
+**재사용 가능한 콜로케이션·청크:** `독립적인 중재자`, `중재자 역할`, `중재자 선임`. — `Hòa giải viên độc lập`, `Vai trò trọng tài`, `Chỉ định hòa giải viên`.
 
-**자주 쓰는 문형과 성분:** `전문가가 중재자로 나서다`; 노사·분쟁·협상과 결합한다.
+**자주 쓰는 문형과 성분:** `전문가가 중재자로 나서다`, `Chuyên gia đóng vai trò trung gian` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노사·외교·지역갈등 해결의 전문어다.
+**사회적 관계·주제별 register:** Đây là biệt ngữ để giải quyết các xung đột về quản lý lao động, ngoại giao và khu vực.
 
 **예문:** 양측은 신뢰할 수 있는 중재자를 통해 비공개 협상을 시작했다.
 
-**어휘 연결:** `협상가`는 자기 측 이익을 대변할 수 있고, `중재자`는 당사자 사이의 절차와 합의를 돕는다.
+**Dịch:** Cả hai bên bắt đầu đàm phán riêng thông qua một người hòa giải đáng tin cậy.
 
-**영어 참고:** *mediator* — 대립하는 당사자들이 합의하도록 돕는 중립적 제3자다.
+**어휘 연결:** `협상가`는 자기 측 이익을 대변할 수 있고, `중재자`는 당사자 사이의 절차와 합의를 돕는다. — `người đàm phán' có thể đại diện cho lợi ích của bên mình và `người hòa giải' giúp giải quyết các thủ tục và thỏa thuận giữa các bên.
+
+**영어 참고:** *mediator* — Bên thứ ba trung lập giúp các bên xung đột đạt được thỏa thuận.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** nhượng bộ lẫn nhau.
 
-**뉘앙스와 사용법:** 한쪽의 항복이 아니라 핵심 이익과 부차적 요구를 구분해 서로 조정하는 협상 기술이다.
+**뉘앙스와 사용법:** Đó không phải là sự đầu hàng của một bên mà là một kỹ thuật đàm phán nhằm phân biệt giữa lợi ích cốt lõi và nhu cầu thứ yếu và điều chỉnh chúng.
 
-**재사용 가능한 콜로케이션·청크:** `상호양보의 정신`, `상호양보안`, `상호양보를 이끌어내다`.
+**재사용 가능한 콜로케이션·청크:** `상호양보의 정신`, `상호양보안`, `상호양보를 이끌어내다`. — `Tinh thần nhượng bộ lẫn nhau`, `Nhượng bộ lẫn nhau và an ninh`, `Đưa ra những nhượng bộ lẫn nhau`.
 
-**자주 쓰는 문형과 성분:** `양측이 상호양보에 합의하다`; 협상·타협·패키지와 결합한다.
+**자주 쓰는 문형과 성분:** `양측이 상호양보에 합의하다`, `Cả hai bên đồng ý nhượng bộ lẫn nhau` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노사·외교·정치 협상의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao dành cho các cuộc đàm phán chính trị, ngoại giao và quản lý lao động.
 
 **예문:** 상호양보가 없으면 작은 쟁점이 전체 합의를 막을 수 있다.
 
-**어휘 연결:** `양보`는 한쪽의 조정이고, `상호양보`는 양쪽이 동시에 일부 요구를 조정한다는 뜻이다.
+**Dịch:** Nếu không có sự nhượng bộ chung, những vấn đề nhỏ có thể cản trở thỏa thuận chung.
 
-**영어 참고:** *mutual concessions* — 협상 당사자들이 서로 요구를 일부 양보하는 것이다.
+**어휘 연결:** `양보`는 한쪽의 조정이고, `상호양보`는 양쪽이 동시에 일부 요구를 조정한다는 뜻이다. — 'Nhượng bộ' có nghĩa là sự phối hợp của một bên và 'nhượng bộ lẫn nhau' có nghĩa là cả hai bên đều điều chỉnh một số yêu cầu cùng một lúc.
+
+**영어 참고:** *mutual concessions* — Các bên đàm phán từ bỏ một số yêu cầu của mình đối với nhau.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** chiến tranh dư luận.
 
-**뉘앙스와 사용법:** 사실 설명을 넘어 프레임·타이밍·감정 호소로 상대의 정당성을 약화하려는 정치적 행위를 비판할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng để chỉ trích các hành động chính trị tìm cách làm suy yếu tính hợp pháp của đối thủ thông qua việc dàn dựng, định thời gian và kêu gọi mang tính cảm xúc ngoài những giải thích thực tế.
 
-**재사용 가능한 콜로케이션·청크:** `여론전에 나서다`, `치열한 여론전`, `여론전 양상`.
+**재사용 가능한 콜로케이션·청크:** `여론전에 나서다`, `치열한 여론전`, `여론전 양상`. — ‘Bước vào cuộc chiến dư luận’, ‘Cuộc chiến dư luận khốc liệt’, ‘Các khía cạnh của cuộc chiến dư luận’.
 
-**자주 쓰는 문형과 성분:** `양측이 여론전을 벌이다`; 기자회견·댓글·프레임과 결합한다.
+**자주 쓰는 문형과 성분:** `양측이 여론전을 벌이다`, `Cả hai bên tham gia vào một cuộc chiến dư luận` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·노사·법정·온라인 갈등의 평가어다.
+**사회적 관계·주제별 register:** Thuật ngữ đánh giá các xung đột chính trị, quản lý lao động, tòa án và trực tuyến.
 
 **예문:** 소송이 시작되기도 전에 양측의 여론전이 과열됐다.
 
-**어휘 연결:** `홍보`는 긍정적 이미지 전달이고, `여론전`은 상대와 지지층을 겨냥한 대립적 전략을 강조한다.
+**Dịch:** Cuộc chiến dư luận giữa hai bên đã nóng lên ngay cả trước khi vụ kiện bắt đầu.
 
-**영어 참고:** *public-opinion battle* — 대중의 지지를 얻기 위해 벌이는 전략적 메시지 경쟁이다.
+**어휘 연결:** `홍보`는 긍정적 이미지 전달이고, `여론전`은 상대와 지지층을 겨냥한 대립적 전략을 강조한다. — 'Quan hệ công chúng' là truyền tải một hình ảnh tích cực và 'chiến tranh dư luận' nhấn mạnh các chiến lược đối đầu nhắm vào đối thủ và những người ủng hộ.
+
+**영어 참고:** *public-opinion battle* — Đây là cuộc thi mang thông điệp chiến lược nhằm giành được sự ủng hộ của công chúng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** cuộc chiến giành khung diễn giải.
 
-**뉘앙스와 사용법:** 사실 자체보다 ‘개혁 대 특혜’, ‘안전 대 자유’처럼 사건의 의미를 규정하는 언어를 둘러싼 싸움이다.
+**뉘앙스와 사용법:** Đó là cuộc chiến về ngôn ngữ xác định ý nghĩa của sự kiện, chẳng hạn như 'cải cách so với đối xử ưu đãi' hoặc 'an ninh so với tự do', chứ không phải là sự thật.
 
-**재사용 가능한 콜로케이션·청크:** `프레임 전쟁이 벌어지다`, `프레임 전쟁에서 승리하다`, `정치적 프레임`.
+**재사용 가능한 콜로케이션·청크:** `프레임 전쟁이 벌어지다`, `프레임 전쟁에서 승리하다`, `정치적 프레임`. — `Chiến tranh khung bùng nổ`, `Chiến thắng trong cuộc chiến khung`, `Khung chính trị`.
 
-**자주 쓰는 문형과 성분:** `언론이 프레임 전쟁을 분석하다`; 논조·여론·책임과 결합한다.
+**자주 쓰는 문형과 성분:** `언론이 프레임 전쟁을 분석하다`, `Phương tiện truyền thông phân tích cuộc chiến khung` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어·정치 커뮤니케이션·공론장 비평의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao chỉ phương tiện truyền thông, truyền thông chính trị và phê bình phạm vi công cộng.
 
 **예문:** 정책 논쟁이 프레임 전쟁으로 바뀌면 세부 효과를 검증하기 어려워진다.
 
-**어휘 연결:** `프레이밍`은 해석 틀을 만드는 행위이고, `프레임 전쟁`은 여러 세력이 그 틀을 놓고 경쟁하는 상황이다.
+**Dịch:** Khi các cuộc tranh luận về chính sách biến thành các cuộc chiến về khung, việc xác minh các tác động chi tiết trở nên khó khăn.
 
-**영어 참고:** *framing war* — 사건의 의미와 책임을 규정하는 해석 틀의 경쟁이다.
+**어휘 연결:** `프레이밍`은 해석 틀을 만드는 행위이고, `프레임 전쟁`은 여러 세력이 그 틀을 놓고 경쟁하는 상황이다. — 'Định khung' là hành động tạo ra một khuôn khổ diễn giải và 'cuộc chiến khung' là tình huống trong đó nhiều lực lượng cạnh tranh để giành được khuôn khổ đó.
+
+**영어 참고:** *framing war* — Sự cạnh tranh của các khuôn khổ diễn giải xác định ý nghĩa và trách nhiệm của một sự kiện.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** tuyên bố lập trường.
 
-**뉘앙스와 사용법:** 사과문·해명문보다 넓은 개념으로, 사실관계·요구·향후 조치·법적 입장을 포함할 수 있다.
+**뉘앙스와 사용법:** Khái niệm rộng hơn lời xin lỗi hoặc lời giải thích và có thể bao gồm sự kiện, yêu cầu, hành động trong tương lai và quan điểm pháp lý.
 
-**재사용 가능한 콜로케이션·청크:** `공식 입장문`, `입장문을 발표하다`, `입장문 전문`.
+**재사용 가능한 콜로케이션·청크:** `공식 입장문`, `입장문을 발표하다`, `입장문 전문`. — `Tuyên bố chính thức`, `Thông báo tuyên bố`, `Tuyên bố đầy đủ`.
 
-**자주 쓰는 문형과 성분:** `단체가 입장문을 내다`; 논란·해명·요구와 결합한다.
+**자주 쓰는 문형과 성분:** `단체가 입장문을 내다`, `Tuyên bố về vấn đề của nhóm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·기업·연예·노사 커뮤니케이션의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho giao tiếp chính trị, kinh doanh, giải trí và quản lý lao động.
 
 **예문:** 회사는 입장문에서 조사 결과에 따라 후속 조치를 취하겠다고 밝혔다.
 
-**어휘 연결:** `성명`은 정치·사회적 선언의 성격이 강하고, `입장문`은 특정 사건에 대한 공식 대응 문서다.
+**Dịch:** Trong một tuyên bố, công ty tuyên bố rằng họ sẽ thực hiện hành động tiếp theo dựa trên kết quả điều tra.
 
-**영어 참고:** *official statement* — 사건이나 논쟁에 대한 기관의 공식 견해를 밝힌 문서다.
+**어휘 연결:** `성명`은 정치·사회적 선언의 성격이 강하고, `입장문`은 특정 사건에 대한 공식 대응 문서다. — 'tuyên bố' có bản chất chính trị và xã hội mạnh mẽ và 'tuyên bố quan điểm' là tài liệu phản hồi chính thức đối với một sự cố cụ thể.
+
+**영어 참고:** *official statement* — Tài liệu thể hiện quan điểm chính thức của cơ quan về một sự cố hoặc tranh cãi.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** thư/lời xin lỗi chính thức.
 
-**뉘앙스와 사용법:** 피해 사실 인정·구체적 사과·재발방지 약속이 포함되는지에 따라 진정성이 평가된다.
+**뉘앙스와 사용법:** Tính xác thực được đánh giá tùy thuộc vào việc liệu nó có bao gồm xác nhận thiệt hại, lời xin lỗi cụ thể và lời hứa ngăn chặn tái diễn hay không.
 
-**재사용 가능한 콜로케이션·청크:** `사과문 발표`, `사과문을 올리다`, `사과문 진정성`.
+**재사용 가능한 콜로케이션·청크:** `사과문 발표`, `사과문을 올리다`, `사과문 진정성`. — `thông báo xin lỗi`, `tải lời xin lỗi`, `sự chân thành của lời xin lỗi`.
 
-**자주 쓰는 문형과 성분:** `대표가 사과문을 발표하다`; 피해자·책임·재발방지와 결합한다.
+**자주 쓰는 문형과 성분:** `대표가 사과문을 발표하다`, `Người đại diện thông báo xin lỗi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기업·정치·연예·조직 위기 커뮤니케이션의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức để liên lạc trong khủng hoảng doanh nghiệp, chính trị, giải trí và tổ chức.
 
 **예문:** 사과문에 피해자에 대한 직접적인 언급과 구체적인 개선책이 빠져 논란이 커졌다.
 
-**어휘 연결:** `유감 표명`은 안타까움을 표현하고, `사과문`은 잘못과 책임을 인정하며 용서를 구하는 형식이다.
+**Dịch:** Tranh cãi gia tăng khi lời xin lỗi không đề cập trực tiếp đến nạn nhân hoặc các biện pháp cải thiện cụ thể.
 
-**영어 참고:** *apology statement* — 잘못을 인정하고 공식적으로 사과하는 글이나 발표다.
+**어휘 연결:** `유감 표명`은 안타까움을 표현하고, `사과문`은 잘못과 책임을 인정하며 용서를 구하는 형식이다. — 'Bày tỏ sự hối tiếc' thể hiện sự hối tiếc và 'xin lỗi' là một hình thức thừa nhận lỗi lầm, trách nhiệm và cầu xin sự tha thứ.
+
+**영어 참고:** *apology statement* — Văn bản hoặc thông báo thừa nhận sai sót và chính thức xin lỗi.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** mồi lửa, mầm mống tranh chấp.
 
-**뉘앙스와 사용법:** 실제 불이 아니라 잠재적 재발·확산 가능성을 비유하며, 갈등이 완전히 끝나지 않았다는 평가를 담는다.
+**뉘앙스와 사용법:** Đây không phải là một đám cháy thực sự mà là một phép ẩn dụ cho khả năng tái diễn và lan rộng, đồng thời chứa đựng đánh giá rằng xung đột vẫn chưa kết thúc hoàn toàn.
 
-**재사용 가능한 콜로케이션·청크:** `갈등의 불씨`, `논란의 불씨`, `불씨를 남기다`.
+**재사용 가능한 콜로케이션·청크:** `갈등의 불씨`, `논란의 불씨`, `불씨를 남기다`. — 'Tia lửa xung đột', 'Tia lửa tranh cãi', 'Để lại tia lửa'.
 
-**자주 쓰는 문형과 성분:** `합의가 새로운 불씨를 남기다`; 재발·여론·긴장과 결합한다.
+**자주 쓰는 문형과 성분:** `합의가 새로운 불씨를 남기다`, `Thỏa thuận để lại một tia lửa mới` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·논평·성숙한 대화에서 쓰이는 비유적 고급어다.
+**사회적 관계·주제별 register:** Đây là từ nâng cao theo nghĩa bóng được sử dụng trong tin tức, bình luận và cuộc trò chuyện dành cho người trưởng thành.
 
 **예문:** 서둘러 봉합한 합의는 내부에 또 다른 갈등의 불씨를 남겼다.
 
-**어휘 연결:** `문제`는 현재의 쟁점이고, `불씨`는 작지만 다시 커질 가능성이 있는 잠재적 원인이다.
+**Dịch:** Thỏa thuận được ký kết vội vàng đã để lại một tia xung đột khác bên trong.
 
-**영어 참고:** *spark*, *seed of renewed conflict* — 다시 갈등을 일으킬 수 있는 작은 원인이다.
+**어휘 연결:** `문제`는 현재의 쟁점이고, `불씨`는 작지만 다시 커질 가능성이 있는 잠재적 원인이다. — 'Sự cố' là sự cố hiện tại và 'than hồng' là nguyên nhân nhỏ nhưng tiềm ẩn và có khả năng phát triển trở lại.
+
+**영어 참고:** *spark*, *seed of renewed conflict* — Đó là một nguyên nhân nhỏ có thể gây ra xung đột nữa.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** “màn xin lỗi diễn”, lời xin lỗi mang tính trình diễn.
 
-**뉘앙스와 사용법:** 공식 전문어가 아니라 현재 뉴스 댓글·대화·온라인에서 반복되는 형식적 사과를 조롱할 때 쓴다.
+**뉘앙스와 사용법:** Đây không phải là thuật ngữ chính thức nhưng được sử dụng để chế giễu những lời xin lỗi chính thức hiện được lặp lại trong các bình luận tin tức, cuộc trò chuyện và trực tuyến.
 
-**재사용 가능한 콜로케이션·청크:** `사과쇼에 그치다`, `보여주기식 사과쇼`, `사과쇼 논란`.
+**재사용 가능한 콜로케이션·청크:** `사과쇼에 그치다`, `보여주기식 사과쇼`, `사과쇼 논란`. — ‘Không hơn một chương trình xin lỗi’, ‘Chương trình xin lỗi để thể hiện’, ‘Chương trình xin lỗi gây tranh cãi’.
 
-**자주 쓰는 문형과 성분:** `시민들이 기자회견을 사과쇼라고 비판하다`; 카메라·책임·재발방지와 결합한다.
+**자주 쓰는 문형과 성분:** `시민들이 기자회견을 사과쇼라고 비판하다`, `Người dân chỉ trích họp báo như một buổi xin lỗi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 시사 기사·커뮤니티·구어의 비격식 평가어다.
+**사회적 관계·주제별 register:** Thuật ngữ đánh giá không chính thức cho các bài viết về thời sự, cộng đồng và ngôn ngữ nói.
 
 **예문:** 피해자와의 대화 없이 카메라 앞에서만 한 사과는 사과쇼라는 비판을 받았다.
 
-**어휘 연결:** `형식적 사과`는 분석적 표현이고, `사과쇼`는 사과가 여론 관리용 연출이라는 강한 평가를 담는다.
+**Dịch:** Lời xin lỗi được thực hiện trước camera mà không nói chuyện với nạn nhân bị chỉ trích là một màn xin lỗi.
 
-**영어 참고:** *performative apology* — 책임보다 이미지 관리를 위해 연출된 사과다.
+**어휘 연결:** `형식적 사과`는 분석적 표현이고, `사과쇼`는 사과가 여론 관리용 연출이라는 강한 평가를 담는다. — 'Xin lỗi chính thức' là một cách diễn đạt mang tính phân tích và 'chương trình xin lỗi' chứa đựng sự đánh giá mạnh mẽ rằng lời xin lỗi được dàn dựng để quản lý dư luận.
+
+**영어 참고:** *performative apology* — Đây là lời xin lỗi nhằm mục đích quản lý hình ảnh hơn là trách nhiệm.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** đùn đẩy trách nhiệm.
 
-**뉘앙스와 사용법:** 공식 문서와 일상 대화 모두에서 쓰이며, 사고 뒤의 조직적 회피와 개인의 변명을 함께 비판한다.
+**뉘앙스와 사용법:** Được sử dụng trong cả tài liệu chính thức và cuộc trò chuyện hàng ngày, nó chỉ trích cả sự né tránh của tổ chức và lý do cá nhân đằng sau một vụ tai nạn.
 
-**재사용 가능한 콜로케이션·청크:** `책임 떠넘기기 논란`, `책임 떠넘기기에 급급하다`, `책임 떠넘기기를 막다`.
+**재사용 가능한 콜로케이션·청크:** `책임 떠넘기기 논란`, `책임 떠넘기기에 급급하다`, `책임 떠넘기기를 막다`. — `Tranh cãi về việc chuyển đổi trách nhiệm`, `Mối bận tâm về việc chuyển đổi trách nhiệm`, `Ngăn chặn việc chuyển đổi trách nhiệm`.
 
-**자주 쓰는 문형과 성분:** `당사자들이 책임 떠넘기기를 하다`; 사고·기관·변명과 결합한다.
+**자주 쓰는 문형과 성분:** `당사자들이 책임 떠넘기기를 하다`, `Các bên chuyển trách nhiệm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·노사·온라인 토론에서 현재 널리 쓰이는 비격식 평가어다.
+**사회적 관계·주제별 register:** Thuật ngữ đánh giá không chính thức hiện được sử dụng rộng rãi trong tin tức, quản lý lao động và thảo luận trực tuyến.
 
 **예문:** 시민들은 기관들이 서로 책임 떠넘기기만 한다며 독립 조사를 요구했다.
 
-**어휘 연결:** `책임공방`은 공개적 논쟁이고, `책임 떠넘기기`는 책임을 회피하려는 행위 자체를 비판한다.
+**Dịch:** Người dân yêu cầu một cuộc điều tra độc lập, nói rằng các cơ quan chỉ chuyển trách nhiệm cho nhau.
 
-**영어 참고:** *passing the buck* — 자신의 책임을 다른 사람에게 떠넘기는 행위다.
+**어휘 연결:** `책임공방`은 공개적 논쟁이고, `책임 떠넘기기`는 책임을 회피하려는 행위 자체를 비판한다. — 'Trận chiến trách nhiệm' là một cuộc tranh luận công khai và 'chuyển giao trách nhiệm' chỉ trích hành động cố gắng trốn tránh trách nhiệm.
+
+**영어 참고:** *passing the buck* — Đó là hành động chuyển trách nhiệm của mình cho người khác.
 
 <!-- passage_word_count: 103 Korean eojeol; target_set: 갈등조정, 진상규명, 책임공방, 유감 표명, 재발방지, 신뢰회복, 중재자, 상호양보, 여론전, 프레임 전쟁, 입장문, 사과문, 불씨, 사과쇼, 책임 떠넘기기 -->
 

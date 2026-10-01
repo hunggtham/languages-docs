@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** sự đăng ký mua, đề nghị giao kết hợp đồng; đăng ký mua nhà.
 
-**뉘앙스와 사용법:** 주택·보험·금융 상품처럼 정해진 조건에 따라 신청하는 공식 절차를 말한다. 일반적인 `신청`보다 계약 의사가 분명하다.
+**뉘앙스와 사용법:** Nó đề cập đến một quy trình chính thức, được thực hiện theo các điều kiện đã được xác định trước, tương tự như các sản phẩm nhà ở, bảo hiểm hoặc tài chính. Nó rõ ràng hơn về ý định ký kết so với một `ứng dụng` thông thường.
 
-**재사용 가능한 콜로케이션·청크:** `주택 청약`, `청약 신청`, `청약 경쟁률`, `청약을 철회하다`.
+**재사용 가능한 콜로케이션·청크:** `주택 청약`, `청약 신청`, `청약 경쟁률`, `청약을 철회하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N에 청약하다`; `청약을 넣다/신청하다`; 주택·보험·주식·상품이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N에 청약하다`, `청약을 넣다/신청하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·금융·법률의 공식어다. 일상적인 예약이나 구매에는 `신청`, `주문`이 더 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 계약 조건을 꼼꼼히 읽지 않고 청약부터 하는 것은 위험할 수 있다.
 
-**어휘 연결:** `신청`은 넓은 요청, `청약`은 계약을 맺겠다는 법적·상업적 의사 표시, `응모`는 경쟁에 참여하는 신청이다.
+**Dịch:** Việc đặt cọc trước mà không đọc kỹ các điều khoản hợp đồng có thể là một rủi ro.
 
-**영어 참고:** *subscription*, *application*, *offer to contract* — *subscription*은 상품·주택 신청, *application*은 일반 신청, *offer to contract*는 계약 의사 표시를 법적으로 설명한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `청약`.
+
+**영어 참고:** *subscription*, *application*, *offer to contract* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** sự ký gửi, gửi tiền, đặt cọc.
 
-**뉘앙스와 사용법:** 단순히 잠깐 맡기는 `보관`보다 금융·계약상 조건과 반환 절차가 함께 따른다. `예치금`, `예치하다`로도 쓴다.
+**뉘앙스와 사용법:** Nó bao gồm các điều kiện tài chính và quy trình hoàn trả, khác với việc `lưu trữ` đơn thuần trong một thời gian ngắn. Cũng được sử dụng với các cụm từ như `tiền đặt cọc`, `đặt cọc`.
 
-**재사용 가능한 콜로케이션·청크:** `보증금 예치`, `예치금을 납부하다`, `금액을 예치하다`, `예치 기간`.
+**재사용 가능한 콜로케이션·청크:** `보증금 예치`, `예치금을 납부하다`, `금액을 예치하다`, `예치 기간` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 예치하다`; `N에 예치하다`; 돈·보증금·서류·물품이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N을/를 예치하다`, `N에 예치하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 금융·법률·행정·계약의 공식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 입찰에 참여하려면 정해진 계좌에 보증금을 예치해야 한다.
 
-**어휘 연결:** `입금`은 계좌에 돈을 넣는 행위, `예치`는 조건과 반환을 전제로 맡김, `보관`은 돈 외의 물건에도 쓰는 넓은 말이다.
+**Dịch:** Để tham gia đấu thầu, bạn cần phải gửi tiền đặt cọc vào tài khoản được chỉ định.
 
-**영어 참고:** *deposit*, *place in custody*, *escrow* — *deposit*은 돈을 맡김, *place in custody*는 보관을 공식적으로 표현, *escrow*는 제3자가 조건부로 보관하는 법적 장치다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `예치`.
+
+**영어 참고:** *deposit*, *place in custody*, *escrow* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** đề xuất, kiến nghị, lời đề nghị.
 
-**뉘앙스와 사용법:** `아이디어`보다 실행과 검토를 전제로 하는 공식적인 의견이다. 문서에서는 근거·예산·일정을 함께 제시한다.
+**뉘앙스와 사용법:** Nó là một ý kiến chính thức, dựa trên việc thực hiện và xem xét, hơn là một `ý tưởng` đơn thuần. Trong tài liệu, nó thường đi kèm với các bằng chứng, ngân sách và lịch trình.
 
-**재사용 가능한 콜로케이션·청크:** `제안서를 제출하다`, `개선안을 제안하다`, `제안을 검토하다`, `제안을 받아들이다`.
+**재사용 가능한 콜로케이션·청크:** `제안서를 제출하다`, `개선안을 제안하다`, `제안을 검토하다`, `제안을 받아들이다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 제안하다`; `N에게 제안하다`; 방안·계약·협력·개선이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N을/를 제안하다`, `N에게 제안하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 업무·회의·협상·정책의 중립적이고 실무적인 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 담당자는 비용을 줄이면서 품질을 유지할 수 있는 제안을 내놓았다.
 
-**어휘 연결:** `의견`은 생각이나 판단, `제안`은 함께 실행하자는 방향, `권고`는 권위 있는 기관의 조언, `요청`은 상대의 행동을 바라는 말이다.
+**Dịch:** Người phụ trách đã đưa ra đề xuất có thể giảm chi phí đồng thời duy trì chất lượng.
 
-**영어 참고:** *proposal*, *suggestion*, *recommendation* — *proposal*은 구체적 계획, *suggestion*은 가벼운 제안, *recommendation*은 판단을 바탕으로 한 권고다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `제안`.
+
+**영어 참고:** *proposal*, *suggestion*, *recommendation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** nhiệm vụ, công việc được giao.
 
-**뉘앙스와 사용법:** 단순한 `일`보다 목표·책임·범위가 정해진 공식 업무라는 느낌이 강하다. 군사·행정·프로젝트 문서에서 자주 쓴다.
+**뉘앙스와 사용법:** Nó mang ý nghĩa mạnh mẽ hơn về một nhiệm vụ chính thức với mục tiêu, trách nhiệm và phạm vi được xác định rõ ràng, so với một `công việc` đơn thuần. Nó thường được sử dụng trong các tài liệu quân sự, hành chính và dự án.
 
-**재사용 가능한 콜로케이션·청크:** `핵심 과업`, `과업을 수행하다`, `과업을 부여하다`, `과업 범위`.
+**재사용 가능한 콜로케이션·청크:** `핵심 과업`, `과업을 수행하다`, `과업을 부여하다`, `과업 범위` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 수행하다`; `과업을 맡다/완수하다`; 조직·팀·담당자가 주체가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 수행하다`, `과업을 맡다/완수하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공기관·연구·프로젝트 관리의 격식어다. 친구 사이의 부탁에는 `할 일`, `업무`가 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 새 팀의 첫 과업은 고객 불만의 원인을 파악하는 일이었다.
 
-**어휘 연결:** `업무`는 직업상 처리하는 일, `과제`는 학습·목표를 위해 주어진 일, `과업`은 공식 목적과 책임을 가진 큰 단위의 임무다.
+**Dịch:** Nhiệm vụ đầu tiên của đội mới là xác định nguyên nhân gây ra sự không hài lòng của khách hàng.
 
-**영어 참고:** *task*, *mission*, *assignment* — *task*는 개별 작업, *mission*은 목적이 큰 임무, *assignment*는 맡겨진 과제나 업무다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `과업`.
+
+**영어 참고:** *task*, *mission*, *assignment* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** 확보, bảo đảm có được, thu xếp đủ.
 
-**뉘앙스와 사용법:** 단순히 `얻다`보다 경쟁이나 위험을 고려해 안정적으로 마련했다는 뜻이 강하다.
+**뉘앙스와 사용법:** Nó mang ý nghĩa mạnh mẽ hơn về việc có được sự ổn định sau khi cân nhắc cạnh tranh hoặc rủi ro, so với việc đơn thuần `lấy`.
 
-**재사용 가능한 콜로케이션·청크:** `예산을 확보하다`, `인력을 확보하다`, `안전 공간을 확보하다`, `우위를 확보하다`.
+**재사용 가능한 콜로케이션·청크:** `예산을 확보하다`, `인력을 확보하다`, `안전 공간을 확보하다`, `우위를 확보하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 확보하다`; 자원·시간·인력·시장·증거가 목적어가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 확보하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 비즈니스·행정·뉴스·군사에서 공식적이고 실무적인 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 행사는 참가자들이 이동할 수 있도록 충분한 주차 공간을 확보했다.
 
-**어휘 연결:** `마련하다`는 준비해 갖춤, `확보하다`는 경쟁·위험 속에서도 확실히 손에 넣음, `보장하다`는 결과가 유지되도록 약속함이다.
+**Dịch:** Sự kiện đã đảm bảo đủ không gian đỗ xe để người tham gia có thể di chuyển dễ dàng.
 
-**영어 참고:** *secure*, *obtain*, *reserve* — *secure*는 필요한 것을 확실히 확보함, *obtain*은 얻는 행위 일반, *reserve*는 미리 떼어 둠에 가깝다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `확보하다`.
+
+**영어 참고:** *secure*, *obtain*, *reserve* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** sự phân phối, phân chia.
 
-**뉘앙스와 사용법:** 단순히 나누는 `분할`보다 기준과 공정성, 대상별 배정의 의미가 강하다. 경제·조직·복지에 널리 쓴다.
+**뉘앙스와 사용법:** Nó mang ý nghĩa về sự phân bổ dựa trên tiêu chí, tính công bằng và sự phân bổ theo đối tượng, hơn là việc đơn thuần `chia`. Nó được sử dụng rộng rãi trong kinh tế, tổ chức và phúc lợi.
 
-**재사용 가능한 콜로케이션·청크:** `이익 분배`, `업무 분배`, `공정한 분배`, `분배 구조`.
+**재사용 가능한 콜로케이션·청크:** `이익 분배`, `업무 분배`, `공정한 분배`, `분배 구조` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 분배하다`; `분배가 이루어지다`; 자원·소득·업무·기회가 대상이다.
+**자주 쓰는 문형과 성분:** `N을/를 분배하다`, `분배가 이루어지다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제·정책·조직 운영의 분석적 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 팀장은 업무 분배가 특정 사람에게 치우치지 않았는지 다시 확인했다.
 
-**어휘 연결:** `분할`은 하나를 부분으로 나눔, `배분`은 몫을 정해 나눔, `분배`는 여러 대상 사이의 흐름과 공정성을 함께 다룬다.
+**Dịch:** Người quản lý đã kiểm tra lại để đảm bảo rằng việc phân công công việc không nghiêng về bất kỳ ai.
 
-**영어 참고:** *distribution*, *allocation*, *sharing* — *distribution*은 전체 분배 구조, *allocation*은 몫을 배정함, *sharing*은 함께 나눔의 일상어다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `분배`.
+
+**영어 참고:** *distribution*, *allocation*, *sharing* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** thường trực, thường xuyên, luôn luôn.
 
-**뉘앙스와 사용법:** `항상`보다 공지·운영·서비스의 지속성을 공식적으로 표현한다. `상시 모집`, `상시 운영`처럼 명사 앞에 자주 온다.
+**뉘앙스와 사용법:** Nó thể hiện sự bền vững chính thức của thông báo, hoạt động và dịch vụ, hơn là `luôn luôn`. Nó thường đứng trước danh từ như `tuyển dụng thường xuyên`, `hoạt động thường xuyên`.
 
-**재사용 가능한 콜로케이션·청크:** `상시 운영`, `상시 모집`, `상시 대기`, `상시 점검`.
+**재사용 가능한 콜로케이션·청크:** `상시 운영`, `상시 모집`, `상시 대기`, `상시 점검` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `상시 + 명사`; `상시로 운영하다`; 서비스·인력·점검·지원과 결합한다.
+**자주 쓰는 문형과 성분:** `상시 + 명사`, `상시로 운영하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공고·행정·기업 안내의 공식어다. 친한 대화에서는 `늘`, `항상`이 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 도서관은 이용자의 안전을 위해 상시 CCTV를 운영한다.
 
-**어휘 연결:** `항상`은 시간의 지속을 넓게 말하고, `상시`는 제도나 서비스가 계속 열려 있음을 공식적으로 표시한다.
+**Dịch:** Thư viện vận hành CCTV thường xuyên để đảm bảo an toàn cho người sử dụng.
 
-**영어 참고:** *always available*, *ongoing*, *permanent* — *always available*은 이용 가능함, *ongoing*은 계속 진행 중임, *permanent*는 고정·영구성을 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `상시`.
+
+**영어 참고:** *always available*, *ongoing*, *permanent* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** sau này, về sau, trong thời gian tới.
 
-**뉘앙스와 사용법:** `나중에`보다 공식적이고 문서적인 느낌이 있다. 일정·공지·계약에서 후속 조치를 예고할 때 쓴다.
+**뉘앙스와 사용법:** Nó mang tính trang trọng và tài liệu hơn so với `sau`. Nó được sử dụng để báo trước các hành động tiếp theo trong lịch trình, thông báo hoặc hợp đồng.
 
-**재사용 가능한 콜로케이션·청크:** `추후 안내하다`, `추후 협의하다`, `추후 결정하다`, `추후 일정`.
+**재사용 가능한 콜로케이션·청크:** `추후 안내하다`, `추후 협의하다`, `추후 결정하다`, `추후 일정` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `추후에 + 동사`; `추후 N`; 안내·협의·결정·공지와 결합한다.
+**자주 쓰는 문형과 성분:** `추후에 + 동사`, `추후 N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 업무 메일·행정·계약의 격식어다. 친구 사이에서는 `나중에`가 더 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 세부 일정은 예산이 확정된 뒤 추후에 다시 안내하겠습니다.
 
-**어휘 연결:** `나중에`는 시간의 일반어, `추후`는 공식적인 후속 시점, `향후`는 앞으로의 기간 전체를 전망할 때 쓴다.
+**Dịch:** Chúng tôi sẽ thông báo chi tiết lịch trình sau khi ngân sách được xác nhận.
 
-**영어 참고:** *later*, *subsequently*, *at a later date* — *later*는 일상어, *subsequently*는 문어적 후속, *at a later date*는 공식 일정 표현이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `추후`.
+
+**영어 참고:** *later*, *subsequently*, *at a later date* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** tiêu chuẩn, chuẩn mực, quy cách.
 
-**뉘앙스와 사용법:** 법적·기술적 규격과 사회적 판단의 기준을 모두 가리킨다. `표준화`, `표준어`처럼 파생어가 많다.
+**뉘앙스와 사용법:** Nó đề cập đến cả tiêu chuẩn pháp lý, kỹ thuật và tiêu chí đánh giá xã hội. Nó có nhiều từ phái sinh như `chuẩn hóa`, `tiêu chuẩn`.
 
-**재사용 가능한 콜로케이션·청크:** `품질 표준`, `국제 표준`, `표준을 정하다`, `표준에 맞추다`.
+**재사용 가능한 콜로케이션·청크:** `품질 표준`, `국제 표준`, `표준을 정하다`, `표준에 맞추다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N의 표준`; `표준을 준수하다/마련하다`; 품질·안전·절차·언어가 수식어가 된다.
+**자주 쓰는 문형과 성분:** `N의 표준`, `표준을 준수하다/마련하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 제조·기술·교육·정책의 공식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 모든 협력업체가 같은 안전 표준을 지키도록 계약서에 기준을 명시했다.
 
-**어휘 연결:** `기준`은 판단의 근거, `규격`은 제품의 기술적 크기와 조건, `표준`은 여러 사람이 공유하도록 정한 공통 수준이다.
+**Dịch:** Tất cả các nhà cung cấp phải tuân thủ cùng một tiêu chuẩn an toàn, được quy định rõ ràng trong hợp đồng.
 
-**영어 참고:** *standard*, *benchmark*, *specification* — *standard*는 공통 기준, *benchmark*는 비교의 기준점, *specification*은 기술적 요구사항이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `표준`.
+
+**영어 참고:** *standard*, *benchmark*, *specification* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** dự bị, dự phòng, sơ bộ.
 
-**뉘앙스와 사용법:** `준비`보다 실제 대체 자원이나 사전 단계라는 의미가 분명하다. `예비비`, `예비 후보`, `예비 조사`처럼 쓴다.
+**뉘앙스와 사용법:** Nó mang ý nghĩa rõ ràng hơn về nguồn lực thay thế thực tế hoặc giai đoạn chuẩn bị, so với việc đơn thuần `chuẩn bị`. Nó được sử dụng với các cụm từ như `ngân sách dự phòng`, `ứng viên dự phòng`, `nghiên cứu dự phòng`.
 
-**재사용 가능한 콜로케이션·청크:** `예비비`, `예비 후보`, `예비 조사`, `예비 부품`.
+**재사용 가능한 콜로케이션·청크:** `예비비`, `예비 후보`, `예비 조사`, `예비 부품` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `예비 + 명사`; `예비로 두다`; 비용·인력·후보·자료·부품과 결합한다.
+**자주 쓰는 문형과 성분:** `예비 + 명사`, `예비로 두다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 업무·행정·선거·기술 문서의 중립적 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 일정이 바뀔 수 있으니 예비 장소와 예비 강사를 함께 준비했다.
 
-**어휘 연결:** `준비`는 실행 전의 일반적 준비, `예비`는 대체나 다음 단계를 위해 미리 확보한 것, `임시`는 정식 전까지 잠시 쓰는 것이다.
+**Dịch:** Vì lịch trình có thể thay đổi, chúng tôi đã chuẩn bị sẵn địa điểm dự phòng và giảng viên dự phòng.
 
-**영어 참고:** *reserve*, *backup*, *preliminary* — *reserve*는 비축·예비, *backup*은 대체 자원, *preliminary*는 본 단계 전의 예비 절차다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `예비`.
+
+**영어 참고:** *reserve*, *backup*, *preliminary* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** sự gia tăng, mở rộng, tăng cường.
 
-**뉘앙스와 사용법:** 자연스럽게 늘어나는 `증가`보다 정책이나 전략으로 규모와 효과를 키운다는 의지가 느껴진다.
+**뉘앙스와 사용법:** Nó thể hiện ý chí tăng cường quy mô và hiệu quả thông qua chính sách hoặc chiến lược, hơn là sự `tăng` tự nhiên.
 
-**재사용 가능한 콜로케이션·청크:** `매출 증대`, `효율성 증대`, `경쟁력 증대`, `증대 방안`.
+**재사용 가능한 콜로케이션·청크:** `매출 증대`, `효율성 증대`, `경쟁력 증대`, `증대 방안` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 증대하다`; `증대가 필요하다`; 매출·생산성·효과·역량이 대상이다.
+**자주 쓰는 문형과 성분:** `N을/를 증대하다`, `증대가 필요하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제·정책·비즈니스 보고서의 격식어다. 일상에서는 `늘리다`, `키우다`가 쉽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 기업은 단기 매출보다 고객 만족도 증대를 우선하기로 했다.
 
-**어휘 연결:** `증가`는 양이 많아짐, `확대`는 범위와 규모가 넓어짐, `증대`는 성과·효과·역량을 의도적으로 키움에 가깝다.
+**Dịch:** Công ty ưu tiên tăng cường sự hài lòng của khách hàng hơn doanh thu ngắn hạn.
 
-**영어 참고:** *increase*, *enhancement*, *growth* — *increase*는 일반적 증가, *enhancement*는 기능·효과 개선, *growth*는 규모와 발전의 지속적 확대다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `증대`.
+
+**영어 참고:** *increase*, *enhancement*, *growth* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** cơ nghiệp gia đình, nghề nghiệp truyền đời.
 
-**뉘앙스와 사용법:** 단순히 가족이 하는 일보다 세대 간 책임과 전통, 자산의 연속성이 강조된다.
+**뉘앙스와 사용법:** Nó nhấn mạnh trách nhiệm giữa các thế hệ, truyền thống và sự liên tục của tài sản, hơn là chỉ đơn thuần là công việc của gia đình.
 
-**재사용 가능한 콜로케이션·청크:** `가업을 잇다`, `가업을 물려받다`, `가업 승계`, `가업을 지키다`.
+**재사용 가능한 콜로케이션·청크:** `가업을 잇다`, `가업을 물려받다`, `가업 승계`, `가업을 지키다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `가업을 잇다/승계하다`; 제조·상점·농업·전문직이 내용이 된다.
+**자주 쓰는 문형과 성분:** `가업을 잇다/승계하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 가족 경영·중소기업·지역 경제의 공식적이고 정감 있는 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그는 대학 졸업 후 부모님의 가업을 이어 지역 특산품을 현대적으로 바꾸었다.
 
-**어휘 연결:** `사업`은 영리 활동 일반, `가업`은 가족과 세대의 계승, `생업`은 생활비를 벌기 위한 직업이라는 생존의 의미가 강하다.
+**Dịch:** Anh ấy đã tiếp quản nghiệp của cha mẹ sau khi tốt nghiệp đại học và hiện đại hóa các sản phẩm đặc sản địa phương.
 
-**영어 참고:** *family business*, *family enterprise*, *hereditary trade* — *family business*가 가장 일반적이고, *family enterprise*는 조직 규모를, *hereditary trade*는 세습 직업을 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `가업`.
+
+**영어 참고:** *family business*, *family enterprise*, *hereditary trade* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** truyền lại qua thế hệ; truyền dai dẳng.
 
-**뉘앙스와 사용법:** 가업과 전통을 긍정적으로 이어 주는 뜻도 있지만, 가난·차별·나쁜 습관처럼 원치 않는 것이 반복되는 부정적 의미가 자주 나타난다.
+**뉘앙스와 사용법:** Mặc dù nó mang ý nghĩa tích cực về việc tiếp nối nghiệp và truyền thống, nhưng nó cũng thường xuất hiện với ý nghĩa tiêu cực, ám chỉ sự lặp lại của những điều không mong muốn như nghèo đói, phân biệt đối xử hoặc thói quen xấu.
 
-**재사용 가능한 콜로케이션·청크:** `가난을 대물림하다`, `기술을 대물림하다`, `문제를 대물림하다`, `세대 간 대물림`.
+**재사용 가능한 콜로케이션·청크:** `가난을 대물림하다`, `기술을 대물림하다`, `문제를 대물림하다`, `세대 간 대물림` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 대물림하다`; 재산·기술·습관·상처·문제가 목적어가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 대물림하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회문제·가족·경제 기사에서 자주 쓰며, 가치 판단이 context에 따라 달라진다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 교육 격차를 대물림하지 않으려면 지역별 지원을 오래 유지해야 한다.
 
-**어휘 연결:** `계승하다`는 가치와 업적을 긍정적으로 이어 감, `상속하다`는 재산의 법적 이전, `대물림하다`는 세대 반복과 그 결과의 무게까지 드러낸다.
+**Dịch:** Để tránh truyền lại sự chênh lệch về giáo dục, cần duy trì hỗ trợ theo khu vực trong một thời gian dài.
 
-**영어 참고:** *pass down*, *inherit*, *perpetuate* — *pass down*은 물려줌 일반, *inherit*은 재산·특성의 상속, *perpetuate*는 문제나 관행을 계속되게 함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `대물림하다`.
+
+**영어 참고:** *pass down*, *inherit*, *perpetuate* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** sử dụng phổ biến; thương mại, dùng trong kinh doanh.
 
-**뉘앙스와 사용법:** `상용화`, `상용 제품`, `상용 소프트웨어`처럼 기술·상품이 실제 시장에서 쓰인다는 뜻으로 자주 쓴다.
+**뉘앙스와 사용법:** Nó mang ý nghĩa về việc sản phẩm hoặc công nghệ được sử dụng thực tế trên thị trường, tương tự như `thương mại hóa`, `sản phẩm thương mại`, `phần mềm thương mại`.
 
-**재사용 가능한 콜로케이션·청크:** `상용 제품`, `상용 소프트웨어`, `상용화하다`, `상용 목적`.
+**재사용 가능한 콜로케이션·청크:** `상용 제품`, `상용 소프트웨어`, `상용화하다`, `상용 목적` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `상용 + 명사`; `상용화되다`; 기술·서비스·제품·언어와 결합한다.
+**자주 쓰는 문형과 성분:** `상용 + 명사`, `상용화되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** IT·제조·비즈니스·법률의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 연구 단계의 기술을 상용 제품으로 만들려면 안전 기준과 가격을 함께 검토해야 한다.
 
-**어휘 연결:** `일반적`은 널리 퍼진 상태, `상용`은 실제 상업적 사용과 판매, `실용적`은 현실에서 유용하게 쓰일 수 있음을 강조한다.
+**Dịch:** Để biến công nghệ ở giai đoạn nghiên cứu thành sản phẩm thương mại, cần xem xét đồng thời các tiêu chuẩn an toàn và giá cả.
 
-**영어 참고:** *commercial*, *in common use*, *production-ready* — *commercial*은 상업 목적, *in common use*는 널리 사용됨, *production-ready*는 실제 운영 가능한 기술 상태다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `상용`.
+
+**영어 참고:** *commercial*, *in common use*, *production-ready* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -363,27 +391,33 @@
 
 **베트남어 뜻:** tự xưng là, tự nhận là.
 
-**뉘앙스와 사용법:** 객관적인 공식 명칭이라기보다 자기 주장을 강조하며, 때로는 그 주장이 과장되었다는 비꼼이 담긴다.
+**뉘앙스와 사용법:** Nó không phải là một tên gọi chính thức khách quan mà thường nhấn mạnh quan điểm cá nhân, đôi khi chứa đựng sự mỉa mai vì quan điểm đó bị cho là phóng đại.
 
-**재사용 가능한 콜로케이션·청크:** `전문가를 자칭하다`, `자칭 혁신가`, `자칭 대표`, `스스로 자칭하다`.
+**재사용 가능한 콜로케이션·청크:** `전문가를 자칭하다`, `자칭 혁신가`, `자칭 대표`, `스스로 자칭하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 자칭하다`; 전문가·대표·개혁가·피해자가 보어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 자칭하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기사·비평·논쟁에서 비판적으로 자주 쓰인다. 중립적인 자기소개에는 `자신을 ~라고 소개하다`가 적절하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그는 자칭 전문가였지만 기본 자료를 확인하는 습관부터 다시 배워야 했다.
 
-**어휘 연결:** `자처하다`는 힘든 역할이나 책임을 스스로 맡음, `자칭하다`는 이름·자격을 스스로 붙임, `주장하다`는 사실이나 의견을 내세우는 넓은 말이다.
+**Dịch:** Anh ta tự xưng là chuyên gia, nhưng cần phải học lại từ những thói quen cơ bản.
 
-**영어 참고:** *call oneself*, *self-proclaimed*, *claim to be* — *self-proclaimed*는 자격이 검증되지 않았다는 비판, *call oneself*는 중립적 자기 명명, *claim to be*는 사실성에 의문을 남긴다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `자칭하다`.
+
+**영어 참고:** *call oneself*, *self-proclaimed*, *claim to be* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ## 읽기 지문 — 가업을 다음 단계로 넘기다
 
 ---
 
-<!-- passage_word_count: 65 Korean eojeol; target_set: 청약, 예치, 제안, 과업, 확보하다, 분배, 상시, 추후, 표준, 예비, 증대, 가업, 대물림하다, 상용, 자칭하다 -->
+<!-- passage_word_count: 107 Korean eojeol; target_set: 청약, 예치, 제안, 과업, 확보하다, 분배, 상시, 추후, 표준, 예비, 증대, 가업, 대물림하다, 상용, 자칭하다 -->
 
 오래된 가업을 이어받은 수진은 새 제품을 상용화하기 전에 청약과 예치 조건을 다시 검토했다. 팀은 협력사의 제안을 바탕으로 과업을 나누고 필요한 예산과 인력을 확보했다. 이익 분배 기준은 모두가 이해할 수 있게 공개했으며, 상시 점검과 예비 자재도 마련했다. 품질 표준을 지키면 매출 증대가 가능하다는 분석은 추후 계획에 반영되었다. 부모의 기술을 대물림하는 일은 과거를 그대로 반복하는 것이 아니라, 자칭 혁신가가 되기보다 실제 고객에게 필요한 변화를 이어 가는 일이었다.
+
+
+
+작은 사업의 계획과 다음 세대에 관한 논의에서는 청약 및 예치 사이의 관계를 단순한 수치가 아니라 누가 비용과 위험을 부담하는지까지 함께 살펴야 한다. 현장에서는 제안, 과업, 확보하다 및 관련 자료를 통해 이용자와 공동체의 경험 변화를 확인해야 한다.
 
 ### 베트남어 번역
 

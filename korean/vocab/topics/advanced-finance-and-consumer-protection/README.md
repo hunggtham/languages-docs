@@ -8,3 +8,5 @@
 
 - [부채의 질과 금융 소비자 보호](./01-debt-quality-and-financial-protection.md)
 - [가계부채와 핀테크 포용](./02-household-debt-and-fintech-inclusion.md)
+- [디지털 금융과 토큰화된 화폐](./03-digital-finance-and-tokenized-money.md)
+- [금융 문해력과 소비자 구제](./04-financial-literacy-and-consumer-remedies.md) — `금융문해력`, `소비자 금융`, `금융착취`, `신용회복`, `채무불이행`, `금융포용`, `금융배제`, `소비자 권리`, `적정성 원칙`, `금융분쟁조정`, `피해구제`, `취약차주`, `상환유예`, `금융비용`, `소비자 선택권`

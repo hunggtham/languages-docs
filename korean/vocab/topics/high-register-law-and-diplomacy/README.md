@@ -8,3 +8,6 @@
 
 - [주권과 협상의 외교 언어](./01-sovereignty-and-diplomatic-negotiation.md)
 - [전쟁 책임과 분쟁 완화의 외교 언어](./02-humanitarian-law-and-conflict-diplomacy.md)
+- [경제안보와 사이버 외교](./03-economic-security-and-cyber-diplomacy.md)
+- [제재와 분쟁 예방의 외교 실무](./04-sanctions-dispute-prevention-and-diplomatic-remedies.md) — `국가면제`, `상호주의`, `강행규범`, `조약유보`, `외교적 보호`, `국제형사책임`, `보복조치`, `역외 적용`, `세컨더리 보이콧`, `제재 이행`, `분쟁예방`, `신뢰구축조치`, `외교적 항의`, `잠정조치`, `국제법상 의무`
+- [다자안보와 국제적 정당성](./05-multilateral-security-and-international-legitimacy.md) — `규범 기반 질서`, `국제기구 개혁`, `안보 딜레마`, `확장억제`, `군비통제`, `비확산`, `인도적 개입`, `보호책임`, `평화유지활동`, `분쟁조정`, `중재재판`, `국제공조`, `제도적 공백`, `국제적 정당성`, `외교적 고립`

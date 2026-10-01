@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** quá trình chuyển tiếp trên thị trường lao động.
 
-**뉘앙스와 사용법:** 단순 취업률보다 산업 변화 속에서 직업·고용 형태·소득이 어떻게 이동하는지 분석한다.
+**뉘앙스와 사용법:** Phân tích cách thức việc làm, loại việc làm và thu nhập thay đổi trong bối cảnh ngành thay đổi thay vì chỉ đơn giản là tỷ lệ việc làm.
 
-**재사용 가능한 콜로케이션·청크:** `노동시장 이행 지원`, `원활한 노동시장 이행`, `이행 경로`.
+**재사용 가능한 콜로케이션·청크:** `노동시장 이행 지원`, `원활한 노동시장 이행`, `이행 경로`. — `Hỗ trợ chuyển đổi thị trường lao động`, `Chuyển đổi thị trường lao động suôn sẻ`, `Con đường chuyển đổi`.
 
-**자주 쓰는 문형과 성분:** `정책이 노동시장 이행을 돕다`; 재교육·전직·고용보험과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 노동시장 이행을 돕다`, `Chính sách giúp chuyển đổi thị trường lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 고용정책·산업전환·직업훈련의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách việc làm, chuyển đổi công nghiệp và đào tạo nghề.
 
 **예문:** 자동화로 일자리를 잃은 노동자의 노동시장 이행을 지원할 재교육이 필요하다.
 
-**어휘 연결:** `취업`은 결과이고, `노동시장 이행`은 실업·훈련·전직을 잇는 과정 전체다.
+**Dịch:** Cần đào tạo lại để hỗ trợ quá trình chuyển đổi thị trường lao động cho những người lao động bị mất việc do tự động hóa.
 
-**영어 참고:** *labor-market transition* — 노동자가 직업·고용 상태 사이를 이동하는 과정이다.
+**어휘 연결:** `취업`은 결과이고, `노동시장 이행`은 실업·훈련·전직을 잇는 과정 전체다. — 'Việc làm' là kết quả và 'chuyển đổi thị trường lao động' là toàn bộ quá trình kết nối thất nghiệp, đào tạo và thay đổi việc làm.
+
+**영어 참고:** *labor-market transition* — Đây là quá trình người lao động di chuyển giữa các nghề nghiệp và tình trạng việc làm.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** chế độ lương theo công việc.
 
-**뉘앙스와 사용법:** 연공서열 임금의 대안으로 제시되지만 직무 평가의 객관성과 노동자 간 격차가 쟁점이다.
+**뉘앙스와 사용법:** Nó được trình bày như một giải pháp thay thế cho tiền lương dựa trên thâm niên, nhưng tính khách quan của việc đánh giá công việc và khoảng cách giữa những người lao động là vấn đề.
 
-**재사용 가능한 콜로케이션·청크:** `직무급제 도입`, `직무급제 전환`, `직무 평가 기준`.
+**재사용 가능한 콜로케이션·청크:** `직무급제 도입`, `직무급제 전환`, `직무 평가 기준`. — ‘Giới thiệu hệ thống trả lương theo công việc’, ‘Chuyển đổi sang hệ thống trả lương theo công việc’, ‘Tiêu chuẩn đánh giá công việc’.
 
-**자주 쓰는 문형과 성분:** `공공기관이 직무급제를 도입하다`; 임금체계·평가·공정성과 결합한다.
+**자주 쓰는 문형과 성분:** `공공기관이 직무급제를 도입하다`, `Tổ chức công giới thiệu hệ thống trả lương dựa trên công việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동개혁·공공기관·인사정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ cải cách lao động, thể chế công và chính sách nhân sự.
 
 **예문:** 직무급제가 공정하려면 직무 가치와 평가 절차를 노동자에게 투명하게 공개해야 한다.
 
-**어휘 연결:** `연공급제`는 근속 기간을 중시하고, `직무급제`는 맡은 일의 가치와 책임을 기준으로 삼는다.
+**Dịch:** Để lương công việc được công bằng, giá trị công việc và quy trình đánh giá phải được tiết lộ minh bạch cho người lao động.
 
-**영어 참고:** *job-based pay system* — 직무의 가치와 책임에 따라 임금을 정하는 제도다.
+**어휘 연결:** `연공급제`는 근속 기간을 중시하고, `직무급제`는 맡은 일의 가치와 책임을 기준으로 삼는다. — 'Hệ thống trả lương theo thâm niên' nhấn mạnh vào thời gian làm việc và 'hệ thống trả lương theo công việc' dựa trên giá trị và trách nhiệm của công việc.
+
+**영어 참고:** *job-based pay system* — Đây là hệ thống xác định mức lương dựa trên giá trị và trách nhiệm của công việc.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** chế độ giảm lương theo tuổi.
 
-**뉘앙스와 사용법:** 고용 유지와 인건비 절감을 교환하는 방식이지만, 합리적 이유 없는 임금 삭감과 차별 문제가 제기될 수 있다.
+**뉘앙스와 사용법:** Đó là một phương pháp trao đổi việc duy trì việc làm và giảm chi phí lao động, nhưng có thể nảy sinh vấn đề cắt giảm lương và phân biệt đối xử mà không có lý do chính đáng.
 
-**재사용 가능한 콜로케이션·청크:** `임금피크제 도입`, `임금피크제 적법성`, `임금피크제 적용`.
+**재사용 가능한 콜로케이션·청크:** `임금피크제 도입`, `임금피크제 적법성`, `임금피크제 적용`. — `Giới thiệu hệ thống lương đỉnh`, `Tính hợp pháp của hệ thống lương đỉnh`, `Áp dụng hệ thống lương đỉnh`.
 
-**자주 쓰는 문형과 성분:** `노조가 임금피크제에 이의를 제기하다`; 정년·고령자·차별과 결합한다.
+**자주 쓰는 문형과 성분:** `노조가 임금피크제에 이의를 제기하다`, `Công đoàn phản đối hệ thống lương cao nhất` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·인사·정년 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về luật lao động, quản lý nhân sự và chính sách hưu trí.
 
 **예문:** 임금피크제가 정년 연장과 실질적으로 연계됐는지 법원이 따졌다.
 
-**어휘 연결:** `임금 삭감`은 결과이고, `임금피크제`는 고용 기간과 임금 곡선을 함께 설계한 제도다.
+**Dịch:** Tòa án đặt câu hỏi liệu hệ thống lương cao nhất có thực sự liên quan đến việc kéo dài tuổi nghỉ hưu hay không.
 
-**영어 참고:** *wage peak system* — 일정 연령 이후 임금을 줄이는 대신 고용을 유지하는 제도다.
+**어휘 연결:** `임금 삭감`은 결과이고, `임금피크제`는 고용 기간과 임금 곡선을 함께 설계한 제도다. — 'Cắt giảm lương' là kết quả và 'hệ thống lương cao nhất' là một hệ thống thiết kế thời gian làm việc và đường cong tiền lương cùng nhau.
+
+**영어 참고:** *wage peak system* — Đây là hệ thống duy trì việc làm thay vì giảm lương sau một độ tuổi nhất định.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** chế độ lương năm theo thành tích.
 
-**뉘앙스와 사용법:** 동기 부여를 목표로 하지만 평가 지표의 조작 가능성, 협업 약화, 소득 불안정이 논쟁이 된다.
+**뉘앙스와 사용법:** Nhằm mục đích thúc đẩy nhưng gây tranh cãi do có thể thao túng các chỉ số đánh giá, làm suy yếu sự hợp tác và thu nhập không ổn định.
 
-**재사용 가능한 콜로케이션·청크:** `성과연봉제 도입`, `성과연봉제 평가`, `성과급 비중`.
+**재사용 가능한 콜로케이션·청크:** `성과연봉제 도입`, `성과연봉제 평가`, `성과급 비중`. — ‘Giới thiệu hệ thống lương dựa trên hiệu suất’, ‘Đánh giá hệ thống lương dựa trên hiệu suất’, ‘Tỷ lệ lương liên quan đến hiệu suất’.
 
-**자주 쓰는 문형과 성분:** `기업이 성과연봉제를 확대하다`; 평가·보너스·직무와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 성과연봉제를 확대하다`, `Công ty mở rộng hệ thống lương dựa trên hiệu suất` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기업 인사·노동관계·공공기관 개혁의 전문어다.
+**사회적 관계·주제별 register:** Đây là biệt ngữ dùng để cải cách nhân sự doanh nghiệp, quan hệ lao động và các tổ chức công.
 
 **예문:** 성과연봉제는 평가 기준이 불명확하면 조직 내 불신을 키울 수 있다.
 
-**어휘 연결:** `성과급`은 변동 보상이고, `성과연봉제`는 연봉 구조 전체를 성과 중심으로 설계한 제도다.
+**Dịch:** Hệ thống lương dựa trên hiệu suất có thể làm tăng sự mất lòng tin trong tổ chức nếu tiêu chí đánh giá không rõ ràng.
 
-**영어 참고:** *performance-based annual salary system* — 평가 성과에 따라 연봉을 차등화하는 제도다.
+**어휘 연결:** `성과급`은 변동 보상이고, `성과연봉제`는 연봉 구조 전체를 성과 중심으로 설계한 제도다. — 'Trả lương theo hiệu suất' là mức thù lao thay đổi và 'hệ thống lương theo hiệu suất' là một hệ thống trong đó toàn bộ cơ cấu lương được thiết kế xoay quanh hiệu suất.
+
+**영어 참고:** *performance-based annual salary system* — Đây là hệ thống phân biệt mức lương hàng năm dựa trên kết quả đánh giá.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** hỗ trợ chuyển nghề.
 
-**뉘앙스와 사용법:** 단순한 실업급여보다 이력 분석, 직업교육, 취업 연결을 통해 노동시장 이행을 돕는 적극적 정책이다.
+**뉘앙스와 사용법:** Đây là chính sách tích cực giúp chuyển đổi sang thị trường lao động thông qua phân tích lịch sử, giáo dục nghề nghiệp và kết nối việc làm thay vì trợ cấp thất nghiệp đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `전직지원 프로그램`, `전직지원 서비스`, `전직지원 컨설팅`.
+**재사용 가능한 콜로케이션·청크:** `전직지원 프로그램`, `전직지원 서비스`, `전직지원 컨설팅`. — ‘Chương trình hỗ trợ chuyển việc’, ‘Dịch vụ hỗ trợ chuyển việc’, ‘Tư vấn hỗ trợ chuyển việc’.
 
-**자주 쓰는 문형과 성분:** `기업이 퇴직자에게 전직지원을 제공하다`; 구조조정·재교육·상담과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 퇴직자에게 전직지원을 제공하다`, `Các công ty cung cấp hỗ trợ chuyển tiếp cho người về hưu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 고용서비스·구조조정·직업훈련의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho dịch vụ việc làm, tái cơ cấu và đào tạo nghề.
 
 **예문:** 산업전환 지역에는 개인별 경력을 반영한 전직지원이 필요하다.
 
-**어휘 연결:** `재취업`은 새 일자리를 얻는 결과이고, `전직지원`은 그 결과를 돕는 서비스와 과정이다.
+**Dịch:** Các lĩnh vực chuyển đổi công nghiệp yêu cầu hỗ trợ thay đổi công việc phản ánh kinh nghiệm cá nhân.
 
-**영어 참고:** *outplacement support* — 퇴직자의 새 일자리 이동을 돕는 지원 서비스다.
+**어휘 연결:** `재취업`은 새 일자리를 얻는 결과이고, `전직지원`은 그 결과를 돕는 서비스와 과정이다. — 'Tái tuyển dụng' là kết quả của việc nhận được công việc mới và 'hỗ trợ thay đổi công việc' là dịch vụ và quy trình giúp đạt được kết quả đó.
+
+**영어 참고:** *outplacement support* — Đây là dịch vụ hỗ trợ giúp người về hưu chuyển sang công việc mới.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** trợ cấp duy trì việc làm.
 
-**뉘앙스와 사용법:** 일시적 위기에서 해고를 늦추는 장치지만, 지원이 생존 가능성이 낮은 기업을 연명시키는지 점검해야 한다.
+**뉘앙스와 사용법:** Đây là một công cụ để trì hoãn việc sa thải nhân viên trong một cuộc khủng hoảng tạm thời, nhưng nó phải được kiểm tra xem liệu sự hỗ trợ này có giúp duy trì các công ty có cơ hội sống sót thấp hay không.
 
-**재사용 가능한 콜로케이션·청크:** `고용유지지원금 신청`, `고용유지지원금 지급`, `지원금 요건`.
+**재사용 가능한 콜로케이션·청크:** `고용유지지원금 신청`, `고용유지지원금 지급`, `지원금 요건`. — 'Đơn xin trợ cấp duy trì việc làm', 'Thanh toán trợ cấp duy trì việc làm', 'yêu cầu trợ cấp'.
 
-**자주 쓰는 문형과 성분:** `기업이 고용유지지원금을 받다`; 휴업·휴직·고용보험과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 고용유지지원금을 받다`, `Các công ty nhận trợ cấp duy trì việc làm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 고용보험·경제위기·노동정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về bảo hiểm việc làm, khủng hoảng kinh tế và chính sách lao động.
 
 **예문:** 수요가 급감한 기업은 고용유지지원금으로 노동자의 휴직 기간을 버틸 수 있었다.
 
-**어휘 연결:** `실업급여`는 일자리를 잃은 사람에게 지급되고, `고용유지지원금`은 기업이 고용을 유지하도록 지원한다.
+**Dịch:** Các công ty trải qua sự sụt giảm mạnh về nhu cầu vẫn có thể tồn tại trong thời gian nghỉ phép của công nhân thông qua trợ cấp duy trì việc làm.
 
-**영어 참고:** *employment retention subsidy* — 기업이 해고 대신 고용을 유지할 때 지급하는 보조금이다.
+**어휘 연결:** `실업급여`는 일자리를 잃은 사람에게 지급되고, `고용유지지원금`은 기업이 고용을 유지하도록 지원한다. — 'Trợ cấp thất nghiệp' được trả cho những người đã mất việc và 'Trợ cấp duy trì việc làm' giúp các công ty duy trì việc làm.
+
+**영어 참고:** *employment retention subsidy* — Đây là khoản trợ cấp được trả khi công ty duy trì việc làm thay vì sa thải.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** trợ cấp thất nghiệp xã hội.
 
-**뉘앙스와 사용법:** 보험료 납부 기록에 기반한 실업급여의 사각지대를 보완하는 조세 기반 안전망이다.
+**뉘앙스와 사용법:** Đây là mạng lưới an toàn dựa trên thuế bù đắp cho những điểm mù trong trợ cấp thất nghiệp dựa trên hồ sơ thanh toán phí bảo hiểm.
 
-**재사용 가능한 콜로케이션·청크:** `실업부조 도입`, `실업부조 수급`, `실업부조 사각지대`.
+**재사용 가능한 콜로케이션·청크:** `실업부조 도입`, `실업부조 수급`, `실업부조 사각지대`. — ‘Giới thiệu về hỗ trợ thất nghiệp’, ‘Cung và cầu hỗ trợ thất nghiệp’, ‘Điểm mù về hỗ trợ thất nghiệp’.
 
-**자주 쓰는 문형과 성분:** `정부가 실업부조를 확대하다`; 고용보험·구직·소득보장과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 실업부조를 확대하다`, `Chính phủ mở rộng hỗ trợ thất nghiệp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지국가·고용안전망·빈곤정책의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích để chỉ nhà nước phúc lợi, mạng lưới an toàn việc làm và chính sách nghèo đói.
 
 **예문:** 플랫폼 노동자와 초단시간 노동자를 위해 실업부조의 문턱을 낮춰야 한다.
 
-**어휘 연결:** `실업급여`는 보험 자격과 납부 이력에 기반하고, `실업부조`는 보험 밖의 구직자도 지원한다.
+**Dịch:** Ngưỡng hỗ trợ thất nghiệp phải được hạ xuống đối với người lao động nền tảng và người lao động trong thời gian cực ngắn.
 
-**영어 참고:** *unemployment assistance* — 보험 자격이 없는 구직자에게 제공하는 공공 소득 지원이다.
+**어휘 연결:** `실업급여`는 보험 자격과 납부 이력에 기반하고, `실업부조`는 보험 밖의 구직자도 지원한다. — 'Trợ cấp thất nghiệp' dựa trên tính đủ điều kiện bảo hiểm và lịch sử thanh toán, đồng thời 'hỗ trợ thất nghiệp' cũng hỗ trợ những người tìm việc ngoài bảo hiểm.
+
+**영어 참고:** *unemployment assistance* — Hỗ trợ thu nhập công được cung cấp cho những người tìm việc không đủ điều kiện nhận bảo hiểm.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** chế độ miễn thời gian làm việc cho hoạt động công đoàn.
 
-**뉘앙스와 사용법:** 노조 활동의 자율성과 사용자의 부당 지원 사이의 경계를 정하며, 사업장 규모와 조합원 수가 기준이 된다.
+**뉘앙스와 사용법:** Ranh giới giữa quyền tự chủ trong hoạt động công đoàn và sự hỗ trợ không công bằng của người sử dụng lao động được đặt ra, với quy mô của nơi làm việc và số lượng đoàn viên công đoàn là tiêu chí.
 
-**재사용 가능한 콜로케이션·청크:** `근로시간면제제도 한도`, `타임오프 제도`, `면제 시간 배분`.
+**재사용 가능한 콜로케이션·청크:** `근로시간면제제도 한도`, `타임오프 제도`, `면제 시간 배분`. — `Giới hạn hệ thống miễn trừ giờ làm việc`, `Hệ thống nghỉ phép`, `Phân bổ thời gian miễn`.
 
-**자주 쓰는 문형과 성분:** `노사가 근로시간면제제도를 협의하다`; 노조·단체교섭·전임자와 결합한다.
+**자주 쓰는 문형과 성분:** `노사가 근로시간면제제도를 협의하다`, `Lao động và quản lý thảo luận về hệ thống miễn giờ làm việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·노사관계·행정 감독의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật lao động, quan hệ quản lý lao động và giám sát hành chính.
 
 **예문:** 근로시간면제제도의 한도를 둘러싸고 노조와 회사가 협상했다.
 
-**어휘 연결:** `노조 전임자`는 사람의 지위이고, `근로시간면제제도`는 그 활동 시간을 인정하는 법적 장치다.
+**Dịch:** Công đoàn và công ty đã đàm phán về giới hạn của hệ thống miễn thời gian làm việc.
 
-**영어 참고:** *union time-off scheme* — 노동조합 업무를 위한 유급 활동 시간을 인정하는 제도다.
+**어휘 연결:** `노조 전임자`는 사람의 지위이고, `근로시간면제제도`는 그 활동 시간을 인정하는 법적 장치다. — 'Viên chức công đoàn toàn thời gian' là địa vị của một cá nhân và 'hệ thống miễn trừ giờ làm việc' là một công cụ pháp lý công nhận số giờ hoạt động.
+
+**영어 참고:** *union time-off scheme* — Đây là hệ thống ghi nhận thời gian hoạt động được trả lương cho công việc của công đoàn.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** thương lượng tập thể theo ngành.
 
-**뉘앙스와 사용법:** 같은 산업의 격차를 줄이고 공통 기준을 만들 수 있지만, 업종 내 기업 규모와 조건 차이를 조정해야 한다.
+**뉘앙스와 사용법:** Có thể thu hẹp khoảng cách trong cùng ngành và tạo ra các tiêu chuẩn chung, nhưng phải điều chỉnh sự khác biệt về quy mô công ty và điều kiện trong ngành.
 
-**재사용 가능한 콜로케이션·청크:** `산별교섭 체계`, `산별교섭 요구`, `산별교섭 사용자단체`.
+**재사용 가능한 콜로케이션·청크:** `산별교섭 체계`, `산별교섭 요구`, `산별교섭 사용자단체`. — `Hệ thống thương lượng công nghiệp`, `Yêu cầu thương lượng cấp ngành`, `Nhóm người sử dụng lao động thương lượng cấp ngành`.
 
-**자주 쓰는 문형과 성분:** `노조가 산별교섭을 추진하다`; 단체협약·산업·임금과 결합한다.
+**자주 쓰는 문형과 성분:** `노조가 산별교섭을 추진하다`, `Liên minh thúc đẩy đàm phán cấp ngành` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동조합·노사관계·임금정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao cho công đoàn lao động, quan hệ quản lý lao động và chính sách tiền lương.
 
 **예문:** 산별교섭은 하청 노동자까지 포괄하는 공통 노동기준을 만들 수 있다.
 
-**어휘 연결:** `기업별 교섭`은 한 회사의 노사만 협상하고, `산별교섭`은 산업 전체의 기준과 연대를 다룬다.
+**Dịch:** Các cuộc đàm phán cấp ngành có thể tạo ra các tiêu chuẩn lao động chung bao gồm những người lao động được ký hợp đồng phụ.
 
-**영어 참고:** *sectoral bargaining* — 산업 단위의 노동조합과 사용자단체가 교섭하는 방식이다.
+**어휘 연결:** `기업별 교섭`은 한 회사의 노사만 협상하고, `산별교섭`은 산업 전체의 기준과 연대를 다룬다. — 'Đàm phán cấp công ty' chỉ đàm phán giữa người lao động và ban quản lý của một công ty, trong khi 'thương lượng cấp ngành' đề cập đến các tiêu chuẩn và sự đoàn kết của toàn ngành.
+
+**영어 참고:** *sectoral bargaining* — Đây là phương pháp đàm phán giữa công đoàn lao động và tổ chức của người sử dụng lao động ở cấp độ ngành.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** nợ/lạm dụng tiền lương chưa trả.
 
-**뉘앙스와 사용법:** 회사의 일시적 지연부터 고의적인 상습 미지급까지 포함하며, 노동자의 생계와 권리 구제 문제로 다뤄진다.
+**뉘앙스와 사용법:** Nó bao gồm mọi thứ từ sự chậm trễ tạm thời của công ty đến việc cố ý không thanh toán và được xử lý như một vấn đề về sinh kế và cứu trợ quyền lợi của người lao động.
 
-**재사용 가능한 콜로케이션·청크:** `임금체불 신고`, `임금체불 사업주`, `체불임금 청산`.
+**재사용 가능한 콜로케이션·청크:** `임금체불 신고`, `임금체불 사업주`, `체불임금 청산`. — `Báo cáo về tiền lương chưa được trả`, `Người sử dụng lao động về tiền lương chưa được trả`, `Giải quyết tiền lương chưa được trả`.
 
-**자주 쓰는 문형과 성분:** `노동자가 임금체불을 신고하다`; 퇴직금·근로감독·체당금과 결합한다.
+**자주 쓰는 문형과 성분:** `노동자가 임금체불을 신고하다`, `Người lao động báo cáo việc không thanh toán tiền lương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·근로감독·취약노동 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức để báo cáo về luật lao động, thanh tra lao động và lao động dễ bị tổn thương.
 
 **예문:** 폐업한 사업장의 임금체불을 국가가 우선 변제할 수 있는지 논의가 이어졌다.
 
-**어휘 연결:** `급여 지연`은 중립적 표현이고, `임금체불`은 법적 의무 위반과 노동자의 권리 침해를 강조한다.
+**Dịch:** Tiếp tục thảo luận về việc liệu chính phủ có thể hoàn trả tiền lương chưa thanh toán trước cho các doanh nghiệp đã đóng cửa hay không.
 
-**영어 참고:** *wage arrears*, *unpaid wages* — 지급일이 지나도 받지 못한 임금이다.
+**어휘 연결:** `급여 지연`은 중립적 표현이고, `임금체불`은 법적 의무 위반과 노동자의 권리 침해를 강조한다. — 'Chậm trả lương' là một biểu hiện trung lập và 'không trả lương' nhấn mạnh việc vi phạm nghĩa vụ pháp lý và vi phạm quyền của người lao động.
+
+**영어 참고:** *wage arrears*, *unpaid wages* — Tiền lương chưa được nhận ngay cả khi đã qua ngày thanh toán.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** chuyển đổi công nghiệp.
 
-**뉘앙스와 사용법:** 공장 설비만 바꾸는 것이 아니라 노동자 재교육, 협력업체, 지역의 일자리와 복지를 함께 설계한다.
+**뉘앙스와 사용법:** Chúng tôi không chỉ thay đổi cơ sở vật chất của nhà máy mà còn thiết kế việc làm và phúc lợi cho người lao động, công ty đối tác và khu vực.
 
-**재사용 가능한 콜로케이션·청크:** `산업전환 지원`, `산업전환 과정`, `산업전환 지역`.
+**재사용 가능한 콜로케이션·청크:** `산업전환 지원`, `산업전환 과정`, `산업전환 지역`. — 'Hỗ trợ chuyển đổi công nghiệp', 'Quy trình chuyển đổi công nghiệp', 'Khu vực chuyển đổi công nghiệp'.
 
-**자주 쓰는 문형과 성분:** `정부가 산업전환을 촉진하다`; 탈탄소화·자동화·고용과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 산업전환을 촉진하다`, `Chính phủ thúc đẩy chuyển đổi công nghiệp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업정책·노동·기후정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách công nghiệp, lao động và chính sách khí hậu.
 
 **예문:** 산업전환이 노동자의 해고로만 끝나지 않도록 지역별 전환 계획이 필요하다.
 
-**어휘 연결:** `산업구조조정`은 축소·재편에 초점을 두고, `산업전환`은 기술·환경 변화에 대응하는 장기적 이동을 강조한다.
+**Dịch:** Cần có kế hoạch chuyển đổi khu vực để đảm bảo rằng chuyển đổi công nghiệp không kết thúc bằng việc sa thải người lao động.
 
-**영어 참고:** *industrial transition* — 산업의 기술·생산·고용 구조가 장기적으로 재편되는 과정이다.
+**어휘 연결:** `산업구조조정`은 축소·재편에 초점을 두고, `산업전환`은 기술·환경 변화에 대응하는 장기적 이동을 강조한다. — 'Tái cơ cấu công nghiệp' tập trung vào việc thu hẹp quy mô và tổ chức lại, trong khi 'chuyển đổi công nghiệp' nhấn mạnh đến sự chuyển dịch dài hạn nhằm ứng phó với những thay đổi về công nghệ và môi trường.
+
+**영어 참고:** *industrial transition* — Đây là quá trình tổ chức lại lâu dài cơ cấu công nghệ, sản xuất và việc làm của ngành.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** chia sẻ việc làm.
 
-**뉘앙스와 사용법:** 근로시간 단축과 신규 채용을 결합할 수 있지만 임금 감소와 업무 강도 문제를 함께 협의해야 한다.
+**뉘앙스와 사용법:** Có thể kết hợp việc giảm giờ làm việc và tuyển dụng mới, nhưng các vấn đề về giảm lương và cường độ làm việc phải được thảo luận cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `일자리 나누기 정책`, `일자리 나누기 협약`, `근로시간 단축과 일자리 나누기`.
+**재사용 가능한 콜로케이션·청크:** `일자리 나누기 정책`, `일자리 나누기 협약`, `근로시간 단축과 일자리 나누기`. — `Chính sách chia sẻ công việc`, `Thỏa thuận chia sẻ công việc`, `Giảm giờ làm việc và chia sẻ công việc`.
 
-**자주 쓰는 문형과 성분:** `노사가 일자리 나누기에 합의하다`; 고용유지·임금·근로시간과 결합한다.
+**자주 쓰는 문형과 성분:** `노사가 일자리 나누기에 합의하다`, `Lao động và quản lý đồng ý chia sẻ công việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 고용위기·노사협상·노동정책의 정책어다.
+**사회적 관계·주제별 register:** Từ chính sách cho khủng hoảng việc làm, đàm phán quản lý lao động và chính sách lao động.
 
 **예문:** 주문이 급감한 기업은 일자리 나누기로 해고를 피하는 방안을 검토했다.
 
-**어휘 연결:** `시간제 일자리`는 고용 형태이고, `일자리 나누기`는 고용을 유지하기 위해 노동시간과 업무를 재분배하는 전략이다.
+**Dịch:** Các công ty nhận thấy đơn đặt hàng giảm mạnh đã cân nhắc các cách để tránh bị sa thải thông qua chia sẻ công việc.
 
-**영어 참고:** *work-sharing* — 노동시간을 나눠 해고를 줄이고 고용을 유지하는 방식이다.
+**어휘 연결:** `시간제 일자리`는 고용 형태이고, `일자리 나누기`는 고용을 유지하기 위해 노동시간과 업무를 재분배하는 전략이다. — 'Việc làm bán thời gian' là một hình thức việc làm và 'chia sẻ công việc' là một chiến lược phân bổ lại giờ làm việc và nhiệm vụ để duy trì việc làm.
+
+**영어 참고:** *work-sharing* — Đây là phương pháp giảm tình trạng sa thải và duy trì việc làm bằng cách chia giờ làm việc.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** chế độ tài khoản thời gian lao động.
 
-**뉘앙스와 사용법:** 유연성을 높일 수 있지만 초과근로 기록, 건강 보호, 노동자 동의와 사용 시기를 명확히 해야 한다.
+**뉘앙스와 사용법:** Tính linh hoạt có thể được tăng lên, nhưng hồ sơ làm thêm giờ, bảo vệ sức khỏe, sự đồng ý của người lao động và thời điểm sử dụng phải rõ ràng.
 
-**재사용 가능한 콜로케이션·청크:** `노동시간 계좌제 도입`, `근로시간 계좌`, `시간 적립`.
+**재사용 가능한 콜로케이션·청크:** `노동시간 계좌제 도입`, `근로시간 계좌`, `시간 적립`. — ‘Giới thiệu hệ thống tài khoản thời gian làm việc’, ‘tài khoản thời gian làm việc’, ‘tích lũy thời gian’.
 
-**자주 쓰는 문형과 성분:** `기업이 노동시간 계좌제를 운영하다`; 유연근무·휴가·초과근로와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 노동시간 계좌제를 운영하다`, `Công ty vận hành hệ thống tài khoản theo giờ làm việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동시간·유연근무·노사협상의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ giờ làm việc, giờ làm việc linh hoạt và đàm phán quản lý lao động.
 
 **예문:** 노동시간 계좌제가 실효성을 가지려면 적립 시간의 소멸과 보상 규칙이 명확해야 한다.
 
-**어휘 연결:** `탄력근로제`는 일정 기간 평균 근로시간을 조정하고, `노동시간 계좌제`는 시간을 적립·인출하는 방식에 초점을 둔다.
+**Dịch:** Để hệ thống tài khoản thời gian làm việc có hiệu quả, các quy tắc về việc hết hạn và đền bù thời gian tích lũy phải rõ ràng.
 
-**영어 참고:** *working-time account* — 초과·부족 근로시간을 적립해 나중에 조정하는 제도다.
+**어휘 연결:** `탄력근로제`는 일정 기간 평균 근로시간을 조정하고, `노동시간 계좌제`는 시간을 적립·인출하는 방식에 초점을 둔다. — ‘Hệ thống giờ làm việc linh hoạt’ điều chỉnh số giờ làm việc trung bình trong một khoảng thời gian nhất định và ‘hệ thống tài khoản giờ làm việc’ tập trung vào phương pháp tích lũy và rút thời gian.
+
+**영어 참고:** *working-time account* — Đây là hệ thống tích lũy số giờ làm việc dư thừa và chưa làm việc và điều chỉnh chúng sau này.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** “luật phong bì vàng”, cách gọi luật bảo vệ người đình công.
 
-**뉘앙스와 사용법:** 법률의 정식 명칭보다 시민 모금 운동과 입법 논쟁의 맥락에서 널리 쓰이는 현재 정치·노동 표현이다.
+**뉘앙스와 사용법:** Một biểu hiện chính trị và lao động hiện tại được sử dụng rộng rãi hơn trong bối cảnh các chiến dịch gây quỹ của công dân và các cuộc tranh luận về mặt lập pháp hơn là tên chính thức của luật.
 
-**재사용 가능한 콜로케이션·청크:** `노란봉투법 통과`, `노란봉투법 논쟁`, `노란봉투법 거부권`.
+**재사용 가능한 콜로케이션·청크:** `노란봉투법 통과`, `노란봉투법 논쟁`, `노란봉투법 거부권`. — 'Thông qua Luật Phong bì Vàng', 'Tranh luận về Luật Phong bì Vàng', 'Phủ quyết về Luật Phong bì Vàng'.
 
-**자주 쓰는 문형과 성분:** `노동계가 노란봉투법을 요구하다`; 손배소·하청·파업과 결합한다.
+**자주 쓰는 문형과 성분:** `노동계가 노란봉투법을 요구하다`, `Lao động yêu cầu luật phong bao vàng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국회·노조·시민사회·뉴스에서 현재적으로 쓰이는 정치적 명칭이다.
+**사회적 관계·주제별 register:** Đây là tên chính trị hiện được sử dụng trong Quốc hội, công đoàn, xã hội dân sự và tin tức.
 
 **예문:** 노란봉투법을 둘러싸고 노동권 보호와 기업의 재산권이 충돌한다는 논쟁이 벌어졌다.
 
-**어휘 연결:** `노동관계법 개정안`은 중립적 표현이고, `노란봉투법`은 손해배상 문제와 시민운동의 상징성을 담는다.
+**Dịch:** Một cuộc tranh luận đã nảy sinh về luật túi vàng về xung đột giữa bảo vệ quyền lao động và quyền sở hữu doanh nghiệp.
 
-**영어 참고:** *Yellow Envelope Act* — 파업 관련 손해배상 제한과 하청 노동자 교섭권 확대를 둘러싼 한국의 법안 논쟁이다.
+**어휘 연결:** `노동관계법 개정안`은 중립적 표현이고, `노란봉투법`은 손해배상 문제와 시민운동의 상징성을 담는다. — 'Bản sửa đổi Đạo luật Quan hệ Lao động' là một biểu hiện trung lập và 'Đạo luật Phong bì Vàng' chứa đựng tính biểu tượng của vấn đề bồi thường thiệt hại và các phong trào dân sự.
+
+**영어 참고:** *Yellow Envelope Act* — Đây là cuộc tranh luận về luật pháp Hàn Quốc xung quanh các hạn chế đối với thiệt hại liên quan đến đình công và mở rộng quyền thương lượng của công nhân nhà thầu phụ.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** cân bằng công việc–cuộc sống.
 
-**뉘앙스와 사용법:** Work-life balance에서 나온 현재의 구어·채용 표현으로, 야근·휴가·유연근무에 대한 체감 평가를 압축한다.
+**뉘앙스와 사용법:** Cụm từ thông tục/tuyển dụng hiện tại bắt nguồn từ sự cân bằng giữa công việc và cuộc sống, rút ​​gọn đánh giá nhận thức về thời gian làm thêm giờ, kỳ nghỉ và công việc linh hoạt.
 
-**재사용 가능한 콜로케이션·청크:** `워라밸이 좋다`, `워라밸을 중시하다`, `워라밸 직장`.
+**재사용 가능한 콜로케이션·청크:** `워라밸이 좋다`, `워라밸을 중시하다`, `워라밸 직장`. — `Cân bằng tốt giữa công việc và cuộc sống`, `Đánh giá sự cân bằng giữa công việc và cuộc sống`, `Nơi làm việc cân bằng giữa công việc và cuộc sống`.
 
-**자주 쓰는 문형과 성분:** `청년들이 워라밸을 선택 기준으로 삼다`; 야근·휴가·유연근무와 결합한다.
+**자주 쓰는 문형과 성분:** `청년들이 워라밸을 선택 기준으로 삼다`, `Giới trẻ lấy cân bằng giữa công việc và cuộc sống làm tiêu chí lựa chọn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 직장 대화·채용 공고·온라인 커뮤니티에서 현재 널리 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng rộng rãi trong các cuộc trò chuyện tại nơi làm việc, tin tuyển dụng và cộng đồng trực tuyến.
 
 **예문:** 높은 연봉보다 워라밸을 우선해 이직하는 직장인이 늘고 있다.
 
-**어휘 연결:** `일과 생활의 균형`은 공식 표현이고, `워라밸`은 직장 선택과 체감 문화를 친근하게 말한다.
+**Dịch:** Số lượng nhân viên văn phòng thay đổi công việc ưu tiên cân bằng giữa công việc và cuộc sống hơn mức lương cao đang gia tăng.
 
-**영어 참고:** *work-life balance* — 일과 개인 생활 사이의 균형이다.
+**어휘 연결:** `일과 생활의 균형`은 공식 표현이고, `워라밸`은 직장 선택과 체감 문화를 친근하게 말한다. — 'Cân bằng công việc-cuộc sống' là một cách diễn đạt chính thức và 'cân bằng công việc-cuộc sống' là một thuật ngữ thân thiện để lựa chọn nơi làm việc và văn hóa được cảm nhận.
+
+**영어 참고:** *work-life balance* — Cân bằng giữa công việc và cuộc sống cá nhân.
 
 <!-- passage_word_count: 106 Korean eojeol; target_set: 노동시장 이행, 직무급제, 임금피크제, 성과연봉제, 전직지원, 고용유지지원금, 실업부조, 근로시간면제제도, 산별교섭, 임금체불, 산업전환, 일자리 나누기, 노동시간 계좌제, 노란봉투법, 워라밸 -->
 
