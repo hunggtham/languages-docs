@@ -330,6 +330,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Discrete Choice And Limited Dependent Variables](./econometrics/13-discrete-choice-and-limited-dependent-variables.md)
 - [Nonparametric And Semiparametric Estimation](./econometrics/14-nonparametric-and-semiparametric-estimation.md)
 - [Threshold And Regime-Switching Models](./econometrics/15-threshold-and-regime-switching-models.md)
+- [Errors In Variables And Misclassification](./econometrics/16-errors-in-variables-and-misclassification.md)
 
 ## public-finance
 
