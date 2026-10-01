@@ -286,6 +286,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Strategy And Interdependence](./game-theory/01-strategy-and-interdependence.md)
 - [Information, Equilibria, And Mechanism Design](./game-theory/02-information-equilibria-and-mechanism-design.md)
+- [Bargaining, Matching, And Coalitions](./game-theory/03-bargaining-matching-and-coalitions.md)
 
 ## hydrology
 
