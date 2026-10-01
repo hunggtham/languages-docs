@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1910 items in 118 topic files; topic-folder numbering resets per folder.
+- C1: 1930 items in 119 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 11091 items (authoritative script count after merge).
+- Total: 11111 items (authoritative script count after merge).
 
 ## Current position
 
@@ -104,6 +104,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/18-simulation-based-validation-and-diagnostic-checks.md` with 20 simulation-based-validation and diagnostic-check items.
 - Latest continuation added `c1/psychometrics/19-score-linking-and-equating-methods.md` with 20 score-linking and equating-method items.
 - Latest continuation added `c1/psychometrics/20-norm-development-and-score-interpretation.md` with 20 norm-development and score-interpretation items.
+- Latest continuation added `c1/psychometrics/21-diagnostic-invariance-and-model-fit.md` with 20 diagnostic-invariance and model-fit items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.
