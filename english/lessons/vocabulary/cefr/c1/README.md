@@ -340,6 +340,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Dynamic Panels And System GMM](./econometrics/23-dynamic-panels-and-system-gmm.md)
 - [Forecast Evaluation And Predictive Distributions](./econometrics/24-forecast-evaluation-and-predictive-distributions.md)
 - [Risk Backtesting And Systemic Risk](./econometrics/25-risk-backtesting-and-systemic-risk.md)
+- [Asset Pricing And Portfolio Econometrics](./econometrics/26-asset-pricing-and-portfolio-econometrics.md)
 
 ## public-finance
 
