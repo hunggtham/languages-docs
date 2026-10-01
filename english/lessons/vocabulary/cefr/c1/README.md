@@ -335,6 +335,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Instrumental Variables And Weak Identification](./econometrics/18-instrumental-variables-and-weak-identification.md)
 - [GMM And Moment-Based Estimation](./econometrics/19-gmm-and-moment-based-estimation.md)
 - [Policy Learning And Causal Decision Rules](./econometrics/20-policy-learning-and-causal-decision-rules.md)
+- [Quantile And Distributional Effects](./econometrics/21-quantile-and-distributional-effects.md)
 
 ## public-finance
 
