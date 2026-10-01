@@ -345,6 +345,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Environmental And Energy Policy Econometrics](./econometrics/28-environmental-and-energy-policy-econometrics.md)
 - [Labor-Market Econometrics And Wage Dynamics](./econometrics/29-labor-market-econometrics-and-wage-dynamics.md)
 - [Firm Productivity And Industrial Dynamics](./econometrics/30-firm-productivity-and-industrial-dynamics.md)
+- [Taxation And Fiscal Behavior](./econometrics/31-taxation-and-fiscal-behavior.md)
 
 ## public-finance
 
