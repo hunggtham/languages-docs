@@ -100,6 +100,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Score Precision And Individual Interpretation](./psychometrics/24-score-precision-and-individual-interpretation.md)
 - [Score Use And Responsible Decisions](./psychometrics/25-score-use-and-responsible-decisions.md)
 - [Multilevel Measurement And Clustered Data](./psychometrics/26-multilevel-measurement-and-clustered-data.md)
+- [Causal Inference And Score Effects](./psychometrics/27-causal-inference-and-score-effects.md)
 
 ## media
 
