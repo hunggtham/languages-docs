@@ -295,6 +295,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Repeated Games And Relational Contracts](./game-theory/09-repeated-games-and-relational-contracts.md)
 - [Experimental Game Theory And Strategic Behavior](./game-theory/10-experimental-game-theory-and-strategic-behavior.md)
 - [Robust Mechanisms And Uncertain Information](./game-theory/11-robust-mechanisms-and-uncertain-information.md)
+- [Fair Division And Market Allocation](./game-theory/12-fair-division-and-market-allocation.md)
 
 ## hydrology
 
