@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 3570 items in 201 topic files; topic-folder numbering resets per folder.
+- C1: 3590 items in 202 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 12751 items (authoritative script count after the latest C1 checkpoint).
+- Total: 12771 items (authoritative script count after the latest C1 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C1`
 
-Next lesson: continue C1 media at local file `16-...`, econometrics at local file `43-...`, behavioral-economics at local file `06-...`, or game-theory at local file `13-...` when the next topic belongs naturally to those networks, or move to the next coherent C1/C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C1 media at local file `17-...`, econometrics at local file `43-...`, behavioral-economics at local file `06-...`, or game-theory at local file `13-...` when the next topic belongs naturally to those networks, or move to the next coherent C1/C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -66,6 +66,8 @@ At the beginning of every new run:
 At the end of every checkpoint update current level, last completed lesson, next lesson, actual counts by level, total count, intentional repeated senses, and blockers.
 
 ## Last checkpoint
+
+- Latest continuation added `c1/media/16-audience-participation-and-community-listening.md` with 20 audience-participation and community-listening items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c1/media/15-media-accessibility-and-inclusive-delivery.md` with 20 media-accessibility and inclusive-delivery items; the lesson uses one integrated review passage with Vietnamese translation.
 
