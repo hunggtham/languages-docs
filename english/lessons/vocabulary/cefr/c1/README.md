@@ -326,6 +326,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Heterogeneous And Mediated Treatment Effects](./econometrics/09-heterogeneous-and-mediated-treatment-effects.md)
 - [Sensitivity And Robustness Analysis](./econometrics/10-sensitivity-and-robustness-analysis.md)
 - [Survival And Time-To-Event Analysis](./econometrics/11-survival-and-time-to-event-analysis.md)
+- [Monte Carlo And Estimator Diagnostics](./econometrics/12-monte-carlo-and-estimator-diagnostics.md)
 
 ## public-finance
 
