@@ -343,6 +343,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Asset Pricing And Portfolio Econometrics](./econometrics/26-asset-pricing-and-portfolio-econometrics.md)
 - [State-Space And Mixed-Frequency Forecasting](./econometrics/27-state-space-and-mixed-frequency-forecasting.md)
 - [Environmental And Energy Policy Econometrics](./econometrics/28-environmental-and-energy-policy-econometrics.md)
+- [Labor-Market Econometrics And Wage Dynamics](./econometrics/29-labor-market-econometrics-and-wage-dynamics.md)
 
 ## public-finance
 
