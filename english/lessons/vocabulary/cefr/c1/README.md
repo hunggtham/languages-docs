@@ -347,6 +347,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Firm Productivity And Industrial Dynamics](./econometrics/30-firm-productivity-and-industrial-dynamics.md)
 - [Taxation And Fiscal Behavior](./econometrics/31-taxation-and-fiscal-behavior.md)
 - [Sovereign Debt And Fiscal Sustainability](./econometrics/32-sovereign-debt-and-fiscal-sustainability.md)
+- [Monetary Policy Transmission And Identification](./econometrics/33-monetary-policy-transmission-and-identification.md)
 
 ## public-finance
 
