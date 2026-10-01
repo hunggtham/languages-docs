@@ -407,6 +407,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Identification And Asymptotic Inference](./econometrics/56-identification-and-asymptotic-inference.md)
 - [Bayesian Nonparametric Models And Processes](./econometrics/57-bayesian-nonparametric-models-and-processes.md)
 - [Network Formation And Strategic Links](./econometrics/58-network-formation-and-strategic-links.md)
+- [Synthetic Control And Counterfactual Panels](./econometrics/59-synthetic-control-and-counterfactual-panels.md)
 
 ## public-finance
 
