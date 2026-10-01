@@ -79,6 +79,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Fairness Equating And Assessment Access](./psychometrics/03-fairness-equating-and-assessment-access.md)
 - [Longitudinal Change And Missing Data](./psychometrics/04-longitudinal-change-and-missing-data.md)
 - [Adaptive Testing And Diagnostic Classification](./psychometrics/05-adaptive-testing-and-diagnostic-classification.md)
+- [Bayesian Assessment And Decision Uncertainty](./psychometrics/06-bayesian-assessment-and-decision-uncertainty.md)
 
 ## media
 
