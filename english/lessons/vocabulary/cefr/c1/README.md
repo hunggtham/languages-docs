@@ -283,6 +283,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Decisions And Choice Architecture](./behavioral-economics/01-decisions-and-choice-architecture.md)
 - [Biases, Social Preferences, And Self-Control](./behavioral-economics/02-biases-social-preferences-and-self-control.md)
+- [Frictions, Social Norms, And Policy Interventions](./behavioral-economics/03-frictions-social-norms-and-policy-interventions.md)
 
 ## game-theory
 
