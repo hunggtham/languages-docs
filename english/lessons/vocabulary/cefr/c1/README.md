@@ -391,6 +391,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Industrial Organization And Market Structure](./econometrics/40-industrial-organization-and-market-structure.md)
 - [Competition Policy And Merger Remedies](./econometrics/41-competition-policy-and-merger-remedies.md)
 - [Auction Econometrics And Demand Estimation](./econometrics/42-auction-econometrics-and-demand-estimation.md)
+- [Dynamic Discrete Choice And Structural Decisions](./econometrics/43-dynamic-discrete-choice-and-structural-decisions.md)
 
 ## public-finance
 
