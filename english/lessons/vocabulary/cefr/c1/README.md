@@ -353,6 +353,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Development And Household Policy Evaluation](./econometrics/36-development-and-household-policy-evaluation.md)
 - [Education Economics And Skill Formation](./econometrics/37-education-economics-and-skill-formation.md)
 - [Urban And Regional Economics](./econometrics/38-urban-and-regional-economics.md)
+- [Political Economy And Institutional Performance](./econometrics/39-political-economy-and-institutional-performance.md)
 
 ## public-finance
 
