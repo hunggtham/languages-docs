@@ -333,6 +333,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Errors In Variables And Misclassification](./econometrics/16-errors-in-variables-and-misclassification.md)
 - [Count Models And Event Rates](./econometrics/17-count-models-and-event-rates.md)
 - [Instrumental Variables And Weak Identification](./econometrics/18-instrumental-variables-and-weak-identification.md)
+- [GMM And Moment-Based Estimation](./econometrics/19-gmm-and-moment-based-estimation.md)
 
 ## public-finance
 
