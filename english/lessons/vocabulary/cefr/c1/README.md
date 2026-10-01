@@ -324,6 +324,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Spatial Econometrics And Geographic Dependence](./econometrics/07-spatial-econometrics-and-geographic-dependence.md)
 - [Matching And Weighted Causal Estimation](./econometrics/08-matching-and-weighted-causal-estimation.md)
 - [Heterogeneous And Mediated Treatment Effects](./econometrics/09-heterogeneous-and-mediated-treatment-effects.md)
+- [Sensitivity And Robustness Analysis](./econometrics/10-sensitivity-and-robustness-analysis.md)
 
 ## public-finance
 
