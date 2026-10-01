@@ -397,6 +397,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Bayesian State-space Forecasting And Regime Uncertainty](./econometrics/46-bayesian-state-space-forecasting-and-regime-uncertainty.md)
 - [Hierarchical Panel Models And Group Variation](./econometrics/47-hierarchical-panel-models-and-group-variation.md)
 - [Panel Attrition And Missingness Processes](./econometrics/48-panel-attrition-and-missingness-processes.md)
+- [Transportability And Generalization Of Effects](./econometrics/49-transportability-and-generalization-of-effects.md)
 
 ## public-finance
 
