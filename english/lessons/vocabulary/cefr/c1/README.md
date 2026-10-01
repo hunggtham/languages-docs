@@ -393,6 +393,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Auction Econometrics And Demand Estimation](./econometrics/42-auction-econometrics-and-demand-estimation.md)
 - [Dynamic Discrete Choice And Structural Decisions](./econometrics/43-dynamic-discrete-choice-and-structural-decisions.md)
 - [Bayesian Computation And Posterior Diagnostics](./econometrics/44-bayesian-computation-and-posterior-diagnostics.md)
+- [Bayesian Causal Decisions And Treatment Uncertainty](./econometrics/45-bayesian-causal-decisions-and-treatment-uncertainty.md)
 
 ## public-finance
 
