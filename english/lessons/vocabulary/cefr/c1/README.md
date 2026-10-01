@@ -351,6 +351,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [International Macro And Exchange Rates](./econometrics/34-international-macro-and-exchange-rates.md)
 - [Trade Policy And Trade Elasticities](./econometrics/35-trade-policy-and-trade-elasticities.md)
 - [Development And Household Policy Evaluation](./econometrics/36-development-and-household-policy-evaluation.md)
+- [Education Economics And Skill Formation](./econometrics/37-education-economics-and-skill-formation.md)
 
 ## public-finance
 
