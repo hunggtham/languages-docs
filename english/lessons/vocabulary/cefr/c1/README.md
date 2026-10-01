@@ -308,6 +308,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Health Insurance And Care Decisions](./behavioral-economics/08-behavioral-health-insurance-and-care-decisions.md)
 - [Behavioral Environmental Decisions And Climate Action](./behavioral-economics/09-behavioral-environmental-decisions-and-climate-action.md)
 - [Behavioral Political Economy And Voting](./behavioral-economics/10-behavioral-political-economy-and-voting.md)
+- [Behavioral Education And Learning Decisions](./behavioral-economics/11-behavioral-education-and-learning-decisions.md)
 
 ## game-theory
 
