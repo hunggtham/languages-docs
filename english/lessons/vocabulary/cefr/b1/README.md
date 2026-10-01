@@ -132,6 +132,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Library And Borrowing Tools](./technology/41-digital-library-and-borrowing-tools.md)
 - [Digital Smart-Home Control Tools](./technology/42-digital-smart-home-control-tools.md)
 - [Digital Family Scheduling Tools](./technology/43-digital-family-scheduling-tools.md)
+- [Digital Photo Organization And Sharing Tools](./technology/44-digital-photo-organization-and-sharing-tools.md)
 
 ## culture
 
