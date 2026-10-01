@@ -106,6 +106,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Robust Resampling And Sensitivity Checks](./psychometrics/30-robust-resampling-and-sensitivity-checks.md)
 - [Cross-Language Survey Adaptation](./psychometrics/31-cross-language-survey-adaptation.md)
 - [Bayesian Hierarchical Assessment](./psychometrics/32-bayesian-hierarchical-assessment.md)
+- [Item Response Curves And Information](./psychometrics/33-item-response-curves-and-information.md)
 
 ## media
 
