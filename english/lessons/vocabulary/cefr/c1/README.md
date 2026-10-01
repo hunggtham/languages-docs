@@ -356,6 +356,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Political Economy And Institutional Performance](./econometrics/39-political-economy-and-institutional-performance.md)
 - [Industrial Organization And Market Structure](./econometrics/40-industrial-organization-and-market-structure.md)
 - [Competition Policy And Merger Remedies](./econometrics/41-competition-policy-and-merger-remedies.md)
+- [Auction Econometrics And Demand Estimation](./econometrics/42-auction-econometrics-and-demand-estimation.md)
 
 ## public-finance
 
