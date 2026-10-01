@@ -290,6 +290,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Learning Dynamics And Equilibrium Selection](./game-theory/04-learning-dynamics-and-equilibrium-selection.md)
 - [Social Choice And Voting Mechanisms](./game-theory/05-social-choice-and-voting-mechanisms.md)
 - [Implementation And Incentive Mechanisms](./game-theory/06-implementation-and-incentive-mechanisms.md)
+- [Coordination, Congestion, And Network Games](./game-theory/07-coordination-congestion-and-network-games.md)
 
 ## hydrology
 
