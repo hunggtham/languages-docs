@@ -129,6 +129,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Reader Subscriptions And Newsletter Lifecycle](./media/17-reader-subscriptions-and-newsletter-lifecycle.md)
 - [Media Product Experiments And Reader Behavior](./media/18-media-product-experiments-and-reader-behavior.md)
 - [Audience Data, Privacy, And Consent](./media/19-audience-data-privacy-and-consent.md)
+- [Media Law And Rights Management](./media/20-media-law-and-rights-management.md)
 
 ## urban
 
