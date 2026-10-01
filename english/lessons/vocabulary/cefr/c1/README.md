@@ -120,6 +120,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Audio, Visual, And Interactive Journalism](./media/08-audio-visual-and-interactive-journalism.md)
 - [Journalist Security And Source Privacy](./media/09-journalist-security-and-source-privacy.md)
 - [Media Literacy And Public Knowledge](./media/10-media-literacy-and-public-knowledge.md)
+- [Media Organizations And Community Reporting](./media/11-media-organizations-and-community-reporting.md)
 
 ## urban
 
