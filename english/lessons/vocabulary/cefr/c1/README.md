@@ -293,6 +293,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Coordination, Congestion, And Network Games](./game-theory/07-coordination-congestion-and-network-games.md)
 - [Information Aggregation And Prediction Markets](./game-theory/08-information-aggregation-and-prediction-markets.md)
 - [Repeated Games And Relational Contracts](./game-theory/09-repeated-games-and-relational-contracts.md)
+- [Experimental Game Theory And Strategic Behavior](./game-theory/10-experimental-game-theory-and-strategic-behavior.md)
 
 ## hydrology
 
