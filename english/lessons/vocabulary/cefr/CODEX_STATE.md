@@ -28,18 +28,18 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1930 items in 119 topic files; topic-folder numbering resets per folder.
+- C1: 1950 items in 120 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 11111 items (authoritative script count after merge).
+- Total: 11131 items (authoritative script count after the latest C1 checkpoint).
 
 ## Current position
 
 Status: `READY`
 
-Current level: `C2`
+Current level: `C1`
 
-Next lesson: continue B1/B2/C1 expansion or create the next coherent C2 topic file; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse `computing/66-...`, `semiconductors/32-...`, or `biomedicine/58-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C1 psychometrics at local file `23-...` when the next topic belongs naturally to that network, or move to the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse `computing/66-...`, `semiconductors/32-...`, or `biomedicine/58-...` only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -105,6 +105,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/19-score-linking-and-equating-methods.md` with 20 score-linking and equating-method items.
 - Latest continuation added `c1/psychometrics/20-norm-development-and-score-interpretation.md` with 20 norm-development and score-interpretation items.
 - Latest continuation added `c1/psychometrics/21-diagnostic-invariance-and-model-fit.md` with 20 diagnostic-invariance and model-fit items.
+- Latest continuation added `c1/psychometrics/22-evidence-centered-design-and-validity-arguments.md` with 20 evidence-centered-design and validity-argument items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.

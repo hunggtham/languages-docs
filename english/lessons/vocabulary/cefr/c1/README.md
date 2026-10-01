@@ -95,6 +95,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Score Linking And Equating Methods](./psychometrics/19-score-linking-and-equating-methods.md)
 - [Norm Development And Score Interpretation](./psychometrics/20-norm-development-and-score-interpretation.md)
 - [Diagnostic Invariance And Model Fit](./psychometrics/21-diagnostic-invariance-and-model-fit.md)
+- [Evidence-Centered Design And Validity Arguments](./psychometrics/22-evidence-centered-design-and-validity-arguments.md)
 
 ## media
 
