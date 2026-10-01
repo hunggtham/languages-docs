@@ -128,6 +128,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Pet-Care And Animal-Health Tools](./technology/37-digital-pet-care-and-animal-health-tools.md)
 - [Digital Home-Cleaning And Maintenance Tools](./technology/38-digital-home-cleaning-and-maintenance-tools.md)
 - [Digital Event And Ticketing Tools](./technology/39-digital-event-and-ticketing-tools.md)
+- [Digital Public-Transport And Navigation Tools](./technology/40-digital-public-transport-and-navigation-tools.md)
 
 ## culture
 
