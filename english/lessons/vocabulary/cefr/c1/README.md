@@ -339,6 +339,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Network Econometrics And Peer Effects](./econometrics/22-network-econometrics-and-peer-effects.md)
 - [Dynamic Panels And System GMM](./econometrics/23-dynamic-panels-and-system-gmm.md)
 - [Forecast Evaluation And Predictive Distributions](./econometrics/24-forecast-evaluation-and-predictive-distributions.md)
+- [Risk Backtesting And Systemic Risk](./econometrics/25-risk-backtesting-and-systemic-risk.md)
 
 ## public-finance
 
