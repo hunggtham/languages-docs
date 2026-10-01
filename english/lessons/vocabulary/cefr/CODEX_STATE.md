@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1790 items in 112 topic files; topic-folder numbering resets per folder.
+- C1: 1810 items in 113 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10971 items (authoritative script count after merge).
+- Total: 10991 items (authoritative script count after merge).
 
 ## Current position
 
@@ -98,6 +98,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/12-accessibility-and-assessment-accommodations.md` with 20 accessibility and assessment-accommodation items.
 - Latest continuation added `c1/psychometrics/13-ethical-score-use-and-assessment-consequences.md` with 20 ethical-score-use and assessment-consequence items.
 - Latest continuation added `c1/psychometrics/14-visual-score-communication-and-data-displays.md` with 20 visual-score-communication and data-display items.
+- Latest continuation added `c1/psychometrics/15-cross-cultural-measurement-adaptation.md` with 20 cross-cultural-measurement and adaptation items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.
