@@ -97,6 +97,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Diagnostic Invariance And Model Fit](./psychometrics/21-diagnostic-invariance-and-model-fit.md)
 - [Evidence-Centered Design And Validity Arguments](./psychometrics/22-evidence-centered-design-and-validity-arguments.md)
 - [Standard Setting And Generalizability Decisions](./psychometrics/23-standard-setting-and-generalizability-decisions.md)
+- [Score Precision And Individual Interpretation](./psychometrics/24-score-precision-and-individual-interpretation.md)
 
 ## media
 
