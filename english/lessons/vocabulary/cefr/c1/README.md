@@ -399,6 +399,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Panel Attrition And Missingness Processes](./econometrics/48-panel-attrition-and-missingness-processes.md)
 - [Transportability And Generalization Of Effects](./econometrics/49-transportability-and-generalization-of-effects.md)
 - [Causal Machine Learning And Heterogeneous Effects](./econometrics/50-causal-machine-learning-and-heterogeneous-effects.md)
+- [Mediation And Principal Stratification](./econometrics/51-mediation-and-principal-stratification.md)
 
 ## public-finance
 
