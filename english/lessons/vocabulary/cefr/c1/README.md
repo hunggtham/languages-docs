@@ -395,6 +395,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Bayesian Computation And Posterior Diagnostics](./econometrics/44-bayesian-computation-and-posterior-diagnostics.md)
 - [Bayesian Causal Decisions And Treatment Uncertainty](./econometrics/45-bayesian-causal-decisions-and-treatment-uncertainty.md)
 - [Bayesian State-space Forecasting And Regime Uncertainty](./econometrics/46-bayesian-state-space-forecasting-and-regime-uncertainty.md)
+- [Hierarchical Panel Models And Group Variation](./econometrics/47-hierarchical-panel-models-and-group-variation.md)
 
 ## public-finance
 
