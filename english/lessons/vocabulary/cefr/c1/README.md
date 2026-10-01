@@ -127,6 +127,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Media Accessibility And Inclusive Delivery](./media/15-media-accessibility-and-inclusive-delivery.md)
 - [Audience Participation And Community Listening](./media/16-audience-participation-and-community-listening.md)
 - [Reader Subscriptions And Newsletter Lifecycle](./media/17-reader-subscriptions-and-newsletter-lifecycle.md)
+- [Media Product Experiments And Reader Behavior](./media/18-media-product-experiments-and-reader-behavior.md)
 
 ## urban
 
