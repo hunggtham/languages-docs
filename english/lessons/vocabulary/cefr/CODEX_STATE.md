@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 2230 items in 134 topic files; topic-folder numbering resets per folder.
+- C1: 2250 items in 135 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 11411 items (authoritative script count after the latest C1 checkpoint).
+- Total: 11431 items (authoritative script count after the latest C1 checkpoint).
 
 ## Current position
 
@@ -119,6 +119,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/33-item-response-curves-and-information.md` with 20 item-response-curve and information items.
 - Latest continuation added `c1/econometrics/02-evaluation-design-and-estimands.md` with 20 evaluation-design and estimand-population items, plus `c1/econometrics/03-specification-diagnostics-and-panel-estimators.md` with 20 specification-diagnostic and panel-estimator items.
 - Latest continuation added `c1/econometrics/04-time-series-dynamics-and-forecasting.md` with 20 time-series-dynamics and forecasting items.
+- Latest continuation added `c1/econometrics/05-survey-sampling-and-weighted-inference.md` with 20 survey-sampling and weighted-inference items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.
