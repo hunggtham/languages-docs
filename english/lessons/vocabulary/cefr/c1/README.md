@@ -116,6 +116,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Crisis Communication And Public Information](./media/04-crisis-communication-and-public-information.md)
 - [Media Ethics, Disclosure, And Accountability](./media/05-media-ethics-disclosure-and-accountability.md)
 - [Digital Publishing Infrastructure And Content Portability](./media/06-digital-publishing-infrastructure-and-content-portability.md)
+- [Audience Research And Measurement](./media/07-audience-research-and-measurement.md)
 
 ## urban
 
