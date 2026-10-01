@@ -129,6 +129,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Digital Home-Cleaning And Maintenance Tools](./technology/38-digital-home-cleaning-and-maintenance-tools.md)
 - [Digital Event And Ticketing Tools](./technology/39-digital-event-and-ticketing-tools.md)
 - [Digital Public-Transport And Navigation Tools](./technology/40-digital-public-transport-and-navigation-tools.md)
+- [Digital Library And Borrowing Tools](./technology/41-digital-library-and-borrowing-tools.md)
 
 ## culture
 
