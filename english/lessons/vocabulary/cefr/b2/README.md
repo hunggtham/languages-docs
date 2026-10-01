@@ -47,6 +47,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Risk Action Prioritization And Closure](./risk/33-risk-action-prioritization-and-closure.md)
 - [Risk Appetite Calibration And Threshold Setting](./risk/34-risk-appetite-calibration-and-threshold-setting.md)
 - [Risk Appetite Communication And Decision Cascade](./risk/35-risk-appetite-communication-and-decision-cascade.md)
+- [Risk Decision Rights And Accountability](./risk/36-risk-decision-rights-and-accountability.md)
 
 ## work
 
