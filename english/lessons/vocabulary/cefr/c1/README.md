@@ -99,6 +99,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Standard Setting And Generalizability Decisions](./psychometrics/23-standard-setting-and-generalizability-decisions.md)
 - [Score Precision And Individual Interpretation](./psychometrics/24-score-precision-and-individual-interpretation.md)
 - [Score Use And Responsible Decisions](./psychometrics/25-score-use-and-responsible-decisions.md)
+- [Multilevel Measurement And Clustered Data](./psychometrics/26-multilevel-measurement-and-clustered-data.md)
 
 ## media
 
