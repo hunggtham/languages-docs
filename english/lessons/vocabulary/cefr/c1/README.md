@@ -304,6 +304,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Finance And Market Anomalies](./behavioral-economics/04-behavioral-finance-and-market-anomalies.md)
 - [Behavioral Macroeconomics And Household Expectations](./behavioral-economics/05-behavioral-macroeconomics-and-household-expectations.md)
 - [Behavioral Public Finance And Compliance](./behavioral-economics/06-behavioral-public-finance-and-compliance.md)
+- [Behavioral Labor And Workplace Decisions](./behavioral-economics/07-behavioral-labor-and-workplace-decisions.md)
 
 ## game-theory
 
