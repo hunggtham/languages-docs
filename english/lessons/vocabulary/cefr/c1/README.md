@@ -404,6 +404,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Interference, Spillovers, And Network Exposure](./econometrics/53-interference-spillovers-and-network-exposure.md)
 - [Continuous Treatment And Dose-response Analysis](./econometrics/54-continuous-treatment-and-dose-response.md)
 - [Causal Survival And Competing Risks](./econometrics/55-causal-survival-and-competing-risks.md)
+- [Identification And Asymptotic Inference](./econometrics/56-identification-and-asymptotic-inference.md)
 
 ## public-finance
 
