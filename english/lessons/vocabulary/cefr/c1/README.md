@@ -126,6 +126,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Media Archives And Digital Preservation](./media/14-media-archives-and-digital-preservation.md)
 - [Media Accessibility And Inclusive Delivery](./media/15-media-accessibility-and-inclusive-delivery.md)
 - [Audience Participation And Community Listening](./media/16-audience-participation-and-community-listening.md)
+- [Reader Subscriptions And Newsletter Lifecycle](./media/17-reader-subscriptions-and-newsletter-lifecycle.md)
 
 ## urban
 
