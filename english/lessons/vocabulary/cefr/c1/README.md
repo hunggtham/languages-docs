@@ -320,6 +320,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Specification Diagnostics And Panel Estimators](./econometrics/03-specification-diagnostics-and-panel-estimators.md)
 - [Time-Series Dynamics And Forecasting](./econometrics/04-time-series-dynamics-and-forecasting.md)
 - [Survey Sampling And Weighted Inference](./econometrics/05-survey-sampling-and-weighted-inference.md)
+- [Volatility And Risk Forecasting](./econometrics/06-volatility-and-risk-forecasting.md)
 
 ## public-finance
 
