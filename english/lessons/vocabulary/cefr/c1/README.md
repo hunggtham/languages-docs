@@ -288,6 +288,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Information, Equilibria, And Mechanism Design](./game-theory/02-information-equilibria-and-mechanism-design.md)
 - [Bargaining, Matching, And Coalitions](./game-theory/03-bargaining-matching-and-coalitions.md)
 - [Learning Dynamics And Equilibrium Selection](./game-theory/04-learning-dynamics-and-equilibrium-selection.md)
+- [Social Choice And Voting Mechanisms](./game-theory/05-social-choice-and-voting-mechanisms.md)
 
 ## hydrology
 
