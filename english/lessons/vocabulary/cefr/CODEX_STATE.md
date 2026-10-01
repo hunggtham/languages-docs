@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1550 items in 100 topic files; topic-folder numbering resets per folder.
+- C1: 1570 items in 101 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10731 items (authoritative script count after merge).
+- Total: 10751 items (authoritative script count after merge).
 
 ## Current position
 
@@ -86,6 +86,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychology/07-personality-measurement-and-individual-differences.md` with 20 personality-measurement and individual-difference items.
 - Latest continuation added `c1/psychometrics/01-scale-development-and-test-quality.md` with 20 scale-development and test-quality items.
 - Latest continuation added `c1/psychometrics/02-clinical-test-interpretation-and-decision-thresholds.md` with 20 clinical-test-interpretation and decision-threshold items.
+- Latest continuation added `c1/psychometrics/03-fairness-equating-and-assessment-access.md` with 20 fairness, equating, and assessment-access items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.

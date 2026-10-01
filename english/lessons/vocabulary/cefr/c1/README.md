@@ -76,6 +76,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Scale Development And Test Quality](./psychometrics/01-scale-development-and-test-quality.md)
 - [Clinical Test Interpretation And Decision Thresholds](./psychometrics/02-clinical-test-interpretation-and-decision-thresholds.md)
+- [Fairness Equating And Assessment Access](./psychometrics/03-fairness-equating-and-assessment-access.md)
 
 ## media
 
