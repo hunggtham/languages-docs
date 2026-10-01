@@ -318,6 +318,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Causal Inference And Data Structure](./econometrics/01-causal-inference-and-data-structure.md)
 - [Evaluation Design And Estimands](./econometrics/02-evaluation-design-and-estimands.md)
 - [Specification Diagnostics And Panel Estimators](./econometrics/03-specification-diagnostics-and-panel-estimators.md)
+- [Time-Series Dynamics And Forecasting](./econometrics/04-time-series-dynamics-and-forecasting.md)
 
 ## public-finance
 
