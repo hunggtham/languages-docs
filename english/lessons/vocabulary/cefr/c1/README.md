@@ -349,6 +349,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Sovereign Debt And Fiscal Sustainability](./econometrics/32-sovereign-debt-and-fiscal-sustainability.md)
 - [Monetary Policy Transmission And Identification](./econometrics/33-monetary-policy-transmission-and-identification.md)
 - [International Macro And Exchange Rates](./econometrics/34-international-macro-and-exchange-rates.md)
+- [Trade Policy And Trade Elasticities](./econometrics/35-trade-policy-and-trade-elasticities.md)
 
 ## public-finance
 
