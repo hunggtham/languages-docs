@@ -93,6 +93,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Reliability Generalization And Reproducibility](./psychometrics/17-reliability-generalization-and-reproducibility.md)
 - [Simulation-Based Validation And Diagnostic Checks](./psychometrics/18-simulation-based-validation-and-diagnostic-checks.md)
 - [Score Linking And Equating Methods](./psychometrics/19-score-linking-and-equating-methods.md)
+- [Norm Development And Score Interpretation](./psychometrics/20-norm-development-and-score-interpretation.md)
 
 ## media
 
