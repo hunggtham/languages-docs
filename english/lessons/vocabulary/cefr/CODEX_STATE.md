@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 1670 items in 106 topic files; topic-folder numbering resets per folder.
+- C1: 1690 items in 107 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 10851 items (authoritative script count after merge).
+- Total: 10871 items (authoritative script count after merge).
 
 ## Current position
 
@@ -92,6 +92,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c1/psychometrics/06-bayesian-assessment-and-decision-uncertainty.md` with 20 Bayesian-assessment and decision-uncertainty items.
 - Latest continuation added `c1/psychometrics/07-survey-sampling-and-response-bias.md` with 20 survey-sampling and response-bias items.
 - Latest continuation added `c1/psychometrics/08-score-scaling-and-performance-standards.md` with 20 score-scaling and performance-standard items.
+- Latest continuation added `c1/psychometrics/09-multivariate-profiles-and-latent-groups.md` with 20 multivariate-profile and latent-group items.
 - Latest continuation added `c2/semiconductors/20-design-for-test-and-silicon-validation.md` with 20 design-for-test, wafer-screening, and silicon-validation items.
 - Latest continuation added `c2/biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md` with 20 clinical-neuroimmunology and neuroinflammation items.
 - Latest continuation added `c2/computing/35-formal-methods-and-type-theoretic-verification.md` with 20 formal-methods and type-theoretic-verification items.

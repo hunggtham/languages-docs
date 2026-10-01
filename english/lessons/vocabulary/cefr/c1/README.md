@@ -82,6 +82,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Bayesian Assessment And Decision Uncertainty](./psychometrics/06-bayesian-assessment-and-decision-uncertainty.md)
 - [Survey Sampling And Response Bias](./psychometrics/07-survey-sampling-and-response-bias.md)
 - [Score Scaling And Performance Standards](./psychometrics/08-score-scaling-and-performance-standards.md)
+- [Multivariate Profiles And Latent Groups](./psychometrics/09-multivariate-profiles-and-latent-groups.md)
 
 ## media
 
