@@ -78,6 +78,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Clinical Test Interpretation And Decision Thresholds](./psychometrics/02-clinical-test-interpretation-and-decision-thresholds.md)
 - [Fairness Equating And Assessment Access](./psychometrics/03-fairness-equating-and-assessment-access.md)
 - [Longitudinal Change And Missing Data](./psychometrics/04-longitudinal-change-and-missing-data.md)
+- [Adaptive Testing And Diagnostic Classification](./psychometrics/05-adaptive-testing-and-diagnostic-classification.md)
 
 ## media
 
