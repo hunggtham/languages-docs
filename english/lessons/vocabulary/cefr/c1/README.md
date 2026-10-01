@@ -122,6 +122,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Media Literacy And Public Knowledge](./media/10-media-literacy-and-public-knowledge.md)
 - [Media Organizations And Community Reporting](./media/11-media-organizations-and-community-reporting.md)
 - [Collaborative Investigations And Source Verification](./media/12-collaborative-investigations-and-source-verification.md)
+- [Public-service Media And Governance](./media/13-public-service-media-and-governance.md)
 
 ## urban
 
