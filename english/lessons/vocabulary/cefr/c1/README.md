@@ -112,6 +112,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Journalism And Public Trust](./media/01-journalism-and-public-trust.md)
 - [Media Economics And Platform Attention](./media/02-media-economics-and-platform-attention.md)
+- [Digital Newsroom Workflows And Reader Revenue](./media/03-digital-newsroom-workflows-and-reader-revenue.md)
 
 ## urban
 
