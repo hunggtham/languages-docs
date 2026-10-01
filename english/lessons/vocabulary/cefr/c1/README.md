@@ -322,6 +322,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Survey Sampling And Weighted Inference](./econometrics/05-survey-sampling-and-weighted-inference.md)
 - [Volatility And Risk Forecasting](./econometrics/06-volatility-and-risk-forecasting.md)
 - [Spatial Econometrics And Geographic Dependence](./econometrics/07-spatial-econometrics-and-geographic-dependence.md)
+- [Matching And Weighted Causal Estimation](./econometrics/08-matching-and-weighted-causal-estimation.md)
 
 ## public-finance
 
