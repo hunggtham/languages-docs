@@ -366,4 +366,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Time And Clock Semantics](./computing/120-distributed-time-and-clock-semantics.md)
 - [Query Planning And Index Strategy](./computing/121-query-planning-and-index-strategy.md)
 - [Transaction Isolation And Recovery Semantics](./computing/122-transaction-isolation-and-recovery-semantics.md)
+- [Authorization Policy Evaluation](./computing/123-authorization-policy-evaluation.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
