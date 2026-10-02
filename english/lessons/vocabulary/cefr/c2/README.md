@@ -382,4 +382,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Coordination Primitives And Consensus State](./computing/136-coordination-primitives-and-consensus-state.md)
 - [Message Queue Operations](./computing/137-message-queue-operations.md)
 - [Distributed Filesystem Metadata And Consistency](./computing/138-distributed-filesystem-metadata-and-consistency.md)
+- [Document Ingestion And Content Processing](./computing/139-document-ingestion-and-content-processing.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
