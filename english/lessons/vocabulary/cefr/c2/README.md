@@ -326,6 +326,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Semiconductor Probing And Package Mechanics](./semiconductors/42-semiconductor-probing-and-package-mechanics.md)
 - [Package Assembly And Board Reliability](./semiconductors/43-package-assembly-and-board-reliability.md)
 - [Power, Thermal, And Isolation Design](./semiconductors/44-power-thermal-and-isolation-design.md)
+- [Power Switching And Gate Drive](./semiconductors/45-power-switching-and-gate-drive.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
