@@ -351,4 +351,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Data Governance And Privacy Controls](./computing/105-data-governance-and-privacy-controls.md)
 - [Data Quality Engineering And Assurance](./computing/106-data-quality-engineering-and-assurance.md)
 - [Data Interoperability And Integration](./computing/107-data-interoperability-and-integration.md)
+- [Reliability And Incident Response](./computing/108-reliability-and-incident-response.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
