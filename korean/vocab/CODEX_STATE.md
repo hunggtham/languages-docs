@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,627 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-02 information-integrity checkpoint
+
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `65-information-integrity-and-media-verification.md`
+- Coverage: 10 advanced-native/contemporary-news targets for content provenance labels, information integrity, misinformation spread, fact-checking, source tracing, manipulated video, published corrections, deepfake labels, information laundering, and contextualized reporting (`콘텐츠 출처 표기`, `정보 무결성`, `허위정보 확산`, `사실 검증`, `출처 추적`, `조작 영상`, `정정 보도`, `딥페이크 표기`, `정보 세탁`, `맥락화 보도`).
+- Passage coverage: one coherent 100-eojeol Korean media-verification passage with all 10 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 10 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,715 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `65` checkpoint.
+
 ## 2026-10-02 everyday-reactions checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
