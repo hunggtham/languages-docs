@@ -329,6 +329,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Power Switching And Gate Drive](./semiconductors/45-power-switching-and-gate-drive.md)
 - [Power Converter Topologies And Control](./semiconductors/46-power-converter-topologies-and-control.md)
 - [Motor Control And Inverter Modulation](./semiconductors/47-motor-control-and-inverter-modulation.md)
+- [Renewable Inverters And Energy Storage](./semiconductors/48-renewable-inverters-and-energy-storage.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
