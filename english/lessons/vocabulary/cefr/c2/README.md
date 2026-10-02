@@ -343,4 +343,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Query Optimization And Execution](./computing/97-query-optimization-and-execution.md)
 - [Stream Processing And Time Semantics](./computing/98-stream-processing-and-time-semantics.md)
 - [Resilient APIs And Service Contracts](./computing/99-resilient-api-and-service-contracts.md)
+- [Software Supply Chain Provenance](./computing/100-software-supply-chain-provenance.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
