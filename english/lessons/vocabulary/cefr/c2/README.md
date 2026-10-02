@@ -409,4 +409,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Production AI Governance And Accountability](./computing/163-production-ai-governance-and-accountability.md)
 - [Data Quality And Observability](./computing/164-data-quality-and-observability.md)
 - [Query Execution And Storage Internals](./computing/165-query-execution-and-storage-internals.md)
+- [Distributed Replication And Partitioning](./computing/166-distributed-replication-and-partitioning.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
