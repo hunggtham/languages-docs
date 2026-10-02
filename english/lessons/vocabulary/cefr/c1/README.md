@@ -331,6 +331,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Travel And Tourism Choices](./behavioral-economics/31-behavioral-travel-and-tourism-choices.md)
 - [Behavioral Logistics And Supply Choices](./behavioral-economics/32-behavioral-logistics-and-supply-choices.md)
 - [Behavioral Investing And Financial Planning](./behavioral-economics/33-behavioral-investing-and-financial-planning.md)
+- [Behavioral Media And Entertainment Choice](./behavioral-economics/34-behavioral-media-and-entertainment-choice.md)
 
 ## game-theory
 
