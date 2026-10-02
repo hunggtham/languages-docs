@@ -906,3 +906,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 94-eojeol Korean labor-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
+## 2026-10-02 transitional-justice checkpoint
+
+- Topic: `high-register-law-and-diplomacy`
+- File: `06-transitional-justice-and-humanitarian-monitoring.md`
+- Coverage: 14 advanced-native news/formal targets for transitional justice, truth-seeking, victim reparation, accountability, international fact-finding, humanitarian corridors, civilian evacuation, ceasefire monitoring, mediation, and international guarantees (`전환기 정의`, `진실 규명`, `피해자 배상`, `배상 명령`, `책임성 메커니즘`, `국제 조사단`, `독립 조사`, `인도적 통로`, `민간인 대피`, `보호 의무`, `휴전 감시`, `분쟁 당사자`, `중재 절차`, `국제적 보장`).
+- Passage coverage: one coherent 81-eojeol Korean conflict-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
