@@ -924,3 +924,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 91-eojeol Korean workplace passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,601 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
+## 2026-10-02 fandom-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `04-fandom-and-current-online-slang.md`
+- Coverage: 14 contemporary-native-hot targets for current fandom and online usage: aspirational style, optimistic reframing, check-in slang, fandom relationships, favorite objects, entering/leaving fandom, fan sentiment, harmless vibes, exaggerated praise, perseverance memes, playful suspicion, and legendary moments (`추구미`, `럭키비키`, `오운완`, `인생네컷`, `덕메`, `최애`, `입덕`, `탈덕`, `팬심`, `무해하다`, `갓벽하다`, `중꺾마`, `킹리적 갓심`, `레전드`).
+- Passage coverage: one coherent 96-eojeol Korean fandom/online passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,615 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with another distinct news-formal or native-spoken/slang topic; preserve this file as local `04` checkpoint.
