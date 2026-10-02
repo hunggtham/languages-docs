@@ -328,6 +328,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Households, Relationships, And Care](./behavioral-economics/28-behavioral-households-relationships-and-care.md)
 - [Behavioral Security And Digital Risk](./behavioral-economics/29-behavioral-security-and-digital-risk.md)
 - [Behavioral Housing And Neighborhood Choice](./behavioral-economics/30-behavioral-housing-and-neighborhood-choice.md)
+- [Behavioral Travel And Tourism Choices](./behavioral-economics/31-behavioral-travel-and-tourism-choices.md)
 
 ## game-theory
 
