@@ -335,4 +335,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Bioinformatics Sequence Analysis](./computing/89-bioinformatics-sequence-analysis.md)
 - [Database Storage Engines And Recovery](./computing/90-database-storage-engines-and-recovery.md)
 - [Network Transport And Congestion](./computing/91-network-transport-and-congestion.md)
+- [Runtime Memory And JIT Internals](./computing/92-runtime-memory-and-jit-internals.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
