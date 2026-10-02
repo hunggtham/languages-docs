@@ -312,4 +312,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Quantum Hardware Benchmarking And Calibration](./computing/70-quantum-hardware-benchmarking-and-calibration.md)
 - [Neurodegenerative Biomarkers And Clinical Endpoints](./biomedicine/58-neurodegenerative-biomarkers-and-clinical-endpoints.md)
 - [Quantum Sensing And Metrology](./computing/71-quantum-sensing-and-metrology.md)
+- [Quantum Machine Learning And Data Encoding](./computing/72-quantum-machine-learning-and-data-encoding.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
