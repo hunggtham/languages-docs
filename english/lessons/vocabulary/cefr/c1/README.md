@@ -334,6 +334,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Media And Entertainment Choice](./behavioral-economics/34-behavioral-media-and-entertainment-choice.md)
 - [Behavioral Hiring And Career Decisions](./behavioral-economics/35-behavioral-hiring-and-career-decisions.md)
 - [Behavioral Leadership And Team Governance](./behavioral-economics/36-behavioral-leadership-and-team-governance.md)
+- [Behavioral Pricing And Consumer Choice](./behavioral-economics/37-behavioral-pricing-and-consumer-choice.md)
 
 ## game-theory
 
