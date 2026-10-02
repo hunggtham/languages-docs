@@ -357,6 +357,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Migration Belonging And Identity](./behavioral-economics/57-behavioral-migration-belonging-and-identity.md)
 - [Behavioral Learning Assessment And Educational Motivation](./behavioral-economics/58-behavioral-learning-assessment-and-educational-motivation.md)
 - [Behavioral Leadership Governance And Team Accountability](./behavioral-economics/59-behavioral-leadership-governance-and-team-accountability.md)
+- [Behavioral Economic Inequality And Household Decisions](./behavioral-economics/60-behavioral-economic-inequality-and-household-decisions.md)
 
 ## game-theory
 
