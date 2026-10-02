@@ -24,6 +24,6 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `7,052` / `353`; C2+ `0` / `0`. Total: `15,647` valid learning items, leaving `4,353` to reach the 20,000-item target.
-- The latest checkpoint added `c2/computing/127-federated-query-and-data-source-coordination.md` with 20 federated-query and data-source coordination items and one integrated translated review passage.
-- Continue with C2 `computing/128` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
+- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `7,072` / `354`; C2+ `0` / `0`. Total: `15,667` valid learning items, leaving `4,333` to reach the 20,000-item target.
+- The latest checkpoint added `c2/computing/128-durable-workflow-and-saga-orchestration.md` with 20 durable-workflow and saga-orchestration items and one integrated translated review passage.
+- Continue with C2 `computing/129` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.

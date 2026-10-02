@@ -371,4 +371,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Service Level Objectives And Alert Policy](./computing/125-service-level-objectives-and-alert-policy.md)
 - [Archival Storage And Retention Lifecycle](./computing/126-archival-storage-and-retention-lifecycle.md)
 - [Federated Query And Data Source Coordination](./computing/127-federated-query-and-data-source-coordination.md)
+- [Durable Workflow And Saga Orchestration](./computing/128-durable-workflow-and-saga-orchestration.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
