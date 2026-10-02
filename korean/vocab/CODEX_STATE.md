@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,627 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-02 everyday-reactions checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `05-everyday-reactions-and-social-slang.md`
+- Coverage: 12 contemporary-native-hot native-spoken/slang targets for reality-check reactions, reading the room, condescending lecturing, playful dismissal, strong irritation, cutting ties, creator calls to action, taste matching, location requests, dinner recommendations, unsponsored purchases, and disciplined-lifestyle identity (`현타 오다`, `낄끼빠빠`, `꼰대질`, `어쩔티비`, `빡치다`, `손절하다`, `좋댓구알`, `완내스`, `주불`, `저메추`, `내돈내산`, `갓생러`).
+- Passage coverage: one coherent 98-eojeol Korean everyday-chat passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,693 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-02 regional-medical-access checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
