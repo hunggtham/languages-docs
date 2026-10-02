@@ -393,4 +393,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [JIT Optimization And Runtime Representation](./computing/147-jit-optimization-and-runtime-representation.md)
 - [Process Memory And Kernel I/O](./computing/148-process-memory-and-kernel-io.md)
 - [Operating-System I/O And Service Supervision](./computing/149-os-io-and-service-supervision.md)
+- [Network Protocol Lifecycle](./computing/150-network-protocol-lifecycle.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
