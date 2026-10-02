@@ -323,4 +323,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Verified Compilation And Program Semantics](./computing/77-verified-compilation-and-program-semantics.md)
 - [Zero-Knowledge Proof Systems](./computing/78-zero-knowledge-proof-systems.md)
 - [Differential Privacy Accounting And Amplification](./computing/79-differential-privacy-accounting-and-amplification.md)
+- [Adversarial Learning And Robustness](./computing/80-adversarial-learning-and-robustness.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
