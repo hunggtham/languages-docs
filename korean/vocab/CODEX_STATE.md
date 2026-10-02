@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,831 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-03 media-literacy checkpoint
+
+- Topic: `media-literacy-and-public-trust`
+- File: `03-source-context-and-public-deliberation.md`
+- Coverage: 12 advanced-native/news-formal and contemporary media targets for source credibility, context verification, public-sphere distortion, selective exposure, media trust, public deliberation, misinformation response, information-verification habits, journalistic accountability, news fatigue, comment polarization, and information ecosystems (`출처 신뢰도`, `맥락 검증`, `공론장 왜곡`, `선택적 노출`, `미디어 신뢰도`, `공적 숙의`, `허위정보 대응`, `정보 검증 습관`, `언론 책임성`, `뉴스 피로`, `댓글 양극화`, `정보 생태계`).
+- Passage coverage: one coherent 98-eojeol Korean media-literacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,891 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-03 mental-health-prevention checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
