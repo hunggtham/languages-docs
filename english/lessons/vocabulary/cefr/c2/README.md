@@ -311,4 +311,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Quantum Compilation And Hardware Control](./computing/69-quantum-compilation-and-hardware-control.md)
 - [Quantum Hardware Benchmarking And Calibration](./computing/70-quantum-hardware-benchmarking-and-calibration.md)
 - [Neurodegenerative Biomarkers And Clinical Endpoints](./biomedicine/58-neurodegenerative-biomarkers-and-clinical-endpoints.md)
+- [Quantum Sensing And Metrology](./computing/71-quantum-sensing-and-metrology.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
