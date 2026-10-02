@@ -348,6 +348,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Policy Evaluation And Program Learning](./behavioral-economics/48-behavioral-policy-evaluation-and-program-learning.md)
 - [Behavioral Workplace Wellbeing And Organizational Change](./behavioral-economics/49-behavioral-workplace-wellbeing-and-organizational-change.md)
 - [Behavioral Negotiation And Conflict Repair](./behavioral-economics/50-behavioral-negotiation-and-conflict-repair.md)
+- [Behavioral Digital Attention And Platform Design](./behavioral-economics/51-behavioral-digital-attention-and-platform-design.md)
 
 ## game-theory
 
