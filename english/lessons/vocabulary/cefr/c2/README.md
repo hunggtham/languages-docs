@@ -421,4 +421,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Secure Firmware, Identity, And Update Trust](./computing/175-secure-firmware-identity-and-update.md)
 - [Hardware Bring-Up, Validation, And Production Diagnostics](./computing/176-hardware-bring-up-test-and-production.md)
 - [Memory Reliability, Reclamation, And Safety](./computing/177-memory-reliability-and-memory-safety.md)
+- [Embedded Device Buses And Signal Integrity](./computing/178-embedded-device-buses-and-signal-integrity.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
