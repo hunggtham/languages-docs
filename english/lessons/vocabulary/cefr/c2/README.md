@@ -384,4 +384,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Filesystem Metadata And Consistency](./computing/138-distributed-filesystem-metadata-and-consistency.md)
 - [Document Ingestion And Content Processing](./computing/139-document-ingestion-and-content-processing.md)
 - [Accelerator Memory And Collective Execution](./computing/140-accelerator-memory-and-collective-execution.md)
+- [Container Runtime And Workload Scheduling](./computing/141-container-runtime-and-workload-scheduling.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
