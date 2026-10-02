@@ -320,4 +320,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Post-Quantum Cryptography Migration](./computing/74-post-quantum-cryptography-migration.md)
 - [Formal Verification Of Cryptographic Protocols](./computing/75-formal-verification-of-cryptographic-protocols.md)
 - [Confidential Computing And Hardware Attestation](./computing/76-confidential-computing-and-hardware-attestation.md)
+- [Verified Compilation And Program Semantics](./computing/77-verified-compilation-and-program-semantics.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)

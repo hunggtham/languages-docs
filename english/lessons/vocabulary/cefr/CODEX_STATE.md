@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 6036 items in 302 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 6056 items in 303 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 14631 items (authoritative script count after the latest C2 checkpoint).
+- Total: 14651 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `77-...`, biomedicine at local file `61-...`, semiconductors at local file `33-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `78-...`, biomedicine at local file `61-...`, semiconductors at local file `33-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -66,6 +66,8 @@ At the beginning of every new run:
 At the end of every checkpoint update current level, last completed lesson, next lesson, actual counts by level, total count, intentional repeated senses, and blockers.
 
 ## Last checkpoint
+
+- Latest continuation added `c2/computing/77-verified-compilation-and-program-semantics.md` with 20 verified-compilation and program-semantics items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/computing/76-confidential-computing-and-hardware-attestation.md` with 20 confidential-computing and hardware-attestation items; the lesson uses one integrated review passage with Vietnamese translation.
 
