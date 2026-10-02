@@ -24,6 +24,6 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `6,892` / `345`; C2+ `0` / `0`. Total: `15,487` valid learning items, leaving `4,513` to reach the 20,000-item target.
-- The latest checkpoint added `c2/computing/119-network-congestion-and-transport-behavior.md` with 20 network-congestion and transport-behavior items and one integrated translated review passage.
-- Continue with C2 `computing/120` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
+- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `6,912` / `346`; C2+ `0` / `0`. Total: `15,507` valid learning items, leaving `4,493` to reach the 20,000-item target.
+- The latest checkpoint added `c2/computing/120-distributed-time-and-clock-semantics.md` with 20 distributed-time and clock-semantics items and one integrated translated review passage.
+- Continue with C2 `computing/121` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.

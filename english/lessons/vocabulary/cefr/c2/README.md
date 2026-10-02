@@ -363,4 +363,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Data Encoding And Transfer Efficiency](./computing/117-data-encoding-and-transfer-efficiency.md)
 - [Distributed Storage Repair And Durability](./computing/118-distributed-storage-repair-and-durability.md)
 - [Network Congestion And Transport Behavior](./computing/119-network-congestion-and-transport-behavior.md)
+- [Distributed Time And Clock Semantics](./computing/120-distributed-time-and-clock-semantics.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
