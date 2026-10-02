@@ -367,4 +367,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Query Planning And Index Strategy](./computing/121-query-planning-and-index-strategy.md)
 - [Transaction Isolation And Recovery Semantics](./computing/122-transaction-isolation-and-recovery-semantics.md)
 - [Authorization Policy Evaluation](./computing/123-authorization-policy-evaluation.md)
+- [Software Dependency Supply Chain Controls](./computing/124-software-dependency-supply-chain-controls.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
