@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-02 policy-implementation checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `07-policy-implementation-capacity-and-gaps.md`
+- Coverage: 12 advanced-native/news-formal targets for policy implementation capacity, administrative capacity, policy acceptability, frontline implementation, service-delivery systems, policy blind spots, implementation gaps, administrative costs, service standardization, administrative responsiveness, policy coordination costs, and policy effectiveness (`정책 집행력`, `행정 역량`, `정책 수용성`, `현장 집행`, `전달체계`, `정책 사각지대`, `집행 격차`, `행정 비용`, `서비스 표준화`, `민원 대응성`, `정책 조정 비용`, `정책 효과성`).
+- Passage coverage: one coherent 92-eojeol Korean administration-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,772 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-02 organizational-voice checkpoint
 
 - Topic: `advanced-workplace-and-institutional-discourse`
