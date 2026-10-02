@@ -307,4 +307,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Cache Consistency And Invalidation](./computing/65-distributed-cache-consistency-and-invalidation.md)
 - [Quantum Networking And Entanglement Distribution](./computing/66-quantum-networking-and-entanglement-distribution.md)
 - [Quantum Error Correction And Fault Tolerance](./computing/67-quantum-error-correction-and-fault-tolerance.md)
+- [Quantum Algorithms And Variational Optimization](./computing/68-quantum-algorithms-and-variational-optimization.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
