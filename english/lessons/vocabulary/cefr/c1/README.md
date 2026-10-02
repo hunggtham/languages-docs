@@ -355,6 +355,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Health Decisions And Treatment Adherence](./behavioral-economics/55-behavioral-health-decisions-and-treatment-adherence.md)
 - [Behavioral Aging Caregiving And Intergenerational Decisions](./behavioral-economics/56-behavioral-aging-caregiving-and-intergenerational-decisions.md)
 - [Behavioral Migration Belonging And Identity](./behavioral-economics/57-behavioral-migration-belonging-and-identity.md)
+- [Behavioral Learning Assessment And Educational Motivation](./behavioral-economics/58-behavioral-learning-assessment-and-educational-motivation.md)
 
 ## game-theory
 
