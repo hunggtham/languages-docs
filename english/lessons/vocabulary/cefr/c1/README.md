@@ -324,6 +324,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Culture, Identity, And Participation](./behavioral-economics/24-behavioral-culture-identity-and-participation.md)
 - [Behavioral Communication And Negotiation](./behavioral-economics/25-behavioral-communication-and-negotiation.md)
 - [Behavioral Citizen Services And Administrative Choice](./behavioral-economics/26-behavioral-citizen-services-and-administrative-choice.md)
+- [Behavioral Sport And Performance](./behavioral-economics/27-behavioral-sport-and-performance.md)
 
 ## game-theory
 
