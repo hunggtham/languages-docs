@@ -322,6 +322,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Semiconductor Yield And Test Control](./semiconductors/38-semiconductor-yield-and-test-control.md)
 - [Semiconductor Test Flow And Package Screening](./semiconductors/39-semiconductor-test-flow-and-package-screening.md)
 - [Memory Programming And Read Margin](./semiconductors/40-memory-programming-and-read-margin.md)
+- [Memory Controller, ECC, And Data Reliability](./semiconductors/41-memory-controller-ecc-and-data-reliability.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
