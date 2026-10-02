@@ -373,4 +373,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Federated Query And Data Source Coordination](./computing/127-federated-query-and-data-source-coordination.md)
 - [Durable Workflow And Saga Orchestration](./computing/128-durable-workflow-and-saga-orchestration.md)
 - [Geospatial Data Systems](./computing/129-geospatial-data-systems.md)
+- [Time Series Analytics And Forecasting](./computing/130-time-series-analytics-and-forecasting.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)

@@ -24,6 +24,6 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `7,092` / `355`; C2+ `0` / `0`. Total: `15,687` valid learning items, leaving `4,313` to reach the 20,000-item target.
-- The latest checkpoint added `c2/computing/129-geospatial-data-systems.md` with 20 geospatial data-system items and one integrated translated review passage.
-- Continue with C2 `computing/130` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
+- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `7,112` / `356`; C2+ `0` / `0`. Total: `15,707` valid learning items, leaving `4,293` to reach the 20,000-item target.
+- The latest checkpoint added `c2/computing/130-time-series-analytics-and-forecasting.md` with 20 time-series analytics and forecasting items and one integrated translated review passage.
+- Continue with C2 `computing/131` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
