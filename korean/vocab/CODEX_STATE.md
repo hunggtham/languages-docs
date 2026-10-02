@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 11 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,726 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-02 transport-pricing checkpoint
+
+- Topic: `advanced-mobility-and-transport-policy`
+- File: `04-pricing-access-and-low-carbon-mobility.md`
+- Coverage: 12 advanced-native/news-formal targets for congestion charges, transport demand management, people with mobility needs, transfer discounts, transport poverty, transport welfare, barrier-free mobility, mobility hubs, transport carbon budgets, transport-demand elasticity, fare equity, and public-transit accessibility (`혼잡 통행료`, `교통 수요관리`, `이동 약자`, `환승 할인`, `교통 빈곤`, `교통 복지`, `무장애 이동`, `모빌리티 허브`, `교통 탄소예산`, `교통 수요 탄력성`, `요금 형평성`, `대중교통 접근성`).
+- Passage coverage: one coherent 93-eojeol Korean transport-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,738 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-02 everyday-reactions checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
