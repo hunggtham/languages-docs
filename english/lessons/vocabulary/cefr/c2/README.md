@@ -369,4 +369,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Authorization Policy Evaluation](./computing/123-authorization-policy-evaluation.md)
 - [Software Dependency Supply Chain Controls](./computing/124-software-dependency-supply-chain-controls.md)
 - [Service Level Objectives And Alert Policy](./computing/125-service-level-objectives-and-alert-policy.md)
+- [Archival Storage And Retention Lifecycle](./computing/126-archival-storage-and-retention-lifecycle.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
