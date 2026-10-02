@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,772 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-02 interest-rate-risk checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `06-interest-rate-risk-and-consumer-protection.md`
+- Coverage: 12 advanced-native/news-formal targets for liquidity premiums, loan refinancing, financial stress, collateral values, credit-scoring models, investor protection, debt-service burden ratios, interest-rate sensitivity, loan maturity structures, floating-rate risk, financial-access gaps, and financial-product explanation duties (`유동성 프리미엄`, `대출 갈아타기`, `금융 스트레스`, `담보 가치`, `신용평가 모형`, `투자자 보호`, `상환 부담률`, `금리 민감도`, `대출 만기 구조`, `변동금리 위험`, `금융 접근 격차`, `금융상품 설명의무`).
+- Passage coverage: one coherent 96-eojeol Korean financial-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,784 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-02 organizational-voice checkpoint
 
 - Topic: `advanced-workplace-and-institutional-discourse`
