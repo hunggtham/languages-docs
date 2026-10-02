@@ -333,6 +333,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Grid Power Quality And Harmonic Control](./semiconductors/49-grid-power-quality-and-harmonic-control.md)
 - [Grid Protection And Switchgear Reliability](./semiconductors/50-grid-protection-and-switchgear-reliability.md)
 - [Grid Stability And Wide-Area Control](./semiconductors/51-grid-stability-and-wide-area-control.md)
+- [Power-System Dynamics And Transmission Limits](./semiconductors/52-power-system-dynamics-and-transmission-limits.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
