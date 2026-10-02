@@ -337,4 +337,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Network Transport And Congestion](./computing/91-network-transport-and-congestion.md)
 - [Runtime Memory And JIT Internals](./computing/92-runtime-memory-and-jit-internals.md)
 - [Language Model Inference And Serving](./computing/93-language-model-inference-and-serving.md)
+- [Web Performance And Rendering](./computing/94-web-performance-and-rendering.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
