@@ -379,4 +379,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Streaming Windows And State Semantics](./computing/133-streaming-windows-and-state-semantics.md)
 - [API Gateway Traffic Management](./computing/134-api-gateway-traffic-management.md)
 - [Service Discovery And Membership](./computing/135-service-discovery-and-membership.md)
+- [Coordination Primitives And Consensus State](./computing/136-coordination-primitives-and-consensus-state.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
