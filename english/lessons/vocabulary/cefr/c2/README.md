@@ -317,6 +317,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Lithography, Etch, And Dopant Process Control](./semiconductors/33-lithography-etch-and-dopant-process-control.md)
 - [Process Control And Wafer Metrology](./semiconductors/34-process-control-and-wafer-metrology.md)
 - [Device Aging, Variability, And Radiation Reliability](./semiconductors/35-device-aging-variability-and-radiation-reliability.md)
+- [Radiation Hardening And Space Qualification](./semiconductors/36-radiation-hardening-and-space-qualification.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
