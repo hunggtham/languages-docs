@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 4750 items in 260 topic files; topic-folder numbering resets per folder.
+- C1: 4770 items in 261 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 13931 items (authoritative script count after the latest C1 checkpoint).
+- Total: 13951 items (authoritative script count after the latest C1 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C1`
 
-Next lesson: continue C1 econometrics at local file `61-...`, behavioral-economics at local file `42-...`, game-theory at local file `13-...`, or choose the next coherent C1/C2 topic after completing the media network; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C1 econometrics at local file `61-...`, behavioral-economics at local file `43-...`, game-theory at local file `13-...`, or choose the next coherent C1/C2 topic after completing the media network; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -66,6 +66,8 @@ At the beginning of every new run:
 At the end of every checkpoint update current level, last completed lesson, next lesson, actual counts by level, total count, intentional repeated senses, and blockers.
 
 ## Last checkpoint
+
+- Latest continuation added `c1/behavioral-economics/42-behavioral-work-technology-and-automation.md` with 20 behavioral-work-technology and automation items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c1/behavioral-economics/41-behavioral-child-development-and-learning-choice.md` with 20 behavioral-child-development and learning-choice items; the lesson uses one integrated review passage with Vietnamese translation.
 
