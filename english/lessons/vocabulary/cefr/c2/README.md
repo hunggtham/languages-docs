@@ -318,4 +318,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
 - [Post-Quantum Cryptography Migration](./computing/74-post-quantum-cryptography-migration.md)
+- [Formal Verification Of Cryptographic Protocols](./computing/75-formal-verification-of-cryptographic-protocols.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
