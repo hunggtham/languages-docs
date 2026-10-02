@@ -358,4 +358,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Configuration And Progressive Rollout](./computing/112-configuration-and-progressive-rollout.md)
 - [Cryptographic Key Lifecycle And Trust](./computing/113-cryptographic-key-lifecycle-and-trust.md)
 - [Privacy Preserving Analytics](./computing/114-privacy-preserving-analytics.md)
+- [Model Deployment And Evaluation Governance](./computing/115-model-deployment-and-evaluation-governance.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
