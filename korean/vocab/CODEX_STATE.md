@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,693 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-02 housing-affordability checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `03-housing-affordability-and-urban-equity.md`
+- Coverage: 12 advanced-native/news-formal targets for housing-cost burden, public-rental waitlists, residential displacement, vacant-home reuse, 15-minute cities, land-lease housing, rental-to-ownership conversion, rent caps, housing vulnerability, housing-rights protection, land-value capture, and developer public contributions (`주거비 부담률`, `공공임대 대기`, `둥지 내몰림`, `빈집 활용`, `15분 도시`, `토지임대부`, `분양전환`, `임대료 상한`, `주거 취약성`, `주거권 보장`, `개발이익 환수`, `공공기여`).
+- Passage coverage: one coherent 98-eojeol Korean housing-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,705 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-02 regional-medical-access checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
