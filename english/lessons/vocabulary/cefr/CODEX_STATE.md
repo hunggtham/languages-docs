@@ -28,10 +28,10 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
-- C1: 5030 items in 274 topic files; topic-folder numbering resets per folder.
+- C1: 5050 items in 275 topic files; topic-folder numbering resets per folder.
 - C2: 5736 items in 287 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 14211 items (authoritative script count after the latest C1 checkpoint).
+- Total: 14231 items (authoritative script count after the latest C1 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C1`
 
-Next lesson: continue C1 econometrics at local file `61-...`, behavioral-economics at local file `56-...`, game-theory at local file `13-...`, or choose the next coherent C1/C2 topic after completing the media network; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C1 econometrics at local file `61-...`, behavioral-economics at local file `57-...`, game-theory at local file `13-...`, or choose the next coherent C1/C2 topic after completing the media network; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -67,6 +67,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
+- Latest continuation added `c1/behavioral-economics/56-behavioral-aging-caregiving-and-intergenerational-decisions.md` with 20 behavioral-aging, caregiving, and intergenerational-decision items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c1/behavioral-economics/55-behavioral-health-decisions-and-treatment-adherence.md` with 20 behavioral-health-decisions and treatment-adherence items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c1/behavioral-economics/54-behavioral-environmental-stewardship-and-sustainable-habits.md` with 20 behavioral-environmental-stewardship and sustainable-habit items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c1/behavioral-economics/53-behavioral-fiscal-compliance-and-public-value.md` with 20 behavioral-fiscal-compliance and public-value items; the lesson uses one integrated review passage with Vietnamese translation.
