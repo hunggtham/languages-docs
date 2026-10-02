@@ -942,3 +942,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 101-eojeol Korean digital-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,627 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
+## 2026-10-02 regional-medical-access checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `07-regional-medical-access-and-resilience.md`
+- Coverage: 14 advanced-native/news targets for access disparities, regional-care breakdown, delivery-system reform, public value, emergency demand, workforce drain, essential-care compensation, regionally complete care, underserved areas, cost burden, patient-safety culture, dispute mediation, public-care expansion, and resource maldistribution (`의료 접근 격차`, `지역 의료 붕괴`, `의료전달체계 개편`, `의료 공공성`, `응급의료 수요`, `의료 인력 유출`, `필수의료 보상`, `지역 완결형 의료`, `의료 취약지역`, `의료비 부담률`, `환자 안전 문화`, `의료분쟁 조정`, `공공의료 확충`, `의료 자원 편중`).
+- Passage coverage: one coherent 79-eojeol Korean public-health policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,641 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
