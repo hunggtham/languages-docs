@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,750 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-02 texting-relationship checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `06-texting-and-relationship-dynamics.md`
+- Coverage: 10 contemporary-native-hot native-spoken/slang targets for talking stages, push-pull dating behavior, leaving messages on read or delivered, initiating chats, flirting, stringing people along, fandom activity, reply gaps, and loss of contact (`썸 타다`, `밀당하다`, `읽씹하다`, `안읽씹하다`, `선톡하다`, `플러팅하다`, `어장 관리`, `덕질하다`, `답장 텀`, `연락 두절`).
+- Passage coverage: one coherent 103-eojeol Korean relationship-chat passage with all 10 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 10 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,760 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-02 fandom-slang checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
