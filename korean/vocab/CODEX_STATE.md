@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,855 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-03 labor-rights-safety checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `03-labor-rights-and-workplace-safety.md`
+- Coverage: 12 advanced-native/news-formal targets for labor-rights protection, occupational-accident prevention, platform workers, collective-agreement coverage, care leave, living wages, wage arrears, labor safety nets, occupational-disease prevention, labor inspection, worker representation, and workers’ compensation (`노동권 보장`, `산재 예방`, `플랫폼 노동자`, `단체협약 적용률`, `돌봄 휴가`, `생활임금`, `임금 체불`, `노동 안전망`, `직업병 예방`, `노동 감독`, `노동자 대표성`, `산업재해 보상`).
+- Passage coverage: one coherent 91-eojeol Korean labor-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,867 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-03 creator-algorithm checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
