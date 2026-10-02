@@ -330,4 +330,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Multimodal Alignment And Grounding](./computing/84-multimodal-alignment-and-grounding.md)
 - [Causal Representation Learning](./computing/85-causal-representation-learning.md)
 - [Generative Modeling And Diffusion](./computing/86-generative-modeling-and-diffusion.md)
+- [Robotics Perception And Motion Planning](./computing/87-robotics-perception-and-motion-planning.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
