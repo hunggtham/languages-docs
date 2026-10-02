@@ -351,6 +351,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Digital Attention And Platform Design](./behavioral-economics/51-behavioral-digital-attention-and-platform-design.md)
 - [Behavioral Knowledge Sharing And Epistemic Trust](./behavioral-economics/52-behavioral-knowledge-sharing-and-epistemic-trust.md)
 - [Behavioral Fiscal Compliance And Public Value](./behavioral-economics/53-behavioral-fiscal-compliance-and-public-value.md)
+- [Behavioral Environmental Stewardship And Sustainable Habits](./behavioral-economics/54-behavioral-environmental-stewardship-and-sustainable-habits.md)
 
 ## game-theory
 
