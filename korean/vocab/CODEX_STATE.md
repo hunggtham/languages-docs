@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,891 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-03 ethical-governance checkpoint
+
+- Topic: `ethics-and-social-responsibility`
+- File: `02-ethical-governance-and-responsible-business.md`
+- Coverage: 12 advanced-native/news-formal targets for ethical procurement, public-interest whistleblowing, responsible management, supply-chain responsibility, human-rights due diligence, transparent management, stakeholder capitalism, business ethics, compliance management, social responsibility, ethical leadership, and responsible investment (`윤리적 조달`, `공익신고`, `책임 경영`, `공급망 책임`, `인권 실사`, `투명 경영`, `이해관계자 자본주의`, `기업 윤리`, `준법 경영`, `사회적 책임`, `윤리적 리더십`, `책임 투자`).
+- Passage coverage: one coherent 88-eojeol Korean ethics/governance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,903 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-03 mental-health-prevention checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
