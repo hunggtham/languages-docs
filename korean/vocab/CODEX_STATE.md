@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,655 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-02 migration-belonging checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `03-migration-belonging-and-citizenship.md`
+- Coverage: 11 advanced-native/news-formal targets for multicultural coexistence, migrant rights, refugee protection, settlement support, migrant inclusion, citizenship access, transnational families, remittance flows, cultural boundaries, racialization, and discrimination against migrants (`다문화 공존`, `이주민 권리`, `난민 보호`, `정착 지원`, `이주민 포용`, `시민권 접근`, `초국적 가족`, `송금 흐름`, `문화적 경계`, `인종화`, `이주민 차별`).
+- Passage coverage: one coherent 86-eojeol Korean migration and citizenship passage with all 11 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 11 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,681 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-02 climate-accounting checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
