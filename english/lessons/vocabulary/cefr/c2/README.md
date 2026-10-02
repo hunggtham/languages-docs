@@ -355,4 +355,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Event Driven Data Delivery](./computing/109-event-driven-data-delivery.md)
 - [Resource Scheduling And Orchestration](./computing/110-resource-scheduling-and-orchestration.md)
 - [Observability Telemetry And Signal Design](./computing/111-observability-telemetry-and-signal-design.md)
+- [Configuration And Progressive Rollout](./computing/112-configuration-and-progressive-rollout.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
