@@ -364,4 +364,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Distributed Storage Repair And Durability](./computing/118-distributed-storage-repair-and-durability.md)
 - [Network Congestion And Transport Behavior](./computing/119-network-congestion-and-transport-behavior.md)
 - [Distributed Time And Clock Semantics](./computing/120-distributed-time-and-clock-semantics.md)
+- [Query Planning And Index Strategy](./computing/121-query-planning-and-index-strategy.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
