@@ -915,3 +915,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 81-eojeol Korean conflict-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
+## 2026-10-02 organizational-voice checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `04-organizational-voice-and-coordination.md`
+- Coverage: 14 advanced-native/contemporary-workplace targets for silos, delegation, accountability, performance systems, psychological safety, voice, consensus, decision delay, leadership transition, change fatigue, and organizational inertia (`조직 사일로`, `권한 위임`, `책임 소재`, `성과 연동`, `성과주의`, `심리적 안전`, `발언권`, `이견 조정`, `합의 형성`, `의사결정 지연`, `리더십 공백`, `승계 계획`, `변화 피로`, `조직 관성`).
+- Passage coverage: one coherent 91-eojeol Korean workplace passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,601 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.

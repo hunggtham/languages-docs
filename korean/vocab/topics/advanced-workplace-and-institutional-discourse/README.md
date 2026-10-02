@@ -9,3 +9,4 @@
 - [계획을 조정하고 결과를 따져 보기](./01-strategy-and-institutional-progress.md)
 - [의사결정 구조와 조직 회복력](./02-decision-structure-and-organizational-resilience.md)
 - [전략적 판단과 기관의 자율성](./03-strategic-judgment-and-institutional-independence.md) — `부합`, `자주적`, `독자적`, `본질적`, `현명하다`, `확신`, `사심`, `헌신`, `정서적`, `국한`, `앞세우다`, `치닫다`, `파탄`, `은연하다`, `수용적`
+- [조직의 목소리와 조정의 구어](./04-organizational-voice-and-coordination.md) — `조직 사일로`, `권한 위임`, `책임 소재`, `성과 연동`, `성과주의`, `심리적 안전`, `발언권`, `이견 조정`, `합의 형성`, `의사결정 지연`, `리더십 공백`, `승계 계획`, `변화 피로`, `조직 관성`
