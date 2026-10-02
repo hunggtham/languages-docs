@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 10 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,715 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `65` checkpoint.
 
+## 2026-10-02 evidence-to-practice checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `07-evidence-to-practice-and-research-use.md`
+- Coverage: 11 advanced-native/news-formal targets for real-world evidence, evidence synthesis, study registration, clinical endpoints, real-world clinical data, participant representativeness, scientific consensus, policy translation, research data management, data deposition, and research-results disclosure (`실사용근거`, `근거 합성`, `연구 등록`, `임상 종점`, `실제진료데이터`, `연구 참여자 대표성`, `과학적 합의`, `정책 전환`, `연구 데이터 관리`, `데이터 기탁`, `연구 결과 공개`).
+- Passage coverage: one coherent 99-eojeol Korean evidence-use passage with all 11 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 11 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,726 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-02 everyday-reactions checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
