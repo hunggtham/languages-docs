@@ -352,6 +352,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Knowledge Sharing And Epistemic Trust](./behavioral-economics/52-behavioral-knowledge-sharing-and-epistemic-trust.md)
 - [Behavioral Fiscal Compliance And Public Value](./behavioral-economics/53-behavioral-fiscal-compliance-and-public-value.md)
 - [Behavioral Environmental Stewardship And Sustainable Habits](./behavioral-economics/54-behavioral-environmental-stewardship-and-sustainable-habits.md)
+- [Behavioral Health Decisions And Treatment Adherence](./behavioral-economics/55-behavioral-health-decisions-and-treatment-adherence.md)
 
 ## game-theory
 
