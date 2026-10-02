@@ -348,4 +348,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Edge Computing And Serverless Delivery](./computing/102-edge-computing-and-serverless-delivery.md)
 - [GPU Kernel Performance](./computing/103-gpu-kernel-performance.md)
 - [Data Lakehouse And Open Table Formats](./computing/104-data-lakehouse-and-open-table-formats.md)
+- [Data Governance And Privacy Controls](./computing/105-data-governance-and-privacy-controls.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
