@@ -319,6 +319,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Climate Adaptation And Disaster Preparedness](./behavioral-economics/19-behavioral-climate-adaptation-and-disaster-preparedness.md)
 - [Behavioral Energy And Household Resource Choices](./behavioral-economics/20-behavioral-energy-and-household-resource-choices.md)
 - [Behavioral Time, Work, And Recovery](./behavioral-economics/21-behavioral-time-work-and-recovery.md)
+- [Behavioral Migration And Belonging](./behavioral-economics/22-behavioral-migration-and-belonging.md)
 
 ## game-theory
 
