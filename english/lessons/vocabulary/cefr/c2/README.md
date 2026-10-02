@@ -321,4 +321,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Formal Verification Of Cryptographic Protocols](./computing/75-formal-verification-of-cryptographic-protocols.md)
 - [Confidential Computing And Hardware Attestation](./computing/76-confidential-computing-and-hardware-attestation.md)
 - [Verified Compilation And Program Semantics](./computing/77-verified-compilation-and-program-semantics.md)
+- [Zero-Knowledge Proof Systems](./computing/78-zero-knowledge-proof-systems.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
