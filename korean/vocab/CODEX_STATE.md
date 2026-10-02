@@ -1176,3 +1176,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 80-eojeol Korean climate-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,669 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
+## 2026-10-03 contract-performance checkpoint
+
+- Topic: `contracts-and-outsourcing`
+- File: `04-contract-performance-and-remedies.md`
+- Coverage: 12 advanced-native/news-formal targets for liability waivers, force majeure, contractual obligations, defect remediation, delivery delays, acceptance criteria, final settlement, contract renewal, dispute mediation, contract interpretation, breach of contract, and service-level agreements (`면책 조항`, `불가항력`, `계약상 의무`, `하자 보수`, `납기 지연`, `검수 기준`, `대금 정산`, `계약 갱신`, `분쟁 조정`, `계약 해석`, `계약 위반`, `서비스 수준 협약`).
+- Passage coverage: one coherent 94-eojeol Korean contract-performance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,951 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
