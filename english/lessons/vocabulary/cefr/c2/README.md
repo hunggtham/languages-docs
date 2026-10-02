@@ -320,6 +320,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Radiation Hardening And Space Qualification](./semiconductors/36-radiation-hardening-and-space-qualification.md)
 - [Semiconductor Failure Analysis And Microscopy](./semiconductors/37-semiconductor-failure-analysis-and-microscopy.md)
 - [Semiconductor Yield And Test Control](./semiconductors/38-semiconductor-yield-and-test-control.md)
+- [Semiconductor Test Flow And Package Screening](./semiconductors/39-semiconductor-test-flow-and-package-screening.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
