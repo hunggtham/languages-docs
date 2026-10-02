@@ -951,3 +951,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 79-eojeol Korean public-health policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,641 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
+## 2026-10-02 financial-stability checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `05-financial-stability-and-borrower-risk.md`
+- Coverage: 14 advanced-native/news targets for loan deterioration, repayment capacity, credit crunch, lending regulation, interest burden, financial/asset inequality, safety nets, depositor protection, deposit-insurance limits, systemic risk, soft landing, household financial health, and financial soundness (`대출 부실화`, `채무 상환능력`, `신용 경색`, `대출 규제`, `이자 부담`, `금융 불평등`, `자산 양극화`, `금융 안전망`, `예금자 보호`, `예금보험 한도`, `시스템 리스크`, `대출 연착륙`, `가계 재무건전성`, `금융 건전성`).
+- Passage coverage: one coherent 75-eojeol Korean financial-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,655 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
