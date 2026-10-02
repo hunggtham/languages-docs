@@ -413,4 +413,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Edge Delivery And Traffic Steering](./computing/167-edge-delivery-and-traffic-steering.md)
 - [Network Overlay Routing And Validation](./computing/168-network-overlay-routing-and-validation.md)
 - [Network Telemetry And Flow Analysis](./computing/169-network-telemetry-and-flow-analysis.md)
+- [Mobile Network Architecture And Radio Resources](./computing/170-mobile-network-architecture-and-radio-resources.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
