@@ -380,4 +380,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [API Gateway Traffic Management](./computing/134-api-gateway-traffic-management.md)
 - [Service Discovery And Membership](./computing/135-service-discovery-and-membership.md)
 - [Coordination Primitives And Consensus State](./computing/136-coordination-primitives-and-consensus-state.md)
+- [Message Queue Operations](./computing/137-message-queue-operations.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
