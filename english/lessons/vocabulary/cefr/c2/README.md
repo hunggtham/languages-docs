@@ -386,4 +386,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Accelerator Memory And Collective Execution](./computing/140-accelerator-memory-and-collective-execution.md)
 - [Container Runtime And Workload Scheduling](./computing/141-container-runtime-and-workload-scheduling.md)
 - [Change Data Capture And Replication Apply](./computing/142-change-data-capture-and-replication-apply.md)
+- [Security Audit Evidence And Log Integrity](./computing/143-security-audit-evidence-and-log-integrity.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
