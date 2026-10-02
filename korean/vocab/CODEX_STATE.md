@@ -933,3 +933,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 96-eojeol Korean fandom/online passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,615 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with another distinct news-formal or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
+## 2026-10-02 algorithmic-accountability checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `03-algorithmic-accountability-and-user-control.md`
+- Coverage: 12 advanced-native/news targets for data portability, explainability, algorithmic fairness, audit trails, human oversight, risk tiers, system safety, platform accountability, privacy defaults, digital vulnerability/autonomy, and data accessibility (`데이터 휴대권`, `알고리즘 설명가능성`, `알고리즘 공정성`, `감사 추적성`, `인간 감독`, `위험 분류`, `시스템 안전성`, `플랫폼 책임성`, `프라이버시 기본설정`, `디지털 취약성`, `디지털 자율성`, `데이터 접근성`).
+- Passage coverage: one coherent 101-eojeol Korean digital-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,627 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
