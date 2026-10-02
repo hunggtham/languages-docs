@@ -423,4 +423,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Memory Reliability, Reclamation, And Safety](./computing/177-memory-reliability-and-memory-safety.md)
 - [Embedded Device Buses And Signal Integrity](./computing/178-embedded-device-buses-and-signal-integrity.md)
 - [Embedded Time Synchronization And Sampling](./computing/179-embedded-time-synchronization-and-sampling.md)
+- [Embedded Power, Thermal, And Battery Management](./computing/180-embedded-power-thermal-and-battery-management.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
