@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-02 climate-adaptation checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `06-adaptation-metrics-and-climate-disclosure.md`
+- Coverage: 12 advanced-native/news-formal targets for climate-adaptation investment, transition workers, climate insurance, carbon-price signals, climate-disclosure standards, mitigation potential, adaptation outcomes, climate data, disaster vulnerability, ecosystem-based adaptation, carbon border adjustment, and climate-information disclosure (`기후 적응 투자`, `전환 노동자`, `기후 보험`, `탄소 가격 신호`, `기후 공시 기준`, `감축 잠재량`, `적응 성과`, `기후 데이터`, `재해 취약성`, `생태계 기반 적응`, `탄소 국경조정`, `기후 정보 공개`).
+- Passage coverage: one coherent 90-eojeol Korean climate-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,796 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-02 policy-implementation checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
