@@ -897,3 +897,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 98-eojeol Korean policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,559 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a separate current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
+## 2026-10-02 social-safety-net checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `09-social-safety-net-and-reentry.md`
+- Coverage: 14 advanced-native/news targets for employment safety nets, job-search discouragement, involuntary part-time work, vulnerable employment, labor-market re-entry, shocks, resilience, transition support, career interruption, and employment barriers (`고용안전망`, `고용서비스`, `구직 단념자`, `비자발적 시간제`, `워킹푸어`, `취업 취약계층`, `일자리 미스매치`, `노동시장 재진입`, `고용 충격`, `고용 회복력`, `전직 지원`, `전환 수당`, `경력 단절`, `취업 장벽`).
+- Passage coverage: one coherent 94-eojeol Korean labor-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
