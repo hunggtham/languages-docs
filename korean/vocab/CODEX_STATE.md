@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,903 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-03 online-security checkpoint
+
+- Topic: `technology-and-digital-life`
+- File: `02-online-security-and-algorithmic-risk.md`
+- Coverage: 12 advanced-native/news-formal and contemporary digital-life targets for algorithmic bias, online scams, account takeovers, security vulnerabilities, personal-data leaks, cyber hygiene, ransomware attacks, phishing texts, multi-factor authentication, password reuse, data breaches, and online identity theft (`알고리즘 편향`, `온라인 사기`, `계정 탈취`, `보안 취약점`, `개인정보 유출`, `사이버 위생`, `랜섬웨어 공격`, `피싱 문자`, `다중 인증`, `비밀번호 재사용`, `데이터 침해`, `온라인 신원 도용`).
+- Passage coverage: one coherent 86-eojeol Korean digital-security passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,939 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-03 education-equity checkpoint
 
 - Topic: `education-and-lifelong-learning`
