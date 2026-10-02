@@ -860,3 +860,13 @@ Continue with the next coherent topic rather than following source-file order. P
 ## Next candidates
 
 Potential next topics include high-register media and cultural criticism, another current public-policy topic, or a specialized science/economy reporting lane with verified native usage. Choose the first topic that can form a coherent semantic network; do not force unrelated words to reach 15.
+
+## 2026-10-02 goal continuation checkpoint
+
+- Goal: expand the Korean library toward approximately 5,000 valid advanced-native/C2-equivalent or contemporary-native-hot learning items, with explicit `news_formal`, `native_spoken`, and `slang_online` coverage.
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `03-teasing-and-playful-online-reactions.md`
+- Coverage: 16 contemporary-native-hot/advanced-native targets for playful teasing, indirect jabs, fandom reactions, and online slang (`긁다`, `약 올리다`, `뇌절하다`, `억텐`, `웃프다`, `주접 떨다`, `관종`, `안물안궁`, `폼 미쳤다`, `돌려까다`, `과몰입하다`, `노답`, `병맛`, `찐텐`, `훈수 두다`, `이왜진`).
+- Passage coverage: two coherent passages with 8 targets each; each target appears in a natural Korean inflected form and has a Vietnamese translation.
+- Validation: 16 entry metadata comments, Korean-only learner-facing headings, two `target_set` comments, topic README link, duplicate-heading scan, and `git diff --check` passed. The corpus now has 2,515 structured target entries by heading audit before any later deduplication review.
+- Resume: continue from the next coherent news-formal or native-spoken/slang topic; do not regenerate this file unless a concrete audit defect is found.
