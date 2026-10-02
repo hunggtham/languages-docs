@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,843 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-03 digital-rights checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `04-content-transparency-and-user-remedies.md`
+- Coverage: 12 advanced-native/news-formal and contemporary platform-rights targets for content transparency, the right to erasure, automated-decision appeals, biometric-data protection, location-data control, platform neutrality, restrictions on freedom of expression, user redress, data-processing purposes, online tracking, recommendation opt-out rights, and account-suspension appeals (`콘텐츠 투명성`, `데이터 삭제권`, `자동화 이의제기`, `생체정보 보호`, `위치정보 통제`, `플랫폼 중립성`, `표현의 자유 제한`, `이용자 구제`, `데이터 처리 목적`, `온라인 추적`, `추천 거부권`, `계정 정지 이의제기`).
+- Passage coverage: one coherent 104-eojeol Korean digital-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,855 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-03 creator-algorithm checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
