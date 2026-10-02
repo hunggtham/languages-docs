@@ -396,4 +396,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Network Protocol Lifecycle](./computing/150-network-protocol-lifecycle.md)
 - [Resilience, Consistency, And Recovery](./computing/151-resilience-consistency-and-recovery.md)
 - [Analytical Storage And Stream Delivery](./computing/152-analytical-storage-and-stream-delivery.md)
+- [Privacy, Security, And Forensic Operations](./computing/153-privacy-security-and-forensic-operations.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
