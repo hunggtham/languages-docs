@@ -376,4 +376,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Time Series Analytics And Forecasting](./computing/130-time-series-analytics-and-forecasting.md)
 - [Search Retrieval And Ranking](./computing/131-search-retrieval-and-ranking.md)
 - [Graph Data Systems](./computing/132-graph-data-systems.md)
+- [Streaming Windows And State Semantics](./computing/133-streaming-windows-and-state-semantics.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
