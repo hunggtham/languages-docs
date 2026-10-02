@@ -337,6 +337,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Pricing And Consumer Choice](./behavioral-economics/37-behavioral-pricing-and-consumer-choice.md)
 - [Behavioral Patient Care And Health-Service Choice](./behavioral-economics/38-behavioral-patient-care-and-health-service-choice.md)
 - [Behavioral Language Learning And Multilingual Choice](./behavioral-economics/39-behavioral-language-learning-and-multilingual-choice.md)
+- [Behavioral Climate Finance And Policy Choice](./behavioral-economics/40-behavioral-climate-finance-and-policy-choice.md)
 
 ## game-theory
 
