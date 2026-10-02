@@ -316,4 +316,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Advanced Packaging And Heterogeneous Integration](./semiconductors/32-advanced-packaging-and-heterogeneous-integration.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
+- [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
