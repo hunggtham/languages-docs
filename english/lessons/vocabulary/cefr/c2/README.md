@@ -329,4 +329,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Reinforcement Learning And Offline Policy](./computing/83-reinforcement-learning-and-offline-policy.md)
 - [Multimodal Alignment And Grounding](./computing/84-multimodal-alignment-and-grounding.md)
 - [Causal Representation Learning](./computing/85-causal-representation-learning.md)
+- [Generative Modeling And Diffusion](./computing/86-generative-modeling-and-diffusion.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
