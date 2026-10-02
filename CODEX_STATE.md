@@ -24,6 +24,6 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `6,772` / `339`; C2+ `0` / `0`. Total: `15,367` valid learning items, leaving `4,633` to reach the 20,000-item target.
-- The latest checkpoint added `c2/computing/113-cryptographic-key-lifecycle-and-trust.md` with 20 cryptographic key-lifecycle and trust items and one integrated translated review passage.
-- Continue with C2 `computing/114` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
+- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `6,792` / `340`; C2+ `0` / `0`. Total: `15,387` valid learning items, leaving `4,613` to reach the 20,000-item target.
+- The latest checkpoint added `c2/computing/114-privacy-preserving-analytics.md` with 20 privacy-preserving analytics items and one integrated translated review passage.
+- Continue with C2 `computing/115` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.

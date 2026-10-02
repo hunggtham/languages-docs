@@ -357,4 +357,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Observability Telemetry And Signal Design](./computing/111-observability-telemetry-and-signal-design.md)
 - [Configuration And Progressive Rollout](./computing/112-configuration-and-progressive-rollout.md)
 - [Cryptographic Key Lifecycle And Trust](./computing/113-cryptographic-key-lifecycle-and-trust.md)
+- [Privacy Preserving Analytics](./computing/114-privacy-preserving-analytics.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
