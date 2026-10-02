@@ -343,6 +343,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Civic Participation And Elections](./behavioral-economics/43-behavioral-civic-participation-and-elections.md)
 - [Behavioral Science Communication And Public Trust](./behavioral-economics/44-behavioral-science-communication-and-public-trust.md)
 - [Behavioral Science And Institutional Legitimacy](./behavioral-economics/45-behavioral-science-and-institutional-legitimacy.md)
+- [Behavioral Public Services And Administrative Experience](./behavioral-economics/46-behavioral-public-services-and-administrative-experience.md)
 
 ## game-theory
 
