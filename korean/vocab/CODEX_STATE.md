@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,867 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-03 community-resilience checkpoint
+
+- Topic: `social-change-and-belonging`
+- File: `05-community-isolation-and-social-resilience.md`
+- Coverage: 12 advanced-native/news-formal and contemporary social-policy targets for social isolation, relationship rupture, generational conflict, regional extinction/decline, community recovery, participatory democracy, local communities, social vulnerability, digital isolation, local self-government, intergenerational solidarity, and social resilience (`사회적 고립`, `관계 단절`, `세대 갈등`, `지역 소멸`, `공동체 회복`, `참여 민주주의`, `지역 공동체`, `사회적 취약성`, `디지털 고립`, `지역 자치`, `세대 연대`, `사회적 회복력`).
+- Passage coverage: one coherent 85-eojeol Korean social-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,879 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-03 creator-algorithm checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
