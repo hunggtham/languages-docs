@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,831 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-03 mental-health-prevention checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `08-mental-health-and-preventive-care.md`
+- Coverage: 12 advanced-native/news-formal targets for mental-health services, suicide-prevention networks, chronic-disease management, vaccination gaps, health-risk communication, trust in healthcare, treatment gaps, health-behavior interventions, healthcare avoidance, healthcare accessibility, health-recovery support, and care coordination (`정신건강 서비스`, `자살 예방망`, `만성질환 관리`, `예방접종 격차`, `건강 위험 소통`, `의료 신뢰`, `치료 공백`, `건강 행동 개입`, `의료 회피`, `보건의료 접근성`, `건강 회복 지원`, `진료 연계`).
+- Passage coverage: one coherent 89-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,843 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-03 creator-algorithm checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
