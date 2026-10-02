@@ -397,4 +397,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Resilience, Consistency, And Recovery](./computing/151-resilience-consistency-and-recovery.md)
 - [Analytical Storage And Stream Delivery](./computing/152-analytical-storage-and-stream-delivery.md)
 - [Privacy, Security, And Forensic Operations](./computing/153-privacy-security-and-forensic-operations.md)
+- [Testing, Verification, And Failure Analysis](./computing/154-testing-verification-and-failure-analysis.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
