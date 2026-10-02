@@ -392,4 +392,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Runtime Concurrency And Memory Semantics](./computing/146-runtime-concurrency-and-memory-semantics.md)
 - [JIT Optimization And Runtime Representation](./computing/147-jit-optimization-and-runtime-representation.md)
 - [Process Memory And Kernel I/O](./computing/148-process-memory-and-kernel-io.md)
+- [Operating-System I/O And Service Supervision](./computing/149-os-io-and-service-supervision.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
