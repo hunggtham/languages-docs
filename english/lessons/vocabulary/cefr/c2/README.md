@@ -314,4 +314,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Quantum Sensing And Metrology](./computing/71-quantum-sensing-and-metrology.md)
 - [Quantum Machine Learning And Data Encoding](./computing/72-quantum-machine-learning-and-data-encoding.md)
 - [Advanced Packaging And Heterogeneous Integration](./semiconductors/32-advanced-packaging-and-heterogeneous-integration.md)
+- [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
