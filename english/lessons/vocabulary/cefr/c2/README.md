@@ -339,4 +339,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Language Model Inference And Serving](./computing/93-language-model-inference-and-serving.md)
 - [Web Performance And Rendering](./computing/94-web-performance-and-rendering.md)
 - [Web Security And Browser Isolation](./computing/95-web-security-and-browser-isolation.md)
+- [Distributed Consensus And Replication](./computing/96-distributed-consensus-and-replication.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
