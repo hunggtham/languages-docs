@@ -327,4 +327,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Federated Learning Systems](./computing/81-federated-learning-systems.md)
 - [Graph Representation And Geometric Learning](./computing/82-graph-representation-and-geometric-learning.md)
 - [Reinforcement Learning And Offline Policy](./computing/83-reinforcement-learning-and-offline-policy.md)
+- [Multimodal Alignment And Grounding](./computing/84-multimodal-alignment-and-grounding.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
