@@ -390,4 +390,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Compiler Front Ends And Static Analysis](./computing/144-compiler-front-ends-and-static-analysis.md)
 - [Compiled Artifacts And Runtime Linking](./computing/145-compiled-artifacts-and-runtime-linking.md)
 - [Runtime Concurrency And Memory Semantics](./computing/146-runtime-concurrency-and-memory-semantics.md)
+- [JIT Optimization And Runtime Representation](./computing/147-jit-optimization-and-runtime-representation.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
