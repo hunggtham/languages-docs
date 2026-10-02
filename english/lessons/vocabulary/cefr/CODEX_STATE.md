@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 5836 items in 292 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 5856 items in 293 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 14431 items (authoritative script count after the latest C2 checkpoint).
+- Total: 14451 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `71-...`, biomedicine at local file `58-...`, semiconductors at local file `32-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `71-...`, biomedicine at local file `59-...`, semiconductors at local file `32-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -234,6 +234,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/computing/70-quantum-hardware-benchmarking-and-calibration.md` with 20 quantum-hardware-benchmarking and calibration items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/computing/65-distributed-cache-consistency-and-invalidation.md` with 20 distributed-cache-consistency and invalidation items.
 - Latest continuation added `c2/biomedicine/57-neuroimaging-connectivity-and-network-mapping.md` with 20 neuroimaging-connectivity and network-mapping items.
+- Latest continuation added `c2/biomedicine/58-neurodegenerative-biomarkers-and-clinical-endpoints.md` with 20 neurodegenerative-biomarker and clinical-endpoint items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c1/psychology/03-memory-retrieval-and-forgetting.md` with 20 memory-retrieval and forgetting items.
 - Latest continuation added `c1/psychology/04-social-cognition-and-interpersonal-judgment.md` with 20 social-cognition and interpersonal-judgment items.
 - Latest continuation added `c1/psychology/05-social-influence-and-group-decisions.md` with 20 social-influence and group-decision items.
