@@ -359,4 +359,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Cryptographic Key Lifecycle And Trust](./computing/113-cryptographic-key-lifecycle-and-trust.md)
 - [Privacy Preserving Analytics](./computing/114-privacy-preserving-analytics.md)
 - [Model Deployment And Evaluation Governance](./computing/115-model-deployment-and-evaluation-governance.md)
+- [Schema Evolution And Contract Compatibility](./computing/116-schema-evolution-and-contract-compatibility.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
