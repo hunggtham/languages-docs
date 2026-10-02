@@ -341,4 +341,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Web Security And Browser Isolation](./computing/95-web-security-and-browser-isolation.md)
 - [Distributed Consensus And Replication](./computing/96-distributed-consensus-and-replication.md)
 - [Query Optimization And Execution](./computing/97-query-optimization-and-execution.md)
+- [Stream Processing And Time Semantics](./computing/98-stream-processing-and-time-semantics.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
