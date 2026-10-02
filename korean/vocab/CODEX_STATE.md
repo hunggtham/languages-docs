@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,903 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-03 education-equity checkpoint
+
+- Topic: `education-and-lifelong-learning`
+- File: `02-education-equity-and-lifelong-learning.md`
+- Coverage: 12 advanced-native/news-formal and contemporary education targets for education gaps, learning loss, education recovery, the right to lifelong learning, vocational education, competency-based education, learning outcomes, educational accessibility, learning interruptions, digital learning gaps, teacher burnout, and education finance (`교육 격차`, `학습 손실`, `교육 회복`, `평생학습권`, `직업교육`, `역량 기반 교육`, `학습 성과`, `교육 접근성`, `학습 공백`, `디지털 학습 격차`, `교사 소진`, `교육 재정`).
+- Passage coverage: one coherent 92-eojeol Korean education-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,927 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-03 resource-security checkpoint
 
 - Topic: `security-resources-and-conflict`
