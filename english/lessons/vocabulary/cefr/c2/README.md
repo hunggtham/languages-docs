@@ -406,4 +406,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [LLM Serving And Structured Generation](./computing/160-llm-serving-and-structured-generation.md)
 - [Retrieval, Grounding, And Context Engineering](./computing/161-retrieval-grounding-and-context-engineering.md)
 - [AI Evaluation, Safety, And Governance](./computing/162-ai-evaluation-safety-and-governance.md)
+- [Production AI Governance And Accountability](./computing/163-production-ai-governance-and-accountability.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
