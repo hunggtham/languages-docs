@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,903 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-03 resource-security checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `02-resource-security-and-gray-zone-conflict.md`
+- Coverage: 12 advanced-native/news-formal targets for resource security, maritime corridors, strategic minerals, supply-chain blockades, military deterrence, asymmetric threats, gray-zone tactics, private military companies, refugee flows, war-crimes evidence, international investigations, and conflict containment (`자원 안보`, `해상 교통로`, `전략 광물`, `공급망 봉쇄`, `군사적 억지`, `비대칭 위협`, `회색지대 전술`, `민간 군사기업`, `난민 흐름`, `전쟁 범죄 증거`, `국제 조사`, `분쟁 억제`).
+- Passage coverage: one coherent 86-eojeol Korean security/conflict passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,915 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-03 mental-health-prevention checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
