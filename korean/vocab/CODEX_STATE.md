@@ -960,3 +960,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 75-eojeol Korean financial-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,655 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
+## 2026-10-02 climate-accounting checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `05-climate-accounting-and-environmental-implementation.md`
+- Coverage: 14 advanced-native/news targets for carbon sinks, climate neutrality, climate disasters and mobility, ecosystem resilience, natural-capital accounting, biodiversity disclosure, environmental footprints, plastics circularity, waste reduction, circular design, climate budgeting, green procurement, and environmental externalities (`탄소 흡수원`, `기후 중립`, `기후 재난`, `기후 이주`, `생태계 복원력`, `자연 자본 회계`, `생물다양성 공시`, `환경 발자국`, `플라스틱 순환`, `폐기물 감량`, `순환 설계`, `기후 예산제`, `녹색 공공조달`, `환경 외부성`).
+- Passage coverage: one coherent 80-eojeol Korean climate-policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,669 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
