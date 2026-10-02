@@ -401,4 +401,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Release Engineering And Operational Readiness](./computing/155-release-engineering-and-operational-readiness.md)
 - [Observability And Incident Operations](./computing/156-observability-and-incident-operations.md)
 - [Configuration, Experimentation, And Policy Rollout](./computing/157-configuration-experimentation-and-policy-rollout.md)
+- [Backup, Restore, And Disaster Recovery](./computing/158-backup-restore-and-disaster-recovery.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
