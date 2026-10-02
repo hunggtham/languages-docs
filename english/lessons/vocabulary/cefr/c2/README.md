@@ -398,4 +398,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Analytical Storage And Stream Delivery](./computing/152-analytical-storage-and-stream-delivery.md)
 - [Privacy, Security, And Forensic Operations](./computing/153-privacy-security-and-forensic-operations.md)
 - [Testing, Verification, And Failure Analysis](./computing/154-testing-verification-and-failure-analysis.md)
+- [Release Engineering And Operational Readiness](./computing/155-release-engineering-and-operational-readiness.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
