@@ -340,6 +340,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Climate Finance And Policy Choice](./behavioral-economics/40-behavioral-climate-finance-and-policy-choice.md)
 - [Behavioral Child Development And Learning Choice](./behavioral-economics/41-behavioral-child-development-and-learning-choice.md)
 - [Behavioral Work Technology And Automation](./behavioral-economics/42-behavioral-work-technology-and-automation.md)
+- [Behavioral Civic Participation And Elections](./behavioral-economics/43-behavioral-civic-participation-and-elections.md)
 
 ## game-theory
 
