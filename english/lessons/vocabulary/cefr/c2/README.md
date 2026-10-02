@@ -419,4 +419,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Embedded Real-Time And Firmware](./computing/173-embedded-real-time-and-firmware.md)
 - [Embedded Diagnostics, Power, And Fault Containment](./computing/174-embedded-diagnostics-power-and-fault-containment.md)
 - [Secure Firmware, Identity, And Update Trust](./computing/175-secure-firmware-identity-and-update.md)
+- [Hardware Bring-Up, Validation, And Production Diagnostics](./computing/176-hardware-bring-up-test-and-production.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
