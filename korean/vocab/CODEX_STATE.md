@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,601 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-02 long-term-care checkpoint
+
+- Topic: `advanced-health-insurance-and-aging-policy`
+- File: `03-long-term-care-finance-and-aging-equity.md`
+- Coverage: 12 advanced-native/news-formal targets for long-term-care finance, family caregiving burden, aging in place, older-adult medical costs, healthy-life-expectancy gaps, care labor, medical out-of-pocket caps, old-age poverty rates, age-friendly services, dementia-friendly cities, care workforces, and care-worker conditions (`장기요양 재정`, `가족 돌봄 부담`, `지역사회 계속거주`, `노인 의료비`, `건강수명 격차`, `간병 노동`, `의료비 상한`, `노인 빈곤율`, `고령친화 서비스`, `치매 친화 도시`, `돌봄 노동력`, `요양보호사 처우`).
+- Passage coverage: one coherent 87-eojeol Korean aging-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,750 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-02 fandom-slang checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`

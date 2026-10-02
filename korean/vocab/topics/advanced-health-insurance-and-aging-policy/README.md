@@ -8,3 +8,4 @@
 
 - [의료비와 노후 보장의 재설계](./01-health-costs-and-aging-security.md)
 - [통합돌봄과 생애 후반의 보장](./02-integrated-care-and-later-life-security.md)
+- [장기요양 재정과 노후 형평성](./03-long-term-care-finance-and-aging-equity.md) — `장기요양 재정`, `가족 돌봄 부담`, `지역사회 계속거주`, `노인 의료비`, `건강수명 격차`, `간병 노동`, `의료비 상한`, `노인 빈곤율`, `고령친화 서비스`, `치매 친화 도시`, `돌봄 노동력`, `요양보호사 처우`
