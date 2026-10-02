@@ -331,4 +331,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Causal Representation Learning](./computing/85-causal-representation-learning.md)
 - [Generative Modeling And Diffusion](./computing/86-generative-modeling-and-diffusion.md)
 - [Robotics Perception And Motion Planning](./computing/87-robotics-perception-and-motion-planning.md)
+- [Observability And Distributed Tracing](./computing/88-observability-and-distributed-tracing.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
