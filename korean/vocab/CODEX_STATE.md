@@ -870,3 +870,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: two coherent passages with 8 targets each; each target appears in a natural Korean inflected form and has a Vietnamese translation.
 - Validation: 16 entry metadata comments, Korean-only learner-facing headings, two `target_set` comments, topic README link, duplicate-heading scan, and `git diff --check` passed. The corpus now has 2,515 structured target entries by heading audit before any later deduplication review.
 - Resume: continue from the next coherent news-formal or native-spoken/slang topic; do not regenerate this file unless a concrete audit defect is found.
+
+## 2026-10-02 labor-governance checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `08-labor-governance-and-social-dialogue.md`
+- Coverage: 15 new advanced-native news/formal targets for social dialogue, tripartite consultation, collective bargaining, labor disputes, essential services, union structure, workplace rules, and fundamental labor rights (`사회적 대화`, `노사정 협의`, `단체교섭`, `교섭 결렬`, `노동쟁의`, `쟁의행위`, `필수유지업무`, `파업권`, `부당노동행위`, `노조 조직률`, `산별노조`, `복수노조`, `교섭창구 단일화`, `취업규칙`, `노동기본권`).
+- Passage coverage: one coherent 98-eojeol Korean news/policy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,530 structured entries, 0 duplicates), README link, current-law/news usage cross-check, and `git diff --check` passed.
+- Resume: continue with a distinct contemporary news or native-spoken topic; preserve this file as the local `08` checkpoint.
