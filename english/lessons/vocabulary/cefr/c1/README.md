@@ -312,6 +312,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Retirement, Household Finance, And Aging Decisions](./behavioral-economics/12-retirement-household-finance-and-aging-decisions.md)
 - [Organizational Behavior And Management Decisions](./behavioral-economics/13-organizational-behavior-and-management-decisions.md)
 - [Behavioral Evidence And Experiment Design](./behavioral-economics/14-behavioral-evidence-and-experiment-design.md)
+- [Behavioral Law And Institutional Legitimacy](./behavioral-economics/15-behavioral-law-and-institutional-legitimacy.md)
 
 ## game-theory
 
