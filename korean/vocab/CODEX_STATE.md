@@ -879,3 +879,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 98-eojeol Korean news/policy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,530 structured entries, 0 duplicates), README link, current-law/news usage cross-check, and `git diff --check` passed.
 - Resume: continue with a distinct contemporary news or native-spoken topic; preserve this file as the local `08` checkpoint.
+
+## 2026-10-02 interpersonal-signals checkpoint
+
+- Topic: `advanced-interpersonal-nuance`
+- File: `03-directness-and-relational-signals.md`
+- Coverage: 15 contemporary-native-hot/advanced-native targets for direct remarks, indirect boundaries, social exhaustion, flirting, secondhand embarrassment, group dynamics, and public impression (`돌직구`, `뼈를 때리다`, `시치미 떼다`, `내숭 떨다`, `립서비스`, `선 긋다`, `눈치 주다`, `기 빨리다`, `플러팅`, `공감성 수치`, `기싸움`, `친목질`, `취향 저격`, `사바사`, `비호감`).
+- Passage coverage: one coherent 108-eojeol Korean conversation/media passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,545 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with another distinct news-formal or native-spoken/slang topic; preserve this file as local `03` checkpoint.

@@ -8,3 +8,4 @@
 
 - [말투와 반응의 미묘한 차이](./01-subtle-attitudes-and-replies.md)
 - [경계·함의·디지털 응답](./02-boundaries-implicature-and-digital-replies.md)
+- [직설과 관계 신호의 구어 표현](./03-directness-and-relational-signals.md) — `돌직구`, `뼈를 때리다`, `시치미 떼다`, `내숭 떨다`, `립서비스`, `선 긋다`, `눈치 주다`, `기 빨리다`, `플러팅`, `공감성 수치`, `기싸움`, `친목질`, `취향 저격`, `사바사`, `비호감`
