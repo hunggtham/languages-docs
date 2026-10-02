@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,808 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-03 creator-algorithm checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `07-creator-algorithm-and-comment-culture.md`
+- Coverage: 11 contemporary-native-hot slang/online targets for algorithmic reach, viral spread, short-form video, comment sections, group buying, group-buy operations, trending videos, subscriber spikes, view spikes, memeification, and creator hiatuses (`알고리즘 타다`, `바이럴 타다`, `숏폼`, `댓글창`, `공구하다`, `공구 진행`, `인급동`, `구독자 떡상`, `조회수 떡상`, `밈화되다`, `콘텐츠 휴지기`).
+- Passage coverage: one coherent 97-eojeol Korean creator-platform passage with all 11 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 11 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,819 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-02 climate-adaptation checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
