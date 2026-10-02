@@ -347,4 +347,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Offline-First Sync And Reconciliation](./computing/101-offline-first-sync-and-reconciliation.md)
 - [Edge Computing And Serverless Delivery](./computing/102-edge-computing-and-serverless-delivery.md)
 - [GPU Kernel Performance](./computing/103-gpu-kernel-performance.md)
+- [Data Lakehouse And Open Table Formats](./computing/104-data-lakehouse-and-open-table-formats.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
