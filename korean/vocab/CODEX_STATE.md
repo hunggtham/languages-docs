@@ -888,3 +888,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 108-eojeol Korean conversation/media passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,545 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with another distinct news-formal or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
+## 2026-10-02 regulatory-coherence checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `06-regulatory-coherence-and-policy-coordination.md`
+- Coverage: 14 advanced-native news/formal targets for regulatory gaps, coherence, equity, proportionality, flexibility, compliance burden, uncertainty, and cross-government policy coordination (`규제 공백`, `규제 정합성`, `규제 형평성`, `규제 비례성`, `규제 유연화`, `규제 완화`, `규제 비용`, `규제 준수 비용`, `규제 불확실성`, `정책 조정`, `부처 간 조정`, `민관 협력`, `시민참여형 행정`, `정책 피드백`).
+- Passage coverage: one coherent 98-eojeol Korean policy passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,559 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a separate current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
