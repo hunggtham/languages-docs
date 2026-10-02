@@ -346,6 +346,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Public Services And Administrative Experience](./behavioral-economics/46-behavioral-public-services-and-administrative-experience.md)
 - [Behavioral Crisis Response And Collective Resilience](./behavioral-economics/47-behavioral-crisis-response-and-collective-resilience.md)
 - [Behavioral Policy Evaluation And Program Learning](./behavioral-economics/48-behavioral-policy-evaluation-and-program-learning.md)
+- [Behavioral Workplace Wellbeing And Organizational Change](./behavioral-economics/49-behavioral-workplace-wellbeing-and-organizational-change.md)
 
 ## game-theory
 
