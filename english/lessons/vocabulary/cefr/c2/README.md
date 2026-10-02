@@ -346,4 +346,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Software Supply Chain Provenance](./computing/100-software-supply-chain-provenance.md)
 - [Offline-First Sync And Reconciliation](./computing/101-offline-first-sync-and-reconciliation.md)
 - [Edge Computing And Serverless Delivery](./computing/102-edge-computing-and-serverless-delivery.md)
+- [GPU Kernel Performance](./computing/103-gpu-kernel-performance.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
