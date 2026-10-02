@@ -415,4 +415,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Network Telemetry And Flow Analysis](./computing/169-network-telemetry-and-flow-analysis.md)
 - [Mobile Network Architecture And Radio Resources](./computing/170-mobile-network-architecture-and-radio-resources.md)
 - [Satellite Networking And Link Engineering](./computing/171-satellite-networking-and-link-engineering.md)
+- [Robotics Control And Motion Planning](./computing/172-robotics-control-and-motion-planning.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
