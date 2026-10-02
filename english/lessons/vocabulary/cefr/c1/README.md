@@ -315,6 +315,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Law And Institutional Legitimacy](./behavioral-economics/15-behavioral-law-and-institutional-legitimacy.md)
 - [Behavioral Urban Mobility And Public Space](./behavioral-economics/16-behavioral-urban-mobility-and-public-space.md)
 - [Behavioral Digital Platforms And Attention](./behavioral-economics/17-behavioral-digital-platforms-and-attention.md)
+- [Behavioral Food, Health, And Nutrition Choices](./behavioral-economics/18-behavioral-food-health-and-nutrition-choices.md)
 
 ## game-theory
 
