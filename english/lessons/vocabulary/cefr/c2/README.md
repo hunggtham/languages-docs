@@ -388,4 +388,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Change Data Capture And Replication Apply](./computing/142-change-data-capture-and-replication-apply.md)
 - [Security Audit Evidence And Log Integrity](./computing/143-security-audit-evidence-and-log-integrity.md)
 - [Compiler Front Ends And Static Analysis](./computing/144-compiler-front-ends-and-static-analysis.md)
+- [Compiled Artifacts And Runtime Linking](./computing/145-compiled-artifacts-and-runtime-linking.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
