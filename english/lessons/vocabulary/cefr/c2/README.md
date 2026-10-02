@@ -346,6 +346,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Environmental Stability And Optical Noise](./semiconductors/62-environmental-stability-and-optical-noise.md)
 - [Atomic Clock Shifts And Interrogation](./semiconductors/63-atomic-clock-shifts-and-interrogation.md)
 - [Atomic Clock Noise And State Control](./semiconductors/64-atomic-clock-noise-and-state-control.md)
+- [Clock Comparison And Relativistic Geodesy](./semiconductors/65-clock-comparison-and-relativistic-geodesy.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
