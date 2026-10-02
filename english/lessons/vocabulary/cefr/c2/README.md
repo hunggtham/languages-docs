@@ -387,4 +387,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Container Runtime And Workload Scheduling](./computing/141-container-runtime-and-workload-scheduling.md)
 - [Change Data Capture And Replication Apply](./computing/142-change-data-capture-and-replication-apply.md)
 - [Security Audit Evidence And Log Integrity](./computing/143-security-audit-evidence-and-log-integrity.md)
+- [Compiler Front Ends And Static Analysis](./computing/144-compiler-front-ends-and-static-analysis.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
