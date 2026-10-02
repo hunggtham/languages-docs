@@ -336,6 +336,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Power-System Dynamics And Transmission Limits](./semiconductors/52-power-system-dynamics-and-transmission-limits.md)
 - [Photonic Integration And Optical-Link Engineering](./semiconductors/53-photonic-integration-and-optical-link-engineering.md)
 - [Photonic Link Noise And Wavelength Control](./semiconductors/54-photonic-link-noise-and-wavelength-control.md)
+- [Quantum And Nonlinear Photonics](./semiconductors/55-quantum-and-nonlinear-photonics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
