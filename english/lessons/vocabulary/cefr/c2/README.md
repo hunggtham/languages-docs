@@ -344,4 +344,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Stream Processing And Time Semantics](./computing/98-stream-processing-and-time-semantics.md)
 - [Resilient APIs And Service Contracts](./computing/99-resilient-api-and-service-contracts.md)
 - [Software Supply Chain Provenance](./computing/100-software-supply-chain-provenance.md)
+- [Offline-First Sync And Reconciliation](./computing/101-offline-first-sync-and-reconciliation.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
