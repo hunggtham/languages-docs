@@ -385,4 +385,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Document Ingestion And Content Processing](./computing/139-document-ingestion-and-content-processing.md)
 - [Accelerator Memory And Collective Execution](./computing/140-accelerator-memory-and-collective-execution.md)
 - [Container Runtime And Workload Scheduling](./computing/141-container-runtime-and-workload-scheduling.md)
+- [Change Data Capture And Replication Apply](./computing/142-change-data-capture-and-replication-apply.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
