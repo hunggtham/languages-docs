@@ -333,4 +333,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Robotics Perception And Motion Planning](./computing/87-robotics-perception-and-motion-planning.md)
 - [Observability And Distributed Tracing](./computing/88-observability-and-distributed-tracing.md)
 - [Bioinformatics Sequence Analysis](./computing/89-bioinformatics-sequence-analysis.md)
+- [Database Storage Engines And Recovery](./computing/90-database-storage-engines-and-recovery.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
