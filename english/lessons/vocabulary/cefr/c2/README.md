@@ -402,4 +402,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Observability And Incident Operations](./computing/156-observability-and-incident-operations.md)
 - [Configuration, Experimentation, And Policy Rollout](./computing/157-configuration-experimentation-and-policy-rollout.md)
 - [Backup, Restore, And Disaster Recovery](./computing/158-backup-restore-and-disaster-recovery.md)
+- [ML Training And Evaluation Lifecycle](./computing/159-ml-training-and-evaluation-lifecycle.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)

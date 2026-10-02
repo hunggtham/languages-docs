@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 7672 items in 384 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 7692 items in 385 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 16267 items (authoritative script count after the latest C2 checkpoint).
+- Total: 16287 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `159-...`, biomedicine at local file `61-...`, semiconductors at local file `33-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `160-...`, biomedicine at local file `61-...`, semiconductors at local file `33-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -66,6 +66,8 @@ At the beginning of every new run:
 At the end of every checkpoint update current level, last completed lesson, next lesson, actual counts by level, total count, intentional repeated senses, and blockers.
 
 ## Last checkpoint
+
+- Latest continuation added `c2/computing/159-ml-training-and-evaluation-lifecycle.md` with 20 machine-learning training and evaluation items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/computing/158-backup-restore-and-disaster-recovery.md` with 20 backup, restore, and disaster-recovery items; the lesson uses one integrated review passage with Vietnamese translation.
 
