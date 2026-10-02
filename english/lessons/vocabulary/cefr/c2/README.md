@@ -377,4 +377,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Search Retrieval And Ranking](./computing/131-search-retrieval-and-ranking.md)
 - [Graph Data Systems](./computing/132-graph-data-systems.md)
 - [Streaming Windows And State Semantics](./computing/133-streaming-windows-and-state-semantics.md)
+- [API Gateway Traffic Management](./computing/134-api-gateway-traffic-management.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
