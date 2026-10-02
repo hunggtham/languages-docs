@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,808 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-03 workplace-trust checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `05-workplace-trust-and-collaboration.md`
+- Coverage: 12 advanced-native workplace targets for psychological contracts, role ambiguity, burnout recovery, organizational learning, knowledge transfer, collaboration costs, meeting fatigue, upward communication, responsibility avoidance, office politics, performance feedback, and work boundaries (`심리적 계약`, `역할 모호성`, `번아웃 회복`, `조직 학습`, `지식 이전`, `협업 비용`, `회의 피로`, `상향식 소통`, `책임 회피`, `사내 정치`, `성과 피드백`, `업무 경계`).
+- Passage coverage: one coherent 91-eojeol Korean workplace passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,831 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-03 creator-algorithm checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
