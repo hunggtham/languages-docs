@@ -341,6 +341,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Nonlinear Materials And Optical Combs](./semiconductors/57-nonlinear-materials-and-optical-combs.md)
 - [Optical Combs And Ultrafast Metrology](./semiconductors/58-optical-combs-and-ultrafast-metrology.md)
 - [Frequency-Comb Stabilization And Pulse Diagnostics](./semiconductors/59-frequency-comb-stabilization-and-pulse-diagnostics.md)
+- [Frequency-Reference Metrology And Servo Control](./semiconductors/60-frequency-reference-and-pulse-quality.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
