@@ -345,4 +345,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Resilient APIs And Service Contracts](./computing/99-resilient-api-and-service-contracts.md)
 - [Software Supply Chain Provenance](./computing/100-software-supply-chain-provenance.md)
 - [Offline-First Sync And Reconciliation](./computing/101-offline-first-sync-and-reconciliation.md)
+- [Edge Computing And Serverless Delivery](./computing/102-edge-computing-and-serverless-delivery.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
