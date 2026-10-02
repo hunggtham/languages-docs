@@ -403,4 +403,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Configuration, Experimentation, And Policy Rollout](./computing/157-configuration-experimentation-and-policy-rollout.md)
 - [Backup, Restore, And Disaster Recovery](./computing/158-backup-restore-and-disaster-recovery.md)
 - [ML Training And Evaluation Lifecycle](./computing/159-ml-training-and-evaluation-lifecycle.md)
+- [LLM Serving And Structured Generation](./computing/160-llm-serving-and-structured-generation.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
