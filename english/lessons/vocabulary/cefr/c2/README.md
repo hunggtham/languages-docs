@@ -405,4 +405,5 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [ML Training And Evaluation Lifecycle](./computing/159-ml-training-and-evaluation-lifecycle.md)
 - [LLM Serving And Structured Generation](./computing/160-llm-serving-and-structured-generation.md)
 - [Retrieval, Grounding, And Context Engineering](./computing/161-retrieval-grounding-and-context-engineering.md)
+- [AI Evaluation, Safety, And Governance](./computing/162-ai-evaluation-safety-and-governance.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
