@@ -979,6 +979,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,287 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 administrative-integrity checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `10-administrative-procedure-and-integrity.md`
+- Coverage: 12 advanced-native `news_formal` targets for administrative procedures and discretion, regulatory impact and compliance, regulatory capture, policy beneficiaries, complaint processing, administrative services and e-government, public-interest reporting, conflict-of-interest safeguards, and public-service ethics (`행정 절차`, `행정 재량`, `규제 영향분석`, `규제 준수`, `규제 포획`, `정책 수혜자`, `민원 처리`, `행정 서비스`, `전자 행정`, `공익 신고`, `이해충돌 방지`, `공직 윤리`).
+- Passage coverage: one coherent 39-eojeol Korean public-administration passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,299 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
