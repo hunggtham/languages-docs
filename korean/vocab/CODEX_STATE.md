@@ -988,6 +988,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,843 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 operational-governance checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `06-operational-governance-and-response.md`
+- Coverage: 12 advanced-native/news-formal targets for audit trails, compliance monitoring, blame games, risk hedging, emergency response, organizational restructuring, staff redeployment, decision authority, reporting structures, pressing-issue response, follow-up actions, and implementation capacity (`감사 추적`, `준법 감시`, `책임 공방`, `리스크 헤지`, `비상 대응`, `조직 개편`, `인력 재배치`, `의사결정권`, `보고 체계`, `현안 대응`, `후속 조치`, `이행력`).
+- Passage coverage: one coherent 70-eojeol Korean incident-response passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,975 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-03 digital-rights checkpoint
 
 - Topic: `advanced-digital-rights-and-platform-governance`
