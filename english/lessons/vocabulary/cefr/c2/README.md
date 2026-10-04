@@ -398,6 +398,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Formal Hardware Verification And Coverage Evidence](./semiconductors/114-formal-hardware-verification-and-coverage-evidence.md)
 - [Hardware Security And Tamper Resistance](./semiconductors/115-hardware-security-and-tamper-resistance.md)
 - [Scan Test And Design For Test Diagnostics](./semiconductors/116-scan-test-and-design-for-test-diagnostics.md)
+- [Virtual Metrology And Process Health Control](./semiconductors/117-virtual-metrology-and-process-health-control.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
