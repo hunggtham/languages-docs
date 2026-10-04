@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,940 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 workplace-coordination checkpoint
+
+- Topic: `practical-workplace-communication`
+- File: `02-coordination-and-execution.md`
+- Coverage: 12 advanced-native/contemporary-native targets for work coordination, alignment of understanding, work visibility, resource allocation, role clarification, inter-organizational collaboration, presenting alternatives, risk sharing, workflow bottlenecks, implementability, documentation maturity, and approval workflows (`업무 조정`, `이해 조율`, `업무 가시성`, `자원 배분`, `역할 명확화`, `조직 간 협업`, `대안 제시`, `리스크 공유`, `업무 병목`, `실행 가능성`, `문서화 수준`, `승인 절차`).
+- Passage coverage: one coherent 46-eojeol Korean workplace-coordination passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,952 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
