@@ -31,8 +31,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 180 items in 9 topic files; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, and `baking`.
-- Total: 20180 items (authoritative script count after the latest C2+ checkpoint).
+- C2+: 200 items in 10 topic files; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, and `spirits`.
+- Total: 20200 items (authoritative script count after the latest C2+ checkpoint).
 
 ## Current position
 
@@ -120,6 +120,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest C2+ continuation added `c2-plus/book-arts/01-bookbinding-and-manuscript-conservation.md` with 20 book-structure, binding, tooling, and paper-conservation items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/stagecraft/01-theater-stagecraft-and-costume-language.md` with 20 theater lighting, stage machinery, rehearsal, and costume-construction items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/baking/01-bread-and-pastry-fermentation-science.md` with 20 bread fermentation, laminated pastry, proofing, shaping, and filling items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest C2+ continuation added `c2-plus/spirits/01-distilling-and-spirit-maturation.md` with 20 distilling, fraction selection, cask maturation, blending, and bottling items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 

@@ -39,3 +39,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## baking
 
 - [Bread And Pastry Fermentation Science](./baking/01-bread-and-pastry-fermentation-science.md)
+
+## spirits
+
+- [Distilling And Spirit Maturation](./spirits/01-distilling-and-spirit-maturation.md)
