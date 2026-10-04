@@ -1634,3 +1634,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 114-eojeol Korean workplace discourse passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,551 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
+## 2026-10-04 reaction-review-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `15-current-reaction-and-review-slang.md`
+- Coverage: 12 contemporary-native-hot targets for boundary reactions, incredulous questions, dismissive retorts, anger, food praise, support requests, authenticity, bittersweet humor, intense entertainment praise, shock, absurdity, and value-for-money reviews (`선 넘네`, `말이 되냐`, `어쩌라고`, `열받다`, `JMT`, `많관부`, `찐이다`, `웃안웃`, `존잼`, `미쳤네`, `어이없네`, `가성비 갑`).
+- Passage coverage: one coherent 117-eojeol Korean café-review conversation with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,563 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
