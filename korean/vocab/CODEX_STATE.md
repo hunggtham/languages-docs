@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,793 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `17` checkpoint.
 
+## 2026-10-04 social-infrastructure checkpoint
+
+- Topic: `social-change-and-belonging`
+- File: `06-social-infrastructure-and-belonging.md`
+- Coverage: 12 advanced-native/contemporary-native targets for relationship networks, neighbor care, social networks, participation barriers, stronger representation, belonging crises, community resources, regional disparities, generational disconnect, social recovery, diversity management, and minority representation (`관계망`, `이웃 돌봄`, `사회적 연결망`, `참여 장벽`, `대표성 강화`, `소속감 위기`, `공동체 자원`, `지역 격차`, `세대 단절`, `사회적 회복`, `다양성 관리`, `소수자 대표`).
+- Passage coverage: one coherent 67-eojeol Korean social-connection passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,805 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
