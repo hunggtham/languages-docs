@@ -71,3 +71,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## astronomy
 
 - [Observational Astronomy And Detector Language](./astronomy/01-observational-astronomy-and-detector-language.md)
+
+## geology
+
+- [Advanced Petrography And Tectonic Evidence](./geology/01-advanced-petrography-and-tectonic-evidence.md)
