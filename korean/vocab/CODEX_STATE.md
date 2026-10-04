@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,083 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 health-inequality checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `09-health-inequality-and-system-capacity.md`
+- Coverage: 12 advanced-native/news-formal targets for health inequalities, social determinants, disease burden, excess mortality, life-expectancy gaps, healthcare demand and supply, healthcare workforce shortages, essential medicines, medicines access, evidence-based medicine, and health impact assessment (`건강 불평등`, `사회적 결정요인`, `질병 부담`, `초과 사망`, `기대수명 격차`, `의료 수요`, `의료 공급`, `의료 인력 부족`, `필수의약품`, `의약품 접근성`, `근거 기반 의료`, `건강 영향평가`).
+- Passage coverage: one coherent 46-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,095 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 public-accountability checkpoint
 
 - Topic: `public-affairs-and-accountability`
