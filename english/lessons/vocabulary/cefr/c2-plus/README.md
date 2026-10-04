@@ -15,3 +15,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## textiles
 
 - [Textile Weaving Dyeing And Finishing](./textiles/01-textile-weaving-dyeing-and-finishing.md)
+
+## horticulture
+
+- [Advanced Plant Propagation And Growth](./horticulture/01-advanced-plant-propagation-and-growth.md)
