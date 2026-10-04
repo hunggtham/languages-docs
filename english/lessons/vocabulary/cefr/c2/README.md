@@ -468,6 +468,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Weather And Climate Observation Robotics](./semiconductors/184-weather-and-climate-observation-robotics.md)
 - [Laboratory Automation And Scientific Sample Robotics](./semiconductors/185-laboratory-automation-and-scientific-sample-robotics.md)
 - [Construction And Structural Inspection Robotics](./semiconductors/186-construction-and-structural-inspection-robotics.md)
+- [Mining And Mineral Processing Robotics](./semiconductors/187-mining-and-mineral-processing-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
