@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,014 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-04 food-shocks checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `08-food-shocks-and-rural-livelihoods.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for agricultural production costs, instability in agricultural supply and demand, food-supply shocks, grain-import routes, agricultural climate risk, worsening farm finances, food inflation, reserve stock, food deserts, rural hollowing-out, agricultural disasters, and agricultural price stabilization (`농업 생산비`, `농산물 수급 불안`, `식량 공급 충격`, `곡물 수입선`, `농업 기후 위험`, `농가 경영 악화`, `식품 인플레이션`, `비축 물량`, `먹거리 사막`, `농촌 공동화`, `농업 재해`, `농산물 가격 안정`).
+- Passage coverage: one coherent 45-eojeol Korean food-security passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,206 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 migration-reception checkpoint
 
 - Topic: `advanced-cultural-identity-and-migration`
