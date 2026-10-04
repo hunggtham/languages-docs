@@ -1114,6 +1114,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,467 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 urban-transport checkpoint
+
+- Topic: `advanced-mobility-and-transport-policy`
+- File: `05-urban-transport-safety-and-rail.md`
+- Coverage: 12 advanced-native `news_formal` targets for congestion and transport demand, infrastructure and road safety, traffic crashes and pedestrian safety, cycling infrastructure, modal shift to public transit, rail transport, metropolitan and urban rail, and transport-disadvantaged people (`교통 혼잡`, `교통 수요`, `교통 인프라`, `도로 안전`, `교통사고`, `보행 안전`, `자전거 인프라`, `대중교통 전환`, `철도 교통`, `광역 철도`, `도시철도`, `교통 약자`).
+- Passage coverage: one coherent 33-eojeol Korean transport-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,479 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
