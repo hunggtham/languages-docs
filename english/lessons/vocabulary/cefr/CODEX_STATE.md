@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 11012 items in 551 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 11032 items in 552 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 19607 items (authoritative script count after the latest C2 checkpoint).
+- Total: 19627 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `177-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `178-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -89,6 +89,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/semiconductors/174-offshore-renewable-and-marine-infrastructure-robotics.md` with 20 offshore wind, subsea cable, floating platform, marine turbine, foundation, coastal, sensor, safety, and decommissioning items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/175-nuclear-facility-and-radiation-safe-robotics.md` with 20 nuclear-facility inspection, reactor, radiation-mapping, fuel-handling, decontamination, emergency, waste, decommissioning, and security items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/176-launch-and-spaceport-operations-robotics.md` with 20 launch-pad, rocket-engine, cryogenic, payload, cleanroom, range-safety, mission-control, reentry, and spaceport-fire items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest continuation added `c2/semiconductors/177-medical-device-manufacturing-and-reprocessing-robotics.md` with 20 medical-device assembly, catheter, stent, implant, sterile-processing, prosthetic, diagnostic, usability, biocompatibility, and traceability items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 
