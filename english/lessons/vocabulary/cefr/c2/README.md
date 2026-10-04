@@ -413,6 +413,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Robotic Active Perception And Scene Understanding](./semiconductors/129-robotic-active-perception-and-scene-understanding.md)
 - [Robot Language Grounding And Instruction Following](./semiconductors/130-robot-language-grounding-and-instruction-following.md)
 - [Robot Real-Time Hardware And Control Architecture](./semiconductors/131-robot-real-time-hardware-and-control-architecture.md)
+- [Robot Energy And Thermal-Aware Planning](./semiconductors/132-robot-energy-and-thermal-aware-planning.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
