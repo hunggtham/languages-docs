@@ -1074,7 +1074,7 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `slang-and-pragmatic-spoken-korean`
 - File: `21-lifestyle-and-fandom-hot-slang.md`
 - Coverage: 14 contemporary-native-hot targets for casual work, spending, fashion, fandom, finance memes, and online boundaries across `native_spoken` and `slang_online` lanes (`퇴근런`, `무지출 챌린지`, `얼죽코`, `디토하다`, `숨듣명`, `최애곡`, `팬아저`, `입덕부정기`, `영끌족`, `주린이`, `현생 복귀`, `댓글 폭주`, `밈화하다`, `방지선`).
-- Passage coverage: one coherent 62-eojeol Korean casual-chat passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Passage coverage: one coherent 63-eojeol Korean casual-chat passage with all 14 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `21` checkpoint.
 
