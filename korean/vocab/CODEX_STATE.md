@@ -1024,6 +1024,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,074 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `19` checkpoint.
 
+## 2026-10-04 crisis-signals checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `05-crisis-signals-and-postwar-recovery.md`
+- Coverage: 12 advanced-native/news-formal targets for military options, tactical nuclear deployment, shows of force, military-conflict risk, border tensions, postwar recovery, international isolation, alliance realignment, rising military tensions, widening fronts, conventional forces, and conflict parties (`군사적 옵션`, `전술핵 배치`, `무력 시위`, `군사 충돌 위험`, `국경 긴장`, `전후 복구`, `국제적 고립`, `동맹 재편`, `군사적 긴장 고조`, `전선 확대`, `재래식 전력`, `분쟁 당사국`).
+- Passage coverage: one coherent 58-eojeol Korean security-and-reconstruction passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,086 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 technology-validation checkpoint
 
 - Topic: `advanced-science-and-technology-reporting`
