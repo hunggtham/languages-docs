@@ -402,6 +402,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Process Analytics And Adaptive Model Monitoring](./semiconductors/118-process-analytics-and-adaptive-model-monitoring.md)
 - [Edge AI Accelerator Mapping And Quantization](./semiconductors/119-edge-ai-accelerator-mapping-and-quantization.md)
 - [Robotics Sensing And Motion Planning Hardware](./semiconductors/120-robotics-sensing-and-motion-planning-hardware.md)
+- [Robotic Contact Control And Constrained Planning](./semiconductors/121-robotic-contact-control-and-constrained-planning.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
