@@ -997,6 +997,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,311 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-04 health-equity checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `10-health-equity-and-infectious-disease-capacity.md`
+- Coverage: 12 advanced-native `news_formal` targets for health equity and disparities, preventable mortality, health determinants, emergency care, public hospitals, the healthcare workforce and financing, vaccination coverage, infectious-disease surveillance, pathogen surveillance, and epidemiological investigations (`의료 형평성`, `건강 격차`, `예방 가능 사망`, `건강 결정요인`, `응급의료`, `공공병원`, `의료 인력`, `보건의료 재정`, `백신 접종률`, `감염병 감시`, `병원체 감시`, `역학 조사`).
+- Passage coverage: one coherent 35-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,323 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
