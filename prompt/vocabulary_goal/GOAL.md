@@ -8,7 +8,7 @@ Continuously expand the English CEFR vocabulary corpus in this order:
 
 `A1 → A2 → B1 → B2 → C1 → C2 → C2+`
 
-Continue until the repository contains **20,000 valid learning items**, Codex/runtime limits prevent further execution, or a genuine blocker requires human input. Do not stop after a CEFR level, lesson, batch, restructuring, or checkpoint.
+Continue until the repository contains **30,000 valid learning items**, Codex/runtime limits prevent further execution, or a genuine blocker requires human input. The existing 20,000-item corpus is a verified continuation checkpoint, not completion. Do not stop after a CEFR level, lesson, batch, restructuring, or checkpoint.
 
 Quality, useful learner coverage, natural contemporary American English, CEFR suitability, and deduplication take priority over mechanical counting.
 
@@ -54,4 +54,4 @@ Follow the approved repository entry order:
 8. Commit only the relevant vocabulary changes as a durable checkpoint.
 9. Continue automatically from the next unfinished topic or folder-local sequence.
 
-Never mark the goal complete at A1, A2, B1, B2, C1, C2, after a restructuring, or after a batch. Completion means reaching 20,000 valid learning items.
+Never mark the goal complete at A1, A2, B1, B2, C1, C2, after a restructuring, or after a batch. Completion means reaching 30,000 valid learning items.

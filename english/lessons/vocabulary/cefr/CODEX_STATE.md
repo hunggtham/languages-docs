@@ -7,7 +7,8 @@ This file is the durable handoff for the CEFR vocabulary corpus. Repository cont
 Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical format in this directory.
 
 - First milestone: 10,000 unique learning items
-- Expansion target: 20,000 unique learning items
+- Verified checkpoint: 20,000 unique learning items
+- Expansion target: 30,000 unique learning items
 - Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `/prompt/vocabulary_goal/GOAL.md`.
 - Every headword must be reused naturally in a review context.
 - Target integration branch: `feat/vocabulary-learning`
@@ -30,16 +31,16 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 0 items.
-- Total: 20000 items (authoritative script count after the latest C2 checkpoint).
+- C2+: 20 items in 1 topic file; expansion is active in `food-and-wine`.
+- Total: 20020 items (authoritative script count after the first C2+ checkpoint).
 
 ## Current position
 
-Status: `TARGET_REACHED`
+Status: `READY_FOR_30K`
 
-Current level: `C2`
+Current level: `C2+`
 
-Next lesson: no further lesson is required for the 20,000-item target; C2+ remains an optional future refinement. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2+ with the next coherent topic (or `food-and-wine/02-...` when the next lesson naturally extends that network). The 20,000-item count is a verified checkpoint; continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -109,6 +110,8 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/semiconductors/194-music-instrument-and-studio-service-robotics.md` with 20 musical-instrument inspection, tuning, repair, digitization, transport, audio calibration, studio, orchestra, archive, humidity, and restoration items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/195-home-appliance-and-domestic-service-robotics.md` with 20 appliance diagnosis, repair, calibration, energy, accessibility, security, and recycling items; the lesson uses one integrated review passage with Vietnamese translation.
 - Final target checkpoint added `c2/semiconductors/196-aquarium-and-aquatic-conservation-robotics.md` with 13 aquarium operations, aquatic education, animal-care, visitor-flow, and coral-restoration items; the lesson uses one integrated review passage with Vietnamese translation and brings the corpus to exactly 20,000 items.
+- New continuation contract raises the verified corpus target from 20,000 to 30,000 items and starts the C2+ expansion from the next coherent topic folder.
+- First C2+ continuation added `c2-plus/food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md` with 20 advanced wine-production and sensory-evaluation items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 

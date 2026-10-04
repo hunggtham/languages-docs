@@ -70,7 +70,8 @@ def main() -> None:
             print(f"{level.upper():5} lessons=   0 items=     0 next=01")
     print(f"TOTAL lessons={total_lessons} items={total_items}")
     print(f"TARGET 10k={'complete' if total_items >= 10_000 else f'{10_000 - total_items} remaining'}")
-    print(f"TARGET 20k={'complete' if total_items >= 20_000 else f'{20_000 - total_items} remaining'}")
+    print(f"CHECKPOINT 20k={'complete' if total_items >= 20_000 else f'{20_000 - total_items} remaining'}")
+    print(f"TARGET 30k={'complete' if total_items >= 30_000 else f'{30_000 - total_items} remaining'}")
 
 
 if __name__ == "__main__":

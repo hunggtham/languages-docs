@@ -11,7 +11,8 @@ cefr/
 ├── b1/
 ├── b2/
 ├── c1/
-└── c2/
+├── c2/
+└── c2-plus/
 ```
 
 Các bài mới có thể nằm trong thư mục con theo mạng chủ đề (ví dụ `a2/city/`, `a2/home/`, `a2/food/` và `a2/outdoors/`). Số ở đầu tên file được đánh lại độc lập trong từng folder chủ đề; công cụ tiến độ quét đệ quy theo từng folder.
