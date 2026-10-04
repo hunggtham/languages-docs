@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,964 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `18` checkpoint.
 
+## 2026-10-04 crisis-deterrence checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `04-crisis-deterrence-and-defense-posture.md`
+- Coverage: 12 advanced-native targets for crisis deterrence, preventing escalation, nuclear umbrellas, military hotlines, air-defense networks, security vacuums, strategic autonomy, defense-industrial cooperation, maritime disputes, conflict spillover, war deterrent capability, and military readiness postures (`위기 억제`, `확전 방지`, `핵우산`, `군사 핫라인`, `방공망`, `안보 공백`, `전략적 자율성`, `방산 협력`, `해양 분쟁`, `분쟁 확산`, `전쟁 억지력`, `군사 대비 태세`).
+- Passage coverage: one coherent 52-eojeol Korean crisis-and-deterrence passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,976 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
