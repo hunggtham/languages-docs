@@ -9,3 +9,4 @@
 - [교육 격차와 인구 전환](./01-education-gaps-and-demographic-transition.md)
 - [인구 구조와 돌봄경제](./02-demographic-structure-and-care-economy.md)
 - [학습 격차와 인구 이동의 정책 언어](./03-learning-gaps-and-population-mobility.md) — `학습 격차`, `교육 기회`, `돌봄 부담`, `인구 절벽`, `학령인구 감소`, `고령 인구`, `지방 소멸`, `청년 유출`, `인구 유입`, `정주 여건`, `저출생 대응`, `교원 수급`
+- [교육 비용·학교 제도·인구 압력](./04-education-costs-and-population-pressure.md) — `교육비 부담`, `대학 서열`, `고등교육`, `평생교육`, `교육 복지`, `돌봄 교육`, `유아 교육`, `학급 과밀`, `교육 과정 개편`, `입시 제도`, `대학 입학`, `인구 감소`

@@ -1123,6 +1123,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,479 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 education-population checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `04-education-costs-and-population-pressure.md`
+- Coverage: 12 advanced-native `news_formal` targets for education-cost burden, university stratification and higher education, lifelong learning, education welfare, care-based and early-childhood education, classroom overcrowding, curriculum reform, admissions systems and university admission, and population decline (`교육비 부담`, `대학 서열`, `고등교육`, `평생교육`, `교육 복지`, `돌봄 교육`, `유아 교육`, `학급 과밀`, `교육 과정 개편`, `입시 제도`, `대학 입학`, `인구 감소`).
+- Passage coverage: one coherent 36-eojeol Korean education-demography passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,491 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
