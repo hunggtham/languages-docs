@@ -1060,6 +1060,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,395 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 climate-governance checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `08-climate-governance-and-biodiversity-risk.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for climate governance and public finance, climate finance, carbon pricing and emissions trading, climate and climate-risk disclosure, green taxonomies, biodiversity loss, environmental inequality, resource circularity, and ocean acidification (`기후 거버넌스`, `기후 재정`, `기후 금융`, `탄소 가격`, `배출권 거래`, `기후 공시`, `기후 리스크 공시`, `녹색 분류체계`, `생물다양성 손실`, `환경 불평등`, `자원 순환`, `해양 산성화`).
+- Passage coverage: one coherent 37-eojeol Korean climate-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,407 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
