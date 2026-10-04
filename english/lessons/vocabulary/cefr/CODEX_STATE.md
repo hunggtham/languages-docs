@@ -31,7 +31,7 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 10372 items in 519 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 18987 items (authoritative script count after the latest C2 checkpoint).
+- Total: 18967 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
