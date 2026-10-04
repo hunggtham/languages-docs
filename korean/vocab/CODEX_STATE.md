@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,243 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 workplace-coordination checkpoint
+
+- Topic: `practical-workplace-communication`
+- File: `03-decision-coordination-and-handoff.md`
+- Coverage: 12 advanced-native/news-formal and native-spoken targets for decision-makers, working-level consultations, prior coordination, schedule adjustments, result sharing, meeting-minutes drafting, incorporating feedback, internal communication, work reallocation, execution schedules, collaboration structures, and work handovers (`의사결정권자`, `실무 협의`, `사전 조율`, `일정 재조정`, `성과 공유`, `회의록 작성`, `피드백 반영`, `조직 내 소통`, `업무 재배치`, `실행 일정`, `협업 구조`, `업무 인계`).
+- Passage coverage: one coherent 41-eojeol Korean workplace-coordination passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,255 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 education-governance checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
