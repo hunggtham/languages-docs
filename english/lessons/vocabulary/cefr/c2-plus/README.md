@@ -119,3 +119,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## atmospheric-science
 
 - [Atmospheric Chemistry And Dynamics](./atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
+
+## hydrology
+
+- [Surface Water And Groundwater Processes](./hydrology/01-surface-water-and-groundwater-processes.md)
