@@ -979,6 +979,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 workplace-coordination checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `07-meetings-handover-and-coordination.md`
+- Coverage: 12 advanced-native/news-formal or native-spoken workplace targets for meeting agendas and minutes, convening and chairing meetings, task allocation and handover, work priorities and reprioritization, work coordination, authority conflicts, approval delays, and organizational silence (`회의 안건`, `회의록`, `회의 소집`, `회의를 주재하다`, `업무 분장`, `업무 인수인계`, `업무 우선순위`, `우선순위 조정`, `업무 조율`, `권한 충돌`, `결재 지연`, `조직 침묵`).
+- Passage coverage: one coherent 67-eojeol Korean workplace-coordination passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,191 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 policy-evaluation checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
