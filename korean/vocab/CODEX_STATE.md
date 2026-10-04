@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,999 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 civil-remedies checkpoint
+
+- Topic: `advanced-legal-procedure-and-judicial-accountability`
+- File: `04-civil-remedies-and-access.md`
+- Coverage: 12 advanced-native/news-formal targets for procedural requirements, plaintiff standing, requested relief and causes of action, provisional injunctions, preservation orders, compulsory enforcement, final judgments, retrial grounds, legal aid, burdens of proof, and appeal/challenge procedures (`소송 요건`, `원고 적격`, `청구 취지`, `청구 원인`, `가처분 신청`, `보전 처분`, `강제 집행`, `판결 확정`, `재심 사유`, `법률구조`, `입증 책임`, `불복 절차`).
+- Passage coverage: one coherent 67-eojeol Korean civil-procedure passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,011 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-03 diplomatic-signals checkpoint
 
 - Topic: `high-register-law-and-diplomacy`

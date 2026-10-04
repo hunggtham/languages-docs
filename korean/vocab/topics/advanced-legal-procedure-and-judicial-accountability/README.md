@@ -9,3 +9,4 @@
 - [헌법 통제와 형사 절차](./01-constitutional-review-and-criminal-procedure.md)
 - [증거·방어권·사법 접근](./02-evidence-defense-and-access-to-justice.md)
 - [구금과 제도적 통제](./03-confinement-and-institutional-control.md)
+- [민사 구제와 재판 접근의 절차어](./04-civil-remedies-and-access.md) — `소송 요건`, `원고 적격`, `청구 취지`, `청구 원인`, `가처분 신청`, `보전 처분`, `강제 집행`, `판결 확정`, `재심 사유`, `법률구조`, `입증 책임`, `불복 절차`
