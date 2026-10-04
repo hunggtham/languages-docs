@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,014 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-04 migration-reception checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `07-migration-reception-and-inclusion.md`
+- Coverage: 12 advanced-native/contemporary-native targets for migrant acceptance, migrants' political participation rights, border crossings, asylum procedures, multicultural conflict, settlement services, migration data, migrant-sending countries, migration impacts, intercultural mediation, migrant self-reliance, and social-integration indicators (`이주 수용성`, `이주민 참정권`, `국경 통과`, `망명 절차`, `다문화 갈등`, `정착 서비스`, `이주 데이터`, `이민 송출국`, `이주 영향`, `문화 간 중재`, `이주민 자립`, `사회통합 지표`).
+- Passage coverage: one coherent 44-eojeol Korean migration-integration passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,026 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 workplace-coordination checkpoint
 
 - Topic: `practical-workplace-communication`
