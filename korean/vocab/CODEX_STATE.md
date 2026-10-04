@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,335 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 urban-climate-housing checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `05-urban-climate-and-housing-market.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for urban decline, metropolitan transport, urban heat islands, climate-adaptive cities, green infrastructure and urban forests, public rental housing, housing stability, tenancy disputes, housing supply, real-estate project finance, and unsold homes (`도시 쇠퇴`, `광역 교통`, `도시 열섬`, `기후 적응 도시`, `녹색 인프라`, `도시 숲`, `공공 임대주택`, `주거 안정`, `임대차 분쟁`, `주택 공급`, `부동산 PF`, `미분양 주택`).
+- Passage coverage: one coherent 39-eojeol Korean urban-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,347 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
