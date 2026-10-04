@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 current-chat-memes checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `19-current-chat-memes-and-playful-teasing.md`
+- Coverage: 12 contemporary-native-hot targets for sudden emotional escalation, holding back laughter, blunt nonsense, rootless combinations, frank opinions, stubborn showdowns, withholding comments, real-life laughter, mutual-follow greetings, emphatic agreement, exaggerated emotional reactions, and social-media mutual follows (`급발진하다`, `웃참`, `쌉소리`, `무근본`, `솔까말`, `자강두천`, `할많하않`, `현웃`, `만반잘부`, `쌉인정`, `개큰감동`, `맞팔`).
+- Passage coverage: one coherent 56-eojeol Korean chat-and-meme passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,074 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `19` checkpoint.
+
 ## 2026-10-04 technology-validation checkpoint
 
 - Topic: `advanced-science-and-technology-reporting`
