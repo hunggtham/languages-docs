@@ -131,3 +131,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## glaciology
 
 - [Glacial Processes And Landforms](./glaciology/01-glacial-processes-and-landforms.md)
+
+## plant-physiology
+
+- [Advanced Plant Physiology And Signaling](./plant-physiology/01-advanced-plant-physiology-and-signaling.md)
