@@ -1024,6 +1024,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,611 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 productivity-wages checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `11-productivity-wages-and-employment-cycles.md`
+- Coverage: 12 advanced-native targets for productivity slowdowns, wage stagnation, real wages, employment elasticity, labor-market segmentation, non-regular worker shares, labor supply, staffing shortages, youth unemployment, long-term unemployment, economic resilience, and leading economic indicators (`생산성 둔화`, `임금 정체`, `실질 임금`, `고용 탄력성`, `노동시장 분절`, `비정규직 비중`, `노동 공급`, `인력난`, `청년 실업`, `장기 실업`, `경제 회복력`, `경기 선행지표`).
+- Passage coverage: one coherent 108-eojeol Korean macro-labor passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,623 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
