@@ -27,3 +27,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## woodworking
 
 - [Advanced Joinery And Lumber Behavior](./woodworking/01-advanced-joinery-and-lumber-behavior.md)
+
+## book-arts
+
+- [Bookbinding And Manuscript Conservation](./book-arts/01-bookbinding-and-manuscript-conservation.md)
