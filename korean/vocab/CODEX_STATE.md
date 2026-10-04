@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,940 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 administrative-remedies checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `12-administrative-remedies-and-procedure.md`
+- Coverage: 12 advanced-native/contemporary-native targets for administrative litigation, grounds for administrative decisions, hearing procedures, official notifications, regulatory testing zones, statutory interpretation, administrative remedies, legitimate-expectations protection, performance of public duties, administrative information, rights redress, and regulatory piloting (`행정 소송`, `처분 사유`, `청문 절차`, `행정 통지`, `규제 실험구역`, `법령 해석`, `행정 구제`, `신뢰 보호`, `공무 수행`, `행정 정보`, `권리 구제`, `규제 실증`).
+- Passage coverage: one coherent 46-eojeol Korean administrative-remedies passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,014 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-04 workplace-coordination checkpoint
 
 - Topic: `practical-workplace-communication`
