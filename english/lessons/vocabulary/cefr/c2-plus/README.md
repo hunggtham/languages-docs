@@ -99,3 +99,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## archaeobotany
 
 - [Archaeobotany And Zooarchaeology Evidence](./archaeobotany/01-archaeobotany-and-zooarchaeology-evidence.md)
+
+## ecological-restoration
+
+- [Restoration And Population Dynamics](./ecological-restoration/01-restoration-and-population-dynamics.md)
