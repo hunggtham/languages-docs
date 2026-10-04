@@ -1069,6 +1069,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,407 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 employment-flexibility checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `05-employment-flexibility-and-workplace-protection.md`
+- Coverage: 12 advanced-native `news_formal` targets for employment forms and occupational stability, employment safety nets and unemployment assistance, vocational training and skills transition, freelance work, working-time flexibility, flexible work arrangements, work–life balance, unfair dismissal, and occupational safety and health (`고용 형태`, `직업 안정성`, `고용 안전망`, `실업 부조`, `직업 훈련`, `숙련 전환`, `프리랜서 노동`, `근로시간 유연화`, `유연근무제`, `일·생활 균형`, `부당 해고`, `산업안전보건`).
+- Passage coverage: one coherent 33-eojeol Korean labor-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,419 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
