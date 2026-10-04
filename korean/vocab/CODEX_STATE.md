@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,987 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 public-accountability checkpoint
+
+- Topic: `public-affairs-and-accountability`
+- File: `02-investigation-and-public-remedy.md`
+- Coverage: 12 advanced-native/news-formal targets for public responsibility and accountability, responsible parties, truth-finding, victim redress, recurrence prevention, factual circumstances, accounts of events, audit findings, corrective recommendations, management oversight, and corrective orders (`공적 책임`, `책임성`, `책임 주체`, `진상 규명`, `피해 구제`, `재발 방지`, `사실관계`, `경위 설명`, `감사 결과`, `개선 권고`, `관리 감독`, `시정 명령`).
+- Passage coverage: one coherent 57-eojeol Korean investigation-and-remedy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,999 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-03 diplomatic-signals checkpoint
 
 - Topic: `high-register-law-and-diplomacy`

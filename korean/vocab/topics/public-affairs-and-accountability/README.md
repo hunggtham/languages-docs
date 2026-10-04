@@ -11,5 +11,6 @@ source_policy: reference material only; explanations, examples, and passages are
 ## 학습 파일
 
 - [정책을 직시하고 책임을 세우다](./01-policy-and-responsibility.md) — `억압`, `불의`, `정의롭다`, `언행`, `직시하다`, `은폐`, `채택`, `지침`, `국한하다`, `승계`, `법인`, `공조`, `안보`, `순방하다`, `강령`
+- [진상 조사와 공적 구제](./02-investigation-and-public-remedy.md) — `공적 책임`, `책임성`, `책임 주체`, `진상 규명`, `피해 구제`, `재발 방지`, `사실관계`, `경위 설명`, `감사 결과`, `개선 권고`, `관리 감독`, `시정 명령`
 
 각 파일의 읽기 지문은 최대 15개 target headword를 다루며, 모든 target은 자연스러운 변형을 포함해 지문 안에서 확인할 수 있어야 한다.
