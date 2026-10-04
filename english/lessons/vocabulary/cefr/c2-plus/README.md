@@ -59,3 +59,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## blacksmithing
 
 - [Forging And Steel Heat Treatment](./blacksmithing/01-forging-and-steel-heat-treatment.md)
+
+## perfumery
+
+- [Perfumery And Olfactory Language](./perfumery/01-perfumery-and-olfactory-language.md)
