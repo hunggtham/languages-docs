@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,889 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 housing-policy checkpoint
+
+- Topic: `housing-and-neighborhood-life`
+- File: `02-housing-policy-and-rental-protection.md`
+- Coverage: 15 advanced-native targets for public rentals, management-fee transparency, housing vouchers, public-sale housing, vacant-home remediation, redevelopment districts, relocation measures, housing finance, housing welfare, tenant protection, rental-contract reporting, jeonse-to-rent conversion rates, officially assessed values, rental yields, and real-estate regulation (`공공 임대`, `관리비 투명성`, `주택 바우처`, `공공 분양`, `빈집 정비`, `정비 구역`, `이주 대책`, `주택 금융`, `주거 복지`, `임차인 보호`, `임대차 신고`, `전월세 전환율`, `공시 가격`, `임대 수익률`, `부동산 규제`).
+- Passage coverage: one coherent 57-eojeol Korean housing-policy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,904 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-04 justice-consumption checkpoint
 
 - Topic: `ethics-and-social-responsibility`
