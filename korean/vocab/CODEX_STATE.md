@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,587 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 policy-evaluation checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `08-policy-evaluation-and-legal-reform.md`
+- Coverage: 12 advanced-native/news-formal targets for policy coherence and consistency, legislative impact assessment, cost-benefit analysis, social costs, policy alternatives and instruments, policy confusion, legal cleanup, institutional improvement, demonstration exemptions, and legislative notice (`정책 정합성`, `정책 일관성`, `입법 영향평가`, `비용편익 분석`, `사회적 비용`, `정책 대안`, `정책 수단`, `정책 혼선`, `법령 정비`, `제도 개선`, `실증 특례`, `입법 예고`).
+- Passage coverage: one coherent 63-eojeol Korean policy-reform passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,987 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-03 diplomatic-signals checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
