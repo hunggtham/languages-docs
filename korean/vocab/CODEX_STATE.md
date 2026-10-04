@@ -1060,6 +1060,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,659 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 public-health-response checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `11-public-health-response-and-vaccine-equity.md`
+- Coverage: 12 advanced-native targets for response capacity, vaccine access, vaccine inequity, public-health emergencies, health risks, community transmission, herd immunity, mental-health crises, suicide prevention, health behavior, vaccination coverage, and public-health infrastructure (`방역 역량`, `백신 접근성`, `백신 불평등`, `공중보건 위기`, `건강 위험`, `지역사회 감염`, `집단 면역`, `정신건강 위기`, `자살 예방`, `건강 행동`, `예방접종률`, `공공보건 인프라`).
+- Passage coverage: one coherent 100-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,671 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
