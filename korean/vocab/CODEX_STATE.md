@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,255 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 administrative-coordination checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `13-administrative-coordination-and-service-quality.md`
+- Coverage: 12 advanced-native/news-formal targets for administrative coordination bodies, administrative-procedure law, complaint mediation, administrative-service quality, policy-implementation reviews, public-institution operations, administrative-cost reduction, fiscal decentralization, local administrative capacity, administrative accountability holders, policy-coordination meetings, and policy-implementation monitoring (`행정 협의체`, `행정 절차법`, `민원 조정`, `행정 서비스 품질`, `정책 집행 점검`, `공공기관 운영`, `행정 비용 절감`, `재정 분권`, `지방 행정 역량`, `행정 책임 주체`, `정책 조정 회의`, `정책 집행 모니터링`).
+- Passage coverage: one coherent 42-eojeol Korean administrative-coordination passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,267 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
+
 ## 2026-10-04 education-governance checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
