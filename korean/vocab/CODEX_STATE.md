@@ -1042,6 +1042,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,371 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 casual-evaluation checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `13-casual-evaluation-and-exaggeration.md`
+- Coverage: 12 contemporary-native-hot `native_spoken`/`slang_online` targets for close-friend mode, late reactions, emotional value for money, capitalism self-mockery, mock mind-reading, playful irritation, emphatic possibility/impossibility, great deals, extreme difficulty, and fun/boring evaluations (`찐친 모드`, `뒷북`, `가심비`, `자낳괴`, `관심법`, `킹받네`, `쌉가능`, `쌉불가능`, `개이득`, `개빡세다`, `노잼`, `유잼`).
+- Passage coverage: one coherent 39-eojeol Korean casual-chat passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,383 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
