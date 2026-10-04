@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 AI-platform-data checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `05-ai-platform-security-and-data-governance.md`
+- Coverage: 12 advanced-native/contemporary-hot news-formal targets for cross-border data transfers, illegal-content circulation, user identity verification, advertising disclosure, targeted advertising, de-identification, high-risk AI, synthetic content, manipulated information, market power, open-source releases, and platform transparency obligations (`데이터 국외 이전`, `불법정보 유통`, `이용자 신원확인`, `광고 표기 의무`, `맞춤형 광고`, `개인정보 비식별화`, `고위험 인공지능`, `합성 콘텐츠`, `허위·조작 정보`, `시장 지배력`, `오픈소스 공개`, `플랫폼 투명성 의무`).
+- Passage coverage: one coherent 58-eojeol Korean digital-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,251 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 criminal-procedure checkpoint
 
 - Topic: `advanced-legal-procedure-and-judicial-accountability`
