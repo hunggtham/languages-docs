@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,143 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 emergency-capacity checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `04-emergency-capacity-and-care-quality.md`
+- Coverage: 12 advanced-native/news-formal targets for emergency-care systems, emergency-department beds, emergency transport, emergency surgery, transfer coordination, bed allocation, patient transfers, healthcare collaboration, regional hub hospitals, public healthcare institutions, healthcare gaps, and quality of care (`응급의료 체계`, `응급실 병상`, `응급 이송`, `응급 수술`, `전원 조정`, `병상 배정`, `환자 전원`, `의료 협력`, `지역 거점 병원`, `공공의료기관`, `의료 공백`, `진료 질`).
+- Passage coverage: one coherent 46-eojeol Korean emergency-care passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,155 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 casual-work-fandom checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
