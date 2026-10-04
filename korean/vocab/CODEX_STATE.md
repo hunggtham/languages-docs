@@ -1069,6 +1069,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,146 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 energy-geopolitics checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `09-energy-geopolitics-and-just-transition.md`
+- Coverage: 12 advanced-native energy, climate-finance, and resource-governance targets plus 1 contemporary-native-hot planning expression across `news_formal` and `native_spoken` lanes (`에너지 지정학`, `공급망재편`, `전략비축`, `자원민족주의`, `원료수급`, `에너지 전환 리스크`, `탄소누출`, `공정전환기금`, `기후적응재원`, `기후손실과피해`, `에너지외교`, `산업탈탄소화`, `메가플랜`).
+- Passage coverage: one coherent 55-eojeol Korean energy-policy passage with all 13 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 power-grid-flexibility checkpoint
 
 - Topic: `advanced-energy-transition-and-power-security`
