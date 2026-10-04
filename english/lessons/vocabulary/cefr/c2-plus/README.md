@@ -139,3 +139,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## neuroscience
 
 - [Neural Circuits Glia And Spatial Coding](./neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
+
+## planetary-geology
+
+- [Planetary Geomorphology And Remote Sensing](./planetary-geology/01-planetary-geomorphology-and-remote-sensing.md)
