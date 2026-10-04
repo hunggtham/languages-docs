@@ -368,6 +368,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Probabilistic Model Selection And Measurement Diagnostics](./semiconductors/84-probabilistic-model-selection-and-measurement-diagnostics.md)
 - [Metrology Readout And Cross-Instrument Validation](./semiconductors/85-metrology-readout-and-cross-instrument-validation.md)
 - [Failure Analysis And Reliability Screening](./semiconductors/86-failure-analysis-and-reliability-screening.md)
+- [Reliability Statistics And Life Modeling](./semiconductors/87-reliability-statistics-and-life-modeling.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
