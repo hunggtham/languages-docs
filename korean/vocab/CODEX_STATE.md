@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 rhetoric-accountability checkpoint
+
+- Topic: `speech-and-public-discourse`
+- File: `03-rhetoric-and-statement-accountability.md`
+- Coverage: 12 advanced-native/news-formal targets for rhetorical questions, direct speech, statement intensity, departures from the point, framing shifts, statement intent, context distortion, responsible public remarks, communication-style shifts, duties to explain, logical leaps, and statement authenticity (`수사적 질문`, `직설적 화법`, `발언 수위`, `논점 일탈`, `프레임 전환`, `발언 취지`, `맥락 왜곡`, `책임 있는 발언`, `화법 전환`, `설명 책임`, `논리적 비약`, `발언 진위`).
+- Passage coverage: one coherent 55-eojeol Korean public-discourse passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,110 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 gaps-oversight checkpoint
 
 - Topic: `public-affairs-and-accountability`
