@@ -970,6 +970,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,817 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 oversight-integrity checkpoint
+
+- Topic: `public-affairs-and-accountability`
+- File: `04-oversight-and-integrity.md`
+- Coverage: 12 advanced-native targets for audit independence, disclosure of interests, political finance, electoral fairness, abuse of authority, oversight functions, parliamentary control, public oversight, policy officials responsible, independent bodies, public records, and public-official conflicts of interest (`감사 독립성`, `이해관계 공개`, `정치 자금`, `선거 공정성`, `권한 남용`, `감시 기능`, `의회 통제`, `공공 감시`, `정책 책임자`, `독립 기관`, `공공 기록`, `공직자 이해충돌`).
+- Passage coverage: one coherent 57-eojeol Korean public-integrity passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,829 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
