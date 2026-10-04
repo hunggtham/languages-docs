@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 data-governance checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `09-data-governance-and-platform-interoperability.md`
+- Coverage: 12 advanced-native digital-rights, platform-regulation, and public-digital-infrastructure targets in the `news_formal` lane (`데이터거버넌스`, `데이터주권`, `플랫폼규제샌드박스`, `알고리즘영향평가`, `콘텐츠추천편향`, `데이터보유기간`, `개인정보자기결정권`, `디지털접근격차`, `클라우드주권`, `플랫폼상호운용성`, `데이터신탁`, `디지털공공재`).
+- Passage coverage: one coherent 44-eojeol Korean digital-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 digital-sovereignty checkpoint
 
 - Topic: `technology-and-digital-life`
