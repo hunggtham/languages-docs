@@ -1114,6 +1114,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,731 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 demographic-education checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `05-demographic-pressure-and-education-restructuring.md`
+- Coverage: 12 advanced-native/contemporary-native targets for declining birth rates, population structures, dependency ratios, youth outmigration, lifelong learning, vocational education, school consolidation, local education, educational autonomy, higher-education restructuring, tuition burdens, and youth housing (`출생률 하락`, `인구 구조`, `부양비`, `청년 인구 유출`, `평생 학습`, `직업 교육`, `학교 통폐합`, `지역 교육`, `교육 자치`, `대학 구조조정`, `등록금 부담`, `청년 주거`).
+- Passage coverage: one coherent 103-eojeol Korean demographic-and-education passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,743 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
