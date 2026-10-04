@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,990 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-04 medical-workforce checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `06-medical-workforce-and-service-gaps.md`
+- Coverage: 12 advanced-native targets for care gaps, healthcare workforce shortages, specialist shortages, essential specialties, reimbursement support, medical disputes, public hospital beds, healthcare infrastructure, workforce redeployment, care coordination networks, resident-doctor gaps, and hospital turnover (`진료 공백`, `의료 인력난`, `전문의 부족`, `필수과`, `수가 보전`, `의료 분쟁`, `공공병상`, `의료 인프라`, `의료 인력 재배치`, `진료 협력망`, `전공의 공백`, `병원 회전율`).
+- Passage coverage: one coherent 50-eojeol Korean medical-workforce passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,002 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
