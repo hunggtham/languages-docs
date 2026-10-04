@@ -997,6 +997,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,855 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 casual-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `08-casual-work-and-self-deprecating-slang.md`
+- Coverage: 12 contemporary-native-hot/native-spoken or slang-online targets for quick banter, case-dependent judgments, self-inflicted trouble, attention baiting, awkwardness, close friendship, strong food praise, leaving-work timing, mental overwhelm, a room going cold, and playful conspicuous spending (`티키타카`, `케바케`, `스불재`, `어그로 끌다`, `뻘쭘하다`, `머쓱하다`, `찐친`, `존맛탱`, `퇴근각`, `멘붕`, `분위기 싸해지다`, `플렉스하다`).
+- Passage coverage: one coherent 71-eojeol Korean workplace-and-friends passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,963 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-03 labor-rights-safety checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
