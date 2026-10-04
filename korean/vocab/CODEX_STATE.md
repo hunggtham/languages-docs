@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,011 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 migration-status checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `04-migration-status-and-settlement.md`
+- Coverage: 12 advanced-native/news-formal targets for residence status and precarity, undocumented stay, forced return, protection applications, refugee status determination, humanitarian stay, migrant workers, cultural adaptation, exclusion experiences, local settlement, and family reunification (`체류 자격`, `체류 불안정`, `미등록 체류`, `강제 송환`, `보호 신청`, `난민 심사`, `인도적 체류`, `이주 노동자`, `문화 적응`, `배제 경험`, `지역 정착`, `가족 재결합`).
+- Passage coverage: one coherent 60-eojeol Korean migration-support passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,035 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 power-market checkpoint
 
 - Topic: `advanced-energy-transition-and-power-security`
