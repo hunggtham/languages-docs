@@ -375,6 +375,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [High-Speed Link Integrity And EMC](./semiconductors/91-high-speed-link-integrity-and-emc.md)
 - [Process Window And Defectivity Control](./semiconductors/92-process-window-and-defectivity-control.md)
 - [Yield Engineering And Process Control](./semiconductors/93-yield-engineering-and-process-control.md)
+- [Advanced Packaging And Chiplet Integration](./semiconductors/94-advanced-packaging-and-chiplet-integration.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
