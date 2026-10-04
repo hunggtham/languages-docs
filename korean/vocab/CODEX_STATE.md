@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,026 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 employment-transition checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `07-employment-adjustment-and-transition-support.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for employment adjustment, working poverty, wage-growth rates, employment-retention support, jobs from industrial transition, labor-supply shortages, labor-management conflict, working-condition improvement, job-transition support, job creation, vulnerable workers, and employment gaps (`고용 조정`, `근로 빈곤`, `임금 인상률`, `고용 유지 지원`, `산업 전환 일자리`, `노동 공급 부족`, `노사 갈등`, `근로 조건 개선`, `이직 지원`, `고용 창출`, `취약 노동자`, `고용 격차`).
+- Passage coverage: one coherent 52-eojeol Korean employment-transition passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,182 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 conflict-repair checkpoint
 
 - Topic: `advanced-emotion-and-conflict`
