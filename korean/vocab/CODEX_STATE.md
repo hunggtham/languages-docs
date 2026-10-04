@@ -1652,3 +1652,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 111-eojeol Korean public-administration passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,575 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
+## 2026-10-04 justice-access checkpoint
+
+- Topic: `advanced-legal-procedure-and-judicial-accountability`
+- File: `06-access-to-justice-and-evidence.md`
+- Coverage: 12 advanced-native targets for legal remedies, access to justice, legal consultations, litigation costs, class actions, discovery, admissibility of evidence, burden of proof, court testimony, victim statements, witness interviews, and bail decisions (`법률 구제`, `사법 접근성`, `법률 상담`, `소송 비용`, `집단 소송`, `증거 개시`, `증거 능력`, `증명 책임`, `법정 진술`, `피해자 진술`, `참고인 조사`, `보석 허가`).
+- Passage coverage: one coherent 111-eojeol Korean justice-procedure passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,587 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
