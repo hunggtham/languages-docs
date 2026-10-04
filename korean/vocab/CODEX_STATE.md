@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,853 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 source-manipulation checkpoint
+
+- Topic: `media-literacy-and-public-trust`
+- File: `05-source-manipulation-and-platform-behavior.md`
+- Coverage: 12 contemporary-native/advanced-native targets for fake accounts, unknown sources, click-driven content, viral marketing, comment-section sentiment, opinion manipulation, information manipulation, account takeover, fear marketing, conspiracy spread, user reports, and fact-checking (`가짜 계정`, `출처 불명`, `클릭 장사`, `바이럴 마케팅`, `댓글 여론`, `여론 몰이`, `정보 조작`, `계정 도용`, `공포 마케팅`, `음모론 확산`, `이용자 신고`, `사실 확인`).
+- Passage coverage: one coherent 54-eojeol Korean media-literacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,865 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 policy-legitimacy checkpoint
 
 - Topic: `speech-and-public-discourse`
