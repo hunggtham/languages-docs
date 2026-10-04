@@ -43,3 +43,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## spirits
 
 - [Distilling And Spirit Maturation](./spirits/01-distilling-and-spirit-maturation.md)
+
+## cheesemaking
+
+- [Cheesemaking Cultures And Affinage](./cheesemaking/01-cheesemaking-cultures-and-affinage.md)
