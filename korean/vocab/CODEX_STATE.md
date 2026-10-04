@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,916 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-04 carbon-transition-burden checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `09-carbon-policy-and-transition-burden.md`
+- Coverage: 12 advanced-native targets for carbon-removal certification, emissions-permit allocation, climate loss compensation, transition-cost sharing, climate-finance gaps, ecological restoration projects, environmental safeguards, green industrial transition, climate pledges, carbon leakage, emissions-reduction pathways, and climate-risk insurance (`탄소 제거 인증`, `배출권 할당`, `기후 손실 보상`, `전환 비용 분담`, `기후 재정 격차`, `생태 복원 사업`, `환경 세이프가드`, `녹색 산업 전환`, `기후 공약`, `탄소 누출`, `감축 경로`, `기후 위험 보험`).
+- Passage coverage: one coherent 52-eojeol Korean carbon-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,928 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 ai-digital-governance checkpoint
 
 - Topic: `technology-and-digital-life`
