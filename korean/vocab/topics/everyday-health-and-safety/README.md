@@ -11,5 +11,6 @@ source_policy: reference material only; explanations, examples, and passages are
 ## 학습 파일
 
 - [미리 막고 위급할 때 대응하기](./01-prevention-and-emergency-response.md) — `응급`, `예방`, `위생`, `증상`, `처치`, `대피`, `위험`, `보호장비`, `소독`, `감염`, `경고`, `점검`, `비상`, `구조`, `대응`
+- [감염 위험과 회복을 설명하는 공중보건 언어](./02-public-health-risk-and-recovery.md) — `접촉자 추적`, `선별 진료`, `감염 경로`, `중증도`, `기저 질환`, `후유증 관리`, `의료 취약성`, `예방 접종 공백`, `감염 재생산지수`, `방역 피로`, `감염 취약집단`, `보건 신뢰`
 
 각 파일의 읽기 지문은 최대 15개 target headword를 포함하며, 일반적인 안전 안내와 전문 의료 판단을 구분한다.

@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 public-health-risk checkpoint
+
+- Topic: `everyday-health-and-safety`
+- File: `02-public-health-risk-and-recovery.md`
+- Coverage: 12 advanced-native targets for contact tracing, screening clinics, transmission routes, disease severity, underlying conditions, sequela management, health vulnerability, immunization gaps, effective reproduction numbers, pandemic fatigue, infection-vulnerable groups, and public-health trust (`접촉자 추적`, `선별 진료`, `감염 경로`, `중증도`, `기저 질환`, `후유증 관리`, `의료 취약성`, `예방 접종 공백`, `감염 재생산지수`, `방역 피로`, `감염 취약집단`, `보건 신뢰`).
+- Passage coverage: one coherent 50-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,877 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-04 justice-consumption checkpoint
 
 - Topic: `ethics-and-social-responsibility`
