@@ -83,3 +83,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## architecture
 
 - [Historic Architecture And Structural Vocabulary](./architecture/01-historic-architecture-and-structural-vocabulary.md)
+
+## music-theory
+
+- [Advanced Composition And Harmonic Language](./music-theory/01-advanced-composition-and-harmonic-language.md)
