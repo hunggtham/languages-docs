@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,780 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 latest-media-lifestyle-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `17-latest-media-and-lifestyle-slang.md`
+- Coverage: 13 contemporary-native-hot targets for exaggerated annoyance, going back to work, streaming, playlists, binge-watching, chart resurgence, disciplined routines, workout check-ins, small joys, brief alone time, standout photos, over-immersed fans, and unlucky fandom (`킹받드라슈`, `내또출`, `스밍`, `플리`, `정주행`, `역주행`, `갓생 루틴`, `오운완 인증`, `소확행`, `혼틈`, `인생샷`, `과몰입러`, `덕계못`).
+- Passage coverage: one coherent 63-eojeol Korean media-and-lifestyle slang passage with all 13 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,793 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `17` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
