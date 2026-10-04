@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,263 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-04 macro-indicators checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `10-macro-indicators-and-fiscal-space.md`
+- Coverage: 12 advanced-native `news_formal` targets for leading and coincident indicators, productivity stagnation, consumer sentiment, export slowdown, the current account, exchange-rate volatility, the inflation target, fiscal soundness, the government-debt ratio, tax-revenue shortfalls, and supplementary budgets (`경기 선행지수`, `경기 동행지수`, `생산성 정체`, `소비 심리`, `수출 둔화`, `경상수지`, `환율 변동성`, `물가 안정목표`, `재정 건전성`, `국가 채무비율`, `세수 결손`, `추경 편성`).
+- Passage coverage: one coherent 40-eojeol Korean macroeconomic-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,275 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
