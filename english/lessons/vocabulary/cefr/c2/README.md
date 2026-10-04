@@ -396,6 +396,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Frequency Dissemination And Network Timing Errors](./semiconductors/112-frequency-dissemination-and-network-timing-errors.md)
 - [Clock Crossing And Power Domain Integrity](./semiconductors/113-clock-crossing-and-power-domain-integrity.md)
 - [Formal Hardware Verification And Coverage Evidence](./semiconductors/114-formal-hardware-verification-and-coverage-evidence.md)
+- [Hardware Security And Tamper Resistance](./semiconductors/115-hardware-security-and-tamper-resistance.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
