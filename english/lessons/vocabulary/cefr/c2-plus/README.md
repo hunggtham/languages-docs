@@ -47,3 +47,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## cheesemaking
 
 - [Cheesemaking Cultures And Affinage](./cheesemaking/01-cheesemaking-cultures-and-affinage.md)
+
+## tea
+
+- [Tea Processing And Brewing Language](./tea/01-tea-processing-and-brewing-language.md)
