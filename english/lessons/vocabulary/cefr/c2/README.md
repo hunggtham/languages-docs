@@ -419,6 +419,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Robot Fleet Operations And Observability](./semiconductors/135-robot-fleet-operations-and-observability.md)
 - [Robot Digital Twins And Simulation Validation](./semiconductors/136-robot-digital-twins-and-simulation-validation.md)
 - [Robot Testing And Verification Practice](./semiconductors/137-robot-testing-and-verification-practice.md)
+- [Warehouse Robotics And Order Fulfillment](./semiconductors/138-warehouse-robotics-and-order-fulfillment.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
