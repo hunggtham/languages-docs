@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,158 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 housing-market-displacement checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `07-housing-market-and-urban-displacement.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for rental-price pressure, housing-market sentiment, youth housing insecurity, public-housing provision, residential collateral value, lease-renewal rights, housing polarization, hard landing in the housing market, redevelopment-district designation, urban population outflow, housing transaction cliffs, and rental vacancies (`임대료 상승 압력`, `주택 매매 심리`, `청년 주거 불안`, `공공주택 공급`, `주택 담보 가치`, `임대차 갱신권`, `주거 양극화`, `주택 시장 경착륙`, `정비구역 지정`, `도시 인구 유출`, `주택 거래 절벽`, `임대 공실`).
+- Passage coverage: one coherent 49-eojeol Korean housing-market passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,170 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 labor-rights-insurance checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
