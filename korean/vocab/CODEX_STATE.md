@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,011 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 credit-shock checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `07-credit-shocks-and-mis-selling.md`
+- Coverage: 12 advanced-native/news-formal targets for lending rates, policy-rate cuts, rising-rate cycles, interest-rate shocks, principal-and-interest repayment, repayment moratoria, rising delinquency, debt adjustment, credit spreads, non-performing loans, mis-selling, and risk disclosure (`대출 금리`, `기준금리 인하`, `금리 인상기`, `금리 충격`, `원리금 상환`, `상환 유예`, `연체율 상승`, `부채 조정`, `신용 스프레드`, `부실 채권`, `불완전 판매`, `위험 고지`).
+- Passage coverage: one coherent 55-eojeol Korean credit-and-consumer-protection passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,047 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 migration-status checkpoint
 
 - Topic: `advanced-cultural-identity-and-migration`
