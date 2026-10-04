@@ -19,3 +19,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## horticulture
 
 - [Advanced Plant Propagation And Growth](./horticulture/01-advanced-plant-propagation-and-growth.md)
+
+## coffee
+
+- [Coffee Processing And Sensory Analysis](./coffee/01-coffee-processing-and-sensory-analysis.md)
