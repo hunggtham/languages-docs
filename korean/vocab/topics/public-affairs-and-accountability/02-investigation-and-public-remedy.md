@@ -27,7 +27,7 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **예문:** 시민단체는 기관이 피해 보상뿐 아니라 공적 책임까지 다해야 한다고 촉구했다.
 
-**Dịch:** Các tổ chức 시민 yêu cầu cơ quan không chỉ bồi thường thiệt hại mà còn phải hoàn thành trách nhiệm công.
+**Dịch:** Các tổ chức xã hội dân sự yêu cầu cơ quan không chỉ bồi thường thiệt hại mà còn phải hoàn thành trách nhiệm công.
 
 **어휘 연결:** `법적 책임`은 법원이 판단하는 의무이고, `공적 책임`은 법적 의무를 넘어 시민에게 설명하고 신뢰를 회복할 책임이다. — trách nhiệm pháp lý do tòa án đánh giá; trách nhiệm công còn gồm giải trình và khôi phục niềm tin.
 
@@ -297,7 +297,7 @@ source_policy: reference material only; explanations, examples, and passages are
 
 **예문:** 원청의 관리 감독이 부족해 하청 현장의 안전수칙이 지켜지지 않았다.
 
-**Dịch:** Do giám sát quản lý của nhà thầu chính不足 nên quy tắc an toàn tại hiện trường thầu phụ không được tuân thủ.
+**Dịch:** Do giám sát quản lý của nhà thầu chính không đầy đủ nên quy tắc an toàn tại hiện trường thầu phụ không được tuân thủ.
 
 **어휘 연결:** `감독`은 기준 준수 여부를 살피는 행위이고, `관리 감독`은 인력·절차·시정까지 맡는 더 넓은 책임이다. — giám sát là xem việc tuân thủ; quản lý và giám sát rộng hơn, gồm nhân sự, thủ tục và sửa sai.
 
