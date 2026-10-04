@@ -377,6 +377,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Yield Engineering And Process Control](./semiconductors/93-yield-engineering-and-process-control.md)
 - [Advanced Packaging And Chiplet Integration](./semiconductors/94-advanced-packaging-and-chiplet-integration.md)
 - [Package Qualification And Interconnect Fatigue](./semiconductors/95-package-qualification-and-interconnect-fatigue.md)
+- [Memory Retention And ECC Diagnostics](./semiconductors/96-memory-retention-and-ecc-diagnostics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
