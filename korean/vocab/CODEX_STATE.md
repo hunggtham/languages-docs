@@ -1087,6 +1087,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,695 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 housing-market checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `06-housing-market-and-tenant-protection.md`
+- Coverage: 12 advanced-native targets for housing demand, housing markets, housing-cost burdens, the jeonse/wolse rental market, private rentals, pre-sale prices, pre-sale price caps, urban redevelopment, urban sprawl, compact cities, transit-oriented development, and tenant protection (`주택 수요`, `주택 시장`, `주거비 부담`, `전월세 시장`, `민간임대`, `분양가`, `분양가 상한제`, `도시 재개발`, `도시 확산`, `도시 압축`, `대중교통 중심 개발`, `세입자 보호`).
+- Passage coverage: one coherent 113-eojeol Korean housing-and-urban-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,707 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
