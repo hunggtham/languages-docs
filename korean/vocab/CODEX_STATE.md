@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,279 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 belonging-inclusion checkpoint
+
+- Topic: `social-change-and-belonging`
+- File: `07-belonging-and-community-inclusion.md`
+- Coverage: 12 advanced-native/news-formal and native-spoken targets for restoring belonging, relational resources, intergenerational gaps, community-based services, civic-participation gaps, restoring social connections, worsening social isolation, community integration, social-capital gaps, migrant-settlement support, social-inclusion policies, and community trust (`소속감 회복`, `관계 자원`, `세대 간 격차`, `공동체 기반 서비스`, `시민 참여 격차`, `사회적 연결 회복`, `사회적 고립 심화`, `지역사회 통합`, `사회적 자본 격차`, `이주민 정착 지원`, `사회적 포용 정책`, `공동체 신뢰`).
+- Passage coverage: one coherent 45-eojeol Korean belonging-and-inclusion passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,315 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 news-algorithms checkpoint
 
 - Topic: `media-literacy-and-public-trust`
