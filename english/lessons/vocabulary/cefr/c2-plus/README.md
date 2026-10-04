@@ -91,3 +91,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## marine-biology
 
 - [Marine Zones And Animal Adaptations](./marine-biology/01-marine-zones-and-animal-adaptations.md)
+
+## entomology
+
+- [Insect Anatomy And Development](./entomology/01-insect-anatomy-and-development.md)
