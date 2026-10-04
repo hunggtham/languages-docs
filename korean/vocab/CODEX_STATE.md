@@ -1069,6 +1069,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,671 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-04 household-credit checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `09-household-credit-and-consumer-risk.md`
+- Coverage: 12 advanced-native targets for debt repayment, interest-rate hikes, interest-rate cuts, loan delinquency, household loans, mortgages, consumer harm, consumer disputes, financial consumers, financial literacy, vulnerable borrowers, and multiple indebtedness (`부채 상환`, `금리 인상`, `금리 인하`, `대출 연체`, `가계 대출`, `주택담보대출`, `소비자 피해`, `소비자 분쟁`, `금융 소비자`, `금융 문해력`, `취약 차주`, `다중 채무`).
+- Passage coverage: one coherent 115-eojeol Korean household-credit passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,683 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
