@@ -442,6 +442,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Retail Store Robotics And Customer Fulfillment](./semiconductors/158-retail-store-robotics-and-customer-fulfillment.md)
 - [Airport Operations And Ground Support Robotics](./semiconductors/159-airport-operations-and-ground-support-robotics.md)
 - [Film And Broadcast Production Robotics](./semiconductors/160-film-and-broadcast-production-robotics.md)
+- [Smart Building Inspection And Facility Robotics](./semiconductors/161-smart-building-inspection-and-facility-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
