@@ -439,6 +439,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Heritage Conservation And Museum Robotics](./semiconductors/155-heritage-conservation-and-museum-robotics.md)
 - [Sports Robotics And Athletic Performance Analysis](./semiconductors/156-sports-robotics-and-athletic-performance-analysis.md)
 - [Live Event Production And Stage Automation Robotics](./semiconductors/157-live-event-production-and-stage-automation-robotics.md)
+- [Retail Store Robotics And Customer Fulfillment](./semiconductors/158-retail-store-robotics-and-customer-fulfillment.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
