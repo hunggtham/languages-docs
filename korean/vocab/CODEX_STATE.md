@@ -1599,3 +1599,11 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 94-eojeol Korean contract-performance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,951 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+## 2026-10-04 relationship-conflict checkpoint
+
+- Topic: `advanced-emotion-and-conflict`
+- File: `04-relationship-conflict-and-emotional-repair.md`
+- Coverage: 12 advanced-native/contemporary-native targets for relational conflict, conflict facilitation, mediation, communication breakdown, relationship repair, emotional distance, self-care, mutual understanding, empathy, emotional expression, anger management, and gaslighting (`관계 갈등`, `갈등 조정`, `갈등 중재`, `대화 단절`, `관계 회복`, `정서적 거리`, `자기 돌봄`, `상호 이해`, `공감 능력`, `감정 표현`, `분노 조절`, `가스라이팅`).
+- Passage coverage: one coherent 141-eojeol Korean relationship-repair passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,515 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.

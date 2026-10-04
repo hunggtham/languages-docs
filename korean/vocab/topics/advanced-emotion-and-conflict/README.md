@@ -9,3 +9,4 @@
 - [갈등이 번지고 봉합되는 과정](./01-escalation-and-conflict-discourse.md)
 - [갈등 조정과 공적 사과](./02-reconciliation-and-public-apology.md)
 - [갈등 구조와 관계 회복의 언어](./03-conflict-structure-and-repair.md) — `갈등 구조`, `이해관계 충돌`, `감정의 골`, `감정적 대응`, `대치 국면`, `갈등 관리`, `타협안`, `합의점`, `신뢰 회복`, `정서적 소진`, `공식 사과`, `책임 인정`
+- [관계 갈등과 정서적 회복의 언어](./04-relationship-conflict-and-emotional-repair.md) — `관계 갈등`, `갈등 조정`, `갈등 중재`, `대화 단절`, `관계 회복`, `정서적 거리`, `자기 돌봄`, `상호 이해`, `공감 능력`, `감정 표현`, `분노 조절`, `가스라이팅`
