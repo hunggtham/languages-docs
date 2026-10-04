@@ -979,6 +979,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,829 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 relationship-boundaries checkpoint
+
+- Topic: `relationships-and-emotional-recovery`
+- File: `03-boundaries-and-emotional-phrases.md`
+- Coverage: 12 contemporary-native targets for emotional drain, processing feelings, taking space, relationship temperature, losing feelings, letting go, hurting someone, feeling hurt, emotional dumping grounds, deal-breakers, contact frequency, and relationship fatigue (`감정 소모`, `마음 정리`, `거리 두기`, `관계의 온도`, `마음이 식다`, `미련을 버리다`, `상처를 주다`, `상처받다`, `감정 쓰레기통`, `손절 기준`, `연락 빈도`, `관계 피로`).
+- Passage coverage: one coherent 63-eojeol Korean relationship-boundaries passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,841 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
