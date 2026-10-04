@@ -1087,6 +1087,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,431 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 privacy-cybersecurity checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `06-privacy-rights-and-cybersecurity.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for personal-data protection and infringement, secondary use, data-subject rights, access and rectification rights, restriction of processing, withdrawal of consent, data protection officers, security incidents, breach notifications, and cybersecurity (`개인정보 보호`, `개인정보 침해`, `목적 외 이용`, `정보 주체 권리`, `열람권`, `정정권`, `처리 정지권`, `동의 철회`, `개인정보 보호책임자`, `보안 사고`, `침해 통지`, `사이버 보안`).
+- Passage coverage: one coherent 36-eojeol Korean privacy-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,443 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
