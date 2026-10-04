@@ -79,3 +79,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## linguistics
 
 - [Advanced Phonology And Grammatical Change](./linguistics/01-advanced-phonology-and-grammatical-change.md)
+
+## architecture
+
+- [Historic Architecture And Structural Vocabulary](./architecture/01-historic-architecture-and-structural-vocabulary.md)
