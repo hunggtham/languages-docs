@@ -426,6 +426,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Aerial Robotics And Drone Autonomy](./semiconductors/142-aerial-robotics-and-drone-autonomy.md)
 - [Space Robotics And Orbital Servicing](./semiconductors/143-space-robotics-and-orbital-servicing.md)
 - [Construction Robotics And Worksite Automation](./semiconductors/144-construction-robotics-and-worksite-automation.md)
+- [Disaster Response Robotics And Rescue Navigation](./semiconductors/145-disaster-response-robotics-and-rescue-navigation.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
