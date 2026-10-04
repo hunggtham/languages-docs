@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 digital-sovereignty checkpoint
+
+- Topic: `technology-and-digital-life`
+- File: `04-ai-platform-and-digital-sovereignty.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for generative-AI regulation, data borders, cloud migration, AI accountability, online-platform regulation, data portability, AI governance, technological sovereignty, digital public infrastructure, automation risk, online safety nets, and digital norms (`생성형 AI 규제`, `데이터 국경`, `클라우드 전환`, `AI 책임성`, `온라인 플랫폼 규제`, `데이터 이동성`, `AI 거버넌스`, `기술 주권`, `디지털 공공 인프라`, `자동화 위험`, `온라인 안전망`, `디지털 규범`).
+- Passage coverage: one coherent 41-eojeol Korean digital-governance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,243 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 education-governance checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
