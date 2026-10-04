@@ -1096,6 +1096,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,443 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 public-trust checkpoint
+
+- Topic: `public-affairs-and-accountability`
+- File: `03-public-trust-and-democratic-accountability.md`
+- Coverage: 12 advanced-native `news_formal` targets for public responsibility and public-interest value, accountable and political responsibility, policy failure and policy trust, trust in government and citizen trust, separation of powers, checks and balances, anti-corruption, and lobbying regulation (`공공 책임`, `공익성`, `책임 정치`, `정치적 책임`, `정책 실패`, `정책 신뢰`, `정부 신뢰`, `시민 신뢰`, `권력 분립`, `견제와 균형`, `부패 방지`, `로비 규제`).
+- Passage coverage: one coherent 32-eojeol Korean public-affairs passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,455 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
