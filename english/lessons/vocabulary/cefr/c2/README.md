@@ -457,6 +457,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Railway And Metro Infrastructure Robotics](./semiconductors/173-railway-and-metro-infrastructure-robotics.md)
 - [Offshore Renewable And Marine Infrastructure Robotics](./semiconductors/174-offshore-renewable-and-marine-infrastructure-robotics.md)
 - [Nuclear Facility And Radiation Safe Robotics](./semiconductors/175-nuclear-facility-and-radiation-safe-robotics.md)
+- [Launch And Spaceport Operations Robotics](./semiconductors/176-launch-and-spaceport-operations-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
