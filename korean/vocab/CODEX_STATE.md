@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,047 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 ai-deployment checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `08-ai-model-deployment-and-safety.md`
+- Coverage: 12 contemporary-native-hot/advanced-native technology targets for model hallucinations, benchmarks, model performance, inference costs, model compression, open weights, synthetic data, data contamination, model updates, safety filters, red-team evaluations, and technology transfer (`모델 환각`, `벤치마크`, `모델 성능`, `추론 비용`, `모델 경량화`, `오픈 웨이트`, `합성 데이터`, `데이터 오염`, `모델 업데이트`, `안전 필터`, `레드팀 평가`, `기술 이전`).
+- Passage coverage: one coherent 60-eojeol Korean AI-deployment passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,059 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 migration-status checkpoint
 
 - Topic: `advanced-cultural-identity-and-migration`
