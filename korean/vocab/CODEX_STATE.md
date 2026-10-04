@@ -1132,6 +1132,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,491 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 consumer-reaction-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `14-everyday-consumer-and-reaction-slang.md`
+- Coverage: 12 contemporary-native-hot `native_spoken`/`slang_online` targets for holding on, strong food praise, intense fun, disbelief reactions, opening-time queues, lunchflation, café studying and its user group, solo dining and drinking, and taste-perfect recommendations (`존버`, `존맛`, `핵잼`, `꿀잼`, `실화냐`, `오픈런`, `런치플레이션`, `카공`, `카공족`, `혼밥`, `혼술`, `취향저격`).
+- Passage coverage: one coherent 27-eojeol Korean everyday-slang passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,503 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
