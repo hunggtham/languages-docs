@@ -123,3 +123,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## hydrology
 
 - [Surface Water And Groundwater Processes](./hydrology/01-surface-water-and-groundwater-processes.md)
+
+## soil-science
+
+- [Pedogenesis And Soil Function](./soil-science/01-pedogenesis-and-soil-function.md)
