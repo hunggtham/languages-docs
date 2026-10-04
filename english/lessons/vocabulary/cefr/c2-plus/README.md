@@ -55,3 +55,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## glasswork
 
 - [Glassblowing And Kilnforming Language](./glasswork/01-glassblowing-and-kilnforming-language.md)
+
+## blacksmithing
+
+- [Forging And Steel Heat Treatment](./blacksmithing/01-forging-and-steel-heat-treatment.md)
