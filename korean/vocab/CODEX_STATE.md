@@ -1024,6 +1024,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,110 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 credit-transmission checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `11-credit-transmission-and-consumer-risk.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for leverage risk, debt restructuring, deteriorating repayment capacity, lending concentration, credit-risk transmission, market volatility, financial uncertainty, consumer confusion, debt collection, debt vulnerability, financial shocks, and loan underwriting (`레버리지 리스크`, `부채 재조정`, `상환 능력 악화`, `대출 쏠림`, `신용 위험 전이`, `시장 변동성`, `금융 불확실성`, `소비자 오인`, `채권 회수`, `부채 취약성`, `금융 충격`, `대출 심사`).
+- Passage coverage: one coherent 52-eojeol Korean credit-risk passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,122 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-04 gaps-oversight checkpoint
 
 - Topic: `public-affairs-and-accountability`
