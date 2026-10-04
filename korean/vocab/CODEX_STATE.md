@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 food-security checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `05-food-supply-and-safety-shocks.md`
+- Coverage: 12 advanced-native/news-formal targets for strategic food reserves, food supply-demand, grain and agricultural prices, import dependence, food self-sufficiency, agricultural tariffs, trade barriers, food safety, food traceability, country-of-origin labeling, and livestock epidemics (`식량 비축`, `식량 수급`, `곡물 가격`, `농산물 가격`, `수입 의존도`, `식량 자급률`, `농산물 관세`, `무역 장벽`, `식품 안전`, `식품 이력`, `원산지 표시`, `가축 전염병`).
+- Passage coverage: one coherent 52-eojeol Korean food-security passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 casual-work-fandom checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
