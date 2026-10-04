@@ -1607,3 +1607,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 141-eojeol Korean relationship-repair passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,515 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
+## 2026-10-04 media-bias checkpoint
+
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `67-media-bias-and-cultural-reading.md`
+- Coverage: 12 advanced-native/contemporary-native targets for confirmation bias, one-sided information diets, false information, fake news, public-opinion formation, discursive landscapes, cultural appropriation, politics of representation, narrative structure, critical perspectives, popular-culture phenomena, and meme culture (`확증 편향`, `정보 편식`, `허위 정보`, `가짜 뉴스`, `여론 형성`, `담론 지형`, `문화 전유`, `재현의 정치`, `서사 구조`, `비평적 시선`, `대중문화 현상`, `밈 문화`).
+- Passage coverage: one coherent 133-eojeol Korean media-and-culture passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,527 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `67` checkpoint.
