@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,219 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `20` checkpoint.
 
+## 2026-10-04 diplomatic-bargaining checkpoint
+
+- Topic: `high-register-law-and-diplomacy`
+- File: `09-diplomatic-bargaining-and-implementation.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for normalization talks, diplomatic compromise, negotiating red lines, implementation roadmaps, international mediation, diplomatic rhetoric, closed-door negotiations, bilateral consultations, normalization of relations, bargaining chips, international mediation proposals, and agreement implementation capacity (`정상화 회담`, `외교적 타협`, `협상 레드라인`, `이행 로드맵`, `국제적 중재`, `외교적 수사`, `비공개 협상`, `양자 협의`, `관계 정상화`, `협상 카드`, `국제적 중재안`, `합의 이행력`).
+- Passage coverage: one coherent 40-eojeol Korean diplomacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,231 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 migration-reception checkpoint
 
 - Topic: `advanced-cultural-identity-and-migration`
