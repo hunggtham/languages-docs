@@ -75,3 +75,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## geology
 
 - [Advanced Petrography And Tectonic Evidence](./geology/01-advanced-petrography-and-tectonic-evidence.md)
+
+## linguistics
+
+- [Advanced Phonology And Grammatical Change](./linguistics/01-advanced-phonology-and-grammatical-change.md)
