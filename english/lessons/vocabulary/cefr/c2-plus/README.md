@@ -143,3 +143,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## planetary-geology
 
 - [Planetary Geomorphology And Remote Sensing](./planetary-geology/01-planetary-geomorphology-and-remote-sensing.md)
+
+## causal-identification
+
+- [Advanced Causal Identification And Proximal Inference](./causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
