@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,987 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 education-demography checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `03-learning-gaps-and-population-mobility.md`
+- Coverage: 12 advanced-native/news-formal targets for learning gaps, educational opportunity, care burdens, demographic cliffs, declining school-age populations, older populations, regional extinction, youth outmigration, population inflows, settlement conditions, low-fertility responses, and teacher workforce planning (`학습 격차`, `교육 기회`, `돌봄 부담`, `인구 절벽`, `학령인구 감소`, `고령 인구`, `지방 소멸`, `청년 유출`, `인구 유입`, `정주 여건`, `저출생 대응`, `교원 수급`).
+- Passage coverage: one coherent 59-eojeol Korean education-and-demography passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,071 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 public-accountability checkpoint
 
 - Topic: `public-affairs-and-accountability`
