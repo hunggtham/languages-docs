@@ -372,6 +372,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Qualification And Field Reliability Models](./semiconductors/88-qualification-and-field-reliability-models.md)
 - [Electrothermal Behavior And Cooling Paths](./semiconductors/89-electrothermal-behavior-and-cooling-paths.md)
 - [Power Integrity And Transient Control](./semiconductors/90-power-integrity-and-transient-control.md)
+- [High-Speed Link Integrity And EMC](./semiconductors/91-high-speed-link-integrity-and-emc.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
