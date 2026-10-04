@@ -11,3 +11,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## ceramics
 
 - [Studio Pottery Process And Glaze Chemistry](./ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
+
+## textiles
+
+- [Textile Weaving Dyeing And Finishing](./textiles/01-textile-weaving-dyeing-and-finishing.md)
