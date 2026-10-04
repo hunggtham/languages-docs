@@ -471,6 +471,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Mining And Mineral Processing Robotics](./semiconductors/187-mining-and-mineral-processing-robotics.md)
 - [Commercial Kitchen And Restaurant Service Robotics](./semiconductors/188-commercial-kitchen-and-restaurant-service-robotics.md)
 - [Court Legal Records And Secure Facility Robotics](./semiconductors/189-court-legal-records-and-secure-facility-robotics.md)
+- [Insurance Claims And Property Risk Robotics](./semiconductors/190-insurance-claims-and-property-risk-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)

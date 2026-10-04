@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 11272 items in 564 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 11292 items in 565 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 19867 items (authoritative script count after the latest C2 checkpoint).
+- Total: 19887 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `190-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `191-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -102,6 +102,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/semiconductors/187-mining-and-mineral-processing-robotics.md` with 20 ore-crushing, mineral-sorting, underground-mapping, ventilation, drilling, tailings, smelting, rescue, haulage, stockpile, and water-pumping items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/188-commercial-kitchen-and-restaurant-service-robotics.md` with 20 commercial-kitchen, cooking, bakery, beverage, inventory, allergen, sanitation, cold-storage, catering, dining-delivery, waste, and queue-forecasting items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/189-court-legal-records-and-secure-facility-robotics.md` with 20 court filing, evidence handling, forensic imaging, legal records, secure mail, visitor screening, translation, scheduling, and digital-evidence items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest continuation added `c2/semiconductors/190-insurance-claims-and-property-risk-robotics.md` with 20 insurance claim intake, damage inspection, policy extraction, triage, risk engineering, catastrophe mapping, payment verification, field adjustment, and recovery-coordination items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 
