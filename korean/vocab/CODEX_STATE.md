@@ -1616,3 +1616,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 133-eojeol Korean media-and-culture passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,527 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `67` checkpoint.
+
+## 2026-10-04 online-safety checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `07-online-safety-and-identity-protection.md`
+- Coverage: 12 contemporary-native/advanced-native targets for online impersonation, identity theft, personal-information exposure, security patches, encrypted communication, access privileges, digital safety, online trust, malicious comments, cyberbullying, the right to explanation, and digital self-defense (`온라인 사칭`, `신원 도용`, `개인정보 노출`, `보안 패치`, `암호화 통신`, `접근 권한`, `디지털 안전`, `온라인 신뢰`, `악성 댓글`, `사이버 괴롭힘`, `알고리즘 설명권`, `디지털 자기방어`).
+- Passage coverage: one coherent 133-eojeol Korean online-safety passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,539 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
