@@ -1042,6 +1042,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,635 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 research-ethics checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `10-research-ethics-and-technology-debates.md`
+- Coverage: 12 advanced-native/contemporary-native targets for research ethics, R&D, basic research, applied research, research-funding allocation, research outcomes, scholarly publishing, peer review, data reproducibility, open science, techno-optimism, and tech skepticism (`연구 윤리`, `연구 개발`, `기초 연구`, `응용 연구`, `연구비 배분`, `연구 성과`, `학술 출판`, `동료 평가`, `데이터 재현성`, `개방형 과학`, `기술 낙관론`, `기술 회의론`).
+- Passage coverage: one coherent 112-eojeol Korean research-and-technology passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,647 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
