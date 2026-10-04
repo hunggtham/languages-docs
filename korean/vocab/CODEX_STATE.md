@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 conflict-repair checkpoint
+
+- Topic: `advanced-emotion-and-conflict`
+- File: `03-conflict-structure-and-repair.md`
+- Coverage: 12 advanced-native/news-formal or native-spoken targets for conflict structures, conflicts of interest, emotional rifts, emotional reactions, standoffs, conflict management, compromise proposals, common ground, trust rebuilding, emotional exhaustion, formal apologies, and acceptance of responsibility (`갈등 구조`, `이해관계 충돌`, `감정의 골`, `감정적 대응`, `대치 국면`, `갈등 관리`, `타협안`, `합의점`, `신뢰 회복`, `정서적 소진`, `공식 사과`, `책임 인정`).
+- Passage coverage: one coherent 54-eojeol Korean conflict-repair passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,143 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 casual-work-fandom checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`

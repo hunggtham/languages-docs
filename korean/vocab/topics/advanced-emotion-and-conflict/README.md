@@ -8,3 +8,4 @@
 
 - [갈등이 번지고 봉합되는 과정](./01-escalation-and-conflict-discourse.md)
 - [갈등 조정과 공적 사과](./02-reconciliation-and-public-apology.md)
+- [갈등 구조와 관계 회복의 언어](./03-conflict-structure-and-repair.md) — `갈등 구조`, `이해관계 충돌`, `감정의 골`, `감정적 대응`, `대치 국면`, `갈등 관리`, `타협안`, `합의점`, `신뢰 회복`, `정서적 소진`, `공식 사과`, `책임 인정`
