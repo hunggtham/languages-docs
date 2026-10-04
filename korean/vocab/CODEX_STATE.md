@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,768 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 business-continuity checkpoint
+
+- Topic: `work-planning-and-business-succession`
+- File: `02-business-continuity-and-operating-risk.md`
+- Coverage: 12 advanced-native targets for business continuity, risk management, key personnel, decision-making authority, contingency plans, cash flow, cost structures, bargaining power, market entry, handover gaps, organizational resilience, and performance-linked compensation (`사업 연속성`, `리스크 관리`, `핵심 인력`, `의사결정 권한`, `비상 계획`, `현금 흐름`, `원가 구조`, `협상력`, `시장 진입`, `인수인계 공백`, `조직 탄력성`, `성과 연동 보상`).
+- Passage coverage: one coherent 62-eojeol Korean business-continuity passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,853 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-04 policy-legitimacy checkpoint
 
 - Topic: `speech-and-public-discourse`
