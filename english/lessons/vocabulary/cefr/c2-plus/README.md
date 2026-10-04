@@ -135,3 +135,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## plant-physiology
 
 - [Advanced Plant Physiology And Signaling](./plant-physiology/01-advanced-plant-physiology-and-signaling.md)
+
+## neuroscience
+
+- [Neural Circuits Glia And Spatial Coding](./neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
