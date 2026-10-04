@@ -463,6 +463,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Telecom Field And Network Infrastructure Robotics](./semiconductors/179-telecom-field-and-network-infrastructure-robotics.md)
 - [Smart Grid Inspection And Restoration Robotics](./semiconductors/180-smart-grid-inspection-and-restoration-robotics.md)
 - [Cold Chain Logistics And Perishable Goods Robotics](./semiconductors/181-cold-chain-logistics-and-perishable-goods-robotics.md)
+- [Postal Mail Automation And Parcel Robotics](./semiconductors/182-postal-mail-automation-and-parcel-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
