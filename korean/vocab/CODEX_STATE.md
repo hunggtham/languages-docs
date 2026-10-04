@@ -1078,6 +1078,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,683 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 deterrence-conflict checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `03-deterrence-and-conflict-management.md`
+- Coverage: 12 advanced-native targets for extended deterrence, arms races, arms control, non-proliferation regimes, nuclear deterrence, defense cost-sharing, allied coordination, security commitments, military tensions, accidental clashes, conflict management, and peace agreements (`확장 억지`, `군비 경쟁`, `무기 통제`, `비확산 체제`, `핵 억지`, `방위비 분담`, `동맹 공조`, `안보 공약`, `군사적 긴장`, `우발적 충돌`, `분쟁 관리`, `평화 협정`).
+- Passage coverage: one coherent 106-eojeol Korean security-and-diplomacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,695 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
