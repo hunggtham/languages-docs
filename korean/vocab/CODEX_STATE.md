@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,335 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 grid-transition checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `06-grid-transition-and-energy-acceptance.md`
+- Coverage: 12 advanced-native targets for power systems, renewable output, curtailment, electricity storage, demand response, power-market reform, decarbonization transition, carbon intensity, green transition, local acceptance, transmission-line conflict, and green hydrogen (`전력 계통`, `재생에너지 출력`, `출력 제어`, `전력 저장`, `수요 반응`, `전력 시장 개편`, `탈탄소 전환`, `탄소 집약도`, `녹색 전환`, `지역 수용성`, `송전망 갈등`, `그린 수소`).
+- Passage coverage: one coherent 108-eojeol Korean energy-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,611 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
