@@ -431,6 +431,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Environmental Monitoring Robotics And Climate Sensing](./semiconductors/147-environmental-monitoring-robotics-and-climate-sensing.md)
 - [Mining Robotics And Geological Survey](./semiconductors/148-mining-robotics-and-geological-survey.md)
 - [Waste Recycling Robotics And Material Recovery](./semiconductors/149-waste-recycling-robotics-and-material-recovery.md)
+- [Food Processing Robotics And Packaging Quality](./semiconductors/150-food-processing-robotics-and-packaging-quality.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
