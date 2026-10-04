@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 criminal-procedure checkpoint
+
+- Topic: `advanced-legal-procedure-and-judicial-accountability`
+- File: `05-investigation-and-criminal-procedure.md`
+- Coverage: 12 advanced-native/news-formal targets for opening and closing investigations, non-prosecution and deferred prosecution, indictments, detention warrants, search-and-seizure warrants, pre-detention hearings, evidence tampering, the right to remain silent, presumption of innocence, and sentencing guidelines (`수사 개시`, `수사 종결`, `불기소 처분`, `기소 유예`, `공소 제기`, `구속 영장`, `압수수색 영장`, `구속 전 피의자 심문`, `증거 인멸`, `진술 거부권`, `무죄 추정`, `양형 기준`).
+- Passage coverage: one coherent 57-eojeol Korean criminal-procedure passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,239 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
