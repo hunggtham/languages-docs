@@ -453,6 +453,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Wildfire And Forest Response Robotics](./semiconductors/169-wildfire-and-forest-response-robotics.md)
 - [Livestock Aquaculture And Animal Care Robotics](./semiconductors/170-livestock-aquaculture-and-animal-care-robotics.md)
 - [Precision Crop And Agricultural Robotics](./semiconductors/171-precision-crop-and-agricultural-robotics.md)
+- [Road And Highway Maintenance Robotics](./semiconductors/172-road-and-highway-maintenance-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
