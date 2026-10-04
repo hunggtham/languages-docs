@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,011 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 power-market checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `04-power-supply-and-market-transition.md`
+- Coverage: 12 advanced-native/news-formal targets for electricity supply-demand, reserve margins, supply insecurity, peak demand, distributed generation, renewable curtailment, power storage, hydrogen co-firing, offshore wind, cost-reflective tariffs, fuel-cost pass-through, and generation mixes (`전력 수급`, `전력 예비율`, `수급 불안`, `전력 피크`, `분산 전원`, `재생에너지 출력제어`, `전력 저장장치`, `수소 혼소`, `해상풍력`, `전기요금 현실화`, `연료비 연동제`, `발전 믹스`).
+- Passage coverage: one coherent 52-eojeol Korean power-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,023 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-03 diplomatic-signals checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
