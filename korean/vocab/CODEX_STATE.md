@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,255 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 relational-signals checkpoint
+
+- Topic: `advanced-interpersonal-nuance`
+- File: `04-native-relational-signals-and-replies.md`
+- Coverage: 12 contemporary-native-hot/native-spoken targets for changing the subject, verbal backchanneling, indirect speech, snapping, awkward silence, watching others' reactions, ending a relationship, signs of interest, trailing off, lukewarm reactions, shifted atmospheres, and emotional arcs (`말 돌리다`, `맞장구치다`, `돌려 말하다`, `발끈하다`, `어색한 침묵`, `눈치 보다`, `관계를 정리하다`, `호감 신호`, `말끝을 흐리다`, `반응이 미적지근하다`, `기류가 달라지다`, `감정선`).
+- Passage coverage: one coherent 49-eojeol Korean relational-signals passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,339 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 administrative-coordination checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
