@@ -1078,6 +1078,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,419 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 care-access checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `05-care-access-and-continuity.md`
+- Coverage: 12 advanced-native `news_formal` targets for care waiting times, healthcare delivery systems, regional healthcare, medical overuse, healthcare quality management, post-discharge and care linkages, hospice and palliative care, medical interpretation, medical-cost burden, and rare diseases (`진료 대기`, `의료 전달체계`, `지역 의료`, `의료 과잉`, `의료 질 관리`, `퇴원 연계`, `돌봄 연계`, `호스피스`, `완화의료`, `의료 통역`, `진료비 부담`, `희귀질환`).
+- Passage coverage: one coherent 34-eojeol Korean healthcare-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,431 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
