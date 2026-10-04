@@ -360,6 +360,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Topological Band Theory And Protected States](./semiconductors/76-topological-band-theory-and-protected-states.md)
 - [Anyon Physics And Topological Error Correction](./semiconductors/77-anyon-physics-and-topological-error-correction.md)
 - [Quantum Error Codes And Decoders](./semiconductors/78-quantum-error-codes-and-decoders.md)
+- [Fault-Tolerant Syndrome Processing](./semiconductors/79-fault-tolerant-syndrome-processing.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
