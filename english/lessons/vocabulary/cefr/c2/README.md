@@ -447,6 +447,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Pharmaceutical Manufacturing And Sterile Processing Robotics](./semiconductors/163-pharmaceutical-manufacturing-and-sterile-processing-robotics.md)
 - [Water Treatment And Utility Infrastructure Robotics](./semiconductors/164-water-treatment-and-utility-infrastructure-robotics.md)
 - [Banking Branch And Cash Operations Robotics](./semiconductors/165-banking-branch-and-cash-operations-robotics.md)
+- [Battery Manufacturing And Energy Storage Robotics](./semiconductors/166-battery-manufacturing-and-energy-storage-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
