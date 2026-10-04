@@ -1069,6 +1069,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,146 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 agricultural-risk checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `09-agricultural-risk-and-food-price-governance.md`
+- Coverage: 12 advanced-native agricultural risk, food-price, rural, and climate-policy targets in the `news_formal` lane (`농업 탄소배출권`, `농업보험 사각지대`, `농산물선물시장`, `식품가격전가`, `농업세대교체`, `농촌생활권`, `농업용수배분`, `농지임대차`, `농업외국인노동`, `농업재해복구`, `식품원료대체`, `기후작황전망`).
+- Passage coverage: one coherent 49-eojeol Korean food-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 lifestyle-slang checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
