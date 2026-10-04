@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,877 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 macro-outlook checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `12-macro-outlook-and-external-shocks.md`
+- Coverage: 12 advanced-native targets for inflation expectations, unemployment gaps, output gaps, employment rates, economic sentiment, terms of trade, capital outflows, exchange-rate surges, import prices, supply shocks, demand contraction, and growth outlooks (`기대 인플레이션`, `실업률 갭`, `생산갭`, `고용률`, `경제심리`, `교역조건`, `자본유출`, `환율 급등`, `수입 물가`, `공급 충격`, `수요 위축`, `성장률 전망`).
+- Passage coverage: one coherent 46-eojeol Korean macroeconomic passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,916 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-04 ai-digital-governance checkpoint
 
 - Topic: `technology-and-digital-life`
