@@ -997,6 +997,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (2,987 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 participatory-policy checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `09-participatory-policy-and-feedback.md`
+- Coverage: 12 advanced-native/news-formal targets for civic participation, deliberative processes and procedures, public hearings, public deliberation, policy advice, advisory committees, public-input collection, policy feedback loops, policy monitoring, social consensus, and participatory governance (`시민참여`, `숙의 과정`, `숙의 절차`, `공청회`, `공론화`, `정책 자문`, `자문위원회`, `의견 수렴`, `정책 환류`, `정책 모니터링`, `사회적 합의`, `참여 거버넌스`).
+- Passage coverage: one coherent 49-eojeol Korean participatory-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,203 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 education-demography checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
