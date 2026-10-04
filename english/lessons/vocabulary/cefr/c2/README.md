@@ -422,6 +422,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Warehouse Robotics And Order Fulfillment](./semiconductors/138-warehouse-robotics-and-order-fulfillment.md)
 - [Medical Robotics And Clinical Workflow Integration](./semiconductors/139-medical-robotics-and-clinical-workflow-integration.md)
 - [Agricultural Robotics And Precision Field Operations](./semiconductors/140-agricultural-robotics-and-precision-field-operations.md)
+- [Underwater Robotics And Marine Navigation](./semiconductors/141-underwater-robotics-and-marine-navigation.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
