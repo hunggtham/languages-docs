@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 education-governance checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `06-learning-outcomes-and-school-governance.md`
+- Coverage: 12 advanced-native/contemporary-native targets for educational attainment, infringement of teachers' authority, closing education gaps, student-personalized support, learning recovery, teacher attrition, school autonomy, local talent, university under-enrollment, education data, career linkage, and education innovation (`교육 성취도`, `교권 침해`, `교육 격차 해소`, `학생 맞춤형`, `학습 회복`, `교원 이탈`, `학교 자율성`, `지역 인재`, `대학 미충원`, `교육 데이터`, `진로 연계`, `교육 혁신`).
+- Passage coverage: one coherent 48-eojeol Korean education-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,940 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
