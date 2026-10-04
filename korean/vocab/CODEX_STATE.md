@@ -1105,6 +1105,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,719 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `16` checkpoint.
 
+## 2026-10-04 newsroom-accountability checkpoint
+
+- Topic: `media-literacy-and-public-trust`
+- File: `04-newsroom-accountability-and-information-bubbles.md`
+- Coverage: 12 advanced-native/contemporary-native targets for journalistic accountability, reporting ethics, corrections of false reports, investigative journalism, whistleblowing, news bias, editorial independence, filter bubbles, information overload, digital news, news recommendations, and media self-regulation (`언론 책임`, `보도 윤리`, `오보 정정`, `탐사 저널리즘`, `내부 고발`, `보도 편향`, `편집 독립`, `필터 버블`, `정보 과잉`, `디지털 뉴스`, `뉴스 추천`, `언론 자율규제`).
+- Passage coverage: one coherent 108-eojeol Korean newsroom-and-information passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,731 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`

@@ -9,3 +9,4 @@
 - [정보를 읽고 공론을 판단하기](./01-reading-information-and-public-discourse.md)
 - [정보전·검증·공론의 책임](./02-information-warfare-and-verification.md)
 - [출처·맥락·공론의 미디어 감각](./03-source-context-and-public-deliberation.md) — `출처 신뢰도`, `맥락 검증`, `공론장 왜곡`, `선택적 노출`, `미디어 신뢰도`, `공적 숙의`, `허위정보 대응`, `정보 검증 습관`, `언론 책임성`, `뉴스 피로`, `댓글 양극화`, `정보 생태계`
+- [뉴스룸 책임과 정보 거품의 언어](./04-newsroom-accountability-and-information-bubbles.md) — `언론 책임`, `보도 윤리`, `오보 정정`, `탐사 저널리즘`, `내부 고발`, `보도 편향`, `편집 독립`, `필터 버블`, `정보 과잉`, `디지털 뉴스`, `뉴스 추천`, `언론 자율규제`
