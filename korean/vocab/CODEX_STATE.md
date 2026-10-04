@@ -988,6 +988,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,299 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-04 relationship-chat checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `12-relationship-chat-and-reaction-slang.md`
+- Coverage: 12 contemporary-native-hot `native_spoken`/`slang_online` targets for messaging gaps, disappearing, ghosting breakups, first texts, relationship clarification, cutting-off cues, instant turn-offs, overinvestment, parasocial familiarity, reading the room, getting triggered, and exaggerated fan praise (`연락 텀`, `잠수 타다`, `잠수 이별`, `선톡`, `관계 정리`, `손절각`, `정뚝떨`, `과몰입`, `내적 친밀감`, `눈치 챙겨`, `긁히다`, `주접`).
+- Passage coverage: one coherent 38-eojeol Korean relationship-chat passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,311 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
