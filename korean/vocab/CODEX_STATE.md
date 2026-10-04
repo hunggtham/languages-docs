@@ -1643,3 +1643,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 117-eojeol Korean café-review conversation with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,563 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
+
+## 2026-10-04 regulatory-enforcement checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `11-regulatory-enforcement-and-administrative-accountability.md`
+- Coverage: 12 advanced-native targets for regulatory reform, administrative accountability, public data, information disclosure, audit recommendations, administrative sanctions, law enforcement, regulatory enforcement, policy effectiveness, administrative burden, administrative gaps, and discretionary administration (`규제 정비`, `행정 책임성`, `공공 데이터`, `정보 공개`, `감사 권고`, `행정 제재`, `법 집행`, `규제 집행`, `정책 실효성`, `행정 부담`, `행정 공백`, `재량 행정`).
+- Passage coverage: one coherent 111-eojeol Korean public-administration passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,575 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
