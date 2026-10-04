@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,279 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 news-algorithms checkpoint
+
+- Topic: `media-literacy-and-public-trust`
+- File: `06-news-algorithms-and-public-opinion.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for clickbait headlines, volume of media coverage, fact-checking organizations, public-opinion manipulation, networks of fake accounts, content-recommendation bias, news-consumption habits, platform algorithms, declining trust in news, source verification, comment armies, and public-opinion formation (`기사 제목 낚시`, `언론 보도량`, `팩트체크 기관`, `여론 조작`, `허위 계정 네트워크`, `콘텐츠 추천 편향`, `뉴스 소비 습관`, `플랫폼 알고리즘`, `뉴스 신뢰 하락`, `출처 검증`, `댓글 부대`, `여론 형성 과정`).
+- Passage coverage: one coherent 47-eojeol Korean media-literacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,303 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 insurance-aging checkpoint
 
 - Topic: `advanced-health-insurance-and-aging-policy`
