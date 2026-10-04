@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 9792 items in 490 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 9812 items in 491 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 18387 items (authoritative script count after the latest C2 checkpoint).
+- Total: 18407 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -66,6 +66,8 @@ At the beginning of every new run:
 At the end of every checkpoint update current level, last completed lesson, next lesson, actual counts by level, total count, intentional repeated senses, and blockers.
 
 ## Last checkpoint
+
+- Latest continuation added `c2/semiconductors/116-scan-test-and-design-for-test-diagnostics.md` with 20 scan-test, DFT, fault-modeling, diagnosis, coverage-cost, and test-power items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/115-hardware-security-and-tamper-resistance.md` with 20 hardware-security, side-channel, tamper-response, entropy, lifecycle, attestation, and debug-control items; the lesson uses one integrated review passage with Vietnamese translation.
 
