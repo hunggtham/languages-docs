@@ -103,3 +103,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## ecological-restoration
 
 - [Restoration And Population Dynamics](./ecological-restoration/01-restoration-and-population-dynamics.md)
+
+## mycology
+
+- [Fungal Structure And Reproductive Biology](./mycology/01-fungal-structure-and-reproductive-biology.md)
