@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,877 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 ai-digital-governance checkpoint
+
+- Topic: `technology-and-digital-life`
+- File: `03-ai-and-digital-governance.md`
+- Coverage: 12 advanced-native/contemporary-native targets for data fairness, privacy by design, open-source ecosystems, cloud lock-in, AI safety, technology neutrality, model evaluation, automation transitions, data lineage, service interoperability, technology impact assessment, and digital accessibility (`데이터 공정성`, `프라이버시 설계`, `오픈소스 생태계`, `클라우드 종속`, `AI 안전성`, `기술 중립성`, `모델 평가`, `자동화 전환`, `데이터 계보`, `서비스 상호운용성`, `기술 영향 평가`, `디지털 접근성`).
+- Passage coverage: one coherent 57-eojeol Korean AI-and-digital-governance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,889 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 justice-consumption checkpoint
 
 - Topic: `ethics-and-social-responsibility`
