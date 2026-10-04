@@ -1661,3 +1661,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 111-eojeol Korean justice-procedure passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,587 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
+## 2026-10-04 health-equity checkpoint
+
+- Topic: `advanced-health-insurance-and-aging-policy`
+- File: `05-health-equity-and-later-life-care.md`
+- Coverage: 12 advanced-native targets for health-care inequality, catastrophic medical costs, premium assessment, premium arrears, out-of-pocket costs, non-covered care, essential health care, care workforce, caregiving burden, long-term care insurance, longevity risk, and life-sustaining treatment decisions (`의료 불평등`, `의료비 과부담`, `보험료 부과`, `보험료 체납`, `본인 부담`, `비급여 진료`, `필수 의료`, `돌봄 인력`, `간병 부담`, `장기요양 보험`, `장수 리스크`, `연명의료 결정`).
+- Passage coverage: one coherent 116-eojeol Korean health-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,599 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
