@@ -1024,6 +1024,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,347 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 migration-policy checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `05-migration-policy-and-protection.md`
+- Coverage: 12 advanced-native `news_formal` targets for migration background, immigration policy and integration, social cohesion, multicultural education, settlement allowances, visa extensions, refugee recognition, protection applicants, border management, migration routes, and hate speech (`이주 배경`, `이민 정책`, `이민 통합`, `사회 통합`, `다문화 교육`, `정착금`, `비자 연장`, `난민 인정`, `보호 신청자`, `국경 관리`, `이주 경로`, `혐오 표현`).
+- Passage coverage: one coherent 40-eojeol Korean migration-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,359 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
