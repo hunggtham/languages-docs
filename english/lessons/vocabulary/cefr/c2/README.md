@@ -389,6 +389,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [RF Filters And Antenna Array Calibration](./semiconductors/105-rf-filters-and-antenna-array-calibration.md)
 - [SerDes Link Training And Jitter Tolerance](./semiconductors/106-serdes-link-training-and-jitter-tolerance.md)
 - [Coherent Optical Links And Fiber Impairments](./semiconductors/107-coherent-optical-links-and-fiber-impairments.md)
+- [Photonic Components And Resonator Control](./semiconductors/108-photonic-components-and-resonator-control.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
