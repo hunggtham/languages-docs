@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 newsroom-trust checkpoint
+
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `66-newsroom-trust-and-crisis-communication.md`
+- Coverage: 12 advanced-native/contemporary media targets for news skepticism, media distrust and trust, credibility surveys, reporting conventions, editorial judgment, newsworthiness, breaking-news races, clickbait headlines, sensationalist reporting, misinformation spread, and crisis communications (`뉴스 회의주의`, `언론 불신`, `미디어 신뢰`, `신뢰도 조사`, `보도 관행`, `편집 판단`, `기사 가치`, `속보 경쟁`, `낚시성 제목`, `선정적 보도`, `오보 확산`, `위기 커뮤니케이션`).
+- Passage coverage: one coherent 54-eojeol Korean newsroom-trust passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,179 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `66` checkpoint.
+
 ## 2026-10-04 insurance-pension checkpoint
 
 - Topic: `advanced-health-insurance-and-aging-policy`
