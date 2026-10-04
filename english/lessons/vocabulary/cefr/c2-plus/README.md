@@ -95,3 +95,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## entomology
 
 - [Insect Anatomy And Development](./entomology/01-insect-anatomy-and-development.md)
+
+## archaeobotany
+
+- [Archaeobotany And Zooarchaeology Evidence](./archaeobotany/01-archaeobotany-and-zooarchaeology-evidence.md)
