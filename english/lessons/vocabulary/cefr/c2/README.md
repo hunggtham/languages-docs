@@ -408,6 +408,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Robotic Reachability And Runtime Safety](./semiconductors/124-robotic-reachability-and-runtime-safety.md)
 - [Robotic Fault Tolerance And Health-Aware Planning](./semiconductors/125-robotic-fault-tolerance-and-health-aware-planning.md)
 - [Robotic Task Planning And Multi-Robot Coordination](./semiconductors/126-robotic-task-planning-and-multi-robot-coordination.md)
+- [Human–Robot Collaboration And Shared Autonomy](./semiconductors/127-human-robot-collaboration-and-shared-autonomy.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
