@@ -405,6 +405,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Robotic Contact Control And Constrained Planning](./semiconductors/121-robotic-contact-control-and-constrained-planning.md)
 - [Robotic Trajectory Optimization And Dynamic Feasibility](./semiconductors/122-robotic-trajectory-optimization-and-dynamic-feasibility.md)
 - [Robotic System Identification And Uncertainty-Aware Control](./semiconductors/123-robotic-system-identification-and-uncertainty-aware-control.md)
+- [Robotic Reachability And Runtime Safety](./semiconductors/124-robotic-reachability-and-runtime-safety.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
