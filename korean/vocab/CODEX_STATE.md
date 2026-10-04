@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,026 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 energy-system-investment checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `07-energy-system-investment-and-acceptance.md`
+- Coverage: 12 advanced-native targets for electricity-demand outlooks, grid reinforcement, electricity self-sufficiency, renewable-energy acceptance, electricity-bill burdens, electricity trading, generation-source transitions, nuclear safety, nuclear-waste management, hydrogen transport, carbon storage, and grid investment (`전력 수요 전망`, `계통 보강`, `전력 자립도`, `재생에너지 수용성`, `전력 요금 부담`, `전력 거래`, `발전원 전환`, `원전 안전성`, `핵폐기물 관리`, `수소 운송`, `탄소 저장`, `전력망 투자`).
+- Passage coverage: one coherent 41-eojeol Korean energy-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,038 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 workplace-coordination checkpoint
 
 - Topic: `practical-workplace-communication`
