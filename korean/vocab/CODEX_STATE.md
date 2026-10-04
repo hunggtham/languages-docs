@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,146 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 power-grid-flexibility checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `08-power-grid-flexibility-and-transition-costs.md`
+- Coverage: 12 advanced-native/news-formal targets for electricity-demand flexibility, grid bottlenecks, power-grid overload, power quality, electricity-market liberalization, electricity-rate hikes, clean-power certification, security of supply, electricity demand management, grid-connection delays, energy-security costs, and grid digitalization (`전력 수요 유연성`, `계통 병목`, `전력망 과부하`, `전력 품질`, `전력시장 개방`, `전력 요금 인상`, `청정전력 인증`, `공급 안정성`, `전력 수요 관리`, `전력망 접속 지연`, `에너지 안보 비용`, `전력망 디지털화`).
+- Passage coverage: one coherent 53-eojeol Korean power-grid passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,158 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 labor-rights-insurance checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
