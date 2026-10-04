@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,279 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 insurance-aging checkpoint
+
+- Topic: `advanced-health-insurance-and-aging-policy`
+- File: `06-insurance-aging-and-care-access.md`
+- Coverage: 12 advanced-native/news-formal targets for deteriorating insurance finances, upward pressure on premiums, retirement-income security, pension-reform debates, old-age dependency ratios, rising health-care spending, community-based care, long-term-care demand, extending healthy life expectancy, jobs for older adults, transition to an aging society, and access to care services (`보험 재정 악화`, `보험료 인상 압력`, `노후 소득 보장`, `연금 개혁 논의`, `고령 인구 부양비`, `의료비 지출 증가`, `지역사회 돌봄`, `장기요양 수요`, `건강수명 연장`, `노인 일자리`, `고령사회 진입`, `돌봄 서비스 접근`).
+- Passage coverage: one coherent 42-eojeol Korean insurance-and-aging passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,291 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 education-governance checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
