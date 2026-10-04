@@ -115,3 +115,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## materials
 
 - [Corrosion And Materials Processing](./materials/01-corrosion-and-materials-processing.md)
+
+## atmospheric-science
+
+- [Atmospheric Chemistry And Dynamics](./atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
