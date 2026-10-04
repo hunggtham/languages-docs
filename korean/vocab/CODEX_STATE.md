@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,315 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 citizen-notices checkpoint
+
+- Topic: `formal-notices-and-administration`
+- File: `03-citizen-notices-and-document-completion.md`
+- Coverage: 12 advanced-native/news-formal and native-spoken targets for administrative announcements, notices of administrative dispositions, citizen-complaint replies, requests for supplementation, submission-deadline extensions, administrative guidance notices, objection periods, receipt confirmations, incomplete documentation, processing delays, administrative pre-announcements, and implementation deferrals (`행정 공고문`, `처분 통지서`, `민원 답변서`, `보완 요청`, `제출 기한 연장`, `행정 안내문`, `이의 신청 기간`, `접수 확인`, `서류 미비`, `처리 지연`, `행정 예고`, `시행 유예`).
+- Passage coverage: one coherent 52-eojeol Korean citizen-notices passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,327 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 news-algorithms checkpoint
 
 - Topic: `media-literacy-and-public-trust`
