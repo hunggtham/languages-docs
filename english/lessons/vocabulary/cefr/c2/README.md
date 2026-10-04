@@ -477,6 +477,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Electronics Repair And Refurbishment Robotics](./semiconductors/193-electronics-repair-and-refurbishment-robotics.md)
 - [Music Instrument And Studio Service Robotics](./semiconductors/194-music-instrument-and-studio-service-robotics.md)
 - [Home Appliance And Domestic Service Robotics](./semiconductors/195-home-appliance-and-domestic-service-robotics.md)
+- [Aquarium And Aquatic Conservation Robotics](./semiconductors/196-aquarium-and-aquatic-conservation-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
