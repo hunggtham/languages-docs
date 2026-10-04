@@ -29,9 +29,9 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 10712 items in 536 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2: 10732 items in 537 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 0 items.
-- Total: 19307 items (authoritative script count after the latest C2 checkpoint).
+- Total: 19327 items (authoritative script count after the latest C2 checkpoint).
 
 ## Current position
 
@@ -39,7 +39,7 @@ Status: `READY`
 
 Current level: `C2`
 
-Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `162-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue C2 computing at local file `182-...`, semiconductors at local file `163-...`, biomedicine at local file `61-...`, or choose the next coherent C2 topic; repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when the next lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -74,6 +74,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2/semiconductors/159-airport-operations-and-ground-support-robotics.md` with 20 airport-service, baggage, runway, passenger-assistance, aircraft-turnaround, safety, and disruption-recovery items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/160-film-and-broadcast-production-robotics.md` with 20 film-production, motion-control, virtual-capture, broadcast, replay, teleprompter, and studio-coordination items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/161-smart-building-inspection-and-facility-robotics.md` with 20 smart-building inspection, indoor-environment, infrastructure-maintenance, emergency-guidance, and facility-digital-twin items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest continuation added `c2/semiconductors/162-hospitality-and-hotel-operations-robotics.md` with 20 hospitality, hotel-room, textile, guest-service, facility, accessibility, privacy, and checkout items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 
