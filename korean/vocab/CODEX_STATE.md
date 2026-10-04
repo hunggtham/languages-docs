@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,805 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 negotiation-channels checkpoint
+
+- Topic: `high-register-law-and-diplomacy`
+- File: `08-negotiation-channels-and-agreements.md`
+- Coverage: 12 advanced-native targets for negotiation breakdown and resumption, diplomatic off-ramps, mutual trust, compliance verification, draft agreements, ceasefire talks, informal contacts, high-level channels, confidential consultations, diplomatic buffers, and communication channels (`협상 결렬`, `협상 재개`, `외교적 출구`, `상호 신뢰`, `이행 검증`, `합의문 초안`, `정전 협상`, `비공식 접촉`, `고위급 채널`, `기밀 협의`, `외교적 완충`, `연락 채널`).
+- Passage coverage: one coherent 59-eojeol Korean negotiation-and-diplomacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,817 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
