@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 justice-consumption checkpoint
+
+- Topic: `ethics-and-social-responsibility`
+- File: `03-justice-consumption-and-social-value.md`
+- Coverage: 12 advanced-native/contemporary-native targets for environmental responsibility, ethical consumption, fair trade, fairness principles, procedural justice, intergenerational justice, ethics of care, ethics of responsibility, the common good, transparency principles, responsible investment, and social value (`환경 책임`, `윤리적 소비`, `공정 무역`, `공정성 원칙`, `절차적 정의`, `세대 간 정의`, `돌봄 윤리`, `책임 윤리`, `공공선`, `투명성 원칙`, `책임 있는 투자`, `사회적 가치`).
+- Passage coverage: one coherent 329-eojeol Korean ethics-and-social-value passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,768 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
