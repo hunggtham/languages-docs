@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,026 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 public-health-communication checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `12-public-health-communication-and-response.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for health-care response capacity, public-health guidance, risk-communication failure, vaccine supply chains, public-health interventions, epidemic curves, epidemiological transition, infectious-disease outbreaks, public-health crisis response, vaccine acceptance, community transmission, and rising disease burden (`의료 대응 역량`, `공중보건 권고`, `위험 소통 실패`, `백신 공급망`, `공중보건 개입`, `질병 유행 곡선`, `역학적 전환`, `감염병 유행`, `보건 위기 대응`, `백신 수용성`, `지역사회 전파`, `질병 부담 증가`).
+- Passage coverage: one coherent 45-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,194 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-04 employment-transition checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
