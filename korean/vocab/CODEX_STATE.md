@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,026 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-04 labor-rights-insurance checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `06-work-forms-and-social-insurance-gaps.md`
+- Coverage: 12 advanced-native/contemporary-native targets for four-day workweeks, platform workers, the right to rest, employment continuity, employment contracts, labor disputes, social-insurance coverage gaps, career-transition support, pay transparency, employee-status determination, labor-rights education, and work intensity (`주 4일제`, `플랫폼 종사자`, `휴식권`, `고용 승계`, `근로 계약`, `노동 분쟁`, `사회보험 사각지대`, `직업 전환 지원`, `임금 정보 공개`, `근로자성 판단`, `노동권 교육`, `노동 강도`).
+- Passage coverage: one coherent 51-eojeol Korean labor-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,050 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 energy-system-investment checkpoint
 
 - Topic: `advanced-energy-transition-and-power-security`
