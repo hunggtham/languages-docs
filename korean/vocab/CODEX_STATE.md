@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,071 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 urban-renewal checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `04-urban-renewal-and-tenant-risk.md`
+- Coverage: 12 advanced-native/news-formal targets for urban regeneration, downtown hollowing, residential density, zoning districts, floor-area and building-coverage ratios, improvement projects, redevelopment and reconstruction, jeonse fraud, deposit returns, and tenant-right registration (`도시 재생`, `도심 공동화`, `주거 밀도`, `용도 지역`, `용적률`, `건폐율`, `정비 사업`, `재개발 사업`, `재건축 사업`, `전세 사기`, `보증금 반환`, `임차권 등기`).
+- Passage coverage: one coherent 56-eojeol Korean urban-housing passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,083 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 public-accountability checkpoint
 
 - Topic: `public-affairs-and-accountability`

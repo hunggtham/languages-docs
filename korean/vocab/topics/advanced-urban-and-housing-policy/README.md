@@ -9,3 +9,4 @@
 - [도시 재편과 주거 권리](./01-urban-restructuring-and-housing-rights.md)
 - [주택 금융과 임차인 보호](./02-housing-finance-and-tenant-protection.md)
 - [주거 부담과 도시 형평성](./03-housing-affordability-and-urban-equity.md) — `주거비 부담률`, `공공임대 대기`, `둥지 내몰림`, `빈집 활용`, `15분 도시`, `토지임대부`, `분양전환`, `임대료 상한`, `주거 취약성`, `주거권 보장`, `개발이익 환수`, `공공기여`
+- [도시 재생과 임대차 위험의 정책 언어](./04-urban-renewal-and-tenant-risk.md) — `도시 재생`, `도심 공동화`, `주거 밀도`, `용도 지역`, `용적률`, `건폐율`, `정비 사업`, `재개발 사업`, `재건축 사업`, `전세 사기`, `보증금 반환`, `임차권 등기`
