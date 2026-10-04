@@ -1051,6 +1051,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,383 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
 
+## 2026-10-04 research-technology checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `09-research-technology-and-biosecurity.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for science-and-technology innovation, R&D investment, university–industry collaboration, research misconduct, paper retractions, peer review, the replication crisis, research openness, scientific uncertainty, technology impact assessment, emerging-technology regulation, and biosecurity (`과학기술 혁신`, `연구개발 투자`, `산학 협력`, `연구 부정`, `논문 철회`, `동료 심사`, `재현성 위기`, `연구 개방성`, `과학적 불확실성`, `기술 영향평가`, `신기술 규제`, `바이오 안보`).
+- Passage coverage: one coherent 38-eojeol Korean science-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,395 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
