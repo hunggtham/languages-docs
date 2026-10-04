@@ -1051,6 +1051,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,647 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-04 farm-income checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `07-farm-income-and-food-equity.md`
+- Coverage: 12 advanced-native targets for farm household income, farmland preservation, climate-smart agriculture, agricultural carbon, soil health, seed diversity, grain reserves, price volatility, farm-gate prices, consumer prices, food inequality, and rural communities (`농가 소득`, `농지 보전`, `기후 스마트 농업`, `농업 탄소`, `토양 건강`, `종자 다양성`, `곡물 비축`, `가격 변동성`, `산지 가격`, `소비자 물가`, `먹거리 불평등`, `농촌 공동체`).
+- Passage coverage: one coherent 119-eojeol Korean food-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,659 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
