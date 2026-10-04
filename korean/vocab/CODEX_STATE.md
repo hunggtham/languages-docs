@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,952 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
 
+## 2026-10-04 shortforms-casual-memes checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `18-shortforms-and-casual-memes.md`
+- Coverage: 12 contemporary-native-hot targets for chicken-choice memes, over-abbreviation jokes, same-day hangout invitations, inclusive manners, attendance-shaming memes, office memes, lunch-menu requests, after-work overnight trips, workout check-ins, solo leisure, iced Americanos, and iced-drink loyalty (`당모치`, `별다줄`, `오놀아놈`, `무지개 매너`, `개근거지`, `직장인 밈`, `점메추`, `퇴근박`, `오하운`, `혼놀`, `아아`, `얼죽아`).
+- Passage coverage: one coherent 46-eojeol Korean shortforms-and-memes passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,964 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `18` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
