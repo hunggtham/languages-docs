@@ -970,6 +970,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,275 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-04 performance-controls checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `08-performance-controls-and-institutional-coordination.md`
+- Coverage: 12 advanced-native `news_formal` targets for performance management and pay, job descriptions, role conflict, cross-functional collaboration, horizontal communication, internal controls, emergency-response systems, psychological safety, governance-body operation, stakeholder coordination, and company-wide responses (`성과 관리`, `성과급`, `직무 기술서`, `역할 갈등`, `부서 간 협업`, `수평적 소통`, `내부 통제`, `비상 대응 체계`, `심리적 안전감`, `회의체 운영`, `이해관계 조정`, `전사적 대응`).
+- Passage coverage: one coherent 38-eojeol Korean workplace-governance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,287 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
