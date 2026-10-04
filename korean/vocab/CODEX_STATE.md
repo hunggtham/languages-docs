@@ -1123,6 +1123,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,743 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 data-rights checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `08-data-rights-and-digital-trust.md`
+- Coverage: 13 advanced-native/contemporary-native targets for data rights, digital trust, data security, privacy by design, data subjects, data-processing transparency, data-collection consent, sensitive information, biometric data, location data, electronic identity, identity verification, and recommender systems (`데이터 권리`, `디지털 신뢰`, `데이터 보안`, `개인정보 보호 설계`, `정보 주체`, `데이터 처리 투명성`, `데이터 수집 동의`, `민감 정보`, `생체정보`, `위치정보`, `전자 신원`, `신원 인증`, `추천 시스템`).
+- Passage coverage: one coherent 109-eojeol Korean data-rights passage with all 13 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,756 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
