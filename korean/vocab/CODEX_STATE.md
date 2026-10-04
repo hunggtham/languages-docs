@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,768 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 policy-legitimacy checkpoint
+
+- Topic: `speech-and-public-discourse`
+- File: `02-policy-legitimacy-and-governance.md`
+- Coverage: 12 advanced-native/contemporary-native targets for governance gaps, conflicts of interest, agenda setting, institutional inertia, structural vulnerability, policy experiments, policy legitimacy, institutional design, restoring publicness, policy fatigue, coordination failure, and implementation capacity (`거버넌스 공백`, `이해 상충`, `의제 설정`, `제도적 관성`, `구조적 취약성`, `정책 실험`, `정책 정당성`, `제도 설계`, `공공성 회복`, `정책 피로감`, `조정 실패`, `현장 집행력`).
+- Passage coverage: one coherent 84-eojeol Korean governance-and-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,780 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `02` checkpoint.
+
 ## 2026-10-04 labor-rights checkpoint
 
 - Topic: `advanced-labor-rights-and-social-protection`
