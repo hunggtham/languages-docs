@@ -357,6 +357,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Neutral-Atom Gate Fidelity And Transport](./semiconductors/73-neutral-atom-gate-fidelity-and-transport.md)
 - [Quantum Simulation And Many-Body Dynamics](./semiconductors/74-quantum-simulation-and-many-body-dynamics.md)
 - [Criticality And Nonequilibrium Quantum Dynamics](./semiconductors/75-criticality-and-nonequilibrium-quantum-dynamics.md)
+- [Topological Band Theory And Protected States](./semiconductors/76-topological-band-theory-and-protected-states.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
