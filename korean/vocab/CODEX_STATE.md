@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 technology-validation checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `11-technology-validation-and-deployment.md`
+- Coverage: 12 advanced-native/contemporary-native targets for research reproducibility, research-funding cuts, technology maturity, commercialization potential, patent disputes, regulatory science, clinical validation, experimental replication, training-data bias, AI explainability, model alignment, and computing resources (`연구자 재현성`, `연구비 삭감`, `기술 성숙도`, `상용화 가능성`, `특허 분쟁`, `규제 과학`, `임상 검증`, `실험 재현`, `학습 데이터 편향`, `AI 설명력`, `모델 정렬`, `컴퓨팅 자원`).
+- Passage coverage: one coherent 49-eojeol Korean science-and-technology passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,062 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-04 public-health-risk checkpoint
 
 - Topic: `everyday-health-and-safety`
