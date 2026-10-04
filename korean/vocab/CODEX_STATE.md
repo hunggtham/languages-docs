@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 gaps-oversight checkpoint
+
+- Topic: `public-affairs-and-accountability`
+- File: `05-gaps-oversight-and-public-trust.md`
+- Coverage: 12 advanced-native/news-formal targets for institutional loopholes, oversight vacuums, transparency measures, concentration of power, post-implementation verification, erosion of publicness, policy gaps, audit launches, institutional trust, policy monitoring, public scrutiny, and civic oversight networks (`제도적 허점`, `감독 공백`, `투명성 강화`, `권력 집중`, `사후 검증`, `공공성 훼손`, `정책 공백`, `감사 착수`, `제도 신뢰`, `정책 감시`, `공적 검증`, `공공 감시망`).
+- Passage coverage: one coherent 50-eojeol Korean accountability passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,098 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 current-chat-memes checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
