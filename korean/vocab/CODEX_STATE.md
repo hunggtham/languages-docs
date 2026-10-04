@@ -1033,6 +1033,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,359 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 digital-finance checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `08-digital-finance-and-consumer-risk.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for financial-product explanations, voice phishing, investment fraud, virtual-asset exchanges, digital assets, security tokens, financial innovation, fintech regulation, credit assessment and scores, personal credit information, and interest-rate reduction requests (`금융 상품 설명`, `보이스피싱`, `투자 사기`, `가상자산 거래소`, `디지털 자산`, `토큰 증권`, `금융 혁신`, `핀테크 규제`, `신용 평가`, `신용 점수`, `개인 신용정보`, `금리 인하 요구권`).
+- Passage coverage: one coherent 38-eojeol Korean digital-finance passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,371 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
