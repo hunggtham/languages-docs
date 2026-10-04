@@ -362,6 +362,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Quantum Error Codes And Decoders](./semiconductors/78-quantum-error-codes-and-decoders.md)
 - [Fault-Tolerant Syndrome Processing](./semiconductors/79-fault-tolerant-syndrome-processing.md)
 - [Correlated Noise And Error Mitigation](./semiconductors/80-correlated-noise-and-error-mitigation.md)
+- [Quantum Device Characterization](./semiconductors/81-quantum-device-characterization.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
