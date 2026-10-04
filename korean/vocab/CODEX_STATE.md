@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,976 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 borrower-protection checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `10-borrower-protection-and-financial-disclosure.md`
+- Coverage: 14 advanced-native/contemporary-native targets for loan refinancing, financial blind spots, principal repayment, loan limits, credit risk, financial-product comparison, breaches of the duty to explain, risk profiles, principal loss, illegal debt collection, debt counseling, repayment plans, debt burdens, and consumer alerts (`대환 대출`, `금융 사각지대`, `원금 상환`, `대출 한도`, `신용 위험`, `금융상품 비교`, `설명의무 위반`, `투자 성향`, `원금 손실`, `불법 추심`, `채무 상담`, `상환 계획`, `채무 부담`, `소비자 경고`).
+- Passage coverage: one coherent 60-eojeol Korean borrower-protection passage with all 14 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,990 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 fandom-social checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
