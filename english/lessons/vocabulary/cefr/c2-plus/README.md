@@ -31,3 +31,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## book-arts
 
 - [Bookbinding And Manuscript Conservation](./book-arts/01-bookbinding-and-manuscript-conservation.md)
+
+## stagecraft
+
+- [Theater Stagecraft And Costume Language](./stagecraft/01-theater-stagecraft-and-costume-language.md)
