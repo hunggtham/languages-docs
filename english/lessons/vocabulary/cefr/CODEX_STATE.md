@@ -31,8 +31,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 20 items in 1 topic file; expansion is active in `food-and-wine`.
-- Total: 20020 items (authoritative script count after the first C2+ checkpoint).
+- C2+: 40 items in 2 topic files; expansion is active in `food-and-wine` and `ceramics`.
+- Total: 20040 items (authoritative script count after the latest C2+ checkpoint).
 
 ## Current position
 
@@ -112,6 +112,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Final target checkpoint added `c2/semiconductors/196-aquarium-and-aquatic-conservation-robotics.md` with 13 aquarium operations, aquatic education, animal-care, visitor-flow, and coral-restoration items; the lesson uses one integrated review passage with Vietnamese translation and brings the corpus to exactly 20,000 items.
 - New continuation contract raises the verified corpus target from 20,000 to 30,000 items and starts the C2+ expansion from the next coherent topic folder.
 - First C2+ continuation added `c2-plus/food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md` with 20 advanced wine-production and sensory-evaluation items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest C2+ continuation added `c2-plus/ceramics/01-studio-pottery-process-and-glaze-chemistry.md` with 20 studio-pottery forming, firing, glaze, and surface-treatment items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 

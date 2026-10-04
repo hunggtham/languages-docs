@@ -7,3 +7,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## food-and-wine
 
 - [Wine Sensory Evaluation And Cellar Language](./food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md)
+
+## ceramics
+
+- [Studio Pottery Process And Glaze Chemistry](./ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
