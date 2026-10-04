@@ -1006,6 +1006,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,323 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-04 grid-hydrogen checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `05-grid-hydrogen-and-nuclear-policy.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for grid stability, distributed generation, energy storage, grid interconnection, energy efficiency, demand management, nuclear plant life extension and decommissioning, spent nuclear fuel, the hydrogen economy, clean hydrogen, and carbon capture (`전력망 안정성`, `분산형 전원`, `에너지 저장장치`, `계통 접속`, `에너지 효율`, `수요 관리`, `원전 수명 연장`, `원전 해체`, `사용후핵연료`, `수소 경제`, `청정 수소`, `탄소 포집`).
+- Passage coverage: one coherent 44-eojeol Korean energy-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,335 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
