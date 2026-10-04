@@ -1096,6 +1096,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,707 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-04 fandom-lifestyle-slang checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `16-fandom-lifestyle-and-review-slang.md`
+- Coverage: 12 contemporary-native-hot targets for disciplined living, real-life busyness, true fans, genuine devotion, like-and-support requests, extremely boring content, strong laughter, dismissive chat replies, shorthand agreement, “for real” shorthand, great-value products, and taste matching (`갓생 살다`, `현생러`, `찐팬`, `찐사랑`, `좋관부`, `핵노잼`, `개웃기다`, `어쩔`, `ㅇㅈ`, `ㄹㅇ`, `혜자`, `취저`).
+- Passage coverage: one coherent 89-eojeol Korean fandom-and-review conversation with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,719 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `16` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
