@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,206 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-04 fandom-chat checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `20-fandom-chat-and-online-identity.md`
+- Coverage: 13 contemporary-native-hot targets for online pet parents, successful fans, fandom outsiders, empty bank accounts, switching to informal speech, following first, unfollowing, online friends, open group chats, fully glammed-up styling, attending events in person, fandom buddies, and all-time favorite characters (`랜선 집사`, `성덕`, `머글`, `텅장`, `반모`, `선팔`, `언팔`, `랜선 친구`, `오픈채팅`, `꾸꾸꾸`, `직관`, `덕질 메이트`, `인생캐`).
+- Passage coverage: one coherent 49-eojeol Korean fandom-chat passage with all 13 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 13 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,219 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `20` checkpoint.
+
 ## 2026-10-04 migration-reception checkpoint
 
 - Topic: `advanced-cultural-identity-and-migration`
