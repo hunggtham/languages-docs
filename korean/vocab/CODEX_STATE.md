@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-04 insurance-pension checkpoint
+
+- Topic: `advanced-health-insurance-and-aging-policy`
+- File: `04-insurance-finance-and-pension-access.md`
+- Coverage: 12 advanced-native/news-formal targets for health-insurance premiums and rates, insurance finances, copayments and caps, non-covered-service management, covered benefits, medical-cost burdens, retirement income, pension receipt, the National Pension, and long-term-care grades (`건강보험료`, `보험료율`, `보험 재정`, `본인부담금`, `본인부담 상한`, `비급여 관리`, `건강보험 급여`, `의료비 부담`, `노후 소득`, `연금 수급`, `국민연금`, `장기요양 등급`).
+- Passage coverage: one coherent 46-eojeol Korean insurance-and-pension passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,167 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 conflict-repair checkpoint
 
 - Topic: `advanced-emotion-and-conflict`
