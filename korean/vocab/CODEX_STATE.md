@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 fandom-social checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `10-fandom-social-media-and-solitary-slang.md`
+- Coverage: 12 contemporary-native-hot targets for overdoing a joke, fandom denial and accidental fandom entry, cultural cluelessness, social/outcast power, TMI, natural-meeting dating, taste respect, solo coin karaoke, block-worthy situations, and leaving messages unread (`뇌절`, `입덕 부정기`, `덕통사고`, `문찐`, `인싸력`, `아싸력`, `TMI`, `자만추`, `취존`, `혼코노`, `차단각`, `안읽씹`).
+- Passage coverage: one coherent 71-eojeol Korean fandom-and-social-media passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,215 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 food-security checkpoint
 
 - Topic: `advanced-food-security-and-agricultural-policy`
