@@ -400,6 +400,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Scan Test And Design For Test Diagnostics](./semiconductors/116-scan-test-and-design-for-test-diagnostics.md)
 - [Virtual Metrology And Process Health Control](./semiconductors/117-virtual-metrology-and-process-health-control.md)
 - [Process Analytics And Adaptive Model Monitoring](./semiconductors/118-process-analytics-and-adaptive-model-monitoring.md)
+- [Edge AI Accelerator Mapping And Quantization](./semiconductors/119-edge-ai-accelerator-mapping-and-quantization.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
