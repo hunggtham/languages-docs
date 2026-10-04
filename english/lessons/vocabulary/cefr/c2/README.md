@@ -364,6 +364,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Correlated Noise And Error Mitigation](./semiconductors/80-correlated-noise-and-error-mitigation.md)
 - [Quantum Device Characterization](./semiconductors/81-quantum-device-characterization.md)
 - [Process Representations And Calibration Metrics](./semiconductors/82-process-representations-and-calibration-metrics.md)
+- [System Identification And Active Calibration](./semiconductors/83-system-identification-and-active-calibration.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
