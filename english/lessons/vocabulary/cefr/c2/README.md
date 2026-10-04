@@ -474,6 +474,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Insurance Claims And Property Risk Robotics](./semiconductors/190-insurance-claims-and-property-risk-robotics.md)
 - [Cybersecurity Operations And Secure Facility Robotics](./semiconductors/191-cybersecurity-operations-and-secure-facility-robotics.md)
 - [Office Facility And Workplace Service Robotics](./semiconductors/192-office-facility-and-workplace-service-robotics.md)
+- [Electronics Repair And Refurbishment Robotics](./semiconductors/193-electronics-repair-and-refurbishment-robotics.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
