@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 casual-work-fandom checkpoint
+
+- Topic: `slang-and-pragmatic-spoken-korean`
+- File: `09-workplace-and-fandom-casual-talk.md`
+- Coverage: 12 contemporary-native-hot/native-spoken or slang-online targets for real-life busyness, joking about quitting, loafing at work, capable coworkers, timing games, social cluelessness, reading the room, mood makers, chemistry, conversational compatibility, main personas, and side personas (`현생 살다`, `퇴사각`, `월급 루팡`, `일잘러`, `눈치 게임`, `눈치 없다`, `눈치 챙기다`, `분위기 메이커`, `케미`, `말이 통하다`, `본캐`, `부캐`).
+- Passage coverage: one coherent 69-eojeol Korean workplace-and-fandom passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,107 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-02 transitional-justice checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
