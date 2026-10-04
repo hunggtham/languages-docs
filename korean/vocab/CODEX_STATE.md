@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,267 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
 
+## 2026-10-04 urban-mobility checkpoint
+
+- Topic: `advanced-mobility-and-transport-policy`
+- File: `06-urban-mobility-and-transport-capacity.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for downtown traffic, public-transit transfers, transport-demand forecasting, autonomous-driving regulation, shared mobility, last-mile mobility, traffic-safety blind spots, road-congestion costs, mobility rights, aging transport infrastructure, rail-network expansion, and transport-data integration (`도심 통행`, `대중교통 환승`, `교통 수요 예측`, `자율주행 규제`, `공유 모빌리티`, `라스트마일 이동`, `교통 안전 사각지대`, `도로 혼잡 비용`, `이동권 보장`, `교통 인프라 노후화`, `철도망 확충`, `교통 데이터 연계`).
+- Passage coverage: one coherent 41-eojeol Korean urban-mobility passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,279 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 education-governance checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
