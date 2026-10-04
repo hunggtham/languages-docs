@@ -1033,6 +1033,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,623 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-04 migrant-rights checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `06-migrant-rights-and-transnational-lives.md`
+- Coverage: 12 advanced-native targets for migrant employment, migrants’ health, education, and housing rights, undocumented migrants, forced displacement, settlement costs, assimilation pressure, migrant representation, nationality acquisition, naturalization requirements, and remittance economies (`이주민 고용`, `이주민 건강권`, `이주민 교육권`, `이주민 주거권`, `미등록 이주민`, `강제 이주`, `정착 비용`, `동화 압력`, `이주민 대표성`, `국적 취득`, `귀화 요건`, `송금 경제`).
+- Passage coverage: one coherent 114-eojeol Korean migration-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,635 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 urban-climate-housing checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
