@@ -1105,6 +1105,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,455 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `03` checkpoint.
 
+## 2026-10-04 food-security-structure checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `06-food-security-and-farm-structure.md`
+- Coverage: 12 advanced-native/contemporary-hot `news_formal` targets for food security, agricultural productivity and structure, rural aging, the agricultural workforce, direct payments, produce distribution and margins, food prices and crises, pesticide residues, and precision agriculture (`식량 안보`, `농업 생산성`, `농업 구조`, `농촌 고령화`, `농업 인력`, `직불금`, `농산물 유통`, `유통 마진`, `식품 가격`, `식량 위기`, `농약 잔류`, `정밀 농업`).
+- Passage coverage: one coherent 36-eojeol Korean food-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,467 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-04 newsroom-trust checkpoint
 
 - Topic: `high-register-media-and-cultural-criticism`
