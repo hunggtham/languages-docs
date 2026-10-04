@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,119 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-04 labor-rights checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `04-employment-insecurity-and-workplace-remedies.md`
+- Coverage: 12 advanced-native/news-formal targets for employment insecurity, non-regular work, minimum wages, salary negotiation, collective wage bargaining, unemployment benefits, employment insurance, workers’ compensation claims, work-related injuries, labor inspections, workplace discrimination, and workplace bullying (`고용 불안정`, `비정규직`, `최저임금`, `임금 협상`, `임금 교섭`, `실업 급여`, `고용 보험`, `산재 신청`, `업무상 재해`, `근로 감독`, `직장 내 차별`, `직장 괴롭힘`).
+- Passage coverage: one coherent 58-eojeol Korean labor-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global uniqueness (3,131 structured entries, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-04 casual-work-fandom checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
