@@ -1625,3 +1625,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 133-eojeol Korean online-safety passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,539 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
+## 2026-10-04 workplace-autonomy checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `09-workplace-autonomy-and-wellbeing.md`
+- Coverage: 12 advanced-native/contemporary-native targets for organizational culture, job autonomy, work discretion, performance pressure, workplace harassment, after-hours contact, remote work, hybrid work, job satisfaction, organizational commitment, turnover intention, and promotion bottlenecks (`조직 문화`, `업무 자율성`, `업무 재량`, `성과 압박`, `직장 내 괴롭힘`, `퇴근 후 연락`, `원격근무`, `하이브리드 근무`, `직무 만족도`, `조직 몰입`, `이직 의향`, `승진 적체`).
+- Passage coverage: one coherent 114-eojeol Korean workplace discourse passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,551 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
