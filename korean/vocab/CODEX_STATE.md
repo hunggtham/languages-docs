@@ -1033,6 +1033,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,122 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-04 essential-care-capacity checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `07-essential-care-capacity-and-access.md`
+- Coverage: 12 advanced-native/news-formal and contemporary-native targets for collapse of essential care, gaps in care delivery, regional care completeness, bed shortages, rising medical costs, critically ill patients, care chaos, emergency-care capacity, deepening care gaps, health-care utilization disparities, access to essential care, and clinical capacity (`필수의료 붕괴`, `의료 전달 공백`, `지역 완결성`, `병상 부족`, `의료 비용 상승`, `중증 환자`, `진료 대란`, `응급 수용력`, `의료 공백 심화`, `의료 이용 격차`, `필수의료 접근`, `진료 역량`).
+- Passage coverage: one coherent 52-eojeol Korean essential-care passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (4,134 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-04 gaps-oversight checkpoint
 
 - Topic: `public-affairs-and-accountability`
