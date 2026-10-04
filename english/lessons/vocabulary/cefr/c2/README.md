@@ -351,6 +351,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Time Scales And Clock Steering](./semiconductors/67-time-scales-and-clock-steering.md)
 - [Precision Spectroscopy And Linewidths](./semiconductors/68-precision-spectroscopy-and-linewidths.md)
 - [Atomic Transitions And State Lifetimes](./semiconductors/69-atomic-transitions-and-state-lifetimes.md)
+- [Laser Cooling And Atomic Traps](./semiconductors/70-laser-cooling-and-atomic-traps.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
