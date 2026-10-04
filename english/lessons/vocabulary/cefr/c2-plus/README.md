@@ -51,3 +51,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## tea
 
 - [Tea Processing And Brewing Language](./tea/01-tea-processing-and-brewing-language.md)
+
+## glasswork
+
+- [Glassblowing And Kilnforming Language](./glasswork/01-glassblowing-and-kilnforming-language.md)
