@@ -31,8 +31,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 320 items in 16 topic files; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, and `cartography`.
-- Total: 20320 items (authoritative script count after the latest C2+ checkpoint).
+- C2+: 340 items in 17 topic files; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, and `astronomy`.
+- Total: 20340 items (authoritative script count after the latest C2+ checkpoint).
 
 ## Current position
 
@@ -127,6 +127,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest C2+ continuation added `c2-plus/blacksmithing/01-forging-and-steel-heat-treatment.md` with 20 forging, steel heat-treatment, hand-tool, blade geometry, and defect items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/perfumery/01-perfumery-and-olfactory-language.md` with 20 fragrance composition, extraction, diffusion, maturation, and sensory-evaluation items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/cartography/01-advanced-cartography-and-map-projection.md` with 20 map-projection, geodesy, surveying, navigation, and terrain-representation items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest C2+ continuation added `c2-plus/astronomy/01-observational-astronomy-and-detector-language.md` with 20 observational-astronomy, detector-calibration, spectroscopy, photometry, and survey items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 

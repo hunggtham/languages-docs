@@ -67,3 +67,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## cartography
 
 - [Advanced Cartography And Map Projection](./cartography/01-advanced-cartography-and-map-projection.md)
+
+## astronomy
+
+- [Observational Astronomy And Detector Language](./astronomy/01-observational-astronomy-and-detector-language.md)
