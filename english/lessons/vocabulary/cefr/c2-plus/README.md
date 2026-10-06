@@ -222,3 +222,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Causal Explanation Laws And Models](./philosophy-of-science/03-causal-explanation-laws-and-models.md)
 - [Representation Realism And Theory Choice](./philosophy-of-science/04-representation-realism-and-theory-choice.md)
 - [Realism Reference And Scientific Change](./philosophy-of-science/05-realism-reference-and-scientific-change.md)
+- [Open Science And Research Integrity](./philosophy-of-science/06-open-science-and-research-integrity.md)
