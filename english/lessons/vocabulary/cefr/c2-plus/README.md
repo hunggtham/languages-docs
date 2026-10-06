@@ -159,3 +159,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## biogeochemistry
 
 - [Redox And Biogeochemical Cycling](./biogeochemistry/01-redox-and-biogeochemical-cycling.md)
+
+## quantum-materials
+
+- [Quantum Condensed Matter And Materials](./quantum-materials/01-quantum-condensed-matter-and-materials.md)
