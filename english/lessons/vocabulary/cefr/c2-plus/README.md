@@ -265,3 +265,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Disability Inclusion And Independent Living](./philosophy-of-science/46-disability-inclusion-and-independent-living.md)
 - [Palliative Care And Serious Illness Communication](./philosophy-of-science/47-palliative-care-and-serious-illness-communication.md)
 - [Aging Frailty And Dementia Care](./philosophy-of-science/48-aging-frailty-and-dementia-care.md)
+- [Metabolic Health And Chronic Disease Management](./philosophy-of-science/49-metabolic-health-and-chronic-disease-management.md)
