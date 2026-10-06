@@ -970,6 +970,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 cultural-rights checkpoint
+
+- Topic: `high-register-media-and-cultural-criticism`
+- File: `68-cultural-rights-and-participation-policy.md`
+- Coverage: 12 advanced-native cultural-policy, creator-rights, cultural-labor, and participation targets in the `news_formal` lane (`문화예산`, `예술지원`, `문화적 권리`, `공공예술`, `지역문화분권`, `창작자권리`, `문화산업노동`, `문화정책평가`, `문화접근성`, `문화향유격차`, `문화기반시설`, `문화향유 기회`).
+- Passage coverage: one coherent 29-eojeol Korean cultural-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `68` checkpoint.
+
 ## 2026-10-06 deterrence-postwar checkpoint
 
 - Topic: `security-resources-and-conflict`
