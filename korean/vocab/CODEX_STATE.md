@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-06 trial-preparation checkpoint
+
+- Topic: `advanced-legal-procedure-and-judicial-accountability`
+- File: `07-trial-preparation-and-judgment-reasons.md`
+- Coverage: 12 advanced-native judicial-procedure, evidence, victim-protection, and appellate-review targets in the `news_formal` lane (`공판준비절차`, `공소장변경`, `증거동의`, `위법수집증거`, `법정모욕`, `판결문이유`, `양형자료`, `피해자보호명령`, `법원조정`, `집행유예조건`, `항소이유`, `상고심심리`).
+- Passage coverage: one coherent 33-eojeol Korean judicial-procedure passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-06 deterrence-postwar checkpoint
 
 - Topic: `security-resources-and-conflict`
