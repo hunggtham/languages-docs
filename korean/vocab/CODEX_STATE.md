@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-06 digital-fatigue checkpoint
+
+- Topic: `technology-and-digital-life`
+- File: `05-digital-fatigue-and-user-rights.md`
+- Coverage: 12 advanced-native digital-life, privacy, generative-media, account-security, and technology-mediation targets in the `news_formal` lane (`온라인평판`, `디지털피로`, `화면의존`, `데이터최소화`, `인증피로`, `개인정보자기결정`, `생성형콘텐츠`, `합성미디어`, `알고리즘추천피로`, `디지털유산`, `계정복구절차`, `기술중개`).
+- Passage coverage: one coherent 30-eojeol Korean digital-life passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-06 contract-governance checkpoint
 
 - Topic: `contracts-and-outsourcing`
