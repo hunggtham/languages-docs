@@ -256,3 +256,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Health Innovation Implementation And Scale](./philosophy-of-science/37-health-innovation-implementation-and-scale.md)
 - [Health Risk Messaging And Information Ecosystems](./philosophy-of-science/38-health-risk-messaging-and-information-ecosystems.md)
 - [Environmental Health Equity And Exposure](./philosophy-of-science/39-environmental-health-equity-and-exposure.md)
+- [Climate Health Adaptation And Resilience](./philosophy-of-science/40-climate-health-adaptation-and-resilience.md)
