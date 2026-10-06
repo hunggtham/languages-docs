@@ -184,3 +184,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## medical-imaging
 
 - [Advanced MRI CT And Perfusion Imaging](./medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
+
+## urban-planning
+
+- [Advanced Urban Planning And Land Use](./urban-planning/01-advanced-urban-planning-and-land-use.md)
