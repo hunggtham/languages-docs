@@ -230,3 +230,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Statistical Inference And Uncertainty](./philosophy-of-science/11-statistical-inference-and-uncertainty.md)
 - [Probability Chance And Decision](./philosophy-of-science/12-probability-chance-and-decision.md)
 - [Scientific Modeling And Simulation](./philosophy-of-science/13-scientific-modeling-and-simulation.md)
+- [Complexity Systems And Emergence](./philosophy-of-science/14-complexity-systems-and-emergence.md)
