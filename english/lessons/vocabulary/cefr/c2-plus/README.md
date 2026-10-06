@@ -209,6 +209,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## agroecology
 
 - [Crop Science And Agroecological Resilience](./agroecology/01-crop-science-and-agroecological-resilience.md)
+- [Food-System Resilience And Agrobiodiversity](./agroecology/02-food-system-resilience-and-agrobiodiversity.md)
 
 ## humanitarian-law
 
