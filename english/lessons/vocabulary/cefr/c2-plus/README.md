@@ -168,3 +168,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## statistical-learning
 
 - [Statistical Learning Theory And Generalization](./statistical-learning/01-statistical-learning-theory-and-generalization.md)
+
+## ecotoxicology
+
+- [Environmental Toxicology And Risk Assessment](./ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)

@@ -31,8 +31,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 840 items in 42 lesson files across 41 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, and `statistical-learning`.
-- Total: 20840 items (authoritative script count after the latest C2+ checkpoint).
+- C2+: 860 items in 43 lesson files across 42 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, and `ecotoxicology`.
+- Total: 20860 items (authoritative script count after the latest C2+ checkpoint).
 
 ## Current position
 
@@ -153,6 +153,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest C2+ continuation added `c2-plus/quantum-materials/01-quantum-condensed-matter-and-materials.md` with 20 band-structure, quantum-Hall, correlated-electron, collective-excitation, and superconducting-device items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/linguistics/02-morphosyntactic-typology-and-contact-change.md` with 20 morphosyntactic alignment, grammatical change, language-contact, sound-change, and mirativity items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/statistical-learning/01-statistical-learning-theory-and-generalization.md` with 20 complexity, generalization, concentration, resampling, and overparameterization items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest C2+ continuation added `c2-plus/ecotoxicology/01-environmental-toxicology-and-risk-assessment.md` with 20 exposure, dose-response, mechanistic toxicity, mixture, and ecological-protection items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 
