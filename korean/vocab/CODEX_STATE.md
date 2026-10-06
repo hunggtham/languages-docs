@@ -2517,6 +2517,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,563 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
 
+## 2026-10-06 administrative-access checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `15-administrative-access-and-policy-implementation.md`
+- Coverage: 12 advanced-native administrative-access, regulatory-transparency, policy-implementation, and public-accountability targets in the `news_formal` lane (`행정영향분석`, `정책조정협약`, `행정데이터표준`, `행정서비스접근권`, `규제정보공개`, `행정절차투명성`, `공공참여플랫폼`, `시민편의성`, `행정비용분담`, `정책시행력`, `규제신뢰도`, `공공기관책무`).
+- Passage coverage: one coherent 23-eojeol Korean administrative-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
+
 ## 2026-10-04 regulatory-enforcement checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
