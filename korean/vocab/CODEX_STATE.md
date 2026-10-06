@@ -970,6 +970,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `22` checkpoint.
 
+## 2026-10-06 migration-networks checkpoint
+
+- Topic: `advanced-cultural-identity-and-migration`
+- File: `08-migration-networks-and-belonging.md`
+- Coverage: 12 advanced-native migration, belonging, border, and social-inclusion targets in the `news_formal` lane (`이주민사회자본`, `문화적혼종성`, `초국적시민권`, `귀환이주`, `이주네트워크`, `사회적낙인`, `언어장벽`, `이주민발언권`, `정착회복력`, `이주송출`, `국경정책`, `이주경로다변화`).
+- Passage coverage: one coherent 31-eojeol Korean migration-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 power-costs checkpoint
 
 - Topic: `advanced-energy-transition-and-power-security`
