@@ -224,3 +224,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Realism Reference And Scientific Change](./philosophy-of-science/05-realism-reference-and-scientific-change.md)
 - [Open Science And Research Integrity](./philosophy-of-science/06-open-science-and-research-integrity.md)
 - [Scientific Institutions And Policy Expertise](./philosophy-of-science/07-scientific-institutions-and-policy-expertise.md)
+- [Values Ethics And Technology Governance](./philosophy-of-science/08-values-ethics-and-technology-governance.md)
