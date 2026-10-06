@@ -205,6 +205,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## epidemiology
 
 - [Outbreak Dynamics And Public Health Evaluation](./epidemiology/01-outbreak-dynamics-and-public-health-evaluation.md)
+- [Outbreak Surveillance And Response](./epidemiology/02-outbreak-surveillance-and-response.md)
 
 ## agroecology
 
