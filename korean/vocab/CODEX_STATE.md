@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-06 patient-rights checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `09-patient-rights-and-care-quality.md`
+- Coverage: 12 advanced-native patient-rights, medical-quality, safety, essential-care, and continuity targets in the `news_formal` lane (`의료질격차`, `환자권리보장`, `진료대안선택`, `의료정보접근성`, `진료비투명성`, `의료통역권`, `환자안전문화`, `의료오류보고`, `지역필수의료`, `의료공공성`, `의료분쟁조정`, `진료연속성`).
+- Passage coverage: one coherent 21-eojeol Korean patient-care passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-06 rental-market checkpoint
 
 - Topic: `advanced-urban-and-housing-policy`
