@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
 
+## 2026-10-06 household-credit checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `12-household-credit-and-financial-protection.md`
+- Coverage: 12 advanced-native household-credit, financial-supervision, and consumer-protection targets in the `news_formal` lane (`가계신용위험`, `대출상환유예`, `금융사기피해`, `금리전가`, `신용회복지원`, `금융감독사각지대`, `소비자정보비대칭`, `금융상품복잡성`, `채무조정안`, `신용채무자`, `금융교육격차`, `대출갈아타기플랫폼`).
+- Passage coverage: one coherent 27-eojeol Korean finance-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-06 climate-accountability checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
