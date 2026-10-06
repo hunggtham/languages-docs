@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-06 platform-liability checkpoint
+
+- Topic: `advanced-digital-rights-and-platform-governance`
+- File: `10-platform-liability-and-data-subject-rights.md`
+- Coverage: 12 advanced-native platform-liability, data-subject, algorithm-audit, and digital-redress targets in the `news_formal` lane (`데이터주체권리`, `알고리즘감사`, `플랫폼책임보험`, `온라인중개책임`, `콘텐츠신고절차`, `데이터접근권`, `모델투명성`, `자동화의사결정`, `디지털차별`, `플랫폼구제`, `서비스약관변경`, `개인정보국외이전`).
+- Passage coverage: one coherent 28-eojeol Korean platform-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-06 trial-preparation checkpoint
 
 - Topic: `advanced-legal-procedure-and-judicial-accountability`
