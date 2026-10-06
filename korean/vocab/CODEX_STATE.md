@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 diplomacy-procedure checkpoint
+
+- Topic: `high-register-law-and-diplomacy`
+- File: `10-diplomatic-procedure-and-peace-implementation.md`
+- Coverage: 12 advanced-native diplomacy, international-law, and peace-process targets in the `news_formal` lane (`외교적 셔틀`, `고위급 접촉`, `중재국 역할`, `협상의제화`, `합의준수`, `조약비준`, `외교적신뢰도`, `국제법위반`, `분쟁당사자성`, `평화프로세스`, `외교적 긴장 완화`, `공동성명 문안`).
+- Passage coverage: one coherent 32-eojeol Korean diplomacy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 data-governance checkpoint
 
 - Topic: `advanced-digital-rights-and-platform-governance`
