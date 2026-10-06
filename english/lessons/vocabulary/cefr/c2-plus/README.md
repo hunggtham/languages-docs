@@ -188,3 +188,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## urban-planning
 
 - [Advanced Urban Planning And Land Use](./urban-planning/01-advanced-urban-planning-and-land-use.md)
+
+## energy-systems
+
+- [Power Grid Operations And Energy Storage](./energy-systems/01-power-grid-operations-and-energy-storage.md)
