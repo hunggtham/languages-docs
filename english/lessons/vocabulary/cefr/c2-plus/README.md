@@ -254,3 +254,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Health Financing And Provider Payment](./philosophy-of-science/35-health-financing-and-provider-payment.md)
 - [Health Outcomes And Value Measurement](./philosophy-of-science/36-health-outcomes-and-value-measurement.md)
 - [Health Innovation Implementation And Scale](./philosophy-of-science/37-health-innovation-implementation-and-scale.md)
+- [Health Risk Messaging And Information Ecosystems](./philosophy-of-science/38-health-risk-messaging-and-information-ecosystems.md)
