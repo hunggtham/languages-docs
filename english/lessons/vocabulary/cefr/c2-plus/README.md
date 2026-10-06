@@ -266,3 +266,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Palliative Care And Serious Illness Communication](./philosophy-of-science/47-palliative-care-and-serious-illness-communication.md)
 - [Aging Frailty And Dementia Care](./philosophy-of-science/48-aging-frailty-and-dementia-care.md)
 - [Metabolic Health And Chronic Disease Management](./philosophy-of-science/49-metabolic-health-and-chronic-disease-management.md)
+- [Immunization Program Design And Equity](./philosophy-of-science/50-immunization-program-design-and-equity.md)
