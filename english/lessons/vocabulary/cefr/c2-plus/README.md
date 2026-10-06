@@ -238,3 +238,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Epistemic Infrastructure And Data Stewardship](./philosophy-of-science/19-epistemic-infrastructure-and-data-stewardship.md)
 - [Research Software And Computational Reproducibility](./philosophy-of-science/20-research-software-and-computational-reproducibility.md)
 - [Privacy Consent And Data Ethics](./philosophy-of-science/21-privacy-consent-and-data-ethics.md)
+- [Algorithmic Fairness And Accountability](./philosophy-of-science/22-algorithmic-fairness-and-accountability.md)
