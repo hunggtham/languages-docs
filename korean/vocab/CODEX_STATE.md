@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
 
+## 2026-10-06 climate-accountability checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `10-climate-accountability-and-transition-finance.md`
+- Coverage: 12 advanced-native climate-finance, environmental-rights, and transition-accountability targets in the `news_formal` lane (`기후예산감시`, `적응금융`, `전환채권`, `탄소시장무결성`, `환경소송전략`, `환경권보장`, `기후위험가격화`, `기후손실책임`, `녹색일자리`, `탄소감축실적`, `기후공시검증`, `기후피해보상`).
+- Passage coverage: one coherent 31-eojeol Korean climate-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-04 data-governance checkpoint
 
 - Topic: `advanced-digital-rights-and-platform-governance`
