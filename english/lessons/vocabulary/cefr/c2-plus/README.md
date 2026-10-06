@@ -220,6 +220,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Occupational Exposure Epidemiology](./epidemiology/14-occupational-exposure-epidemiology.md)
 - [Injury And Violence Epidemiology](./epidemiology/15-injury-and-violence-epidemiology.md)
 - [Maternal And Perinatal Epidemiology](./epidemiology/16-maternal-and-perinatal-epidemiology.md)
+- [Nutrition Epidemiology And Dietary Exposure](./epidemiology/17-nutrition-epidemiology-and-dietary-exposure.md)
 
 ## agroecology
 
