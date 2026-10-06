@@ -216,6 +216,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Transmission Networks And Outbreak Structure](./epidemiology/10-transmission-networks-and-outbreak-structure.md)
 - [Equity And Vulnerability In Epidemiology](./epidemiology/11-equity-and-vulnerability-in-epidemiology.md)
 - [Risk Perception And Behavioral Response](./epidemiology/12-risk-perception-and-behavioral-response.md)
+- [Diagnostic Testing And Screening Strategy](./epidemiology/13-diagnostic-testing-and-screening-strategy.md)
 
 ## agroecology
 
