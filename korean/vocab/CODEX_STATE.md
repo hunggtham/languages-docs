@@ -1123,6 +1123,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-06 five-thousand-vocabulary checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`, `advanced-science-and-technology-reporting`, `advanced-interpersonal-nuance`, and `slang-and-pragmatic-spoken-korean`
+- Files: `15-cost-of-living-and-distribution-reporting.md`, `13-ai-evidence-and-safety-reporting.md`, `06-native-relational-humor-and-boundaries.md`, `24-fandom-and-chat-reaction-slang.md`, `25-relationship-and-lifestyle-chat-slang.md`
+- Coverage: 57 advanced-native and contemporary-native-hot targets across economic news, AI safety reporting, native relational speech, fandom chat, and lifestyle/relationship slang. The corpus now reaches exactly 5,000 structured Korean vocabulary headings.
+- Passage coverage: five coherent Korean passages with exact `passage_word_count` markers and all `target_set` items present, plus Vietnamese translations.
+- Validation: metadata lanes (`news_formal`, `native_spoken`, `slang_online`), required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (5,000 structured entries, 0 duplicates), README links, and `git diff --check` passed.
+- Resume: the 5,000-item goal is content-complete; future work should audit quality or extend a new target beyond this checkpoint without rewriting these files.
+
 ## 2026-10-06 lifestyle-challenge-slang checkpoint
 
 - Topic: `slang-and-pragmatic-spoken-korean`
