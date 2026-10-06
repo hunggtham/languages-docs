@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 adaptation-governance checkpoint
+
+- Topic: `advanced-climate-and-environmental-governance`
+- File: `11-adaptation-governance-and-ecosystem-rights.md`
+- Coverage: 12 advanced-native climate-adaptation, ecosystem-rights, climate-risk, and local-planning targets in the `news_formal` lane (`기후적응거버넌스`, `생태계권리`, `환경권소송`, `탄소감축경로`, `기후위험지도`, `기후정보공개`, `녹색전환지표`, `자연자본위험`, `환경책임보험`, `생태계복원력`, `기후민감도`, `지역기후계획`).
+- Passage coverage: one coherent 22-eojeol Korean climate-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-06 trial-preparation checkpoint
 
 - Topic: `advanced-legal-procedure-and-judicial-accountability`
