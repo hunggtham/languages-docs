@@ -1105,6 +1105,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-06 digital-rights-wellbeing checkpoint
+
+- Topic: `technology-and-digital-life`
+- File: `06-digital-rights-and-wellbeing.md`
+- Coverage: 12 advanced-native digital-access, online-rights, privacy-culture, platform-fatigue, synthetic-content, and digital-wellbeing targets in the `news_formal` lane (`디지털접근권`, `온라인권리`, `개인정보보호문화`, `사이버위험인식`, `데이터삭제절차`, `디지털상속`, `플랫폼중독`, `알고리즘피로`, `합성콘텐츠표시`, `사용자통제권`, `디지털웰빙`, `기술의존성`).
+- Passage coverage: one coherent 22-eojeol Korean digital-life passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-06 digital-fatigue checkpoint
 
 - Topic: `technology-and-digital-life`
