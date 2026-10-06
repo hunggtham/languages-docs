@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-06 medical-access checkpoint
+
+- Topic: `advanced-medical-access-and-care-delivery`
+- File: `08-access-rights-and-patient-pathways.md`
+- Coverage: 12 advanced-native medical-access, emergency-capacity, patient-safety, and care-coordination targets in the `news_formal` lane (`의료접근권`, `환자안전사고`, `응급수용한계`, `의료자원배분`, `진료연계망`, `공공의료확충`, `의료비재난`, `의료전달망`, `의료서비스연계`, `진료권역`, `응급이송공백`, `취약환자군`).
+- Passage coverage: one coherent 26-eojeol Korean medical-access passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 contract-governance checkpoint
 
 - Topic: `contracts-and-outsourcing`
