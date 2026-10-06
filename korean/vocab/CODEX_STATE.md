@@ -1942,6 +1942,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,719 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `16` checkpoint.
 
+## 2026-10-06 financial-access checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `14-financial-access-and-contract-fairness.md`
+- Coverage: 12 advanced-native financial-access, debtor-rights, data-fairness, regulation, inclusion, and contract-transparency targets in the `news_formal` lane (`금융상품접근성`, `신용상담접근`, `채무자권리보호`, `투자자설명책임`, `금융데이터공정성`, `대출취약성`, `금융규제집행`, `소비자보호기금`, `금융소외지표`, `대체금융위험`, `디지털금융포용`, `금융계약투명성`).
+- Passage coverage: one coherent 22-eojeol Korean finance-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
+
 ## 2026-10-06 administrative-fairness checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
