@@ -2517,6 +2517,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,563 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
 
+## 2026-10-06 shock-transmission checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `14-shock-transmission-and-employment-recovery.md`
+- Coverage: 12 advanced-native macroeconomic, income-support, regional-economy, and structural-employment targets in the `news_formal` lane (`경제충격전이`, `물가연동임금`, `노동소득보전`, `경기하강방어`, `금융취약가구`, `고용회복지연`, `소득분포변화`, `생산성공유협약`, `소비위축위험`, `재정승수효과`, `지역경제다변화`, `구조적고용감소`).
+- Passage coverage: one coherent 24-eojeol Korean macro-labor passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
+
 ## 2026-10-06 administrative-access checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
