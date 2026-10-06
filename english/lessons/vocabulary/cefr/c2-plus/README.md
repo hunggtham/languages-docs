@@ -222,6 +222,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Maternal And Perinatal Epidemiology](./epidemiology/16-maternal-and-perinatal-epidemiology.md)
 - [Nutrition Epidemiology And Dietary Exposure](./epidemiology/17-nutrition-epidemiology-and-dietary-exposure.md)
 - [Environmental And Air-Pollution Epidemiology](./epidemiology/18-environmental-air-pollution-epidemiology.md)
+- [Vaccine Effectiveness And Immunization Epidemiology](./epidemiology/19-vaccine-effectiveness-and-immunization-epidemiology.md)
 
 ## agroecology
 
