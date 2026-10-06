@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-06 public-health-capacity checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `13-medical-access-and-public-health-capacity.md`
+- Coverage: 12 advanced-native public-health, medical-access, and health-equity targets in the `news_formal` lane (`의료서비스공백`, `질병조기발견`, `보건의료인력배치`, `감염병재생산지수`, `의료질평가`, `건강검진수검률`, `의료비본인부담률`, `지역보건계획`, `공중보건감시`, `의료취약성`, `보건의료재난대응`, `건강정보이해력`).
+- Passage coverage: one coherent 28-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
+
 ## 2026-10-06 diplomacy-procedure checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
