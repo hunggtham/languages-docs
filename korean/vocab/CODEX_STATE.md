@@ -1015,6 +1015,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-06 peacebuilding checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `07-information-warfare-and-peacebuilding.md`
+- Coverage: 12 advanced-native information-warfare, military-transparency, civilian-protection, reconstruction, and peacekeeping targets in the `news_formal` lane (`전략정보전`, `안보딜레마`, `군사적투명성`, `국방개혁`, `방위비압박`, `군사기술확산`, `민군관계`, `무력충돌억제`, `전쟁범죄책임`, `피란민보호`, `분쟁후재건`, `평화유지재정`).
+- Passage coverage: one coherent 24-eojeol Korean security-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-06 relational-recovery checkpoint
 
 - Topic: `relationships-and-emotional-recovery`
