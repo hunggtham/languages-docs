@@ -270,3 +270,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Maternal Newborn Health And Reproductive Autonomy](./philosophy-of-science/51-maternal-newborn-health-and-reproductive-autonomy.md)
 - [Pediatric Adolescent Health And Safeguarding](./philosophy-of-science/52-pediatric-adolescent-health-and-safeguarding.md)
 - [Occupational Health And Workplace Safety](./philosophy-of-science/53-occupational-health-and-workplace-safety.md)
+- [Trauma Systems And Emergency Response](./philosophy-of-science/54-trauma-systems-and-emergency-response.md)
