@@ -196,3 +196,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## maritime-logistics
 
 - [Container Shipping And Trade Compliance](./maritime-logistics/01-container-shipping-and-trade-compliance.md)
+
+## epidemiology
+
+- [Outbreak Dynamics And Public Health Evaluation](./epidemiology/01-outbreak-dynamics-and-public-health-evaluation.md)
