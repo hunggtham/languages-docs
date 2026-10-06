@@ -208,3 +208,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## humanitarian-law
 
 - [International Humanitarian Law And Protection](./humanitarian-law/01-international-humanitarian-law-and-protection.md)
+
+## philosophy-of-science
+
+- [Theories Explanation And Scientific Change](./philosophy-of-science/01-theories-explanation-and-scientific-change.md)
