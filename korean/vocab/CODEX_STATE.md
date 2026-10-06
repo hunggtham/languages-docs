@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 media-trust checkpoint
+
+- Topic: `media-literacy-and-public-trust`
+- File: `07-news-consumption-and-public-trust.md`
+- Coverage: 12 advanced-native media-literacy, source-verification, and public-sphere targets in the `news_formal` lane (`뉴스회피`, `정보과부하`, `알고리즘투명성`, `언론취재원`, `정정보도청구`, `보도프레임`, `사실검증네트워크`, `공론장파편화`, `미디어취약성`, `뉴스문해력`, `정보은폐`, `여론선점`).
+- Passage coverage: one coherent 30-eojeol Korean media-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-06 climate-accountability checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
