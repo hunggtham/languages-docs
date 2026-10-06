@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
 
+## 2026-10-06 care-education checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `08-care-education-and-local-population.md`
+- Coverage: 12 advanced-native education, care, demographic, and local-talent targets in the `news_formal` lane (`학교돌봄체계`, `교원업무과중`, `학습지원격차`, `교육재정지속성`, `대학지역책임`, `청년인구회복`, `출생정책효과`, `돌봄시간불평등`, `고령친화교육`, `평생학습접근`, `교육전환비용`, `지역인재정착`).
+- Passage coverage: one coherent 25-eojeol Korean education-demography passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 health-equity checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
