@@ -219,3 +219,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 
 - [Theories Explanation And Scientific Change](./philosophy-of-science/01-theories-explanation-and-scientific-change.md)
 - [Epistemic Practice And Scientific Values](./philosophy-of-science/02-epistemic-practice-and-scientific-values.md)
+- [Causal Explanation Laws And Models](./philosophy-of-science/03-causal-explanation-laws-and-models.md)
