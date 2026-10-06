@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
 
+## 2026-10-06 health-gaps checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `15-health-gaps-and-crisis-recovery.md`
+- Coverage: 12 advanced-native health-inequality, prevention, crisis-recovery, health-information, and public-health-workforce targets in the `news_formal` lane (`건강불평등모니터링`, `지역건강격차`, `예방서비스접근`, `의료비재정위험`, `건강정책평가`, `보건의료회복계획`, `감염병정보공개`, `보건위기대응망`, `정신건강낙인`, `건강결과격차`, `공공보건인력`, `건강결정요인개입`).
+- Passage coverage: one coherent 22-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `15` checkpoint.
+
 ## 2026-10-06 health-equity checkpoint
 
 - Topic: `advanced-public-health-and-science-policy`
