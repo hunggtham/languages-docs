@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-06 power-costs checkpoint
+
+- Topic: `advanced-energy-transition-and-power-security`
+- File: `10-power-costs-and-transition-implementation.md`
+- Coverage: 12 advanced-native energy-cost, power-grid, and transition-implementation targets in the `news_formal` lane (`전력요금체계`, `에너지수요전망`, `전력시장가격`, `전력망투자비`, `재생에너지입찰`, `발전소폐쇄`, `원전해체비용`, `수소수요`, `탄소포집저장`, `에너지효율투자`, `전력망접속권`, `지역에너지계획`).
+- Passage coverage: one coherent 32-eojeol Korean energy-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-06 climate-accountability checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
