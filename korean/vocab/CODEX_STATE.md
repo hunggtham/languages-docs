@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-06 housing-burden checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `08-housing-burden-and-urban-operations.md`
+- Coverage: 12 advanced-native housing, urban-management, and resident-protection targets in the `news_formal` lane (`주거비과부담`, `임대차갱신분쟁`, `공공주택입주자격`, `주택재고`, `주택노후도`, `도심고밀화`, `도시권경쟁력`, `주거이동성`, `임대인부채`, `부동산세제`, `지역주택조합`, `주거환경개선`).
+- Passage coverage: one coherent 33-eojeol Korean housing-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 diplomacy-procedure checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
