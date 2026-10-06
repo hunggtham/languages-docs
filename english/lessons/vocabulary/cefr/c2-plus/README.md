@@ -178,6 +178,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## remote-sensing
 
 - [Advanced Remote Sensing And Geospatial Analysis](./remote-sensing/01-advanced-remote-sensing-and-geospatial-analysis.md)
+- [Optical Hyperspectral And Canopy Analysis](./remote-sensing/02-optical-hyperspectral-and-canopy-analysis.md)
 
 ## forensic-science
 
