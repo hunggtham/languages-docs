@@ -250,3 +250,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Health Priority Setting And Governance](./philosophy-of-science/31-health-priority-setting-and-governance.md)
 - [Digital Health Data Governance](./philosophy-of-science/32-digital-health-data-governance.md)
 - [Global Health Diplomacy And Cooperation](./philosophy-of-science/33-global-health-diplomacy-and-cooperation.md)
+- [Health Workforce Ethics And Regulation](./philosophy-of-science/34-health-workforce-ethics-and-regulation.md)
