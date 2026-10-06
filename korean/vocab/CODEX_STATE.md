@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-06 deterrence-postwar checkpoint
+
+- Topic: `security-resources-and-conflict`
+- File: `06-deterrence-and-postwar-order.md`
+- Coverage: 12 advanced-native security, conflict-management, postwar, and civilian-protection targets in the `news_formal` lane (`전략적모호성`, `군사적신뢰구축`, `해상봉쇄`, `군사정보공유`, `국방조달`, `방위산업공급망`, `전쟁피로`, `휴전감시단`, `분쟁예방외교`, `전후과도기`, `민간인보호의무`, `안보위협평가`).
+- Passage coverage: one coherent 27-eojeol Korean security-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-06 education-demography checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
