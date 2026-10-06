@@ -1942,6 +1942,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,719 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `16` checkpoint.
 
+## 2026-10-06 administrative-fairness checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `16-administrative-fairness-and-policy-feedback.md`
+- Coverage: 12 advanced-native public-administration targets for policy beneficiaries, regulated entities, service standards, civic appeals, fairness, public projects, and regulatory feedback in the `news_formal` lane (`정책수혜분석`, `규제대상자`, `행정서비스표준`, `시민불복절차`, `공공기관정보`, `행정공정성`, `법령접근성`, `정책영향공개`, `주민협의절차`, `행정책임추적`, `공공사업평가`, `규제개선환류`).
+- Passage coverage: one coherent 23-eojeol Korean administrative-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `16` checkpoint.
+
 ## 2026-10-04 newsroom-accountability checkpoint
 
 - Topic: `media-literacy-and-public-trust`
