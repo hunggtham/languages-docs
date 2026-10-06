@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
 
+## 2026-10-06 employment-recovery checkpoint
+
+- Topic: `advanced-economic-and-labor-reporting`
+- File: `13-employment-distribution-and-labor-recovery.md`
+- Coverage: 12 advanced-native macroeconomic, labor-market, and social-protection targets in the `news_formal` lane (`고용 없는 성장`, `임금 주도 성장`, `소득재분배`, `가계부채조정`, `자영업폐업률`, `고용보험사각지대`, `노동시장이중구조`, `비경제활동인구`, `구조조정비용`, `기업회생절차`, `재취업률`, `노동시장복원력`).
+- Passage coverage: one coherent 36-eojeol Korean labor-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
+
 ## 2026-10-04 data-governance checkpoint
 
 - Topic: `advanced-digital-rights-and-platform-governance`
