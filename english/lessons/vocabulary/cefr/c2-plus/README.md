@@ -235,3 +235,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Theory Appraisal And Explanatory Argument](./philosophy-of-science/16-theory-appraisal-and-explanatory-argument.md)
 - [Science Communication And Public Reasoning](./philosophy-of-science/17-science-communication-and-public-reasoning.md)
 - [Epistemic Justice And Knowledge Co-production](./philosophy-of-science/18-epistemic-justice-and-knowledge-co-production.md)
+- [Epistemic Infrastructure And Data Stewardship](./philosophy-of-science/19-epistemic-infrastructure-and-data-stewardship.md)
