@@ -14,5 +14,6 @@ source_policy: reference material only; explanations, examples, and passages are
 - [계약 리스크·외주 분쟁](./02-risk-allocation-and-outsourcing-disputes.md)
 - [용역 현장의 윤곽과 계약 책임을 확인하기](./03-service-contracts-and-field-accountability.md) — `윤곽`, `확고`, `수용`, `사주`, `인도`, `정본`, `결함`, `기간`, `문란`, `전취하다`, `수위`, `감축하다`, `정세`, `기산`
 - [계약 이행·검수·분쟁 대응](./04-contract-performance-and-remedies.md) — `면책 조항`, `불가항력`, `계약상 의무`, `하자 보수`, `납기 지연`, `검수 기준`, `대금 정산`, `계약 갱신`, `분쟁 조정`, `계약 해석`, `계약 위반`, `서비스 수준 협약`
+- [계약 이행과 책임의 실무 언어](./05-contract-guarantees-and-tender-procedure.md) — `계약보증서`, `손해배상예정`, `계약상대자`, `제안서평가`, `입찰담합`, `하도급대금`, `대금지급조건`, `업무범위명세`, `계약변경합의`, `성과보증`, `분쟁해결조항`, `계약책임자`
 
 각 파일의 읽기 지문은 최대 15개 target headword를 포함하며, 계약서의 공식 표현과 실제 업무 대화를 함께 보여 준다.

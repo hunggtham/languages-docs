@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
 
+## 2026-10-06 contract-governance checkpoint
+
+- Topic: `contracts-and-outsourcing`
+- File: `05-contract-guarantees-and-tender-procedure.md`
+- Coverage: 12 advanced-native workplace-contract, procurement, payment, and dispute-procedure targets in the `news_formal` lane (`계약보증서`, `손해배상예정`, `계약상대자`, `제안서평가`, `입찰담합`, `하도급대금`, `대금지급조건`, `업무범위명세`, `계약변경합의`, `성과보증`, `분쟁해결조항`, `계약책임자`).
+- Passage coverage: one coherent 33-eojeol Korean contract-work passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-06 education-demography checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
