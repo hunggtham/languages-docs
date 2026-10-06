@@ -212,6 +212,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Health Security And Pandemic Preparedness](./epidemiology/06-health-security-and-pandemic-preparedness.md)
 - [Outbreak Modeling And Forecasting](./epidemiology/07-outbreak-modeling-and-forecasting.md)
 - [Vector-Borne Disease Ecology](./epidemiology/08-vector-borne-disease-ecology.md)
+- [Waterborne Disease And Environmental Surveillance](./epidemiology/09-waterborne-disease-and-environmental-surveillance.md)
 
 ## agroecology
 
