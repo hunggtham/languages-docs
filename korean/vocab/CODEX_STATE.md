@@ -979,6 +979,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `68` checkpoint.
 
+## 2026-10-06 community-inclusion checkpoint
+
+- Topic: `social-change-and-belonging`
+- File: `08-community-inclusion-and-social-connection.md`
+- Coverage: 12 advanced-native community-inclusion, care, participation, and belonging targets in the `news_formal` lane (`포용적설계`, `공동체돌봄`, `시민참여기반`, `취약집단접근`, `지역사회회복력`, `세대교류`, `사회적배제`, `상호부조망`, `공동체의사결정`, `소속감격차`, `낙인 경험`, `공동체 신뢰회복`).
+- Passage coverage: one coherent 24-eojeol Korean community-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 deterrence-postwar checkpoint
 
 - Topic: `security-resources-and-conflict`
