@@ -228,3 +228,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Causal Discovery And Generalization](./philosophy-of-science/09-causal-discovery-and-generalization.md)
 - [Measurement Validity And Uncertainty](./philosophy-of-science/10-measurement-validity-and-uncertainty.md)
 - [Statistical Inference And Uncertainty](./philosophy-of-science/11-statistical-inference-and-uncertainty.md)
+- [Probability Chance And Decision](./philosophy-of-science/12-probability-chance-and-decision.md)
