@@ -147,3 +147,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## causal-identification
 
 - [Advanced Causal Identification And Proximal Inference](./causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
+
+## genome-regulation
+
+- [Genome Variation And Single-Cell Regulation](./genome-regulation/01-genome-variation-and-single-cell-regulation.md)
