@@ -155,3 +155,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## climate-dynamics
 
 - [Ocean–Atmosphere Dynamics And Climate Processes](./climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
+
+## biogeochemistry
+
+- [Redox And Biogeochemical Cycling](./biogeochemistry/01-redox-and-biogeochemical-cycling.md)
