@@ -209,6 +209,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Antimicrobial Resistance And Stewardship](./epidemiology/03-antimicrobial-resistance-and-stewardship.md)
 - [Zoonotic Spillover And One Health](./epidemiology/04-zoonotic-spillover-and-one-health.md)
 - [Surveillance Data Governance And Quality](./epidemiology/05-surveillance-data-governance-and-quality.md)
+- [Health Security And Pandemic Preparedness](./epidemiology/06-health-security-and-pandemic-preparedness.md)
 
 ## agroecology
 
