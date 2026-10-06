@@ -261,3 +261,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Precision Medicine And Genomic Clinics](./philosophy-of-science/42-precision-medicine-and-genomic-clinics.md)
 - [Clinical AI Governance And Monitoring](./philosophy-of-science/43-clinical-ai-governance-and-monitoring.md)
 - [Patient Safety And Reliability Science](./philosophy-of-science/44-patient-safety-and-reliability-science.md)
+- [Mental Health Recovery And Addiction Care](./philosophy-of-science/45-mental-health-recovery-and-addiction-care.md)
