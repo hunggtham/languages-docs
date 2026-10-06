@@ -925,6 +925,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
 
+## 2026-10-06 health-equity checkpoint
+
+- Topic: `advanced-public-health-and-science-policy`
+- File: `14-health-equity-and-essential-care.md`
+- Coverage: 12 advanced-native health-equity, prevention, climate-health, workforce, and essential-care targets in the `news_formal` lane (`건강형평성예산`, `예방접종불평등`, `보건의료기후위험`, `정신건강접근성`, `환자경험지표`, `지역보건인프라`, `의료인력유지`, `감염병대응력`, `건강위험소통`, `의료사각지대`, `필수의료보장`, `만성질환부담`).
+- Passage coverage: one coherent 23-eojeol Korean public-health passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
+
 ## 2026-10-06 financial-consumer checkpoint
 
 - Topic: `advanced-finance-and-consumer-protection`
