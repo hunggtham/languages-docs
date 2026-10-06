@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-04 rule-of-law checkpoint
+
+- Topic: `advanced-public-administration-and-regulation`
+- File: `14-rule-of-law-and-public-service-standards.md`
+- Coverage: 12 advanced-native public-administration and regulatory-governance targets in the `news_formal` lane (`행정법정주의`, `규제영향평가`, `규제비용총량제`, `행정정보공개`, `정책투명성`, `법령충돌`, `행정협약`, `공공서비스보편성`, `공공성평가`, `규제데이터`, `제도신뢰`, `민원취약성`).
+- Passage coverage: one coherent 29-eojeol Korean public-administration passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
+
 ## 2026-10-04 data-governance checkpoint
 
 - Topic: `advanced-digital-rights-and-platform-governance`
