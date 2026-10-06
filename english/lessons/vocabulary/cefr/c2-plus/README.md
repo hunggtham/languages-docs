@@ -242,3 +242,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Model Risk And Regulatory Oversight](./philosophy-of-science/23-model-risk-and-regulatory-oversight.md)
 - [Policy Instruments And Implementation Effects](./philosophy-of-science/24-policy-instruments-and-implementation-effects.md)
 - [Climate Adaptation And Resilience Governance](./philosophy-of-science/25-climate-adaptation-and-resilience-governance.md)
+- [Disaster Risk Governance And Emergency Resilience](./philosophy-of-science/26-disaster-risk-governance-and-emergency-resilience.md)
