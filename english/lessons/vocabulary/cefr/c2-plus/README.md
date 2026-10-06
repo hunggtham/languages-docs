@@ -192,6 +192,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## energy-systems
 
 - [Power Grid Operations And Energy Storage](./energy-systems/01-power-grid-operations-and-energy-storage.md)
+- [Storage Flexibility And Demand Forecasting](./energy-systems/02-storage-flexibility-and-demand-forecasting.md)
 
 ## maritime-logistics
 
