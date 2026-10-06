@@ -226,3 +226,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Scientific Institutions And Policy Expertise](./philosophy-of-science/07-scientific-institutions-and-policy-expertise.md)
 - [Values Ethics And Technology Governance](./philosophy-of-science/08-values-ethics-and-technology-governance.md)
 - [Causal Discovery And Generalization](./philosophy-of-science/09-causal-discovery-and-generalization.md)
+- [Measurement Validity And Uncertainty](./philosophy-of-science/10-measurement-validity-and-uncertainty.md)
