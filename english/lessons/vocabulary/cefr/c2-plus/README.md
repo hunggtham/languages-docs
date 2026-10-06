@@ -243,3 +243,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Policy Instruments And Implementation Effects](./philosophy-of-science/24-policy-instruments-and-implementation-effects.md)
 - [Climate Adaptation And Resilience Governance](./philosophy-of-science/25-climate-adaptation-and-resilience-governance.md)
 - [Disaster Risk Governance And Emergency Resilience](./philosophy-of-science/26-disaster-risk-governance-and-emergency-resilience.md)
+- [Water Security And Drought Governance](./philosophy-of-science/27-water-security-and-drought-governance.md)
