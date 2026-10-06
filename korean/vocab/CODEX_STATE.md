@@ -907,6 +907,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 14 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (2,573 structured entries, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
 
+## 2026-10-06 rental-market checkpoint
+
+- Topic: `advanced-urban-and-housing-policy`
+- File: `09-rental-market-and-housing-rights.md`
+- Coverage: 12 advanced-native housing-rights, rental-market, public-asset, and urban-conflict targets in the `news_formal` lane (`주거권리보장`, `주택임대차정보`, `임차인협상력`, `주택품질지표`, `도시주거취약성`, `공공주거자산`, `주거서비스바우처`, `임대시장투명성`, `도시개발갈등`, `주거정책환류`, `주택공급탄력성`, `임대료부담지수`).
+- Passage coverage: one coherent 25-eojeol Korean housing-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `09` checkpoint.
+
 ## 2026-10-04 rule-of-law checkpoint
 
 - Topic: `advanced-public-administration-and-regulation`
