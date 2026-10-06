@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
 
+## 2026-10-06 labor-rights checkpoint
+
+- Topic: `advanced-labor-rights-and-social-protection`
+- File: `08-labor-rights-and-care-protection.md`
+- Coverage: 12 advanced-native labor-rights, occupational-injury, care, and social-insurance targets in the `news_formal` lane (`돌봄노동권`, `산재인정기준`, `노동시간주권`, `고용형태공시`, `직장복귀지원`, `산재보상률`, `노동권침해`, `사회보험료지원`, `취업취약성`, `돌봄공백`, `근로감독관`, `노동시장배제`).
+- Passage coverage: one coherent 28-eojeol Korean labor-rights passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 climate-accountability checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
