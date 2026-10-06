@@ -214,6 +214,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Vector-Borne Disease Ecology](./epidemiology/08-vector-borne-disease-ecology.md)
 - [Waterborne Disease And Environmental Surveillance](./epidemiology/09-waterborne-disease-and-environmental-surveillance.md)
 - [Transmission Networks And Outbreak Structure](./epidemiology/10-transmission-networks-and-outbreak-structure.md)
+- [Equity And Vulnerability In Epidemiology](./epidemiology/11-equity-and-vulnerability-in-epidemiology.md)
 
 ## agroecology
 
