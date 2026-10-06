@@ -259,3 +259,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Climate Health Adaptation And Resilience](./philosophy-of-science/40-climate-health-adaptation-and-resilience.md)
 - [Clinical Research Ethics And Trial Design](./philosophy-of-science/41-clinical-research-ethics-and-trial-design.md)
 - [Precision Medicine And Genomic Clinics](./philosophy-of-science/42-precision-medicine-and-genomic-clinics.md)
+- [Clinical AI Governance And Monitoring](./philosophy-of-science/43-clinical-ai-governance-and-monitoring.md)
