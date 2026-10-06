@@ -211,6 +211,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Surveillance Data Governance And Quality](./epidemiology/05-surveillance-data-governance-and-quality.md)
 - [Health Security And Pandemic Preparedness](./epidemiology/06-health-security-and-pandemic-preparedness.md)
 - [Outbreak Modeling And Forecasting](./epidemiology/07-outbreak-modeling-and-forecasting.md)
+- [Vector-Borne Disease Ecology](./epidemiology/08-vector-borne-disease-ecology.md)
 
 ## agroecology
 
