@@ -264,3 +264,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Mental Health Recovery And Addiction Care](./philosophy-of-science/45-mental-health-recovery-and-addiction-care.md)
 - [Disability Inclusion And Independent Living](./philosophy-of-science/46-disability-inclusion-and-independent-living.md)
 - [Palliative Care And Serious Illness Communication](./philosophy-of-science/47-palliative-care-and-serious-illness-communication.md)
+- [Aging Frailty And Dementia Care](./philosophy-of-science/48-aging-frailty-and-dementia-care.md)
