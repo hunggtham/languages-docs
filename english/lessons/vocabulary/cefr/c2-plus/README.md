@@ -227,3 +227,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Values Ethics And Technology Governance](./philosophy-of-science/08-values-ethics-and-technology-governance.md)
 - [Causal Discovery And Generalization](./philosophy-of-science/09-causal-discovery-and-generalization.md)
 - [Measurement Validity And Uncertainty](./philosophy-of-science/10-measurement-validity-and-uncertainty.md)
+- [Statistical Inference And Uncertainty](./philosophy-of-science/11-statistical-inference-and-uncertainty.md)
