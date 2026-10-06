@@ -31,8 +31,8 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 800 items in 40 topic files; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, and `quantum-materials`.
-- Total: 20800 items (authoritative script count after the latest C2+ checkpoint).
+- C2+: 820 items in 41 lesson files across 40 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, and `quantum-materials`.
+- Total: 20820 items (authoritative script count after the latest C2+ checkpoint).
 
 ## Current position
 
@@ -151,6 +151,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest C2+ continuation added `c2-plus/climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md` with 20 ocean-circulation, wave, instability, mixing, and rotating-fluid-balance items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/biogeochemistry/01-redox-and-biogeochemical-cycling.md` with 20 redox, nitrogen-cycle, carbon-pool, mineral-interaction, sediment, and nutrient-recycling items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/quantum-materials/01-quantum-condensed-matter-and-materials.md` with 20 band-structure, quantum-Hall, correlated-electron, collective-excitation, and superconducting-device items; the lesson uses one integrated review passage with Vietnamese translation.
+- Latest C2+ continuation added `c2-plus/linguistics/02-morphosyntactic-typology-and-contact-change.md` with 20 morphosyntactic alignment, grammatical change, language-contact, sound-change, and mirativity items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 

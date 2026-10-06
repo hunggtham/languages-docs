@@ -79,6 +79,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## linguistics
 
 - [Advanced Phonology And Grammatical Change](./linguistics/01-advanced-phonology-and-grammatical-change.md)
+- [Morphosyntactic Typology And Contact Change](./linguistics/02-morphosyntactic-typology-and-contact-change.md)
 
 ## architecture
 
