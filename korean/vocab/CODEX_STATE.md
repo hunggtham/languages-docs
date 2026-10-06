@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
 
+## 2026-10-06 discourse-responsibility checkpoint
+
+- Topic: `speech-and-public-discourse`
+- File: `04-official-speech-and-discourse-responsibility.md`
+- Coverage: 12 advanced-native official-speech, rhetoric, and discourse-responsibility targets in the `news_formal` lane (`공식담화`, `발언유보`, `설명방식`, `논리전개`, `수사전략`, `발언맥락`, `책임회피성발언`, `표현수위조절`, `합의언어`, `논쟁적표현`, `말꼬리잡기`, `발언기록`).
+- Passage coverage: one coherent 31-eojeol Korean public-discourse passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-06 education-demography checkpoint
 
 - Topic: `advanced-education-and-demographic-policy`
