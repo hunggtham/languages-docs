@@ -943,6 +943,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
 
+## 2026-10-06 education-demography checkpoint
+
+- Topic: `advanced-education-and-demographic-policy`
+- File: `07-education-demography-and-regional-retention.md`
+- Coverage: 12 advanced-native education, demographic, care, and regional-retention targets in the `news_formal` lane (`교육불평등지수`, `학습손실`, `교원수급난`, `교육재정격차`, `대학폐교`, `학령인구전망`, `지역대학소멸`, `청년정착률`, `출산장려정책`, `돌봄인프라`, `고령화속도`, `인구재생산`).
+- Passage coverage: one coherent 29-eojeol Korean education-demography passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
+
 ## 2026-10-06 climate-accountability checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
