@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-06 interpersonal-nuance checkpoint
+
+- Topic: `advanced-interpersonal-nuance`
+- File: `05-relational-distance-and-tone.md`
+- Coverage: 12 advanced-native nuanced-spoken targets for directness, silence, emotional depletion, and relational boundaries in the `native_spoken` lane (`말을 아끼다`, `딱 잘라 말하다`, `분위기 읽다`, `선의의 거짓말`, `감정 소진`, `관계 소진`, `관계 거리감`, `말문 막히다`, `침묵이 길어지다`, `반응을 떠보다`, `대화의 결을 읽다`, `호의와 부담`).
+- Passage coverage: one coherent 53-eojeol Korean interpersonal passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+
 ## 2026-10-06 power-costs checkpoint
 
 - Topic: `advanced-energy-transition-and-power-security`
