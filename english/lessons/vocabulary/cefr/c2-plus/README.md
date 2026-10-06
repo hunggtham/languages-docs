@@ -224,6 +224,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Environmental And Air-Pollution Epidemiology](./epidemiology/18-environmental-air-pollution-epidemiology.md)
 - [Vaccine Effectiveness And Immunization Epidemiology](./epidemiology/19-vaccine-effectiveness-and-immunization-epidemiology.md)
 - [Healthcare-Associated Infection Epidemiology](./epidemiology/20-healthcare-associated-infection-epidemiology.md)
+- [Pathogen Genomics And Phylodynamics](./epidemiology/21-pathogen-genomics-and-phylodynamics.md)
 
 ## agroecology
 
