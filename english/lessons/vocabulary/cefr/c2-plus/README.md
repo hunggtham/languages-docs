@@ -233,3 +233,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Complexity Systems And Emergence](./philosophy-of-science/14-complexity-systems-and-emergence.md)
 - [Visualization And Evidence Communication](./philosophy-of-science/15-visualization-and-evidence-communication.md)
 - [Theory Appraisal And Explanatory Argument](./philosophy-of-science/16-theory-appraisal-and-explanatory-argument.md)
+- [Science Communication And Public Reasoning](./philosophy-of-science/17-science-communication-and-public-reasoning.md)
