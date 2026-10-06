@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-06 food-resilience checkpoint
+
+- Topic: `advanced-food-security-and-agricultural-policy`
+- File: `10-food-resilience-and-publicness.md`
+- Coverage: 12 advanced-native food-security, climate-agriculture, rural-debt, and food-access targets in the `news_formal` lane (`식량회복력`, `기후작물전환`, `농업생태전환`, `먹거리공공성`, `식품가격안정망`, `농촌기후적응`, `농업데이터주권`, `농가부채`, `농업재해기금`, `식량접근권`, `지역먹거리체계`, `농산물공정가격`).
+- Passage coverage: one coherent 22-eojeol Korean food-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-06 trial-preparation checkpoint
 
 - Topic: `advanced-legal-procedure-and-judicial-accountability`
