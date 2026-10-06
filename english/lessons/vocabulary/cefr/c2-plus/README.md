@@ -164,3 +164,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## quantum-materials
 
 - [Quantum Condensed Matter And Materials](./quantum-materials/01-quantum-condensed-matter-and-materials.md)
+
+## statistical-learning
+
+- [Statistical Learning Theory And Generalization](./statistical-learning/01-statistical-learning-theory-and-generalization.md)
