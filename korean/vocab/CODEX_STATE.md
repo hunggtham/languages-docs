@@ -916,6 +916,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `14` checkpoint.
 
+## 2026-10-06 financial-consumer checkpoint
+
+- Topic: `advanced-finance-and-consumer-protection`
+- File: `13-financial-consumer-choice-and-redress.md`
+- Coverage: 12 advanced-native financial-consumer, disclosure, redress, electronic-finance, and deposit-protection targets in the `news_formal` lane (`금융소비자권리`, `투자위험고지`, `대출정보비교`, `신용정보이동권`, `금융상품철회권`, `불완전설명`, `금융분쟁해결`, `보험계약해지`, `전자금융사고`, `금융취약성지표`, `예금보호제도`, `금융사기예방`).
+- Passage coverage: one coherent 24-eojeol Korean finance-consumer passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `13` checkpoint.
+
 ## 2026-10-06 employment-recovery checkpoint
 
 - Topic: `advanced-economic-and-labor-reporting`
