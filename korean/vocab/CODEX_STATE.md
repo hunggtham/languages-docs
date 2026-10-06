@@ -961,6 +961,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-06 organizational-continuity checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `10-organizational-continuity-and-crisis-operations.md`
+- Coverage: 12 advanced-native institutional-workplace targets for continuity, accountability, risk, handover, and employee voice in the `news_formal` lane (`업무연속성`, `조직책임성`, `의사결정투명성`, `리스크등록부`, `비상연락망`, `업무인계공백`, `기관간조정`, `조직회복력`, `직원발언권`, `업무부하조정`, `운영리스크`, `업무 회복 계획`).
+- Passage coverage: one coherent 28-eojeol Korean institutional-workplace passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
+
 ## 2026-10-06 deterrence-postwar checkpoint
 
 - Topic: `security-resources-and-conflict`
