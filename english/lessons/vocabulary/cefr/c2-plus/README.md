@@ -247,3 +247,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Food Security And Nutrition Governance](./philosophy-of-science/28-food-security-and-nutrition-governance.md)
 - [Health System Resilience And Surge Response](./philosophy-of-science/29-health-system-resilience-and-surge-response.md)
 - [Health Equity And Service Access](./philosophy-of-science/30-health-equity-and-service-access.md)
+- [Health Priority Setting And Governance](./philosophy-of-science/31-health-priority-setting-and-governance.md)
