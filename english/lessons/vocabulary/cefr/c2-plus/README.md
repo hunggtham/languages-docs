@@ -252,3 +252,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Global Health Diplomacy And Cooperation](./philosophy-of-science/33-global-health-diplomacy-and-cooperation.md)
 - [Health Workforce Ethics And Regulation](./philosophy-of-science/34-health-workforce-ethics-and-regulation.md)
 - [Health Financing And Provider Payment](./philosophy-of-science/35-health-financing-and-provider-payment.md)
+- [Health Outcomes And Value Measurement](./philosophy-of-science/36-health-outcomes-and-value-measurement.md)
