@@ -970,6 +970,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
 
+## 2026-10-06 public-oversight checkpoint
+
+- Topic: `public-affairs-and-accountability`
+- File: `06-public-oversight-and-accountability-structure.md`
+- Coverage: 12 advanced-native public-accountability, oversight, whistleblower, and institutional-reform targets in the `news_formal` lane (`공공감사결과`, `권력감시`, `시민제보`, `공공기관평가`, `책임회피`, `부패취약성`, `공익제보자보호`, `정책불신`, `제도개혁동력`, `공공데이터감사`, `행정책임공백`, `책임공시`).
+- Passage coverage: one coherent 32-eojeol Korean public-accountability passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `06` checkpoint.
+
 ## 2026-10-06 workplace-decision-flow checkpoint
 
 - Topic: `practical-workplace-communication`
