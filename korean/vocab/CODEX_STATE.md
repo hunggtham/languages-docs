@@ -1024,6 +1024,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
 
+## 2026-10-06 organizational-learning checkpoint
+
+- Topic: `advanced-workplace-and-institutional-discourse`
+- File: `11-performance-learning-and-leadership.md`
+- Coverage: 12 advanced-native organizational-performance, job-design, psychological-safety, learning, and executive-accountability targets in the `news_formal` lane (`조직성과지표`, `직무재설계`, `업무자원`, `팀심리안전`, `리더십책임`, `조직지식관리`, `직원유지율`, `업무탄력성`, `회의효율성`, `부서벽`, `조직학습능력`, `경영진책무`).
+- Passage coverage: one coherent 23-eojeol Korean workplace passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `11` checkpoint.
+
 ## 2026-10-06 food-resilience checkpoint
 
 - Topic: `advanced-food-security-and-agricultural-policy`
