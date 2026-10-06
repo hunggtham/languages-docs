@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `07` checkpoint.
 
+## 2026-10-06 relational-recovery checkpoint
+
+- Topic: `relationships-and-emotional-recovery`
+- File: `04-emotional-distance-and-relational-recovery.md`
+- Coverage: 12 advanced-native relational and emotional-recovery targets in the `native_spoken` lane (`감정기복`, `애착회피`, `관계회복력`, `정서적안전감`, `마음의 문을 닫다`, `감정적거리`, `마음고생`, `정서적의존`, `관계의균형`, `상처회복`, `신뢰재건`, `감정표현력`).
+- Passage coverage: one coherent 38-eojeol Korean relational passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `04` checkpoint.
+
 ## 2026-10-06 deterrence-postwar checkpoint
 
 - Topic: `security-resources-and-conflict`
