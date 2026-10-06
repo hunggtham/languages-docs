@@ -934,6 +934,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 research-trust checkpoint
+
+- Topic: `advanced-science-and-technology-reporting`
+- File: `12-research-trust-and-technology-diffusion.md`
+- Coverage: 12 advanced-native science, research-integrity, AI-safety, and technology-diffusion targets in the `news_formal` lane (`연구비집행률`, `학술지철회율`, `연구데이터편향`, `과학적재현성`, `기술준비도`, `실증연구`, `규제불확실성`, `AI안전성평가`, `모델일반화`, `데이터계보`, `연구성과지표`, `기술확산속도`).
+- Passage coverage: one coherent 33-eojeol Korean science-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `12` checkpoint.
+
 ## 2026-10-06 diplomacy-procedure checkpoint
 
 - Topic: `high-register-law-and-diplomacy`
