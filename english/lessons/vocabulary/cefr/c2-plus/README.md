@@ -212,3 +212,4 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## philosophy-of-science
 
 - [Theories Explanation And Scientific Change](./philosophy-of-science/01-theories-explanation-and-scientific-change.md)
+- [Epistemic Practice And Scientific Values](./philosophy-of-science/02-epistemic-practice-and-scientific-values.md)
