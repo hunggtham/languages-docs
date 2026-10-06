@@ -200,6 +200,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## maritime-logistics
 
 - [Container Shipping And Trade Compliance](./maritime-logistics/01-container-shipping-and-trade-compliance.md)
+- [Shipping Contracts Claims And Sustainability](./maritime-logistics/02-shipping-contracts-claims-and-sustainability.md)
 
 ## epidemiology
 
