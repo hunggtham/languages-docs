@@ -173,6 +173,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## ecotoxicology
 
 - [Environmental Toxicology And Risk Assessment](./ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)
+- [Environmental Fate Transport And Monitoring](./ecotoxicology/02-environmental-fate-transport-and-monitoring.md)
 
 ## remote-sensing
 
