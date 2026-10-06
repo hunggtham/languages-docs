@@ -952,6 +952,15 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `10` checkpoint.
 
+## 2026-10-06 mobility-rights checkpoint
+
+- Topic: `advanced-mobility-and-transport-policy`
+- File: `08-mobility-rights-and-transport-justice.md`
+- Coverage: 12 advanced-native mobility-rights, accessibility, transport-justice, and low-carbon transport targets in the `news_formal` lane (`교통권리`, `이동약자지원`, `대중교통회복력`, `무장애교통`, `교통데이터윤리`, `교통취약지역`, `탄소중립교통`, `도시철도환승`, `통합교통서비스`, `이동서비스품질`, `교통정의`, `교통불평등`).
+- Passage coverage: one coherent 23-eojeol Korean mobility-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness, README link, and `git diff --check` passed.
+- Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `08` checkpoint.
+
 ## 2026-10-06 adaptation-governance checkpoint
 
 - Topic: `advanced-climate-and-environmental-governance`
