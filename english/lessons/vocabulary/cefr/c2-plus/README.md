@@ -215,6 +215,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Waterborne Disease And Environmental Surveillance](./epidemiology/09-waterborne-disease-and-environmental-surveillance.md)
 - [Transmission Networks And Outbreak Structure](./epidemiology/10-transmission-networks-and-outbreak-structure.md)
 - [Equity And Vulnerability In Epidemiology](./epidemiology/11-equity-and-vulnerability-in-epidemiology.md)
+- [Risk Perception And Behavioral Response](./epidemiology/12-risk-perception-and-behavioral-response.md)
 
 ## agroecology
 
