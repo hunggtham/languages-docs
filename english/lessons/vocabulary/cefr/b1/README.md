@@ -62,6 +62,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Travel Planning And Support](./travel/02-travel-planning-and-support.md)
 - [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
 - [Travel Documents And Local Plans](./travel/04-travel-documents-and-local-plans.md)
+- [Road Trips And Rail Journeys](./travel/05-road-trips-and-rail-journeys.md)
 
 ## society
 
@@ -87,6 +88,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Heritage And Museums](./culture/01-heritage-and-museums.md)
 - [Creative Industries And Media](./culture/02-creative-industries-and-media.md)
 - [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
+- [Festivals Traditions And Customs](./culture/04-festivals-traditions-and-customs.md)
 
 ## food
 
