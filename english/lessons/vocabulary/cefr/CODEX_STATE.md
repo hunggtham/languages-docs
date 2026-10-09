@@ -27,7 +27,7 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1226 items in 61 topic files; topic-folder numbering resets per folder.
+- B1: 1251 items in 62 topic files; topic-folder numbering resets per folder.
 - B2: 318 items in 21 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
 - C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
@@ -1019,3 +1019,4 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `b1/home/04-household-chores-and-cleaning.md` with 25 household chores and cleaning items. The lesson includes two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest continuation added `b2/society/04-social-issues-and-welfare.md` with 25 social issues and welfare items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest continuation added `c2/computing/183-computer-graphics-and-rendering.md` with 25 computer graphics and 3D rendering items. The lesson includes a contextual network introduction and an integrated review passage with Vietnamese translation. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B1 expansion added `b1/leisure/06-entertainment-media-and-indoor-relaxation.md` with 25 entertainment, media, and relaxation items.
