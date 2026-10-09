@@ -58,3 +58,11 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## health
 
 - [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
+
+## media
+
+- [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
+
+## environment
+
+- [Environmental Conservation And Climate Action](./environment/01-environmental-conservation-and-climate-action.md)
