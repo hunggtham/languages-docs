@@ -199,6 +199,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest C2+ continuation added `c2-plus/philosophy-of-science/28-food-security-and-nutrition-governance.md` with 25 food-security, nutrition, price-shock, storage, social-protection, school-feeding, and fortification items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/philosophy-of-science/29-health-system-resilience-and-surge-response.md` with 25 health-system, surge-capacity, referral, workforce, surveillance, emergency-command, triage, and recovery-backlog items; the lesson uses one integrated review passage with Vietnamese translation.
 - Latest C2+ continuation added `c2-plus/astronomy/02-stellar-astrophysics-and-evolution.md` with 25 stellar astrophysics, nucleosynthesis, main-sequence, and binary-interaction items; the lesson uses two integrated review passages with Vietnamese translations.
+- Latest C2+ continuation added `c2-plus/mycology/02-fungal-ecology-and-pathogenesis.md` with 25 fungal ecology, pathogenesis, metabolism, and symbiotic items; the lesson uses one integrated review passage with Vietnamese translation.
 
 - Latest continuation added `c2/semiconductors/154-port-automation-and-maritime-logistics-robotics.md` with 20 port automation, container handling, cargo inspection, maritime surveillance, intermodal dispatch, and yard-congestion items; the lesson uses one integrated review passage with Vietnamese translation.
 
