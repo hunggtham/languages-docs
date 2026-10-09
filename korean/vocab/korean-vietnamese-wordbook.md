@@ -101,6 +101,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [신경기술과 뇌-컴퓨터 인터페이스의 언어](./topics/advanced-neurotechnology-and-brain-computer-interfaces/README.md)
 - [보험 위험과 보장 설계의 언어](./topics/advanced-insurance-risk-and-coverage-design/README.md)
 - [심리측정과 학습 근거의 언어](./topics/advanced-psychometric-assessment-and-learning-evidence/README.md)
+- [프라이버시 공학과 데이터 거버넌스의 언어](./topics/advanced-privacy-engineering-and-data-governance/README.md)
+- [도시 열과 공중보건의 언어](./topics/advanced-urban-heat-and-public-health/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
