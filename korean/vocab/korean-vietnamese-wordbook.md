@@ -103,6 +103,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [심리측정과 학습 근거의 언어](./topics/advanced-psychometric-assessment-and-learning-evidence/README.md)
 - [프라이버시 공학과 데이터 거버넌스의 언어](./topics/advanced-privacy-engineering-and-data-governance/README.md)
 - [도시 열과 공중보건의 언어](./topics/advanced-urban-heat-and-public-health/README.md)
+- [양식업과 수산 거버넌스의 언어](./topics/advanced-aquaculture-and-fisheries-governance/README.md)
+- [사이버 보안 사고 대응의 언어](./topics/advanced-cybersecurity-incident-response/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

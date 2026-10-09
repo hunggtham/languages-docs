@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 720 new targets across forty-eight independent topic batches; 5,720 structured headings toward the 10,000 target, leaving 4,280 after this checkpoint.
+- Progress in this checkpoint: 750 new targets across fifty independent topic batches; 5,750 structured headings toward the 10,000 target, leaving 4,250 after this checkpoint.
+
+- Topic: `advanced-aquaculture-and-fisheries-governance`
+- File: `01-aquaculture-production-and-fisheries-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aquaculture-production and fisheries-governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean aquaculture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-cybersecurity-incident-response`
+- File: `01-incident-detection-and-response.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cybersecurity incident-response headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean cybersecurity passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-privacy-engineering-and-data-governance`
 - File: `01-privacy-engineering-and-data-governance.md`
