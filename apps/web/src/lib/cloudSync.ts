@@ -95,7 +95,9 @@ export async function syncSnapshot(progress: ProgressState): Promise<ProgressSta
   const existingResult = await builder.select("*").eq("user_id", userId).eq("app_id", APP_ID).eq("content_namespace", CONTENT_NAMESPACE).eq("content_type", CONTENT_TYPE).eq("content_id", CONTENT_ID).maybeSingle();
   if (existingResult.error) throw new Error(existingResult.error.message);
   const remote = existingResult.data?.state?.language_lab as ProgressState | undefined;
-  const next = remote && !existingResult.data?.updated_at ? remote : progress;
+  const seenKey = `language-lab-cloud-seen:${userId}`;
+  const useRemote = Boolean(remote && !localStorage.getItem(seenKey));
+  const next = useRemote ? remote! : progress;
   const row = {
     user_id: userId,
     app_id: APP_ID,
@@ -111,5 +113,6 @@ export async function syncSnapshot(progress: ProgressState): Promise<ProgressSta
   };
   const writeResult = await builder.upsert(row, { onConflict: "user_id,app_id,content_namespace,content_type,content_id" });
   if (writeResult.error) throw new Error(writeResult.error.message);
-  return remote && existingResult.data?.updated_at ? remote : null;
+  localStorage.setItem(seenKey, new Date().toISOString());
+  return useRemote ? remote! : null;
 }
