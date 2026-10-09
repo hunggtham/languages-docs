@@ -31,6 +31,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Healthy Routines And Wellbeing](./health/03-healthy-routines-and-wellbeing.md)
 - [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
 - [Health Visits And Self Care](./health/05-health-visits-and-self-care.md)
+- [Common Illnesses And First Aid](./health/06-common-illnesses-and-first-aid.md)
+- [Treatments And Home Care](./health/07-treatments-and-home-care.md)
 
 ## home
 
