@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 930 new targets across sixty-two independent topic batches; 5,930 structured headings toward the 10,000 target, leaving 4,070 after this checkpoint.
+- Progress in this checkpoint: 960 new targets across sixty-four independent topic batches; 5,960 structured headings toward the 10,000 target, leaving 4,040 after this checkpoint.
+
+- Topic: `advanced-urban-biodiversity-and-green-infrastructure`
+- File: `01-urban-ecological-connectivity-and-green-infrastructure.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-biodiversity and green-infrastructure headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean urban-ecology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-sensing-and-metrology`
+- File: `01-quantum-sensing-and-metrology.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum-sensing and metrology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean quantum-metrology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-hydrogen-storage-and-industrial-safety`
 - File: `01-hydrogen-storage-and-process-safety.md`

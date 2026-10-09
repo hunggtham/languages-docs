@@ -117,6 +117,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [하수 처리와 물 재이용의 언어](./topics/advanced-wastewater-treatment-and-water-reuse/README.md)
 - [수소 저장과 산업 안전의 언어](./topics/advanced-hydrogen-storage-and-industrial-safety/README.md)
 - [로봇수술과 의료기기 안전의 언어](./topics/advanced-robotic-surgery-and-medical-devices/README.md)
+- [도시 생물다양성과 녹색 인프라의 언어](./topics/advanced-urban-biodiversity-and-green-infrastructure/README.md)
+- [양자 센싱과 계측의 언어](./topics/advanced-quantum-sensing-and-metrology/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
