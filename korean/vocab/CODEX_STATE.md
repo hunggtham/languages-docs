@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 660 new targets across forty-four independent topic batches; 5,660 structured headings toward the 10,000 target, leaving 4,340 after this checkpoint.
+- Progress in this checkpoint: 690 new targets across forty-six independent topic batches; 5,690 structured headings toward the 10,000 target, leaving 4,310 after this checkpoint.
+
+- Topic: `advanced-insurance-risk-and-coverage-design`
+- File: `01-risk-pooling-and-coverage-design.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot insurance-risk and coverage-design headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean insurance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-psychometric-assessment-and-learning-evidence`
+- File: `01-assessment-design-and-learning-trajectories.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot psychometric-assessment and learning-evidence headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean assessment passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`

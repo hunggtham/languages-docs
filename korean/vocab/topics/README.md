@@ -100,6 +100,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [바이오공정과 미생물 발효의 언어](./advanced-bioprocessing-and-microbial-fermentation/README.md) — `미생물 발효와 공정 스케일업을 읽다`
 - [공급망 회복력과 산업조달의 언어](./advanced-supply-chain-resilience-and-industrial-procurement/README.md) — `공급망 회복과 산업조달을 읽다`
 - [신경기술과 뇌-컴퓨터 인터페이스의 언어](./advanced-neurotechnology-and-brain-computer-interfaces/README.md) — `신경신호와 재활 인터페이스를 읽다`
+- [보험 위험과 보장 설계의 언어](./advanced-insurance-risk-and-coverage-design/README.md) — `위험을 나누고 보장 범위를 판단하는 말`
+- [심리측정과 학습 근거의 언어](./advanced-psychometric-assessment-and-learning-evidence/README.md) — `평가 설계와 학습 궤적을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
