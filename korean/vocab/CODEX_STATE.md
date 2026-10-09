@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 870 new targets across fifty-eight independent topic batches; 5,870 structured headings toward the 10,000 target, leaving 4,130 after this checkpoint.
+- Progress in this checkpoint: 900 new targets across sixty independent topic batches; 5,900 structured headings toward the 10,000 target, leaving 4,100 after this checkpoint.
+
+- Topic: `advanced-telemedicine-and-digital-health`
+- File: `01-telemedicine-and-digital-health-data.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot telemedicine and digital-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 100-eojeol Korean telemedicine passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wastewater-treatment-and-water-reuse`
+- File: `01-wastewater-treatment-and-water-reuse.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wastewater-treatment and water-reuse headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean water-reuse passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-critical-minerals-and-rare-earth-recycling`
 - File: `01-critical-minerals-and-rare-earth-recycling.md`
