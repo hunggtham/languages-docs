@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 750 new targets across fifty independent topic batches; 5,750 structured headings toward the 10,000 target, leaving 4,250 after this checkpoint.
+- Progress in this checkpoint: 780 new targets across fifty-two independent topic batches; 5,780 structured headings toward the 10,000 target, leaving 4,220 after this checkpoint.
+
+- Topic: `advanced-dementia-care-and-aging-services`
+- File: `01-dementia-care-and-aging-services.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot dementia-care and aging-services headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean aging-services passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-transit-pricing-and-urban-mobility`
+- File: `01-transit-pricing-and-urban-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot transit-pricing and urban-mobility headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean mobility-policy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-aquaculture-and-fisheries-governance`
 - File: `01-aquaculture-production-and-fisheries-governance.md`

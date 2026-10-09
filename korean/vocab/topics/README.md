@@ -106,6 +106,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [도시 열과 공중보건의 언어](./advanced-urban-heat-and-public-health/README.md) — `열 노출과 건강 대응을 읽다`
 - [양식업과 수산 거버넌스의 언어](./advanced-aquaculture-and-fisheries-governance/README.md) — `양식 생산과 수산 자원 관리를 읽다`
 - [사이버 보안 사고 대응의 언어](./advanced-cybersecurity-incident-response/README.md) — `침해사고를 탐지하고 대응하다`
+- [치매 돌봄과 노년 서비스의 언어](./advanced-dementia-care-and-aging-services/README.md) — `돌봄 경로와 노년 서비스를 읽다`
+- [교통요금과 도시 이동성의 언어](./advanced-transit-pricing-and-urban-mobility/README.md) — `요금 설계와 도시 이동을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

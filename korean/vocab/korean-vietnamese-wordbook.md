@@ -105,6 +105,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [도시 열과 공중보건의 언어](./topics/advanced-urban-heat-and-public-health/README.md)
 - [양식업과 수산 거버넌스의 언어](./topics/advanced-aquaculture-and-fisheries-governance/README.md)
 - [사이버 보안 사고 대응의 언어](./topics/advanced-cybersecurity-incident-response/README.md)
+- [치매 돌봄과 노년 서비스의 언어](./topics/advanced-dementia-care-and-aging-services/README.md)
+- [교통요금과 도시 이동성의 언어](./topics/advanced-transit-pricing-and-urban-mobility/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
