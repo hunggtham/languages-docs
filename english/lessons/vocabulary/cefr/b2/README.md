@@ -82,3 +82,11 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## politics
 
 - [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
+
+## art
+
+- [Visual Arts Artistic Creation And Gallery Exhibitions](./art/01-visual-arts-artistic-creation-and-gallery-exhibitions.md)
+
+## urban
+
+- [Metropolitan Growth And Municipal Infrastructure](./urban/01-metropolitan-growth-and-municipal-infrastructure.md)
