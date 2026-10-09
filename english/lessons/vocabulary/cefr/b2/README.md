@@ -6,6 +6,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
 - [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
+- [Decision Making Process](./decisions/03-decision-making-process.md)
 
 ## risk
 
@@ -16,6 +17,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## work
 
 - [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
+- [Career Lifecycle And Workplace Dynamics](./work/02-career-lifecycle-and-workplace-dynamics.md)
 
 ## communication
 
@@ -28,6 +30,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
 - [Study Design And Evidence](./research/02-study-design-and-evidence.md)
+- [Academic Research Process](./research/03-academic-research-process.md)
 
 ## education
 
@@ -35,15 +38,19 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Academic Revision And Editing](./education/02-academic-revision-and-editing.md)
 - [Research And Submission](./education/03-research-and-submission.md)
 - [Teaching And Assessment Design](./education/04-teaching-and-assessment-design.md)
+- [Learning Environments And Student Life](./education/05-learning-environments-and-student-life.md)
 
 ## technology
 
 - [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
 - [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
+- [Cloud Infrastructure And Software Maintenance](./technology/04-cloud-infrastructure-and-software-maintenance.md)
 
 ## society
 
 - [Urban Life Housing And Public Space](./society/01-urban-life-housing-and-public-space.md)
 - [Housing Policy And Neighborhood Change](./society/02-housing-policy-and-neighborhood-change.md)
 - [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
+- [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
+- [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
