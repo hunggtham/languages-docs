@@ -107,6 +107,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [사이버 보안 사고 대응의 언어](./topics/advanced-cybersecurity-incident-response/README.md)
 - [치매 돌봄과 노년 서비스의 언어](./topics/advanced-dementia-care-and-aging-services/README.md)
 - [교통요금과 도시 이동성의 언어](./topics/advanced-transit-pricing-and-urban-mobility/README.md)
+- [해안 적응과 기후 이동의 언어](./topics/advanced-coastal-adaptation-and-climate-migration/README.md)
+- [마이크로바이옴과 대사 건강의 언어](./topics/advanced-microbiome-and-metabolic-health/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

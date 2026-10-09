@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 780 new targets across fifty-two independent topic batches; 5,780 structured headings toward the 10,000 target, leaving 4,220 after this checkpoint.
+- Progress in this checkpoint: 810 new targets across fifty-four independent topic batches; 5,810 structured headings toward the 10,000 target, leaving 4,190 after this checkpoint.
+
+- Topic: `advanced-coastal-adaptation-and-climate-migration`
+- File: `01-coastal-retreat-and-climate-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot coastal-adaptation and climate-migration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean coastal-mobility passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbiome-and-metabolic-health`
+- File: `01-microbiome-and-metabolic-health-evidence.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbiome and metabolic-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 109-eojeol Korean microbiome-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-dementia-care-and-aging-services`
 - File: `01-dementia-care-and-aging-services.md`
