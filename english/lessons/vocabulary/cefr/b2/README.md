@@ -70,3 +70,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## finance
 
 - [Personal Finance And Capital Management](./finance/01-personal-finance-and-capital-management.md)
+
+## law
+
+- [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
