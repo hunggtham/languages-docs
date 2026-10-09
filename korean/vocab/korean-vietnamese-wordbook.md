@@ -61,6 +61,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [재난 위험과 공동체 회복의 언어](./topics/advanced-disaster-risk-and-resilience/README.md)
 - [종교·영성과 세속사회의 언어](./topics/religion-spirituality-and-secular-society/README.md)
 - [한국어 의미 구조와 담화의 언어](./topics/advanced-korean-linguistics-and-discourse/README.md)
+- [고고학과 문화유산의 과학 언어](./topics/advanced-archaeological-science-and-heritage/README.md)
+- [시각문화와 미술비평의 언어](./topics/advanced-visual-culture-and-art-criticism/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
