@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 360 new targets across twenty-four independent topic batches; 5,360 structured headings toward the 10,000 target, leaving 4,640 after this checkpoint.
+- Progress in this checkpoint: 390 new targets across twenty-six independent topic batches; 5,390 structured headings toward the 10,000 target, leaving 4,610 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -124,6 +124,16 @@
 - File: `01-method-validation-and-laboratory-safety.md`
 - Coverage: 15 new advanced-native chemical-analysis and laboratory-safety targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 143-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-ecotoxicology-and-environmental-risk`
+- File: `01-ecotoxicity-and-environmental-risk.md`
+- Coverage: 15 new advanced-native ecotoxicology and environmental-risk targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 89-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-corporate-governance-and-shareholder-rights`
+- File: `01-shareholder-rights-and-board-governance.md`
+- Coverage: 15 new advanced-native corporate-governance and shareholder-rights targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections plus Vietnamese example translations, 15/15 passage target coverage in a 110-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-visual-culture-and-art-criticism`
 - File: `01-form-and-context-and-reception.md`

@@ -80,6 +80,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [지리공간 분석과 도시 감지의 언어](./advanced-geospatial-and-urban-sensing/README.md) — `공간 패턴과 도시 감지를 읽다`
 - [반도체 제조와 수율의 언어](./advanced-semiconductor-fabrication-and-yield/README.md) — `미세화 공정과 수율을 읽다`
 - [화학 안전과 실험실 실무의 언어](./advanced-chemical-safety-and-laboratory-practice/README.md) — `방법 검증과 실험실 안전을 읽다`
+- [생태독성과 환경위험의 언어](./advanced-ecotoxicology-and-environmental-risk/README.md) — `생태독성과 환경위험을 읽다`
+- [기업지배구조와 주주권리의 언어](./advanced-corporate-governance-and-shareholder-rights/README.md) — `주주권리와 이사회 거버넌스를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

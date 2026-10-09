@@ -79,6 +79,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [지리공간 분석과 도시 감지의 언어](./topics/advanced-geospatial-and-urban-sensing/README.md)
 - [반도체 제조와 수율의 언어](./topics/advanced-semiconductor-fabrication-and-yield/README.md)
 - [화학 안전과 실험실 실무의 언어](./topics/advanced-chemical-safety-and-laboratory-practice/README.md)
+- [생태독성과 환경위험의 언어](./topics/advanced-ecotoxicology-and-environmental-risk/README.md)
+- [기업지배구조와 주주권리의 언어](./topics/advanced-corporate-governance-and-shareholder-rights/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
