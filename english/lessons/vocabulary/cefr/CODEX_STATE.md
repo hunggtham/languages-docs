@@ -1003,3 +1003,5 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest continuation added `c2-plus/atmospheric-science/02-atmospheric-dynamics-and-mesoscale-systems.md` with 25 atmospheric-dynamics and mesoscale systems items. The lesson passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest continuation added `c2-plus/agroecology/03-agroecosystem-dynamics-and-soil-ecology.md` with 25 agroecosystem-dynamics and soil-ecology items. The lesson passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest continuation added `c2-plus/virology/02-infection-dynamics-and-phage-biology.md` with 25 virology items. The lesson passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+
+- Latest continuation added `b2/research/03-academic-research-process.md` with 25 methodology, data collection, ethics, and publication items; the lesson uses two integrated review passages with Vietnamese translations.
