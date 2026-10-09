@@ -15,6 +15,21 @@
 - Source PDFs and dictionaries are reference material only; lesson explanations and passages are original.
 - Lexical audit: 214 nested target headwords retain `advanced_native` or `contemporary_native_hot` metadata; 71 common/support words were removed from target headings but remain available in explanations and passages. The 67 legacy flat headwords are preserved as `legacy_review`.
 
+## 2026-10-09 10,000-word expansion kickoff
+
+- Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
+- Progress in this checkpoint: 30 new targets across two independent topic batches; 5,030 structured headings toward the 10,000 target, leaving 4,970 after this checkpoint.
+
+- Topic: `sports-and-competition-culture`
+- File: `01-league-design-and-match-reading.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot headwords about league design, match analysis, sports integrity, and critical sponsorship discourse across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis metadata blocks and source-lane contexts, exact heading deduplication against the 5,001-heading corpus, 15/15 passage target coverage in a 116-eojeol passage, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-mental-health-and-neurodiversity`
+- File: `01-sensory-regulation-and-neurodiversity.md`
+- Coverage: 15 new targets (12 `advanced_native`, 3 `contemporary_native_hot`) spanning `news_formal`, `native_spoken`, and `slang_online` contexts in one `target_set` passage.
+- Validation: 15 lexical-basis metadata blocks, all required entry sections, 15/15 passage target coverage in a 106-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
 ## Completed checkpoint
 
 - Topic: `relationships-and-emotional-recovery`

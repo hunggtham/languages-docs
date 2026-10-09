@@ -55,6 +55,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [디지털 권리와 플랫폼 거버넌스의 언어](./topics/advanced-digital-rights-and-platform-governance/README.md)
 - [식량안보와 농업정책의 언어](./topics/advanced-food-security-and-agricultural-policy/README.md)
 - [이동권과 교통정책의 고급 언어](./topics/advanced-mobility-and-transport-policy/README.md)
+- [스포츠와 경기 문화](./topics/sports-and-competition-culture/README.md)
+- [정신건강과 신경다양성의 언어](./topics/advanced-mental-health-and-neurodiversity/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
