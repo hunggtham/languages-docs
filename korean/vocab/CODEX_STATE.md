@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 120 new targets across eight independent topic batches; 5,120 structured headings toward the 10,000 target, leaving 4,880 after this checkpoint.
+- Progress in this checkpoint: 150 new targets across ten independent topic batches; 5,150 structured headings toward the 10,000 target, leaving 4,850 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -59,6 +59,16 @@
 - File: `01-form-and-context-and-reception.md`
 - Coverage: 15 new advanced-native visual-culture and art-criticism headwords in the `news_formal` lane in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 127-eojeol passage (including natural inflected variants), global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-ocean-and-marine-governance`
+- File: `01-marine-ecosystems-and-ocean-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot marine-ecosystem, fisheries, infrastructure, and ocean-governance targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 102-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-music-and-performance-language`
+- File: `01-sound-stage-and-performance-language.md`
+- Coverage: 15 new targets (14 `advanced_native`, 1 `contemporary_native_hot`) spanning music, performance, and stage discourse across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 104-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 ## Completed checkpoint
 

@@ -63,6 +63,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [한국어 의미 구조와 담화의 언어](./topics/advanced-korean-linguistics-and-discourse/README.md)
 - [고고학과 문화유산의 과학 언어](./topics/advanced-archaeological-science-and-heritage/README.md)
 - [시각문화와 미술비평의 언어](./topics/advanced-visual-culture-and-art-criticism/README.md)
+- [해양 생태계와 해양 거버넌스의 언어](./topics/advanced-ocean-and-marine-governance/README.md)
+- [음악과 공연의 언어](./topics/advanced-music-and-performance-language/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
