@@ -74,3 +74,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## law
 
 - [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
+
+## psychology
+
+- [Cognitive Patterns And Emotional Wellbeing](./psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
