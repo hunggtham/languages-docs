@@ -66,6 +66,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [시각문화와 미술비평의 언어](./advanced-visual-culture-and-art-criticism/README.md) — `형식과 맥락, 관객의 시선을 읽다`
 - [해양 생태계와 해양 거버넌스의 언어](./advanced-ocean-and-marine-governance/README.md) — `바다의 생태와 공동 관리의 쟁점을 읽다`
 - [음악과 공연의 언어](./advanced-music-and-performance-language/README.md) — `소리와 무대의 수행 방식을 읽다`
+- [천문학과 우주정책의 언어](./advanced-astronomy-and-space-policy/README.md) — `하늘의 관측과 우주정책을 읽다`
+- [생물다양성과 산림보전의 언어](./advanced-biodiversity-and-forest-conservation/README.md) — `생태 연결성과 숲의 회복을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
