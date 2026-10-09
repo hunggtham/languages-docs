@@ -94,6 +94,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [토양과 토지 복원의 언어](./advanced-soil-science-and-land-restoration/README.md) — `토양 건강과 토지 복원을 읽다`
 - [인지신경과학과 사회인지의 언어](./advanced-cognitive-neuroscience-and-social-cognition/README.md) — `뇌의 적응과 사회인지의 조건을 읽다`
 - [감염병 감시와 원헬스의 언어](./advanced-infectious-disease-surveillance-and-one-health/README.md) — `감염병 감시와 원헬스 협력을 읽다`
+- [디지털 포렌식과 증거의 언어](./advanced-digital-forensics-and-evidence/README.md) — `디지털 증거와 포렌식 절차를 읽다`
+- [공공조달과 청렴성의 언어](./advanced-public-procurement-and-integrity/README.md) — `조달 절차와 청렴성을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
