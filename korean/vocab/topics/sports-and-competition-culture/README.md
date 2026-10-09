@@ -7,4 +7,3 @@
 ## 학습 파일
 
 - [리그를 설계하고 경기의 흐름을 읽다](./01-league-design-and-match-reading.md)
-
