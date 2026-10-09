@@ -27,20 +27,20 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1701 items in 80 topic files; topic-folder numbering resets per folder.
+- B1: 1751 items in 82 topic files; topic-folder numbering resets per folder.
 - B2: 643 items in 34 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5275 items in 285 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 24296 items (authoritative script count after the latest B2 law checkpoint).
+- Total: 24346 items (authoritative script count after the latest B1 science checkpoint).
 
 ## Current position
 
 Status: `READY_FOR_30K`
 
-Current level: `B2`
+Current level: `B1`
 
-Next lesson: continue B2 with the next coherent topic (or `law/02-...` when the next lesson naturally extends that network). The 20,000-item count is a verified checkpoint; continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B1 with the next coherent topic (or `science/05-...` when the next lesson naturally extends that network). The 20,000-item count is a verified checkpoint; continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -68,6 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
+- Latest continuation added `b1/science/04-matter-forces-and-experiments.md` with 25 solar system, celestial body, physical forces, matter, chemical elements, and laboratory experiment items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/law/01-courtroom-proceedings-and-legal-disputes.md` with 25 courtroom roles, criminal justice, trial verdicts, sentencing, civil litigation, and constitutional remedies items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/finance/01-personal-finance-and-capital-management.md` with 25 personal finance, credit, mortgage lending, investment vehicles, corporate financial management, and accounting audit items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b1/business/08-wholesale-and-inventory-management.md` with 25 wholesale, pricing, inventory management, logistics fulfillment, delivery exceptions, and post-sale support items; the lesson uses two integrated review passages with Vietnamese translation.
