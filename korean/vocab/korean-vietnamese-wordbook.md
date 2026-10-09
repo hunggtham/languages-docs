@@ -71,6 +71,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [기록과 공공기억 보존의 언어](./topics/advanced-archival-science-and-public-memory/README.md)
 - [작물 생리와 기후 회복력의 언어](./topics/advanced-crop-physiology-and-climate-resilience/README.md)
 - [편집과 출판 실무의 언어](./topics/advanced-editorial-and-publishing-practice/README.md)
+- [항공 안전과 항공교통의 언어](./topics/advanced-aviation-safety-and-air-traffic/README.md)
+- [순환경제와 폐기물 관리의 언어](./topics/advanced-circular-economy-and-waste-management/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
