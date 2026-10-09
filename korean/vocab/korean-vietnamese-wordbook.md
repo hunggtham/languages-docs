@@ -77,6 +77,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [양자컴퓨팅과 암호 전환의 언어](./topics/advanced-quantum-computing-and-cryptographic-transition/README.md)
 - [번역과 통역 실무의 고급 언어](./topics/advanced-translation-and-interpreting-practice/README.md)
 - [지리공간 분석과 도시 감지의 언어](./topics/advanced-geospatial-and-urban-sensing/README.md)
+- [반도체 제조와 수율의 언어](./topics/advanced-semiconductor-fabrication-and-yield/README.md)
+- [화학 안전과 실험실 실무의 언어](./topics/advanced-chemical-safety-and-laboratory-practice/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
