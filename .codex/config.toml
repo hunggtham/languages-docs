@@ -1,0 +1,14 @@
+# Project-local MCP configuration for shared-context-mcp.
+# The server reads the public repository snapshot without needing a token.
+
+[mcp_servers.shared_context]
+command = "/Users/mac/.nvm/versions/node/v24.8.0/bin/node"
+args = ["/Users/mac/.local/share/shared-context-mcp/src/index.js"]
+cwd = "/Users/mac/.local/share/shared-context-mcp"
+startup_timeout_sec = 10
+
+[mcp_servers.shared_context.env]
+CONTEXT_REPO_URL = "https://github.com/hunggtham/languages-docs.git"
+CONTEXT_PROJECT_NAME = "languages-docs"
+CONTEXT_REPO_PATH = "/Users/mac/.shared-context/languages-docs"
+CONTEXT_BRANCH = "main"
