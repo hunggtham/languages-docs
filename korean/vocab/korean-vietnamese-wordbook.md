@@ -87,6 +87,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [우주비행공학과 궤도운영의 언어](./topics/advanced-spaceflight-engineering-and-orbital-operations/README.md)
 - [로봇공학과 인간-기계 협업의 언어](./topics/advanced-robotics-and-human-machine-collaboration/README.md)
 - [입헌민주주의와 제도적 통제의 언어](./topics/advanced-constitutional-democracy-and-institutional-checks/README.md)
+- [행동경제학과 의사결정과학의 언어](./topics/advanced-behavioral-economics-and-decision-science/README.md)
+- [통신망 회복력과 장애조치의 언어](./topics/advanced-telecommunications-network-resilience/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

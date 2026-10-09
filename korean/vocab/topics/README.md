@@ -88,6 +88,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [우주비행공학과 궤도운영의 언어](./advanced-spaceflight-engineering-and-orbital-operations/README.md) — `궤도운영과 우주임무 설계를 읽다`
 - [로봇공학과 인간-기계 협업의 언어](./advanced-robotics-and-human-machine-collaboration/README.md) — `사람과 로봇의 협업 조건을 읽다`
 - [입헌민주주의와 제도적 통제의 언어](./advanced-constitutional-democracy-and-institutional-checks/README.md) — `헌법해석과 제도적 통제를 읽다`
+- [행동경제학과 의사결정과학의 언어](./advanced-behavioral-economics-and-decision-science/README.md) — `편향과 선택설계를 읽다`
+- [통신망 회복력과 장애조치의 언어](./advanced-telecommunications-network-resilience/README.md) — `끊겨도 이어지는 통신망을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

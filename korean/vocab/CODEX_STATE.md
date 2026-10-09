@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 480 new targets across thirty-two independent topic batches; 5,480 structured headings toward the 10,000 target, leaving 4,520 after this checkpoint.
+- Progress in this checkpoint: 510 new targets across thirty-four independent topic batches; 5,510 structured headings toward the 10,000 target, leaving 4,490 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -149,6 +149,16 @@
 - File: `01-constitutional-interpretation-and-institutional-checks.md`
 - Coverage: 15 new advanced-native constitutional-democracy and institutional-checks targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-behavioral-economics-and-decision-science`
+- File: `01-biases-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral-economics and decision-science targets in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 116-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-telecommunications-network-resilience`
+- File: `01-network-resilience-and-failover.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot telecommunications-resilience targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 115-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-automation-and-workplace-redesign`
 - File: `01-automation-skill-and-accountability.md`
