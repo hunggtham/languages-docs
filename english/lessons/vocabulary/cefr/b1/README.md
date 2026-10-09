@@ -93,6 +93,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## food
 
 - [Cooking And Eating Out](./food/01-cooking-and-eating-out.md)
+- [Nutrition And Diets](./food/02-nutrition-and-diets.md)
+- [Cooking Methods And Food Preparation](./food/03-cooking-methods-and-food-preparation.md)
 
 ## relationships
 
@@ -112,6 +114,11 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Repairs Delivery And Follow Up](./services/02-repairs-delivery-and-follow-up.md)
 - [Home Utilities And Maintenance](./services/03-home-utilities-and-maintenance.md)
 - [Moving In And Building Support](./services/04-moving-in-and-building-support.md)
+- [Banking And Financial Services](./services/05-banking-and-financial-services.md)
+
+## shopping
+
+- [Retail Stores And Shopping Experience](./shopping/01-retail-stores-and-shopping-experience.md)
 
 ## sport
 

@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1551 items in 74 topic files; topic-folder numbering resets per folder.
+- B1: 1601 items in 76 topic files; topic-folder numbering resets per folder.
 - B2: 543 items in 30 topic files; B2 expansion is active beyond the original pilot.
-- C1: 5150 items in 280 topic files; topic-folder numbering resets per folder.
-- C2: 11405 items in 571 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 3096 items in 136 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 24046 items (authoritative script count after the latest B1 sport checkpoint).
+- C1: 5275 items in 285 topic files; topic-folder numbering resets per folder.
+- C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
+- Total: 24096 items (authoritative script count after the latest B1 shopping checkpoint).
 
 ## Current position
 
@@ -68,6 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
+- Latest continuation added `b1/shopping/01-retail-stores-and-shopping-experience.md` with 25 retail store environments, merchandise selection, checkout counter, payment systems, promotions, and customer service items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/health/01-clinical-consultation-and-health-management.md` with 25 clinical consultation, medical specialist, preventative care, and health management items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/technology/04-cloud-infrastructure-and-software-maintenance.md` with 25 cloud infrastructure, system reliability, automated deployment, and software maintenance items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `c2/semiconductors/155-heritage-conservation-and-museum-robotics.md` with 20 heritage-conservation, archaeology, museum, 3D-documentation, multispectral-imaging, and structural-condition items; the lesson uses one integrated review passage with Vietnamese translation.
