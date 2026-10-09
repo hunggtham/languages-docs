@@ -54,3 +54,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
 - [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
 - [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
+
+## health
+
+- [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
