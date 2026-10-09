@@ -117,6 +117,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Community Events And Creative Hobbies](./leisure/03-community-events-and-creative-hobbies.md)
 - [Hobby Clubs And Learning Projects](./leisure/04-hobby-clubs-and-learning-projects.md)
 - [Club And Project Planning](./leisure/05-club-project-planning.md)
+- [Entertainment Media And Indoor Relaxation](./leisure/06-entertainment-media-and-indoor-relaxation.md)
+- [Entertainment Venues And Outdoor Recreation](./leisure/07-entertainment-venues-and-outdoor-recreation.md)
 
 ## services
 
