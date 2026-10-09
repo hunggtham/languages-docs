@@ -78,3 +78,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## psychology
 
 - [Cognitive Patterns And Emotional Wellbeing](./psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
+
+## politics
+
+- [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)

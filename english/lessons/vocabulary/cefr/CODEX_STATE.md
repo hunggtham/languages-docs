@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1776 items in 83 topic files; topic-folder numbering resets per folder.
-- B2: 643 items in 34 topic files; B2 expansion is active beyond the original pilot.
+- B1: 1826 items in 85 topic files; topic-folder numbering resets per folder.
+- B2: 693 items in 36 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5275 items in 285 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 24421 items (authoritative script count after the latest B1 leisure checkpoint).
+- Total: 24471 items (authoritative script count after the latest B1 transport checkpoint).
 
 ## Current position
 
@@ -68,6 +68,8 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
+- Latest continuation added `b1/transport/06-urban-transit-and-daily-commuting.md` with 25 public transit fare, subway pass, ticket machine, subway entrance, turnstile, transfer station, transit map, bus shelter, bus lane, express bus, shuttle bus, commuter train, light rail, ferry terminal, cable car, carpooling, ridesharing app, bike-sharing, electric scooter, parking garage, park-and-ride, traffic jam, peak hours, off-peak, and road closure items; the lesson uses two integrated review passages with Vietnamese translation.
+- Latest continuation added `b2/politics/01-government-institutions-and-electoral-politics.md` with 25 government branches, public administration, political parties, lobbying, and electoral campaign items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b1/leisure/07-entertainment-venues-and-outdoor-recreation.md` with 25 amusement park, entertainment venue, and outdoor recreation items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b1/science/04-matter-forces-and-experiments.md` with 25 solar system, celestial body, physical forces, matter, chemical elements, and laboratory experiment items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/law/01-courtroom-proceedings-and-legal-disputes.md` with 25 courtroom roles, criminal justice, trial verdicts, sentencing, civil litigation, and constitutional remedies items; the lesson uses two integrated review passages with Vietnamese translation.
@@ -1056,3 +1058,4 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest B1 expansion added `b1/relationships/02-dating-emotional-bonds-and-reconciliation.md` with 25 dating, emotional bonds, conflict resolution, and reconciliation items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B1 expansion added `b1/communication/05-interpersonal-communication-and-conversation-skills.md` with 25 interpersonal conversation, nonverbal cues, conflict resolution, polite dialogue, and virtual meeting etiquette items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/psychology/01-cognitive-patterns-and-emotional-wellbeing.md` with 25 cognitive patterns, mindset, emotional regulation, and social psychology items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B1 expansion added `b1/services/06-personal-and-specialty-services.md` with 25 personal errands, postal, specialty repair, automotive care, and technician services items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
