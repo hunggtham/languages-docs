@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 840 new targets across fifty-six independent topic batches; 5,840 structured headings toward the 10,000 target, leaving 4,160 after this checkpoint.
+- Progress in this checkpoint: 870 new targets across fifty-eight independent topic batches; 5,870 structured headings toward the 10,000 target, leaving 4,130 after this checkpoint.
+
+- Topic: `advanced-critical-minerals-and-rare-earth-recycling`
+- File: `01-critical-minerals-and-rare-earth-recycling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot critical-minerals and rare-earth-recycling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 113-eojeol Korean critical-minerals passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-organ-transplant-and-bioethics`
+- File: `01-transplant-compatibility-preservation-and-ethics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot organ-transplant and bioethics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean transplant-ethics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-geothermal-energy-and-heat-decarbonization`
 - File: `01-geothermal-resources-and-heat-decarbonization.md`

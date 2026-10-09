@@ -111,6 +111,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [마이크로바이옴과 대사 건강의 언어](./topics/advanced-microbiome-and-metabolic-health/README.md)
 - [지열 에너지와 열 탈탄소화의 언어](./topics/advanced-geothermal-energy-and-heat-decarbonization/README.md)
 - [산불 연기와 공중보건의 언어](./topics/advanced-wildfire-smoke-and-public-health/README.md)
+- [핵심광물과 희토류 재활용의 언어](./topics/advanced-critical-minerals-and-rare-earth-recycling/README.md)
+- [장기이식과 생명윤리의 언어](./topics/advanced-organ-transplant-and-bioethics/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
