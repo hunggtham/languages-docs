@@ -1,0 +1,13 @@
+{
+  "id": "/",
+  "name": "LanguageLab Learning OS",
+  "short_name": "LanguageLab",
+  "description": "Personal language learning library with progress, search, speech and offline reading.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ed",
+  "theme_color": "#f6f3ed",
+  "lang": "vi",
+  "categories": ["education", "productivity"]
+}

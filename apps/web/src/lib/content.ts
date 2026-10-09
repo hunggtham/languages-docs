@@ -1,4 +1,4 @@
-import type { ContentCatalog } from "../types";
+import type { ContentCatalog, ContentGraph, SearchIndexEntry } from "../types";
 
 function resolvePublicAsset(path: string): string {
   const relativePath = path.replace(/^\/+/, "");
@@ -24,6 +24,19 @@ export async function fetchDocument(url: string, signal?: AbortSignal): Promise<
   const response = await fetch(assetUrl, { signal });
   if (!response.ok) throw new Error(`Lesson request failed (${response.status})`);
   return response.text();
+}
+
+export async function fetchSearchIndex(signal?: AbortSignal): Promise<SearchIndexEntry[]> {
+  const response = await fetch(resolvePublicAsset("content/search-index.json"), { signal });
+  if (!response.ok) throw new Error(`Search index request failed (${response.status})`);
+  const payload = await response.json() as { documents?: SearchIndexEntry[] };
+  return payload.documents ?? [];
+}
+
+export async function fetchContentGraph(signal?: AbortSignal): Promise<ContentGraph> {
+  const response = await fetch(resolvePublicAsset("content/graph.json"), { signal });
+  if (!response.ok) throw new Error(`Content graph request failed (${response.status})`);
+  return response.json() as Promise<ContentGraph>;
 }
 
 const PROGRESS_KEY = "language-lab-progress-v1";

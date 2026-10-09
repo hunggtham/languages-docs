@@ -159,6 +159,100 @@ def markdown_description(text: str, fallback: str) -> str:
     return fallback
 
 
+def strip_markdown(text: str) -> str:
+    cleaned = re.sub(r"```[\s\S]*?```", " ", text)
+    cleaned = re.sub(r"`([^`]+)`", r"\1", cleaned)
+    cleaned = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", cleaned)
+    cleaned = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", cleaned)
+    cleaned = re.sub(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]", r"\1", cleaned)
+    cleaned = re.sub(r"^#{1,6}\s+", "", cleaned, flags=re.M)
+    cleaned = re.sub(r"^>\s?", "", cleaned, flags=re.M)
+    cleaned = re.sub(r"[*_~=-]{2,}", " ", cleaned)
+    cleaned = re.sub(r"<[^>]+>", " ", cleaned)
+    return re.sub(r"\s+", " ", cleaned).strip()
+
+
+def extract_headings(text: str) -> list[dict[str, str | int]]:
+    return [
+        {"level": len(match.group(1)), "text": re.sub(r"[*_`~]", "", match.group(2)).strip()}
+        for match in re.finditer(r"^(#{1,3})\s+(.+)$", text, flags=re.M)
+    ]
+
+
+def build_related_indexes(catalog: list[dict[str, str]]) -> tuple[dict, dict]:
+    """Build lazy full-text and internal-link indexes for Learning OS tools."""
+    by_source = {item["source"]: item for item in catalog}
+    aliases: dict[str, str] = {}
+    for item in catalog:
+        source = item["source"]
+        candidates = {
+            source.lower(),
+            source.removesuffix(".md").lower(),
+            Path(source).name.lower(),
+            Path(source).stem.lower(),
+            item["title"].strip().lower(),
+            item["id"].lower(),
+        }
+        for candidate in candidates:
+            aliases.setdefault(candidate, source)
+
+    def resolve_link(source: str, target: str) -> str | None:
+        target = target.strip().strip("<>").split("#", 1)[0]
+        if not target or re.match(r"^(?:https?:|mailto:|tel:|#)", target, flags=re.I):
+            return None
+        target = unicodedata.normalize("NFKC", target.replace("\\", "/"))
+        if target.startswith("/"):
+            target = target[1:]
+        resolved = Path(source).parent.joinpath(target).as_posix()
+        if resolved in by_source:
+            return resolved
+        normalized = Path(resolved).as_posix().lower()
+        if normalized in aliases:
+            return aliases[normalized]
+        return aliases.get(target.removesuffix(".md").lower())
+
+    edges: list[dict[str, str]] = []
+    seen_edges: set[tuple[str, str]] = set()
+    search_documents: list[dict] = []
+    for item in catalog:
+        source = Path(item["source"])
+        text = source.read_text(encoding="utf-8")
+        search_documents.append({
+            "id": item["id"],
+            "title": item["title"],
+            "source": item["source"],
+            "contentUrl": item["contentUrl"],
+            "skill": item["skill"],
+            "level": item["level"],
+            "language": item.get("language", "English"),
+            "track": item.get("track", ""),
+            "headings": extract_headings(text),
+            "text": strip_markdown(text)[:20000],
+        })
+        targets: list[str] = []
+        targets.extend(match.group(1) for match in re.finditer(r"\[[^\]]+\]\(([^)]+)\)", text))
+        targets.extend(match.group(1) for match in re.finditer(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]", text))
+        for raw_target in targets:
+            target_source = resolve_link(item["source"], raw_target)
+            if not target_source or target_source == item["source"]:
+                continue
+            edge = (item["id"], by_source[target_source]["id"])
+            if edge in seen_edges:
+                continue
+            seen_edges.add(edge)
+            edges.append({"source": edge[0], "target": edge[1]})
+
+    graph = {
+        "version": 1,
+        "nodes": [
+            {"id": item["id"], "title": item["title"], "source": item["source"], "skill": item["skill"], "level": item["level"]}
+            for item in catalog
+        ],
+        "edges": edges,
+    }
+    return {"version": 1, "documents": search_documents}, graph
+
+
 def generated_documents() -> list[dict[str, str]]:
     documents: list[dict[str, str]] = []
 
@@ -254,6 +348,9 @@ def main() -> None:
     catalog_text = json.dumps({"version": 1, "language": "English", "learnerLanguage": "Vietnamese", "documents": catalog}, ensure_ascii=False, indent=2) + "\n"
     (ROOT / "content/catalog.json").write_text(catalog_text, encoding="utf-8")
     (OUTPUT / "catalog.json").write_text(catalog_text, encoding="utf-8")
+    search_index, graph = build_related_indexes(catalog)
+    (OUTPUT / "search-index.json").write_text(json.dumps(search_index, ensure_ascii=False), encoding="utf-8")
+    (OUTPUT / "graph.json").write_text(json.dumps(graph, ensure_ascii=False), encoding="utf-8")
     print(f"Built {len(catalog)} documents in {OUTPUT}")
 
 

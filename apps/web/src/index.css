@@ -288,6 +288,17 @@ footer { display: flex; justify-content: space-between; gap: 20px; width: min(11
 .os-action { padding: 10px 13px; color: #fff; background: var(--green); font-size: 11px; }
 .os-action:hover { background: var(--ink); }
 .os-sync-preview { width: 100%; min-height: 170px; padding: 12px; resize: vertical; color: var(--muted); border: 1px solid var(--line); background: #f7f4ec; font-family: "DM Mono", monospace; font-size: 10px; line-height: 1.5; }
+.os-search-input { width: 100%; min-height: 42px; margin: 0 0 16px; padding: 9px 12px; color: var(--ink); border: 1px solid var(--line); border-radius: 4px; background: var(--paper); font-size: 12px; }
+.os-search-input:focus { outline: 2px solid color-mix(in srgb, var(--green) 42%, transparent); outline-offset: 1px; }
+.os-list-row small { display: block; margin-top: 7px; overflow: hidden; color: var(--muted); font-size: 10px; line-height: 1.45; text-overflow: ellipsis; }
+.cloud-sync-card { display: grid; gap: 8px; margin-top: 20px; padding: 14px; border: 1px solid var(--line); background: color-mix(in srgb, var(--green-soft) 28%, var(--paper)); }
+.cloud-sync-card strong { color: var(--green); font-size: 11px; }
+.cloud-sync-card input { min-height: 38px; padding: 8px 10px; color: var(--ink); border: 1px solid var(--line); background: var(--paper); font-size: 11px; }
+.selection-translation-popup { position: fixed; z-index: 80; width: min(320px, calc(100vw - 32px)); padding: 14px; border: 1px solid var(--line); background: var(--paper); box-shadow: 0 14px 42px rgba(36,35,33,.2); }
+.selection-translation-popup > button { position: absolute; top: 5px; right: 7px; padding: 0; color: var(--muted); background: transparent; font-size: 18px; }
+.selection-translation-popup strong { display: block; padding-right: 18px; color: var(--ink); font-size: 12px; line-height: 1.45; }
+.selection-translation-popup p { margin: 8px 0; color: var(--muted); font-size: 12px; line-height: 1.5; }
+.selection-translation-popup a { color: var(--green); font-family: "DM Mono", monospace; font-size: 9px; }
 
 html.dark { --ink: #eeeae1; --muted: #aaa9a2; --line: #3d403c; --paper: #222522; --paper-deep: #333832; --green: #a7c59c; --green-soft: #344433; --orange: #e28a5f; --yellow: #d8ba5d; --blue-soft: #253d42; }
 html.dark body { background: #191c19; }
