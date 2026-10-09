@@ -43,6 +43,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## transport
 
 - [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
+- [Air Travel And Airport Procedures](./transport/02-air-travel-and-airport-procedures.md)
+- [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
 
 ## education
 
