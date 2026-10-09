@@ -116,6 +116,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [장기이식과 생명윤리의 언어](./advanced-organ-transplant-and-bioethics/README.md) — `이식 적합성과 생명윤리를 읽다`
 - [원격의료와 디지털 헬스의 언어](./advanced-telemedicine-and-digital-health/README.md) — `원격 진료와 건강 데이터의 흐름을 읽다`
 - [하수 처리와 물 재이용의 언어](./advanced-wastewater-treatment-and-water-reuse/README.md) — `수질 정화와 물 순환을 읽다`
+- [수소 저장과 산업 안전의 언어](./advanced-hydrogen-storage-and-industrial-safety/README.md) — `수소 저장과 공정 안전을 읽다`
+- [로봇수술과 의료기기 안전의 언어](./advanced-robotic-surgery-and-medical-devices/README.md) — `수술 경로와 기기 안전을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
