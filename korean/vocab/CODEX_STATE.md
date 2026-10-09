@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 450 new targets across thirty independent topic batches; 5,450 structured headings toward the 10,000 target, leaving 4,550 after this checkpoint.
+- Progress in this checkpoint: 480 new targets across thirty-two independent topic batches; 5,480 structured headings toward the 10,000 target, leaving 4,520 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -139,6 +139,16 @@
 - File: `01-clinical-trial-design-and-drug-response.md`
 - Coverage: 15 new advanced-native clinical-trial and biomedical-evidence targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 105-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-robotics-and-human-machine-collaboration`
+- File: `01-human-robot-collaboration-and-control.md`
+- Coverage: 15 new advanced-native robotics and human-machine-collaboration targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 127-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-constitutional-democracy-and-institutional-checks`
+- File: `01-constitutional-interpretation-and-institutional-checks.md`
+- Coverage: 15 new advanced-native constitutional-democracy and institutional-checks targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-automation-and-workplace-redesign`
 - File: `01-automation-skill-and-accountability.md`
