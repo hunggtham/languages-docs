@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 1626 items in 77 topic files; topic-folder numbering resets per folder.
+- B1: 1676 items in 79 topic files; topic-folder numbering resets per folder.
 - B2: 593 items in 32 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5275 items in 285 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 24171 items (authoritative script count after the latest B2 environment checkpoint).
+- Total: 24221 items (authoritative script count after the latest B1 education checkpoint).
 
 ## Current position
 
@@ -68,6 +68,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 
 ## Last checkpoint
 
+- Latest continuation added `b1/home/05-home-improvement-and-repairs.md` with 25 home improvement, renovation, DIY tools, painting, and fixture repair items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/environment/01-environmental-conservation-and-climate-action.md` with 25 ecological systems, environmental threats, conservation efforts, sustainability, and climate action items; the lesson uses two integrated review passages with Vietnamese translation.
 - Latest continuation added `b2/media/01-news-reporting-and-press-operations.md` with 25 news reporting, newsroom roles, press operations, dissemination formats, and public media items; the lesson uses two integrated review passages with Vietnamese translation.
 
@@ -1042,3 +1043,5 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest B1 expansion added `b1/sport/01-competitive-sports-and-tournaments.md` with 25 competitive sports, tournaments, athletic training, match dynamics, rules, and scoring items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B1 expansion added `b1/food/03-cooking-methods-and-food-preparation.md` with 25 cooking methods, food preparation, kitchen tools, and flavor/texture profile items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/environment/01-environmental-conservation-and-climate-action.md` with 25 ecological systems, environmental threats, conservation efforts, sustainability, and climate action items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B1 expansion added `b1/home/05-home-improvement-and-repairs.md` with 25 home improvement, renovation, DIY tools, painting, and fixture repair items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B1 expansion added `b1/education/06-coursework-and-campus-life.md` with 25 coursework, academic routine, examination, campus service, and vocational training items. The lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.

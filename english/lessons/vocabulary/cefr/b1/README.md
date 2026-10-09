@@ -35,6 +35,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Housing And Renting](./home/01-housing-and-renting.md)
 - [Household Emergency Preparedness](./home/02-household-emergency-preparedness.md)
 - [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
+- [Household Chores And Cleaning](./home/04-household-chores-and-cleaning.md)
+- [Home Improvement And Repairs](./home/05-home-improvement-and-repairs.md)
 
 ## transport
 
@@ -46,6 +48,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
 - [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
 - [Assessment And Study Support](./education/04-assessment-and-study-support.md)
+- [Qualifications And Academic Progress](./education/05-qualifications-and-academic-progress.md)
+- [Coursework And Campus Life](./education/06-coursework-and-campus-life.md)
 
 ## business
 
@@ -99,6 +103,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## relationships
 
 - [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
+- [Dating Emotional Bonds And Reconciliation](./relationships/02-dating-emotional-bonds-and-reconciliation.md)
+
 
 ## leisure
 
