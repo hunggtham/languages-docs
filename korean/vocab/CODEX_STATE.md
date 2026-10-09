@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 600 new targets across forty independent topic batches; 5,600 structured headings toward the 10,000 target, leaving 4,400 after this checkpoint.
+- Progress in this checkpoint: 630 new targets across forty-two independent topic batches; 5,630 structured headings toward the 10,000 target, leaving 4,370 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -164,6 +164,16 @@
 - File: `01-procurement-procedure-and-integrity.md`
 - Coverage: 15 new advanced-native/contemporary-native-hot public-procurement and integrity targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 96-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-energy-transition-and-grid-flexibility`
+- File: `01-grid-flexibility-and-energy-transition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot energy-transition and grid-flexibility targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-bioprocessing-and-microbial-fermentation`
+- File: `01-microbial-fermentation-and-process-scale-up.md`
+- Coverage: 15 advanced-native/contemporary-native-hot bioprocessing and microbial-fermentation targets across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 80-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-telecommunications-network-resilience`
 - File: `01-network-resilience-and-failover.md`
