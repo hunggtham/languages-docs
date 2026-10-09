@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 540 new targets across thirty-six independent topic batches; 5,540 structured headings toward the 10,000 target, leaving 4,460 after this checkpoint.
+- Progress in this checkpoint: 570 new targets across thirty-eight independent topic batches; 5,570 structured headings toward the 10,000 target, leaving 4,430 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -169,6 +169,16 @@
 - File: `01-soil-health-and-land-restoration.md`
 - Coverage: 15 new advanced-native soil-science and land-restoration targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 124-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-cognitive-neuroscience-and-social-cognition`
+- File: `01-brain-adaptation-and-social-cognition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cognitive-neuroscience and social-cognition targets across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 120-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-infectious-disease-surveillance-and-one-health`
+- File: `01-infectious-disease-surveillance-and-one-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot infectious-disease-surveillance and One Health targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 116-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-automation-and-workplace-redesign`
 - File: `01-automation-skill-and-accountability.md`

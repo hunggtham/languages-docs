@@ -91,6 +91,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [통신망 회복력과 장애조치의 언어](./topics/advanced-telecommunications-network-resilience/README.md)
 - [연구 설계와 추론의 언어](./topics/advanced-research-design-and-inference/README.md)
 - [토양과 토지 복원의 언어](./topics/advanced-soil-science-and-land-restoration/README.md)
+- [인지신경과학과 사회인지의 언어](./topics/advanced-cognitive-neuroscience-and-social-cognition/README.md)
+- [감염병 감시와 원헬스의 언어](./topics/advanced-infectious-disease-surveillance-and-one-health/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
