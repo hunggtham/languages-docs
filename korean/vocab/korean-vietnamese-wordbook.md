@@ -73,6 +73,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [편집과 출판 실무의 언어](./topics/advanced-editorial-and-publishing-practice/README.md)
 - [항공 안전과 항공교통의 언어](./topics/advanced-aviation-safety-and-air-traffic/README.md)
 - [순환경제와 폐기물 관리의 언어](./topics/advanced-circular-economy-and-waste-management/README.md)
+- [지구 시스템과 지질 재해의 언어](./topics/advanced-earth-systems-and-geohazards/README.md)
+- [양자컴퓨팅과 암호 전환의 언어](./topics/advanced-quantum-computing-and-cryptographic-transition/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
