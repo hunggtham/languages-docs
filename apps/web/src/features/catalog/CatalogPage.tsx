@@ -18,7 +18,7 @@ const levelDescriptions: Record<string, string> = {
   Personal: "Từ mới cá nhân đang được thu thập.",
 };
 
-type StatusFilter = "all" | "todo" | "progress" | "complete";
+type StatusFilter = "all" | "todo" | "progress" | "complete" | "saved";
 type LanguageFilter = keyof typeof languageLabels;
 
 const statusLabels: Record<StatusFilter, string> = {
@@ -26,6 +26,7 @@ const statusLabels: Record<StatusFilter, string> = {
   todo: "Chưa học",
   progress: "Đang học",
   complete: "Đã xong",
+  saved: "★ Đọc sau",
 };
 
 function isComplete(progress: ProgressState, id: string): boolean {
@@ -45,7 +46,7 @@ function levelTitle(level: string): string {
   return level === "Advanced" ? "Advanced · 고급 한국어" : level;
 }
 
-export default function CatalogPage({ documents, progress, completed, onOpen, initialSkill = "All" }: { documents: LearningDocument[]; progress: ProgressState; completed: string[]; onOpen: (document: LearningDocument) => void; initialSkill?: Skill }): ReactElement {
+export default function CatalogPage({ documents, progress, completed, onOpen, initialSkill = "All", onToggleReadLater }: { documents: LearningDocument[]; progress: ProgressState; completed: string[]; onOpen: (document: LearningDocument) => void; initialSkill?: Skill; onToggleReadLater: (id: string) => void }): ReactElement {
   const [skill, setSkill] = useState<Skill>(initialSkill);
   const [status, setStatus] = useState<StatusFilter>("all");
   const [query, setQuery] = useState("");
@@ -65,9 +66,9 @@ export default function CatalogPage({ documents, progress, completed, onOpen, in
     const result = documents.filter((document) => {
       const count = sectionCount(progress, document.id);
       const done = isComplete(progress, document.id);
-      const matchesStatus = status === "all" || (status === "complete" && done) || (status === "progress" && count > 0 && !done) || (status === "todo" && count === 0 && !done);
+      const matchesStatus = status === "all" || (status === "complete" && done) || (status === "progress" && count > 0 && !done) || (status === "todo" && count === 0 && !done) || (status === "saved" && progress.readLaterIds.includes(document.id));
       const documentLanguage = document.language ?? "English";
-      const searchable = `${document.title} ${document.description} ${document.level} ${document.skill} ${documentLanguage} ${document.track ?? ""}`.toLowerCase();
+      const searchable = `${document.title} ${document.description} ${document.excerpt} ${document.level} ${document.skill} ${documentLanguage} ${document.track ?? ""}`.toLowerCase();
       const matchesLanguage = !vocabularyMode || language === "All" || documentLanguage === language;
       const matchesLevel = !vocabularyMode || level === "All" || document.level === level;
       return (skill === "All" || document.skill === skill) && matchesLanguage && matchesLevel && matchesStatus && searchable.includes(normalizedQuery);
@@ -82,7 +83,7 @@ export default function CatalogPage({ documents, progress, completed, onOpen, in
     return [...groups.entries()].sort(([left], [right]) => levelRank(left) - levelRank(right) || left.localeCompare(right));
   }, [filtered, vocabularyMode]);
 
-  const renderCard = (document: LearningDocument) => <DocumentCard key={document.id} document={document} completed={completed.includes(document.id)} sectionCount={sectionCount(progress, document.id)} onOpen={() => onOpen(document)} />;
+  const renderCard = (document: LearningDocument) => <DocumentCard key={document.id} document={document} completed={completed.includes(document.id)} sectionCount={sectionCount(progress, document.id)} progressPercent={progress.progressPctByLesson[document.id] ?? 0} readLater={progress.readLaterIds.includes(document.id)} onOpen={() => onOpen(document)} onToggleReadLater={() => onToggleReadLater(document.id)} />;
   const vocabularyCount = documents.filter((document) => document.skill === "Vocabulary").length;
 
   return <section className="library-page">
@@ -92,7 +93,7 @@ export default function CatalogPage({ documents, progress, completed, onOpen, in
     </div>
 
     <div className="library-toolbar">
-      <label className="search-box"><span>⌕</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Tìm theo chủ đề, level…" /></label>
+      <label className="search-box"><span>⌕</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Tìm tiêu đề, nội dung, heading…" /></label>
       <div className="library-controls"><label className="sort-control"><span>Sắp xếp</span><select value={sort} onChange={(event) => setSort(event.target.value as typeof sort)}><option value="path">Theo lộ trình</option><option value="unfinished">Chưa hoàn thành trước</option><option value="title">Theo tên</option></select></label><div className="skill-tabs">{skills.map((item) => <button className={skill === item ? "active" : ""} key={item} onClick={() => setSkill(item)} type="button">{item === "All" ? "Tất cả" : item}</button>)}</div></div>
     </div>
 

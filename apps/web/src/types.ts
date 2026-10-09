@@ -21,3 +21,22 @@ export interface ContentCatalog {
   learnerLanguage: string;
   documents: LearningDocument[];
 }
+
+export interface SearchIndexEntry {
+  id: string;
+  title: string;
+  source: string;
+  contentUrl: string;
+  skill: Exclude<Skill, "All">;
+  level: string;
+  language?: string;
+  track?: string;
+  headings: { level: number; text: string }[];
+  text: string;
+}
+
+export interface ContentGraph {
+  version: number;
+  nodes: { id: string; title: string; source: string; skill: Exclude<Skill, "All">; level: string }[];
+  edges: { source: string; target: string }[];
+}
