@@ -59,6 +59,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [정신건강과 신경다양성의 언어](./topics/advanced-mental-health-and-neurodiversity/README.md)
 - [물 안보와 기후 회복력의 언어](./topics/advanced-water-security-and-climate-resilience/README.md)
 - [재난 위험과 공동체 회복의 언어](./topics/advanced-disaster-risk-and-resilience/README.md)
+- [종교·영성과 세속사회의 언어](./topics/religion-spirituality-and-secular-society/README.md)
+- [한국어 의미 구조와 담화의 언어](./topics/advanced-korean-linguistics-and-discourse/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

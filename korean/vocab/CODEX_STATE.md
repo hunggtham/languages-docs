@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 60 new targets across four independent topic batches; 5,060 structured headings toward the 10,000 target, leaving 4,940 after this checkpoint.
+- Progress in this checkpoint: 90 new targets across six independent topic batches; 5,090 structured headings toward the 10,000 target, leaving 4,910 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -39,6 +39,16 @@
 - File: `01-disaster-risk-and-recovery.md`
 - Coverage: 15 new `advanced_native` disaster-risk and recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 110-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `religion-spirituality-and-secular-society`
+- File: `01-religion-spirituality-and-secular-society.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot targets about secularization, pluralism, religious freedom, and public religious discourse across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 103-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-korean-linguistics-and-discourse`
+- File: `01-meaning-structure-and-discourse-context.md`
+- Coverage: 15 new advanced-native linguistics and discourse headwords in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 129-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 ## Completed checkpoint
 
