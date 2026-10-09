@@ -67,6 +67,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [음악과 공연의 언어](./topics/advanced-music-and-performance-language/README.md)
 - [천문학과 우주정책의 언어](./topics/advanced-astronomy-and-space-policy/README.md)
 - [생물다양성과 산림보전의 언어](./topics/advanced-biodiversity-and-forest-conservation/README.md)
+- [대기과학과 극한기상의 언어](./topics/advanced-atmospheric-science-and-extreme-weather/README.md)
+- [기록과 공공기억 보존의 언어](./topics/advanced-archival-science-and-public-memory/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

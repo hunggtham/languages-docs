@@ -68,6 +68,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [음악과 공연의 언어](./advanced-music-and-performance-language/README.md) — `소리와 무대의 수행 방식을 읽다`
 - [천문학과 우주정책의 언어](./advanced-astronomy-and-space-policy/README.md) — `하늘의 관측과 우주정책을 읽다`
 - [생물다양성과 산림보전의 언어](./advanced-biodiversity-and-forest-conservation/README.md) — `생태 연결성과 숲의 회복을 읽다`
+- [대기과학과 극한기상의 언어](./advanced-atmospheric-science-and-extreme-weather/README.md) — `대기의 흐름과 극한기상을 읽다`
+- [기록과 공공기억 보존의 언어](./advanced-archival-science-and-public-memory/README.md) — `진본성과 장기 보존의 쟁점을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 180 new targets across twelve independent topic batches; 5,180 structured headings toward the 10,000 target, leaving 4,820 after this checkpoint.
+- Progress in this checkpoint: 210 new targets across fourteen independent topic batches; 5,210 structured headings toward the 10,000 target, leaving 4,790 after this checkpoint.
 
 - Topic: `sports-and-competition-culture`
 - File: `01-league-design-and-match-reading.md`
@@ -64,6 +64,16 @@
 - File: `01-forest-connectivity-and-ecosystem-recovery.md`
 - Coverage: 15 new advanced-native/contemporary-native-hot biodiversity and forest-conservation targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 84-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-atmospheric-science-and-extreme-weather`
+- File: `01-atmospheric-flow-and-extreme-weather.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot atmospheric-science and extreme-weather targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 100-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-archival-science-and-public-memory`
+- File: `01-authenticity-and-long-term-preservation.md`
+- Coverage: 15 new advanced-native archival-science and public-memory targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 89-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
 
 - Topic: `advanced-visual-culture-and-art-criticism`
 - File: `01-form-and-context-and-reception.md`
