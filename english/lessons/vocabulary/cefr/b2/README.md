@@ -66,3 +66,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## environment
 
 - [Environmental Conservation And Climate Action](./environment/01-environmental-conservation-and-climate-action.md)
+
+## finance
+
+- [Personal Finance And Capital Management](./finance/01-personal-finance-and-capital-management.md)
