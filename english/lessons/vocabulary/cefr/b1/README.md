@@ -59,6 +59,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Business Operations And Customer Service](./business/04-business-operations-and-customer-service.md)
 - [Entrepreneurship And Startups](./business/05-entrepreneurship-and-startups.md)
 - [Financial Records And Accounting](./business/06-financial-records-and-accounting.md)
+- [Marketing And Advertising](./business/07-marketing-and-advertising.md)
+- [Wholesale And Inventory Management](./business/08-wholesale-and-inventory-management.md)
 
 ## travel
 
