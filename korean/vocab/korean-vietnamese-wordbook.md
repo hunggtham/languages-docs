@@ -187,6 +187,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [해양 플라스틱 오염과 미세파편의 언어](./topics/advanced-marine-plastic-pollution-and-microdebris/README.md)
 - [도시 수분매개자 네트워크와 생물다양성의 언어](./topics/advanced-urban-pollinator-networks-and-biodiversity/README.md)
 - [빙하 수문학과 빙권 변화의 언어](./topics/advanced-glacier-hydrology-and-cryosphere-change/README.md)
+- [로봇 물류와 창고 자동화의 언어](./topics/advanced-robotic-logistics-and-warehouse-automation/README.md)
+- [민속식물학과 전통지식의 언어](./topics/advanced-ethnobotany-and-traditional-knowledge/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

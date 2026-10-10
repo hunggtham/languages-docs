@@ -188,6 +188,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [해양 플라스틱 오염과 미세파편의 언어](./advanced-marine-plastic-pollution-and-microdebris/README.md) — `미세플라스틱과 먹이망 이동을 읽다`
 - [도시 수분매개자 네트워크와 생물다양성의 언어](./advanced-urban-pollinator-networks-and-biodiversity/README.md) — `도시 꽃가루 매개와 생태 연결을 읽다`
 - [빙하 수문학과 빙권 변화의 언어](./advanced-glacier-hydrology-and-cryosphere-change/README.md) — `빙하 유출과 극지 변화를 읽다`
+- [로봇 물류와 창고 자동화의 언어](./advanced-robotic-logistics-and-warehouse-automation/README.md) — `물류 로봇과 운영 병목을 읽다`
+- [민속식물학과 전통지식의 언어](./advanced-ethnobotany-and-traditional-knowledge/README.md) — `생물문화다양성과 이익공유를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
