@@ -159,6 +159,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [수면 과학과 생체 시계 건강의 언어](./topics/advanced-sleep-science-and-circadian-health/README.md)
 - [도시 교통 접근성과 길찾기의 언어](./topics/advanced-urban-transit-accessibility-and-wayfinding/README.md)
 - [균류 생태와 바이오경제의 언어](./topics/advanced-fungal-ecology-and-bioeconomy/README.md)
+- [도시 건물 개보수와 히트펌프의 언어](./topics/advanced-urban-building-retrofit-and-heat-pumps/README.md)
+- [법률 문서 자동화와 사법 접근성의 언어](./topics/advanced-legal-document-automation-and-access-to-justice/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

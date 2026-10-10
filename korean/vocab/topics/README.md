@@ -160,6 +160,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [수면 과학과 생체 시계 건강의 언어](./advanced-sleep-science-and-circadian-health/README.md) — `수면 조절과 생체 리듬을 읽다`
 - [도시 교통 접근성과 길찾기의 언어](./advanced-urban-transit-accessibility-and-wayfinding/README.md) — `무장애 이동과 안내 체계를 읽다`
 - [균류 생태와 바이오경제의 언어](./advanced-fungal-ecology-and-bioeconomy/README.md) — `균류 다양성과 바이오리파이너리를 읽다`
+- [도시 건물 개보수와 히트펌프의 언어](./advanced-urban-building-retrofit-and-heat-pumps/README.md) — `건물 효율과 열 전환을 읽다`
+- [법률 문서 자동화와 사법 접근성의 언어](./advanced-legal-document-automation-and-access-to-justice/README.md) — `법률 업무와 권리 접근을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
