@@ -151,6 +151,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [시민 기술과 참여예산의 언어](./topics/advanced-civic-technology-and-participatory-budgeting/README.md)
 - [우주 잔해와 궤도 지속가능성의 언어](./topics/advanced-space-debris-and-orbital-sustainability/README.md)
 - [북극 거버넌스와 극지 연구의 언어](./topics/advanced-arctic-governance-and-polar-research/README.md)
+- [산불 행동과 생태계 위험의 언어](./topics/advanced-forest-fire-behavior-and-ecosystem-risk/README.md)
+- [순환 섬유와 패션 지속가능성의 언어](./topics/advanced-circular-textiles-and-fashion-sustainability/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,440 new targets across ninety-six independent topic batches; 6,440 structured headings toward the 10,000 target, leaving 3,560 after this checkpoint.
+- Progress in this checkpoint: 1,470 new targets across ninety-eight independent topic batches; 6,470 structured headings toward the 10,000 target, leaving 3,530 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3245,3 +3245,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 86-eojeol Korean Arctic-governance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,440 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 wildfire behavior and circular textiles checkpoint
+
+- Topic: `advanced-forest-fire-behavior-and-ecosystem-risk`
+- File: `01-forest-fire-behavior-and-ecosystem-risk.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wildfire-behavior and ecosystem-risk headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean wildfire-behavior passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected Vietnamese section label, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-circular-textiles-and-fashion-sustainability`
+- File: `01-circular-textiles-and-fashion-sustainability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot circular-textiles and fashion-sustainability headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean circular-textiles passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+- Resume: 6,470 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
