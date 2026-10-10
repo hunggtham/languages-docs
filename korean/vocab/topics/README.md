@@ -134,6 +134,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [윤리적 AI와 알고리즘 감사의 언어](./advanced-ethical-ai-and-algorithmic-auditing/README.md) — `알고리즘 책임과 감사 절차를 읽다`
 - [식물병리와 식량안보의 언어](./advanced-plant-pathology-and-food-security/README.md) — `식물병 진단과 식량 공급의 회복력을 읽다`
 - [디지털 치료제와 임상 근거의 언어](./advanced-digital-therapeutics-and-clinical-evidence/README.md) — `디지털 치료와 임상 근거를 검증하다`
+- [신경보철 재활의 언어](./advanced-neuroprosthetics-and-rehabilitation/README.md) — `신경보철과 회복 훈련을 읽다`
+- [도시 수인성 병원체 감시의 언어](./advanced-urban-waterborne-pathogen-surveillance/README.md) — `도시 물과 병원체 감시를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

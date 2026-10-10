@@ -133,6 +133,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [윤리적 AI와 알고리즘 감사의 언어](./topics/advanced-ethical-ai-and-algorithmic-auditing/README.md)
 - [식물병리와 식량안보의 언어](./topics/advanced-plant-pathology-and-food-security/README.md)
 - [디지털 치료제와 임상 근거의 언어](./topics/advanced-digital-therapeutics-and-clinical-evidence/README.md)
+- [신경보철 재활의 언어](./topics/advanced-neuroprosthetics-and-rehabilitation/README.md)
+- [도시 수인성 병원체 감시의 언어](./topics/advanced-urban-waterborne-pathogen-surveillance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
