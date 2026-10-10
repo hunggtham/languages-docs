@@ -183,6 +183,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [해초 복원과 해양 생태계 서비스의 언어](./topics/advanced-marine-seagrass-restoration-and-ecosystem-services/README.md)
 - [도시 폭염 건강과 냉방 거점의 언어](./topics/advanced-urban-heat-health-and-cooling-centers/README.md)
 - [원격탐사와 지구 관측의 언어](./topics/advanced-remote-sensing-and-earth-observation/README.md)
+- [도시 열저장과 상변화 물질의 언어](./topics/advanced-urban-thermal-storage-and-phase-change-materials/README.md)
+- [해양 플라스틱 오염과 미세파편의 언어](./topics/advanced-marine-plastic-pollution-and-microdebris/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
