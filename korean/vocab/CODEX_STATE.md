@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,680 new targets across one hundred twelve independent topic batches; 6,680 structured headings toward the 10,000 target, leaving 3,320 after this checkpoint.
+- Progress in this checkpoint: 1,710 new targets across one hundred fourteen independent topic batches; 6,710 structured headings toward the 10,000 target, leaving 3,290 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3365,3 +3365,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 105-eojeol Korean neuroimmune passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,680 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 digital-identity and urban-tree checkpoint
+
+- Topic: `advanced-digital-identity-and-verifiable-credentials`
+- File: `01-digital-identity-and-verifiable-credentials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot digital-identity and verifiable-credential headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean digital-identity passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-urban-tree-canopy-and-ecosystem-services`
+- File: `01-urban-tree-canopy-and-ecosystem-services.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-tree-canopy and ecosystem-service headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean urban-tree passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,710 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
