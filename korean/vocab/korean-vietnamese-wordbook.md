@@ -195,6 +195,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [맹그로브 복원과 블루카본의 언어](./topics/advanced-mangrove-restoration-and-blue-carbon/README.md)
 - [도시 물순환과 중수도의 언어](./topics/advanced-urban-circular-water-and-greywater/README.md)
 - [생물다양성 유전체와 보전의 언어](./topics/advanced-biodiversity-genomics-and-conservation/README.md)
+- [도시 회복력과 사회적 취약성의 언어](./topics/advanced-urban-resilience-and-social-vulnerability/README.md)
+- [토양 미생물군과 탄소 격리의 언어](./topics/advanced-soil-microbiome-and-carbon-sequestration/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
