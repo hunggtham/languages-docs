@@ -157,6 +157,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [고분자 순환성과 화학적 재활용의 언어](./topics/advanced-polymer-circularity-and-chemical-recycling/README.md)
 - [도시 사면 안정과 산사태 위험의 언어](./topics/advanced-urban-slope-stability-and-landslide-risk/README.md)
 - [수면 과학과 생체 시계 건강의 언어](./topics/advanced-sleep-science-and-circadian-health/README.md)
+- [도시 교통 접근성과 길찾기의 언어](./topics/advanced-urban-transit-accessibility-and-wayfinding/README.md)
+- [균류 생태와 바이오경제의 언어](./topics/advanced-fungal-ecology-and-bioeconomy/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

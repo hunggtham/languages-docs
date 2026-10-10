@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,530 new targets across one hundred two independent topic batches; 6,530 structured headings toward the 10,000 target, leaving 3,470 after this checkpoint.
+- Progress in this checkpoint: 1,560 new targets across one hundred four independent topic batches; 6,560 structured headings toward the 10,000 target, leaving 3,440 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3290,3 +3290,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 106-eojeol Korean sleep-science passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,530 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 transit-accessibility and fungal-bioeconomy checkpoint
+
+- Topic: `advanced-urban-transit-accessibility-and-wayfinding`
+- File: `01-accessible-transit-wayfinding.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot transit-accessibility and wayfinding headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean accessible-transit passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-fungal-ecology-and-bioeconomy`
+- File: `01-fungal-ecology-and-biorefinery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot fungal-ecology and bioeconomy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean fungal-bioeconomy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,560 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
