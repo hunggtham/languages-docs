@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,190 new targets across one hundred forty-six independent topic batches; 7,190 structured headings toward the 10,000 target, leaving 2,810 after this checkpoint.
+- Progress in this checkpoint: 2,220 new targets across one hundred forty-eight independent topic batches; 7,220 structured headings toward the 10,000 target, leaving 2,780 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3620,3 +3620,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 124-eojeol Korean platform-work passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,190 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 material-passports and eldercare-technology checkpoint
+
+- Topic: `advanced-material-passports-and-circular-procurement`
+- File: `01-material-passports-and-circular-procurement.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot material-passport and circular-procurement headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean material-passport passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-eldercare-technology-and-ageing-in-place`
+- File: `01-eldercare-technology-and-ageing-in-place.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot eldercare-technology and ageing-in-place headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean eldercare-technology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,220 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

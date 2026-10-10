@@ -202,6 +202,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [담수 생태와 하천 복원의 언어](./advanced-freshwater-ecology-and-river-restoration/README.md) — `하천 연결성과 복원을 읽다`
 - [재난 위험 소통과 조기경보의 언어](./advanced-disaster-risk-communication-and-early-warning/README.md) — `경보와 대피 행동을 읽다`
 - [플랫폼 노동과 노동시장 전환의 언어](./advanced-platform-work-and-labor-market-transition/README.md) — `앱 노동과 전환 소득을 읽다`
+- [소재 여권과 순환 조달의 언어](./advanced-material-passports-and-circular-procurement/README.md) — `제품 정보와 회수 의무를 읽다`
+- [고령 돌봄 기술과 지역사회 정착의 언어](./advanced-eldercare-technology-and-ageing-in-place/README.md) — `자립생활과 돌봄 기술을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
