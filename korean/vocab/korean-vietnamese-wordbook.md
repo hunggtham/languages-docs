@@ -205,6 +205,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [고령 돌봄 기술과 지역사회 정착의 언어](./topics/advanced-eldercare-technology-and-ageing-in-place/README.md)
 - [문화유산 디지털화와 반환의 언어](./topics/advanced-cultural-heritage-digitization-and-repatriation/README.md)
 - [공정한 주거 금융과 이주 방지의 언어](./topics/advanced-equitable-housing-finance-and-displacement-prevention/README.md)
+- [정신건강 위기 대응과 지역사회 돌봄의 언어](./topics/advanced-mental-health-crisis-response-and-community-care/README.md)
+- [도시 임대차 규제와 세입자 보호의 언어](./topics/advanced-urban-rental-regulation-and-tenant-protection/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

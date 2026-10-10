@@ -206,6 +206,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [고령 돌봄 기술과 지역사회 정착의 언어](./advanced-eldercare-technology-and-ageing-in-place/README.md) — `자립생활과 돌봄 기술을 읽다`
 - [문화유산 디지털화와 반환의 언어](./advanced-cultural-heritage-digitization-and-repatriation/README.md) — `유산 데이터와 반환 협상을 읽다`
 - [공정한 주거 금융과 이주 방지의 언어](./advanced-equitable-housing-finance-and-displacement-prevention/README.md) — `주거 부담과 강제 이주를 읽다`
+- [정신건강 위기 대응과 지역사회 돌봄의 언어](./advanced-mental-health-crisis-response-and-community-care/README.md) — `위기 개입과 회복 연계를 읽다`
+- [도시 임대차 규제와 세입자 보호의 언어](./advanced-urban-rental-regulation-and-tenant-protection/README.md) — `계약 갱신과 퇴거 분쟁을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

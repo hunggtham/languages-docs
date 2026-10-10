@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,250 new targets across one hundred fifty independent topic batches; 7,250 structured headings toward the 10,000 target, leaving 2,750 after this checkpoint.
+- Progress in this checkpoint: 2,280 new targets across one hundred fifty-two independent topic batches; 7,280 structured headings toward the 10,000 target, leaving 2,720 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3650,3 +3650,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 93-eojeol Korean equitable-housing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,250 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 mental-health-crisis and rental-regulation checkpoint
+
+- Topic: `advanced-mental-health-crisis-response-and-community-care`
+- File: `01-mental-health-crisis-response-and-community-care.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot mental-health crisis-response and community-care headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean mental-health crisis-response passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-urban-rental-regulation-and-tenant-protection`
+- File: `01-urban-rental-regulation-and-tenant-protection.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-rental regulation and tenant-protection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean rental-regulation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,280 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
