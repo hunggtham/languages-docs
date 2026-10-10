@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,340 new targets across one hundred fifty-six independent topic batches; 7,340 structured headings toward the 10,000 target, leaving 2,660 after this checkpoint.
+- Progress in this checkpoint: 2,370 new targets across one hundred fifty-eight independent topic batches; 7,370 structured headings toward the 10,000 target, leaving 2,630 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3695,3 +3695,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 80-eojeol Korean supply-chain human-rights passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,340 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 public-library and climate-insurance checkpoint
+
+- Topic: `advanced-public-library-transformation-and-digital-inclusion`
+- File: `01-public-library-transformation-and-digital-inclusion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot public-library transformation and digital-inclusion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean public-library passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-climate-insurance-and-disaster-finance`
+- File: `01-climate-insurance-and-disaster-finance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot climate-insurance and disaster-finance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 109-eojeol Korean climate-insurance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,370 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

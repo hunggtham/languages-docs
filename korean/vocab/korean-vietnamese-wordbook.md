@@ -211,6 +211,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [식품 알레르기 정책과 위해 소통의 언어](./topics/advanced-food-allergy-policy-and-risk-communication/README.md)
 - [사이버 보안 인력과 역량의 언어](./topics/advanced-cybersecurity-workforce-and-skills/README.md)
 - [공급망 인권 실사의 언어](./topics/advanced-supply-chain-human-rights-due-diligence/README.md)
+- [공공도서관 전환과 디지털 포용의 언어](./topics/advanced-public-library-transformation-and-digital-inclusion/README.md)
+- [기후보험과 재난 재정의 언어](./topics/advanced-climate-insurance-and-disaster-finance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
