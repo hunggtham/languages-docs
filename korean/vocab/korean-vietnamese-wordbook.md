@@ -153,6 +153,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [북극 거버넌스와 극지 연구의 언어](./topics/advanced-arctic-governance-and-polar-research/README.md)
 - [산불 행동과 생태계 위험의 언어](./topics/advanced-forest-fire-behavior-and-ecosystem-risk/README.md)
 - [순환 섬유와 패션 지속가능성의 언어](./topics/advanced-circular-textiles-and-fashion-sustainability/README.md)
+- [정밀농업과 센서 거버넌스의 언어](./topics/advanced-precision-agriculture-and-sensor-governance/README.md)
+- [고분자 순환성과 화학적 재활용의 언어](./topics/advanced-polymer-circularity-and-chemical-recycling/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
