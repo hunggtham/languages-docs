@@ -165,6 +165,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [희토류 분리와 재료 회수의 언어](./topics/advanced-rare-earth-separation-and-materials-recovery/README.md)
 - [도시 지표수와 홍수 모델링의 언어](./topics/advanced-urban-surface-water-flood-modelling/README.md)
 - [희귀질환 치료 개발의 언어](./topics/advanced-rare-disease-therapeutic-development/README.md)
+- [도시 폐열 회수와 지역 에너지의 언어](./topics/advanced-urban-waste-heat-recovery-and-district-energy/README.md)
+- [신경면역 상호작용과 정신신경면역학의 언어](./topics/advanced-neuroimmune-interface-and-psychoneuroimmunology/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
