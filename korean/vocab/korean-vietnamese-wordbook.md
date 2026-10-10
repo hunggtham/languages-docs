@@ -141,6 +141,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [콘텐츠 조정과 플랫폼 거버넌스의 언어](./topics/advanced-content-moderation-and-platform-governance/README.md)
 - [합성생물학과 생물안보의 언어](./topics/advanced-synthetic-biology-and-biosecurity/README.md)
 - [도시 식품 체계와 라스트마일 물류의 언어](./topics/advanced-urban-food-systems-and-last-mile-logistics/README.md)
+- [행성 지질학과 우주 자원 정책의 언어](./topics/advanced-planetary-geology-and-space-resource-policy/README.md)
+- [농촌 인구와 돌봄 인프라의 언어](./topics/advanced-rural-demography-and-care-infrastructure/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
