@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 960 new targets across sixty-four independent topic batches; 5,960 structured headings toward the 10,000 target, leaving 4,040 after this checkpoint.
+- Progress in this checkpoint: 990 new targets across sixty-six independent topic batches; 5,990 structured headings toward the 10,000 target, leaving 4,010 after this checkpoint.
+
+- Topic: `advanced-flood-risk-and-river-basin-governance`
+- File: `01-flood-risk-and-river-basin-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flood-risk and river-basin-governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 125-eojeol Korean flood-governance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-legal-tech-and-evidence-platforms`
+- File: `01-legal-tech-and-evidence-platforms.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot legal-tech and evidence-platform headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean legal-tech passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-urban-biodiversity-and-green-infrastructure`
 - File: `01-urban-ecological-connectivity-and-green-infrastructure.md`
