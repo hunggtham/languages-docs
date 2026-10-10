@@ -146,6 +146,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [농촌 인구와 돌봄 인프라의 언어](./advanced-rural-demography-and-care-infrastructure/README.md) — `지역 소멸과 돌봄 체계를 읽다`
 - [후성유전체와 생애과정 건강의 언어](./advanced-epigenomics-and-lifecourse-health/README.md) — `환경과 생애의 건강 흔적을 읽다`
 - [철도 신호와 자율 운행의 언어](./advanced-railway-signalling-and-autonomous-mobility/README.md) — `열차 제어와 안전 운행을 읽다`
+- [시청각 접근성과 자막의 언어](./advanced-audiovisual-accessibility-and-captioning/README.md) — `콘텐츠 접근성과 자막 설계를 읽다`
+- [해안 공학과 자연 기반 방어의 언어](./advanced-coastal-engineering-and-nature-based-defense/README.md) — `해안 방어와 생태 회복을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
