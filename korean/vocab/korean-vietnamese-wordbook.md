@@ -191,6 +191,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [민속식물학과 전통지식의 언어](./topics/advanced-ethnobotany-and-traditional-knowledge/README.md)
 - [도시 센서 네트워크와 IoT 거버넌스의 언어](./topics/advanced-urban-sensor-networks-and-iot-governance/README.md)
 - [지속가능 수산업과 혼획 저감의 언어](./topics/advanced-sustainable-fisheries-and-bycatch-reduction/README.md)
+- [도시 데이터센터와 물·에너지 발자국의 언어](./topics/advanced-urban-data-centers-and-water-energy-footprint/README.md)
+- [맹그로브 복원과 블루카본의 언어](./topics/advanced-mangrove-restoration-and-blue-carbon/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
