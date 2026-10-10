@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,830 new targets across one hundred twenty-two independent topic batches; 6,830 structured headings toward the 10,000 target, leaving 3,170 after this checkpoint.
+- Progress in this checkpoint: 1,860 new targets across one hundred twenty-four independent topic batches; 6,860 structured headings toward the 10,000 target, leaving 3,140 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3440,3 +3440,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 99-eojeol Korean microbial-electrochemistry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,830 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 water-sensitive design and AI-augmentation ethics checkpoint
+
+- Topic: `advanced-urban-water-sensitive-design-and-sponge-city`
+- File: `01-urban-water-sensitive-design-and-sponge-city.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot water-sensitive urban-design and sponge-city headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean water-sensitive-design passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-ai-ethics-and-human-augmentation`
+- File: `01-human-augmentation-and-rights.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot AI-ethics and human-augmentation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean human-augmentation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, corrected exact `target_set` syntax, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,860 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
