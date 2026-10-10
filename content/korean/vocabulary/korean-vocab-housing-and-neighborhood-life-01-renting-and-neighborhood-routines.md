@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** hình thức thuê nhà đặt cọc lớn, không trả tiền thuê hàng tháng.
 
-**뉘앙스와 사용법:** 한국 부동산 제도에 특유한 말이라 외국인에게 설명할 때 계약 종료 후 보증금 반환 조건을 함께 알려야 한다.
+**뉘앙스와 사용법:** Đây là thuật ngữ duy nhất của hệ thống bất động sản Hàn Quốc nên khi giải thích điều này cho người nước ngoài, bạn cũng phải thông báo cho họ điều kiện hoàn trả tiền đặt cọc sau khi kết thúc hợp đồng.
 
-**재사용 가능한 콜로케이션·청크:** `전세 보증금`, `전세 계약`, `전세 매물`, `전세 사기`.
+**재사용 가능한 콜로케이션·청크:** `전세 보증금`, `전세 계약`, `전세 매물`, `전세 사기`. — 'Tiền gửi của Jeonse', 'Hợp đồng của Jeonse', 'Tài sản của Jeonse', 'Lừa đảo của Jeonse'.
 
-**자주 쓰는 문형과 성분:** `전세로 들어가다`; 보증금·대출·등기·반환과 결합한다.
+**자주 쓰는 문형과 성분:** `전세로 들어가다`, `Nhập điều lệ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·금융·일상 대화에서 널리 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong các cuộc trò chuyện về bất động sản, tài chính và hàng ngày.
 
 **예문:** 전세 계약을 하기 전에 등기부와 보증금 반환 가능성을 확인해야 한다.
 
-**어휘 연결:** `전세`는 큰 보증금 중심, `월세`는 매달 임대료 중심, `반전세`는 두 방식을 섞은 형태다.
+**Dịch:** Trước khi ký hợp đồng thuê, bạn phải kiểm tra sổ đăng ký và khả năng trả lại tiền đặt cọc.
 
-**영어 참고:** *jeonse*, *lump-sum deposit lease* — 고유 제도이므로 *jeonse*를 쓰고 설명을 덧붙이는 편이 정확하다.
+**어휘 연결:** `전세`는 큰 보증금 중심, `월세`는 매달 임대료 중심, `반전세`는 두 방식을 섞은 형태다. — 'Jeonse' tập trung vào khoản tiền đặt cọc lớn, 'tiền thuê hàng tháng' tập trung vào tiền thuê hàng tháng và 'tiền thuê ngược' là sự kết hợp của hai phương pháp.
+
+**영어 참고:** *jeonse*, *lump-sum deposit lease* — Vì đây là một hệ thống duy nhất nên việc sử dụng *jeonse* và thêm lời giải thích sẽ chính xác hơn.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** phí quản lý, phí dịch vụ tòa nhà.
 
-**뉘앙스와 사용법:** 공용 전기·청소·경비·시설 유지비 등이 포함될 수 있어 항목별 내역을 확인해야 한다.
+**뉘앙스와 사용법:** Chi phí điện công cộng, vệ sinh, an ninh, bảo trì cơ sở, v.v. có thể được bao gồm, vì vậy bạn phải kiểm tra chi tiết cho từng mục.
 
-**재사용 가능한 콜로케이션·청크:** `관리비 고지서`, `관리비 내역`, `관리비를 내다`, `관리비 포함`.
+**재사용 가능한 콜로케이션·청크:** `관리비 고지서`, `관리비 내역`, `관리비를 내다`, `관리비 포함`. — ‘Hóa đơn phí quản lý’, ‘Chi tiết phí quản lý’, ‘Thanh toán phí quản lý’, ‘Bao gồm phí quản lý’.
 
-**자주 쓰는 문형과 성분:** `관리비에 포함되다`; 월세·공용 시설·고지서와 결합한다.
+**자주 쓰는 문형과 성분:** `관리비에 포함되다`, `Đã bao gồm phí quản lý` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 아파트·오피스텔·임대 계약의 실무어다.
+**사회적 관계·주제별 register:** Ngôn ngữ thực tế cho căn hộ, officetel và hợp đồng cho thuê.
 
 **예문:** 광고의 월세가 싸도 관리비에 어떤 항목이 포함되는지 봐야 한다.
 
-**어휘 연결:** `관리비`는 건물 운영 비용, `공과금`은 전기·가스·수도 같은 사용료, `임대료`는 공간을 빌리는 대가다.
+**Dịch:** Ngay cả khi tiền thuê quảng cáo hàng tháng thấp, bạn vẫn nên kiểm tra xem những hạng mục nào được bao gồm trong phí quản lý.
 
-**영어 참고:** *maintenance fee*, *building service charge*, *utilities* — *utilities*는 사용량에 따른 공과금에 더 가깝다.
+**어휘 연결:** `관리비`는 건물 운영 비용, `공과금`은 전기·가스·수도 같은 사용료, `임대료`는 공간을 빌리는 대가다. — 'Phí quản lý' là chi phí vận hành tòa nhà, 'phí tiện ích' là phí sử dụng điện, ga và nước và 'tiền thuê' là giá thuê mặt bằng.
+
+**영어 참고:** *maintenance fee*, *building service charge*, *utilities* — *tiện ích* gần với phí tiện ích hơn dựa trên mức sử dụng.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** cộng đồng.
 
-**뉘앙스와 사용법:** 단순한 사람들의 모임보다 서로 책임을 나누고 관계를 지속하는 느낌이 있다.
+**뉘앙스와 사용법:** Có cảm giác chia sẻ trách nhiệm và tiếp tục các mối quan hệ chứ không chỉ là một nhóm người.
 
-**재사용 가능한 콜로케이션·청크:** `지역 공동체`, `공동체 의식`, `공동체를 이루다`, `공동체 활동`.
+**재사용 가능한 콜로케이션·청크:** `지역 공동체`, `공동체 의식`, `공동체를 이루다`, `공동체 활동`. — `Cộng đồng địa phương`, `Ý thức cộng đồng`, `Xây dựng cộng đồng`, `Hoạt động cộng đồng`.
 
-**자주 쓰는 문형과 성분:** `공동체를 + 만들다/회복하다`; 주민·지역·규범과 결합한다.
+**자주 쓰는 문형과 성분:** `공동체를 + 만들다/회복하다`, `tạo/khôi phục cộng đồng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회·복지·지역 활동에서 중립적이며 다소 문어적이다.
+**사회적 관계·주제별 register:** Trung lập và có phần văn chương trong các hoạt động xã hội, phúc lợi và khu vực.
 
 **예문:** 작은 텃밭이 이웃 공동체가 서로 인사하는 계기가 되었다.
 
-**어휘 연결:** `공동체`는 관계와 책임을 강조, `커뮤니티`는 온라인·취미 모임에도 널리 쓰이는 외래어, `집단`은 결속의 긍정성이 약하다.
+**Dịch:** Một khu vườn nhỏ trở thành cơ hội để các cộng đồng lân cận chào hỏi nhau.
 
-**영어 참고:** *community*, *collective*, *neighborhood* — *community*가 관계와 소속을 가장 잘 담는다.
+**어휘 연결:** `공동체`는 관계와 책임을 강조, `커뮤니티`는 온라인·취미 모임에도 널리 쓰이는 외래어, `집단`은 결속의 긍정성이 약하다. — 'Cộng đồng' nhấn mạnh các mối quan hệ và trách nhiệm, 'cộng đồng' là một từ nước ngoài được sử dụng rộng rãi trong các cuộc tụ họp trực tuyến và sở thích, còn 'nhóm' có tính đoàn kết yếu.
+
+**영어 참고:** *community*, *collective*, *neighborhood* — *cộng đồng* nắm bắt tốt nhất các mối quan hệ và sự thuộc về.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** khu vực thương mại, khu mua sắm.
 
-**뉘앙스와 사용법:** 가게 하나보다 소비 흐름과 지역 경제를 말한다. `상권이 살아나다`처럼 변화와 함께 자주 쓴다.
+**뉘앙스와 사용법:** Nó đề cập đến luồng tiêu dùng và nền kinh tế địa phương thay vì chỉ một cửa hàng. Nó thường được sử dụng với sự thay đổi, như trong 'khu thương mại đang hồi sinh'.
 
-**재사용 가능한 콜로케이션·청크:** `골목 상권`, `상권 분석`, `상권이 형성되다`, `상권이 위축되다`.
+**재사용 가능한 콜로케이션·청크:** `골목 상권`, `상권 분석`, `상권이 형성되다`, `상권이 위축되다`. — ‘Ngõ khu thương mại’, ‘Phân tích khu thương mại’, ‘Khu thương mại được hình thành’, ‘Khu thương mại đang bị thu hẹp’.
 
-**자주 쓰는 문형과 성분:** `상권이 + 살아나다/무너지다`; 유동 인구·가게·소비와 결합한다.
+**자주 쓰는 문형과 성분:** `상권이 + 살아나다/무너지다`, `Khu vực thương mại + hồi sinh/sụp đổ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·도시 정책·자영업 담화의 실용어다.
+**사회적 관계·주제별 register:** Ngôn ngữ thực tiễn trong bất động sản, chính sách đô thị và diễn ngôn tự doanh.
 
 **예문:** 지하철역이 생기면서 주변 상권이 빠르게 커졌다.
 
-**어휘 연결:** `상권`은 소비와 상업의 범위, `시장`은 거래 공간이나 수요·공급 체계, `번화가`는 사람이 많이 모이는 중심 거리를 뜻한다.
+**Dịch:** Khi ga tàu điện ngầm được xây dựng, khu thương mại xung quanh phát triển nhanh chóng.
 
-**영어 참고:** *commercial district*, *retail area*, *business district* — 문맥에 따라 소비 중심인지 업무 중심인지 구별한다.
+**어휘 연결:** `상권`은 소비와 상업의 범위, `시장`은 거래 공간이나 수요·공급 체계, `번화가`는 사람이 많이 모이는 중심 거리를 뜻한다. — ‘Khu thương mại’ đề cập đến phạm vi tiêu dùng và thương mại, ‘chợ’ đề cập đến không gian giao dịch hoặc hệ thống cung cầu và ‘phố sầm uất’ đề cập đến con phố trung tâm nơi tập trung nhiều người dân.
+
+**영어 참고:** *commercial district*, *retail area*, *business district* — Phân biệt xem nó hướng đến tiêu dùng hay hướng đến công việc tùy thuộc vào ngữ cảnh.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** khu vực sinh hoạt hằng ngày.
 
-**뉘앙스와 사용법:** 행정구역보다 실제 이동과 이용 관계를 기준으로 한 생활 공간을 말한다.
+**뉘앙스와 사용법:** Đề cập đến không gian sống dựa trên sự di chuyển và sử dụng thực tế hơn là các quận hành chính.
 
-**재사용 가능한 콜로케이션·청크:** `생활권이 넓다`, `생활권을 공유하다`, `생활권 인프라`, `역세권 생활권`.
+**재사용 가능한 콜로케이션·청크:** `생활권이 넓다`, `생활권을 공유하다`, `생활권 인프라`, `역세권 생활권`. — ‘Khu dân cư rộng’, ‘Chia sẻ khu dân cư’, ‘Cơ sở hạ tầng khu dân cư’, ‘Khu dân cư gần nhà ga’.
 
-**자주 쓰는 문형과 성분:** `생활권 안에서 + 이용하다/해결하다`; 학교·병원·교통·상권과 결합한다.
+**자주 쓰는 문형과 성분:** `생활권 안에서 + 이용하다/해결하다`, `Sử dụng/giải quyết + trong khu vực sinh sống` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시 계획·부동산·지역 분석에서 자주 쓰는 말이다.
+**사회적 관계·주제별 register:** Cụm từ thường được sử dụng trong quy hoạch đô thị, bất động sản và phân tích khu vực.
 
 **예문:** 이 동네는 학교와 병원이 가까워 생활권 안에서 대부분의 일을 해결할 수 있다.
 
-**어휘 연결:** `생활권`은 실제 이용 범위, `행정구역`은 제도상 경계, `상권`은 그중 상업 활동에 초점을 둔다.
+**Dịch:** Khu phố này gần trường học và bệnh viện nên hầu hết mọi việc đều có thể được thực hiện trong khu vực sinh sống.
 
-**영어 참고:** *daily living area*, *catchment area*, *neighborhood sphere* — 영어에는 완전히 대응하는 단일어가 없어 문맥 설명이 필요하다.
+**어휘 연결:** `생활권`은 실제 이용 범위, `행정구역`은 제도상 경계, `상권`은 그중 상업 활동에 초점을 둔다. — 'Khu vực sinh hoạt' tập trung vào phạm vi sử dụng thực tế, 'khu vực hành chính' tập trung vào ranh giới thể chế và 'khu vực thương mại' tập trung vào các hoạt động thương mại.
+
+**영어 참고:** *daily living area*, *catchment area*, *neighborhood sphere* — Không có từ nào tương đương hoàn toàn trong tiếng Anh, vì vậy cần có giải thích ngữ cảnh.
 
 ---
 

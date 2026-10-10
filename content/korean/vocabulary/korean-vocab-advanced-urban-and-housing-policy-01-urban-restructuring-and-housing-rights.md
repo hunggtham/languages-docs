@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** hiện tượng gentrification, tái phát triển đẩy cư dân cũ ra ngoài.
 
-**뉘앙스와 사용법:** 단순한 지역 활성화가 아니라 개발 이익과 퇴출의 불균형을 비판적으로 분석할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng không phải để phục hồi khu vực đơn giản mà để phân tích một cách nghiêm túc sự mất cân bằng giữa lợi ích phát triển và việc thu hồi đất.
 
-**재사용 가능한 콜로케이션·청크:** `젠트리피케이션이 진행되다`, `젠트리피케이션을 완화하다`, `상업 젠트리피케이션`.
+**재사용 가능한 콜로케이션·청크:** `젠트리피케이션이 진행되다`, `젠트리피케이션을 완화하다`, `상업 젠트리피케이션`. — `Quá trình chỉnh trang đô thị đang tiến triển`, `Đơn giản hóa quá trình đô thị hóa`, `Quá trình đô thị hóa thương mại`.
 
-**자주 쓰는 문형과 성분:** `개발이 젠트리피케이션을 촉진하다`; 임대료·상권·원주민과 결합한다.
+**자주 쓰는 문형과 성분:** `개발이 젠트리피케이션을 촉진하다`, `Phát triển thúc đẩy quá trình chỉnh trang đô thị` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시 연구·부동산·사회 기사에서 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong các bài viết nghiên cứu đô thị, bất động sản và xã hội.
 
 **예문:** 관광객이 늘면서 골목의 젠트리피케이션을 우려하는 목소리도 커졌다.
 
-**어휘 연결:** `도시 활성화`는 긍정적 목표를, `젠트리피케이션`은 그 과정에서 발생하는 퇴출과 불평등을 강조한다.
+**Dịch:** Khi số lượng khách du lịch tăng lên, mối lo ngại về việc chỉnh trang các con hẻm cũng tăng lên.
 
-**영어 참고:** *gentrification* — 자본 유입과 개발로 기존 주민이 밀려나는 도시 변화다.
+**어휘 연결:** `도시 활성화`는 긍정적 목표를, `젠트리피케이션`은 그 과정에서 발생하는 퇴출과 불평등을 강조한다. — 'Tái sinh đô thị' nhấn mạnh các mục tiêu tích cực, trong khi 'sự chỉnh trang đô thị' nhấn mạnh đến tình trạng thu hồi đất và bất bình đẳng xảy ra trong quá trình này.
+
+**영어 참고:** *gentrification* — Thay đổi đô thị trong đó cư dân hiện tại bị đẩy ra ngoài do dòng vốn vào và phát triển.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tái sinh đô thị, cải tạo đô thị dựa trên cộng đồng.
 
-**뉘앙스와 사용법:** 물리적 정비뿐 아니라 주민 참여·지역 경제·공공 공간을 함께 다룬다. 사업이 젠트리피케이션을 낳는지 평가해야 한다.
+**뉘앙스와 사용법:** Nó không chỉ bao gồm bảo trì vật chất mà còn bao gồm sự tham gia của người dân, nền kinh tế địa phương và không gian công cộng. Chúng ta cần đánh giá xem liệu dự án có đang gây ra hiện tượng đô thị hóa hay không.
 
-**재사용 가능한 콜로케이션·청크:** `도시재생 사업`, `도시재생 뉴딜`, `주민 주도 도시재생`.
+**재사용 가능한 콜로케이션·청크:** `도시재생 사업`, `도시재생 뉴딜`, `주민 주도 도시재생`. — `Dự án tái tạo đô thị`, `Thỏa thuận mới về tái tạo đô thị`, `Tái sinh đô thị do người dân lãnh đạo`.
 
-**자주 쓰는 문형과 성분:** `지자체가 N을 도시재생으로 정비하다`; 골목·공동체·공공 공간과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 N을 도시재생으로 정비하다`, `Chính quyền địa phương tổ chức lại N thông qua tái tạo đô thị` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시 정책·건축·지역 뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho chính sách đô thị, kiến ​​trúc và tin tức địa phương.
 
 **예문:** 주민 협동조합은 도시재생 사업의 운영 주체로 참여했다.
 
-**어휘 연결:** `재개발`이 토지와 건물을 새로 짓는 데 초점이 있다면, `도시재생`은 기존 생활과 관계를 유지하며 개선하려는 접근이다.
+**Dịch:** Các hợp tác xã thường trú tham gia với tư cách là nhà điều hành dự án tái tạo đô thị.
 
-**영어 참고:** *urban regeneration*, *urban revitalization* — 기존 지역의 생활과 기능을 되살리는 정책이다.
+**어휘 연결:** `재개발`이 토지와 건물을 새로 짓는 데 초점이 있다면, `도시재생`은 기존 생활과 관계를 유지하며 개선하려는 접근이다. — Nếu 'tái phát triển' tập trung vào việc xây dựng đất và tòa nhà mới thì 'tái tạo đô thị' là một cách tiếp cận nhằm duy trì và cải thiện mối quan hệ với lối sống hiện có.
+
+**영어 참고:** *urban regeneration*, *urban revitalization* — Đây là chính sách nhằm khôi phục lại đời sống và chức năng của các khu vực hiện có.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** quan niệm đất đai vì lợi ích công cộng.
 
-**뉘앙스와 사용법:** 사유재산권과 개발 이익의 공공성 사이에서 헌법·정책 논쟁을 일으키는 개념이다.
+**뉘앙스와 사용법:** Đây là khái niệm làm nảy sinh các cuộc tranh luận về hiến pháp và chính sách giữa quyền sở hữu tư nhân và bản chất công cộng của lợi ích phát triển.
 
-**재사용 가능한 콜로케이션·청크:** `토지공개념 강화`, `토지공개념 논쟁`, `토지공개념에 입각하다`.
+**재사용 가능한 콜로케이션·청크:** `토지공개념 강화`, `토지공개념 논쟁`, `토지공개념에 입각하다`. — `Tăng cường khái niệm công khai về đất đai`, `Tranh cãi về khái niệm công khai về đất đai`, `Dựa trên khái niệm công khai về đất đai`.
 
-**자주 쓰는 문형과 성분:** `정책이 토지공개념을 반영하다`; 보유세·개발이익·주택 가격과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 토지공개념을 반영하다`, `Chính sách phản ánh khái niệm đất mở` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·부동산·조세 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về hiến pháp, bất động sản và chính sách thuế.
 
 **예문:** 개발 이익을 어디까지 환수할지는 토지공개념과 재산권의 균형 문제다.
 
-**어휘 연결:** `공공성`은 넓은 공동 이익이고, `토지공개념`은 토지의 사적 이용에 공적 책임과 제한을 부과하는 구체적 관점이다.
+**Dịch:** Mức độ mà lợi nhuận phát triển sẽ được thu hồi là vấn đề cân bằng giữa khái niệm chung về đất đai và quyền tài sản.
 
-**영어 참고:** *public concept of land*, *social function of land* — 토지 소유와 이용에 공공적 책임이 따른다는 원칙이다.
+**어휘 연결:** `공공성`은 넓은 공동 이익이고, `토지공개념`은 토지의 사적 이용에 공적 책임과 제한을 부과하는 구체적 관점이다. — 'Tính công khai' là lợi ích chung rộng rãi và 'công khai đất đai' là một quan điểm cụ thể áp đặt trách nhiệm công cộng và các hạn chế đối với việc sử dụng đất tư nhân.
+
+**영어 참고:** *public concept of land*, *social function of land* — Nguyên tắc trách nhiệm công cộng tuân theo quyền sở hữu và sử dụng đất đai.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** nhà cho thuê công cộng.
 
-**뉘앙스와 사용법:** 단순히 싼 집이 아니라 입주 자격·임대 기간·소득 기준을 통해 주거 안정을 지원하는 정책 수단이다.
+**뉘앙스와 사용법:** Đây không chỉ đơn giản là một ngôi nhà giá rẻ mà còn là một biện pháp chính sách hỗ trợ sự ổn định nhà ở thông qua tiêu chuẩn về tỷ lệ sử dụng, thời gian thuê và tiêu chí thu nhập.
 
-**재사용 가능한 콜로케이션·청크:** `공공임대 주택`, `공공임대 공급`, `공공임대 입주 자격`.
+**재사용 가능한 콜로케이션·청크:** `공공임대 주택`, `공공임대 공급`, `공공임대 입주 자격`. — `Nhà ở công cộng cho thuê`, `Nguồn cung nhà ở công cộng cho thuê`, `Chứng chỉ về tỷ lệ sử dụng nhà cho thuê công cộng`.
 
-**자주 쓰는 문형과 성분:** `정부가 공공임대를 확대하다`; 청년·고령자·주거 취약계층과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 공공임대를 확대하다`, `Chính phủ mở rộng tiền thuê nhà công` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 주거·복지·도시 정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các chính sách nhà ở, phúc lợi và đô thị.
 
 **예문:** 공공임대 물량이 늘어도 입주 대기 기간이 길면 체감 효과가 제한적이다.
 
-**어휘 연결:** `임대주택`은 빌려 사는 주택 전반이고, `공공임대`는 공공기관의 공급과 정책 목적을 포함한다.
+**Dịch:** Ngay cả khi số lượng nhà cho thuê công cộng tăng lên, hiệu quả nhận thấy sẽ bị hạn chế nếu thời gian chờ đợi để có người ở kéo dài.
 
-**영어 참고:** *public rental housing*, *social housing* — 공공 목적과 안정적 임대를 위해 공급되는 주택이다.
+**어휘 연결:** `임대주택`은 빌려 사는 주택 전반이고, `공공임대`는 공공기관의 공급과 정책 목적을 포함한다. — 'Nhà cho thuê' đề cập đến tất cả nhà ở được cho thuê và 'cho thuê công cộng' bao gồm mục đích cung cấp và chính sách của các tổ chức công.
+
+**영어 참고:** *public rental housing*, *social housing* — Nhà ở được cung cấp cho mục đích công cộng và cho thuê ổn định.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** quyền có nhà ở, quyền cư trú thích đáng.
 
-**뉘앙스와 사용법:** 주택을 소유할 권리만이 아니라 강제 퇴거 방지·접근 가능한 임대·주거 환경까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm quyền sở hữu một ngôi nhà mà còn bảo vệ khỏi bị cưỡng bức trục xuất, tiền thuê nhà dễ tiếp cận và môi trường sống.
 
-**재사용 가능한 콜로케이션·청크:** `주거권을 보장하다`, `주거권 침해`, `주거권의 관점`.
+**재사용 가능한 콜로케이션·청크:** `주거권을 보장하다`, `주거권 침해`, `주거권의 관점`. — `Đảm bảo quyền có nhà ở`, `vi phạm quyền có nhà ở`, `Quan điểm về quyền có nhà ở`.
 
-**자주 쓰는 문형과 성분:** `정책이 시민의 주거권을 보호하다`; 임대료·재개발·퇴거와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 시민의 주거권을 보호하다`, `Chính sách bảo vệ quyền nhà ở của công dân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인권·복지·도시 정책의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao về nhân quyền, phúc lợi và chính sách đô thị.
 
 **예문:** 강제 철거 과정에서 세입자의 주거권이 충분히 고려되지 않았다.
 
-**어휘 연결:** `주거 복지`는 지원 정책이고, `주거권`은 국가와 사회가 보장해야 할 권리의 언어다.
+**Dịch:** Quyền nhà ở của người thuê nhà không được xem xét đầy đủ trong quá trình phá dỡ cưỡng bức.
 
-**영어 참고:** *right to housing* — 안전하고 적절한 주거에 접근할 권리다.
+**어휘 연결:** `주거 복지`는 지원 정책이고, `주거권`은 국가와 사회가 보장해야 할 권리의 언어다. — 'Phúc lợi nhà ở' là một chính sách hỗ trợ và 'quyền có nhà ở' là ngôn ngữ của các quyền mà nhà nước và xã hội phải đảm bảo.
+
+**영어 참고:** *right to housing* — Quyền tiếp cận nhà ở an toàn và đầy đủ.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** bất an về nhà ở.
 
-**뉘앙스와 사용법:** 실제 노숙뿐 아니라 과도한 주거비와 잦은 이사, 미래의 상실 위험까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm tình trạng vô gia cư thực tế mà còn bao gồm chi phí nhà ở quá cao, di chuyển thường xuyên và nguy cơ mất mát trong tương lai.
 
-**재사용 가능한 콜로케이션·청크:** `주거불안이 커지다`, `청년 주거불안`, `주거불안을 완화하다`.
+**재사용 가능한 콜로케이션·청크:** `주거불안이 커지다`, `청년 주거불안`, `주거불안을 완화하다`. — 'Gia tăng tình trạng mất an ninh nhà ở', 'Mất an ninh nhà ở cho thanh niên', 'Giảm bớt tình trạng mất an ninh nhà ở'.
 
-**자주 쓰는 문형과 성분:** `임대료 상승이 N의 주거불안을 키우다`; 청년·저소득층·전세와 결합한다.
+**자주 쓰는 문형과 성분:** `임대료 상승이 N의 주거불안을 키우다`, `Giá thuê tăng làm tăng tình trạng mất an ninh nhà ở của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 사회·부동산·복지 기사에서 쓰는 고급어다.
+**사회적 관계·주제별 register:** Đây là từ nâng cao được sử dụng trong các bài viết về xã hội, bất động sản và phúc lợi.
 
 **예문:** 소득이 일정하지 않은 청년일수록 주거불안을 크게 경험한다.
 
-**어휘 연결:** `주거 빈곤`은 주택의 질과 비용이 심각하게 부족한 상태이고, `주거불안`은 상실 위험과 심리적 불안까지 포함한다.
+**Dịch:** Những người trẻ tuổi có thu nhập không ổn định gặp phải tình trạng bất ổn nhà ở lớn hơn.
 
-**영어 참고:** *housing insecurity* — 비용 부담과 불안정한 계약으로 주거를 유지하기 어려운 상태다.
+**어휘 연결:** `주거 빈곤`은 주택의 질과 비용이 심각하게 부족한 상태이고, `주거불안`은 상실 위험과 심리적 불안까지 포함한다. — 'Nghèo về nhà ở' là sự thiếu hụt nghiêm trọng về chất lượng và chi phí nhà ở, và 'sự bất ổn về nhà ở' bao gồm nguy cơ mất mát và lo lắng về tâm lý.
+
+**영어 참고:** *housing insecurity* — Khó duy trì nhà ở do gánh nặng chi phí và hợp đồng không ổn định.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** lừa đảo tiền đặt cọc jeonse.
 
-**뉘앙스와 사용법:** 최근 한국의 뉴스·피해자 커뮤니티·정책 담화에서 활발히 쓰이는 contemporary 표현이다. 개인의 부주의보다 제도와 정보 비대칭의 문제로 논의된다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt đương đại được sử dụng tích cực trong các tin tức, cộng đồng nạn nhân và diễn ngôn chính sách gần đây của Hàn Quốc. Nó được thảo luận như một vấn đề về thể chế và sự bất cân xứng thông tin hơn là sự bất cẩn của cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `전세사기 피해자`, `전세사기 특별법`, `전세사기를 예방하다`.
+**재사용 가능한 콜로케이션·청크:** `전세사기 피해자`, `전세사기 특별법`, `전세사기를 예방하다`. — 'Nạn nhân của lừa đảo Jeonse', 'Đạo luật đặc biệt về lừa đảo Jeonse', 'Ngăn chặn gian lận Jeonse'.
 
-**자주 쓰는 문형과 성분:** `세입자가 전세사기를 당하다`; 보증금·등기·임대인·구제와 결합한다.
+**자주 쓰는 문형과 성분:** `세입자가 전세사기를 당하다`, `Người thuê nhà bị lừa cho thuê` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·부동산 상담·온라인 커뮤니티에서 현재 사용되는 표현이다.
+**사회적 관계·주제별 register:** Đây là cụm từ hiện đang được sử dụng trong tin tức, tư vấn bất động sản và cộng đồng trực tuyến.
 
 **예문:** 전세사기 피해자들은 보증금 회수와 장기 주거 대책을 함께 요구했다.
 
-**어휘 연결:** `임대차 분쟁`은 계약 문제 전반이고, `전세사기`는 고의적 기망과 보증금 편취를 강조한다.
+**Dịch:** Nạn nhân của vụ gian lận tiền thuê nhà yêu cầu thu hồi tiền đặt cọc và các biện pháp về nhà ở dài hạn.
 
-**영어 참고:** *jeonse fraud*, *rental deposit scam* — 전세 보증금을 노린 임대차 사기다.
+**어휘 연결:** `임대차 분쟁`은 계약 문제 전반이고, `전세사기`는 고의적 기망과 보증금 편취를 강조한다. — 'Tranh chấp hợp đồng thuê' là một vấn đề chung về hợp đồng và 'gian lận hợp đồng thuê' nhấn mạnh đến hành vi lừa dối và trộm cắp tiền đặt cọc có chủ ý.
+
+**영어 참고:** *jeonse fraud*, *rental deposit scam* — Đây là một trò lừa đảo cho thuê nhắm vào tiền đặt cọc cho thuê.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** bảo vệ quan hệ thuê nhà.
 
-**뉘앙스와 사용법:** 계약 갱신·보증금·임대료 조정·퇴거 조건 등을 둘러싼 법적 보호를 포괄한다.
+**뉘앙스와 사용법:** Bao gồm sự bảo vệ pháp lý xung quanh việc gia hạn hợp đồng, đặt cọc, điều chỉnh tiền thuê nhà và các điều kiện trục xuất.
 
-**재사용 가능한 콜로케이션·청크:** `임대차보호법`, `임대차보호 제도`, `임대차보호를 강화하다`.
+**재사용 가능한 콜로케이션·청크:** `임대차보호법`, `임대차보호 제도`, `임대차보호를 강화하다`. — `Đạo luật bảo vệ tiền thuê`, `Hệ thống bảo vệ tiền thuê`, `Tăng cường bảo vệ tiền thuê`.
 
-**자주 쓰는 문형과 성분:** `법이 세입자의 임대차를 보호하다`; 계약갱신·보증금·임대료와 결합한다.
+**자주 쓰는 문형과 성분:** `법이 세입자의 임대차를 보호하다`, `Luật bảo vệ hợp đồng thuê nhà của người thuê` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·법률·정책 기사에 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong các bài viết về bất động sản, luật và chính sách.
 
 **예문:** 임대차보호 제도를 강화하려면 보증금 반환 절차도 실효성 있게 만들어야 한다.
 
-**어휘 연결:** `임차인 보호`는 대상 중심의 넓은 표현이고, `임대차보호`는 계약과 법률 체계 전체를 가리킨다.
+**Dịch:** Để tăng cường hệ thống bảo vệ tiền thuê nhà, quy trình hoàn trả tiền đặt cọc phải được thực hiện hiệu quả.
 
-**영어 참고:** *tenancy protection*, *rental housing protection* — 임대 계약에서 세입자의 안정과 권리를 보호한다.
+**어휘 연결:** `임차인 보호`는 대상 중심의 넓은 표현이고, `임대차보호`는 계약과 법률 체계 전체를 가리킨다. — 'Bảo vệ người thuê nhà' là một cách diễn đạt rộng rãi, tập trung vào mục tiêu và 'bảo vệ tiền thuê nhà' đề cập đến hợp đồng và toàn bộ hệ thống pháp luật.
+
+**영어 참고:** *tenancy protection*, *rental housing protection* — Bảo vệ sự an toàn và quyền lợi của người thuê nhà trong hợp đồng cho thuê.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** thu hồi lợi ích từ phát triển.
 
-**뉘앙스와 사용법:** 개인의 정당한 이익을 모두 빼앗는다는 뜻이 아니라, 공공 인프라와 정책 결정이 만든 불로소득의 일부를 조정한다는 논리다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là tước bỏ mọi lợi ích hợp pháp của cá nhân, nhưng logic là điều chỉnh một số thu nhập không kiếm được được tạo ra bởi các quyết định chính sách và cơ sở hạ tầng công cộng.
 
-**재사용 가능한 콜로케이션·청크:** `개발이익환수제`, `개발이익을 환수하다`, `환수 부담금`.
+**재사용 가능한 콜로케이션·청크:** `개발이익환수제`, `개발이익을 환수하다`, `환수 부담금`. — ‘Hệ thống thu hồi lợi nhuận phát triển’, ‘Thu hồi lợi nhuận phát triển’, ‘Phí thu hồi’.
 
-**자주 쓰는 문형과 성분:** `정부가 개발이익환수를 추진하다`; 재개발·토지 가격·공공기여와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 개발이익환수를 추진하다`, `Chính phủ thúc đẩy thu hồi lợi nhuận phát triển` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 부동산·조세·도시 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách bất động sản, thuế và đô thị.
 
 **예문:** 개발이익환수 기준을 둘러싸고 사업자와 지방정부의 입장이 맞섰다.
 
-**어휘 연결:** `세금`은 일반 재정 수입이고, `개발이익환수`는 특정 개발로 생긴 가치 상승을 공공과 나누는 제도다.
+**Dịch:** Quan điểm của các nhà điều hành doanh nghiệp và chính quyền địa phương xung đột về các tiêu chuẩn thu hồi lợi nhuận phát triển.
 
-**영어 참고:** *land value capture*, *recapture of development gains* — 공공 개발로 오른 토지 가치의 일부를 환수한다.
+**어휘 연결:** `세금`은 일반 재정 수입이고, `개발이익환수`는 특정 개발로 생긴 가치 상승을 공공과 나누는 제도다. — 'Thuế' là doanh thu tài chính chung và 'thu hồi lợi nhuận phát triển' là một hệ thống chia sẻ giá trị gia tăng do phát triển cụ thể với công chúng.
+
+**영어 참고:** *land value capture*, *recapture of development gains* — Thu hồi một phần giá trị đất đã tăng lên do phát triển công cộng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** khu vực phân loại mục đích sử dụng đất.
 
-**뉘앙스와 사용법:** 단순한 행정 주소가 아니라 건폐율·용적률·허용 시설을 결정해 토지 가치와 생활 환경에 영향을 준다.
+**뉘앙스와 사용법:** Đây không phải là địa chỉ hành chính đơn giản nhưng nó ảnh hưởng đến giá trị đất và môi trường sống bằng cách xác định tỷ lệ xây dựng trên đất, tỷ lệ diện tích sàn và cơ sở vật chất được phép.
 
-**재사용 가능한 콜로케이션·청크:** `용도지역 변경`, `용도지역 규제`, `용도지역에 맞는 건축`.
+**재사용 가능한 콜로케이션·청크:** `용도지역 변경`, `용도지역 규제`, `용도지역에 맞는 건축`. — ‘Thay đổi diện tích sử dụng’, ‘Quy định về diện tích sử dụng’, ‘Tòa nhà phù hợp với diện tích sử dụng’.
 
-**자주 쓰는 문형과 성분:** `지자체가 용도지역을 조정하다`; 개발·건축·상업시설·녹지와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 용도지역을 조정하다`, `Chính quyền địa phương điều chỉnh vùng sử dụng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시계획·부동산·행정 문서의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về quy hoạch đô thị, bất động sản và văn bản hành chính.
 
 **예문:** 용도지역을 상업지로 바꾸면 교통과 임대료에도 연쇄적인 변화가 생긴다.
 
-**어휘 연결:** `토지 이용`은 실제 사용 전반이고, `용도지역`은 법과 계획이 정한 공간적 규제 구획이다.
+**Dịch:** Nếu chuyển đổi khu vực sử dụng thành khu thương mại sẽ có những thay đổi về dây chuyền vận chuyển và giá thuê.
 
-**영어 참고:** *zoning district*, *land-use zone* — 토지의 허용 용도와 개발 정도를 정하는 구역이다.
+**어휘 연결:** `토지 이용`은 실제 사용 전반이고, `용도지역`은 법과 계획이 정한 공간적 규제 구획이다. — 'Việc sử dụng đất' là mục đích sử dụng thực tế tổng thể và 'diện tích sử dụng' là phạm vi quản lý không gian được xác định theo luật và quy hoạch.
+
+**영어 참고:** *zoning district*, *land-use zone* — Đây là khu vực xác định quyền sử dụng đất được phép và mức độ phát triển.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** quy hoạch đô thị.
 
-**뉘앙스와 사용법:** 건물을 짓는 기술을 넘어 인구·환경·경제·공공성의 균형을 정하는 정책 영역이다.
+**뉘앙스와 사용법:** Đây là lĩnh vực chính sách vượt ra ngoài công nghệ xây dựng và xác định sự cân bằng về dân số, môi trường, kinh tế và công khai.
 
-**재사용 가능한 콜로케이션·청크:** `도시계획 변경`, `도시계획 수립`, `도시계획위원회`.
+**재사용 가능한 콜로케이션·청크:** `도시계획 변경`, `도시계획 수립`, `도시계획위원회`. — `Thay đổi quy hoạch đô thị`, `Thành lập quy hoạch đô thị`, `Ủy ban quy hoạch đô thị`.
 
-**자주 쓰는 문형과 성분:** `지자체가 도시계획을 수립하다`; 용도지역·교통·주택·공원과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 도시계획을 수립하다`, `Chính quyền địa phương lập quy hoạch đô thị` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정·건축·부동산 뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho tin tức hành chính, kiến ​​trúc và bất động sản.
 
 **예문:** 도시계획 단계에서 보행자와 장애인의 이동권을 반영해야 한다.
 
-**어휘 연결:** `개발계획`이 특정 사업 중심이면, `도시계획`은 도시 전체의 공간과 인프라 구조를 장기적으로 조정한다.
+**Dịch:** Quyền di chuyển của người đi bộ và người khuyết tật phải được phản ánh ở giai đoạn quy hoạch đô thị.
 
-**영어 참고:** *urban planning*, *city planning* — 도시 공간과 인프라를 장기적으로 조직하는 제도다.
+**어휘 연결:** `개발계획`이 특정 사업 중심이면, `도시계획`은 도시 전체의 공간과 인프라 구조를 장기적으로 조정한다. — Trong khi 'quy hoạch phát triển' tập trung vào các dự án cụ thể, 'quy hoạch đô thị' điều chỉnh cấu trúc không gian và cơ sở hạ tầng của toàn thành phố trong dài hạn.
+
+**영어 참고:** *urban planning*, *city planning* — Là hệ thống tổ chức không gian và cơ sở hạ tầng đô thị lâu dài.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** cơ sở hạ tầng xã hội phục vụ đời sống.
 
-**뉘앙스와 사용법:** 대규모 산업 인프라보다 생활권 가까이에서 복지·교육·건강·문화 접근성을 높이는 정책 용어다.
+**뉘앙스와 사용법:** Thuật ngữ chính sách nhằm cải thiện khả năng tiếp cận phúc lợi, giáo dục, y tế và văn hóa gần các khu vực sinh sống hơn là cơ sở hạ tầng công nghiệp quy mô lớn.
 
-**재사용 가능한 콜로케이션·청크:** `생활SOC 확충`, `생활SOC 복합화`, `생활SOC 접근성`.
+**재사용 가능한 콜로케이션·청크:** `생활SOC 확충`, `생활SOC 복합화`, `생활SOC 접근성`. — `Mở rộng SOC cuộc sống`, `Sự phức tạp của SOC cuộc sống`, `Khả năng tiếp cận SOC cuộc sống`.
 
-**자주 쓰는 문형과 성분:** `지자체가 생활SOC를 확충하다`; 지역·돌봄·문화·체육과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 생활SOC를 확충하다`, `Chính quyền địa phương mở rộng SOC sống` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 한국의 공공 정책·예산·도시 기사에서 현재 쓰이는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ hiện đang được sử dụng trong các bài viết về chính sách công, ngân sách và thành phố ở Hàn Quốc.
 
 **예문:** 생활SOC가 부족한 지역에는 작은 도서관과 돌봄 공간을 함께 배치하기로 했다.
 
-**어휘 연결:** `공공시설`은 시설의 성격을 넓게 말하고, `생활SOC`는 일상 접근성과 지역 균형이라는 정책 목표를 강조한다.
+**Dịch:** Người ta đã quyết định đặt một thư viện nhỏ và không gian chăm sóc cùng nhau ở những khu vực thiếu SOC.
 
-**영어 참고:** *community infrastructure*, *social infrastructure* — 주민 생활을 직접 지원하는 공공 기반이다.
+**어휘 연결:** `공공시설`은 시설의 성격을 넓게 말하고, `생활SOC`는 일상 접근성과 지역 균형이라는 정책 목표를 강조한다. — 'Cơ sở công cộng' đề cập rộng rãi đến bản chất của cơ sở vật chất và 'Life SOC' nhấn mạnh các mục tiêu chính sách về khả năng tiếp cận hàng ngày và cân bằng khu vực.
+
+**영어 참고:** *community infrastructure*, *social infrastructure* — Đây là cơ sở hạ tầng công cộng hỗ trợ trực tiếp cho cuộc sống của cư dân.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** thành phố thông minh.
 
-**뉘앙스와 사용법:** 기술을 많이 도입하는 것만으로 완성되지 않으며 개인정보·디지털 격차·시민 참여를 함께 해결해야 한다.
+**뉘앙스와 사용법:** Nó không hoàn chỉnh nếu chỉ giới thiệu nhiều công nghệ; thông tin cá nhân, khoảng cách kỹ thuật số và sự tham gia của công dân phải được giải quyết cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `스마트시티 사업`, `스마트시티 인프라`, `스마트시티 실증`.
+**재사용 가능한 콜로케이션·청크:** `스마트시티 사업`, `스마트시티 인프라`, `스마트시티 실증`. — `Dự án Thành phố Thông minh`, `Cơ sở Hạ tầng Thành phố Thông minh`, `Trình diễn Thành phố Thông minh`.
 
-**자주 쓰는 문형과 성분:** `도시가 스마트시티로 전환하다`; 교통·데이터·에너지·행정과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 스마트시티로 전환하다`, `Thành phố chuyển mình thành thành phố thông minh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시 기술·정책·산업 뉴스의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về công nghệ đô thị, chính sách và tin tức ngành.
 
 **예문:** 스마트시티 사업은 센서 설치보다 수집된 데이터를 어떻게 공개할지가 중요하다.
 
-**어휘 연결:** `디지털화`는 기술 전환 전반이고, `스마트시티`는 도시 서비스와 공간 운영을 데이터로 연결하는 모델이다.
+**Dịch:** Trong các dự án thành phố thông minh, cách tiết lộ dữ liệu đã thu thập quan trọng hơn việc lắp đặt cảm biến.
 
-**영어 참고:** *smart city* — 데이터와 기술로 도시 서비스를 통합·최적화하는 도시 모델이다.
+**어휘 연결:** `디지털화`는 기술 전환 전반이고, `스마트시티`는 도시 서비스와 공간 운영을 데이터로 연결하는 모델이다. — 'Số hóa' là quá trình chuyển đổi công nghệ tổng thể và 'thành phố thông minh' là mô hình kết nối các dịch vụ thành phố và hoạt động không gian với dữ liệu.
+
+**영어 참고:** *smart city* — Đây là mô hình thành phố tích hợp và tối ưu hóa các dịch vụ của thành phố bằng dữ liệu và công nghệ.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** thành phố 15 phút.
 
-**뉘앙스와 사용법:** 최근 도시 정책과 온라인 공간에서 확산된 contemporary 표현이다. 이동 시간을 줄이는 동시에 지역 상권과 생활권의 자립을 목표로 한다.
+**뉘앙스와 사용법:** Đó là một cách diễn đạt đương đại gần đây đã lan rộng trong chính sách đô thị và không gian trực tuyến. Mục tiêu là giảm thời gian đi lại, đồng thời làm cho các khu thương mại và sinh hoạt địa phương trở nên độc lập hơn.
 
-**재사용 가능한 콜로케이션·청크:** `15분도시 모델`, `15분도시를 구현하다`, `15분도시 논쟁`.
+**재사용 가능한 콜로케이션·청크:** `15분도시 모델`, `15분도시를 구현하다`, `15분도시 논쟁`. — ‘Mô hình thành phố 15 phút’, ‘Triển khai thành phố 15 phút’, ‘tranh cãi về thành phố 15 phút’.
 
-**자주 쓰는 문형과 성분:** `지자체가 15분도시를 추진하다`; 보행·생활권·공공시설과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 15분도시를 추진하다`, `Chính quyền địa phương khuyến khích thành phố 15 phút` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시 계획·기후·온라인 정책 담화에서 현재 사용되는 표현이다.
+**사회적 관계·주제별 register:** Biểu thức hiện được sử dụng trong quy hoạch đô thị, khí hậu và diễn ngôn chính sách trực tuyến.
 
 **예문:** 15분도시는 자동차 의존을 줄이는 대신 동네별 공공시설을 충분히 확보해야 한다.
 
-**어휘 연결:** `생활권`은 사람들이 실제로 활동하는 공간이고, `15분도시`는 그 생활권 안에서 필수 서비스에 접근하도록 설계한 정책 모델이다.
+**Dịch:** Các thành phố dài 15 phút cần đảm bảo đủ cơ sở vật chất công cộng cho từng vùng lân cận thay vì giảm sự phụ thuộc vào ô tô.
 
-**영어 참고:** *15-minute city* — 일상 필수 기능을 짧은 이동 거리 안에 배치하는 도시 모델이다.
+**어휘 연결:** `생활권`은 사람들이 실제로 활동하는 공간이고, `15분도시`는 그 생활권 안에서 필수 서비스에 접근하도록 설계한 정책 모델이다. — 'Khu vực sinh sống' là không gian nơi mọi người thực sự làm việc và 'Thành phố 15 phút' là mô hình chính sách được thiết kế để cung cấp khả năng tiếp cận các dịch vụ thiết yếu trong khu vực sinh sống đó.
+
+**영어 참고:** *15-minute city* — Đây là mô hình đô thị đặt các chức năng thiết yếu hàng ngày trong khoảng cách di chuyển ngắn.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** bất bình đẳng không gian.
 
-**뉘앙스와 사용법:** 개인의 소득 차이만이 아니라 어디에 사는지가 기회와 위험을 결정하는 구조를 분석한다.
+**뉘앙스와 사용법:** Phân tích cấu trúc trong đó cơ hội và rủi ro được xác định không chỉ bởi sự khác biệt về thu nhập cá nhân mà còn bởi nơi sinh sống của một người.
 
-**재사용 가능한 콜로케이션·청크:** `공간적 불평등이 심화되다`, `공간적 불평등을 완화하다`, `지역 격차`.
+**재사용 가능한 콜로케이션·청크:** `공간적 불평등이 심화되다`, `공간적 불평등을 완화하다`, `지역 격차`. — `Sự bất bình đẳng về không gian ngày càng sâu sắc`, `Giảm bất bình đẳng về không gian`, `Khoảng cách khu vực`.
 
-**자주 쓰는 문형과 성분:** `도시 구조가 공간적 불평등을 재생산하다`; 수도권·농촌·교통·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `도시 구조가 공간적 불평등을 재생산하다`, `Cấu trúc đô thị tái tạo sự bất bình đẳng về không gian` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시사회학·정책·복지 기사에 쓰는 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao được sử dụng trong các bài viết về xã hội học, chính sách và phúc lợi đô thị.
 
 **예문:** 광역 교통망의 차이는 청년의 취업 기회에서 공간적 불평등을 만든다.
 
-**어휘 연결:** `지역 격차`는 지역 간 차이를 넓게 말하고, `공간적 불평등`은 공간 배치가 권리와 기회를 구조적으로 나누는 과정을 강조한다.
+**Dịch:** Sự khác biệt trong mạng lưới giao thông đô thị tạo ra sự bất bình đẳng về không gian trong cơ hội việc làm cho thanh niên.
 
-**영어 참고:** *spatial inequality*, *geographical inequality* — 위치와 공간 구조가 기회와 위험을 불평등하게 나누는 현상이다.
+**어휘 연결:** `지역 격차`는 지역 간 차이를 넓게 말하고, `공간적 불평등`은 공간 배치가 권리와 기회를 구조적으로 나누는 과정을 강조한다. — 'Khoảng cách khu vực' đề cập rộng rãi đến sự khác biệt giữa các khu vực và 'bất bình đẳng về không gian' nhấn mạnh quá trình sắp xếp không gian theo đó phân chia các quyền và cơ hội một cách có cấu trúc.
+
+**영어 참고:** *spatial inequality*, *geographical inequality* — Hiện tượng trong đó vị trí và cấu trúc không gian phân chia cơ hội và rủi ro một cách không đồng đều.
 
 <!-- passage_word_count: 102 Korean eojeol; target_set: 젠트리피케이션, 도시재생, 토지공개념, 공공임대, 주거권, 주거불안, 전세사기, 임대차보호, 개발이익환수, 용도지역, 도시계획, 생활SOC, 스마트시티, 15분도시, 공간적 불평등 -->
 

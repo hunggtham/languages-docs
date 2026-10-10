@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** nguyên tắc thu thập dữ liệu tối thiểu.
 
-**뉘앙스와 사용법:** 편의를 위해 자료를 많이 모으는 관행을 비판하며 수집 목적·보유 기간·필요성을 함께 따진다.
+**뉘앙스와 사용법:** Chỉ trích cách thực hành thu thập nhiều dữ liệu để thuận tiện và xem xét mục đích thu thập, thời gian lưu giữ và sự cần thiết.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 최소수집 원칙`, `데이터 최소수집 의무`, `최소수집 기준`.
+**재사용 가능한 콜로케이션·청크:** `데이터 최소수집 원칙`, `데이터 최소수집 의무`, `최소수집 기준`. — `Nguyên tắc thu thập dữ liệu tối thiểu`, `Nghĩa vụ thu thập dữ liệu tối thiểu`, `Tiêu chuẩn thu thập dữ liệu tối thiểu`.
 
-**자주 쓰는 문형과 성분:** `서비스가 데이터 최소수집을 지키다`; 개인정보·보유 기간·동의와 결합한다.
+**자주 쓰는 문형과 성분:** `서비스가 데이터 최소수집을 지키다`, `Dịch vụ duy trì việc thu thập dữ liệu tối thiểu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 개인정보 보호·보안 설계·공공서비스의 고급 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách cấp cao để bảo vệ thông tin cá nhân, thiết kế bảo mật và dịch vụ công.
 
 **예문:** 회원 가입에 주민등록번호를 요구하는 관행은 데이터 최소수집 원칙에 어긋날 수 있다.
 
-**어휘 연결:** `개인정보 보호`가 넓은 목표라면, `데이터 최소수집`은 수집 단계에서 위험을 줄이는 구체적 원칙이다.
+**Dịch:** Việc yêu cầu số đăng ký cư trú để đăng ký thành viên có thể vi phạm nguyên tắc thu thập dữ liệu tối thiểu.
 
-**영어 참고:** *data minimization* — 목적에 필요한 최소한의 개인정보만 수집하는 원칙이다.
+**어휘 연결:** `개인정보 보호`가 넓은 목표라면, `데이터 최소수집`은 수집 단계에서 위험을 줄이는 구체적 원칙이다. — Nếu 'bảo vệ thông tin cá nhân' là mục tiêu rộng thì 'thu thập dữ liệu tối thiểu' là nguyên tắc cụ thể giúp giảm rủi ro ở giai đoạn thu thập.
+
+**영어 참고:** *data minimization* — Đây là nguyên tắc chỉ thu thập lượng thông tin cá nhân tối thiểu cần thiết cho mục đích này.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** công nghệ tăng cường quyền riêng tư.
 
-**뉘앙스와 사용법:** 개인정보를 보호하면서 통계·연구·AI 활용을 가능하게 하는 암호화와 분산 처리 방식을 포괄한다.
+**뉘앙스와 사용법:** Bao gồm các phương pháp mã hóa và xử lý phân tán cho phép sử dụng số liệu thống kê, nghiên cứu và AI trong khi bảo vệ thông tin cá nhân.
 
-**재사용 가능한 콜로케이션·청크:** `프라이버시 강화 기술 도입`, `프라이버시 강화 기술 연구`, `PET 기반 분석`.
+**재사용 가능한 콜로케이션·청크:** `프라이버시 강화 기술 도입`, `프라이버시 강화 기술 연구`, `PET 기반 분석`. — `Giới thiệu công nghệ nâng cao quyền riêng tư`, `Nghiên cứu công nghệ nâng cao quyền riêng tư`, `Phân tích dựa trên PET`.
 
-**자주 쓰는 문형과 성분:** `기관이 프라이버시 강화 기술을 적용하다`; 익명화·암호화·데이터 분석과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 프라이버시 강화 기술을 적용하다`, `Cơ quan áp dụng công nghệ nâng cao quyền riêng tư` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI·의료데이터·공공 연구의 전문 차용어다.
+**사회적 관계·주제별 register:** Từ mượn chuyên dụng cho AI, dữ liệu y tế và nghiên cứu công.
 
 **예문:** 프라이버시 강화 기술을 활용하면 병원들이 원자료를 공유하지 않고도 질병 통계를 비교할 수 있다.
 
-**어휘 연결:** `암호화`는 데이터를 보호하는 한 방법이고, `프라이버시 강화 기술`은 분석 가능성과 보호를 함께 설계하는 넓은 개념이다.
+**Dịch:** Công nghệ nâng cao quyền riêng tư cho phép bệnh viện so sánh số liệu thống kê về bệnh tật mà không cần chia sẻ dữ liệu thô.
 
-**영어 참고:** *privacy-enhancing technologies* — 데이터를 활용하면서 개인정보 노출을 줄이는 기술군이다.
+**어휘 연결:** `암호화`는 데이터를 보호하는 한 방법이고, `프라이버시 강화 기술`은 분석 가능성과 보호를 함께 설계하는 넓은 개념이다. — 'Mã hóa' là một cách để bảo vệ dữ liệu và 'công nghệ nâng cao quyền riêng tư' là một khái niệm rộng nhằm thiết kế cả khả năng phân tích và bảo vệ.
+
+**영어 참고:** *privacy-enhancing technologies* — Một nhóm công nghệ sử dụng dữ liệu đồng thời giảm thiểu việc tiếp xúc với thông tin cá nhân.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** khử nhận dạng.
 
-**뉘앙스와 사용법:** 완전히 익명이라는 뜻은 아니며 다른 정보와 결합했을 때 다시 식별될 위험까지 평가해야 한다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là nó hoàn toàn ẩn danh và phải đánh giá nguy cơ bị nhận dạng lại khi kết hợp với thông tin khác.
 
-**재사용 가능한 콜로케이션·청크:** `비식별화 조치`, `비식별화 데이터`, `재식별 위험`.
+**재사용 가능한 콜로케이션·청크:** `비식별화 조치`, `비식별화 데이터`, `재식별 위험`. — `Các biện pháp khử nhận dạng`, `Dữ liệu khử nhận dạng`, `Rủi ro tái nhận dạng`.
 
-**자주 쓰는 문형과 성분:** `기관이 자료를 비식별화하다`; 가명처리·재식별·연구와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 자료를 비식별화하다`, `Tổ chức hủy nhận dạng dữ liệu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 개인정보 보호·통계·의료 연구의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để bảo vệ thông tin cá nhân, thống kê và nghiên cứu y học.
 
 **예문:** 비식별화한 데이터라도 여러 출처와 결합하면 개인이 다시 드러날 수 있다.
 
-**어휘 연결:** `익명화`는 식별 가능성을 없애는 강한 표현이고, `비식별화`는 위험을 낮추는 처리 전반을 가리킨다.
+**Dịch:** Ngay cả dữ liệu đã được hủy nhận dạng cũng có thể tiết lộ lại các cá nhân khi được kết hợp với nhiều nguồn.
 
-**영어 참고:** *de-identification* — 개인 식별자를 제거하거나 변형하는 데이터 처리다.
+**어휘 연결:** `익명화`는 식별 가능성을 없애는 강한 표현이고, `비식별화`는 위험을 낮추는 처리 전반을 가리킨다. — 'Ẩn danh' là một biểu thức mạnh giúp loại bỏ khả năng nhận dạng và 'hủy nhận dạng' đề cập đến quá trình xử lý tổng thể giúp giảm rủi ro.
+
+**영어 참고:** *de-identification* — Xử lý dữ liệu loại bỏ hoặc sửa đổi thông tin nhận dạng cá nhân.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** thông tin giả danh.
 
-**뉘앙스와 사용법:** 연구·통계·공익 목적의 활용을 넓히면서도 원래 개인과 연결될 가능성을 전제로 보호 의무를 남긴다.
+**뉘앙스와 사용법:** Mở rộng việc sử dụng cho mục đích nghiên cứu, thống kê và lợi ích công cộng, trong khi vẫn duy trì nghĩa vụ bảo vệ dựa trên khả năng kết nối với cá nhân ban đầu.
 
-**재사용 가능한 콜로케이션·청크:** `가명정보 처리`, `가명정보 결합`, `가명정보 활용`.
+**재사용 가능한 콜로케이션·청크:** `가명정보 처리`, `가명정보 결합`, `가명정보 활용`. — `Xử lý thông tin bút danh`, `Kết hợp thông tin bút danh`, `Sử dụng thông tin bút danh`.
 
-**자주 쓰는 문형과 성분:** `기관이 가명정보를 결합하다`; 개인정보보호법·결합전문기관·연구와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 가명정보를 결합하다`, `Đại lý kết hợp thông tin bút danh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 개인정보 법제와 의료·금융 데이터 정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho luật thông tin cá nhân và chính sách dữ liệu tài chính và y tế.
 
 **예문:** 가명정보를 활용할 때도 결합키와 접근 권한을 엄격하게 관리해야 한다.
 
-**어휘 연결:** `비식별화`는 처리 행위이고, `가명정보`는 그 처리 뒤에도 보호 대상인 데이터의 법적 범주다.
+**Dịch:** Ngay cả khi sử dụng thông tin bút danh, tổ hợp phím và quyền truy cập phải được quản lý chặt chẽ.
 
-**영어 참고:** *pseudonymized data* — 별도 정보 없이는 개인을 직접 식별하기 어려운 데이터다.
+**어휘 연결:** `비식별화`는 처리 행위이고, `가명정보`는 그 처리 뒤에도 보호 대상인 데이터의 법적 범주다. — 'Khử nhận dạng' là hành động xử lý và 'thông tin ẩn danh' là danh mục dữ liệu hợp pháp được bảo vệ ngay cả sau khi xử lý.
+
+**영어 참고:** *pseudonymized data* — Đây là dữ liệu khó nhận dạng trực tiếp một cá nhân nếu không có thông tin bổ sung.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** đánh giá tác động đến thông tin cá nhân.
 
-**뉘앙스와 사용법:** 사고가 난 뒤 책임을 따지는 것이 아니라 설계 단계에서 위험과 완화책을 문서화한다.
+**뉘앙스와 사용법:** Ghi lại các rủi ro và biện pháp giảm thiểu ở giai đoạn thiết kế thay vì giao trách nhiệm sau khi xảy ra tai nạn.
 
-**재사용 가능한 콜로케이션·청크:** `개인정보 영향평가 실시`, `영향평가 보고서`, `영향평가 결과 공개`.
+**재사용 가능한 콜로케이션·청크:** `개인정보 영향평가 실시`, `영향평가 보고서`, `영향평가 결과 공개`. — 'Thực hiện đánh giá tác động thông tin cá nhân', 'Báo cáo đánh giá tác động', 'Tiết lộ kết quả đánh giá tác động'.
 
-**자주 쓰는 문형과 성분:** `기관이 개인정보 영향평가를 수행하다`; 공공 시스템·감시·위험 완화와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 개인정보 영향평가를 수행하다`, `Cơ quan thực hiện đánh giá tác động thông tin cá nhân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 행정·개인정보·공공 조달의 전문 행정어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ hành chính chuyên biệt dành cho quản trị, thông tin cá nhân và mua sắm công.
 
 **예문:** 얼굴인식 출입 시스템을 도입하기 전에 개인정보 영향평가부터 실시해야 한다.
 
-**어휘 연결:** `보안 점검`은 기술 취약점을 보고, `개인정보 영향평가`는 사람의 권리와 처리 목적까지 검토한다.
+**Dịch:** Trước khi giới thiệu hệ thống truy cập nhận dạng khuôn mặt, phải tiến hành đánh giá tác động thông tin cá nhân.
 
-**영어 참고:** *privacy impact assessment* — 개인정보 처리의 위험을 사전에 평가하는 절차다.
+**어휘 연결:** `보안 점검`은 기술 취약점을 보고, `개인정보 영향평가`는 사람의 권리와 처리 목적까지 검토한다. — 'Kiểm tra bảo mật' xem xét các lỗ hổng kỹ thuật và 'đánh giá tác động thông tin cá nhân' xem xét các quyền và mục đích xử lý của mọi người.
+
+**영어 참고:** *privacy impact assessment* — Đây là quy trình đánh giá trước rủi ro khi xử lý thông tin cá nhân.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** giới hạn mục đích sử dụng.
 
-**뉘앙스와 사용법:** 동의를 한 번 받았다는 이유로 광고·평가·감시 등 새로운 용도에 재사용하는 관행을 제한한다.
+**뉘앙스와 사용법:** Hạn chế hành vi sử dụng lại cho các mục đích mới như quảng cáo, đánh giá và giám sát chỉ vì đã có được sự đồng ý một lần.
 
-**재사용 가능한 콜로케이션·청크:** `목적 제한 원칙`, `목적 외 이용`, `수집 목적과 제한`.
+**재사용 가능한 콜로케이션·청크:** `목적 제한 원칙`, `목적 외 이용`, `수집 목적과 제한`. — `Nguyên tắc giới hạn mục đích`, `sử dụng cho các mục đích khác`, `mục đích và giới hạn thu thập`.
 
-**자주 쓰는 문형과 성분:** `사업자가 목적 제한을 준수하다`; 동의·제3자 제공·재사용과 결합한다.
+**자주 쓰는 문형과 성분:** `사업자가 목적 제한을 준수하다`, `Toán tử tuân thủ các hạn chế về mục đích` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 개인정보 법률·감사·컴플라이언스의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về luật, kiểm tra và tuân thủ thông tin cá nhân.
 
 **예문:** 배송을 위해 받은 주소를 별도 동의 없이 보험 영업에 쓰면 목적 제한 원칙을 위반할 수 있다.
 
-**어휘 연결:** `목적 외 이용`은 위반 사례를 가리키고, `목적 제한`은 이를 막는 규범과 설계 원칙이다.
+**Dịch:** Nếu địa chỉ nhận được để giao hàng được sử dụng để bán bảo hiểm mà không có sự đồng ý riêng thì nguyên tắc giới hạn mục đích có thể bị vi phạm.
 
-**영어 참고:** *purpose limitation* — 개인정보를 명시된 목적에 한정해 처리하는 원칙이다.
+**어휘 연결:** `목적 외 이용`은 위반 사례를 가리키고, `목적 제한`은 이를 막는 규범과 설계 원칙이다. — 'Sử dụng cho các mục đích khác' đề cập đến các trường hợp vi phạm và 'Giới hạn mục đích' là các quy tắc và nguyên tắc thiết kế ngăn chặn điều này.
+
+**영어 참고:** *purpose limitation* — Đây là nguyên tắc chỉ xử lý thông tin cá nhân cho các mục đích được chỉ định.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** quản lý dựa trên rủi ro.
 
-**뉘앙스와 사용법:** 모든 기술을 똑같이 금지하거나 허용하지 않고, 사람의 권리와 안전에 미치는 영향에 비례해 개입한다.
+**뉘앙스와 사용법:** Không cấm hoặc không cho phép tất cả các công nghệ như nhau mà can thiệp tương ứng với tác động của chúng đối với quyền và sự an toàn của mọi người.
 
-**재사용 가능한 콜로케이션·청크:** `위험기반 규제 체계`, `위험기반 규제 접근`, `고위험 분야`.
+**재사용 가능한 콜로케이션·청크:** `위험기반 규제 체계`, `위험기반 규제 접근`, `고위험 분야`. — `Hệ thống quản lý dựa trên rủi ro`, `Phương pháp quản lý dựa trên rủi ro`, `Khu vực có rủi ro cao`.
 
-**자주 쓰는 문형과 성분:** `법이 위험기반 규제를 채택하다`; AI·금융·의료와 결합한다.
+**자주 쓰는 문형과 성분:** `법이 위험기반 규제를 채택하다`, `Luật thông qua quy định dựa trên rủi ro` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** AI 법제·금융감독·제품안전의 고급 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách nâng cao dành cho luật AI, giám sát tài chính và an toàn sản phẩm.
 
 **예문:** 의료 진단 AI에는 일반 추천 서비스보다 강한 위험기반 규제가 적용돼야 한다.
 
-**어휘 연결:** `사전 규제`는 개입 시점을 강조하고, `위험기반 규제`는 위험 정도에 따른 차등을 강조한다.
+**Dịch:** AI chẩn đoán y tế phải tuân theo các quy định dựa trên rủi ro mạnh mẽ hơn các dịch vụ khuyến nghị chung.
 
-**영어 참고:** *risk-based regulation* — 예상 위험에 비례해 규제 강도를 정하는 접근이다.
+**어휘 연결:** `사전 규제`는 개입 시점을 강조하고, `위험기반 규제`는 위험 정도에 따른 차등을 강조한다. — 'Quy định trước' nhấn mạnh điểm can thiệp và 'quy định dựa trên rủi ro' nhấn mạnh sự khác biệt theo mức độ rủi ro.
+
+**영어 참고:** *risk-based regulation* — Đây là cách tiếp cận xác định mức độ điều chỉnh tương ứng với rủi ro dự kiến.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** Đạo luật Dịch vụ Kỹ thuật số.
 
-**뉘앙스와 사용법:** 특정 국가의 법 이름으로 쓰이기도 하며, 플랫폼이 위험을 평가하고 신고·이의제기 절차를 제공해야 한다는 흐름을 상징한다.
+**뉘앙스와 사용법:** Nó cũng được sử dụng làm tên luật ở một quốc gia cụ thể và tượng trưng cho xu hướng các nền tảng phải đánh giá rủi ro cũng như cung cấp các thủ tục báo cáo và kháng nghị.
 
-**재사용 가능한 콜로케이션·청크:** `유럽연합 디지털 서비스법`, `디지털 서비스법 의무`, `법 집행`.
+**재사용 가능한 콜로케이션·청크:** `유럽연합 디지털 서비스법`, `디지털 서비스법 의무`, `법 집행`. — `Đạo luật dịch vụ kỹ thuật số của Liên minh châu Âu`, `Nghĩa vụ của đạo luật dịch vụ kỹ thuật số`, `Thực thi pháp luật`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 디지털 서비스법을 준수하다`; 콘텐츠 조정·투명성·대형 플랫폼과 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 디지털 서비스법을 준수하다`, `Nền tảng tuân thủ Đạo luật dịch vụ kỹ thuật số` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제 통상·플랫폼 규제·법률 보도의 최신 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao mới nhất về thương mại quốc tế, quy định nền tảng và báo cáo pháp lý.
 
 **예문:** 디지털 서비스법은 대형 플랫폼에 추천 시스템과 위험 완화 조치를 설명하도록 요구한다.
 
-**어휘 연결:** `플랫폼 규제`는 넓은 정책 분야이고, `디지털 서비스법`은 온라인 서비스 책임을 구체화한 법적 틀이다.
+**Dịch:** Đạo luật dịch vụ kỹ thuật số yêu cầu các nền tảng lớn phải giải thích hệ thống khuyến nghị và các biện pháp giảm thiểu rủi ro của họ.
 
-**영어 참고:** *Digital Services Act* — 온라인 플랫폼의 안전·투명성·책임 의무를 정한 법제다.
+**어휘 연결:** `플랫폼 규제`는 넓은 정책 분야이고, `디지털 서비스법`은 온라인 서비스 책임을 구체화한 법적 틀이다. — 'Quy định về nền tảng' là một lĩnh vực chính sách rộng lớn và 'Đạo luật dịch vụ kỹ thuật số' là khung pháp lý quy định cụ thể các trách nhiệm dịch vụ trực tuyến.
+
+**영어 참고:** *Digital Services Act* — Đây là hệ thống pháp lý thiết lập các nghĩa vụ về an toàn, minh bạch và trách nhiệm đối với các nền tảng trực tuyến.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** điều phối/kiểm duyệt nội dung.
 
-**뉘앙스와 사용법:** 단순 검열과 달리 불법성, 이용약관, 자동화 오류, 표현의 자유, 이의제기를 함께 논의한다.
+**뉘앙스와 사용법:** Không giống như kiểm duyệt đơn giản, tính bất hợp pháp, điều khoản sử dụng, lỗi tự động hóa, quyền tự do ngôn luận và phản đối được thảo luận cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `콘텐츠 조정 정책`, `콘텐츠 조정 투명성`, `자동화된 콘텐츠 조정`.
+**재사용 가능한 콜로케이션·청크:** `콘텐츠 조정 정책`, `콘텐츠 조정 투명성`, `자동화된 콘텐츠 조정`. — `Chính sách kiểm duyệt nội dung`, `Tính minh bạch trong kiểm duyệt nội dung`, `Kiểm duyệt nội dung tự động`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 콘텐츠를 조정하다`; 신고·삭제·이의제기와 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 콘텐츠를 조정하다`, `Nền tảng kiểm duyệt nội dung` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 법제·플랫폼 운영·공론장 연구의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho nghiên cứu về luật truyền thông, hoạt động của nền tảng và phạm vi công cộng.
 
 **예문:** 콘텐츠 조정이 일관되지 않으면 이용자는 삭제 기준과 이의제기 절차를 신뢰하기 어렵다.
 
-**어휘 연결:** `검열`은 국가나 권력의 억압을 강조하고, `콘텐츠 조정`은 플랫폼 운영과 절차의 책임까지 포함한다.
+**Dịch:** Nếu việc kiểm duyệt nội dung không nhất quán thì người dùng khó có thể tin tưởng vào các tiêu chuẩn xóa và thủ tục khiếu nại.
 
-**영어 참고:** *content moderation* — 온라인 게시물과 계정에 규칙을 적용하는 운영 과정이다.
+**어휘 연결:** `검열`은 국가나 권력의 억압을 강조하고, `콘텐츠 조정`은 플랫폼 운영과 절차의 책임까지 포함한다. — 'Kiểm duyệt' nhấn mạnh sự áp bức của nhà nước hoặc quyền lực và 'kiểm duyệt nội dung' bao gồm trách nhiệm đối với các thủ tục và hoạt động của nền tảng.
+
+**영어 참고:** *content moderation* — Đây là quy trình hoạt động áp dụng các quy tắc cho các bài đăng và tài khoản trực tuyến.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** bong bóng bộ lọc.
 
-**뉘앙스와 사용법:** 알고리즘이 의도적으로 가두는지, 사용자의 선택과 사회적 분극이 어떻게 결합하는지 논쟁적으로 분석한다.
+**뉘앙스와 사용법:** Phân tích gây tranh cãi liệu thuật toán có bị mắc kẹt có chủ ý hay không và cách kết hợp sự lựa chọn của người dùng và sự phân cực xã hội.
 
-**재사용 가능한 콜로케이션·청크:** `필터버블 현상`, `필터버블을 깨다`, `추천 알고리즘과 필터버블`.
+**재사용 가능한 콜로케이션·청크:** `필터버블 현상`, `필터버블을 깨다`, `추천 알고리즘과 필터버블`. — `Hiện tượng bong bóng bộ lọc`, `Phá vỡ bong bóng bộ lọc`, `Thuật toán đề xuất và bong bóng bộ lọc`.
 
-**자주 쓰는 문형과 성분:** `이용자가 필터버블에 갇히다`; 확증편향·추천·정치 콘텐츠와 결합한다.
+**자주 쓰는 문형과 성분:** `이용자가 필터버블에 갇히다`, `Người dùng bị mắc kẹt trong bong bóng bộ lọc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 비평·플랫폼 연구·선거 보도의 고급 차용어다.
+**사회적 관계·주제별 register:** Từ mượn nâng cao dành cho phê bình truyền thông, nghiên cứu nền tảng và báo cáo bầu cử.
 
 **예문:** 서로 다른 출처를 비교하지 않으면 이용자는 필터버블 안에서 같은 주장만 반복해서 접할 수 있다.
 
-**어휘 연결:** `확증편향`은 사람의 심리 경향이고, `필터버블`은 그 경향을 강화할 수 있는 정보 환경이다.
+**Dịch:** Nếu không so sánh các nguồn khác nhau, người dùng có thể gặp đi gặp lại các xác nhận quyền sở hữu giống nhau trong bong bóng bộ lọc.
 
-**영어 참고:** *filter bubble* — 개인화된 정보 환경에서 다른 관점이 보이지 않게 되는 현상이다.
+**어휘 연결:** `확증편향`은 사람의 심리 경향이고, `필터버블`은 그 경향을 강화할 수 있는 정보 환경이다. — 'Thành kiến ​​xác nhận' là xu hướng tâm lý của con người và 'bong bóng bộ lọc' là môi trường thông tin có thể củng cố xu hướng đó.
+
+**영어 참고:** *filter bubble* — Đây là hiện tượng trong đó các góc nhìn khác trở nên vô hình trong môi trường thông tin được cá nhân hóa.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** chủ nghĩa tư bản giám sát.
 
-**뉘앙스와 사용법:** 무료 서비스의 편리함 뒤에서 데이터 수집과 행동 조작이 어떻게 수익 모델이 되는지 비판적으로 설명한다.
+**뉘앙스와 사용법:** Giải thích một cách nghiêm túc cách thu thập dữ liệu và thao túng hành vi trở thành mô hình lợi nhuận đằng sau sự tiện lợi của các dịch vụ miễn phí.
 
-**재사용 가능한 콜로케이션·청크:** `감시자본주의 비판`, `감시자본주의 구조`, `행동 데이터의 상품화`.
+**재사용 가능한 콜로케이션·청크:** `감시자본주의 비판`, `감시자본주의 구조`, `행동 데이터의 상품화`. — `Phê phán chủ nghĩa tư bản giám sát`, `Cấu trúc chủ nghĩa tư bản giám sát`, `Hàng hóa dữ liệu hành vi`.
 
-**자주 쓰는 문형과 성분:** `플랫폼이 감시자본주의를 강화하다`; 맞춤형 광고·추적·데이터 상품과 결합한다.
+**자주 쓰는 문형과 성분:** `플랫폼이 감시자본주의를 강화하다`, `Nền tảng tăng cường chủ nghĩa tư bản giám sát` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 디지털 경제·사회학·플랫폼 비평의 추상 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ cấp cao trừu tượng dành cho nền kinh tế kỹ thuật số, xã hội học và phê bình nền tảng.
 
 **예문:** 감시자본주의에 대한 비판은 개인의 동의가 실제로 선택 가능한 것이었는지 묻는다.
 
-**어휘 연결:** `맞춤형 광고`는 서비스 기능이고, `감시자본주의`는 행동 데이터가 축적·예측·수익화되는 경제 구조다.
+**Dịch:** Sự chỉ trích chủ nghĩa tư bản giám sát đặt câu hỏi liệu sự đồng ý của cá nhân có thực sự là một lựa chọn hay không.
 
-**영어 참고:** *surveillance capitalism* — 인간의 행동 데이터를 추출해 예측과 수익으로 바꾸는 경제 체제다.
+**어휘 연결:** `맞춤형 광고`는 서비스 기능이고, `감시자본주의`는 행동 데이터가 축적·예측·수익화되는 경제 구조다. — 'Quảng cáo được tùy chỉnh' là một chức năng dịch vụ và 'chủ nghĩa tư bản giám sát' là một cấu trúc kinh tế trong đó dữ liệu hành vi được tích lũy, dự đoán và kiếm tiền.
+
+**영어 참고:** *surveillance capitalism* — Một hệ thống kinh tế trích xuất dữ liệu hành vi của con người và biến nó thành dự đoán và lợi nhuận.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** tính minh bạch của nền tảng.
 
-**뉘앙스와 사용법:** 영업비밀 공개를 무조건 뜻하지 않으며, 이해 가능한 정보와 독립적 검증, 피해 구제 가능성을 함께 요구한다.
+**뉘앙스와 사용법:** Điều này không nhất thiết có nghĩa là tiết lộ bí mật thương mại nhưng yêu cầu thông tin dễ hiểu, xác minh độc lập và khả năng giảm nhẹ thiệt hại.
 
-**재사용 가능한 콜로케이션·청크:** `플랫폼 투명성 보고서`, `플랫폼 투명성 강화`, `알고리즘 투명성`.
+**재사용 가능한 콜로케이션·청크:** `플랫폼 투명성 보고서`, `플랫폼 투명성 강화`, `알고리즘 투명성`. — `Báo cáo về tính minh bạch của nền tảng`, `Tăng cường tính minh bạch của nền tảng`, `Tính minh bạch của thuật toán`.
 
-**자주 쓰는 문형과 성분:** `기업이 플랫폼 투명성을 높이다`; 추천·광고·감사·공시와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 플랫폼 투명성을 높이다`, `Các công ty tăng cường tính minh bạch của nền tảng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공정거래·미디어·플랫폼 책임의 정책어다.
+**사회적 관계·주제별 register:** Thuật ngữ chính sách về thương mại công bằng, trách nhiệm truyền thông và nền tảng.
 
 **예문:** 플랫폼 투명성을 높이려면 삭제된 콘텐츠의 유형과 이의제기 결과를 정기적으로 공개해야 한다.
 
-**어휘 연결:** `정보 공개`는 자료를 내놓는 행위이고, `플랫폼 투명성`은 이용자가 의사결정 구조를 이해하고 다툴 수 있는 조건이다.
+**Dịch:** Để tăng tính minh bạch của nền tảng, loại nội dung bị xóa và kết quả khiếu nại phải được tiết lộ thường xuyên.
 
-**영어 참고:** *platform transparency* — 플랫폼의 규칙·결정·영향을 설명하고 검증 가능하게 하는 원칙이다.
+**어휘 연결:** `정보 공개`는 자료를 내놓는 행위이고, `플랫폼 투명성`은 이용자가 의사결정 구조를 이해하고 다툴 수 있는 조건이다. — ‘Tiết lộ thông tin’ là hành động phát hành dữ liệu và ‘tính minh bạch của nền tảng’ là điều kiện để người dùng hiểu và tranh chấp cấu trúc ra quyết định.
+
+**영어 참고:** *platform transparency* — Đây là nguyên tắc giải thích và xác minh các quy tắc, quyết định và tác động của nền tảng.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** kết hợp dữ liệu.
 
-**뉘앙스와 사용법:** 연구와 공공정책의 정확도를 높일 수 있지만, 결합 뒤 재식별과 책임 분산 위험도 커진다.
+**뉘앙스와 사용법:** Nó có thể tăng tính chính xác của nghiên cứu và chính sách công, nhưng cũng làm tăng nguy cơ tái xác định và phân bổ trách nhiệm sau khi kết hợp.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 결합 전문기관`, `가명정보 데이터 결합`, `결합 절차`.
+**재사용 가능한 콜로케이션·청크:** `데이터 결합 전문기관`, `가명정보 데이터 결합`, `결합 절차`. — 'Cơ quan kết hợp dữ liệu', 'Kết hợp dữ liệu thông tin ẩn danh', 'Quy trình kết hợp'.
 
-**자주 쓰는 문형과 성분:** `기관이 데이터를 결합하다`; 가명정보·의료·금융과 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 데이터를 결합하다`, `Institution combines data` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공공데이터·보건 연구·개인정보 법제의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho dữ liệu công cộng, nghiên cứu sức khỏe và luật về thông tin cá nhân.
 
 **예문:** 데이터 결합은 복지 사각지대를 찾는 데 도움이 되지만 누가 결과를 책임지는지 명확해야 한다.
 
-**어휘 연결:** `데이터 공유`는 자료를 주고받는 행위이고, `데이터 결합`은 여러 자료를 연결해 분석하는 구체적 처리다.
+**Dịch:** Việc kết hợp dữ liệu có thể giúp tìm ra các điểm mù về phúc lợi nhưng phải nêu rõ ai chịu trách nhiệm về kết quả.
 
-**영어 참고:** *data linkage/integration* — 서로 다른 데이터셋을 연결해 함께 분석하는 처리다.
+**어휘 연결:** `데이터 공유`는 자료를 주고받는 행위이고, `데이터 결합`은 여러 자료를 연결해 분석하는 구체적 처리다. — 'Chia sẻ dữ liệu' là hành động trao đổi dữ liệu và 'kết hợp dữ liệu' là một quy trình cụ thể kết nối và phân tích nhiều dữ liệu.
+
+**영어 참고:** *data linkage/integration* — Đây là quá trình kết nối các tập hợp dữ liệu khác nhau và phân tích chúng cùng nhau.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** được thuật toán đẩy lên, được đề xuất mạnh.
 
-**뉘앙스와 사용법:** 공식적인 노출 통계보다 운 좋게 추천을 탄 느낌과 플랫폼 의존성을 함께 드러내며, 현재 메신저·커뮤니티에서 활발하다.
+**뉘앙스와 사용법:** Thay vì số liệu thống kê về mức độ hiển thị chính thức, nó cho thấy cả cảm giác may mắn khi được đề xuất và sự phụ thuộc vào nền tảng, đồng thời hiện đang hoạt động trong các ứng dụng nhắn tin và cộng đồng.
 
-**재사용 가능한 콜로케이션·청크:** `이번 영상 알고리즘 탔다`, `알고리즘을 타고 퍼지다`, `알고리즘 탄 게시물`.
+**재사용 가능한 콜로케이션·청크:** `이번 영상 알고리즘 탔다`, `알고리즘을 타고 퍼지다`, `알고리즘 탄 게시물`. — ‘Video này đã đi qua thuật toán’, ‘Nó lan truyền qua thuật toán’, ‘Bài đăng đã đi qua thuật toán’.
 
-**자주 쓰는 문형과 성분:** `이 글이 알고리즘 탔다`; 조회수·추천·바이럴과 결합한다.
+**자주 쓰는 문형과 성분:** `이 글이 알고리즘 탔다`, `Bài viết này đã chạy thuật toán` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 크리에이터·커뮤니티·메신저의 비격식 표현이며 공식 보고서에는 쓰지 않는다.
+**사회적 관계·주제별 register:** Biểu thức không chính thức dành cho người sáng tạo/cộng đồng/người đưa tin và không được sử dụng trong các báo cáo chính thức.
 
 **예문:** 어제 올린 짧은 영상이 알고리즘 타서 평소보다 조회 수가 열 배나 나왔어.
 
-**어휘 연결:** `바이럴되다`는 확산 결과를 말하고, `알고리즘 탔다`는 추천 시스템이 노출을 밀어준 원인을 강조한다.
+**Dịch:** Video ngắn tôi đăng hôm qua nhận được lượt xem gấp 10 lần bình thường nhờ thuật toán.
 
-**영어 참고:** *the algorithm picked it up* — 추천 알고리즘이 콘텐츠를 널리 노출했다는 말이다.
+**어휘 연결:** `바이럴되다`는 확산 결과를 말하고, `알고리즘 탔다`는 추천 시스템이 노출을 밀어준 원인을 강조한다. — 'Có tính lan truyền' đề cập đến kết quả của sự lây lan và 'Có được thuật toán' nhấn mạnh lý do tại sao hệ thống đề xuất lại tăng cường khả năng hiển thị.
+
+**영어 참고:** *the algorithm picked it up* — Điều này có nghĩa là thuật toán đề xuất đã hiển thị rộng rãi nội dung.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** đội quân bình luận định hướng dư luận.
 
-**뉘앙스와 사용법:** 공식 조직을 가리킬 때도 있지만, 근거 없이 상대를 공격하는 낙인으로 남용될 수 있어 사실 확인과 함께 써야 한다.
+**뉘앙스와 사용법:** Đôi khi nó đề cập đến một tổ chức chính thức, nhưng nó có thể bị lạm dụng như một sự kỳ thị để tấn công người khác mà không có cơ sở, vì vậy nó phải được sử dụng cùng với việc kiểm tra thực tế.
 
-**재사용 가능한 콜로케이션·청크:** `댓글부대 의혹`, `댓글부대 동원`, `댓글부대식 여론전`.
+**재사용 가능한 콜로케이션·청크:** `댓글부대 의혹`, `댓글부대 동원`, `댓글부대식 여론전`. — ‘Nghi ngờ đơn vị bình luận’, ‘Huy động đơn vị bình luận’, ‘Chiến tranh dư luận theo phong cách đơn vị bình luận’.
 
-**자주 쓰는 문형과 성분:** `계정들이 댓글부대처럼 움직이다`; 여론조작·선거·커뮤니티와 결합한다.
+**자주 쓰는 문형과 성분:** `계정들이 댓글부대처럼 움직이다`, `Tài khoản di chuyển như một đơn vị nhận xét` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 시사 기사·온라인 커뮤니티·정치 대화에서 현재적으로 쓰이는 평가 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt mang tính đánh giá hiện được sử dụng trong các bài viết về thời sự, cộng đồng trực tuyến và các cuộc trò chuyện chính trị.
 
 **예문:** 특정 게시물에 비슷한 문장이 동시에 달렸지만, 그것만으로 댓글부대라고 단정해서는 안 된다.
 
-**어휘 연결:** `여론조작`은 분석·법률어이고, `댓글부대`는 온라인에서 움직이는 행위자 집단을 생생하게 지칭한다.
+**Dịch:** Các câu tương tự đã được đăng cùng lúc trên một bài đăng cụ thể, nhưng bạn không nên kết luận rằng đó là một nhóm bình luận chỉ dựa vào đó.
 
-**영어 참고:** *coordinated comment brigade* — 온라인 여론을 조직적으로 움직이는 계정을 가리키는 표현이다.
+**어휘 연결:** `여론조작`은 분석·법률어이고, `댓글부대`는 온라인에서 움직이는 행위자 집단을 생생하게 지칭한다. — 'thao túng dư luận' là một thuật ngữ phân tích và pháp lý, đồng thời 'đơn vị bình luận' đề cập một cách sinh động đến một nhóm tác nhân di chuyển trực tuyến.
+
+**영어 참고:** *coordinated comment brigade* — Đây là biểu thức đề cập đến một tài khoản gây xôn xao dư luận trực tuyến một cách có hệ thống.
 
 <!-- passage_word_count: 104 Korean eojeol; target_set: 데이터 최소수집, 프라이버시 강화 기술, 비식별화, 가명정보, 개인정보 영향평가, 목적 제한, 위험기반 규제, 디지털 서비스법, 콘텐츠 조정, 필터버블, 감시자본주의, 플랫폼 투명성, 데이터 결합, 알고리즘 탔다, 댓글부대 -->
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** mẹo, bí quyết, phương pháp; đôi khi là mưu mẹo hời hợt.
 
-**뉘앙스와 사용법:** `운동 요령`, `일하는 요령`은 긍정적인 노하우지만 `잔꾀`, `얕은 요령`은 성실하지 않다는 비판이다. 문맥에 따라 칭찬과 비난이 갈린다.
+**뉘앙스와 사용법:** `운동 요령`, `일하는 요령`은 긍정적인 kinh nghiệm, mẹo nhưng `잔꾀`, `얕은 요령`은 bị chỉ trích là thiếu thành thật. Ý nghĩa có thể được khen hoặc bị chỉ trích tùy thuộc vào ngữ cảnh.
 
-**재사용 가능한 콜로케이션·청크:** `요령을 터득하다`, `요령이 생기다`, `일하는 요령`, `요령과 잔꾀`.
+**재사용 가능한 콜로케이션·청크:** `요령을 터득하다`, `요령이 생기다`, `일하는 요령`, `요령과 잔꾀` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N의 요령을 익히다/터득하다`; `요령이 없다`; 운동·업무·기술이 앞에 자주 온다.
+**자주 쓰는 문형과 성분:** `N의 요령을 익히다/터득하다`, `요령이 없다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·직장·스포츠에서는 실용적이고 중립적이다. 규칙을 피하는 의미에서는 비판적이며 공식 문서에는 `절차`, `방법`이 더 적합하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 신입 직원에게 보고서를 간결하게 쓰는 요령을 알려 주었다.
 
-**어휘 연결:** `방법`은 가장 중립적인 기본어, `노하우`는 경험에서 나온 실전 지식, `요령`은 빠르고 효율적인 핵심 방법을 강조한다. 부정적 의미에서는 `잔꾀`, `꼼수`와 가까우며 반대축은 `정석대로 하다`다.
+**Dịch:** Anh ấy đã chỉ cho nhân viên mới cách viết báo cáo ngắn gọn.
 
-**영어 참고:** *technique*, *know-how*, *trick* — *technique*는 기술적 방법, *know-how*는 경험 기반 지식, *trick*은 유용한 요령 또는 속임수라는 양면성이 있다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `요령`.
+
+**영어 참고:** *technique*, *know-how*, *trick* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -37,19 +39,21 @@
 
 **베트남어 뜻:** sai khiến, bóc lột sức lao động, bắt làm quá sức.
 
-**뉘앙스와 사용법:** 단순히 일을 부탁하는 것이 아니라 상대의 호의·지위·약점을 이용해 계속 일을 시킨다는 불만이 담긴다. `막 부려먹다`는 강한 비난이다.
+**뉘앙스와 사용법:** Không chỉ đơn thuần là nhờ vả, mà còn là lợi dụng sự tốt bụng, địa vị, điểm yếu của đối phương để tiếp tục sai khiến. `막 부려먹다` là một lời chỉ trích mạnh mẽ.
 
-**재사용 가능한 콜로케이션·청크:** `사람을 부려먹다`, `막 부려먹다`, `아랫사람을 부려먹다`.
+**재사용 가능한 콜로케이션·청크:** `사람을 부려먹다`, `막 부려먹다`, `아랫사람을 부려먹다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 부려먹다`; 상사·가족·친구가 사람을 목적어로 삼는다.
+**자주 쓰는 문형과 성분:** `N을/를 부려먹다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 강한 구어체이자 불평·비난 표현이다. 직장 내 공식 문제 제기에서는 `과도한 업무를 부과하다`, `노동력을 착취하다`가 더 적절하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 후배가 착하다는 이유로 계속 부려먹으면 결국 관계가 망가진다.
 
-**어휘 연결:** `시키다`는 중립적인 지시, `이용하다`는 넓은 활용, `부려먹다`는 사람을 도구처럼 쓴다는 부정적 평가다. 반대축은 `배려하다`, `공정하게 분담하다`다.
+**Dịch:** Nếu cứ lợi dụng việc em út tốt bụng mà sai khiến, cuối cùng mối quan hệ sẽ tan vỡ.
 
-**영어 참고:** *exploit*, *make someone do all the work*, *use someone* — *exploit*은 착취의 강한 공식어, *make someone do all the work*는 구어적 상황 설명, *use someone*은 이용한다는 넓은 표현이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `부려먹다`.
+
+**영어 참고:** *exploit*, *make someone do all the work*, *use someone* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -61,19 +65,21 @@
 
 **베트남어 뜻:** hẹp hòi, keo kiệt, tính toán vụn vặt.
 
-**뉘앙스와 사용법:** 돈뿐 아니라 사과, 인정, 양보, 감정 표현에도 쓴다. 친한 사이에서 농담처럼 쓸 수 있지만 사람을 직접 평가하면 모욕적이다.
+**뉘앙스와 사용법:** Không chỉ dùng cho tiền bạc, mà còn dùng cho lời xin lỗi, sự thừa nhận, sự nhượng bộ, sự thể hiện cảm xúc. Có thể dùng một cách đùa cợt giữa những người bạn thân, nhưng nếu dùng để đánh giá người khác thì là xúc phạm.
 
-**재사용 가능한 콜로케이션·청크:** `쪼잔한 사람`, `쪼잔하게 굴다`, `그렇게 쪼잔할 필요는 없다`.
+**재사용 가능한 콜로케이션·청크:** `쪼잔한 사람`, `쪼잔하게 굴다`, `그렇게 쪼잔할 필요는 없다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 쪼잔하다`; `쪼잔하게 + V`; 돈·태도·보상·양보가 context를 결정한다.
+**자주 쓰는 문형과 성분:** `N이/가 쪼잔하다`, `쪼잔하게 + V` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 속된 구어체다. 직장 평가나 공식 피드백에서는 `지나치게 계산적이다`, `협소하다`가 안전하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 커피 한 잔 값을 두고 그렇게 쪼잔하게 굴 필요는 없어.
 
-**어휘 연결:** `인색하다`는 돈·나눔을 아끼는 성향, `쪼잔하다`는 사소한 것까지 계산하는 좁은 태도, `소심하다`는 겁이 많고 자신감이 부족한 성격이다. 반대축은 `통이 크다`, `너그럽다`다.
+**Dịch:** Không cần phải keo kiệt đến mức tranh cãi về giá một cốc cà phê.
 
-**영어 참고:** *petty*, *stingy*, *small-minded* — *petty*는 사소한 일에 집착, *stingy*는 돈을 아낌, *small-minded*는 생각과 태도가 좁음을 비판한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `쪼잔하다`.
+
+**영어 참고:** *petty*, *stingy*, *small-minded* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -85,19 +91,21 @@
 
 **베트남어 뜻:** sự chăm nom, chăm sóc, bảo quản.
 
-**뉘앙스와 사용법:** `제 한 몸 건사`처럼 자기 생활을 꾸리는 뜻과, 가족·유품을 챙기는 뜻이 있다. 단순한 관리보다 책임감과 정성이 느껴진다.
+**뉘앙스와 사용법:** Có nghĩa là tự lo liệu cuộc sống của bản thân, cũng như chăm sóc gia đình, đồ đạc. Nó thể hiện trách nhiệm và sự tận tâm hơn là chỉ đơn thuần quản lý.
 
-**재사용 가능한 콜로케이션·청크:** `제 한 몸 건사하다`, `가족을 건사하다`, `가보를 건사하다`.
+**재사용 가능한 콜로케이션·청크:** `제 한 몸 건사하다`, `가족을 건사하다`, `가보를 건사하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 건사하다`; 사람·몸·가족·물건이 목적어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 건사하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 생활·가족·노년·돌봄 주제의 문어적이고 정감 있는 표현. 행정 문서에서는 `돌보다`, `관리하다`가 더 명확하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 이제는 남을 돌보기 전에 제 한 몸부터 건사할 필요가 있다.
 
-**어휘 연결:** `돌보다`는 넓고 중립적인 기본어, `보살피다`는 정서적 배려, `건사하다`는 책임지고 생활을 꾸려 간다는 느낌이다. 반대축은 `방치하다`, `내버려두다`다.
+**Dịch:** Bây giờ trước tiên phải tự lo cho bản thân trước khi lo cho người khác.
 
-**영어 참고:** *take care of*, *look after*, *tend to* — *take care of*는 일반적 돌봄, *look after*는 사람·물건을 지킴, *tend to*는 지속적으로 관리함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `건사`.
+
+**영어 참고:** *take care of*, *look after*, *tend to* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -109,19 +117,21 @@
 
 **베트남어 뜻:** xử lý, đề cập; buôn bán; sử dụng thành thạo.
 
-**뉘앙스와 사용법:** 목적어에 따라 의미가 크게 달라진다. `사건을 다루다`는 처리·취급, `약재를 다루다`는 판매, `기계를 다루다`는 사용 능력이다.
+**뉘앙스와 사용법:** Ý nghĩa thay đổi rất lớn tùy thuộc vào đối tượng. `사건을 다루다` có nghĩa là xử lý, `약재를 다루다` có nghĩa là bán, `기계를 다루다` có nghĩa là khả năng sử dụng.
 
-**재사용 가능한 콜로케이션·청크:** `사건을 다루다`, `상품을 다루다`, `기계를 능숙하게 다루다`.
+**재사용 가능한 콜로케이션·청크:** `사건을 다루다`, `상품을 다루다`, `기계를 능숙하게 다루다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 다루다`; 사건·문제·상품·악기·기계가 목적어로 오며 의미를 결정한다.
+**자주 쓰는 문형과 성분:** `N을/를 다루다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·법률·업무에서는 “취급/처리”, 상업에서는 “판매”, 일상에서는 “사용하다” 의미로 폭넓다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 이 프로그램은 개인정보를 다루기 때문에 접근 권한을 제한해야 한다.
 
-**어휘 연결:** `처리하다`는 문제·업무 해결, `취급하다`는 물건·정보를 다룸, `다루다`는 이 둘과 능숙한 사용까지 포함하는 넓은 기본어다. 반대축은 context에 따라 `방치하다`, `서투르게 사용하다`다.
+**Dịch:** Chương trình này xử lý thông tin cá nhân, vì vậy cần hạn chế quyền truy cập.
 
-**영어 참고:** *handle*, *deal with*, *carry* — *handle*은 처리·사용 능력, *deal with*는 문제를 다룸, *carry*는 상품을 취급·판매함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `다루다`.
+
+**영어 참고:** *handle*, *deal with*, *carry* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -133,19 +143,21 @@
 
 **베트남어 뜻:** tìm tòi, tìm hướng giải quyết.
 
-**뉘앙스와 사용법:** 이미 답을 안다는 뜻이 아니라 여러 가능성을 검토하며 돌파구를 찾는 과정이다. `찾다`보다 공식적이고 전략적이다.
+**뉘앙스와 사용법:** Không có nghĩa là đã biết câu trả lời, mà là quá trình xem xét nhiều khả năng và tìm kiếm lối thoát. Trang trọng và mang tính chiến lược hơn so với `찾다`.
 
-**재사용 가능한 콜로케이션·청크:** `해결책을 모색하다`, `돌파구를 모색하다`, `새로운 방안을 모색하다`.
+**재사용 가능한 콜로케이션·청크:** `해결책을 모색하다`, `돌파구를 모색하다`, `새로운 방안을 모색하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 모색하다`; 해결책·방안·활로·대책·방향이 목적어로 온다.
+**자주 쓰는 문형과 성분:** `N을/를 모색하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책·비즈니스·연구·기사의 격식어. 친구 사이에서는 `방법을 찾아보다`가 더 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 회사는 인력 부족을 해결할 새로운 방안을 모색하고 있다.
 
-**어휘 연결:** `찾다`는 기본어, `탐색하다`는 정보를 넓게 조사함, `모색하다`는 해결 방향을 전략적으로 궁리함이다. 반대축은 `포기하다`, `방치하다`다.
+**Dịch:** Công ty đang tìm kiếm các giải pháp mới để giải quyết tình trạng thiếu hụt nhân lực.
 
-**영어 참고:** *seek*, *explore*, *devise* — *seek*은 찾으려 함, *explore*는 가능성을 검토함, *devise*는 해결책을 고안해 냄에 가깝다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `모색하다`.
+
+**영어 참고:** *seek*, *explore*, *devise* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -157,19 +169,21 @@
 
 **베트남어 뜻:** tỉ mỉ, kỹ lưỡng, chặt chẽ.
 
-**뉘앙스와 사용법:** 계획·준비에는 빈틈없는 정교함, 무늬·구조에는 촘촘함을 뜻한다. 사람의 계산을 말하면 긍정과 부정이 모두 가능하다.
+**뉘앙스와 사용법:** Áp dụng cho sự tỉ mỉ, tinh xảo trong kế hoạch, chuẩn bị, và sự chặt chẽ trong hoa văn, cấu trúc. Nếu nói về tính toán của con người, có thể vừa tích cực vừa tiêu cực.
 
-**재사용 가능한 콜로케이션·청크:** `치밀한 계획`, `치밀하게 준비하다`, `치밀한 계산`.
+**재사용 가능한 콜로케이션·청크:** `치밀한 계획`, `치밀하게 준비하다`, `치밀한 계산` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `치밀한 N`; 계획·전략·조사·범행·계산과 결합한다.
+**자주 쓰는 문형과 성분:** `치밀한 N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 업무·수사·전략·문학 비평의 중립적·격식어. `치밀한 범행`처럼 범죄에도 쓴다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그는 자료를 치밀하게 분석한 뒤 실행 계획을 세웠다.
 
-**어휘 연결:** `꼼꼼하다`는 일상적이고 세부 확인, `치밀하다`는 구조적 빈틈 없음, `정교하다`는 기술·구성이 섬세하고 뛰어남을 강조한다. 반대축은 `허술하다`, `엉성하다`다.
+**Dịch:** Anh ấy đã phân tích dữ liệu một cách tỉ mỉ trước khi lập kế hoạch thực hiện.
 
-**영어 참고:** *meticulous*, *thorough*, *elaborate* — *meticulous*는 세부까지 꼼꼼함, *thorough*는 빠짐없이 조사함, *elaborate*는 복잡하고 공들인 구성을 뜻한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `치밀하다`.
+
+**영어 참고:** *meticulous*, *thorough*, *elaborate* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -181,19 +195,21 @@
 
 **베트남어 뜻:** tinh xảo, tinh vi, công phu.
 
-**뉘앙스와 사용법:** `치밀하다`가 빈틈없는 계획에, `정교하다`는 결과물의 섬세한 기술·구조와 미적 완성도에 더 잘 맞는다.
+**뉘앙스와 사용법:** `치밀하다` phù hợp hơn với kế hoạch tỉ mỉ, còn `정교하다` phù hợp hơn với kỹ thuật, cấu trúc và sự hoàn thiện về mặt thẩm mỹ của sản phẩm.
 
-**재사용 가능한 콜로케이션·청크:** `정교한 기법`, `정교한 장치`, `정교하게 설계하다`, `정교한 짜임새`.
+**재사용 가능한 콜로케이션·청크:** `정교한 기법`, `정교한 장치`, `정교하게 설계하다`, `정교한 짜임새` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정교한 N`; 기술·장치·작품·논리·구성이 수식 대상이다.
+**자주 쓰는 문형과 성분:** `정교한 N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공학·디자인·예술·논문·제품 리뷰의 격식어. 사람의 행동에는 `교묘하다`가 더 자연스러울 수 있다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 작은 부품 하나까지 정교하게 설계된 제품이다.
 
-**어휘 연결:** `정밀하다`는 오차가 적은 정확성, `정교하다`는 정확성과 섬세한 구성, `교묘하다`는 영리하지만 때로는 속임수의 뉘앙스다. 반대축은 `거칠다`, `조잡하다`다.
+**Dịch:** Đây là một sản phẩm được thiết kế tỉ mỉ, ngay cả những chi tiết nhỏ nhất.
 
-**영어 참고:** *precise*, *sophisticated*, *intricate* — *precise*는 정확성, *sophisticated*는 고도화된 기술, *intricate*는 복잡하고 세밀한 구조를 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `정교하다`.
+
+**영어 참고:** *precise*, *sophisticated*, *intricate* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 

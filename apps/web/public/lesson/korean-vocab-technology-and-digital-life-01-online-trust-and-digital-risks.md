@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** thuật toán.
 
-**뉘앙스와 사용법:** 일상에서는 검색·추천·노출 순서를 결정하는 시스템을 가리키며, 결과에 영향을 주는 기준까지 함께 논의한다.
+**뉘앙스와 사용법:** Trong mục này, `알고리즘` không chỉ mang nghĩa “thuật toán.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `추천 알고리즘`, `알고리즘 편향`, `알고리즘을 설계하다`, `알고리즘에 의해 결정되다`.
+**재사용 가능한 콜로케이션·청크:** `추천 알고리즘`, `알고리즘 편향`, `알고리즘을 설계하다`, `알고리즘에 의해 결정되다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `알고리즘이 N을/를 + 분류하다/추천하다`; 데이터·플랫폼·결정과 결합한다.
+**자주 쓰는 문형과 성분:** `알고리즘이 N을/를 + 분류하다/추천하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기술·정책·미디어 비평에서 쓰는 전문어이며, 비전문가에게는 작동 원리를 풀어 설명해야 한다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 같은 관심사를 오래 클릭하면 알고리즘이 비슷한 영상만 계속 추천할 수 있다.
 
-**어휘 연결:** `알고리즘`은 처리 규칙, `모델`은 학습된 예측 구조, `기준`은 사람이 정한 판단의 근거를 말한다.
+**Dịch:** Nếu nhấp vào cùng một mối quan tâm trong thời gian dài, thuật toán có thể tiếp tục đề xuất chỉ những video tương tự.
 
-**영어 참고:** *algorithm*, *recommendation system*, *ranking logic* — *algorithm*은 규칙과 계산 절차, *recommendation system*은 사용자에게 콘텐츠를 고르는 시스템이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `알고리즘`.
+
+**영어 참고:** *algorithm*, *recommendation system*, *ranking logic* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** mã hóa.
 
-**뉘앙스와 사용법:** 보안 설명에서 `전송 구간 암호화`, `종단 간 암호화`처럼 보호되는 범위와 함께 말한다.
+**뉘앙스와 사용법:** Trong mục này, `암호화` không chỉ mang nghĩa “mã hóa.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `데이터 암호화`, `암호화 키`, `종단 간 암호화`, `암호화하다`.
+**재사용 가능한 콜로케이션·청크:** `데이터 암호화`, `암호화 키`, `종단 간 암호화`, `암호화하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 암호화하다`; 메시지·파일·통신·키와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 암호화하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정보보안·개발·개인정보 보호의 전문어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 민감한 파일은 저장하기 전에 암호화해 두는 편이 안전하다.
 
-**어휘 연결:** `암호화`는 내용을 읽지 못하게 변환, `인증`은 사용자의 신원을 확인, `접근 권한`은 누가 읽거나 수정할 수 있는지를 정한다.
+**Dịch:** Các tệp nhạy cảm nên được mã hóa trước khi lưu để an toàn hơn.
 
-**영어 참고:** *encryption*, *encode*, *end-to-end encryption* — *encode*는 형식 변환까지 포함할 수 있어 보안 의미의 *encrypt*와 구별한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `암호화`.
+
+**영어 참고:** *encryption*, *encode*, *end-to-end encryption* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** xác thực, chứng nhận.
 
-**뉘앙스와 사용법:** 로그인에서는 신원 확인, 제품·기관에서는 기준을 충족했다는 증명이라는 뜻으로 나뉜다.
+**뉘앙스와 사용법:** Trong mục này, `인증` không chỉ mang nghĩa “xác thực, chứng nhận.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `본인 인증`, `2단계 인증`, `인증 번호`, `인증을 받다`.
+**재사용 가능한 콜로케이션·청크:** `본인 인증`, `2단계 인증`, `인증 번호`, `인증을 받다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 인증하다`; 사용자·기기·계정·자격과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 인증하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 금융·플랫폼·행정·보안에서 매우 자주 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 새 기기에서 로그인하려면 문자로 2단계 인증을 완료해야 한다.
 
-**어휘 연결:** `인증`은 신원이나 자격 확인, `검증`은 주장이나 결과가 맞는지 확인, `승인`은 확인 뒤 사용을 허락하는 행위다.
+**Dịch:** Muốn đăng nhập trên thiết bị mới, phải hoàn tất xác thực hai bước qua tin nhắn.
 
-**영어 참고:** *authentication*, *verification*, *certification* — *authentication*은 신원, *verification*은 사실 확인, *certification*은 공식 자격 증명이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `인증`.
+
+**영어 참고:** *authentication*, *verification*, *certification* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** rò rỉ, bị lộ.
 
-**뉘앙스와 사용법:** 단순한 공개보다 관리되어야 할 정보가 허가 없이 퍼졌다는 책임과 피해의 느낌이 강하다.
+**뉘앙스와 사용법:** Trong mục này, `유출` không chỉ mang nghĩa “rò rỉ, bị lộ.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `개인정보 유출`, `자료가 유출되다`, `유출 사고`, `유출 경로`.
+**재사용 가능한 콜로케이션·청크:** `개인정보 유출`, `자료가 유출되다`, `유출 사고`, `유출 경로` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 유출되다`; 비밀번호·고객 정보·문서·사진과 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 유출되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보안 뉴스·기업 공지·법률 담화에서 핵심어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 조사 결과 내부 계정 하나가 해킹되면서 고객 정보가 유출된 것으로 밝혀졌다.
 
-**어휘 연결:** `유출`은 통제 밖으로 새어 나감, `공개`는 의도적으로 알림, `노출`은 드러난 상태나 위험에 드러남을 넓게 말한다.
+**Dịch:** Kết quả điều tra cho thấy thông tin khách hàng bị rò rỉ sau khi một tài khoản nội bộ bị hack.
 
-**영어 참고:** *data leak*, *breach*, *disclosure* — *breach*는 보안 침해, *data leak*은 정보가 새어 나간 결과다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `유출`.
+
+**영어 참고:** *data leak*, *breach*, *disclosure* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** sự lan rộng, lan truyền.
 
-**뉘앙스와 사용법:** 속도와 범위가 커지는 과정을 객관적으로 분석할 때 쓰며, 긍정·부정 현상 모두에 사용할 수 있다.
+**뉘앙스와 사용법:** Trong mục này, `확산` không chỉ mang nghĩa “sự lan rộng, lan truyền.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `빠른 확산`, `정보 확산`, `확산을 막다`, `확산되다`.
+**재사용 가능한 콜로케이션·청크:** `빠른 확산`, `정보 확산`, `확산을 막다`, `확산되다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 확산되다`; 소문·감염·콘텐츠·기술과 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 확산되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·연구·정책에서 자주 쓰는 문어적 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 짧은 영상은 추천 탭을 타고 예상보다 빠르게 확산됐다.
 
-**어휘 연결:** `확산`은 넓게 퍼지는 과정, `유행`은 사람들이 따라 하는 현상, `전파`는 정보나 신호를 전달하는 행위를 강조한다.
+**Dịch:** Video ngắn đã lan nhanh hơn dự kiến nhờ mục đề xuất.
 
-**영어 참고:** *spread*, *diffusion*, *proliferation* — *proliferation*은 통제하기 어려울 정도로 급격히 늘어나는 부정적 맥락이 많다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `확산`.
+
+**영어 참고:** *spread*, *diffusion*, *proliferation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** deepfake, nội dung giả do AI tạo ra.
 
-**뉘앙스와 사용법:** 기술 자체보다 사칭·허위 정보·동의 없는 성적 이미지 같은 사회적 위험을 말할 때 자주 등장한다.
+**뉘앙스와 사용법:** Trong mục này, `딥페이크` không chỉ mang nghĩa “deepfake, nội dung giả do AI tạo ra.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `딥페이크 영상`, `딥페이크 범죄`, `딥페이크 탐지`, `딥페이크 피해`.
+**재사용 가능한 콜로케이션·청크:** `딥페이크 영상`, `딥페이크 범죄`, `딥페이크 탐지`, `딥페이크 피해` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `딥페이크를 + 만들다/탐지하다`; 영상·음성·사칭·피해와 결합한다.
+**자주 쓰는 문형과 성분:** `딥페이크를 + 만들다/탐지하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 담화와 뉴스에서 최근 활발히 쓰이는 신기술·범죄 관련어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 영상 속 얼굴이 자연스러워도 출처와 원본을 확인해야 딥페이크 피해를 줄일 수 있다.
 
-**어휘 연결:** `딥페이크`는 합성 기술·콘텐츠, `합성`은 기술적 제작 과정, `조작`은 사실을 속이려는 행위를 강조한다.
+**Dịch:** Dù khuôn mặt trong video trông tự nhiên, vẫn phải kiểm tra nguồn và bản gốc để giảm tác hại của deepfake.
 
-**영어 참고:** *deepfake*, *synthetic media*, *face-swap* — *synthetic media*는 얼굴뿐 아니라 음성·영상 전반을 포함한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `딥페이크`.
+
+**영어 참고:** *deepfake*, *synthetic media*, *face-swap* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** lừa đảo phishing.
 
-**뉘앙스와 사용법:** 문자·메일·메신저·가짜 사이트처럼 접근 경로와 함께 설명하는 것이 자연스럽다.
+**뉘앙스와 사용법:** Trong mục này, `피싱` không chỉ mang nghĩa “lừa đảo phishing.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `피싱 문자`, `피싱 사이트`, `피싱 사기`, `피싱을 당하다`.
+**재사용 가능한 콜로케이션·청크:** `피싱 문자`, `피싱 사이트`, `피싱 사기`, `피싱을 당하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `피싱에 + 당하다/주의하다`; 링크·계정·결제·신고와 결합한다.
+**자주 쓰는 문형과 성분:** `피싱에 + 당하다/주의하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 금융·보안 안내와 온라인 대화에서 현재 활발히 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 출처가 불분명한 링크를 누르지 않는 것이 피싱을 막는 첫 단계다.
 
-**어휘 연결:** `피싱`은 정보를 훔치는 사기, `스미싱`은 문자 메시지 기반 피싱, `사칭`은 다른 사람이나 기관인 척하는 행위다.
+**Dịch:** Không nhấp vào liên kết không rõ nguồn là bước đầu tiên để ngăn phishing.
 
-**영어 참고:** *phishing*, *smishing*, *scam* — *smishing*은 SMS와 phishing을 합친 말이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `피싱`.
+
+**영어 참고:** *phishing*, *smishing*, *scam* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** kiểm chứng, xác minh.
 
-**뉘앙스와 사용법:** `확인`보다 근거와 절차가 엄격하며, 사실 확인·연구·소프트웨어 테스트에 폭넓게 쓰인다.
+**뉘앙스와 사용법:** Trong mục này, `검증` không chỉ mang nghĩa “kiểm chứng, xác minh.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사실 검증`, `검증된 정보`, `검증 절차`, `검증하다`.
+**재사용 가능한 콜로케이션·청크:** `사실 검증`, `검증된 정보`, `검증 절차`, `검증하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 검증하다`; 주장·자료·모델·출처와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 검증하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·연구·기술·정책에서 중립적이고 공식적인 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 게시물을 공유하기 전에 원문과 통계를 대조해 사실을 검증했다.
 
-**어휘 연결:** `검증`은 근거를 통한 엄격한 확인, `확인`은 사실이나 상태를 알아봄, `인증`은 신원·자격을 확인함이다.
+**Dịch:** Trước khi chia sẻ bài đăng, tôi đã đối chiếu bài gốc với số liệu để kiểm chứng sự thật.
 
-**영어 참고:** *verification*, *validation*, *fact-checking* — *fact-checking*은 공개된 주장과 사실을 대조하는 활동이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `검증`.
+
+**영어 참고:** *verification*, *validation*, *fact-checking* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** thông tin cá nhân.
 
-**뉘앙스와 사용법:** 단순한 사적 정보보다 수집·처리·보호의 대상이 되는 법적·사회적 개념이다.
+**뉘앙스와 사용법:** Trong mục này, `개인정보` không chỉ mang nghĩa “thông tin cá nhân.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `개인정보 보호`, `개인정보 처리방침`, `개인정보를 수집하다`, `개인정보 유출`.
+**재사용 가능한 콜로케이션·청크:** `개인정보 보호`, `개인정보 처리방침`, `개인정보를 수집하다`, `개인정보 유출` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `개인정보를 + 제공하다/보호하다`; 동의·보안·기관·서비스와 결합한다.
+**자주 쓰는 문형과 성분:** `개인정보를 + 제공하다/보호하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 서비스 약관·법률·뉴스에서 매우 자주 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 앱을 설치하기 전에 어떤 개인정보를 왜 수집하는지 처리방침을 읽어 보자.
 
-**어휘 연결:** `개인정보`는 식별 가능한 데이터, `사생활`은 개인의 생활 영역과 권리, `기밀`은 공개되어서는 안 되는 정보 전반이다.
+**Dịch:** Trước khi cài ứng dụng, hãy đọc chính sách xử lý để biết họ thu thập thông tin cá nhân nào và vì sao.
 
-**영어 참고:** *personal data*, *personal information*, *PII* — *PII*는 개인을 식별할 수 있는 정보라는 기술·법률 약어다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `개인정보`.
+
+**영어 참고:** *personal data*, *personal information*, *PII* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** đời tư, quyền riêng tư.
 
-**뉘앙스와 사용법:** 집 안의 생활뿐 아니라 온라인 기록·위치 정보·관계까지 포함하는 권리 담화에서 쓰인다.
+**뉘앙스와 사용법:** Trong mục này, `사생활` không chỉ mang nghĩa “đời tư, quyền riêng tư.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `사생활 침해`, `사생활을 보호하다`, `사생활 공개`, `사생활과 공익`.
+**재사용 가능한 콜로케이션·청크:** `사생활 침해`, `사생활을 보호하다`, `사생활 공개`, `사생활과 공익` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `사생활을 + 침해하다/존중하다`; 언론·감시·정보·공익과 결합한다.
+**자주 쓰는 문형과 성분:** `사생활을 + 침해하다/존중하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상과 법률·언론 윤리에서 모두 쓰이지만, 논쟁에서는 권리의 범위를 명확히 해야 한다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 공익을 위한 보도라도 당사자의 사생활을 불필요하게 공개해서는 안 된다.
 
-**어휘 연결:** `사생활`은 개인 생활의 영역, `개인정보`는 식별 가능한 데이터, `프라이버시`는 같은 개념을 영어식으로 말하는 표현이다.
+**Dịch:** Ngay cả bài đưa tin vì lợi ích công cộng cũng không được công khai đời tư của người liên quan một cách không cần thiết.
 
-**영어 참고:** *privacy*, *private life*, *personal sphere* — *privacy*가 법률·기술·일상에서 가장 넓게 쓰인다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `사생활`.
+
+**영어 참고:** *privacy*, *private life*, *personal sphere* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** lan truyền mạnh trên mạng, viral.
 
-**뉘앙스와 사용법:** 단순히 조회 수가 높은 것보다 공유와 모방을 통해 짧은 시간에 확산되는 느낌이 강하다.
+**뉘앙스와 사용법:** Trong mục này, `바이럴` không chỉ mang nghĩa “lan truyền mạnh trên mạng, viral.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `바이럴 영상`, `바이럴 마케팅`, `바이럴이 되다`, `바이럴을 노리다`.
+**재사용 가능한 콜로케이션·청크:** `바이럴 영상`, `바이럴 마케팅`, `바이럴이 되다`, `바이럴을 노리다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `콘텐츠가 바이럴되다`; 영상·밈·광고·챌린지와 결합한다.
+**자주 쓰는 문형과 성분:** `콘텐츠가 바이럴되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인·광고·대중문화에서 현재 자연스러운 외래어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 짧은 후기 영상 하나가 바이럴되면서 작은 가게에 손님이 몰렸다.
 
-**어휘 연결:** `바이럴`은 공유를 통한 급속한 확산, `유행`은 사람들이 따라 하는 흐름, `입소문`은 사람 사이의 추천과 이야기를 강조한다.
+**Dịch:** Một video đánh giá ngắn đã viral khiến khách đổ đến cửa hàng nhỏ.
 
-**영어 참고:** *viral*, *go viral*, *viral marketing* — *go viral*은 콘텐츠가 갑자기 널리 퍼지는 현상이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `바이럴`.
+
+**영어 참고:** *viral*, *go viral*, *viral marketing* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** chặn, ngăn chặn.
 
-**뉘앙스와 사용법:** 사람을 차단하는 기능부터 광고·유해 사이트·감염 확산을 막는 정책까지 범위가 넓다.
+**뉘앙스와 사용법:** Trong mục này, `차단` không chỉ mang nghĩa “chặn, ngăn chặn.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `계정을 차단하다`, `차단 목록`, `광고 차단`, `접근을 차단하다`.
+**재사용 가능한 콜로케이션·청크:** `계정을 차단하다`, `차단 목록`, `광고 차단`, `접근을 차단하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 차단하다`; 계정·번호·사이트·접근·확산과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 차단하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 기능명과 안전·정책 담화에서 모두 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 반복해서 혐오 댓글을 다는 계정은 차단하고 신고했다.
 
-**어휘 연결:** `차단`은 통로를 막음, `삭제`는 내용을 없앰, `제한`은 허용 범위를 줄이는 조치다.
+**Dịch:** Tôi đã chặn và báo cáo tài khoản liên tục đăng bình luận thù ghét.
 
-**영어 참고:** *block*, *blocklist*, *filter* — *block*은 접근 자체를 막고, *filter*는 조건에 따라 걸러 낸다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `차단`.
+
+**영어 참고:** *block*, *blocklist*, *filter* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** báo cáo, trình báo.
 
-**뉘앙스와 사용법:** 경찰·행정기관에 알리는 뜻과 플랫폼의 유해 콘텐츠 신고 기능을 모두 포함한다.
+**뉘앙스와 사용법:** Trong mục này, `신고` không chỉ mang nghĩa “báo cáo, trình báo.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `신고 버튼`, `신고를 접수하다`, `경찰에 신고하다`, `허위 신고`.
+**재사용 가능한 콜로케이션·청크:** `신고 버튼`, `신고를 접수하다`, `경찰에 신고하다`, `허위 신고` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 신고하다`; 피해·게시물·사기·기관과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 신고하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·시민 행정·온라인 플랫폼에서 널리 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 피해 화면을 저장한 뒤 플랫폼에 게시물을 신고했다.
 
-**어휘 연결:** `신고`는 공식적으로 알림, `제보`는 정보를 제공함, `고발`은 잘못을 문제 삼아 수사나 처벌을 요구하는 더 강한 말이다.
+**Dịch:** Sau khi lưu màn hình bằng chứng, tôi đã báo cáo bài đăng với nền tảng.
 
-**영어 참고:** *report*, *file a report*, *flag* — 플랫폼에서는 *flag*가 문제 콘텐츠를 표시해 신고하는 뜻으로도 쓰인다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `신고`.
+
+**영어 참고:** *report*, *file a report*, *flag* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** bình luận.
 
-**뉘앙스와 사용법:** 단순한 의견뿐 아니라 공감·비판·조롱·정보 보충을 모두 포함하며, 댓글 문화의 맥락이 중요하다.
+**뉘앙스와 사용법:** Trong mục này, `댓글` không chỉ mang nghĩa “bình luận.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `댓글을 달다`, `댓글창`, `악성 댓글`, `댓글 여론`.
+**재사용 가능한 콜로케이션·청크:** `댓글을 달다`, `댓글창`, `악성 댓글`, `댓글 여론` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `댓글을 + 달다/남기다/삭제하다`; 게시물·여론·작성자와 결합한다.
+**자주 쓰는 문형과 성분:** `댓글을 + 달다/남기다/삭제하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 대화에서 매우 흔하며, `악성 댓글`은 법적·사회적 문제로도 다뤄진다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 기사 내용보다 댓글 여론이 더 크게 확산되는 경우도 있다.
 
-**어휘 연결:** `댓글`은 게시물에 붙는 반응, `답글`은 특정 댓글에 다는 응답, `논평`은 공개적인 분석·평가에 가깝다.
+**Dịch:** Đôi khi dư luận trong phần bình luận còn lan rộng hơn cả nội dung bài báo.
 
-**영어 참고:** *comment*, *reply*, *user comment* — *reply*는 특정 댓글이나 글에 대한 직접적인 응답이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `댓글`.
+
+**영어 참고:** *comment*, *reply*, *user comment* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** chế độ sử dụng tên thật.
 
-**뉘앙스와 사용법:** 악성 표현을 줄이는 효과와 표현의 자유·사생활 침해 우려가 충돌하는 정책 논쟁에서 주로 쓴다.
+**뉘앙스와 사용법:** Trong mục này, `실명제` không chỉ mang nghĩa “chế độ sử dụng tên thật.” mà còn nhấn mạnh phạm vi dùng, sắc thái đánh giá và quan hệ xã hội; cần chọn theo ngữ cảnh của câu.
 
-**재사용 가능한 콜로케이션·청크:** `인터넷 실명제`, `실명제 도입`, `실명제를 둘러싼 논쟁`, `실명제의 한계`.
+**재사용 가능한 콜로케이션·청크:** `인터넷 실명제`, `실명제 도입`, `실명제를 둘러싼 논쟁`, `실명제의 한계` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `실명제를 + 도입하다/폐지하다`; 익명성·표현의 자유·책임과 결합한다.
+**자주 쓰는 문형과 성분:** `실명제를 + 도입하다/폐지하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·정책·미디어 논쟁의 공식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 실명제가 악성 댓글을 줄일 수 있는지에 대해서는 여전히 의견이 갈린다.
 
-**어휘 연결:** `실명제`는 제도, `익명성`은 이름을 드러내지 않을 수 있는 성질, `책임성`은 행동의 결과를 감당해야 한다는 원칙이다.
+**Dịch:** Vẫn còn nhiều ý kiến khác nhau về việc chế độ tên thật có thể giảm bình luận độc hại hay không.
 
-**영어 참고:** *real-name policy*, *实名制*, *identity disclosure policy* — 영어권에서는 제도마다 범위가 달라 설명을 덧붙이는 편이 좋다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `실명제`.
+
+**영어 참고:** *real-name policy*, *实名制*, *identity disclosure policy* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 <!-- passage_word_count: 105 Korean eojeol; target_set: 알고리즘, 암호화, 인증, 유출, 확산, 딥페이크, 피싱, 검증, 개인정보, 사생활, 바이럴, 차단, 신고, 댓글, 실명제 -->
 

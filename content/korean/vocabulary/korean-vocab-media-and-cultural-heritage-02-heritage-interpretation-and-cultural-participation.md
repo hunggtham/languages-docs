@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** cảnh quan văn hóa.
 
-**뉘앙스와 사용법:** 건물 하나의 보존을 넘어 사람들의 생업과 이동, 생태가 쌓인 공간 전체를 보호한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là vượt xa việc bảo tồn một tòa nhà duy nhất để bảo vệ toàn bộ không gian nơi tích lũy sinh kế, hoạt động di chuyển và hệ sinh thái của con người.
 
-**재사용 가능한 콜로케이션·청크:** `문화경관 보전`, `역사문화경관`, `문화경관 관리계획`.
+**재사용 가능한 콜로케이션·청크:** `문화경관 보전`, `역사문화경관`, `문화경관 관리계획`. — `Bảo tồn cảnh quan văn hóa`, `Cảnh quan văn hóa lịch sử`, `Kế hoạch quản lý cảnh quan văn hóa`.
 
-**자주 쓰는 문형과 성분:** `개발이 문화경관을 훼손하다`; 마을·생태·관광과 결합한다.
+**자주 쓰는 문형과 성분:** `개발이 문화경관을 훼손하다`, `Sự phát triển làm tổn hại đến cảnh quan văn hóa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시계획·유산정책·지역개발의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quy hoạch đô thị, chính sách di sản và phát triển khu vực.
 
 **예문:** 문화경관을 지키려면 오래된 건물뿐 아니라 주민의 생활과 골목의 규모도 함께 살펴야 한다.
 
-**어휘 연결:** `경관`은 보이는 풍경이고, `문화경관`은 그 풍경을 만든 역사·생활·공동체의 층위를 포함한다.
+**Dịch:** Để bảo vệ cảnh quan văn hóa, chúng ta không chỉ phải nhìn vào những tòa nhà cũ mà còn phải nhìn vào cuộc sống của cư dân và quy mô của các con hẻm.
 
-**영어 참고:** *cultural landscape* — 자연과 인간의 생활·역사가 함께 만든 경관이다.
+**어휘 연결:** `경관`은 보이는 풍경이고, `문화경관`은 그 풍경을 만든 역사·생활·공동체의 층위를 포함한다. — 'Phong cảnh' là cảnh quan hữu hình và 'cảnh quan văn hóa' bao gồm các lớp lịch sử, cuộc sống và cộng đồng đã tạo nên cảnh quan.
+
+**영어 참고:** *cultural landscape* — Đó là cảnh quan được tạo nên bởi thiên nhiên, cuộc sống và lịch sử con người.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** di sản văn hóa phi vật thể.
 
-**뉘앙스와 사용법:** 물건을 보관하는 데 그치지 않고 전승자와 공동체가 실제로 실천하고 변화시키는 과정을 중시한다.
+**뉘앙스와 사용법:** Thay vì chỉ lưu trữ các vật phẩm, chúng tôi tập trung vào quá trình thực hành và thay đổi thực tế của những người thừa kế và cộng đồng.
 
-**재사용 가능한 콜로케이션·청크:** `무형유산 전승`, `무형유산 보유자`, `무형유산 지정`.
+**재사용 가능한 콜로케이션·청크:** `무형유산 전승`, `무형유산 보유자`, `무형유산 지정`. — `Truyền tải di sản văn hóa phi vật thể`, `người nắm giữ di sản văn hóa phi vật thể`, `chỉ định di sản văn hóa phi vật thể`.
 
-**자주 쓰는 문형과 성분:** `공동체가 무형유산을 전승하다`; 의례·기예·세대와 결합한다.
+**자주 쓰는 문형과 성분:** `공동체가 무형유산을 전승하다`, `Cộng đồng truyền lại di sản phi vật thể` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화재 행정·인류학·지역문화 정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của quản lý di sản văn hóa, nhân chủng học và chính sách văn hóa khu vực.
 
 **예문:** 무형유산의 전승자를 보호하지 않으면 목록에 이름을 올리는 것만으로는 전통을 이어 갈 수 없다.
 
-**어휘 연결:** `유물`은 물질적 대상이고, `무형유산`은 기술·의례·지식처럼 수행되는 문화다.
+**Dịch:** Nếu những người mang di sản văn hóa phi vật thể không được bảo vệ thì truyền thống không thể được tiếp tục chỉ bằng cách thêm tên của họ vào danh sách.
 
-**영어 참고:** *intangible cultural heritage* — 공동체가 실천하고 세대 간 전승하는 문화유산이다.
+**어휘 연결:** `유물`은 물질적 대상이고, `무형유산`은 기술·의례·지식처럼 수행되는 문화다. — 'Hiện vật' là vật thể vật chất và 'di sản phi vật thể' là văn hóa được biểu diễn như công nghệ, nghi lễ và kiến ​​thức.
+
+**영어 참고:** *intangible cultural heritage* — Là di sản văn hóa được cộng đồng thực hành và truyền từ thế hệ này sang thế hệ khác.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** quá trình biến thành di sản.
 
-**뉘앙스와 사용법:** 자연스럽게 주어진 가치가 아니라 누가 무엇을 선택하고 누구의 기억을 주변화하는지까지 묻는 비판적 용어다.
+**뉘앙스와 사용법:** Đây là một thuật ngữ quan trọng không chỉ hỏi những giá trị được ban tặng một cách tự nhiên mà còn hỏi ai chọn cái gì và ký ức của ai bị gạt ra ngoài lề.
 
-**재사용 가능한 콜로케이션·청크:** `유산화 과정`, `유산화의 정치`, `지역 유산화`.
+**재사용 가능한 콜로케이션·청크:** `유산화 과정`, `유산화의 정치`, `지역 유산화`. — `Quá trình di sản`, `Chính trị di sản`, `Di sản khu vực`.
 
-**자주 쓰는 문형과 성분:** `공간이 유산화되다`; 기념·보존·관광과 결합한다.
+**자주 쓰는 문형과 성분:** `공간이 유산화되다`, `Không gian được kế thừa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화연구·기억정치·박물관학의 추상 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ trừu tượng cấp cao trong nghiên cứu văn hóa, chính trị ký ức và bảo tàng học.
 
 **예문:** 산업시설의 유산화가 진행될 때 노동자의 기억이 전시에서 빠지지 않았는지 점검해야 한다.
 
-**어휘 연결:** `보존`은 대상을 지키는 행위이고, `유산화`는 무엇을 유산으로 인정할지 결정하는 사회적 과정이다.
+**Dịch:** Khi tiến hành chuyển đổi di sản của các cơ sở công nghiệp, phải kiểm tra xem ký ức của người lao động có bị loại khỏi triển lãm hay không.
 
-**영어 참고:** *heritagization* — 특정 대상이나 기억을 문화유산으로 만들어 가는 사회적 과정이다.
+**어휘 연결:** `보존`은 대상을 지키는 행위이고, `유산화`는 무엇을 유산으로 인정할지 결정하는 사회적 과정이다. — 'Bảo tồn' là hành động bảo vệ một đối tượng và 'di sản' là một quá trình xã hội nhằm quyết định những gì được công nhận là di sản.
+
+**영어 참고:** *heritagization* — Đó là một quá trình xã hội biến một đồ vật hoặc ký ức cụ thể thành di sản văn hóa.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** địa điểm ký ức.
 
-**뉘앙스와 사용법:** 장소 자체보다 누가 어떤 기억을 기념하고 해석하는지, 어떤 기억이 지워지는지를 함께 살핀다.
+**뉘앙스와 사용법:** Thay vì nhìn vào chính địa điểm đó, chúng tôi nhìn vào người tưởng niệm và diễn giải ký ức nào và ký ức nào bị xóa.
 
-**재사용 가능한 콜로케이션·청크:** `기억의 장소를 보존하다`, `기억의 장소 만들기`, `기억의 장소화`.
+**재사용 가능한 콜로케이션·청크:** `기억의 장소를 보존하다`, `기억의 장소 만들기`, `기억의 장소화`. — `Tạo một nơi để ghi nhớ`, `Tạo một nơi để ghi nhớ`, `Tạo một nơi để ghi nhớ`.
 
-**자주 쓰는 문형과 성분:** `도시가 기억의 장소를 조성하다`; 추모·기념비·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 기억의 장소를 조성하다`, `Thành phố tạo nên nơi ký ức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역사교육·도시재생·기억정치의 고급어다.
+**사회적 관계·주제별 register:** Đây là một thuật ngữ ưa thích dành cho giáo dục lịch sử, tái tạo đô thị và chính trị ký ức.
 
 **예문:** 폐산업시설을 기억의 장소로 바꾸려면 과거의 노동 경험을 주민의 목소리로 기록해야 한다.
 
-**어휘 연결:** `기념관`은 기관·건물을 가리키고, `기억의 장소`는 장소와 기억이 맺는 사회적 관계를 강조한다.
+**Dịch:** Để biến một cơ sở công nghiệp bị bỏ hoang thành nơi ký ức, những trải nghiệm lao động trong quá khứ phải được ghi lại qua tiếng nói của cư dân.
 
-**영어 참고:** *site of memory* — 집단 기억이 기념되고 논쟁되는 공간이다.
+**어휘 연결:** `기념관`은 기관·건물을 가리키고, `기억의 장소`는 장소와 기억이 맺는 사회적 관계를 강조한다. — 'Đài tưởng niệm' đề cập đến các tổ chức và tòa nhà, còn 'địa điểm của ký ức' nhấn mạnh mối quan hệ xã hội giữa địa điểm và ký ức.
+
+**영어 참고:** *site of memory* — Không gian nơi ký ức tập thể được tôn vinh và tranh luận.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** bối cảnh văn hóa.
 
-**뉘앙스와 사용법:** 작품을 고립된 아름다움으로만 보지 않고 생산자와 관람자, 역사적 갈등까지 함께 이해하게 한다.
+**뉘앙스와 사용법:** Thay vì chỉ xem tác phẩm như một vẻ đẹp biệt lập, nó cho phép chúng ta hiểu các nhà sản xuất, người xem và những xung đột lịch sử cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `문화적 맥락을 설명하다`, `맥락 없는 전시`, `역사적·문화적 맥락`.
+**재사용 가능한 콜로케이션·청크:** `문화적 맥락을 설명하다`, `맥락 없는 전시`, `역사적·문화적 맥락`. — `Giải thích bối cảnh văn hóa`, `Triển lãm không có bối cảnh`, `Bối cảnh lịch sử và văn hóa`.
 
-**자주 쓰는 문형과 성분:** `전시가 문화적 맥락을 복원하다`; 식민지·종교·생활사와 결합한다.
+**자주 쓰는 문형과 성분:** `전시가 문화적 맥락을 복원하다`, `Triển lãm khôi phục bối cảnh văn hóa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 큐레이션·비평·문화교육의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để chỉ việc giám tuyển, phê bình và giáo dục văn hóa.
 
 **예문:** 유물을 설명할 때는 제작 연대뿐 아니라 문화적 맥락과 사용자의 목소리도 제시해야 한다.
 
-**어휘 연결:** `배경`은 넓고 일상적인 말이고, `문화적 맥락`은 의미가 형성된 사회·역사 조건을 분석한다.
+**Dịch:** Khi mô tả hiện vật, không chỉ ngày sản xuất mà còn phải trình bày bối cảnh văn hóa và tiếng nói của người dùng.
 
-**영어 참고:** *cultural context* — 문화적 의미가 형성된 역사·사회적 배경이다.
+**어휘 연결:** `배경`은 넓고 일상적인 말이고, `문화적 맥락`은 의미가 형성된 사회·역사 조건을 분석한다. — 'Nền' là một từ rộng, hàng ngày và 'ngữ cảnh văn hóa' phân tích các điều kiện xã hội và lịch sử trong đó ý nghĩa được hình thành.
+
+**영어 참고:** *cultural context* — Đây là bối cảnh lịch sử và xã hội trong đó ý nghĩa văn hóa được hình thành.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** diễn giải triển lãm.
 
-**뉘앙스와 사용법:** 작품 정보를 전달하는 데 그치지 않고 관람객이 어떤 관점에서 무엇을 질문하게 할지 구성한다.
+**뉘앙스와 사용법:** Nó không chỉ truyền tải thông tin về tác phẩm mà còn sắp xếp những câu hỏi mà khán giả sẽ đặt ra từ góc độ nào.
 
-**재사용 가능한 콜로케이션·청크:** `전시 해석 전략`, `참여형 전시 해석`, `해석 장치`.
+**재사용 가능한 콜로케이션·청크:** `전시 해석 전략`, `참여형 전시 해석`, `해석 장치`. — `Chiến lược diễn giải triển lãm`, `diễn giải triển lãm có sự tham gia`, `thiết bị diễn giải`.
 
-**자주 쓰는 문형과 성분:** `큐레이터가 전시를 해석하다`; 설명문·동선·관람객과 결합한다.
+**자주 쓰는 문형과 성분:** `큐레이터가 전시를 해석하다`, `Người phụ trách diễn giải triển lãm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 박물관학·큐레이션·문화교육의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho bảo tàng học, giám tuyển và giáo dục văn hóa.
 
 **예문:** 전시 해석이 한 가지 정답만 제시하면 관람객의 경험과 비판적 질문이 줄어들 수 있다.
 
-**어휘 연결:** `해설`은 설명 행위이고, `전시 해석`은 전시 전체의 의미와 관람 경험을 설계하는 작업이다.
+**Dịch:** Nếu việc diễn giải một cuộc triển lãm chỉ cung cấp một câu trả lời đúng thì trải nghiệm của khách tham quan và các câu hỏi phản biện có thể bị giảm sút.
 
-**영어 참고:** *exhibition interpretation* — 전시물과 관람객 사이의 의미 형성을 설계하는 작업이다.
+**어휘 연결:** `해설`은 설명 행위이고, `전시 해석`은 전시 전체의 의미와 관람 경험을 설계하는 작업이다. — 'Bình luận' là hành động giải thích và 'diễn giải triển lãm' là nhiệm vụ thiết kế ý nghĩa của toàn bộ triển lãm và trải nghiệm xem.
+
+**영어 참고:** *exhibition interpretation* — Đây là công việc thiết kế sự hình thành ý nghĩa giữa hiện vật trưng bày và khách tham quan.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** bảo tồn và phát huy/sử dụng.
 
-**뉘앙스와 사용법:** 훼손을 막는 보존과 대중의 접근·활용을 대립시키지 않고 적절한 균형과 관리 방식을 찾는다.
+**뉘앙스와 사용법:** Tìm sự cân bằng và phương pháp quản lý phù hợp mà không xung đột giữa việc bảo tồn nhằm ngăn chặn thiệt hại và việc truy cập và sử dụng của công chúng.
 
-**재사용 가능한 콜로케이션·청크:** `보존과 활용의 조화`, `보존과 활용 방안`, `지속 가능한 활용`.
+**재사용 가능한 콜로케이션·청크:** `보존과 활용의 조화`, `보존과 활용 방안`, `지속 가능한 활용`. — `Sự hài hòa giữa bảo tồn và sử dụng`, `Kế hoạch bảo tồn và sử dụng`, `Sử dụng bền vững`.
 
-**자주 쓰는 문형과 성분:** `유산의 보존과 활용을 조정하다`; 관광·교육·지역경제와 결합한다.
+**자주 쓰는 문형과 성분:** `유산의 보존과 활용을 조정하다`, `Điều phối việc bảo tồn và sử dụng di sản` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화재 행정·지역개발·관광정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về quản lý di sản văn hóa, phát triển vùng và chính sách du lịch.
 
 **예문:** 보존과 활용을 함께 이루려면 방문객 수보다 주민의 생활과 유산의 수용 능력을 먼저 고려해야 한다.
 
-**어휘 연결:** `개발`은 이용 확대를 강조하고, `보존과 활용`은 유산의 장기적 가치와 현재의 접근을 함께 본다.
+**Dịch:** Để cùng nhau đạt được mục tiêu bảo tồn và sử dụng, sinh kế của người dân và sức chứa của di sản phải được xem xét trước số lượng du khách.
 
-**영어 참고:** *conservation and sustainable use* — 유산을 지키면서 책임 있게 활용하는 원칙이다.
+**어휘 연결:** `개발`은 이용 확대를 강조하고, `보존과 활용`은 유산의 장기적 가치와 현재의 접근을 함께 본다. — 'Phát triển' nhấn mạnh vào việc mở rộng sử dụng, trong khi 'bảo tồn và sử dụng' xem xét cả giá trị lâu dài của di sản và các phương pháp tiếp cận hiện tại.
+
+**영어 참고:** *conservation and sustainable use* — Đây là nguyên tắc bảo vệ di sản và sử dụng nó một cách có trách nhiệm.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** quyền thụ hưởng văn hóa.
 
-**뉘앙스와 사용법:** 공연을 보는 소비자 권리뿐 아니라 창작·표현·공동체 문화에 참여할 권리까지 포함한다.
+**뉘앙스와 사용법:** Không chỉ bao gồm quyền xem buổi biểu diễn của người tiêu dùng mà còn bao gồm quyền tham gia sáng tạo, thể hiện và văn hóa cộng đồng.
 
-**재사용 가능한 콜로케이션·청크:** `문화향유권 보장`, `문화향유권 격차`, `문화향유 기회`.
+**재사용 가능한 콜로케이션·청크:** `문화향유권 보장`, `문화향유권 격차`, `문화향유 기회`. — `Đảm bảo quyền thưởng thức văn hóa`, `Khoảng cách về quyền thưởng thức văn hóa`, `Cơ hội thưởng thức văn hóa`.
 
-**자주 쓰는 문형과 성분:** `정책이 문화향유권을 확대하다`; 지역·장애 접근성·공공문화와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 문화향유권을 확대하다`, `Chính sách mở rộng quyền thưởng thức văn hóa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화복지·인권·지역문화 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về phúc lợi văn hóa, nhân quyền và chính sách văn hóa khu vực.
 
 **예문:** 문화향유권을 보장하려면 대도시 공연뿐 아니라 농어촌의 이동·디지털 접근도 지원해야 한다.
 
-**어휘 연결:** `문화생활`은 일상적인 활동이고, `문화향유권`은 그 활동을 보장해야 할 시민의 권리로 본다.
+**Dịch:** Để đảm bảo quyền thưởng thức văn hóa, không chỉ các buổi biểu diễn ở các thành phố lớn mà còn phải hỗ trợ khả năng tiếp cận di động và kỹ thuật số ở các vùng nông thôn.
 
-**영어 참고:** *cultural rights and access* — 문화에 접근하고 참여할 권리다.
+**어휘 연결:** `문화생활`은 일상적인 활동이고, `문화향유권`은 그 활동을 보장해야 할 시민의 권리로 본다. — ‘Đời sống văn hóa’ là một hoạt động hàng ngày và ‘quyền thưởng thức văn hóa’ được coi là quyền của công dân phải được đảm bảo cho hoạt động đó.
+
+**영어 참고:** *cultural rights and access* — Quyền tiếp cận và tham gia vào nền văn hóa.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** thúc đẩy văn hóa địa phương.
 
-**뉘앙스와 사용법:** 중앙에서 프로그램을 내려보내기보다 지역 창작자·공간·공동체의 자율성을 키우는 접근을 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh cách tiếp cận thúc đẩy quyền tự chủ của người sáng tạo, không gian và cộng đồng địa phương thay vì gửi các chương trình từ trung tâm xuống.
 
-**재사용 가능한 콜로케이션·청크:** `지역문화진흥 정책`, `지역문화진흥 기금`, `지역문화 생태계`.
+**재사용 가능한 콜로케이션·청크:** `지역문화진흥 정책`, `지역문화진흥 기금`, `지역문화 생태계`. — ‘Chính sách quảng bá văn hóa địa phương’, ‘Quỹ quảng bá văn hóa địa phương’, ‘Hệ sinh thái văn hóa địa phương’.
 
-**자주 쓰는 문형과 성분:** `지자체가 지역문화진흥을 추진하다`; 주민·예술가·공간과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 지역문화진흥을 추진하다`, `Chính quyền địa phương thúc đẩy văn hóa địa phương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화행정·균형발전·지역재생의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho quản lý văn hóa, phát triển cân bằng và tái tạo khu vực.
 
 **예문:** 지역문화진흥은 축제 횟수보다 주민과 창작자가 계속 활동할 공간을 만드는 데서 시작한다.
 
-**어휘 연결:** `지역축제`는 특정 행사이고, `지역문화진흥`은 지역의 문화 기반과 참여 구조를 장기적으로 키우는 정책이다.
+**Dịch:** Quảng bá văn hóa địa phương bắt đầu bằng việc tạo không gian cho cư dân và người sáng tạo tiếp tục hoạt động thay vì số lượng lễ hội.
 
-**영어 참고:** *local cultural development* — 지역의 문화 자원과 공동체 참여를 지속적으로 키우는 정책이다.
+**어휘 연결:** `지역축제`는 특정 행사이고, `지역문화진흥`은 지역의 문화 기반과 참여 구조를 장기적으로 키우는 정책이다. — 'Lễ hội địa phương' là một sự kiện cụ thể và 'quảng bá văn hóa khu vực' là chính sách nhằm phát triển nền tảng văn hóa địa phương và cơ cấu tham gia về lâu dài.
+
+**영어 참고:** *local cultural development* — Đây là chính sách nhằm liên tục phát triển nguồn lực văn hóa địa phương và sự tham gia của cộng đồng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** hệ sinh thái văn hóa.
 
-**뉘앙스와 사용법:** 한 작품이나 기관의 성공보다 생태계 전체의 다양성, 지속 가능성, 진입 기회를 함께 평가한다.
+**뉘앙스와 사용법:** Đánh giá tính đa dạng, tính bền vững và cơ hội gia nhập của toàn bộ hệ sinh thái thay vì sự thành công của một công việc hoặc tổ chức.
 
-**재사용 가능한 콜로케이션·청크:** `문화생태계 회복`, `지역 문화생태계`, `독립 문화생태계`.
+**재사용 가능한 콜로케이션·청크:** `문화생태계 회복`, `지역 문화생태계`, `독립 문화생태계`. — `Phục hồi hệ sinh thái văn hóa`, `Hệ sinh thái văn hóa địa phương`, `Hệ sinh thái văn hóa độc lập`.
 
-**자주 쓰는 문형과 성분:** `지원 정책이 문화생태계를 살리다`; 창작자·공간·관객과 결합한다.
+**자주 쓰는 문형과 성분:** `지원 정책이 문화생태계를 살리다`, `Chính sách hỗ trợ cứu hệ sinh thái văn hóa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화정책·예술경영·지역사회 분석의 추상 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ cấp cao trừu tượng về chính sách văn hóa, quản lý nghệ thuật và phân tích cộng đồng.
 
 **예문:** 공연장 하나를 짓는 것만으로는 문화생태계가 살아나지 않고 창작자와 관객의 순환이 필요하다.
 
-**어휘 연결:** `문화산업`은 경제적 생산과 시장을 강조하고, `문화생태계`는 비영리·공동체·교육까지 포괄한다.
+**Dịch:** Chỉ xây dựng phòng biểu diễn sẽ không làm sống lại hệ sinh thái văn hóa; sự lưu thông của người sáng tạo và khán giả là cần thiết.
 
-**영어 참고:** *cultural ecosystem* — 문화가 생산·유통·향유되는 상호 연결 구조다.
+**어휘 연결:** `문화산업`은 경제적 생산과 시장을 강조하고, `문화생태계`는 비영리·공동체·교육까지 포괄한다. — 'Ngành công nghiệp văn hóa' nhấn mạnh vào sản xuất kinh tế và thị trường, còn 'hệ sinh thái văn hóa' bao gồm các tổ chức phi lợi nhuận, cộng đồng và giáo dục.
+
+**영어 참고:** *cultural ecosystem* — Đó là cấu trúc được kết nối với nhau nơi văn hóa được sản xuất, phân phối và thưởng thức.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** quá trình lưu trữ hóa.
 
-**뉘앙스와 사용법:** 자료를 모으는 데 그치지 않고 누가 기록하고 어떤 분류와 접근 권한을 정하는지까지 포함한다.
+**뉘앙스와 사용법:** Nó vượt xa việc thu thập dữ liệu và cũng bao gồm ai ghi lại dữ liệu đó cũng như xác định dữ liệu có phân loại và quyền truy cập nào.
 
-**재사용 가능한 콜로케이션·청크:** `구술 아카이브화`, `지역 기록 아카이브화`, `아카이브화 사업`.
+**재사용 가능한 콜로케이션·청크:** `구술 아카이브화`, `지역 기록 아카이브화`, `아카이브화 사업`. — `Lưu trữ các tuyên bố bằng miệng`, `Lưu trữ hồ sơ địa phương`, `Dự án lưu trữ`.
 
-**자주 쓰는 문형과 성분:** `공동체의 기억을 아카이브화하다`; 디지털화·메타데이터·구술과 결합한다.
+**자주 쓰는 문형과 성분:** `공동체의 기억을 아카이브화하다`, `Lưu trữ kỷ niệm cộng đồng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기록학·박물관·지역문화 프로젝트의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ chỉ các dự án lưu trữ, bảo tàng và văn hóa địa phương.
 
 **예문:** 아카이브화 과정에서 주민이 자료의 공개 범위와 이름 표기를 직접 결정할 수 있어야 한다.
 
-**어휘 연결:** `디지털화`는 형식을 바꾸는 기술이고, `아카이브화`는 수집·맥락화·접근 정책을 포함한 기록 실천이다.
+**Dịch:** Trong quá trình lưu trữ, cư dân có thể xác định trực tiếp phạm vi tiết lộ tài liệu và ghi nhãn tên.
 
-**영어 참고:** *archiving* — 자료를 수집·정리·보존해 장기 접근을 가능하게 하는 과정이다.
+**어휘 연결:** `디지털화`는 형식을 바꾸는 기술이고, `아카이브화`는 수집·맥락화·접근 정책을 포함한 기록 실천이다. — 'Số hóa' là công nghệ thay đổi định dạng và 'lưu trữ' là phương pháp ghi lại bao gồm các chính sách thu thập, bối cảnh hóa và truy cập.
+
+**영어 참고:** *archiving* — Đây là quá trình thu thập, sắp xếp và bảo quản dữ liệu để có thể truy cập lâu dài.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** phục dựng kỹ thuật số.
 
-**뉘앙스와 사용법:** 실제 원형을 되돌리는 물리적 복원과 달리, 추정과 자료의 한계를 이용자에게 명확히 밝혀야 한다.
+**뉘앙스와 사용법:** Không giống như khôi phục vật lý, trả về dạng ban đầu thực tế, các giới hạn của ước tính và dữ liệu phải được tiết lộ rõ ​​ràng cho người dùng.
 
-**재사용 가능한 콜로케이션·청크:** `디지털 복원 콘텐츠`, `3D 디지털 복원`, `디지털 복원 기술`.
+**재사용 가능한 콜로케이션·청크:** `디지털 복원 콘텐츠`, `3D 디지털 복원`, `디지털 복원 기술`. — `Nội dung khôi phục kỹ thuật số`, `Khôi phục kỹ thuật số 3D`, `công nghệ khôi phục kỹ thuật số`.
 
-**자주 쓰는 문형과 성분:** `연구팀이 유적을 디지털 복원하다`; 3D·가상현실·교육과 결합한다.
+**자주 쓰는 문형과 성분:** `연구팀이 유적을 디지털 복원하다`, `Nhóm nghiên cứu khôi phục di tích bằng kỹ thuật số` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문화유산 과학·전시·실감 콘텐츠의 최신 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao mới nhất về khoa học di sản văn hóa, triển lãm và nội dung hiện thực.
 
 **예문:** 디지털 복원 화면에는 확인된 사실과 연구자의 추정을 구분해 표시해야 한다.
 
-**어휘 연결:** `복원`은 물리적 대상을 되살리는 작업이고, `디지털 복원`은 자료를 바탕으로 가상 경험을 재구성한다.
+**Dịch:** Màn hình khôi phục kỹ thuật số phải phân biệt giữa các sự kiện đã được xác nhận và ước tính của nhà nghiên cứu.
 
-**영어 참고:** *digital reconstruction* — 디지털 기술로 사라지거나 훼손된 유산을 재구성하는 작업이다.
+**어휘 연결:** `복원`은 물리적 대상을 되살리는 작업이고, `디지털 복원`은 자료를 바탕으로 가상 경험을 재구성한다. — 'Khôi phục' là quá trình khôi phục một đối tượng vật lý và 'khôi phục kỹ thuật số' tái tạo lại trải nghiệm ảo dựa trên dữ liệu.
+
+**영어 참고:** *digital reconstruction* — Đây là công trình phục dựng lại những di sản đã biến mất hoặc bị hư hỏng do công nghệ số.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** quá trình du lịch hóa.
 
-**뉘앙스와 사용법:** 지역경제를 활성화할 수 있지만 주민의 생활 공간과 기억이 소비용 이미지로 단순화될 위험도 있다.
+**뉘앙스와 사용법:** Nó có thể đem lại sức sống mới cho nền kinh tế địa phương, nhưng cũng có nguy cơ là không gian sống và ký ức của cư dân sẽ bị đơn giản hóa thành hình ảnh để tiêu dùng.
 
-**재사용 가능한 콜로케이션·청크:** `문화유산의 관광화`, `관광화에 따른 변화`, `과도한 관광화`.
+**재사용 가능한 콜로케이션·청크:** `문화유산의 관광화`, `관광화에 따른 변화`, `과도한 관광화`. — 'Du lịch di sản văn hóa', 'Những thay đổi do du lịch', 'Du lịch quá mức'.
 
-**자주 쓰는 문형과 성분:** `마을이 관광화되다`; 젠트리피케이션·방문객·지역 주민과 결합한다.
+**자주 쓰는 문형과 성분:** `마을이 관광화되다`, `Ngôi làng trở thành nơi du lịch` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 관광정책·도시재생·문화비평의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích về chính sách du lịch, tái tạo đô thị và phê bình văn hóa.
 
 **예문:** 관광화가 진행된 마을에서 임대료 상승과 주민 이탈이 동시에 나타나는지 살펴야 한다.
 
-**어휘 연결:** `관광 개발`은 투자와 시설을 강조하고, `관광화`는 장소의 의미와 생활이 관광 소비에 맞게 바뀌는 과정을 분석한다.
+**Dịch:** Ở những ngôi làng nơi du lịch đã phát triển, chúng ta phải kiểm tra xem liệu việc tăng tiền thuê nhà và việc cư dân di cư có xảy ra đồng thời hay không.
 
-**영어 참고:** *touristification* — 장소와 생활이 관광객 중심으로 재편되는 과정이다.
+**어휘 연결:** `관광 개발`은 투자와 시설을 강조하고, `관광화`는 장소의 의미와 생활이 관광 소비에 맞게 바뀌는 과정을 분석한다. — 'Phát triển du lịch' nhấn mạnh vào đầu tư và cơ sở vật chất, còn 'du lịch hóa' phân tích quá trình trong đó ý nghĩa của một địa điểm và cuộc sống thay đổi để phù hợp với việc tiêu dùng du lịch.
+
+**영어 참고:** *touristification* — Đó là một quá trình trong đó các địa điểm và cuộc sống được tổ chức lại xung quanh khách du lịch.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** địa điểm đang hot.
 
-**뉘앙스와 사용법:** 카페·전시·동네·축제에 널리 쓰이며, 장소의 문화적 가치보다 화제성과 방문 욕구를 강조하는 경우가 많다.
+**뉘앙스와 사용법:** Được sử dụng rộng rãi trong các quán cà phê, triển lãm, khu phố và lễ hội và thường nhấn mạnh tính thời sự và mong muốn được ghé thăm hơn là giá trị văn hóa của địa điểm.
 
-**재사용 가능한 콜로케이션·청크:** `요즘 핫플`, `전시 핫플`, `핫플로 뜨다`.
+**재사용 가능한 콜로케이션·청크:** `요즘 핫플`, `전시 핫플`, `핫플로 뜨다`. — ‘Bài đăng nóng những ngày này’, ‘Bài đăng nóng về triển lãm’, ‘Bài đăng nóng’.
 
-**자주 쓰는 문형과 성분:** `주말에 핫플을 찾아가다`; SNS·데이트·인증샷과 결합한다.
+**자주 쓰는 문형과 성분:** `주말에 핫플을 찾아가다`, `Cuối tuần đi tham quan một địa điểm hấp dẫn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** SNS·여행 후기·친구 대화에서 현재적으로 쓰이는 비격식 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt thân mật hiện được sử dụng trong SNS, đánh giá du lịch và trò chuyện với bạn bè.
 
 **예문:** 새로 문을 연 복합문화공간이 사진 찍기 좋은 핫플로 빠르게 알려졌어.
 
-**어휘 연결:** `명소`는 오래 인정된 장소이고, `핫플`은 최근 온라인 화제와 방문 유행을 강조한다.
+**Dịch:** Khu phức hợp văn hóa mới khai trương nhanh chóng được biết đến như một địa điểm chụp ảnh hấp dẫn.
 
-**영어 참고:** *hot spot/trendy place* — 최근 인기를 끄는 장소를 가볍게 부르는 말이다.
+**어휘 연결:** `명소`는 오래 인정된 장소이고, `핫플`은 최근 온라인 화제와 방문 유행을 강조한다. — 'Điểm tham quan' là những địa điểm đã được công nhận từ lâu và 'điểm nóng' nhấn mạnh các chủ đề trực tuyến gần đây và xu hướng ghé thăm.
+
+**영어 참고:** *hot spot/trendy place* — Một cách thông thường để gọi một địa điểm gần đây đã trở nên phổ biến.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** ảnh check-in/chụp để xác nhận đã đến.
 
-**뉘앙스와 사용법:** 기록과 공유의 즐거움이 있지만, 문화 경험이 사진 한 장의 소비와 자기표현으로 축소될 수 있다는 비판도 있다.
+**뉘앙스와 사용법:** Có niềm vui khi ghi lại và chia sẻ, nhưng cũng có những lời chỉ trích rằng trải nghiệm văn hóa có thể bị giảm xuống mức tiêu thụ và thể hiện bản thân trong một bức ảnh duy nhất.
 
-**재사용 가능한 콜로케이션·청크:** `인증샷을 남기다`, `인증샷 명소`, `인증샷을 올리다`.
+**재사용 가능한 콜로케이션·청크:** `인증샷을 남기다`, `인증샷 명소`, `인증샷을 올리다`. — 'Để lại ảnh chụp bằng chứng', 'Vị trí chụp ảnh bằng chứng', 'Tải lên ảnh chụp bằng chứng'.
 
-**자주 쓰는 문형과 성분:** `전시장에서 인증샷을 찍다`; 핫플·SNS·방문 후기와 결합한다.
+**자주 쓰는 문형과 성분:** `전시장에서 인증샷을 찍다`, `Chụp ảnh chứng minh tại phòng triển lãm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** SNS·관광·전시 후기에서 현재적으로 쓰이는 생활어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ hàng ngày hiện được sử dụng trong SNS, đánh giá du lịch và triển lãm.
 
 **예문:** 관람객들은 작품 설명보다 먼저 포토존에서 인증샷을 남기고 후기를 공유했다.
 
-**어휘 연결:** `기념사진`은 추억 기록에 가깝고, `인증샷`은 온라인에 올려 방문 사실과 취향을 보여 주는 행위를 강조한다.
+**Dịch:** Trước khi giải thích tác phẩm, khách tham quan đã chụp ảnh chứng minh và chia sẻ đánh giá trong vùng ảnh.
 
-**영어 참고:** *check-in photo/proof photo* — 장소나 경험을 인증하기 위해 온라인에 올리는 사진이다.
+**어휘 연결:** `기념사진`은 추억 기록에 가깝고, `인증샷`은 온라인에 올려 방문 사실과 취향을 보여 주는 행위를 강조한다. — 'Ảnh kỷ niệm' gần giống với việc ghi lại kỷ niệm hơn, trong khi 'ảnh chụp bằng chứng' nhấn mạnh hành động đăng chúng lên mạng để thể hiện sự thật về chuyến thăm và sở thích của bạn.
+
+**영어 참고:** *check-in photo/proof photo* — Một bức ảnh được đăng trực tuyến để xác thực một địa điểm hoặc trải nghiệm.
 
 <!-- passage_word_count: 106 Korean eojeol; target_set: 문화경관, 무형유산, 유산화, 기억의 장소, 문화적 맥락, 전시 해석, 보존과 활용, 문화향유권, 지역문화진흥, 문화생태계, 아카이브화, 디지털 복원, 관광화, 핫플, 인증샷 -->
 

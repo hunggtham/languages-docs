@@ -4,7 +4,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
 
 ## Vocabulary Network
 
-### 1. supply and demand
+## 1. supply and demand
 - **IPA**: /səˈplaɪ ənd dɪˈmænd/
 - **Part of Speech**: noun phrase (uncountable)
 - **Core Meaning**: The relationship between the amount of a product that is available and the amount that people want to buy, which ultimately determines its price.
@@ -15,7 +15,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - The housing shortage is a classic problem of supply and demand. (Sự thiếu hụt nhà ở là một vấn đề kinh điển của cung và cầu.)
 - **Korean Linking**: 수요와 공급 (suyo-wa gonggeup)
 
-### 2. purchasing power
+## 2. purchasing power
 - **IPA**: /ˈpɜːrtʃəsɪŋ ˌpaʊər/
 - **Part of Speech**: noun (uncountable)
 - **Core Meaning**: The financial ability to buy products and services; the value of a currency expressed in terms of the amount of goods or services that one unit of money can buy.
@@ -26,7 +26,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - A strong currency gives citizens greater purchasing power abroad. (Đồng tiền mạnh mang lại cho người dân sức mua lớn hơn ở nước ngoài.)
 - **Korean Linking**: 구매력 (gumaeryeok)
 
-### 3. gross domestic product
+## 3. gross domestic product
 - **IPA**: /ˌɡroʊs dəˈmestɪk ˈprɑːdʌkt/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: The total value of all goods and services produced within a country's borders in a specific time period.
@@ -37,7 +37,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - The government expects the gross domestic product to grow by three percent this year. (Chính phủ dự kiến tổng sản phẩm quốc nội sẽ tăng ba phần trăm trong năm nay.)
 - **Korean Linking**: 국내 총생산 (guknae chongsaengsan)
 
-### 4. economic indicator
+## 4. economic indicator
 - **IPA**: /ˌekəˈnɑːmɪk ˈɪndɪkeɪtər/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: A statistic about an economic activity that allows analysis of economic performance and predictions of future performance.
@@ -48,7 +48,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Investors closely monitor economic indicators to make financial decisions. (Các nhà đầu tư theo dõi sát sao các chỉ số kinh tế để đưa ra quyết định tài chính.)
 - **Korean Linking**: 경제 지표 (gyeongje jipyo)
 
-### 5. trade deficit
+## 5. trade deficit
 - **IPA**: /ˈtreɪd ˌdefɪsɪt/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: An economic measure of international trade in which a country's imports exceed its exports.
@@ -59,7 +59,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Policies were introduced to boost exports and reduce the trade deficit. (Các chính sách đã được đưa ra để thúc đẩy xuất khẩu và giảm thâm hụt thương mại.)
 - **Korean Linking**: 무역 적자 (muyeok jeokja)
 
-### 6. trade surplus
+## 6. trade surplus
 - **IPA**: /ˈtreɪd ˌsɜːrpləs/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: An economic measure of a positive balance of trade, where a country's exports exceed its imports.
@@ -70,7 +70,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - The robust manufacturing sector helped the nation achieve a record trade surplus. (Khu vực sản xuất vững mạnh đã giúp quốc gia đạt được thặng dư thương mại kỷ lục.)
 - **Korean Linking**: 무역 흑자 (muyeok heukja)
 
-### 7. consumer price index
+## 7. consumer price index
 - **IPA**: /kənˌsuːmər ˈpraɪs ˌɪndeks/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: A measure that examines the weighted average of prices of a basket of consumer goods and services, used to track inflation.
@@ -81,7 +81,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Pensions are often adjusted annually based on the consumer price index. (Lương hưu thường được điều chỉnh hàng năm dựa trên chỉ số giá tiêu dùng.)
 - **Korean Linking**: 소비자 물가 지수 (sobija mulga jisu)
 
-### 8. interest rate hike
+## 8. interest rate hike
 - **IPA**: /ˈɪntrəst reɪt ˌhaɪk/
 - **Part of Speech**: noun phrase (countable)
 - **Core Meaning**: An increase in the cost of borrowing money, usually implemented by a central bank to control inflation.
@@ -92,7 +92,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Stock markets often react negatively to a sudden interest rate hike. (Thị trường chứng khoán thường phản ứng tiêu cực trước một đợt tăng lãi suất đột ngột.)
 - **Korean Linking**: 금리 인상 (geumri insang)
 
-### 9. market equilibrium
+## 9. market equilibrium
 - **IPA**: /ˌmɑːrkɪt ˌiːkwɪˈlɪbriəm/
 - **Part of Speech**: noun (uncountable)
 - **Core Meaning**: A state where the supply of a good matches demand, resulting in stable prices.
@@ -103,7 +103,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - External shocks, such as natural disasters, can disrupt market equilibrium. (Các cú sốc từ bên ngoài, chẳng hạn như thiên tai, có thể phá vỡ sự cân bằng thị trường.)
 - **Korean Linking**: 시장 균형 (sijang gyunhyeong)
 
-### 10. competitive advantage
+## 10. competitive advantage
 - **IPA**: /kəmˈpetətɪv ədˈvæntɪdʒ/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: A condition or circumstance that puts a company in a favorable or superior business position.
@@ -114,7 +114,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Investing in employee training is a good way to build a sustainable competitive advantage. (Đầu tư vào đào tạo nhân viên là một cách tốt để xây dựng lợi thế cạnh tranh bền vững.)
 - **Korean Linking**: 경쟁 우위 (gyeongjaeng uwi)
 
-### 11. fiscal policy
+## 11. fiscal policy
 - **IPA**: /ˈfɪskl ˌpɑːləsi/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: The use of government spending and taxation to influence the economy.
@@ -125,7 +125,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Critics argue that the new fiscal policy will unnecessarily increase the national debt. (Các nhà phê bình lập luận rằng chính sách tài khóa mới sẽ làm tăng nợ quốc gia một cách không cần thiết.)
 - **Korean Linking**: 재정 정책 (jaejeong jeongchaek)
 
-### 12. monetary stimulus
+## 12. monetary stimulus
 - **IPA**: /ˈmɑːnɪteri ˌstɪmjələs/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: Actions taken by a central bank, such as lowering interest rates or printing money, to encourage economic growth.
@@ -136,7 +136,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Businesses benefited greatly from the monetary stimulus programs launched last year. (Các doanh nghiệp được hưởng lợi rất nhiều từ các chương trình kích thích tiền tệ được triển khai vào năm ngoái.)
 - **Korean Linking**: 통화 경기 부양책 (tonghwa gyeonggi buyangchaek)
 
-### 13. economic downturn
+## 13. economic downturn
 - **IPA**: /ˌekəˈnɑːmɪk ˈdaʊntɜːrn/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: A general decline in economic activity, often characterized by rising unemployment and falling production.
@@ -147,7 +147,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Many small businesses struggle to survive during a prolonged economic downturn. (Nhiều doanh nghiệp nhỏ phải vật lộn để tồn tại trong thời kỳ kinh tế đi xuống kéo dài.)
 - **Korean Linking**: 경기 침체 (gyeonggi chimche)
 
-### 14. labor market
+## 14. labor market
 - **IPA**: /ˈleɪbər ˌmɑːrkɪt/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: The availability of employment and labor, in terms of supply and demand.
@@ -158,7 +158,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - In a tight labor market, employers must offer higher wages to attract talent. (Trong một thị trường lao động khan hiếm, các nhà tuyển dụng phải đưa ra mức lương cao hơn để thu hút nhân tài.)
 - **Korean Linking**: 노동 시장 (nodong sijang)
 
-### 15. price gouging
+## 15. price gouging
 - **IPA**: /ˈpraɪs ˌɡaʊdʒɪŋ/
 - **Part of Speech**: noun (uncountable)
 - **Core Meaning**: The practice of raising the price of goods, services, or commodities to an unreasonable or unfair level, often during a crisis.
@@ -169,7 +169,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - New laws were implemented to protect consumers from price gouging after the hurricane. (Các luật mới đã được ban hành để bảo vệ người tiêu dùng khỏi việc bị chặt chém giá sau cơn bão.)
 - **Korean Linking**: 가격 폭리 (gagyeok pongni)
 
-### 16. standard of living
+## 16. standard of living
 - **IPA**: /ˈstændərd əv ˈlɪvɪŋ/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: The level of wealth, comfort, material goods, and necessities available to a certain socioeconomic class or geographic area.
@@ -180,7 +180,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Rapid inflation can cause a sudden drop in the population's standard of living. (Lạm phát nhanh chóng có thể làm giảm đột ngột mức sống của người dân.)
 - **Korean Linking**: 생활 수준 (saenghwal sujun)
 
-### 17. profit margin
+## 17. profit margin
 - **IPA**: /ˈprɑːfɪt ˌmɑːrdʒɪn/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: A measure of profitability, calculated by finding the net profit as a percentage of the revenue.
@@ -191,7 +191,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - The software company boasts an impressive profit margin due to low production costs. (Công ty phần mềm tự hào có một biên lợi nhuận ấn tượng nhờ chi phí sản xuất thấp.)
 - **Korean Linking**: 이윤 폭 (iyun pok)
 
-### 18. market share
+## 18. market share
 - **IPA**: /ˈmɑːrkɪt ˌʃer/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: The portion of a market controlled by a particular company or product.
@@ -202,7 +202,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - They lost a significant portion of their market share to a new competitor. (Họ đã để mất một phần lớn thị phần của mình vào tay một đối thủ cạnh tranh mới.)
 - **Korean Linking**: 시장 점유율 (sijang jeomyuyul)
 
-### 19. foreign investment
+## 19. foreign investment
 - **IPA**: /ˈfɔːrən ɪnˈvestmənt/
 - **Part of Speech**: noun (countable/uncountable)
 - **Core Meaning**: Investment in domestic companies and assets by individuals or organizations from another country.
@@ -213,7 +213,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Foreign investment has been a key driver in modernizing the country's infrastructure. (Đầu tư nước ngoài đã là một động lực chính trong việc hiện đại hóa cơ sở hạ tầng của đất nước.)
 - **Korean Linking**: 외국인 투자 (oegugin tuja)
 
-### 20. cost of living
+## 20. cost of living
 - **IPA**: /ˈkɔːst əv ˈlɪvɪŋ/
 - **Part of Speech**: noun (singular)
 - **Core Meaning**: The amount of money needed to cover basic expenses such as housing, food, taxes, and healthcare in a certain place and time period.
@@ -224,7 +224,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Employees have requested a wage increase to cope with the rising cost of living. (Nhân viên đã yêu cầu tăng lương để đối phó với chi phí sinh hoạt ngày càng tăng.)
 - **Korean Linking**: 생활비 (saenghwalbi)
 
-### 21. supply chain
+## 21. supply chain
 - **IPA**: /səˈplaɪ ˌtʃeɪn/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: The sequence of processes involved in the production and distribution of a commodity.
@@ -235,7 +235,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - A robust supply chain is essential for any modern retail business. (Một chuỗi cung ứng vững mạnh là điều thiết yếu đối với bất kỳ doanh nghiệp bán lẻ hiện đại nào.)
 - **Korean Linking**: 공급망 (gonggeupmang)
 
-### 22. economic growth
+## 22. economic growth
 - **IPA**: /ˌekəˈnɑːmɪk ˈɡroʊθ/
 - **Part of Speech**: noun (uncountable)
 - **Core Meaning**: An increase in the amount of goods and services produced per head of the population over a period of time.
@@ -246,7 +246,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - The mayor's new policies are designed to stimulate local economic growth. (Các chính sách mới của thị trưởng được thiết kế để kích thích sự tăng trưởng kinh tế ở địa phương.)
 - **Korean Linking**: 경제 성장 (gyeongje seongjang)
 
-### 23. free trade
+## 23. free trade
 - **IPA**: /ˌfriː ˈtreɪd/
 - **Part of Speech**: noun (uncountable)
 - **Core Meaning**: International buying and selling of goods, without limits on the amount of goods that one country can sell to another, and without special taxes.
@@ -257,7 +257,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Supporters of free trade argue that it leads to lower prices for consumers. (Những người ủng hộ thương mại tự do lập luận rằng nó dẫn đến giá cả thấp hơn cho người tiêu dùng.)
 - **Korean Linking**: 자유 무역 (jayu muyeok)
 
-### 24. exchange rate
+## 24. exchange rate
 - **IPA**: /ɪksˈtʃeɪndʒ ˌreɪt/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: The value of one currency for the purpose of conversion to another.
@@ -268,7 +268,7 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
   - Businesses that import goods are highly vulnerable to exchange rate fluctuations. (Các doanh nghiệp nhập khẩu hàng hóa rất dễ bị tổn thương trước những biến động của tỷ giá hối đoái.)
 - **Korean Linking**: 환율 (hwanyul)
 
-### 25. emerging market
+## 25. emerging market
 - **IPA**: /ɪˈmɜːrdʒɪŋ ˌmɑːrkɪt/
 - **Part of Speech**: noun (countable)
 - **Core Meaning**: The economy of a developing nation that is becoming more engaged with global markets as it grows.
@@ -281,13 +281,13 @@ This lesson covers essential B2-level vocabulary related to economics, focusing 
 
 ## Review in Context
 
-### Passage 1: Navigating the Macroeconomic Landscape
+## Passage 1: Navigating the Macroeconomic Landscape
 Understanding a nation's **economic growth** requires looking closely at key **economic indicators**. For example, a rising **gross domestic product** generally points to a healthy economy, while a high **consumer price index** warns of inflation, which can diminish consumers' **purchasing power**. In response, a central bank might announce an **interest rate hike** to cool things down, or alternatively, provide a **monetary stimulus** during an **economic downturn**. The government also plays its part by adjusting its **fiscal policy**. On a global scale, an **exchange rate** can affect whether a country runs a **trade surplus** or falls into a **trade deficit**. Understanding these forces is essential for anyone entering the modern **labor market** or looking to navigate the broader **cost of living**.
 
 **Bản dịch:**
 Việc hiểu được sự **tăng trưởng kinh tế** của một quốc gia đòi hỏi phải xem xét kỹ các **chỉ số kinh tế** chính. Ví dụ, **tổng sản phẩm quốc nội** đang tăng thường chỉ ra một nền kinh tế khỏe mạnh, trong khi **chỉ số giá tiêu dùng** cao cảnh báo về lạm phát, điều có thể làm giảm **sức mua** của người tiêu dùng. Để đối phó, một ngân hàng trung ương có thể công bố một đợt **tăng lãi suất** để làm hạ nhiệt tình hình, hoặc ngược lại, cung cấp một gói **kích thích tiền tệ** trong thời kỳ **suy thoái kinh tế**. Chính phủ cũng đóng vai trò của mình bằng cách điều chỉnh **chính sách tài khóa**. Trên quy mô toàn cầu, **tỷ giá hối đoái** có thể ảnh hưởng đến việc một quốc gia đạt **thặng dư thương mại** hay rơi vào tình trạng **thâm hụt thương mại**. Hiểu được những lực lượng này là điều cần thiết đối với bất kỳ ai bước vào **thị trường lao động** hiện đại hoặc đang tìm cách đối phó với **chi phí sinh hoạt** chung.
 
-### Passage 2: Business Strategy and the Free Market
+## Passage 2: Business Strategy and the Free Market
 For a business to thrive, it must master the dynamics of **supply and demand** to achieve **market equilibrium**. Disruptions in the global **supply chain** can lead to shortages, prompting governments to closely monitor for **price gouging**. Meanwhile, companies strive to maintain a high **profit margin** and capture more **market share** by finding a unique **competitive advantage**. A nation embracing **free trade** often attracts significant **foreign investment**, especially if it is a rapidly growing **emerging market**. Ultimately, a successful business environment contributes to raising the overall **standard of living** for its citizens.
 
 **Bản dịch:**
