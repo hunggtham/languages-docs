@@ -216,6 +216,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [기후보험과 재난 재정의 언어](./advanced-climate-insurance-and-disaster-finance/README.md) — `위험 이전과 신속 지급을 읽다`
 - [도시 빗물 집수와 물요금 형평성의 언어](./advanced-urban-rainwater-harvesting-and-water-affordability/README.md) — `빗물 재이용과 물접근권을 읽다`
 - [생체자원은행 거버넌스와 유전체 동의의 언어](./advanced-biobank-governance-and-genomic-consent/README.md) — `연구 동의와 자료 책임을 읽다`
+- [사용후배터리 재사용과 전력망 순환성의 언어](./advanced-battery-reuse-and-grid-storage-circularity/README.md) — `이차사용과 자원 회수를 읽다`
+- [의료 데이터 상호운용성과 환자 프라이버시의 언어](./advanced-healthcare-data-interoperability-and-patient-privacy/README.md) — `진료 데이터와 동의 관리를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

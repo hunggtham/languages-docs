@@ -215,6 +215,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [기후보험과 재난 재정의 언어](./topics/advanced-climate-insurance-and-disaster-finance/README.md)
 - [도시 빗물 집수와 물요금 형평성의 언어](./topics/advanced-urban-rainwater-harvesting-and-water-affordability/README.md)
 - [생체자원은행 거버넌스와 유전체 동의의 언어](./topics/advanced-biobank-governance-and-genomic-consent/README.md)
+- [사용후배터리 재사용과 전력망 순환성의 언어](./topics/advanced-battery-reuse-and-grid-storage-circularity/README.md)
+- [의료 데이터 상호운용성과 환자 프라이버시의 언어](./topics/advanced-healthcare-data-interoperability-and-patient-privacy/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
