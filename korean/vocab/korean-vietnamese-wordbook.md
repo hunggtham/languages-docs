@@ -137,6 +137,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [도시 수인성 병원체 감시의 언어](./topics/advanced-urban-waterborne-pathogen-surveillance/README.md)
 - [도시 소음과 환경 건강의 언어](./topics/advanced-urban-noise-and-environmental-health/README.md)
 - [양자 소재와 소자 공학의 언어](./topics/advanced-quantum-materials-and-device-engineering/README.md)
+- [정밀의료와 바이오마커 검증의 언어](./topics/advanced-precision-medicine-and-biomarker-validation/README.md)
+- [콘텐츠 조정과 플랫폼 거버넌스의 언어](./topics/advanced-content-moderation-and-platform-governance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

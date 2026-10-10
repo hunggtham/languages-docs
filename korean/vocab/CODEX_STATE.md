@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,230 new targets across eighty-two independent topic batches; 6,230 structured headings toward the 10,000 target, leaving 3,770 after this checkpoint.
+- Progress in this checkpoint: 1,260 new targets across eighty-four independent topic batches; 6,260 structured headings toward the 10,000 target, leaving 3,740 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3140,3 +3140,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 96-eojeol Korean quantum-materials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,230 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-10 precision-medicine and content-moderation checkpoint
+
+- Topic: `advanced-precision-medicine-and-biomarker-validation`
+- File: `01-precision-medicine-and-biomarker-validation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot precision-medicine and biomarker-validation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean precision-medicine passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-content-moderation-and-platform-governance`
+- File: `01-content-moderation-and-enforcement.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot content-moderation and platform-governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean content-moderation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,260 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
