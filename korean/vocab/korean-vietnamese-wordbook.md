@@ -181,6 +181,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [AI 윤리와 인간 증강의 언어](./topics/advanced-ai-ethics-and-human-augmentation/README.md)
 - [히트펌프와 전력망 유연성의 언어](./topics/advanced-heat-pump-grid-integration-and-flexibility/README.md)
 - [해초 복원과 해양 생태계 서비스의 언어](./topics/advanced-marine-seagrass-restoration-and-ecosystem-services/README.md)
+- [도시 폭염 건강과 냉방 거점의 언어](./topics/advanced-urban-heat-health-and-cooling-centers/README.md)
+- [원격탐사와 지구 관측의 언어](./topics/advanced-remote-sensing-and-earth-observation/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
