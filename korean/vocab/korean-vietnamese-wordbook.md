@@ -131,6 +131,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [리튬 배터리 안전과 재활용의 언어](./topics/advanced-lithium-battery-safety-and-recycling/README.md)
 - [해양 열파와 수산업의 언어](./topics/advanced-marine-heatwaves-and-fisheries/README.md)
 - [윤리적 AI와 알고리즘 감사의 언어](./topics/advanced-ethical-ai-and-algorithmic-auditing/README.md)
+- [식물병리와 식량안보의 언어](./topics/advanced-plant-pathology-and-food-security/README.md)
+- [디지털 치료제와 임상 근거의 언어](./topics/advanced-digital-therapeutics-and-clinical-evidence/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
