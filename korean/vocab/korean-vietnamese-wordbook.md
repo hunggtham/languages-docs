@@ -173,6 +173,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 에너지 저장과 수요반응의 언어](./topics/advanced-community-energy-storage-and-demand-response/README.md)
 - [장수 바이오마커와 노화과학의 언어](./topics/advanced-longevity-biomarkers-and-geroscience/README.md)
 - [도시 음식물 폐기물과 혐기성 소화의 언어](./topics/advanced-urban-food-waste-and-anaerobic-digestion/README.md)
+- [공중보건 하수와 항생제 내성의 언어](./topics/advanced-public-health-wastewater-antimicrobial-resistance/README.md)
+- [양자 네트워크와 보안 통신의 언어](./topics/advanced-quantum-networking-and-secure-communications/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
