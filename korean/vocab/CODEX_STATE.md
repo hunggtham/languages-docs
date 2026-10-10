@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,320 new targets across eighty-eight independent topic batches; 6,320 structured headings toward the 10,000 target, leaving 3,680 after this checkpoint.
+- Progress in this checkpoint: 1,350 new targets across ninety independent topic batches; 6,350 structured headings toward the 10,000 target, leaving 3,650 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3185,3 +3185,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 94-eojeol Korean rural-care passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,320 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-10 epigenomics and railway autonomy checkpoint
+
+- Topic: `advanced-epigenomics-and-lifecourse-health`
+- File: `01-epigenomics-and-lifecourse-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot epigenomics and lifecourse-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean epigenomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, independently corrected exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-railway-signalling-and-autonomous-mobility`
+- File: `01-signalling-and-autonomous-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot railway-signalling and autonomous-mobility headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean railway-signalling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,350 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
