@@ -135,6 +135,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [디지털 치료제와 임상 근거의 언어](./topics/advanced-digital-therapeutics-and-clinical-evidence/README.md)
 - [신경보철 재활의 언어](./topics/advanced-neuroprosthetics-and-rehabilitation/README.md)
 - [도시 수인성 병원체 감시의 언어](./topics/advanced-urban-waterborne-pathogen-surveillance/README.md)
+- [도시 소음과 환경 건강의 언어](./topics/advanced-urban-noise-and-environmental-health/README.md)
+- [양자 소재와 소자 공학의 언어](./topics/advanced-quantum-materials-and-device-engineering/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

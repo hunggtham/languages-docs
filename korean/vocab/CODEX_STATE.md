@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,200 new targets across eighty independent topic batches; 6,200 structured headings toward the 10,000 target, leaving 3,800 after this checkpoint.
+- Progress in this checkpoint: 1,230 new targets across eighty-two independent topic batches; 6,230 structured headings toward the 10,000 target, leaving 3,770 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3125,3 +3125,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 125-eojeol Korean urban-pathogen surveillance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,200 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-10 urban-noise and quantum-materials checkpoint
+
+- Topic: `advanced-urban-noise-and-environmental-health`
+- File: `01-urban-noise-and-environmental-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-noise and environmental-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean urban-noise passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-materials-and-device-engineering`
+- File: `01-quantum-materials-and-device-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum-materials and device-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean quantum-materials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,230 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

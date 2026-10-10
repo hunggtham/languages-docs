@@ -136,6 +136,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [디지털 치료제와 임상 근거의 언어](./advanced-digital-therapeutics-and-clinical-evidence/README.md) — `디지털 치료와 임상 근거를 검증하다`
 - [신경보철 재활의 언어](./advanced-neuroprosthetics-and-rehabilitation/README.md) — `신경보철과 회복 훈련을 읽다`
 - [도시 수인성 병원체 감시의 언어](./advanced-urban-waterborne-pathogen-surveillance/README.md) — `도시 물과 병원체 감시를 읽다`
+- [도시 소음과 환경 건강의 언어](./advanced-urban-noise-and-environmental-health/README.md) — `소음 노출과 건강 영향을 읽다`
+- [양자 소재와 소자 공학의 언어](./advanced-quantum-materials-and-device-engineering/README.md) — `양자 물질과 소자 설계를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
