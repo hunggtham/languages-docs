@@ -125,6 +125,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [순환 전자제품과 전자폐기물의 언어](./topics/advanced-circular-electronics-and-e-waste/README.md)
 - [우주기상과 위성 회복력의 언어](./topics/advanced-space-weather-and-satellite-resilience/README.md)
 - [희귀질환 유전체와 진단 형평성의 언어](./topics/advanced-rare-disease-genomics-and-diagnostic-equity/README.md)
+- [해양 산성화와 블루카본의 언어](./topics/advanced-ocean-acidification-and-blue-carbon/README.md)
+- [프라이버시 보존 머신러닝의 언어](./topics/advanced-privacy-preserving-machine-learning/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

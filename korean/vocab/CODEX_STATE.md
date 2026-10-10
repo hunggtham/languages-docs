@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,050 new targets across seventy independent topic batches; 6,050 structured headings toward the 10,000 target, leaving 3,950 after this checkpoint.
+- Progress in this checkpoint: 1,080 new targets across seventy-two independent topic batches; 6,080 structured headings toward the 10,000 target, leaving 3,920 after this checkpoint.
+
+- Topic: `advanced-ocean-acidification-and-blue-carbon`
+- File: `01-carbonate-chemistry-and-blue-carbon-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean-acidification and blue-carbon headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 123-eojeol Korean blue-carbon passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-privacy-preserving-machine-learning`
+- File: `01-attacks-and-protection-mechanisms.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot privacy-preserving machine-learning headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean privacy-ML passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-space-weather-and-satellite-resilience`
 - File: `01-space-weather-and-satellite-resilience.md`

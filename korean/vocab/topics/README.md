@@ -126,6 +126,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [순환 전자제품과 전자폐기물의 언어](./advanced-circular-electronics-and-e-waste/README.md) — `전자제품의 순환과 회수를 읽다`
 - [우주기상과 위성 회복력의 언어](./advanced-space-weather-and-satellite-resilience/README.md) — `태양 활동과 위성 운영을 읽다`
 - [희귀질환 유전체와 진단 형평성의 언어](./advanced-rare-disease-genomics-and-diagnostic-equity/README.md) — `유전체 진단과 접근 격차를 읽다`
+- [해양 산성화와 블루카본의 언어](./advanced-ocean-acidification-and-blue-carbon/README.md) — `탄산염 화학과 해양 탄소 저장을 읽다`
+- [프라이버시 보존 머신러닝의 언어](./advanced-privacy-preserving-machine-learning/README.md) — `공격과 보호 메커니즘을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
