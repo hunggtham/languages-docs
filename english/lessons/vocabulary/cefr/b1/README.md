@@ -41,6 +41,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
 - [Household Chores And Cleaning](./home/04-household-chores-and-cleaning.md)
 - [Home Improvement And Repairs](./home/05-home-improvement-and-repairs.md)
+- [Yards Gardens And Outdoor Living](./home/06-yards-gardens-and-outdoor-living.md)
 
 ## transport
 
@@ -108,6 +109,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Cooking And Eating Out](./food/01-cooking-and-eating-out.md)
 - [Nutrition And Diets](./food/02-nutrition-and-diets.md)
 - [Cooking Methods And Food Preparation](./food/03-cooking-methods-and-food-preparation.md)
+- [Restaurant Service And Casual Dining](./food/04-restaurant-service-and-casual-dining.md)
 
 ## relationships
 

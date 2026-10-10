@@ -72,6 +72,10 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Personal Finance And Capital Management](./finance/01-personal-finance-and-capital-management.md)
 
+## economics
+
+- [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
+
 ## law
 
 - [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
