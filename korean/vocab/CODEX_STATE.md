@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,070 new targets across one hundred thirty-eight independent topic batches; 7,070 structured headings toward the 10,000 target, leaving 2,930 after this checkpoint.
+- Progress in this checkpoint: 2,100 new targets across one hundred forty independent topic batches; 7,100 structured headings toward the 10,000 target, leaving 2,900 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3560,3 +3560,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 106-eojeol Korean mangrove-restoration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, Markdown-bold-aware target coverage, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,070 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 urban-circular-water and biodiversity-genomics checkpoint
+
+- Topic: `advanced-urban-circular-water-and-greywater`
+- File: `01-greywater-and-urban-circular-water.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-circular-water and greywater headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean greywater passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-biodiversity-genomics-and-conservation`
+- File: `01-biodiversity-genomics-and-conservation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biodiversity-genomics and conservation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean biodiversity-genomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,100 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
