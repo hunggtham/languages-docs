@@ -163,6 +163,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [법률 문서 자동화와 사법 접근성의 언어](./topics/advanced-legal-document-automation-and-access-to-justice/README.md)
 - [도시 미기후와 녹색 지붕의 언어](./topics/advanced-urban-microclimate-and-green-roofs/README.md)
 - [희토류 분리와 재료 회수의 언어](./topics/advanced-rare-earth-separation-and-materials-recovery/README.md)
+- [도시 지표수와 홍수 모델링의 언어](./topics/advanced-urban-surface-water-flood-modelling/README.md)
+- [희귀질환 치료 개발의 언어](./topics/advanced-rare-disease-therapeutic-development/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

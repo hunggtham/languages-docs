@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,620 new targets across one hundred eight independent topic batches; 6,620 structured headings toward the 10,000 target, leaving 3,380 after this checkpoint.
+- Progress in this checkpoint: 1,650 new targets across one hundred ten independent topic batches; 6,650 structured headings toward the 10,000 target, leaving 3,350 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3335,3 +3335,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 97-eojeol Korean rare-earth recovery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,620 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 urban-flood modelling and rare-disease therapy checkpoint
+
+- Topic: `advanced-urban-surface-water-flood-modelling`
+- File: `01-urban-surface-water-flood-modelling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban surface-water and flood-modelling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean flood-modelling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-rare-disease-therapeutic-development`
+- File: `01-rare-disease-therapeutic-development.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rare-disease therapeutic-development headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean rare-disease therapy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,650 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
