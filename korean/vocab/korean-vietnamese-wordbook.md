@@ -199,6 +199,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [토양 미생물군과 탄소 격리의 언어](./topics/advanced-soil-microbiome-and-carbon-sequestration/README.md)
 - [도시 태양 차양과 건물 물리의 언어](./topics/advanced-urban-solar-shading-and-building-physics/README.md)
 - [담수 생태와 하천 복원의 언어](./topics/advanced-freshwater-ecology-and-river-restoration/README.md)
+- [재난 위험 소통과 조기경보의 언어](./topics/advanced-disaster-risk-communication-and-early-warning/README.md)
+- [플랫폼 노동과 노동시장 전환의 언어](./topics/advanced-platform-work-and-labor-market-transition/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

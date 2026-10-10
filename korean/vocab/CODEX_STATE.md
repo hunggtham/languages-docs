@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,160 new targets across one hundred forty-four independent topic batches; 7,160 structured headings toward the 10,000 target, leaving 2,840 after this checkpoint.
+- Progress in this checkpoint: 2,190 new targets across one hundred forty-six independent topic batches; 7,190 structured headings toward the 10,000 target, leaving 2,810 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3605,3 +3605,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 121-eojeol Korean freshwater-restoration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,160 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 disaster-risk and platform-work checkpoint
+
+- Topic: `advanced-disaster-risk-communication-and-early-warning`
+- File: `01-disaster-risk-communication-and-early-warning.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot disaster-risk communication and early-warning headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean disaster-risk communication passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-platform-work-and-labor-market-transition`
+- File: `01-platform-work-and-labor-market-transition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot platform-work and labor-market-transition headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 124-eojeol Korean platform-work passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,190 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
