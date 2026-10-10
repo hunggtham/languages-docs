@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,080 new targets across seventy-two independent topic batches; 6,080 structured headings toward the 10,000 target, leaving 3,920 after this checkpoint.
+- Progress in this checkpoint: 1,110 new targets across seventy-four independent topic batches; 6,110 structured headings toward the 10,000 target, leaving 3,890 after this checkpoint.
+
+- Topic: `advanced-ecosystem-restoration-and-rewilding`
+- File: `01-rewilding-and-ecosystem-recovery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ecosystem-restoration and rewilding headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 124-eojeol Korean rewilding passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-lithium-battery-safety-and-recycling`
+- File: `01-lithium-battery-safety-and-recycling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lithium-battery safety and recycling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 67-eojeol Korean battery-safety passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-ocean-acidification-and-blue-carbon`
 - File: `01-carbonate-chemistry-and-blue-carbon-storage.md`

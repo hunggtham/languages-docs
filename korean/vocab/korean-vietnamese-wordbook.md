@@ -127,6 +127,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [희귀질환 유전체와 진단 형평성의 언어](./topics/advanced-rare-disease-genomics-and-diagnostic-equity/README.md)
 - [해양 산성화와 블루카본의 언어](./topics/advanced-ocean-acidification-and-blue-carbon/README.md)
 - [프라이버시 보존 머신러닝의 언어](./topics/advanced-privacy-preserving-machine-learning/README.md)
+- [생태계 복원과 재야생화의 언어](./topics/advanced-ecosystem-restoration-and-rewilding/README.md)
+- [리튬 배터리 안전과 재활용의 언어](./topics/advanced-lithium-battery-safety-and-recycling/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
