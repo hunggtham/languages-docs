@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,380 new targets across ninety-two independent topic batches; 6,380 structured headings toward the 10,000 target, leaving 3,620 after this checkpoint.
+- Progress in this checkpoint: 1,410 new targets across ninety-four independent topic batches; 6,410 structured headings toward the 10,000 target, leaving 3,590 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3215,3 +3215,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 96-eojeol Korean coastal-defense passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,380 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-10 urban-air and civic-technology checkpoint
+
+- Topic: `advanced-urban-air-quality-and-exposure-science`
+- File: `01-urban-air-quality-and-exposure.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-air-quality and exposure-science headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean air-quality passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-civic-technology-and-participatory-budgeting`
+- File: `01-civic-technology-and-participatory-budgeting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot civic-technology and participatory-budgeting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean civic-participation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,410 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

@@ -147,6 +147,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [철도 신호와 자율 운행의 언어](./topics/advanced-railway-signalling-and-autonomous-mobility/README.md)
 - [시청각 접근성과 자막의 언어](./topics/advanced-audiovisual-accessibility-and-captioning/README.md)
 - [해안 공학과 자연 기반 방어의 언어](./topics/advanced-coastal-engineering-and-nature-based-defense/README.md)
+- [도시 대기질과 노출 과학의 언어](./topics/advanced-urban-air-quality-and-exposure-science/README.md)
+- [시민 기술과 참여예산의 언어](./topics/advanced-civic-technology-and-participatory-budgeting/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
