@@ -122,6 +122,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [양자 센싱과 계측의 언어](./advanced-quantum-sensing-and-metrology/README.md) — `정밀 측정과 양자 센서를 읽다`
 - [홍수 위험과 유역 거버넌스의 언어](./advanced-flood-risk-and-river-basin-governance/README.md) — `홍수 위험을 측정하고 유역의 대응을 조정하다`
 - [리걸테크와 증거 플랫폼의 언어](./advanced-legal-tech-and-evidence-platforms/README.md) — `법률 데이터를 연결하고 절차의 책임을 추적하다`
+- [산림 탄소 회계와 자연 시장의 언어](./advanced-forest-carbon-accounting-and-nature-markets/README.md) — `숲의 탄소와 자연 금융을 읽다`
+- [순환 전자제품과 전자폐기물의 언어](./advanced-circular-electronics-and-e-waste/README.md) — `전자제품의 순환과 회수를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

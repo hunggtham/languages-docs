@@ -121,6 +121,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [양자 센싱과 계측의 언어](./topics/advanced-quantum-sensing-and-metrology/README.md)
 - [홍수 위험과 유역 거버넌스의 언어](./topics/advanced-flood-risk-and-river-basin-governance/README.md)
 - [리걸테크와 증거 플랫폼의 언어](./topics/advanced-legal-tech-and-evidence-platforms/README.md)
+- [산림 탄소 회계와 자연 시장의 언어](./topics/advanced-forest-carbon-accounting-and-nature-markets/README.md)
+- [순환 전자제품과 전자폐기물의 언어](./topics/advanced-circular-electronics-and-e-waste/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

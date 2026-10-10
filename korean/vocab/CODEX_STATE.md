@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 990 new targets across sixty-six independent topic batches; 5,990 structured headings toward the 10,000 target, leaving 4,010 after this checkpoint.
+- Progress in this checkpoint: 1,020 new targets across sixty-eight independent topic batches; 6,020 structured headings toward the 10,000 target, leaving 3,980 after this checkpoint.
+
+- Topic: `advanced-forest-carbon-accounting-and-nature-markets`
+- File: `01-forest-carbon-accounting-and-nature-markets.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot forest-carbon accounting and nature-market headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean forest-carbon passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-circular-electronics-and-e-waste`
+- File: `01-circular-electronics-and-e-waste.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot circular-electronics and e-waste headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean circular-electronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-flood-risk-and-river-basin-governance`
 - File: `01-flood-risk-and-river-basin-governance.md`
