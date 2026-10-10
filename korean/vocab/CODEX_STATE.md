@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,130 new targets across one hundred forty-two independent topic batches; 7,130 structured headings toward the 10,000 target, leaving 2,870 after this checkpoint.
+- Progress in this checkpoint: 2,160 new targets across one hundred forty-four independent topic batches; 7,160 structured headings toward the 10,000 target, leaving 2,840 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3590,3 +3590,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 81-eojeol Korean soil-microbiome passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,130 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-11 urban-solar-shading and freshwater-restoration checkpoint
+
+- Topic: `advanced-urban-solar-shading-and-building-physics`
+- File: `01-urban-solar-shading-and-building-physics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-solar-shading and building-physics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean solar-shading passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-freshwater-ecology-and-river-restoration`
+- File: `01-freshwater-ecology-and-river-restoration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot freshwater-ecology and river-restoration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 121-eojeol Korean freshwater-restoration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,160 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
