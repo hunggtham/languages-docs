@@ -130,6 +130,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [프라이버시 보존 머신러닝의 언어](./advanced-privacy-preserving-machine-learning/README.md) — `공격과 보호 메커니즘을 읽다`
 - [생태계 복원과 재야생화의 언어](./advanced-ecosystem-restoration-and-rewilding/README.md) — `생태계 회복과 재야생화를 읽다`
 - [리튬 배터리 안전과 재활용의 언어](./advanced-lithium-battery-safety-and-recycling/README.md) — `배터리 진단과 회수 공정을 읽다`
+- [해양 열파와 수산업의 언어](./advanced-marine-heatwaves-and-fisheries/README.md) — `해양 열과 수산 자원 변화를 읽다`
+- [윤리적 AI와 알고리즘 감사의 언어](./advanced-ethical-ai-and-algorithmic-auditing/README.md) — `알고리즘 책임과 감사 절차를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

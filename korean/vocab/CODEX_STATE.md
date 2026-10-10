@@ -18,7 +18,19 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,110 new targets across seventy-four independent topic batches; 6,110 structured headings toward the 10,000 target, leaving 3,890 after this checkpoint.
+- Progress in this checkpoint: 1,140 new targets across seventy-six independent topic batches; 6,140 structured headings toward the 10,000 target, leaving 3,860 after this checkpoint.
+
+- Topic: `advanced-marine-heatwaves-and-fisheries`
+- File: `01-marine-heatwaves-and-fisheries.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot marine-heatwave and fisheries headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean marine-heatwave passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ethical-ai-and-algorithmic-auditing`
+- File: `01-algorithmic-audit-and-accountability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ethical-AI and algorithmic-auditing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 60-eojeol Korean algorithmic-audit passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-ecosystem-restoration-and-rewilding`
 - File: `01-rewilding-and-ecosystem-recovery.md`
