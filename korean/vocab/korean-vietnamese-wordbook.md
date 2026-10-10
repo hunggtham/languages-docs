@@ -169,6 +169,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [신경면역 상호작용과 정신신경면역학의 언어](./topics/advanced-neuroimmune-interface-and-psychoneuroimmunology/README.md)
 - [디지털 신원과 검증 가능한 자격증명의 언어](./topics/advanced-digital-identity-and-verifiable-credentials/README.md)
 - [도시 수관과 생태계 서비스의 언어](./topics/advanced-urban-tree-canopy-and-ecosystem-services/README.md)
+- [지속가능항공유와 항공교통의 언어](./topics/advanced-sustainable-aviation-fuels-and-air-traffic/README.md)
+- [공동체 에너지 저장과 수요반응의 언어](./topics/advanced-community-energy-storage-and-demand-response/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
