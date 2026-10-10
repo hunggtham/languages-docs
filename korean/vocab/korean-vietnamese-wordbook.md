@@ -213,6 +213,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공급망 인권 실사의 언어](./topics/advanced-supply-chain-human-rights-due-diligence/README.md)
 - [공공도서관 전환과 디지털 포용의 언어](./topics/advanced-public-library-transformation-and-digital-inclusion/README.md)
 - [기후보험과 재난 재정의 언어](./topics/advanced-climate-insurance-and-disaster-finance/README.md)
+- [도시 빗물 집수와 물요금 형평성의 언어](./topics/advanced-urban-rainwater-harvesting-and-water-affordability/README.md)
+- [생체자원은행 거버넌스와 유전체 동의의 언어](./topics/advanced-biobank-governance-and-genomic-consent/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
