@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,410 new targets across ninety-four independent topic batches; 6,410 structured headings toward the 10,000 target, leaving 3,590 after this checkpoint.
+- Progress in this checkpoint: 1,440 new targets across ninety-six independent topic batches; 6,440 structured headings toward the 10,000 target, leaving 3,560 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3230,3 +3230,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 89-eojeol Korean civic-participation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 6,410 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-10 orbital-sustainability and arctic-governance checkpoint
+
+- Topic: `advanced-space-debris-and-orbital-sustainability`
+- File: `01-space-debris-and-orbital-sustainability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot space-debris and orbital-sustainability headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean orbital-sustainability passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-arctic-governance-and-polar-research`
+- File: `01-arctic-governance-and-polar-research.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot Arctic-governance and polar-research headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean Arctic-governance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 6,440 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
