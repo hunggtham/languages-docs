@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,460 new targets across one hundred sixty-four independent topic batches; 7,460 structured headings toward the 10,000 target, leaving 2,540 after this checkpoint.
+- Progress in this checkpoint: 2,490 new targets across one hundred sixty-six independent topic batches; 7,490 structured headings toward the 10,000 target, leaving 2,510 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3755,3 +3755,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 104-eojeol Korean regenerative-agriculture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,460 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-12 marine-spatial and school-food checkpoint
+
+- Topic: `advanced-marine-spatial-planning-and-blue-economy`
+- File: `01-marine-spatial-planning-and-blue-economy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot marine-spatial-planning and blue-economy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean marine-spatial-planning passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-school-food-systems-and-child-nutrition`
+- File: `01-school-food-systems-and-child-nutrition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot school-food-systems and child-nutrition headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean school-food-systems passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,490 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

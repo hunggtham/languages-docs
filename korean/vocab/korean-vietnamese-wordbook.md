@@ -219,6 +219,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [의료 데이터 상호운용성과 환자 프라이버시의 언어](./topics/advanced-healthcare-data-interoperability-and-patient-privacy/README.md)
 - [신경다양성 접근성과 직장 조정의 언어](./topics/advanced-neurodivergent-accessibility-and-workplace-accommodation/README.md)
 - [재생농업과 토양 탄소의 언어](./topics/advanced-regenerative-agriculture-and-soil-carbon/README.md)
+- [해양 공간계획과 블루이코노미의 언어](./topics/advanced-marine-spatial-planning-and-blue-economy/README.md)
+- [학교 먹거리 체계와 아동 영양의 언어](./topics/advanced-school-food-systems-and-child-nutrition/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

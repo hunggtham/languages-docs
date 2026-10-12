@@ -220,6 +220,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [의료 데이터 상호운용성과 환자 프라이버시의 언어](./advanced-healthcare-data-interoperability-and-patient-privacy/README.md) — `진료 데이터와 동의 관리를 읽다`
 - [신경다양성 접근성과 직장 조정의 언어](./advanced-neurodivergent-accessibility-and-workplace-accommodation/README.md) — `업무 명료성과 감각 접근을 읽다`
 - [재생농업과 토양 탄소의 언어](./advanced-regenerative-agriculture-and-soil-carbon/README.md) — `농생태와 탄소 보상을 읽다`
+- [해양 공간계획과 블루이코노미의 언어](./advanced-marine-spatial-planning-and-blue-economy/README.md) — `해양 이용 조정과 연안 회복을 읽다`
+- [학교 먹거리 체계와 아동 영양의 언어](./advanced-school-food-systems-and-child-nutrition/README.md) — `급식 공공성과 영양 격차를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
