@@ -221,6 +221,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [재생농업과 토양 탄소의 언어](./topics/advanced-regenerative-agriculture-and-soil-carbon/README.md)
 - [해양 공간계획과 블루이코노미의 언어](./topics/advanced-marine-spatial-planning-and-blue-economy/README.md)
 - [학교 먹거리 체계와 아동 영양의 언어](./topics/advanced-school-food-systems-and-child-nutrition/README.md)
+- [야생동물 생태통로 거버넌스와 연결성의 언어](./topics/advanced-wildlife-corridor-governance-and-connectivity/README.md)
+- [오염 책임과 환경 정화의 언어](./topics/advanced-pollution-liability-and-environmental-remediation/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
