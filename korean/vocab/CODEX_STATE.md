@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,520 new targets across one hundred sixty-eight independent topic batches; 7,520 structured headings toward the 10,000 target, leaving 2,480 after this checkpoint.
+- Progress in this checkpoint: 2,550 new targets across one hundred seventy independent topic batches; 7,550 structured headings toward the 10,000 target, leaving 2,450 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3785,3 +3785,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 85-eojeol Korean pollution-liability passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,520 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-13 community-land and circular-construction checkpoint
+
+- Topic: `advanced-community-land-trusts-and-housing-stability`
+- File: `01-community-land-trusts-and-housing-stability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community-land-trust and housing-stability headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 126-eojeol Korean community-land-trust passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-circular-construction-materials-and-deconstruction`
+- File: `01-circular-construction-materials-and-deconstruction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot circular-construction-materials and deconstruction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 113-eojeol Korean circular-construction passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+- Resume: 7,550 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
