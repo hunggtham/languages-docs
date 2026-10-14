@@ -251,6 +251,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [디지털 형식 노후화와 보존의 언어](./topics/advanced-digital-format-obsolescence-and-preservation/README.md)
 - [도시 심야 대중교통과 귀가 안전의 언어](./topics/advanced-urban-night-transit-and-safety/README.md)
 - [생태계 복원 모니터링과 적응형 거버넌스의 언어](./topics/advanced-ecosystem-restoration-monitoring-and-adaptive-governance/README.md)
+- [법률 번역과 언어 접근의 언어](./topics/advanced-legal-translation-and-language-access/README.md)
+- [도시 지하수와 관리형 대수층 함양의 언어](./topics/advanced-urban-groundwater-and-managed-aquifer-recharge/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
