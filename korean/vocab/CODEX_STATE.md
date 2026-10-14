@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,210 new targets across two hundred fourteen independent topic batches; 8,210 structured headings toward the 10,000 target, leaving 1,790 after this checkpoint.
+- Progress in this checkpoint: 3,240 new targets across two hundred sixteen independent topic batches; 8,240 structured headings toward the 10,000 target, leaving 1,760 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4130,3 +4130,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 97-eojeol Korean housing-energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,210 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 coastal-fisher and digital-content-accessibility checkpoint
+
+- Topic: `advanced-coastal-fisher-livelihoods-and-climate-adaptation`
+- File: `01-coastal-fisher-livelihoods-and-climate-adaptation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot coastal-fisher livelihoods and climate-adaptation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 49-eojeol Korean coastal-fisher passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-digital-content-accessibility-and-multimedia`
+- File: `01-digital-content-accessibility-and-multimedia.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot digital-content accessibility and multimedia headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean digital-content-accessibility passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,240 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

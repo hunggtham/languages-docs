@@ -270,6 +270,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [디지털 문해력과 공공서비스 길찾기의 언어](./advanced-digital-literacy-and-public-service-navigation/README.md) — `행정 서비스 탐색과 전환을 읽다`
 - [공동체 재난 대비와 상호부조의 언어](./advanced-community-disaster-preparedness-and-mutual-aid/README.md) — `재난 전 준비와 주민 연대를 읽다`
 - [주거 에너지 빈곤과 개보수 형평성의 언어](./advanced-housing-energy-poverty-and-retrofit-equity/README.md) — `에너지 부담과 공정한 개보수를 읽다`
+- [연안 어민 생계와 기후 적응의 언어](./advanced-coastal-fisher-livelihoods-and-climate-adaptation/README.md) — `어민 생계와 기후 전환을 읽다`
+- [디지털 콘텐츠 접근성과 멀티미디어 설계의 언어](./advanced-digital-content-accessibility-and-multimedia/README.md) — `여러 감각의 콘텐츠 접근을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
