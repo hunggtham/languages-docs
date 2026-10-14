@@ -291,6 +291,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 산림 돌봄과 산불 예방의 언어](./topics/advanced-community-forest-stewardship-and-wildfire-prevention/README.md)
 - [시민 기록과 디지털 기억의 언어](./topics/advanced-civic-archives-and-digital-memory/README.md)
 - [도시 식품시장과 가격 안정의 언어](./topics/advanced-urban-food-markets-and-price-stability/README.md)
+- [도시 야간경제와 안전의 언어](./topics/advanced-urban-night-economy-and-safety/README.md)
+- [지역 에너지 협동조합과 에너지 빈곤의 언어](./topics/advanced-community-energy-cooperatives-and-energy-poverty/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

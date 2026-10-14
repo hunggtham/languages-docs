@@ -292,6 +292,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [공동체 산림 돌봄과 산불 예방의 언어](./advanced-community-forest-stewardship-and-wildfire-prevention/README.md) — `산림 공동관리와 예방 감시를 읽다`
 - [시민 기록과 디지털 기억의 언어](./advanced-civic-archives-and-digital-memory/README.md) — `시민 기록과 공동 기억을 읽다`
 - [도시 식품시장과 가격 안정의 언어](./advanced-urban-food-markets-and-price-stability/README.md) — `시장 가격과 투명한 거래를 읽다`
+- [도시 야간경제와 안전의 언어](./advanced-urban-night-economy-and-safety/README.md) — `밤의 상권과 귀갓길 안전을 읽다`
+- [지역 에너지 협동조합과 에너지 빈곤의 언어](./advanced-community-energy-cooperatives-and-energy-poverty/README.md) — `공동 발전과 에너지 부담을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
