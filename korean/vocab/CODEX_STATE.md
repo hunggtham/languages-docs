@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,700 new targets across one hundred eighty independent topic batches; 7,700 structured headings toward the 10,000 target, leaving 2,300 after this checkpoint.
+- Progress in this checkpoint: 2,730 new targets across one hundred eighty-two independent topic batches; 7,730 structured headings toward the 10,000 target, leaving 2,270 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3875,3 +3875,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 110-eojeol Korean industrial-symbiosis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,700 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 public-space and planetary-health checkpoint
+
+- Topic: `advanced-public-space-design-and-social-cohesion`
+- File: `01-public-space-design-and-social-cohesion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot public-space-design and social-cohesion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean public-space-design passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-planetary-health-and-one-health-governance`
+- File: `01-planetary-health-and-one-health-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot planetary-health and One Health governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 107-eojeol Korean planetary-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,730 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
