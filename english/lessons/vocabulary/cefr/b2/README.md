@@ -1,6 +1,6 @@
 # B2 Vocabulary
 
-Files are numbered independently inside each topic folder. B2 lessons use deeper explanation of nuance, register, collocation, linking, and sentence behavior than B1 while keeping review-context sizing aligned with `/prompt/vocabulary_goal/GOAL.md`.
+Files are numbered independently inside each topic folder. B2 lessons use deeper explanation of nuance, register, collocation, linking, and sentence behavior than B1 while keeping review-context sizing aligned with `../../../../../prompt/vocabulary_goal/GOAL.md`.
 
 ## decisions
 

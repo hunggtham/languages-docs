@@ -76,6 +76,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - Mỗi context có metadata ẩn ghi `target_set` để kiểm tra coverage; mọi headword phải xuất hiện trong context dưới dạng tự nhiên hoặc biến thể ngữ pháp tự nhiên.
 - Mỗi target mới phải có hidden metadata `lexical_basis: advanced_native | contemporary_native_hot`, cùng register và context. Từ phổ thông A1–B2 chỉ làm supporting language; legacy flat files được giữ nhưng xem là legacy/review.
 - Các mục bổ sung được chọn để làm chủ đề trọn vẹn, không theo thứ tự xuất hiện trong PDF.
+- Không bịa nghĩa, nguồn, IPA, register, collocation hoặc ví dụ. Nếu chưa cross-check được, ghi rõ `UNVERIFIED`/`NEEDS_SOURCE` thay vì tự hoàn thiện.
+- Không dùng lesson generated/public hoặc output AI cũ làm source mới; không sửa hàng loạt bằng regex/translation/template.
 
 ## 다음 확장
 

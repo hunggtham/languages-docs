@@ -8,18 +8,18 @@ Build the English CEFR vocabulary corpus from A1 through C2+ using the canonical
 
 - First milestone: 10,000 unique learning items
 - Expansion target: 20,000 unique learning items
-- Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `/prompt/vocabulary_goal/GOAL.md`.
+- Lesson size is topic-driven; there is no default item count or hard per-file quota. Review-context rules are defined in `../../../../prompt/vocabulary_goal/GOAL.md`.
 - Every headword must be reused naturally in a review context.
 - Target integration branch: `feat/vocabulary-learning`
 
 ## Active generation contract
 
-The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Read that file before every vocabulary run; this state file records repository position and checkpoint history, not a second copy of the goal prompt.
+The durable generation goal is defined in `../../../../prompt/vocabulary_goal/GOAL.md`. Read that file before every vocabulary run; this state file records repository position and checkpoint history, not a second copy of the goal prompt.
 
 - Work in the order `A1 → A2 → B1 → B2 → C1 → C2 → C2+`, while keeping CEFR placement and learner usefulness ahead of quotas.
 - Choose a coherent topic or situation first, then add the words needed to teach it. Prefer one well-grouped file over several small files; merge related legacy lessons when that reduces file sprawl without losing coverage.
 - Put each file under its CEFR level and topic folder. Number files independently inside each topic folder (`a2/communication/01-...`, `a2/home/01-...`); a new topic starts at `01`. Preserve historical source coverage in metadata and README links.
-- Do not impose a default item count. Keep each coherent topic together when practical; follow `/prompt/vocabulary_goal/GOAL.md` for review-context handling and legacy consolidation exceptions.
+- Do not impose a default item count. Keep each coherent topic together when practical; follow `../../../../prompt/vocabulary_goal/GOAL.md` for review-context handling and legacy consolidation exceptions.
 - For every batch: inspect instructions and nearby lessons, scan headings for duplicate headword+sense coverage, generate original contemporary American-English entries, validate every headword/context and numbering rule, update README and this state file, commit a scoped checkpoint, and continue from the next folder-local number.
 
 ## Current repository progress
@@ -44,7 +44,7 @@ Next lesson: continue B1/B2 expansion or create the next coherent C1 topic file;
 Before choosing the exact lesson topic and words:
 
 1. read root and vocabulary-specific `AGENTS.md`;
-2. read `/prompt/COMMON_PROMPT.md`, `/prompt/VOCAB_PROMPT.md`, and `/prompt/vocabulary_goal/GOAL.md`;
+2. read `../../../../prompt/COMMON_PROMPT.md`, `../../../../prompt/VOCAB_PROMPT.md`, and `../../../../prompt/vocabulary_goal/GOAL.md`;
 3. read this directory's level README and this state file;
 4. inspect the latest lesson in the active level and an approved nearby lesson;
 5. scan existing vocabulary headings to avoid duplicates;

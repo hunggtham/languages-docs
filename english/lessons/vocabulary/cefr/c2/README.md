@@ -1,6 +1,6 @@
 # C2 Vocabulary
 
-Files are numbered independently inside each topic folder. Lessons are topic-driven; review-context sizing follows `/prompt/vocabulary_goal/GOAL.md`.
+Files are numbered independently inside each topic folder. Lessons are topic-driven; review-context sizing follows `../../../../../prompt/vocabulary_goal/GOAL.md`.
 
 ## argument
 

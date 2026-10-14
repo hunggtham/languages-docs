@@ -10,5 +10,7 @@
 - Làm rõ khác biệt về meaning, nuance, register và spoken/written usage giữa các cấu trúc dễ nhầm.
 - Note British English hoặc cách dùng khác khi sự khác biệt thực sự đáng học.
 - Ví dụ phải tự nhiên, có ngữ cảnh và phản ánh contemporary General American English.
+- Không tự khẳng định một phán đoán về grammaticality, register, frequency hoặc American/British usage nếu chưa kiểm chứng; claim còn thiếu nguồn phải đánh dấu `UNVERIFIED`.
+- Không bịa citation, quotation, page number hoặc ví dụ mang vẻ như dữ kiện thật.
 
 Task grammar = `COMMON_PROMPT` + `GRAMMAR_PROMPT` + yêu cầu cụ thể hiện tại.

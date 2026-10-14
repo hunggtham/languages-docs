@@ -52,6 +52,13 @@ Follow the approved repository entry order:
 6. Run the repository vocabulary progress and validation scripts.
 7. Update relevant README files and `CODEX_STATE.md` with accurate counts, the next folder-local file, and checkpoint notes.
 8. Commit only the relevant vocabulary changes as a durable checkpoint.
-9. Continue automatically from the next unfinished topic or folder-local sequence.
+9. Continue only within the explicitly authorized scope. Do not infer that the 20,000-item goal authorizes the next topic, level, or corpus-wide batch after the current task ends.
+
+## Evidence and acceptance boundary
+
+- An AI draft remains draft content until a human reviews the changed file, source boundary, factual claims, examples, translations, and duplicate coverage.
+- Do not mark a lesson accepted from item counts, heading checks, link checks, or a green script alone.
+- Do not edit counts, metadata, validators, or `CODEX_STATE.md` to hide an unresolved content or evidence problem.
+- Record `UNVERIFIED` or `NEEDS_SOURCE` for claims that cannot be checked; do not fill the gap by invention.
 
 Never mark the goal complete at A1, A2, B1, B2, C1, C2, after a restructuring, or after a batch. Completion means reaching 20,000 valid learning items.
