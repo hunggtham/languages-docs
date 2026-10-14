@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,510 new targets across two hundred thirty-four independent topic batches; 8,510 structured headings toward the 10,000 target, leaving 1,490 after this checkpoint.
+- Progress in this checkpoint: 3,540 new targets across two hundred thirty-six independent topic batches; 8,540 structured headings toward the 10,000 target, leaving 1,460 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4280,3 +4280,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 117-eojeol Korean forest-stewardship passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, target-set coverage metadata, exact whitespace-token passage count, global heading deduplication, topic README link, and `git diff --check` pass.
 - Resume: 8,510 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 civic-archives and urban-food-markets checkpoint
+
+- Topic: `advanced-civic-archives-and-digital-memory`
+- File: `01-civic-archives-and-digital-memory.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot civic-archives and digital-memory headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 77-eojeol Korean civic-archives passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-urban-food-markets-and-price-stability`
+- File: `01-urban-food-markets-and-price-stability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-food-market and price-stability headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 66-eojeol Korean urban-food-market passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,540 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

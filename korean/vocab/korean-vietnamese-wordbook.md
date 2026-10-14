@@ -289,6 +289,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [농촌 통신 협동조합과 디지털 포용의 언어](./topics/advanced-rural-telecom-cooperatives-and-digital-inclusion/README.md)
 - [도시 자전거 인프라와 도로 안전의 언어](./topics/advanced-urban-cycling-infrastructure-and-road-safety/README.md)
 - [공동체 산림 돌봄과 산불 예방의 언어](./topics/advanced-community-forest-stewardship-and-wildfire-prevention/README.md)
+- [시민 기록과 디지털 기억의 언어](./topics/advanced-civic-archives-and-digital-memory/README.md)
+- [도시 식품시장과 가격 안정의 언어](./topics/advanced-urban-food-markets-and-price-stability/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
