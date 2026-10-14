@@ -266,6 +266,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [지역사회 건강요원과 일차의료 outreach의 언어](./advanced-community-health-workers-and-primary-care-outreach/README.md) — `현장 보건과 의료 연계를 읽다`
 - [시민 생태관측과 환경감시의 언어](./advanced-citizen-science-and-environmental-monitoring/README.md) — `참여관측과 자료 검증을 읽다`
 - [농촌 이동진료와 건강 형평성의 언어](./advanced-rural-mobile-clinics-and-health-equity/README.md) — `이동진료와 의료 접근을 읽다`
+- [공동체 텃밭과 먹거리 주권의 언어](./advanced-community-gardens-and-food-sovereignty/README.md) — `지역 먹거리 결정과 돌봄을 읽다`
+- [디지털 문해력과 공공서비스 길찾기의 언어](./advanced-digital-literacy-and-public-service-navigation/README.md) — `행정 서비스 탐색과 전환을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

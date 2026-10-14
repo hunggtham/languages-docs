@@ -265,6 +265,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [지역사회 건강요원과 일차의료 outreach의 언어](./topics/advanced-community-health-workers-and-primary-care-outreach/README.md)
 - [시민 생태관측과 환경감시의 언어](./topics/advanced-citizen-science-and-environmental-monitoring/README.md)
 - [농촌 이동진료와 건강 형평성의 언어](./topics/advanced-rural-mobile-clinics-and-health-equity/README.md)
+- [공동체 텃밭과 먹거리 주권의 언어](./topics/advanced-community-gardens-and-food-sovereignty/README.md)
+- [디지털 문해력과 공공서비스 길찾기의 언어](./topics/advanced-digital-literacy-and-public-service-navigation/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
