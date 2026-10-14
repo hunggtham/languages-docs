@@ -225,6 +225,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [오염 책임과 환경 정화의 언어](./topics/advanced-pollution-liability-and-environmental-remediation/README.md)
 - [공동체 토지신탁과 주거 안정의 언어](./topics/advanced-community-land-trusts-and-housing-stability/README.md)
 - [순환 건설자재와 해체 설계의 언어](./topics/advanced-circular-construction-materials-and-deconstruction/README.md)
+- [도시 기후 피난처와 열 형평성의 언어](./topics/advanced-urban-climate-refuges-and-heat-equity/README.md)
+- [윤리적 야생동물 관광과 보전 금융의 언어](./topics/advanced-ethical-wildlife-tourism-and-conservation-finance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

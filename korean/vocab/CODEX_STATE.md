@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,550 new targets across one hundred seventy independent topic batches; 7,550 structured headings toward the 10,000 target, leaving 2,450 after this checkpoint.
+- Progress in this checkpoint: 2,580 new targets across one hundred seventy-two independent topic batches; 7,580 structured headings toward the 10,000 target, leaving 2,420 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3800,3 +3800,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 113-eojeol Korean circular-construction passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
 - Resume: 7,550 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 urban-climate and ethical-wildlife-tourism checkpoint
+
+- Topic: `advanced-urban-climate-refuges-and-heat-equity`
+- File: `01-urban-climate-refuges-and-heat-equity.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-climate-refuge and heat-equity headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 110-eojeol Korean urban-climate-refuge passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ethical-wildlife-tourism-and-conservation-finance`
+- File: `01-ethical-wildlife-tourism-and-conservation-finance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ethical-wildlife-tourism and conservation-finance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean ethical-wildlife-tourism passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,580 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
