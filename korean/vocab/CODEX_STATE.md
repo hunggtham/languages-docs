@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,970 new targets across one hundred ninety-eight independent topic batches; 7,970 structured headings toward the 10,000 target, leaving 2,030 after this checkpoint.
+- Progress in this checkpoint: 3,000 new targets across two hundred independent topic batches; 8,000 structured headings toward the 10,000 target, leaving 2,000 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4010,3 +4010,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 98-eojeol Korean urban-groundwater passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,970 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 public-data-trust and repair-economy checkpoint
+
+- Topic: `advanced-public-sector-data-sharing-and-trust`
+- File: `01-public-sector-data-sharing-and-trust.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot public-sector data-sharing and trust headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean public-data-trust passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-circular-repair-economy-and-right-to-repair`
+- File: `01-circular-repair-economy-and-right-to-repair.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot circular-repair-economy and right-to-repair headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 50-eojeol Korean repair-economy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 8,000 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
