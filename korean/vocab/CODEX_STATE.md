@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,730 new targets across one hundred eighty-two independent topic batches; 7,730 structured headings toward the 10,000 target, leaving 2,270 after this checkpoint.
+- Progress in this checkpoint: 2,760 new targets across one hundred eighty-four independent topic batches; 7,760 structured headings toward the 10,000 target, leaving 2,240 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3890,3 +3890,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 107-eojeol Korean planetary-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,730 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 evacuation-logistics and heritage-climate checkpoint
+
+- Topic: `advanced-disaster-evacuation-logistics-and-shelter-management`
+- File: `01-disaster-evacuation-logistics-and-shelter-management.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot disaster-evacuation logistics and shelter-management headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean evacuation-logistics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-cultural-heritage-climate-adaptation-and-risk`
+- File: `01-cultural-heritage-climate-adaptation-and-risk.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cultural-heritage climate-adaptation and risk headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean heritage-climate passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,760 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

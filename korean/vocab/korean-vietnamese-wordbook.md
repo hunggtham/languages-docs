@@ -237,6 +237,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [산업공생과 자원 교환의 언어](./topics/advanced-industrial-symbiosis-and-resource-exchange/README.md)
 - [공공공간 설계와 사회적 결속의 언어](./topics/advanced-public-space-design-and-social-cohesion/README.md)
 - [행성건강과 원헬스 거버넌스의 언어](./topics/advanced-planetary-health-and-one-health-governance/README.md)
+- [재난 대피 물류와 임시거주시설 관리의 언어](./topics/advanced-disaster-evacuation-logistics-and-shelter-management/README.md)
+- [문화유산 기후 적응과 위험 관리의 언어](./topics/advanced-cultural-heritage-climate-adaptation-and-risk/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
