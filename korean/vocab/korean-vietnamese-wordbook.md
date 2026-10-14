@@ -239,6 +239,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [행성건강과 원헬스 거버넌스의 언어](./topics/advanced-planetary-health-and-one-health-governance/README.md)
 - [재난 대피 물류와 임시거주시설 관리의 언어](./topics/advanced-disaster-evacuation-logistics-and-shelter-management/README.md)
 - [문화유산 기후 적응과 위험 관리의 언어](./topics/advanced-cultural-heritage-climate-adaptation-and-risk/README.md)
+- [순환 식품 포장과 재사용 체계의 언어](./topics/advanced-circular-food-packaging-and-reuse-systems/README.md)
+- [노동 이주와 송금 거버넌스의 언어](./topics/advanced-labor-migration-and-remittance-governance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
