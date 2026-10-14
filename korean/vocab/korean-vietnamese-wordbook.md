@@ -271,6 +271,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [주거 에너지 빈곤과 개보수 형평성의 언어](./topics/advanced-housing-energy-poverty-and-retrofit-equity/README.md)
 - [연안 어민 생계와 기후 적응의 언어](./topics/advanced-coastal-fisher-livelihoods-and-climate-adaptation/README.md)
 - [디지털 콘텐츠 접근성과 멀티미디어 설계의 언어](./topics/advanced-digital-content-accessibility-and-multimedia/README.md)
+- [공동체 마이크로그리드와 에너지 민주주의의 언어](./topics/advanced-community-microgrids-and-energy-democracy/README.md)
+- [도시 공중화장실과 위생 형평성의 언어](./topics/advanced-urban-public-toilets-and-sanitation-equity/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
