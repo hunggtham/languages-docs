@@ -255,6 +255,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [도시 지하수와 관리형 대수층 함양의 언어](./topics/advanced-urban-groundwater-and-managed-aquifer-recharge/README.md)
 - [공공부문 데이터 공유와 신뢰의 언어](./topics/advanced-public-sector-data-sharing-and-trust/README.md)
 - [수리 경제와 수리권의 언어](./topics/advanced-circular-repair-economy-and-right-to-repair/README.md)
+- [지방재정과 기후예산의 언어](./topics/advanced-local-government-finance-and-climate-budgeting/README.md)
+- [하수 영양염 회수와 비료 자원화의 언어](./topics/advanced-wastewater-nutrient-recovery-and-resource-reuse/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
