@@ -279,6 +279,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [농촌 학교 통학과 교육 접근성의 언어](./topics/advanced-rural-school-transport-and-education-access/README.md)
 - [소수언어 교육과 언어 유산의 언어](./topics/advanced-minority-language-education-and-heritage/README.md)
 - [농촌 노인 돌봄 협동조합과 고령화의 언어](./topics/advanced-rural-eldercare-cooperatives-and-aging/README.md)
+- [공익기술과 알고리즘 투명성의 언어](./topics/advanced-public-interest-technology-and-algorithmic-transparency/README.md)
+- [시민 서비스 개인정보와 동의의 언어](./topics/advanced-civic-service-privacy-and-consent/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
