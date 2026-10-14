@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,030 new targets across two hundred two independent topic batches; 8,030 structured headings toward the 10,000 target, leaving 1,970 after this checkpoint.
+- Progress in this checkpoint: 3,060 new targets across two hundred four independent topic batches; 8,060 structured headings toward the 10,000 target, leaving 1,940 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4040,3 +4040,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 99-eojeol Korean nutrient-recovery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 8,030 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 occupational-heat and inclusive-transport checkpoint
+
+- Topic: `advanced-occupational-heat-safety-and-worker-protection`
+- File: `01-occupational-heat-safety-and-worker-protection.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot occupational heat-safety and worker-protection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean occupational-heat passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-disability-inclusive-transport-and-universal-design`
+- File: `01-disability-inclusive-transport-and-universal-design.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot disability-inclusive transport and universal-design headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 132-eojeol Korean inclusive-transport passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 8,060 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
