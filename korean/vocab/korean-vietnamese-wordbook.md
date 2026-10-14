@@ -249,6 +249,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [농촌 광대역망과 원격의료의 언어](./topics/advanced-rural-broadband-and-telehealth/README.md)
 - [지역사회 조정과 회복적 정의의 언어](./topics/advanced-community-mediation-and-restorative-justice/README.md)
 - [디지털 형식 노후화와 보존의 언어](./topics/advanced-digital-format-obsolescence-and-preservation/README.md)
+- [도시 심야 대중교통과 귀가 안전의 언어](./topics/advanced-urban-night-transit-and-safety/README.md)
+- [생태계 복원 모니터링과 적응형 거버넌스의 언어](./topics/advanced-ecosystem-restoration-monitoring-and-adaptive-governance/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

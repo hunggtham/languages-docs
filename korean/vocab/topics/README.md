@@ -250,6 +250,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [농촌 광대역망과 원격의료의 언어](./advanced-rural-broadband-and-telehealth/README.md) — `연결 격차와 원격의료를 읽다`
 - [지역사회 조정과 회복적 정의의 언어](./advanced-community-mediation-and-restorative-justice/README.md) — `갈등 조정과 책임 회복을 읽다`
 - [디지털 형식 노후화와 보존의 언어](./advanced-digital-format-obsolescence-and-preservation/README.md) — `기록의 장기 보존을 읽다`
+- [도시 심야 대중교통과 귀가 안전의 언어](./advanced-urban-night-transit-and-safety/README.md) — `막차 이후의 이동과 안전을 읽다`
+- [생태계 복원 모니터링과 적응형 거버넌스의 언어](./advanced-ecosystem-restoration-monitoring-and-adaptive-governance/README.md) — `복원 성과와 적응 관리를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
