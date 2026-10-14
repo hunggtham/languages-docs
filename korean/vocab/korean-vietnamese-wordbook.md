@@ -295,6 +295,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [지역 에너지 협동조합과 에너지 빈곤의 언어](./topics/advanced-community-energy-cooperatives-and-energy-poverty/README.md)
 - [도시 수변 공공공간과 안전의 언어](./topics/advanced-urban-waterfront-public-space-and-safety/README.md)
 - [공동체 재난자원봉사와 대피소 운영의 언어](./topics/advanced-community-disaster-volunteer-coordination-and-shelter/README.md)
+- [도시 폭염 대피소와 냉각 운영의 언어](./topics/advanced-urban-heatwave-night-shelters-and-cooling/README.md)
+- [공동체 건강 길찾기와 돌봄 조정의 언어](./topics/advanced-community-health-navigation-and-care-coordination/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
