@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,330 new targets across two hundred twenty-two independent topic batches; 8,330 structured headings toward the 10,000 target, leaving 1,670 after this checkpoint.
+- Progress in this checkpoint: 3,360 new targets across two hundred twenty-four independent topic batches; 8,360 structured headings toward the 10,000 target, leaving 1,640 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4190,3 +4190,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 74-eojeol Korean rural-school-access passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,330 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 minority-language and rural-eldercare checkpoint
+
+- Topic: `advanced-minority-language-education-and-heritage`
+- File: `01-minority-language-education-and-heritage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot minority-language education and heritage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 72-eojeol Korean minority-language passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-rural-eldercare-cooperatives-and-aging`
+- File: `01-rural-eldercare-cooperatives-and-aging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rural eldercare-cooperative and aging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 58-eojeol Korean rural-eldercare passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,360 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
