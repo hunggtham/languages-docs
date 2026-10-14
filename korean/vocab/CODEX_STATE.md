@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,480 new targets across two hundred thirty-two independent topic batches; 8,480 structured headings toward the 10,000 target, leaving 1,520 after this checkpoint.
+- Progress in this checkpoint: 3,510 new targets across two hundred thirty-four independent topic batches; 8,510 structured headings toward the 10,000 target, leaving 1,490 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4265,3 +4265,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 59-eojeol Korean rural-telecom passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,480 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 urban-cycling and community-forest checkpoint
+
+- Topic: `advanced-urban-cycling-infrastructure-and-road-safety`
+- File: `01-urban-cycling-infrastructure-and-road-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban cycling-infrastructure and road-safety headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 76-eojeol Korean cycling-safety passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact whitespace-token passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-community-forest-stewardship-and-wildfire-prevention`
+- File: `01-community-forest-stewardship-and-wildfire-prevention.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community-forest stewardship and wildfire-prevention headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean forest-stewardship passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, target-set coverage metadata, exact whitespace-token passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+- Resume: 8,510 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

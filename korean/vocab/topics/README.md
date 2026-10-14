@@ -288,6 +288,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [농촌 폐기물 수거와 순환성의 언어](./advanced-rural-waste-collection-and-circularity/README.md) — `분산 수거와 자원 회수를 읽다`
 - [전기차 충전 형평성과 계통 유연성의 언어](./advanced-electric-vehicle-charging-equity-and-grid-flexibility/README.md) — `충전 접근과 전력 유연성을 읽다`
 - [농촌 통신 협동조합과 디지털 포용의 언어](./advanced-rural-telecom-cooperatives-and-digital-inclusion/README.md) — `주민 통신망과 접속권을 읽다`
+- [도시 자전거 인프라와 도로 안전의 언어](./advanced-urban-cycling-infrastructure-and-road-safety/README.md) — `일상 자전거 이동과 안전을 읽다`
+- [공동체 산림 돌봄과 산불 예방의 언어](./advanced-community-forest-stewardship-and-wildfire-prevention/README.md) — `산림 공동관리와 예방 감시를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
