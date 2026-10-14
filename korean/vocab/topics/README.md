@@ -246,6 +246,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [허위정보 회복력과 위기 소통의 언어](./advanced-misinformation-resilience-and-crisis-communication/README.md) — `선제 반박과 신뢰 앵커를 읽다`
 - [생물다양성 상쇄와 자연긍정 금융의 언어](./advanced-biodiversity-offsets-and-nature-positive-finance/README.md) — `완화 위계와 자연위험을 읽다`
 - [병원 폐기물 관리와 순환성의 언어](./advanced-hospital-waste-management-and-circularity/README.md) — `감염성 폐기물과 자원순환을 읽다`
+- [디지털 시대의 법률 지원과 자기 대리의 언어](./advanced-legal-aid-digital-access-and-self-representation/README.md) — `법률 접근권과 자기 대리를 읽다`
+- [농촌 광대역망과 원격의료의 언어](./advanced-rural-broadband-and-telehealth/README.md) — `연결 격차와 원격의료를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
