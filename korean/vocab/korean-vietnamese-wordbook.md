@@ -243,6 +243,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [노동 이주와 송금 거버넌스의 언어](./topics/advanced-labor-migration-and-remittance-governance/README.md)
 - [주거 에너지 공동체와 지역 유연성의 언어](./topics/advanced-residential-energy-communities-and-local-flexibility/README.md)
 - [허위정보 회복력과 위기 소통의 언어](./topics/advanced-misinformation-resilience-and-crisis-communication/README.md)
+- [생물다양성 상쇄와 자연긍정 금융의 언어](./topics/advanced-biodiversity-offsets-and-nature-positive-finance/README.md)
+- [병원 폐기물 관리와 순환성의 언어](./topics/advanced-hospital-waste-management-and-circularity/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
