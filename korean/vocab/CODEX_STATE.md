@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,570 new targets across two hundred thirty-eight independent topic batches; 8,570 structured headings toward the 10,000 target, leaving 1,430 after this checkpoint.
+- Progress in this checkpoint: 3,600 new targets across two hundred forty independent topic batches; 8,600 structured headings toward the 10,000 target, leaving 1,400 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4310,3 +4310,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 61-eojeol Korean community-energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,570 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 urban-waterfront and disaster-volunteer checkpoint
+
+- Topic: `advanced-urban-waterfront-public-space-and-safety`
+- File: `01-urban-waterfront-public-space-and-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-waterfront public-space and safety headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean urban-waterfront passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-community-disaster-volunteer-coordination-and-shelter`
+- File: `01-community-disaster-volunteer-coordination-and-shelter.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot disaster-volunteer coordination and community-shelter headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 93-eojeol Korean disaster-response passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,600 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
