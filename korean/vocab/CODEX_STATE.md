@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,270 new targets across two hundred eighteen independent topic batches; 8,270 structured headings toward the 10,000 target, leaving 1,730 after this checkpoint.
+- Progress in this checkpoint: 3,300 new targets across two hundred twenty independent topic batches; 8,300 structured headings toward the 10,000 target, leaving 1,700 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4160,3 +4160,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 71-eojeol Korean sanitation-equity passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,270 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 rural-water and police-accountability checkpoint
+
+- Topic: `advanced-rural-water-cooperatives-and-climate-resilience`
+- File: `01-rural-water-cooperatives-and-climate-resilience.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rural-water cooperatives and climate-resilience headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean rural-water passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-community-legal-observation-and-police-accountability`
+- File: `01-community-legal-observation-and-police-accountability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community legal-observation and police-accountability headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean police-accountability passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,300 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.

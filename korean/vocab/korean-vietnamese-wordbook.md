@@ -273,6 +273,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [디지털 콘텐츠 접근성과 멀티미디어 설계의 언어](./topics/advanced-digital-content-accessibility-and-multimedia/README.md)
 - [공동체 마이크로그리드와 에너지 민주주의의 언어](./topics/advanced-community-microgrids-and-energy-democracy/README.md)
 - [도시 공중화장실과 위생 형평성의 언어](./topics/advanced-urban-public-toilets-and-sanitation-equity/README.md)
+- [농촌 물 협동조합과 기후 회복력의 언어](./topics/advanced-rural-water-cooperatives-and-climate-resilience/README.md)
+- [시민 법률 감시와 경찰 책임의 언어](./topics/advanced-community-legal-observation-and-police-accountability/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
