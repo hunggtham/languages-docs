@@ -229,6 +229,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [윤리적 야생동물 관광과 보전 금융의 언어](./topics/advanced-ethical-wildlife-tourism-and-conservation-finance/README.md)
 - [공동체 광대역과 디지털 주권의 언어](./topics/advanced-community-broadband-and-digital-sovereignty/README.md)
 - [해양 탄소 제거 거버넌스의 언어](./topics/advanced-ocean-carbon-removal-governance/README.md)
+- [도시 화물 물류와 연석 관리의 언어](./topics/advanced-urban-freight-and-curb-management/README.md)
+- [언어경관과 다언어 공공서비스의 언어](./topics/advanced-linguistic-landscape-and-multilingual-public-services/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
