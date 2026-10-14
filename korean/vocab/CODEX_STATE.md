@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,580 new targets across one hundred seventy-two independent topic batches; 7,580 structured headings toward the 10,000 target, leaving 2,420 after this checkpoint.
+- Progress in this checkpoint: 2,610 new targets across one hundred seventy-four independent topic batches; 7,610 structured headings toward the 10,000 target, leaving 2,390 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3815,3 +3815,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 101-eojeol Korean ethical-wildlife-tourism passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,580 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 community-broadband and ocean-carbon checkpoint
+
+- Topic: `advanced-community-broadband-and-digital-sovereignty`
+- File: `01-community-broadband-and-digital-sovereignty.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community-broadband and digital-sovereignty headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 98-eojeol Korean community-broadband passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-carbon-removal-governance`
+- File: `01-ocean-carbon-removal-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean-carbon-removal governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean ocean-carbon-removal passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,610 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
