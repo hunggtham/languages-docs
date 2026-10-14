@@ -262,6 +262,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [장애 포용 교통과 보편적 설계의 언어](./advanced-disability-inclusive-transport-and-universal-design/README.md) — `모두의 이동과 접근성을 읽다`
 - [도시 식품 접근성과 건강한 소매 환경의 언어](./advanced-urban-food-access-and-healthy-retail/README.md) — `건강한 선택의 도시 조건을 읽다`
 - [고령자 계속거주 주택과 주거 개조의 언어](./advanced-aging-in-place-housing-and-home-modification/README.md) — `안전한 계속거주를 읽다`
+- [직업성 소음과 청력보존의 언어](./advanced-occupational-noise-and-hearing-conservation/README.md) — `소음 노출과 청력 보호를 읽다`
+- [지역사회 건강요원과 일차의료 outreach의 언어](./advanced-community-health-workers-and-primary-care-outreach/README.md) — `현장 보건과 의료 연계를 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
