@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,420 new targets across two hundred twenty-eight independent topic batches; 8,420 structured headings toward the 10,000 target, leaving 1,580 after this checkpoint.
+- Progress in this checkpoint: 3,450 new targets across two hundred thirty independent topic batches; 8,450 structured headings toward the 10,000 target, leaving 1,550 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4235,3 +4235,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 66-eojeol Korean food-rescue passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,420 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 cool-roof and rural-waste checkpoint
+
+- Topic: `advanced-urban-cool-roofs-and-thermal-justice`
+- File: `01-urban-cool-roofs-and-thermal-justice.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban cool-roof and thermal-justice headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 122-eojeol Korean cool-roof passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-rural-waste-collection-and-circularity`
+- File: `01-rural-waste-collection-and-circularity.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rural-waste collection and circularity headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 63-eojeol Korean rural-waste passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count (passage metadata appears after the context), and `git diff --check` pass.
+- Resume: 8,450 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
