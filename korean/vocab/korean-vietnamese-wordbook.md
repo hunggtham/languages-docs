@@ -233,6 +233,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [언어경관과 다언어 공공서비스의 언어](./topics/advanced-linguistic-landscape-and-multilingual-public-services/README.md)
 - [공공 디지털 기반시설과 상호운용성의 언어](./topics/advanced-digital-public-infrastructure-and-interoperability/README.md)
 - [기후 회복력형 의료시설의 언어](./topics/advanced-climate-resilient-healthcare-facilities/README.md)
+- [열 회복력형 학교와 아동 건강의 언어](./topics/advanced-heat-resilient-schools-and-child-health/README.md)
+- [산업공생과 자원 교환의 언어](./topics/advanced-industrial-symbiosis-and-resource-exchange/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
