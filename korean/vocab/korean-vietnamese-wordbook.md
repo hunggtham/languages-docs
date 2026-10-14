@@ -259,6 +259,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [하수 영양염 회수와 비료 자원화의 언어](./topics/advanced-wastewater-nutrient-recovery-and-resource-reuse/README.md)
 - [작업 열안전과 노동자 보호의 언어](./topics/advanced-occupational-heat-safety-and-worker-protection/README.md)
 - [장애 포용 교통과 보편적 설계의 언어](./topics/advanced-disability-inclusive-transport-and-universal-design/README.md)
+- [도시 식품 접근성과 건강한 소매 환경의 언어](./topics/advanced-urban-food-access-and-healthy-retail/README.md)
+- [고령자 계속거주 주택과 주거 개조의 언어](./topics/advanced-aging-in-place-housing-and-home-modification/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

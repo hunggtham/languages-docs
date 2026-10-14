@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,060 new targets across two hundred four independent topic batches; 8,060 structured headings toward the 10,000 target, leaving 1,940 after this checkpoint.
+- Progress in this checkpoint: 3,090 new targets across two hundred six independent topic batches; 8,090 structured headings toward the 10,000 target, leaving 1,910 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4055,3 +4055,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 132-eojeol Korean inclusive-transport passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 8,060 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 urban-food and ageing-in-place checkpoint
+
+- Topic: `advanced-urban-food-access-and-healthy-retail`
+- File: `01-urban-food-access-and-healthy-retail.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban food-access and healthy-retail headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean healthy-retail passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-aging-in-place-housing-and-home-modification`
+- File: `01-aging-in-place-housing-and-home-modification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ageing-in-place housing and home-modification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 145-eojeol Korean ageing-in-place passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 8,090 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
