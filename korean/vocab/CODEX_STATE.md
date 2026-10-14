@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,790 new targets across one hundred eighty-six independent topic batches; 7,790 structured headings toward the 10,000 target, leaving 2,210 after this checkpoint.
+- Progress in this checkpoint: 2,820 new targets across one hundred eighty-eight independent topic batches; 7,820 structured headings toward the 10,000 target, leaving 2,180 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -3920,3 +3920,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 137-eojeol Korean labor-migration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
 - Resume: 7,790 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-14 residential-energy and misinformation checkpoint
+
+- Topic: `advanced-residential-energy-communities-and-local-flexibility`
+- File: `01-residential-energy-communities-and-local-flexibility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot residential-energy-community and local-flexibility headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 110-eojeol Korean residential-energy-community passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+
+- Topic: `advanced-misinformation-resilience-and-crisis-communication`
+- File: `01-misinformation-resilience-and-crisis-communication.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot misinformation-resilience and crisis-communication headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 120-eojeol Korean misinformation-resilience passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact passage count, and `git diff --check` pass.
+- Resume: 7,820 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
