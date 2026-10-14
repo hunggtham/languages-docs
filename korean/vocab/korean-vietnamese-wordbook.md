@@ -275,6 +275,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [도시 공중화장실과 위생 형평성의 언어](./topics/advanced-urban-public-toilets-and-sanitation-equity/README.md)
 - [농촌 물 협동조합과 기후 회복력의 언어](./topics/advanced-rural-water-cooperatives-and-climate-resilience/README.md)
 - [시민 법률 감시와 경찰 책임의 언어](./topics/advanced-community-legal-observation-and-police-accountability/README.md)
+- [공동체 라디오와 지역 정보 회복력의 언어](./topics/advanced-community-radio-and-local-information-resilience/README.md)
+- [농촌 학교 통학과 교육 접근성의 언어](./topics/advanced-rural-school-transport-and-education-access/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
