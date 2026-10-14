@@ -285,6 +285,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 냉장고와 식품 구조의 언어](./topics/advanced-community-fridges-and-food-rescue/README.md)
 - [도시 쿨루프와 열 정의의 언어](./topics/advanced-urban-cool-roofs-and-thermal-justice/README.md)
 - [농촌 폐기물 수거와 순환성의 언어](./topics/advanced-rural-waste-collection-and-circularity/README.md)
+- [전기차 충전 형평성과 계통 유연성의 언어](./topics/advanced-electric-vehicle-charging-equity-and-grid-flexibility/README.md)
+- [농촌 통신 협동조합과 디지털 포용의 언어](./topics/advanced-rural-telecom-cooperatives-and-digital-inclusion/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
