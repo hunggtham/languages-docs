@@ -299,6 +299,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 건강 길찾기와 돌봄 조정의 언어](./topics/advanced-community-health-navigation-and-care-coordination/README.md)
 - [도시 공공도서관 접근과 디지털 문해력의 언어](./topics/advanced-urban-public-library-access-and-digital-literacy/README.md)
 - [공동체 먹거리 협동조합과 영양 접근의 언어](./topics/advanced-community-food-cooperative-and-nutrition-access/README.md)
+- [도시 폐품수집인과 순환적 포용의 언어](./topics/advanced-urban-waste-pickers-and-circular-inclusion/README.md)
+- [공동체 물 감시와 누수 저감의 언어](./topics/advanced-community-water-monitoring-and-leak-reduction/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
