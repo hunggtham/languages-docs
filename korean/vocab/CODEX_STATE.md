@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,810 new targets across two hundred fifty-four independent topic batches; 8,810 structured headings toward the 10,000 target, leaving 1,190 after this checkpoint.
+- Progress in this checkpoint: 3,840 new targets across two hundred fifty-six independent topic batches; 8,840 structured headings toward the 10,000 target, leaving 1,160 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4433,3 +4433,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 97-eojeol Korean school-meal passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,810 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 urban-shade and community-telehealth checkpoint
+
+- Topic: `advanced-urban-shade-equity-and-tree-care`
+- File: `01-urban-shade-equity-and-tree-care.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban shade-equity, tree-care, and heat-protection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean shade-equity passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-community-telehealth-navigation-and-device-loans`
+- File: `01-community-telehealth-navigation-and-device-loans.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community telehealth-navigation and device-loan headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 123-eojeol Korean telehealth-access passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,840 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
