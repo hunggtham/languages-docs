@@ -303,6 +303,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 물 감시와 누수 저감의 언어](./topics/advanced-community-water-monitoring-and-leak-reduction/README.md)
 - [지역사회 노인 돌봄과 사회적 연결의 언어](./topics/advanced-community-eldercare-day-services-and-social-connection/README.md)
 - [도시 공동체 텃밭과 식량 회복력의 언어](./topics/advanced-urban-community-gardens-and-food-resilience/README.md)
+- [도시 수어 접근과 공공서비스의 언어](./topics/advanced-urban-sign-language-access-and-public-services/README.md)
+- [공동체 수리카페와 수리할 권리의 언어](./topics/advanced-community-repair-cafes-and-right-to-repair/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)

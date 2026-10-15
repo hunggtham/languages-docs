@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,720 new targets across two hundred forty-eight independent topic batches; 8,720 structured headings toward the 10,000 target, leaving 1,280 after this checkpoint.
+- Progress in this checkpoint: 3,750 new targets across two hundred fifty independent topic batches; 8,750 structured headings toward the 10,000 target, leaving 1,250 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4388,3 +4388,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 101-eojeol Korean community-garden passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,720 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 sign-language-access and repair-right checkpoint
+
+- Topic: `advanced-urban-sign-language-access-and-public-services`
+- File: `01-urban-sign-language-access-and-public-services.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sign-language access and inclusive public-service headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean sign-language-access passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-community-repair-cafes-and-right-to-repair`
+- File: `01-community-repair-cafes-and-right-to-repair.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community repair-cafe and right-to-repair headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean repair-right passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+- Resume: 8,750 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
