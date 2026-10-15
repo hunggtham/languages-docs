@@ -307,6 +307,8 @@ PDF와 Naver Dictionary는 표제어 확인을 위한 참고 자료다. 실제 �
 - [공동체 수리카페와 수리할 권리의 언어](./topics/advanced-community-repair-cafes-and-right-to-repair/README.md)
 - [도시 대기질 시민센서와 경보의 언어](./topics/advanced-urban-air-quality-citizen-sensors-and-alerts/README.md)
 - [공동체 이주민 환대와 언어 접근의 언어](./topics/advanced-community-migrant-welcome-and-language-access/README.md)
+- [도시 대피 경로 접근과 길찾기의 언어](./topics/advanced-urban-evacuation-route-access-and-wayfinding/README.md)
+- [공동체 학교급식과 아침식사망의 언어](./topics/advanced-community-school-meal-and-breakfast-networks/README.md)
 - [한국어 어휘 주제별 학습](./topics/README.md)
 - [자기 인식과 삶의 관점](./topics/self-awareness-and-life-view.md)
 - [태도와 평가](./topics/attitude-and-evaluation.md)
