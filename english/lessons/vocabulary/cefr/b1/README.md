@@ -16,6 +16,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Workplace Communication And Wellbeing](./work/02-workplace-communication-and-wellbeing.md)
 - [Career Development And Workplace Skills](./work/03-career-development-and-workplace-skills.md)
 - [Work Planning And Career Steps](./work/04-work-planning-and-career-steps.md)
+- [Business Operations And Corporate Travel](./work/05-business-operations-and-corporate-travel.md)
+- [Workplace Collaboration And Office Technology](./work/06-workplace-collaboration-and-office-technology.md)
 
 ## science
 
@@ -48,6 +50,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
 - [Air Travel And Airport Procedures](./transport/02-air-travel-and-airport-procedures.md)
 - [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
+- [Road Trips Vehicle Maintenance And Traffic Safety](./transport/07-road-trips-vehicle-maintenance-and-traffic-safety.md)
 
 ## education
 
@@ -76,6 +79,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
 - [Travel Documents And Local Plans](./travel/04-travel-documents-and-local-plans.md)
 - [Road Trips And Rail Journeys](./travel/05-road-trips-and-rail-journeys.md)
+- [Beach Vacations And Cruise Travel](./travel/06-beach-vacations-and-cruise-travel.md)
+- [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
 
 ## society
 
@@ -110,6 +115,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Nutrition And Diets](./food/02-nutrition-and-diets.md)
 - [Cooking Methods And Food Preparation](./food/03-cooking-methods-and-food-preparation.md)
 - [Restaurant Service And Casual Dining](./food/04-restaurant-service-and-casual-dining.md)
+- [Baking Desserts And Cafe Culture](./food/05-baking-desserts-and-cafe-culture.md)
 
 ## relationships
 
@@ -126,6 +132,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Club And Project Planning](./leisure/05-club-project-planning.md)
 - [Entertainment Media And Indoor Relaxation](./leisure/06-entertainment-media-and-indoor-relaxation.md)
 - [Entertainment Venues And Outdoor Recreation](./leisure/07-entertainment-venues-and-outdoor-recreation.md)
+- [Cultural Events Festivals And Live Performances](./leisure/08-cultural-events-festivals-and-live-performances.md)
 
 ## services
 
