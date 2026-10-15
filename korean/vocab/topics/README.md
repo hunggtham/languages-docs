@@ -306,6 +306,8 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [도시 공동체 텃밭과 식량 회복력의 언어](./advanced-urban-community-gardens-and-food-resilience/README.md) — `공동체 재배와 식량 회복력을 읽다`
 - [도시 수어 접근과 공공서비스의 언어](./advanced-urban-sign-language-access-and-public-services/README.md) — `의사소통권과 서비스 접근을 읽다`
 - [공동체 수리카페와 수리할 권리의 언어](./advanced-community-repair-cafes-and-right-to-repair/README.md) — `수리 기술과 제품 수명을 읽다`
+- [도시 대기질 시민센서와 경보의 언어](./advanced-urban-air-quality-citizen-sensors-and-alerts/README.md) — `센서 자료와 건강 경보를 읽다`
+- [공동체 이주민 환대와 언어 접근의 언어](./advanced-community-migrant-welcome-and-language-access/README.md) — `환대센터와 통번역 접근을 읽다`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,750 new targets across two hundred fifty independent topic batches; 8,750 structured headings toward the 10,000 target, leaving 1,250 after this checkpoint.
+- Progress in this checkpoint: 3,780 new targets across two hundred fifty-two independent topic batches; 8,780 structured headings toward the 10,000 target, leaving 1,220 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4403,3 +4403,18 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 111-eojeol Korean repair-right passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,750 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 air-quality-sensors and migrant-language-access checkpoint
+
+- Topic: `advanced-urban-air-quality-citizen-sensors-and-alerts`
+- File: `01-urban-air-quality-citizen-sensors-and-alerts.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban air-quality citizen-sensor and public-alert headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean air-quality passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
+
+- Topic: `advanced-community-migrant-welcome-and-language-access`
+- File: `01-community-migrant-welcome-and-language-access.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot migrant-welcome and public language-access headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one corrected coherent 99-eojeol Korean migrant-language-access passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact whitespace-token passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+- Resume: 8,780 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
