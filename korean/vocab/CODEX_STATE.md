@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 960 new targets across sixty-four independent topic batches; 5,960 structured headings toward the 10,000 target, leaving 4,040 after this checkpoint.
+- Progress in this checkpoint: 1,020 new targets across sixty-eight independent topic batches; 6,020 structured headings toward the 10,000 target, leaving 3,980 after this checkpoint.
+
+- Topic: `advanced-flood-risk-and-river-basin-governance`
+- File: `01-flood-risk-and-river-basin-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flood-risk and river-basin governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean flood-risk passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-capture-and-geological-storage`
+- File: `01-carbon-capture-and-geological-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon-capture and geological-storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean carbon-capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-battery-chemistry-and-energy-storage-safety`
+- File: `01-battery-chemistry-and-energy-storage-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot battery-chemistry and energy-storage safety headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean battery-safety passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-and-metabolic-engineering`
+- File: `01-synthetic-biology-and-metabolic-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synthetic-biology and metabolic-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean synthetic-biology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-urban-biodiversity-and-green-infrastructure`
 - File: `01-urban-ecological-connectivity-and-green-infrastructure.md`
