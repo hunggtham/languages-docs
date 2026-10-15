@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,020 new targets across sixty-eight independent topic batches; 6,020 structured headings toward the 10,000 target, leaving 3,980 after this checkpoint.
+- Progress in this checkpoint: 1,080 new targets across seventy-two independent topic batches; 6,080 structured headings toward the 10,000 target, leaving 3,920 after this checkpoint.
+
+- Topic: `advanced-satellite-communications-and-orbital-constellations`
+- File: `01-satellite-communications-and-orbital-constellations.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot satellite-communication and orbital-constellation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 132-eojeol Korean satellite-constellation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nuclear-fusion-and-plasma-engineering`
+- File: `01-nuclear-fusion-and-plasma-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear-fusion and plasma-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean nuclear-fusion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanomaterials-and-surface-engineering`
+- File: `01-nanomaterials-and-surface-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanomaterials and surface-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean nanomaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-vessels-and-maritime-robotics`
+- File: `01-autonomous-vessels-and-maritime-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot autonomous-vessels and maritime-robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 122-eojeol Korean autonomous-vessels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-flood-risk-and-river-basin-governance`
 - File: `01-flood-risk-and-river-basin-governance.md`

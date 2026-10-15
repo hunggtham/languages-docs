@@ -124,6 +124,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [탄소 포집과 지중 저장의 언어](./advanced-carbon-capture-and-geological-storage/README.md) — `탄소를 포집하고 지중에 안전하게 격리하다`
 - [배터리 화학과 에너지 저장 장치 안전의 언어](./advanced-battery-chemistry-and-energy-storage-safety/README.md) — `배터리 열전파를 막고 에너지 저장을 안정화하다`
 - [합성생물학과 대사공학의 언어](./advanced-synthetic-biology-and-metabolic-engineering/README.md) — `미생물 대사경로를 설계하고 세포공장을 최적화하다`
+- [위성 통신과 궤도 군집의 언어](./advanced-satellite-communications-and-orbital-constellations/README.md) — `저궤도 위성 통신과 궤도 군집 운용`
+- [핵융합과 플라스마 공학의 언어](./advanced-nuclear-fusion-and-plasma-engineering/README.md) — `초고온 플라스마 가둠과 핵융합 실증로`
+- [나노소재와 표면공학의 언어](./advanced-nanomaterials-and-surface-engineering/README.md) — `나노구조 제어와 박막 표면 개질`
+- [자율운항선박과 해양로봇의 언어](./advanced-autonomous-vessels-and-maritime-robotics/README.md) — `해상 자율운항과 무인 원격 관제`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
