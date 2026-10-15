@@ -66,11 +66,13 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
 - [Digital Journalism And Mass Communication](./media/02-digital-journalism-and-mass-communication.md)
+- [Digital Platforms Social Media Algorithms And Content Moderation](./media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
 
 ## environment
 
 - [Environmental Conservation And Climate Action](./environment/01-environmental-conservation-and-climate-action.md)
 - [Renewable Energy And Resource Sustainability](./environment/02-renewable-energy-and-resource-sustainability.md)
+- [Climate Resilience Biodiversity And Conservation Policy](./environment/03-climate-resilience-biodiversity-and-conservation-policy.md)
 
 ## finance
 
@@ -79,6 +81,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## economics
 
 - [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
+- [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
 
 ## business
 
@@ -87,6 +90,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## law
 
 - [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
+- [Intellectual Property Corporate Liability And Contract Enforcement](./law/02-intellectual-property-corporate-liability-and-contract-enforcement.md)
 
 ## psychology
 
