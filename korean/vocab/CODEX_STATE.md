@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,140 new targets across seventy-six independent topic batches; 6,140 structured headings toward the 10,000 target, leaving 3,860 after this checkpoint.
+- Progress in this checkpoint: 1,200 new targets across eighty independent topic batches; 6,200 structured headings toward the 10,000 target, leaving 3,800 after this checkpoint.
+
+- Topic: `advanced-deep-sea-mining-and-benthic-ecosystems`
+- File: `01-deep-sea-mining-and-benthic-ecosystems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep-sea mining and benthic ecosystems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 107-eojeol Korean deep-sea mining passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-computing-and-spiking-neural-networks`
+- File: `01-neuromorphic-computing-and-spiking-neural-networks.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic-computing and spiking neural network headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean neuromorphic computing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-aerospace-composite-materials-and-structural-health`
+- File: `01-aerospace-composite-materials-and-structural-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aerospace-composite materials and structural-health monitoring headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean aerospace composites passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-grid-cyber-resilience-and-ot-security`
+- File: `01-grid-cyber-resilience-and-ot-security.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot grid cyber-resilience and OT security headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean grid cyber-resilience passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-pharmacogenomics-and-precision-therapeutics`
 - File: `01-pharmacogenomics-and-precision-therapeutics.md`
