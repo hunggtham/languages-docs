@@ -18,7 +18,7 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,690 new targets across two hundred forty-six independent topic batches; 8,690 structured headings toward the 10,000 target, leaving 1,310 after this checkpoint.
+- Progress in this checkpoint: 3,705 new targets across two hundred forty-seven independent topic batches; 8,705 structured headings toward the 10,000 target, leaving 1,295 after this checkpoint.
 
 - Topic: `advanced-marine-heatwaves-and-fisheries`
 - File: `01-marine-heatwaves-and-fisheries.md`
@@ -4370,3 +4370,12 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 73-eojeol Korean community-water passage with all 15 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, exact whitespace-token passage count, and `git diff --check` pass.
 - Resume: 8,690 structured headings are validated in this checkpoint; continue with the next two topic-coherent batches toward 10,000.
+
+## 2026-10-15 community-eldercare checkpoint
+
+- Topic: `advanced-community-eldercare-day-services-and-social-connection`
+- File: `01-community-eldercare-day-services-and-social-connection.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot community eldercare day-service and social-connection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 121-eojeol Korean eldercare passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, corrected exact whitespace-token passage count, global heading deduplication, topic README link, and `git diff --check` pass.
+- Resume: 8,705 structured headings are validated in this checkpoint; continue with the pending urban-community-gardens batch or the next topic-coherent batch toward 10,000.
