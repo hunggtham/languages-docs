@@ -63,10 +63,12 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## media
 
 - [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
+- [Digital Journalism And Mass Communication](./media/02-digital-journalism-and-mass-communication.md)
 
 ## environment
 
 - [Environmental Conservation And Climate Action](./environment/01-environmental-conservation-and-climate-action.md)
+- [Renewable Energy And Resource Sustainability](./environment/02-renewable-energy-and-resource-sustainability.md)
 
 ## finance
 

@@ -115,7 +115,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 
 - [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
 - [Dating Emotional Bonds And Reconciliation](./relationships/02-dating-emotional-bonds-and-reconciliation.md)
-
+- [Family Roles And Household Dynamics](./relationships/03-family-roles-and-household-dynamics.md)
 
 ## leisure
 
@@ -138,7 +138,10 @@ Files are numbered independently inside each topic folder. New lessons are topic
 ## shopping
 
 - [Retail Stores And Shopping Experience](./shopping/01-retail-stores-and-shopping-experience.md)
+- [Shopping Experiences And Payment](./shopping/02-shopping-experiences-and-payment.md)
+- [Online Shopping And Customer Service](./shopping/03-online-shopping-and-customer-service.md)
 
 ## sport
 
 - [Competitive Sports And Tournaments](./sport/01-competitive-sports-and-tournaments.md)
+- [Outdoor Fitness And Recreation](./sport/02-outdoor-fitness-and-recreation.md)
