@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,080 new targets across seventy-two independent topic batches; 6,080 structured headings toward the 10,000 target, leaving 3,920 after this checkpoint.
+- Progress in this checkpoint: 1,140 new targets across seventy-six independent topic batches; 6,140 structured headings toward the 10,000 target, leaving 3,860 after this checkpoint.
+
+- Topic: `advanced-pharmacogenomics-and-precision-therapeutics`
+- File: `01-pharmacogenomics-and-precision-therapeutics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot pharmacogenomics and precision-therapeutics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean pharmacogenomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-semiconductor-packaging-and-heterogeneous-integration`
+- File: `01-semiconductor-packaging-and-heterogeneous-integration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot semiconductor-packaging and heterogeneous-integration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean advanced-packaging passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-driving-and-sensor-fusion`
+- File: `01-autonomous-driving-and-sensor-fusion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot autonomous-driving and sensor-fusion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean autonomous-driving passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-climate-geoengineering-and-albedo-modification`
+- File: `01-climate-geoengineering-and-albedo-modification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot climate-geoengineering and albedo-modification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 109-eojeol Korean climate-geoengineering passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-satellite-communications-and-orbital-constellations`
 - File: `01-satellite-communications-and-orbital-constellations.md`
