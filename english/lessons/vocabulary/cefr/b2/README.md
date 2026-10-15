@@ -47,6 +47,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
 - [Cloud Infrastructure And Software Maintenance](./technology/04-cloud-infrastructure-and-software-maintenance.md)
+- [Artificial Intelligence Automation And Data Ethics](./technology/05-artificial-intelligence-automation-and-data-ethics.md)
 
 ## society
 
@@ -59,6 +60,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## health
 
 - [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
+- [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
 
 ## media
 
@@ -78,6 +80,10 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
 
+## business
+
+- [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
+
 ## law
 
 - [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
@@ -93,6 +99,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## art
 
 - [Visual Arts Artistic Creation And Gallery Exhibitions](./art/01-visual-arts-artistic-creation-and-gallery-exhibitions.md)
+- [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
 
 ## urban
 
