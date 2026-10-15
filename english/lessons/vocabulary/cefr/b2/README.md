@@ -18,6 +18,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
 - [Career Lifecycle And Workplace Dynamics](./work/02-career-lifecycle-and-workplace-dynamics.md)
+- [Organizational Restructuring Leadership And Labor Relations](./work/03-organizational-restructuring-leadership-and-labor-relations.md)
 
 ## communication
 
@@ -77,6 +78,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## finance
 
 - [Personal Finance And Capital Management](./finance/01-personal-finance-and-capital-management.md)
+- [Banking Operations Credit Risk And Financial Regulation](./finance/02-banking-operations-credit-risk-and-financial-regulation.md)
 
 ## economics
 
@@ -99,6 +101,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## politics
 
 - [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
+- [International Diplomacy Geopolitics And Treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
 
 ## art
 
@@ -108,3 +111,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## urban
 
 - [Metropolitan Growth And Municipal Infrastructure](./urban/01-metropolitan-growth-and-municipal-infrastructure.md)
+- [Smart Cities Sustainable Mobility And Urban Zoning](./urban/02-smart-cities-sustainable-mobility-and-urban-zoning.md)
