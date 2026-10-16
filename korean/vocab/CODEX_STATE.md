@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,760 new targets across 384 independent topic batches; 10,760 structured headings toward the 15,000 target, leaving 4,240 after this checkpoint.
+- Progress in this checkpoint: 5,910 new targets across 394 independent topic batches; 10,910 structured headings toward the 15,000 target, leaving 4,090 after this checkpoint.
+
+- Topic: `medicine-organ-transplantation-and-immunosuppression`
+- File: `01-organ-transplantation-and-immunosuppression.md`
+- Coverage: 15 new advanced-native organ transplantation, immunosuppression, and graft immunology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-dialectology-and-linguistic-geography`
+- File: `01-dialectology-and-linguistic-geography.md`
+- Coverage: 15 new advanced-native dialectology, linguistic geography, and geolinguistics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geology-plate-tectonics-and-seismic-engineering`
+- File: `01-plate-tectonics-and-seismic-engineering.md`
+- Coverage: 15 new advanced-native plate tectonics, seismic engineering, and earthquake disaster prevention headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-aging-society-and-long-term-care`
+- File: `01-aging-society-and-long-term-care.md`
+- Coverage: 15 new advanced-native super-aged society, long-term care welfare, and integrated community care headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `media-computational-journalism-and-data-investigation`
+- File: `01-computational-journalism-and-data-investigation.md`
+- Coverage: 15 new advanced-native computational journalism, open-source intelligence (OSINT), and data investigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-patent-litigation-and-intellectual-property-trials`
+- File: `01-patent-litigation-and-intellectual-property-trials.md`
+- Coverage: 15 new advanced-native patent litigation, intellectual property judicial trials, and FRAND licensing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-forest-ecology-and-wildfire-restoration`
+- File: `01-forest-ecology-and-wildfire-restoration.md`
+- Coverage: 15 new advanced-native forest ecology, wildfire restoration engineering, and silvicultural resilience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `technology-cyber-security-and-zero-trust-architecture`
+- File: `01-cyber-security-and-zero-trust-architecture.md`
+- Coverage: 15 new advanced-native zero trust network architecture, post-quantum cryptography, and cyber resilience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `arts-museum-curation-and-exhibition-design`
+- File: `01-museum-curation-and-exhibition-design.md`
+- Coverage: 15 new advanced-native museology, exhibition curation, and scenographic heritage design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-finance-and-market-anomalies`
+- File: `01-behavioral-finance-and-market-anomalies.md`
+- Coverage: 15 new advanced-native behavioral finance, market anomalies, and neurofinance headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `aerospace-satellite-communication-and-6g`
 - File: `01-satellite-communication-and-6g.md`

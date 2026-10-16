@@ -440,6 +440,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [나노소재 및 양자점 나노공학의 언어](./materials-nanomaterials-and-quantum-dots/README.md) — `양자점 디스플레이 색재현율 및 탄소나노튜브 복합재 기반 2차원 그래핀 박리와 원자층 증착 ALD 초박막 공정`
 - [디지털 격차 및 플랫폼 노동의 사회학적 언어](./sociology-digital-divide-and-platform-labor/README.md) — `알고리즘 통제 종속 및 긱 이코노미 호출노동 기반 특고 사회안전망과 플랫폼 협동조합 대안경제 모델`
 - [비교종교학 및 종교간 대화의 언어](./theology-comparative-religion-and-interfaith-dialogue/README.md) — `비교종교학 현상학적 이해 및 종교다원주의 논쟁 기반 성스러움과 속됨의 공간 철학과 평화공존 담론`
+- [장기이식 및 면역억제 의학의 언어](./medicine-organ-transplantation-and-immunosuppression/README.md) — `조직적합성 항원 교차시험 및 CNI 면역억제제 기반 생체 간이식 담도문합술과 EVLP 체외 폐관류 보존기술`
+- [방언학 및 언어지리학의 언어](./linguistics-dialectology-and-linguistic-geography/README.md) — `등어선 언어지도 경계구획 및 방언구획론 음운체계 기반 성조 실측과 소멸위기 토박이말 채록 아카이브`
+- [판구조론 및 지진공학 방재의 언어](./geology-plate-tectonics-and-seismic-engineering/README.md) — `섭입대 단층 및 활성단층 OSL 연대측정 기반 지진격리받침 면진설계와 점탄성 제진댐퍼 내진보강`
+- [초고령사회 돌봄복지 및 장기요양의 사회학적 언어](./sociology-aging-society-and-long-term-care/README.md) — `노인장기요양 등급판정 및 커뮤니티 케어 기반 AI 돌봄로봇과 호스피스 완화의료 존엄한 임종 체계`
+- [전산저널리즘 및 데이터 탐사보도의 언어](./media-computational-journalism-and-data-investigation/README.md) — `공공데이터 정보공개청구 및 위성영상 OSINT 기반 정치자금 네트워크 분석과 딥페이크 팩트체킹`
+- [특허소송 및 지식재산 사법심판의 법학적 언어](./law-patent-litigation-and-intellectual-property-trials/README.md) — `특허침해금지 손해배상 및 균등론 침해판단 기반 영업비밀 가처분과 FRAND 표준필수특허 분쟁`
+- [산림생태학 및 산불피해지 복원공학의 언어](./environmental-forest-ecology-and-wildfire-restoration/README.md) — `산불피해지 자연복원 인공조림 및 탄소흡수원 보존 기반 수관화 연료관리와 친환경 내화 혼효림 조성`
+- [사이버보안 및 제로트러스트 아키텍처의 공학적 언어](./technology-cyber-security-and-zero-trust-architecture/README.md) — `제로트러스트 ZTNA 및 양자내성암호 격자보안 기반 SBOM 공급망 추적과 EDR 이상행위 탐지대응`
+- [박물관학 및 전시 큐레이션 디자인의 예술적 언어](./arts-museum-curation-and-exhibition-design/README.md) — `상설전시 스토리텔링 및 프로비넌스 출처조사 기반 몰입형 미디어아트와 유네스코 문화재 환수`
+- [행동재무학 및 시장 이상현상의 금융경제학적 언어](./economics-behavioral-finance-and-market-anomalies/README.md) — `전망이론 가치함수 및 군집행동 비이성적 과열 기반 처분효과 심리적 회계와 호가창 유동성 착시`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
