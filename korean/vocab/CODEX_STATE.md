@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,560 new targets across 104 independent topic batches; 6,560 structured headings toward the 10,000 target, leaving 3,440 after this checkpoint.
+- Progress in this checkpoint: 1,620 new targets across 108 independent topic batches; 6,620 structured headings toward the 10,000 target, leaving 3,380 after this checkpoint.
+
+- Topic: `advanced-direct-air-capture-and-solid-sorbents`
+- File: `01-direct-air-capture-and-solid-sorbents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct air capture and solid sorbents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean DAC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bioelectronic-medicine-and-vagus-stimulation`
+- File: `01-bioelectronic-medicine-and-vagus-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic medicine and vagus stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean bioelectronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-underwater-vehicles-and-subsea-fleets`
+- File: `01-autonomous-underwater-vehicles-and-subsea-fleets.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot AUV and subsea fleets headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean AUV subsea passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterials-and-transformation-optics`
+- File: `01-metamaterials-and-transformation-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterials and transformation optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 122-eojeol Korean metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-small-modular-reactors-and-molten-salt`
 - File: `01-small-modular-reactors-and-molten-salt.md`
