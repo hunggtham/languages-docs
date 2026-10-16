@@ -420,6 +420,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [형사 소송 및 법과학 증거주의 사법 절차의 언어](./law-criminal-procedure-and-forensic-evidence/README.md) — `무죄추정의 원칙 및 영장주의 위법수집증거배제법칙 기반 디지털 포렌식 증거능력 탄핵 심리`
 - [행동경제학 및 선택 설계학 공공 정책의 언어](./economics-behavioral-economics-and-choice-architecture/README.md) — `제한된 합리성 휴리스틱 및 넛지 선택 설계 기반 손실 회피 편향 극복과 공공 정책 행동 분석`
 - [스마트 팜 및 미래 식량 안보 농업 공학의 언어](./agriculture-smart-farming-and-food-security/README.md) — `스마트 팜 복합 환경 제어 및 식물공장 수직 농업 기반 기후변화 대응 곡물 비축 식량 안보`
+- [로봇공학 및 휴머노이드 자율 시스템 공학의 언어](./robotics-humanoid-and-autonomous-systems/README.md) — `휴머노이드 이족보행 및 SLAM 동시적 위치추정 기반 협동로봇 안전제어와 원격 텔레오퍼레이션`
+- [기상학 및 극한 기후 재난 방재의 언어](./meteorology-extreme-weather-and-disaster-prevention/README.md) — `기상 수치예보 모델링 및 레이더 원격탐사 기반 돌발홍수 조기경보와 산불확산 기상예측 방재망`
+- [전산언어학 및 자연어 처리 인공지능의 언어](./linguistics-computational-linguistics-and-nlp/README.md) — `트랜스포머 어텐션 메커니즘 및 LLM 파인튜닝 기반 생성형 AI 환각 완화와 RAG 검색증강생성`
+- [원격의료 및 디지털 헬스케어 생명윤리의 언어](./medicine-telemedicine-and-digital-healthcare/README.md) — `IoMT 생체신호 모니터링 및 디지털 치료제 CBT 기반 EMR 상호운용성과 환자 데이터 주권 보호`
+- [벤처캐피털 및 스타트업 투자 생태계의 언어](./finance-venture-capital-and-startup-ecosystem/README.md) — `엔젤 시드 투자 및 시리즈 A 펀딩 기반 RCPS 상환전환우선주 계약과 유니콘 스케일업 엑시트`
+- [인식론 및 과학철학 진리 탐구의 언어](./philosophy-epistemology-and-philosophy-of-science/README.md) — `JTB 정당화된 참된 믿음 및 쿤 패러다임 전환 기반 포퍼 반증가능성과 콰인 정합론 신념체계망`
+- [자율주행 및 미래 모빌리티 서비스 교통공학의 언어](./transportation-autonomous-driving-and-mobility-service/README.md) — `라이다 포인트클라우드 및 V2X 차량사물통신 기반 레벨 4 자율주행과 MaaS 통합 모빌리티 구독`
+- [국제통상법 및 무역 관세 분쟁 해결의 언어](./law-international-trade-and-tariff-disputes/README.md) — `WTO 상소기구 및 반덤핑 상계관세 기반 MFN 최혜국대우 원칙과 CBAM 탄소국경조정제도 대응`
+- [해양 플라스틱 및 생태계 보전 환경생물학의 언어](./environmental-marine-plastic-and-ecosystem-preservation/README.md) — `미세플라스틱 생태독성 및 폐어망 생분해성 어구 기반 갯벌 블루카본 흡수원과 플라스틱 열분해유`
+- [음악학 및 음향학 예술 비평의 언어](./music-musicology-and-acoustic-aesthetics/README.md) — `서양음악사 화성학 대위법 및 쇤베르크 12음 기법 기반 콘서트홀 잔향 설계와 인지신경음악학 연구`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

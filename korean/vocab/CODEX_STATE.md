@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,460 new targets across 364 independent topic batches; 10,460 structured headings toward the 15,000 target, leaving 4,540 after this checkpoint.
+- Progress in this checkpoint: 5,610 new targets across 374 independent topic batches; 10,610 structured headings toward the 15,000 target, leaving 4,390 after this checkpoint.
+
+- Topic: `robotics-humanoid-and-autonomous-systems`
+- File: `01-humanoid-and-autonomous-systems.md`
+- Coverage: 15 new advanced-native robotics, humanoid locomotion, and autonomous control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `meteorology-extreme-weather-and-disaster-prevention`
+- File: `01-extreme-weather-and-disaster-prevention.md`
+- Coverage: 15 new advanced-native meteorology, extreme weather forecasting, and disaster management headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-linguistics-and-nlp`
+- File: `01-computational-linguistics-and-nlp.md`
+- Coverage: 15 new advanced-native computational linguistics, NLP, and generative AI headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `medicine-telemedicine-and-digital-healthcare`
+- File: `01-telemedicine-and-digital-healthcare.md`
+- Coverage: 15 new advanced-native telemedicine, digital healthcare, and bioethics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-venture-capital-and-startup-ecosystem`
+- File: `01-venture-capital-and-startup-ecosystem.md`
+- Coverage: 15 new advanced-native venture capital, startup valuation, and equity financing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-and-philosophy-of-science`
+- File: `01-epistemology-and-philosophy-of-science.md`
+- Coverage: 15 new advanced-native epistemology and philosophy of science headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `transportation-autonomous-driving-and-mobility-service`
+- File: `01-autonomous-driving-and-mobility-service.md`
+- Coverage: 15 new advanced-native autonomous driving, V2X connected infrastructure, and smart mobility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-international-trade-and-tariff-disputes`
+- File: `01-international-trade-and-tariff-disputes.md`
+- Coverage: 15 new advanced-native international trade law, WTO dispute settlement, and tariff conflict headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-marine-plastic-and-ecosystem-preservation`
+- File: `01-marine-plastic-and-ecosystem-preservation.md`
+- Coverage: 15 new advanced-native marine plastic pollution, blue carbon sinks, and marine biology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `music-musicology-and-acoustic-aesthetics`
+- File: `01-musicology-and-acoustic-aesthetics.md`
+- Coverage: 15 new advanced-native musicology, acoustic aesthetics, and sound design headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `astronomy-space-exploration-and-satellite-technology`
 - File: `01-space-exploration-and-satellite-technology.md`
