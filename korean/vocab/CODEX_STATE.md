@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,420 new targets across 228 independent topic batches; 8,420 structured headings toward the 10,000 target, leaving 1,580 after this checkpoint.
+- Progress in this checkpoint: 3,510 new targets across 234 independent topic batches; 8,510 structured headings toward the 10,000 target, leaving 1,490 after this checkpoint.
+
+- Topic: `advanced-topological-insulator-spintronics-and-spin-orbit-torque`
+- File: `01-topological-insulator-spintronics-and-spin-orbit-torque.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological insulator spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean topological spintronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-surface-acoustic-wave-microfluidics-and-lab-on-a-chip`
+- File: `01-surface-acoustic-wave-microfluidics-and-lab-on-a-chip.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot surface acoustic wave microfluidics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean acoustofluidics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-van-der-waals-heterostructures-and-moiré-superlattices`
+- File: `01-van-der-waals-heterostructures-and-moiré-superlattices.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot van der Waals heterostructures and moiré superlattices headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean vdW heterostructures passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-ocean-pressure-tolerant-electronics-and-auv`
+- File: `01-deep-ocean-pressure-tolerant-electronics-and-auv.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep ocean pressure-tolerant electronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean deep ocean electronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-photovoltaics-and-living-algae-energy`
+- File: `01-bio-photovoltaics-and-living-algae-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-photovoltaics and living algae energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean bio-photovoltaics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-terahertz-metamaterial-biosensors-and-diagnostics`
+- File: `01-terahertz-metamaterial-biosensors-and-diagnostics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot terahertz metamaterial biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean THz biosensors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-metamaterial-microwave-cloaking-and-radomes`
 - File: `01-metamaterial-microwave-cloaking-and-radomes.md`
