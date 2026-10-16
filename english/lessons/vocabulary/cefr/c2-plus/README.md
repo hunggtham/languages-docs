@@ -658,7 +658,7 @@
 
 
 
-## Lessons (270 lessons, 6447 items)
+## Lessons (278 lessons, 6647 items)
 
 ### Agroecology ()
 
@@ -905,48 +905,56 @@
 - [C2+ Vocabulary — Marine zones and animal adaptations](marine-biology/01-marine-zones-and-animal-adaptations.md) — 20 items
 - [Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md) — 25 items
 - [Benthic-pelagic organic matter coupling, hydrothermal vent chemosynthesis, and methane cold-seep endosymbiosis](marine-biology/03-benthic-pelagic-coupling-deep-sea-chemosynthesis-and-cold-seep-microbiology.md) — 25 items
+- [Deep-sea hydrothermal vent chemosynthesis, sulfur-oxidizing endosymbionts, and trophosome biochemistry](marine-biology/04-deep-sea-hydrothermal-vent-chemosynthesis-and-endosymbiosis.md) — 25 items
 
 ### Maritime Logistics ()
 
 - [C2+ Vocabulary — Container shipping and trade compliance](maritime-logistics/01-container-shipping-and-trade-compliance.md) — 20 items
 - [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md) — 20 items
 - [Charterparty demurrage, laytime calculations, and seaworthiness warranties](maritime-logistics/03-charterparty-demurrage-laytime-calculations-and-seaworthiness-warranties.md) — 25 items
+- [Automated container terminals, automated guided vehicles (AGVs), and dual-cycling quay crane scheduling](maritime-logistics/04-container-terminal-automated-guided-vehicles-and-quay-crane-scheduling.md) — 25 items
 
 ### Materials ()
 
 - [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md) — 20 items
 - [Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md) — 25 items
 - [High-entropy alloys, severe plastic deformation, and dislocation pinning](materials/03-high-entropy-alloys-severe-plastic-deformation-and-dislocation-pinning.md) — 25 items
+- [Nitinol shape memory alloys, thermoelastic martensitic transformations, and pseudoelastic hysteresis](materials/04-shape-memory-alloys-martensitic-transformation-and-superelasticity.md) — 25 items
 
 ### Medical Imaging ()
 
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md) — 20 items
 - [Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md) — 25 items
 - [Functional MRI, BOLD contrast hemodynamic response, and resting-state functional connectivity](medical-imaging/03-functional-mri-blood-oxygen-level-dependent-hemodynamic-response-and-resting-state-connectivity.md) — 25 items
+- [Diffusion tensor imaging (DTI), deterministic tractography, and fractional anisotropy neuroimaging](medical-imaging/04-diffusion-tensor-imaging-tractography-and-fractional-anisotropy.md) — 25 items
 
 ### Music Theory ()
 
 - [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md) — 20 items
 - [Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md) — 25 items
 - [Pitch-class set theory, interval-class vectors, and combinatorial hexachordal inversion](music-theory/03-pitch-class-set-theory-interval-vectors-and-combinatorial-hexachordal-inversion.md) — 25 items
+- [Neo-Riemannian Tonnetz, parsimonious triadic voice-leading, and PLR transformations](music-theory/04-neo-riemannian-tonnetz-parsimonious-voice-leading-and-triadic-transformations.md) — 25 items
 
 ### Mycology ()
 
 - [C2+ Vocabulary — Fungal structure and reproductive biology](mycology/01-fungal-structure-and-reproductive-biology.md) — 20 items
 - [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md) — 25 items
 - [Mycorrhizal hyphal networks, glomalin-mediated soil aggregation, and ectomycorrhizal fungal mantles](mycology/03-mycorrhizal-hyphal-networks-glomalin-soil-aggregation-and-ectomycorrhizal-mantles.md) — 25 items
+- [Mycelial network architecture, vegetative hyphal anastomosis, and fungal foraging cords](mycology/04-mycelial-network-architecture-hyphal-fusion-and-anastomosis.md) — 25 items
 
 ### Neuroscience ()
 
 - [C2+ Vocabulary — Neural circuits, glia, and spatial coding](neuroscience/01-neural-circuits-glia-and-spatial-coding.md) — 20 items
 - [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md) — 20 items
 - [Predictive coding, precision-weighted prediction errors, and hierarchical active inference](neuroscience/03-predictive-coding-precision-weighted-prediction-errors-and-hierarchical-active-inference.md) — 25 items
+- [Optogenetic opsins, microbial rhodopsin photostimulation, and cell-type-specific neural circuit dissection](neuroscience/04-optogenetic-channelrhodopsin-photostimulation-and-neural-circuit-dissection.md) — 25 items
 
 ### Perfumery ()
 
 - [C2+ Vocabulary — Perfumery and olfactory language](perfumery/01-perfumery-and-olfactory-language.md) — 20 items
 - [Dynamic headspace GC-MS analysis, olfactory evaporation kinetics, and macrocyclic musk substantivity](perfumery/02-headspace-gas-chromatography-olfactory-evaporation-curves-and-fixative-substantivity.md) — 25 items
 - [Ambergris notes, ambroxan stereoselective synthesis, and chiral lactone fixative tenacity](perfumery/03-ambergris-ambroxan-synthesis-chiral-lactones-and-tenacious-fixative-diffusion.md) — 25 items
+- [Natural ambergris maturation, synthetic ambroxan chemistry, and macrocyclic musk olfactory fixation](perfumery/04-ambergris-ambroxan-macrocyclic-musks-and-olfactory-fixation.md) — 25 items
 
 ### Philosophy Of Science ()
 

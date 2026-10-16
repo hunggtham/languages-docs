@@ -1379,7 +1379,7 @@
 - [C2 Vocabulary 208 — Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md)
 
 
-## Lessons (700 lessons, 14642 items)
+## Lessons (708 lessons, 14842 items)
 
 ### Argument ()
 
@@ -1400,6 +1400,7 @@
 - [Dialectical stalemate, Socratic aporia, paraconsistent logic, and antinomy reconciliation](argument/15-dialectical-stalemate-aporia-and-paraconsistent-reconciliation.md) — 25 items
 - [Kantian transcendental arguments, conditions of possibility, and anti-skeptical retortion](argument/16-transcendental-arguments-conditions-of-possibility-and-skeptical-refutation.md) — 25 items
 - [Dialectical ad hominem variants, tu quoque hypocrisy retorts, and circumstantial disqualification](argument/17-ad-hominem-tu-quoque-and-circumstantial-disqualification.md) — 25 items
+- [Causal slippery slope fallacies, continuum sorites paradoxes, and precautionary deliberation](argument/18-slippery-slope-fallacy-causal-sorites-and-precautionary-deliberation.md) — 25 items
 
 ### Biomedicine ()
 
@@ -1495,6 +1496,8 @@
 - [Gut microbiota short-chain fatty acids, GPR41/43 receptor signaling, and regulatory T-cell epigenetics](biomedicine/90-microbiome-derived-metabolites-scfa-gpr41-43-and-immune-tolerance.md) — 25 items
 - [Proteolysis targeting chimeras (PROTACs), chimeric E3 ligase hijacking, and ternary complex kinetics](biomedicine/91-targeted-protein-degradation-protacs-and-ubiquitin-ligase-recruitment.md) — 25 items
 - [Matrix-assisted laser desorption ionization (MALDI) imaging spatial lipidomics, and lipid raft microdomains](biomedicine/92-spatial-lipidomics-maldi-imaging-and-membrane-bilayer-heterogeneity.md) — 25 items
+- [Single-cell RNA sequencing (scRNA-seq), high-dimensional manifold clustering, and RNA velocity vectors](biomedicine/93-single-cell-transcriptomics-cell-type-clustering-and-rna-velocity.md) — 25 items
+- [Cryo-electron microscopy (cryo-EM), single-particle 3D reconstruction, and conformational heterogeneity](biomedicine/94-cryo-electron-microscopy-single-particle-reconstruction-and-conformational-heterogeneity.md) — 25 items
 
 ### Computing ()
 
@@ -1634,6 +1637,8 @@
 - [Denotational formal semantics, monadic parser combinators, and coinductive corecursive types](computing/212-formal-semantics-monadic-parsers-and-denotational-coinductive-types.md) — 25 items
 - [Zero-knowledge rollups, zkEVM state validity proofs, and recursive Plonkish arithmetization](computing/213-zero-knowledge-rollups-zk-evm-and-succinct-recursive-plonkish-arguments.md) — 25 items
 - [Type-level metaprogramming, Martin-Löf dependent types, and Curry-Howard propositional logic](computing/214-type-level-metaprogramming-dependent-types-and-curry-howard-correspondence.md) — 25 items
+- [Fully homomorphic encryption (FHE), bootstrapping noise refreshes, and lattice-based learning with errors](computing/215-homomorphic-encryption-bootstrapping-and-lattice-based-cryptography.md) — 25 items
+- [Probabilistic programming languages (PPL), Hamiltonian Monte Carlo (HMC), and differentiable inference](computing/216-probabilistic-programming-mcmc-sampling-and-differentiable-inference.md) — 25 items
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md) — 20 items
 - [C2 Vocabulary — Distributed ML training and inference](computing/23-distributed-ml-training-and-inference.md) — 20 items
 - [C2 Vocabulary — Privacy-preserving federated learning](computing/24-privacy-preserving-federated-learning.md) — 20 items
@@ -1732,6 +1737,7 @@
 - [Sovereign wealth fund stewardship, Santiago Principles compliance, and geopolitical fiduciary neutrality](governance/15-sovereign-wealth-stewardship-santiago-principles-and-fiduciary-neutrality.md) — 25 items
 - [Administrative regulatory capture, the revolving door phenomenon, and epistemic arbitrage in rulemaking](governance/16-regulatory-capture-revolving-door-and-epistemic-arbitrage.md) — 25 items
 - [Executive emergency decrees, Schmittian states of exception, and hyper-presidential constitutionalism](governance/17-emergency-decrees-state-of-exception-and-constitutional-hyper-presidentialism.md) — 25 items
+- [Technocratic governance, epistemic democratic legitimacy, and agency regulatory capture](governance/18-technocratic-governance-epistemic-democracy-and-regulatory-capture.md) — 25 items
 
 ### Rhetoric ()
 
@@ -1798,6 +1804,7 @@
 - [Paralipsis, apophasis, praeteritio, and the forensic mechanics of clandestine assertion](rhetoric/146-paralipsis-apophasis-and-clandestine-assertion.md) — 25 items
 - [Polysyndetic accumulation, asyndetic urgency, syntactic pacing, and oratorical breath control](rhetoric/147-polysyndeton-asyndeton-and-syntactic-cadence.md) — 25 items
 - [Chiasmus, antimetabole, inverted parallel syntax, and reversible aphoristic balance](rhetoric/148-chiasmus-antimetabole-and-criss-cross-reversal.md) — 25 items
+- [Catachresis, strained metaphoric abuse, and radical semantic extension](rhetoric/149-catachresis-radical-metaphor-and-semantic-strain.md) — 25 items
 - [Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md) — 20 items
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md) — 20 items
 - [Measurement, evidence, and analytical granularity](rhetoric/17-measurement-evidence-and-analytical-granularity.md) — 20 items
@@ -2020,6 +2027,7 @@
 - [Piezoelectric MEMS, scandium-doped aluminum nitride (ScAlN), and 5G bulk acoustic wave filters](semiconductors/210-piezoelectric-mems-scandium-doped-aln-and-5g-bulk-acoustic-filters.md) — 25 items
 - [Beta-gallium oxide (β-Ga2O3) semiconductors, ultra-wide bandgap physics, and kilovolt-class power switches](semiconductors/211-gallium-oxide-ultra-wide-bandgap-and-kilovolt-power-switches.md) — 25 items
 - [Spin-transfer torque MRAM (STT-MRAM), magnetic tunnel junctions (MTJ), and perpendicular magnetic anisotropy](semiconductors/212-spin-transfer-torque-mram-magnetic-tunnel-junctions-and-perpendicular-anisotropy.md) — 25 items
+- [Silicon photonics, co-packaged optics (CPO), and sub-picojoule optical transceiver interconnects](semiconductors/213-silicon-photonics-optical-interconnects-and-co-packaged-optics.md) — 25 items
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md) — 20 items
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md) — 20 items
 - [C2 Vocabulary — Gate-oxide reliability and bias-temperature instability](semiconductors/24-gate-oxide-reliability-and-bias-temperature-instability.md) — 20 items

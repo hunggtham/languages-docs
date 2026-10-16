@@ -1070,12 +1070,13 @@
 - [C1 Vocabulary 02 — Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md)
 
 
-## Lessons (414 lessons, 8495 items)
+## Lessons (422 lessons, 8695 items)
 
 ### Agriculture ()
 
 - [Agriculture and land stewardship](agriculture/01-agriculture-and-land-stewardship.md) — 15 items
 - [Controlled environment agriculture, vertical hydroponics, and precision nutrient dosing](agriculture/02-controlled-environment-agriculture-aeroponics-and-nutrient-film-technique.md) — 25 items
+- [Precision viticulture, multispectral drone imagery, and variable-rate drip irrigation](agriculture/03-precision-viticulture-drone-multispectral-imaging-and-variable-rate-irrigation.md) — 25 items
 
 ### Ai Reliability ()
 
@@ -1087,6 +1088,7 @@
 
 - [Interpretation, nuance, and evidence](analysis/01-interpretation-and-nuance.md) — 15 items
 - [Structural equation modeling, latent constructs, and confirmatory factor analysis](analysis/02-structural-equation-modeling-latent-variables-and-confirmatory-factor-analysis.md) — 25 items
+- [Monte Carlo simulation methods, stochastic differential modeling, and variance reduction techniques](analysis/03-monte-carlo-simulation-stochastic-modeling-and-variance-reduction.md) — 25 items
 
 ### Anthropology ()
 
@@ -1099,6 +1101,7 @@
 
 - [Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md) — 15 items
 - [Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md) — 25 items
+- [Maritime shipwreck archaeology, underwater 3D photogrammetry, and waterlogged wood conservation](archaeology/03-underwater-photogrammetry-maritime-shipwreck-excavation-and-conservation.md) — 25 items
 
 ### Architecture ()
 
@@ -1188,16 +1191,19 @@
 
 - [Biology and genetics](biology/01-biology-and-genetics.md) — 15 items
 - [Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md) — 25 items
+- [Epigenetic histone methylation, ATP-dependent chromatin remodeling, and transcriptional silencing](biology/03-epigenetic-histone-methylation-chromatin-remodeling-and-gene-silencing.md) — 25 items
 
 ### Business ()
 
 - [Business strategy and operations](business/01-business-strategy-and-operations.md) — 15 items
 - [Platform ecosystem orchestration, two-sided market dynamics, and multi-homing costs](business/02-platform-orchestration-two-sided-markets-and-network-effects.md) — 25 items
+- [Mergers and acquisitions (M&A) due diligence, antitrust regulatory clearance, and post-merger integration](business/03-mergers-and-acquisitions-due-diligence-antitrust-clearance-and-integration.md) — 25 items
 
 ### Change ()
 
 - [Resilience, adaptation, and change](change/01-resilience-and-adaptation.md) — 15 items
 - [Punctuated equilibrium, institutional isomorphism, and sociological paradigm shifts](change/02-punctuated-equilibrium-institutional-isomorphism-and-paradigm-shifts.md) — 25 items
+- [Structural organizational inertia, Lewinian unfreezing frameworks, and cultural transformation](change/03-organizational-inertia-unfreezing-models-and-cultural-transformation.md) — 25 items
 
 ### Chemistry ()
 
@@ -1221,6 +1227,7 @@
 
 - [Diplomatic and persuasive communication](communication/01-diplomatic-and-persuasive-communication.md) — 15 items
 - [Critical discourse analysis, ideological news framing, and sociolinguistic hegemony](communication/02-critical-discourse-analysis-ideological-framing-and-hegemonic-rhetoric.md) — 25 items
+- [Intercultural pragmatics, high-context communication, and linguistic politeness maxims](communication/03-intercultural-pragmatics-high-context-negotiation-and-politeness-maxims.md) — 25 items
 
 ### Comparative Politics ()
 
@@ -1232,6 +1239,7 @@
 
 - [Computing concepts and systems](computer-science/01-computing-concepts-and-systems.md) — 15 items
 - [Computational complexity, NP-completeness, and randomized approximation](computer-science/02-computational-complexity-and-probabilistic-algorithms.md) — 25 items
+- [Cache-oblivious algorithms, external memory B-trees, and memory hierarchy optimization](computer-science/03-cache-oblivious-algorithms-b-trees-and-external-memory-hierarchy.md) — 25 items
 
 ### Constitutional Law ()
 

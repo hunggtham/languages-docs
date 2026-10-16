@@ -739,7 +739,7 @@
 - [B2 Vocabulary 10 — Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md)
 
 
-## Lessons (359 lessons, 8134 items)
+## Lessons (367 lessons, 8334 items)
 
 ### Art ()
 
@@ -761,6 +761,7 @@
 - [Immersive digital scenography, projection mapping, and kinetic installations](art/16-immersive-digital-scenography-projection-mapping-and-kinetic-installations.md) — 25 items
 - [Museum restitution, NAGPRA repatriation, provenance research, and digital decolonization](art/17-museum-restitution-nagpra-repatriation-and-digital-decolonization.md) — 25 items
 - [Public monument controversies, contextual memorialization, and urban statuary iconoclasm](art/18-public-monuments-iconoclasm-and-memorial-contestation.md) — 25 items
+- [Museum curatorial practice, art provenance research, and cultural artifact repatriation](art/19-museum-curation-provenance-research-and-cultural-repatriation.md) — 25 items
 
 ### Business ()
 
@@ -782,6 +783,7 @@
 - [Venture capital term sheets, liquidation preferences, and cap table dilution](business/16-venture-capital-term-sheets-liquidation-preferences-and-cap-table-dilution.md) — 25 items
 - [Corporate venture debt, equity warrant coverage, and startup runway preservation](business/17-corporate-venture-debt-warrant-coverage-and-runway-preservation.md) — 25 items
 - [Subscription business models, recurring revenue churn mitigation, and customer lifetime value](business/18-subscription-economy-churn-mitigation-and-customer-lifetime-value.md) — 25 items
+- [Commercial franchise expansion, recurring royalty fees, and operational brand standardization](business/19-franchise-expansion-royalty-fees-and-brand-standardization.md) — 25 items
 
 ### Communication ()
 
@@ -844,6 +846,7 @@
 - [Carbon border adjustment mechanisms, emissions trading schemes, and decarbonization tariffs](economics/17-carbon-border-adjustment-mechanisms-and-emissions-trading-schemes.md) — 25 items
 - [Sovereign wealth funds, natural resource endowments, and intergenerational wealth preservation](economics/18-sovereign-wealth-funds-resource-endowments-and-intergenerational-wealth.md) — 25 items
 - [Gig economy platform labor, algorithmic management, and worker classification disputes](economics/19-gig-economy-algorithmic-management-and-platform-labor.md) — 25 items
+- [Sovereign wealth funds, intergenerational commodity savings, and macro-fiscal spending rules](economics/20-sovereign-wealth-funds-intergenerational-savings-and-fiscal-rules.md) — 25 items
 
 ### Education ()
 
@@ -864,6 +867,7 @@
 - [Adaptive learning analytics, gamified pedagogy, and formative assessment](education/13-adaptive-learning-analytics-gamified-pedagogy-and-formative-assessment.md) — 25 items
 - [Universal design for learning (UDL), neurodivergent accommodation, and cognitive accessibility](education/14-universal-design-for-learning-neurodivergent-support-and-cognitive-access.md) — 25 items
 - [Micro-credentials, digital skills badging, workforce reskilling, and modular learning pathways](education/15-micro-credentials-skills-based-badging-and-workforce-reskilling.md) — 25 items
+- [Vocational apprenticeships, dual-track technical education, and industry-recognized credentials](education/16-vocational-apprenticeships-dual-education-and-skills-certifications.md) — 25 items
 
 ### Environment ()
 
@@ -892,6 +896,7 @@
 - [Coastal mangrove afforestation, blue carbon sequestration, and storm surge resilience](environment/23-coastal-mangrove-afforestation-blue-carbon-and-storm-surge-resilience.md) — 25 items
 - [Urban rewilding, wildlife corridors, ecological permeability, and pocket forest restoration](environment/24-urban-rewilding-wildlife-corridors-and-pocket-forest-restoration.md) — 25 items
 - [Nature-based solutions, sponge city infrastructure, and urban flood attenuation](environment/25-nature-based-solutions-sponge-cities-and-flood-attenuation.md) — 25 items
+- [Urban tree canopy cover, heat island effect mitigation, and neighborhood tree equity](environment/26-urban-canopy-cover-heat-island-mitigation-and-tree-equity.md) — 25 items
 
 ### Finance ()
 
@@ -1104,6 +1109,7 @@
 - [Demographic aging, social care, and intergenerational equity](society/07-demographic-aging-social-care-and-intergenerational-equity.md) — 25 items
 - [Urban gentrification, residential displacement, and affordable housing initiatives](society/08-urban-gentrification-displacement-and-affordable-housing.md) — 25 items
 - [The digital divide, universal broadband access, and civic digital literacy](society/09-digital-divide-broadband-equity-and-civic-connectivity.md) — 25 items
+- [Urban food insecurity, mutual aid solidarity networks, and community food pantries](society/10-food-insecurity-mutual-aid-networks-and-community-pantries.md) — 25 items
 
 ### Technology ()
 
@@ -1120,6 +1126,7 @@
 - [Edge IoT, industrial robotics, and autonomous systems](technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md) — 25 items
 - [Spatial computing, augmented reality overlays, and haptic telepresence](technology/09-spatial-computing-augmented-reality-and-haptic-telepresence.md) — 25 items
 - [Quantum computing readiness, post-RSA encryption migration, and crypto-agility](technology/10-quantum-computing-cryptographic-transition-and-post-rsa-security.md) — 25 items
+- [Enterprise cloud computing, Software-as-a-Service (SaaS) architecture, and geographical data redundancy](technology/11-cloud-computing-saas-architecture-and-data-redundancy.md) — 25 items
 
 ### Urban ()
 
@@ -1142,6 +1149,7 @@
 - [Pocket Parks, Urban Micro-Forests, and Pocket Green Spaces](urban/17-pocket-parks-urban-micro-forests-and-pocket-green-spaces.md) — 25 items
 - [Urban Waterfront Revitalization, Floodable Promenades, and Canal Restoration](urban/18-urban-waterfront-revitalization-floodable-promenades-and-canal-restoration.md) — 25 items
 - [Biophilic Architecture, Green Roofs, and Vertical Gardens](urban/19-biophilic-architecture-green-roofs-and-vertical-gardens.md) — 25 items
+- [Transit-oriented development (TOD), protected bike lane infrastructure, and urban walkability indices](urban/20-transit-oriented-development-bike-infrastructure-and-walkability.md) — 25 items
 
 ### Work ()
 
