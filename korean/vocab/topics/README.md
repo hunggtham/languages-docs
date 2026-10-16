@@ -470,6 +470,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [심리언어학 및 언어습득 인지과학의 언어](./linguistics-psycholinguistics-and-language-acquisition/README.md) — `모국어 습득 결정적시기 가설 및 단어재인 점화효과 기반 시선추적 안구운동 분석과 ERP N400/P600 실시간 추적`
 - [토양정화 및 식물정화 생태환경공학의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `중금속 토양 식물정화 과축적식물 활용 및 열탈착 세척공정 기반 비굴착 SVE/Bioventing과 침출수 차단벽`
 - [색채학 및 안료화학 미술보존학의 언어](./fine-arts-color-theory-and-pigment-chemistry/README.md) — `보색대비 동시대비 시각효과 및 유화 건성유 산화중합 메커니즘 기반 비파괴 라만 안료분석과 바니시 코팅`
+- [외계행성학 및 행성거주가능성 우주생물학의 언어](./astronomy-exoplanets-and-planetary-habitability/README.md) — `식현상 통과관측기법 및 시선속도 도플러분광 기반 골디락스 거주가능구역과 JWST 대기 바이오마커 분석`
+- [공중보건학 및 감염병 역학감시체계의 언어](./public-health-epidemiology-and-disease-surveillance/README.md) — `기초감염재생산지수 R0 추정 및 집단면역 임계치 기반 하수 바이러스 감시망과 원헬스 통합방역 체계`
+- [트라이볼로지 및 마찰마멸 윤활공학의 언어](./mechanical-tribology-and-lubrication-engineering/README.md) — `쿨롱 마찰법칙 및 탄성유체윤활 유막두께 기반 자가치유 트라이보필름과 DLC 나노코팅 초윤활성 연구`
+- [교육사회학 및 계층이동성 불평등 연구의 언어](./sociology-sociology-of-education-and-social-mobility/README.md) — `아비투스 문화자본 및 사회계층이동성지수 기반 실질적 기회균등론과 숨은 교육과정 계층고착화 완화`
+- [양자암호통신 및 포스트양자보안 공학의 언어](./quantum-quantum-cryptography-and-post-quantum-security/README.md) — `BB84 양자키분배 및 격자기반 양자내성암호 PQC 기반 벨 부등식 얽힘광자 검증과 양자리피터 통신망`
+- [종관기상학 및 수치예보 극한기상예측의 언어](./meteorology-synoptic-forecasting-and-extreme-weather/README.md) — `수치예보 앙상블 시스템 및 제트기류 블로킹 정체 기반 이중편파 기상레이더와 태풍 눈의벽 급격발달 예측`
+- [아쿠아포닉스 및 순환여과양식 친환경 농어업 기술의 언어](./agriculture-aquaponics-and-recirculating-aquaculture/README.md) — `순환여과양식 RAS 및 질화세균 생물여과 기반 드럼스크린 필터와 수경재배 결합 지속가능 아쿠아포닉스`
+- [사회언어학 및 방언학 언어변이생태계의 언어](./linguistics-sociolinguistics-and-dialectology/README.md) — `사회음운론적 변이형 및 언어위신 공식어변이 기반 등어선 지리언어지도와 소멸위기 토착방언 아카이빙`
+- [촉매화학 및 녹색화학 탄소중립 청정 공정의 언어](./chemistry-catalysis-and-green-chemistry/README.md) — `불균일계 표면흡착 반응속도론 및 원자경제학 기반 CCU 전기화학전환과 단원자 MOF 복합촉매 녹색화학`
+- [수중고고학 및 해양문화유산 보존과학의 언어](./archaeology-underwater-archaeology-and-maritime-heritage/README.md) — `난파선 인양 보존 및 사이드스캔소나 음향탐사 기반 혐기성 갯벌 수침목재 PEG 탈염과 해양 실크로드 복원`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

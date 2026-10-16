@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,210 new targets across 414 independent topic batches; 11,210 structured headings toward the 15,000 target, leaving 3,790 after this checkpoint.
+- Progress in this checkpoint: 6,360 new targets across 424 independent topic batches; 11,360 structured headings toward the 15,000 target, leaving 3,640 after this checkpoint.
+
+- Topic: `astronomy-exoplanets-and-planetary-habitability`
+- File: `01-exoplanets-and-planetary-habitability.md`
+- Coverage: 15 new advanced-native exoplanet transit photometry, radial velocity, and planetary habitability biomarker headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-health-epidemiology-and-disease-surveillance`
+- File: `01-epidemiology-and-disease-surveillance.md`
+- Coverage: 15 new advanced-native epidemiology, basic reproduction number R0, wastewater virus surveillance, and One Health headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-tribology-and-lubrication-engineering`
+- File: `01-tribology-and-lubrication-engineering.md`
+- Coverage: 15 new advanced-native tribology, elastohydrodynamic lubrication, tribofilms, and superlubricity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-education-and-social-mobility`
+- File: `01-sociology-of-education-and-social-mobility.md`
+- Coverage: 15 new advanced-native sociology of education, habitus cultural capital, meritocracy myth, and social mobility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-quantum-cryptography-and-post-quantum-security`
+- File: `01-quantum-cryptography-and-post-quantum-security.md`
+- Coverage: 15 new advanced-native quantum key distribution BB84, post-quantum lattice cryptography, and quantum repeaters headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `meteorology-synoptic-forecasting-and-extreme-weather`
+- File: `01-synoptic-forecasting-and-extreme-weather.md`
+- Coverage: 15 new advanced-native synoptic meteorology, ensemble NWP modeling, explosive cyclogenesis, and atmospheric blocking headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-aquaponics-and-recirculating-aquaculture`
+- File: `01-aquaponics-and-recirculating-aquaculture.md`
+- Coverage: 15 new advanced-native aquaponics, RAS culture water purification, nitrification biofiltration, and smart fish farming headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-sociolinguistics-and-dialectology`
+- File: `01-sociolinguistics-and-dialectology.md`
+- Coverage: 15 new advanced-native sociolinguistic variation, linguistic prestige, isogloss dialect mapping, and endangered dialect archiving headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `chemistry-catalysis-and-green-chemistry`
+- File: `01-catalysis-and-green-chemistry.md`
+- Coverage: 15 new advanced-native heterogeneous catalysis, atom economy, CCU electrochemical conversion, and single-atom MOF catalysts headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeology-underwater-archaeology-and-maritime-heritage`
+- File: `01-underwater-archaeology-and-maritime-heritage.md`
+- Coverage: 15 new advanced-native underwater archaeology, shipwreck salvage, side-scan sonar, waterlogged wood PEG desalination, and Maritime Silk Road headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `microbiology-virology-and-viral-pathogenesis`
 - File: `01-virology-and-viral-pathogenesis.md`
