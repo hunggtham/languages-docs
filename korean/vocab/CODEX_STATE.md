@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,870 new targets across 258 independent topic batches; 8,870 structured headings toward the 10,000 target, leaving 1,130 after this checkpoint.
+- Progress in this checkpoint: 3,960 new targets across 264 independent topic batches; 8,960 structured headings toward the 10,000 target, leaving 1,040 after this checkpoint.
+
+- Topic: `advanced-spintronic-memristors-and-neuromorphic-crossbars`
+- File: `01-spintronic-memristors-and-neuromorphic-crossbars.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic memristors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metal-organic-framework-atmospheric-water-harvesting`
+- File: `01-metal-organic-framework-atmospheric-water-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-organic framework water harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-perovskite-quantum-dot-micro-displays`
+- File: `01-perovskite-quantum-dot-micro-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite quantum dot micro displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-biosensors-and-microfluidics`
+- File: `01-wearable-sweat-biosensors-and-microfluidics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-magnonics-and-spin-waves`
+- File: `01-topological-magnonics-and-spin-waves.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological magnonics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics`
+- File: `01-biodegradable-triboelectric-nanogenerators-and-ecoelectronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biodegradable triboelectric nanogenerators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-neuromorphic-visual-sensors-and-event-cameras`
 - File: `01-neuromorphic-visual-sensors-and-event-cameras.md`

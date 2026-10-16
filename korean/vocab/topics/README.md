@@ -314,6 +314,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [재구성 가능 지능형 표면과 차세대 전파 통신의 언어](./advanced-programmable-metasurface-reconfigurable-intelligent-surfaces/README.md) — `PIN 다이오드 위상가변 셀 및 능동 빔형성 기반 6G 스마트 무선 환경 구축 및 전파 음영지역 해소 초표면 기술`
 - [나노 광유체학과 단분자 광집게의 언어](./advanced-nano-optofluidics-and-single-molecule-trapping/README.md) — `광자결정 나노광집게 및 나노포어 센싱 기반 무표지 단일 생체분자 포집 및 랩온어칩 초정밀 유전체 분석 기술`
 - [극저온 스핀트로닉스와 양자 제어의 언어](./advanced-cryogenic-spintronics-and-superconducting-qubit-control/README.md) — `조셉슨 접합 및 스핀밸브 자기저항 기반 밀리켈빈 초전도 큐비트 마이크로파 제어 및 극저온 비휘발성 메모리 기술`
+- [스핀트로닉 멤리스터와 뉴로모픽 크로스바의 언어](./advanced-spintronic-memristors-and-neuromorphic-crossbars/README.md) — `스핀토크 유도 자화반전 및 자벽 이동 기반 다중레벨 아날로그 시냅스 가중치 갱신 뉴로모픽 하드웨어 가속기 기술`
+- [금속 유기 골격체와 대기 수분 수확의 언어](./advanced-metal-organic-framework-atmospheric-water-harvesting/README.md) — `결정성 나노기공 수착 및 태양열 구동 탈착 기반 사막 저습도 환경 자율 음용수 생산 무전원 대기 수분 수확 기술`
+- [페로브스카이트 양자점과 마이크로 디스플레이의 언어](./advanced-perovskite-quantum-dot-micro-displays/README.md) — `초고색재현 색변환 필름 및 잉크젯 프린팅 정밀 패터닝 기반 초고해상도 XR 마이크로 디스플레이 양자점 발광 기술`
+- [웨어러블 땀 바이오센서와 미세유체의 언어](./advanced-wearable-sweat-biosensors-and-microfluidics/README.md) — `모세관 유도 미세유체 채널 및 유연 전극 기반 비침습 혈당·젖산·코르티솔 실시간 전기화학 연속 모니터링 기술`
+- [위상 마그노닉스와 스핀파 정보 처리의 언어](./advanced-topological-magnonics-and-spin-waves/README.md) — `스커미온 결정 및 카이랄 스핀파 도파로 기반 열 손실 제로 위상보호 에지 모드 초고속 마그논 논리 연산 기술`
+- [생체분해성 마찰전기 발전기와 에코 전자의 언어](./advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics/README.md) — `천연 고분자 마찰층 및 수용성 다당류 필름 기반 환경 자연분해 단기수명 자가발전 센서 및 에코 전자공학 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
