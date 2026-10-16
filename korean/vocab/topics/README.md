@@ -362,6 +362,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [압전 소노케미컬 나노재료 합성 기술의 언어](./advanced-piezo-sonochemical-nanomaterial-synthesis/README.md) — `초음파 공동 현상 유도 압전 분극 및 국소 초고온 초고압 화학반응 기반 무환원제 친환경 상온 나노입자 대량 생산 기술`
 - [카이랄 페로브스카이트 스핀트로닉스 및 원편광 제어 기술의 언어](./advanced-chiral-perovskite-spintronics-and-circular-polarization/README.md) — `입체 키랄성 유기무기 복합체 및 CISS 효과 기반 자성 박막 없는 상온 스핀 필터링 및 원편광 선택적 광검출 기술`
 - [생체 모사 인공 거미줄 초고강도 섬유 기술의 언어](./advanced-biomimetic-spider-silk-super-fibers/README.md) — `유전자 재조합 스피드로인 발현 및 미세유체 습식 방사 기반 베타-시트 나노결정 가교결합 초고인성 경량 방탄 섬유 기술`
+- [메타물질 완전 흡수체 및 스텔스 기술의 언어](./advanced-metamaterial-perfect-absorbers-and-stealth/README.md) — `서브파장 공진기 및 전자기 임피던스 정합 기반 유효 유전율 제어 광대역 레이더 반사 면적 저감 및 적외선 동시 차폐 스텔스 기술`
+- [이온토포레시스 및 역이온토포레시스 기반 경피 시스템의 언어](./advanced-sweat-iontophoresis-and-reverse-iontophoresis/README.md) — `미세 전류 척력 및 전기삼투 흐름 제어 기반 무통 약물 전달 및 간질액 바이오마커 비침습 연속 추출 폐루프 스마트 헬스케어 기술`
+- [멤리스터 수지상돌기 연산 및 스파이킹 신경망의 언어](./advanced-memristive-dendritic-computing-and-spiking-neural-networks/README.md) — `동적 임계치 스위칭 멤리스터 및 시냅스후전위 비선형 통합 기반 생체 수상돌기 모사 초저전력 시계열 데이터 분류 뉴로모픽 엣지 하드웨어 기술`
+- [무연 압전 에너지 수확 및 무배터리 심박조율기 기술의 언어](./advanced-piezoelectric-lead-free-pacemakers/README.md) — `무독성 KNN계 압전 세라믹 및 유연 티타늄 복합체 기반 심근 수축 운동 에너지 수확 영구 밀봉 무배터리 심박조율기 의공학 기술`
+- [위상 밸리트로닉스 및 베리 곡률 제어 기술의 언어](./advanced-topological-valleytronics-and-berry-curvature/README.md) — `2차원 전이금속 칼코겐화물 공간반전대칭 파괴 및 베리 곡률 유도 밸리 홀 효과 기반 무손실 양자 정보 전달 밸리트로닉스 기술`
+- [게코도마뱀 모사 가역적 건식 점착 기술의 언어](./advanced-gecko-inspired-switchable-dry-adhesives/README.md) — `반데르발스 힘 기반 마이크로 섬모 쐐기형 기둥 및 전단응력 유도 가역적 탈부착 스위칭 무잔여물 우주 로봇 그리퍼 점착 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

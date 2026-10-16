@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,590 new targets across 306 independent topic batches; 9,590 structured headings toward the 10,000 target, leaving 410 after this checkpoint.
+- Progress in this checkpoint: 4,680 new targets across 312 independent topic batches; 9,680 structured headings toward the 10,000 target, leaving 320 after this checkpoint.
+
+- Topic: `advanced-metamaterial-perfect-absorbers-and-stealth`
+- File: `01-metamaterial-perfect-absorbers-and-stealth.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial perfect absorbers and stealth headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sweat-iontophoresis-and-reverse-iontophoresis`
+- File: `01-sweat-iontophoresis-and-reverse-iontophoresis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sweat iontophoresis and reverse iontophoresis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-memristive-dendritic-computing-and-spiking-neural-networks`
+- File: `01-memristive-dendritic-computing-and-spiking-neural-networks.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot memristive dendritic computing and spiking neural networks headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-lead-free-pacemakers`
+- File: `01-piezoelectric-lead-free-pacemakers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric lead-free pacemakers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-valleytronics-and-berry-curvature`
+- File: `01-topological-valleytronics-and-berry-curvature.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological valleytronics and Berry curvature headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-gecko-inspired-switchable-dry-adhesives`
+- File: `01-gecko-inspired-switchable-dry-adhesives.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot gecko-inspired switchable dry adhesives headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-acoustic-black-holes-and-structural-vibration-damping`
 - File: `01-acoustic-black-holes-and-structural-vibration-damping.md`
