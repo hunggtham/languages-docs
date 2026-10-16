@@ -96,6 +96,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Carbon Capture Methane Abatement And Ecological Restoration](./environment/05-carbon-capture-methane-abatement-and-ecological-restoration.md)
 - [Ocean Conservation Marine Protected Areas And Plastics Abatement](./environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md)
 - [Agroforestry Regenerative Agriculture And Soil Microbiome](./environment/07-agroforestry-regenerative-agriculture-and-soil-microbiome.md)
+- [Climate Tipping Points Cryosphere Loss And Polar Adaptation](./environment/08-climate-tipping-points-cryosphere-loss-and-polar-adaptation.md)
 
 ## finance
 
@@ -103,6 +104,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Banking Operations Credit Risk And Financial Regulation](./finance/02-banking-operations-credit-risk-and-financial-regulation.md)
 - [Investment Vehicles Portfolio Diversification And Wealth Preservation](./finance/03-investment-vehicles-portfolio-diversification-and-wealth-preservation.md)
 - [Sustainable Finance Esg Investing And Green Bonds](./finance/04-sustainable-finance-esg-investing-and-green-bonds.md)
+- [Sovereign Wealth Funds Central Bank Reserves And Currency Interventions](./finance/05-sovereign-wealth-funds-central-bank-reserves-and-currency-interventions.md)
 
 ## economics
 
@@ -125,6 +127,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Intellectual Property Corporate Liability And Contract Enforcement](./law/02-intellectual-property-corporate-liability-and-contract-enforcement.md)
 - [International Trade Law Antitrust Regulation And Corporate Governance](./law/03-international-trade-law-antitrust-regulation-and-corporate-governance.md)
 - [Cyber Law Data Sovereignty And Cross Border Jurisdiction](./law/04-cyber-law-data-sovereignty-and-cross-border-jurisdiction.md)
+- [International Arbitration Investor State Disputes And Bilateral Investment Treaties](./law/05-international-arbitration-investor-state-disputes-and-bilateral-investment-treaties.md)
 
 ## psychology
 
@@ -154,3 +157,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Transit Oriented Development Spatial Equity And Affordable Housing](./urban/04-transit-oriented-development-spatial-equity-and-affordable-housing.md)
 - [Smart Grids District Energy And Climate Neutral Cities](./urban/05-smart-grids-district-energy-and-climate-neutral-cities.md)
 - [Waterfront Revitalization Flood Resilience And Civic Commons](./urban/06-waterfront-revitalization-flood-resilience-and-civic-commons.md)
+- [Suburban Retrofit Complete Streets And Transit Equity](./urban/07-suburban-retrofit-complete-streets-and-transit-equity.md)

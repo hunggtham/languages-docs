@@ -36,6 +36,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Health Visits And Self Care](./health/05-health-visits-and-self-care.md)
 - [Common Illnesses And First Aid](./health/06-common-illnesses-and-first-aid.md)
 - [Treatments And Home Care](./health/07-treatments-and-home-care.md)
+- [Mental Wellness Stress Relief And Sleep Habits](./health/08-mental-wellness-stress-relief-and-sleep-habits.md)
 
 ## home
 
@@ -85,6 +86,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Beach Vacations And Cruise Travel](./travel/06-beach-vacations-and-cruise-travel.md)
 - [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
 - [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
+- [Air Travel Customs Clearance And Lost Baggage](./travel/09-air-travel-customs-clearance-and-lost-baggage.md)
 
 ## society
 
@@ -138,6 +140,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Entertainment Media And Indoor Relaxation](./leisure/06-entertainment-media-and-indoor-relaxation.md)
 - [Entertainment Venues And Outdoor Recreation](./leisure/07-entertainment-venues-and-outdoor-recreation.md)
 - [Cultural Events Festivals And Live Performances](./leisure/08-cultural-events-festivals-and-live-performances.md)
+- [Community Hobbies Gardening And Craft Clubs](./leisure/09-community-hobbies-gardening-and-craft-clubs.md)
 
 ## services
 
@@ -148,6 +151,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Banking And Financial Services](./services/05-banking-and-financial-services.md)
 - [Personal And Specialty Services](./services/06-personal-and-specialty-services.md)
 - [Customer Support Public Utilities And Home Repairs](./services/07-customer-support-public-utilities-and-home-repairs.md)
+- [Insurance Postal Services And Legal Assistance](./services/08-insurance-postal-services-and-legal-assistance.md)
 
 ## shopping
 
