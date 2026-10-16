@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,800 new targets across 120 independent topic batches; 6,800 structured headings toward the 10,000 target, leaving 3,200 after this checkpoint.
+- Progress in this checkpoint: 1,890 new targets across 126 independent topic batches; 6,890 structured headings toward the 10,000 target, leaving 3,110 after this checkpoint.
+
+- Topic: `advanced-superconducting-magnets-and-tokamak-fusion`
+- File: `01-superconducting-magnets-and-tokamak-fusion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot high-temperature superconducting magnet and tokamak nuclear fusion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean HTS magnet fusion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-targeted-protein-degradation-and-molecular-glues`
+- File: `01-targeted-protein-degradation-and-molecular-glues.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot targeted protein degradation and molecular glue headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean targeted protein degradation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-terahertz-wireless-communications-and-sub-thz`
+- File: `01-terahertz-wireless-communications-and-sub-thz.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot terahertz wireless communications and sub-THz network headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean terahertz communications passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-thermal-energy-and-salinity-gradient-power`
+- File: `01-ocean-thermal-energy-and-salinity-gradient-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean thermal energy conversion and salinity gradient power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean marine energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-insulators-and-spintronics`
+- File: `01-topological-insulators-and-spintronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological insulator and spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean topological spintronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-lithium-extraction-and-geothermal-brine`
+- File: `01-direct-lithium-extraction-and-geothermal-brine.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct lithium extraction and geothermal brine resource recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean direct lithium extraction passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-nuclear-thermal-propulsion-and-deep-space`
 - File: `01-nuclear-thermal-propulsion-and-deep-space.md`

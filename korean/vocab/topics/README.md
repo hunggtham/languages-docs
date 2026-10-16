@@ -176,6 +176,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [에지 뉴로모픽 인공지능과 인메모리 컴퓨팅의 언어](./advanced-edge-neuromorphic-ai-and-compute-in-memory/README.md) — `프로세싱 인 메모리와 에지 지능형 뉴로모픽 반도체`
 - [첨단 표면 코팅과 트라이볼로지의 언어](./advanced-advanced-surface-coatings-and-tribology/README.md) — `극저마찰 나노 코팅과 극한 환경 내마모 표면 공학`
 - [탄소 섬유 복합재와 자동화 제조 공정의 언어](./advanced-carbon-fiber-composites-and-automated-manufacturing/README.md) — `탄소 섬유 복합재 자동 적층 공정과 친환경 수지 순환 제조`
+- [고온 초전도 자석과 토카막 핵융합의 언어](./advanced-superconducting-magnets-and-tokamak-fusion/README.md) — `고온 초전도 자석과 토카막 플라스마 자기 밀폐 기술`
+- [표적 단백질 분해와 분자 접착제의 언어](./advanced-targeted-protein-degradation-and-molecular-glues/README.md) — `프로탁 및 분자 접착제 기반 표적 단백질 분해 신약 기술`
+- [테라헤르츠 무선 통신과 차세대 네트워크의 언어](./advanced-terahertz-wireless-communications-and-sub-thz/README.md) — `서브 테라헤르츠 대역 무선 통신과 초광대역 빔포밍 인프라`
+- [해양 온도차 발전과 염도차 에너지의 언어](./advanced-ocean-thermal-energy-and-salinity-gradient-power/README.md) — `해양 온도차 발전과 압력 지연 삼투 기반 청정 해양 에너지`
+- [위상 절연체와 차세대 스핀트로닉스의 언어](./advanced-topological-insulators-and-spintronics/README.md) — `위상 절연체 표면 상태와 스핀 궤도 토크 기반 저전력 소자`
+- [직접 리튬 추출과 지열 염수 자원화의 언어](./advanced-direct-lithium-extraction-and-geothermal-brine/README.md) — `지열 염수 기반 친환경 직접 리튬 추출과 막 분리 정제`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
