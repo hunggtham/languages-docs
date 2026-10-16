@@ -333,10 +333,12 @@
 ## food
 
 - [C1 Vocabulary 01 — Food systems and nutrition](food/01-food-systems-and-nutrition.md)
+- [C1 Vocabulary 02 — Regenerative agroecosystems, rhizosphere microbiomes, and global food security](food/02-regenerative-agriculture-soil-microbiome-and-food-security.md)
 
 ## formal-methods
 
 - [C1 Vocabulary 01 — Verification, logic, and testing](formal-methods/01-verification-logic-and-testing.md)
+- [C1 Vocabulary 02 — Automated model checking, linear temporal logic (LTL), and state space explosion mitigations](formal-methods/02-model-checking-temporal-logic-and-state-space-explosion.md)
 
 ## game-theory
 
@@ -356,26 +358,32 @@
 ## genomics
 
 - [C1 Vocabulary 01 — Genomics and inheritance](genomics/01-genomics-and-inheritance.md)
+- [C1 Vocabulary 02 — Precision CRISPR base editing, prime editing reverse transcription, and off-target mitigation](genomics/02-crispr-cas-base-editing-and-prime-editing-precision.md)
 
 ## geography
 
 - [C1 Vocabulary 01 — Geography and spatial patterns](geography/01-geography-and-spatial-patterns.md)
+- [C1 Vocabulary 02 — Planetary urbanization dynamics, spatial justice, and peri-urban metabolic rifts](geography/02-planetary-urbanization-spatial-justice-and-peri-urban-expansion.md)
 
 ## geology
 
 - [C1 Vocabulary 01 — Geology and Earth processes](geology/01-geology-and-earth-processes.md)
+- [C1 Vocabulary 02 — Subduction zone metamorphism, slab dehydration fluid fluxing, and volcanic arc petrogenesis](geology/02-subduction-zone-metamorphism-fluid-fluxing-and-arc-magmatism.md)
 
 ## geopolitics
 
 - [C1 Vocabulary 01 — Geopolitics and international order](geopolitics/01-geopolitics-and-international-order.md)
+- [C1 Vocabulary 02 — Geo-economic statecraft, maritime chokepoint vulnerability, and strategic supply chain reshoring](geopolitics/02-geoeconomic-statecraft-chokepoint-weaponization-and-supply-chain-reshoring.md)
 
 ## health
 
 - [C1 Vocabulary 01 — Clinical risk and treatment](health/01-clinical-risk-and-treatment.md)
+- [C1 Vocabulary 02 — Zoonotic spillover interfaces, pathogen emergence dynamics, and One Health surveillance](health/02-epidemiological-triad-zoonotic-spillover-and-one-health-surveillance.md)
 
 ## housing
 
 - [C1 Vocabulary 01 — Housing markets and tenure](housing/01-housing-markets-and-tenure.md)
+- [C1 Vocabulary 02 — Housing decommodification, community land trusts, and municipal inclusionary zoning mandates](housing/02-social-housing-decommodification-community-land-trusts-and-inclusionary-zoning.md)
 
 ## human-rights
 

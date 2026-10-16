@@ -173,6 +173,7 @@
 ## glasswork
 
 - [C2+ Vocabulary — Glassblowing and kilnforming language](glasswork/01-glassblowing-and-kilnforming-language.md)
+- [C2+ Vocabulary 02 — Soda-lime silicate glass rheology, lehr annealing thermal profiles, and devitrification crystallization kinetics](glasswork/02-soda-lime-viscosity-curves-lehr-annealing-and-devitrification-cristobalite.md)
 
 ## horticulture
 
@@ -182,6 +183,7 @@
 ## humanitarian-law
 
 - [C2+ Vocabulary — International humanitarian law and protection](humanitarian-law/01-international-humanitarian-law-and-protection.md)
+- [C2+ Vocabulary 02 — Belligerent reprisals prohibition, military necessity proportionality calculus, and the principle of distinction in hybrid armed conflicts](humanitarian-law/02-belligerent-reprisal-proportionality-doctrine-and-distinction-in-hybrid-warfare.md)
 
 ## hydrology
 
@@ -207,14 +209,17 @@
 ## materials
 
 - [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md)
+- [C2+ Vocabulary 02 — Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md)
 
 ## medical-imaging
 
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
+- [C2+ Vocabulary 02 — Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md)
 
 ## music-theory
 
 - [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md)
+- [C2+ Vocabulary 02 — Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md)
 
 ## mycology
 
@@ -229,6 +234,7 @@
 ## perfumery
 
 - [C2+ Vocabulary — Perfumery and olfactory language](perfumery/01-perfumery-and-olfactory-language.md)
+- [C2+ Vocabulary 02 — Dynamic headspace GC-MS analysis, olfactory evaporation kinetics, and macrocyclic musk substantivity](perfumery/02-headspace-gas-chromatography-olfactory-evaporation-curves-and-fixative-substantivity.md)
 
 ## philosophy-of-science
 
@@ -293,10 +299,12 @@
 ## planetary-geology
 
 - [C2+ Vocabulary — Planetary geomorphology and remote sensing](planetary-geology/01-planetary-geomorphology-and-remote-sensing.md)
+- [C2+ Vocabulary 02 — Cryovolcanic eruptive mechanics, icy satellite subsurface ocean convection, and solid-state ice shell diapirism](planetary-geology/02-cryovolcanism-subsurface-ocean-convection-and-ice-shell-diapirism.md)
 
 ## plant-physiology
 
 - [C2+ Vocabulary — Advanced plant physiology and signaling](plant-physiology/01-advanced-plant-physiology-and-signaling.md)
+- [C2+ Vocabulary 02 — Stomatal guard cell electrophysiology, abscisic acid signaling cascades, and xylem acoustic cavitation vulnerability](plant-physiology/02-stomatal-guard-cell-electrophysiology-abscisic-acid-signaling-and-xylem-cavitation.md)
 
 ## quantum-materials
 

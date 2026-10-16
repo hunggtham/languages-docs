@@ -48,6 +48,7 @@
 - [B2 Vocabulary — Dialogue and consensus practice](communication/07-dialogue-and-consensus-practice.md)
 - [B2 Vocabulary 08 — Cross-cultural pragmatics, high-context communication, and nonverbal cues](communication/08-cross-cultural-pragmatics-and-nonverbal-diplomacy.md)
 - [B2 Vocabulary 09 — Digital public diplomacy, counter-disinformation strategies, and institutional credibility](communication/09-digital-diplomacy-misinformation-countermeasures-and-public-trust.md)
+- [B2 Vocabulary 10 — Intercultural negotiation, high-context communication, and consensus-building protocols](communication/10-intercultural-negotiation-high-context-pragmatics-and-consensus-building.md)
 
 ## decisions
 
@@ -61,6 +62,7 @@
 - [B2 Vocabulary 05 — Scenario planning, strategic trade-offs, and consensus building](decisions/05-scenario-planning-strategic-trade-offs-and-consensus-building.md)
 - [B2 Vocabulary 06 — Heuristics, cognitive biases, and executive decision fatigue](decisions/06-heuristics-cognitive-biases-and-decision-fatigue.md)
 - [B2 Vocabulary 07 — Multi-criteria decision analysis, stakeholder preference weighting, and sensitivity testing](decisions/07-multi-criteria-decision-analysis-stakeholder-weighting-and-sensitivity.md)
+- [B2 Vocabulary 08 — Project pre-mortem analysis, prospective hindsight, and operational risk mitigation](decisions/08-pre-mortem-analysis-prospective-hindsight-and-project-de-risking.md)
 
 ## economics
 
@@ -162,6 +164,7 @@
 - [B2 Vocabulary 02 — Archival preservation, oral histories, and public memory curation](history/02-archival-preservation-oral-histories-and-public-memory.md)
 - [B2 Vocabulary 03 — Industrial heritage, labor unionization, and progressive social reform](history/03-industrial-heritage-labor-movements-and-social-reform.md)
 - [B2 Vocabulary 04 — Oral history methodologies, vernacular testimonies, and marginalized collective memory](history/04-oral-history-methodologies-archival-testimonies-and-subaltern-memory.md)
+- [B2 Vocabulary 05 — Cold War proxy conflicts, the Non-Aligned Movement, and global decolonization](history/05-cold-war-proxy-conflicts-non-aligned-movement-and-decolonization.md)
 
 ## law
 
@@ -190,6 +193,7 @@
 - [B2 Vocabulary 06 — Generative AI, synthetic media, and copyright fair use](media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
 - [B2 Vocabulary 07 — Journalistic ethics, whistleblower protection, and state surveillance](media/07-journalistic-ethics-whistleblower-protection-and-state-surveillance.md)
 - [B2 Vocabulary 08 — Investigative journalism, whistleblower protection, and editorial independence](media/08-investigative-journalism-whistleblower-protection-and-editorial-independence.md)
+- [B2 Vocabulary 09 — Algorithmic news curation, echo chamber polarization, and the attention economy](media/09-algorithmic-news-curation-echo-chambers-and-attention-economy.md)
 
 ## politics
 
@@ -199,6 +203,7 @@
 - [B2 Vocabulary 04 — Electoral integrity, gerrymandering, and democratic institutions](politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
 - [B2 Vocabulary 05 — Electoral integrity, gerrymandering, and voting access reforms](politics/05-electoral-integrity-gerrymandering-and-voting-access.md)
 - [B2 Vocabulary 06 — Civic engagement, participatory budgeting, and grassroots democratic mobilization](politics/06-civic-engagement-participatory-budgeting-and-grassroots-mobilization.md)
+- [B2 Vocabulary 07 — Parliamentary coalition formation, votes of confidence, and legislative discipline](politics/07-coalition-government-formation-confidence-votes-and-backbench-rebellions.md)
 
 ## psychology
 
@@ -209,6 +214,7 @@
 - [B2 Vocabulary 05 — Organizational behavior, workplace stress, and leadership dynamics](psychology/05-organizational-behavior-workplace-stress-and-leadership-dynamics.md)
 - [B2 Vocabulary 06 — Cognitive dissonance, social identity theory, and in-group bias](psychology/06-cognitive-dissonance-social-identity-and-in-group-bias.md)
 - [B2 Vocabulary 07 — Attachment theory, emotional regulation, and adult relational security](psychology/07-attachment-theory-emotional-regulation-and-relational-security.md)
+- [B2 Vocabulary 08 — Cognitive behavioral therapy principles, maladaptive cognitive distortions, and behavioral activation](psychology/08-cognitive-behavioral-therapy-cognitive-distortions-and-behavioral-activation.md)
 
 ## research
 
@@ -221,6 +227,7 @@
 - [B2 Vocabulary — Evidence synthesis and research limitations](research/06-evidence-synthesis-and-limitations.md)
 - [B2 Vocabulary 07 — Peer review integrity, open access publishing, and the reproducibility crisis](research/07-peer-review-open-access-and-reproducibility-crises.md)
 - [B2 Vocabulary 08 — Meta-analysis methodology, study heterogeneity, and publication bias detection](research/08-meta-analysis-heterogeneity-and-funnel-plot-asymmetry.md)
+- [B2 Vocabulary 09 — Qualitative coding methodology, reflexive thematic analysis, and theoretical saturation](research/09-qualitative-coding-thematic-analysis-and-grounded-theory-saturation.md)
 
 ## risk
 
@@ -336,4 +343,5 @@
 - [B2 Vocabulary — Performance and career development](work/04-performance-and-career-development.md)
 - [B2 Vocabulary 05 — Remote workforce dynamics, asynchronous collaboration, and digital burnout](work/05-remote-workforce-asynchronous-collaboration-and-burnout.md)
 - [B2 Vocabulary 06 — Neurodiversity at work, sensory-friendly office architecture, and cognitive strengths](work/06-workplace-neurodiversity-sensory-design-and-inclusive-management.md)
+- [B2 Vocabulary 07 — Psychological safety in teams, radical candor communication, and blameless incident reviews](work/07-psychological-safety-candor-culture-and-blameless-post-mortems.md)
 

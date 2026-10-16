@@ -26,6 +26,6 @@
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
 - Active Goal: Expanding English CEFR corpus toward **40,000 valid learning items** spread evenly across B2, C1, C2, and C2+.
 - Unified corpus status:
-  - English CEFR corpus: 1,710 lessons, 36,636 valid learning items (Wave 20 complete: +32 lessons, +800 items).
+  - English CEFR corpus: 1,742 lessons, 37,436 valid learning items (Wave 21 complete: +32 lessons, +800 items).
   - Korean vocabulary corpus: 838 lessons, 12,081 valid learning items.
   - All lessons strictly follow canonical H2 format, dual review-in-context, bilingual translations, and deduplication.

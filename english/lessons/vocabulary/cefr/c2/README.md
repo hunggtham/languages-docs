@@ -8,6 +8,7 @@
 - [C2 Vocabulary 04 — Kantian antinomies, transcendental dialectic, and the logic of philosophical aporia](argument/04-aporia-dialectic-transcendental-critique-and-antinomies.md)
 - [C2 Vocabulary 05 — Apophatic negation, radical incommensurability, and the dialectical paralogisms of reason](argument/05-apophatic-negation-incommensurability-and-the-paralogisms-of-reason.md)
 - [C2 Vocabulary 06 — Dialetheic contradiction, paraconsistent logic calculi, and self-referential semantic antinomies](argument/06-dialetheism-paraconsistent-logic-and-semantic-paradoxes.md)
+- [C2 Vocabulary 07 — Epistemic peer disagreement, the uniqueness thesis, and permissive Bayesian rationality](argument/07-epistemic-peer-disagreement-uniqueness-thesis-and-permissive-rationality.md)
 
 ## biomedicine
 
@@ -83,6 +84,8 @@
 - [C2 Vocabulary 70 — Mitochondrial heteroplasmy thresholds, PINK1-Parkin mitophagy kinetics, and retrograde signaling](biomedicine/70-mitochondrial-heteroplasmy-mitophagy-kinetics-and-metabolic-reprogramming.md)
 - [C2 Vocabulary 71 — Chemogenetic designer receptors (DREADDs), targeted pharmacogenetic actuation, and neural circuit manipulation](biomedicine/71-chemogenetics-designer-receptors-and-neural-circuit-dissection.md)
 - [C2 Vocabulary 72 — Spatial transcriptomics, multiplexed in situ RNA sequencing, and cellular microenvironment cartography](biomedicine/72-spatial-transcriptomics-in-situ-sequencing-and-tissue-microenvironment-cartography.md)
+- [C2 Vocabulary 73 — Circulating tumor DNA (ctDNA) dynamics, ultra-deep error-corrected sequencing, and minimal residual disease tracking](biomedicine/73-liquid-biopsy-circulating-tumor-dna-and-minimal-residual-disease.md)
+- [C2 Vocabulary 74 — Tumor-associated tertiary lymphoid structures (TLS), germinal center B-cell maturation, and checkpoint response predictive biomarkers](biomedicine/74-tertiary-lymphoid-structures-tumor-infiltrating-b-cells-and-immunotherapy-responsiveness.md)
 
 ## computing
 
@@ -200,6 +203,8 @@
 - [C2 Vocabulary 192 — Formally verified microkernels, zero-copy synchronous IPC, and capability-based access control](computing/192-verified-microkernels-formal-ipc-mechanisms-and-capability-based-security.md)
 - [C2 Vocabulary 193 — Compiler intermediate representations, static single assignment (SSA) invariants, and flow-sensitive alias analysis](computing/193-compilation-passes-static-single-assignment-and-alias-analysis.md)
 - [C2 Vocabulary 194 — Homotopy type theory, higher inductive types, and the Voevodsky univalence axiom](computing/194-type-theory-homotopy-type-theory-and-univalence-axiom.md)
+- [C2 Vocabulary 195 — Lock-free concurrent data structures, safe memory reclamation, and hazard pointer protection schemes](computing/195-lock-free-data-structures-memory-reclamation-and-hazard-pointers.md)
+- [C2 Vocabulary 196 — Girardian linear logic, proof nets geometric correctness, and resource-bounded cut-elimination](computing/196-linear-logic-proof-nets-and-computational-resource-boundedness.md)
 - [C2 Vocabulary — Event-driven architecture and messaging](computing/20-event-driven-architecture-and-messaging.md)
 - [C2 Vocabulary — Programmable networking and function offload](computing/21-programmable-networking-and-function-offload.md)
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md)
@@ -289,6 +294,7 @@
 - [C2 Vocabulary 04 — Deliberative minipublics, democratic sortition, and epistemic governance](governance/04-deliberative-minipublics-sortition-and-epistemic-democracy.md)
 - [C2 Vocabulary 05 — Epistemic technocracy, polycentric commoning, and systemic regulatory arbitrage](governance/05-epistemic-technocracy-polycentric-commoning-and-regulatory-capture.md)
 - [C2 Vocabulary 06 — Institutional subsidiarity, overlapping jurisdictional redundancy, and polycentric common-pool governance](governance/06-subsidiarity-jurisdictional-redundancy-and-polycentric-common-pool-institutions.md)
+- [C2 Vocabulary 07 — Deliberative minipublics, democratic sortition, and epistemic procedural legitimacy](governance/07-deliberative-minipublics-sortition-and-epistemic-democratic-legitimacy.md)
 
 ## rhetoric
 
@@ -344,6 +350,7 @@
 - [C2 Vocabulary 136 — Hermeneutic polysemy, allegorical typology, and parabasis in rhetorical discourse](rhetoric/136-allegory-parables-and-hermeneutic-polysemy.md)
 - [C2 Vocabulary 137 — Mannerist paronomasia, radical catachrestic displacement, and discursive hyperbaton](rhetoric/137-paronomasia-catachresis-and-mannerist-discursive-stratagems.md)
 - [C2 Vocabulary 138 — Chiastic balance, rigorous antimetabolic inversion, and dialectical mirror structures in classical polemics](rhetoric/138-chiasmus-antimetabole-and-symmetrical-inversion-in-classical-polemics.md)
+- [C2 Vocabulary 139 — Classical hendiadys, poetic hypallage, and syntactic-semantic transference in polemical eloquence](rhetoric/139-hendiadys-hypallage-and-discursive-syntactic-transference.md)
 - [C2 Vocabulary — Ethical and political reasoning](rhetoric/14-ethical-and-political-reasoning.md)
 - [C2 Vocabulary 14 — Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md)
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md)
@@ -556,6 +563,7 @@
 - [C2 Vocabulary 200 — Cryogenic CMOS electronics, sub-Kelvin thermal dissipation, and quantum qubit readout interfaces](semiconductors/200-cryogenic-cmos-quantum-readout-electronics-and-sub-kelvin-dissipation.md)
 - [C2 Vocabulary 201 — Ferroelectric field-effect transistors, polarization switching dynamics, and stabilized negative capacitance](semiconductors/201-ferroelectric-field-effect-transistors-polarization-switching-and-negative-capacitance.md)
 - [C2 Vocabulary 202 — Monolayer transition metal dichalcogenides, valley pseudospin polarization, and valleytronic computing](semiconductors/202-two-dimensional-transition-metal-dichalcogenides-and-valleytronics.md)
+- [C2 Vocabulary 203 — Spin-orbit torque MRAM, Dzyaloshinskii-Moriya interfacial interaction, and chiral domain wall motion](semiconductors/203-spin-orbit-torque-magnetic-random-access-memory-and-chiral-domain-walls.md)
 - [C2 Vocabulary — Power integrity and high-speed signal analysis](semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md)
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md)
