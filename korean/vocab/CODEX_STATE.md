@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,380 new targets across 92 independent topic batches; 6,380 structured headings toward the 10,000 target, leaving 3,620 after this checkpoint.
+- Progress in this checkpoint: 1,440 new targets across 96 independent topic batches; 6,440 structured headings toward the 10,000 target, leaving 3,560 after this checkpoint.
+
+- Topic: `advanced-brain-computer-interfaces-and-neural-decoding`
+- File: `01-brain-computer-interfaces-and-neural-decoding.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot brain-computer interfaces and neural decoding headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 121-eojeol Korean BCI passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-tandem-solar-cells`
+- File: `01-perovskite-tandem-solar-cells.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite tandem solar cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 123-eojeol Korean perovskite solar passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-industrial-digital-twins-and-cyber-physical-systems`
+- File: `01-industrial-digital-twins-and-cyber-physical-systems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot industrial digital twins and cyber-physical systems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean industrial digital twins passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bioplastics-and-biodegradable-polymers`
+- File: `01-bioplastics-and-biodegradable-polymers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioplastics and biodegradable polymers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 135-eojeol Korean bioplastics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-deep-geothermal-energy-and-district-heating`
 - File: `01-deep-geothermal-energy-and-district-heating.md`
