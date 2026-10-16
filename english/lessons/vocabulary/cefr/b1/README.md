@@ -45,7 +45,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
 - [Household Chores And Cleaning](./home/04-household-chores-and-cleaning.md)
 - [Home Improvement And Repairs](./home/05-home-improvement-and-repairs.md)
-- [Yards Gardens And Outdoor Living](./home/06-yards-gardens-and-outdoor-living.md)
+- [Outdoor Living And Home Ownership](./home/06-outdoor-living-and-home-ownership.md)
+- [Smart Home Devices Energy Efficiency And Recycling](./home/07-smart-home-devices-energy-efficiency-and-recycling.md)
 
 ## transport
 
@@ -54,6 +55,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
 - [Road Trips Vehicle Maintenance And Traffic Safety](./transport/07-road-trips-vehicle-maintenance-and-traffic-safety.md)
 - [Rail Transit Subway Navigation And Commuter Habits](./transport/08-rail-transit-subway-navigation-and-commuter-habits.md)
+- [Public Transit Navigation Bike Sharing And Commuter Passes](./transport/09-public-transit-navigation-bike-sharing-and-commuter-passes.md)
 
 ## education
 
@@ -158,6 +160,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Retail Stores And Shopping Experience](./shopping/01-retail-stores-and-shopping-experience.md)
 - [Shopping Experiences And Payment](./shopping/02-shopping-experiences-and-payment.md)
 - [Online Shopping And Customer Service](./shopping/03-online-shopping-and-customer-service.md)
+- [Discounts Promotions And Loyalty Programs](./shopping/04-discounts-promotions-and-loyalty-programs.md)
 
 ## sport
 

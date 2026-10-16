@@ -77,6 +77,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
 - [Biomedical Diagnostics Pharmacology And Chronic Disease Management](./health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
 - [Digital Health Therapeutics Telemedicine Systems And Patient Data Ethics](./health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md)
+- [Genomic Medicine Personalized Therapies And Bioethics](./health/05-genomic-medicine-personalized-therapies-and-bioethics.md)
 
 ## media
 
@@ -86,6 +87,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Investigative Documentary Broadcast Ethics And Information Integrity](./media/04-investigative-documentary-broadcast-ethics-and-information-integrity.md)
 - [Media Monopolies Algorithmic Curation And Disinformation Countermeasures](./media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md)
 - [Generative Ai Synthetic Media And Copyright Fair Use](./media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
+- [Journalistic Ethics Whistleblower Protection And State Surveillance](./media/07-journalistic-ethics-whistleblower-protection-and-state-surveillance.md)
 
 ## environment
 
@@ -97,6 +99,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Ocean Conservation Marine Protected Areas And Plastics Abatement](./environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md)
 - [Agroforestry Regenerative Agriculture And Soil Microbiome](./environment/07-agroforestry-regenerative-agriculture-and-soil-microbiome.md)
 - [Climate Tipping Points Cryosphere Loss And Polar Adaptation](./environment/08-climate-tipping-points-cryosphere-loss-and-polar-adaptation.md)
+- [Deep Sea Mining Governance Hydrothermal Vents And Benthic Ecology](./environment/09-deep-sea-mining-governance-hydrothermal-vents-and-benthic-ecology.md)
 
 ## finance
 
@@ -135,12 +138,14 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Personality Traits And Social Dynamics](./psychology/02-personality-traits-and-social-dynamics.md)
 - [Behavioral Economics Cognitive Bias And Decision Heuristics](./psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md)
 - [Cognitive Bias Mitigation Neurodiversity And Behavioral Interventions](./psychology/04-cognitive-bias-mitigation-neurodiversity-and-behavioral-interventions.md)
+- [Organizational Behavior Workplace Stress And Leadership Dynamics](./psychology/05-organizational-behavior-workplace-stress-and-leadership-dynamics.md)
 
 ## politics
 
 - [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
 - [International Diplomacy Geopolitics And Treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
 - [Public Policy Analysis Legislative Advocacy And Regulatory Reform](./politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
+- [Electoral Integrity Gerrymandering And Democratic Institutions](./politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
 
 ## art
 
@@ -148,6 +153,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
 - [Curatorial Practice Museum Provenance And Cultural Preservation](./art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
 - [Art Market Valuation Auction Economics And Cultural Heritage Restitution](./art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md)
+- [Public Art Street Murals And Civic Monuments](./art/05-public-art-street-murals-and-civic-monuments.md)
 
 ## urban
 
@@ -158,3 +164,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Smart Grids District Energy And Climate Neutral Cities](./urban/05-smart-grids-district-energy-and-climate-neutral-cities.md)
 - [Waterfront Revitalization Flood Resilience And Civic Commons](./urban/06-waterfront-revitalization-flood-resilience-and-civic-commons.md)
 - [Suburban Retrofit Complete Streets And Transit Equity](./urban/07-suburban-retrofit-complete-streets-and-transit-equity.md)
+- [Circular Construction Embodied Carbon And Mass Timber](./urban/08-circular-construction-embodied-carbon-and-mass-timber.md)
