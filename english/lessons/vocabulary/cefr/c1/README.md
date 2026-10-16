@@ -105,31 +105,39 @@ Index of canonical C1 vocabulary learning materials by topic.
 
 ## biology
 - [C1 Vocabulary 01 — Biology and genetics](biology/01-biology-and-genetics.md)
+- [C1 Vocabulary 02 — Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md)
 
 ## business
 - [C1 Vocabulary 01 — Business strategy and operations](business/01-business-strategy-and-operations.md)
+- [C1 Vocabulary 02 — Platform ecosystem orchestration, two-sided market dynamics, and multi-homing costs](business/02-platform-orchestration-two-sided-markets-and-network-effects.md)
 
 ## change
 - [C1 Vocabulary 01 — Resilience, adaptation, and change](change/01-resilience-and-adaptation.md)
+- [C1 Vocabulary 02 — Punctuated equilibrium, institutional isomorphism, and sociological paradigm shifts](change/02-punctuated-equilibrium-institutional-isomorphism-and-paradigm-shifts.md)
 
 ## chemistry
 - [C1 Vocabulary 01 — Chemistry and reactions](chemistry/01-chemistry-and-reactions.md)
 - [C1 Vocabulary 02 — Organocatalysis, asymmetric synthesis, and green atom economy](chemistry/02-organocatalysis-green-synthesis-and-atom-economy.md)
+- [C1 Vocabulary 03 — Supramolecular coordination cages, non-covalent self-assembly, and host-guest cavity kinetics](chemistry/03-supramolecular-coordination-cages-and-host-guest-encapsulation.md)
 
 ## cinema
 - [C1 Vocabulary 01 — Cinema and film language](cinema/01-cinema-and-film-language.md)
 - [C1 Vocabulary 02 — Auteur theory, non-linear cinematic narratives, and diegetic sound design](cinema/02-auteur-theory-non-linear-narrative-and-diegetic-sound.md)
+- [C1 Vocabulary 03 — Slow cinema aesthetics, durational temporality, and the contemplative visual gaze](cinema/03-slow-cinema-temporality-spatial-realism-and-contemplative-gaze.md)
 
 ## cloud-architecture
 - [C1 Vocabulary 01 — Deployment, resilience, and operations](cloud-architecture/01-deployment-resilience-and-operations.md)
 - [C1 Vocabulary 02 — Serverless orchestration, event-driven mesh, and distributed circuit breakers](cloud-architecture/02-serverless-orchestration-and-event-driven-mesh.md)
+- [C1 Vocabulary 03 — Distributed state machine consensus, Raft log replication, and split-brain fencing](cloud-architecture/03-distributed-consensus-raft-log-replication-and-split-brain-prevention.md)
 
 ## communication
 - [C1 Vocabulary 01 — Diplomatic and persuasive communication](communication/01-diplomatic-and-persuasive-communication.md)
+- [C1 Vocabulary 02 — Critical discourse analysis, ideological news framing, and sociolinguistic hegemony](communication/02-critical-discourse-analysis-ideological-framing-and-hegemonic-rhetoric.md)
 
 ## comparative-politics
 - [C1 Vocabulary 01 — Regimes and democratic change](comparative-politics/01-regimes-and-democratic-change.md)
 - [C1 Vocabulary 02 — Electoral authoritarianism, executive aggrandizement, and democratic backsliding](comparative-politics/02-electoral-authoritarianism-and-democratic-backsliding.md)
+- [C1 Vocabulary 03 — Hybrid regime institutionalization, political clientelism, and subnational authoritarian enclaves](comparative-politics/03-hybrid-regimes-clientelism-and-subnational-authoritarianism.md)
 
 ## computer-science
 - [C1 Vocabulary 01 — Computing concepts and systems](computer-science/01-computing-concepts-and-systems.md)

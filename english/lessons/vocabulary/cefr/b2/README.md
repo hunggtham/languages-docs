@@ -42,6 +42,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary — Public reasoning and debate framing](communication/06-public-reasoning-and-debate-framing.md)
 - [B2 Vocabulary — Dialogue and consensus practice](communication/07-dialogue-and-consensus-practice.md)
 - [B2 Vocabulary 08 — Cross-cultural pragmatics, high-context communication, and nonverbal cues](communication/08-cross-cultural-pragmatics-and-nonverbal-diplomacy.md)
+- [B2 Vocabulary 09 — Digital public diplomacy, counter-disinformation strategies, and institutional credibility](communication/09-digital-diplomacy-misinformation-countermeasures-and-public-trust.md)
 
 ## decisions
 - [B2 Vocabulary 01 — Decisions, collaboration, and results](decisions/01-decisions-collaboration-and-results.md)
@@ -53,6 +54,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary — Decision evidence and uncertainty](decisions/05-decision-evidence-and-uncertainty.md)
 - [B2 Vocabulary 05 — Scenario planning, strategic trade-offs, and consensus building](decisions/05-scenario-planning-strategic-trade-offs-and-consensus-building.md)
 - [B2 Vocabulary 06 — Heuristics, cognitive biases, and executive decision fatigue](decisions/06-heuristics-cognitive-biases-and-decision-fatigue.md)
+- [B2 Vocabulary 07 — Multi-criteria decision analysis, stakeholder preference weighting, and sensitivity testing](decisions/07-multi-criteria-decision-analysis-stakeholder-weighting-and-sensitivity.md)
 
 ## economics
 - [Macroeconomic Forces and Indicators](economics/01-macroeconomic-forces-and-indicators.md)
@@ -184,6 +186,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 04 — Cognitive bias mitigation, neurodiversity, and behavioral interventions](psychology/04-cognitive-bias-mitigation-neurodiversity-and-behavioral-interventions.md)
 - [B2 Vocabulary 05 — Organizational behavior, workplace stress, and leadership dynamics](psychology/05-organizational-behavior-workplace-stress-and-leadership-dynamics.md)
 - [B2 Vocabulary 06 — Cognitive dissonance, social identity theory, and in-group bias](psychology/06-cognitive-dissonance-social-identity-and-in-group-bias.md)
+- [B2 Vocabulary 07 — Attachment theory, emotional regulation, and adult relational security](psychology/07-attachment-theory-emotional-regulation-and-relational-security.md)
 
 ## research
 - [B2 Vocabulary 01 — Evidence, trends, and interpretation](research/01-evidence-trends-and-interpretation.md)
@@ -194,6 +197,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary — Peer review and research communication](research/05-peer-review-and-research-communication.md)
 - [B2 Vocabulary — Evidence synthesis and research limitations](research/06-evidence-synthesis-and-limitations.md)
 - [B2 Vocabulary 07 — Peer review integrity, open access publishing, and the reproducibility crisis](research/07-peer-review-open-access-and-reproducibility-crises.md)
+- [B2 Vocabulary 08 — Meta-analysis methodology, study heterogeneity, and publication bias detection](research/08-meta-analysis-heterogeneity-and-funnel-plot-asymmetry.md)
 
 ## risk
 - [B2 Vocabulary — Risk assessment and preparedness](risk/01-risk-assessment-and-preparedness.md)
@@ -243,6 +247,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary — Risk assurance testing and evidence quality](risk/43-risk-assurance-testing-and-evidence-quality.md)
 - [B2 Vocabulary — Risk information quality and decision confidence](risk/44-risk-information-quality-and-decision-confidence.md)
 - [B2 Vocabulary 45 — Systemic financial risk, cascading network failures, and operational resilience](risk/45-systemic-risk-cascade-failure-and-operational-resilience.md)
+- [B2 Vocabulary 46 — Climate-related financial disclosures, physical risk modeling, and stranded carbon assets](risk/46-climate-risk-disclosure-scenario-stress-testing-and-stranded-assets.md)
 
 ## society
 - [B2 Vocabulary 01 — Urban life, housing, and public space](society/01-urban-life-housing-and-public-space.md)
@@ -256,6 +261,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary — Urban policy and community outcomes](society/06-urban-policy-and-community-outcomes.md)
 - [B2 Vocabulary 07 — Demographic aging, social care, and intergenerational equity](society/07-demographic-aging-social-care-and-intergenerational-equity.md)
 - [B2 Vocabulary 08 — Urban gentrification, residential displacement, and affordable housing initiatives](society/08-urban-gentrification-displacement-and-affordable-housing.md)
+- [B2 Vocabulary 09 — The digital divide, universal broadband access, and civic digital literacy](society/09-digital-divide-broadband-equity-and-civic-connectivity.md)
 
 ## technology
 - [B2 Vocabulary 01 — Data privacy and digital behavior](technology/01-data-privacy-and-digital-behavior.md)
@@ -270,6 +276,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 07 — Quantum computing, cryptography, and next-gen computing](technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
 - [B2 Vocabulary 08 — Edge IoT, industrial robotics, and autonomous systems](technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
 - [B2 Vocabulary 09 — Spatial computing, augmented reality overlays, and haptic telepresence](technology/09-spatial-computing-augmented-reality-and-haptic-telepresence.md)
+- [B2 Vocabulary 10 — Quantum computing readiness, post-RSA encryption migration, and crypto-agility](technology/10-quantum-computing-cryptographic-transition-and-post-rsa-security.md)
 
 ## urban
 - [B2 Vocabulary 01 — Metropolitan growth, urban mobility, and municipal infrastructure](urban/01-metropolitan-growth-and-municipal-infrastructure.md)
@@ -300,4 +307,5 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 03 — Organizational restructuring, leadership, and labor relations](work/03-organizational-restructuring-leadership-and-labor-relations.md)
 - [B2 Vocabulary — Performance and career development](work/04-performance-and-career-development.md)
 - [B2 Vocabulary 05 — Remote workforce dynamics, asynchronous collaboration, and digital burnout](work/05-remote-workforce-asynchronous-collaboration-and-burnout.md)
+- [B2 Vocabulary 06 — Neurodiversity at work, sensory-friendly office architecture, and cognitive strengths](work/06-workplace-neurodiversity-sensory-design-and-inclusive-management.md)
 

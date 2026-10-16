@@ -44,29 +44,37 @@ Index of canonical C2-PLUS vocabulary learning materials by topic.
 
 ## book-arts
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)
+- [C2+ Vocabulary 02 — Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md)
 
 ## cartography
 - [C2+ Vocabulary — Advanced cartography and map projection](cartography/01-advanced-cartography-and-map-projection.md)
+- [C2+ Vocabulary 02 — Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md)
 
 ## causal-identification
 - [C2+ Vocabulary — Advanced causal identification and proximal inference](causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
+- [C2+ Vocabulary 02 — Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md)
 
 ## ceramics
 - [C2+ Vocabulary — Studio pottery process and glaze chemistry](ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
+- [C2+ Vocabulary 02 — Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md)
 
 ## cheesemaking
 - [C2+ Vocabulary — Cheesemaking cultures and affinage](cheesemaking/01-cheesemaking-cultures-and-affinage.md)
+- [C2+ Vocabulary 02 — Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md)
 
 ## climate-dynamics
 - [C2+ Vocabulary — Ocean–atmosphere dynamics and climate processes](climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
 - [C2+ Vocabulary 02 — Atlantic meridional overturning circulation, freshwater hosing, and bistable tipping points](climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md)
+- [C2+ Vocabulary 03 — Stratospheric quasi-biennial oscillation, equatorial wave-mean flow interactions, and extratropical teleconnections](climate-dynamics/03-quasi-biennial-oscillation-equatorial-wave-mean-flow-interaction-and-teleconnections.md)
 
 ## coffee
 - [C2+ Vocabulary — Coffee processing and sensory analysis](coffee/01-coffee-processing-and-sensory-analysis.md)
+- [C2+ Vocabulary 02 — Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md)
 
 ## ecological-restoration
 - [C2+ Vocabulary — Restoration and population dynamics](ecological-restoration/01-restoration-and-population-dynamics.md)
 - [C2+ Vocabulary 02 — Trophic rewilding, apex carnivore reintroduction, and landscape-scale ecological cascades](ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md)
+- [C2+ Vocabulary 03 — Serpentine soil edaphic endemism, nickel hyperaccumulation kinetics, and phytomining agro-restoration](ecological-restoration/03-serpentine-soil-edaphic-endemism-and-hyperaccumulator-phytomining.md)
 
 ## ecotoxicology
 - [C2+ Vocabulary — Environmental toxicology and risk assessment](ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)
