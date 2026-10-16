@@ -28,19 +28,26 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 3976 items in 171 topic files; topic-folder numbering resets per folder.
-- B2: 4033 items in 170 topic files; B2 expansion is active beyond the original pilot.
-- C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
-- C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 3296 items in 144 lesson files across 52 topic folders.
-- Total: 30011 items (authoritative script count after the fourteenth parallel batch: TARGET 30,000 COMPLETE).
+- B2: 4133 items in 174 topic files; B2 expansion is active beyond the original pilot.
+- C1: 7650 items in 418 topic files; topic-folder numbering resets per folder.
+- C2: 11580 items in 578 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 3396 items in 148 lesson files across 52 topic folders.
+- Total: 32636 items (authoritative script count after Wave 15 parallel expansion toward 40,000 items).
 
 ## Current position
 
-Status: `30K_COMPLETE`
+Status: `EXPANDING_TO_40K`
 
-Current level: `B2`
+Current level: `B2_C1_C2_C2_PLUS_PARALLEL`
 
-Milestone achievement: The 30,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 30k=complete` with 30,011 items across 1,407 lessons). All lessons strictly adhere to the canonical format (`## <number>. <headword> /<IPA>/`), comprehensive CEFR fields, collocations, natural examples, Korean linkings, zero duplicate headwords across the entire corpus, and 100% bolded bilingual review-in-context sections. Future work can extend further specialized CEFR domains or maintain existing pedagogical materials.
+Milestone achievement: The 30,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 30k=complete` with 32,236 items). The current goal is actively expanding the corpus toward **40,000 items** distributed evenly across B2, C1, C2, and C2+ using parallel subagent waves.
+
+- Wave 15 added 16 parallel lessons (400 items, 25 items each):
+  - B2: `art/12`, `business/12`, `economics/13`, `finance/14` (100 items)
+  - C1: `ai-reliability/02`, `architecture/03`, `cybersecurity/02`, `data-governance/02` (100 items)
+  - C2: `argument/02`, `governance/02`, `biomedicine/62`, `computing/184` (100 items)
+  - C2+: `agroecology/04`, `archaeobotany/02`, `architecture/02`, `astronomy/03` (100 items)
+  - All lessons strictly adhere to canonical H2 format, dual bilingual review-in-context with 100% bolded headwords, and 0 duplicate headwords.
 
 Before choosing the exact lesson topic and words:
 

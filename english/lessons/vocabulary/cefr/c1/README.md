@@ -171,6 +171,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## arts
 
 - [Arts, Performance, And Visual Culture](./arts/01-arts-performance-and-visual-culture.md)
+- [Art Critique And Visual Analysis](./arts/02-art-critique-and-visual-analysis.md)
 
 ## business
 
@@ -191,6 +192,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## philosophy
 
 - [Philosophy And Reasoning](./philosophy/01-philosophy-and-reasoning.md)
+- [Core Philosophical Concepts](./philosophy/02-core-philosophical-concepts.md)
 
 ## religion
 
@@ -207,6 +209,8 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## architecture
 
 - [Architecture And Built Form](./architecture/01-architecture-and-built-form.md)
+- [Design Elements And Urban Spaces](./architecture/02-design-elements-and-urban-spaces.md)
+- [Vernacular Design, Thermal Mass, And Climate-Responsive Facades](./architecture/03-vernacular-design-and-climate-responsive-facades.md)
 
 ## engineering
 
@@ -223,6 +227,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## astronomy
 
 - [Astronomy And Cosmology](./astronomy/01-astronomy-and-cosmology.md)
+- [Stellar Phenomena And Space Exploration](./astronomy/02-stellar-phenomena-and-space-exploration.md)
 
 ## oceanography
 
@@ -359,6 +364,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Behavioral Leadership Governance And Team Accountability](./behavioral-economics/59-behavioral-leadership-governance-and-team-accountability.md)
 - [Behavioral Economic Inequality And Household Decisions](./behavioral-economics/60-behavioral-economic-inequality-and-household-decisions.md)
 - [Behavioral Inflation Expectations And Household Finance](./behavioral-economics/61-behavioral-inflation-expectations-and-household-finance.md)
+- [Behavioral Entrepreneurship And Startup Decisions](./behavioral-economics/62-behavioral-entrepreneurship-and-startup-decisions.md)
 
 ## game-theory
 
@@ -398,6 +404,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## anthropology
 
 - [Culture, Kinship, And Ethnography](./anthropology/01-culture-kinship-and-ethnography.md)
+- [Ethnocentrism Stratification And Belief Systems](./anthropology/02-ethnocentrism-stratification-and-belief-systems.md)
 
 ## demography
 
@@ -465,6 +472,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 - [Network Formation And Strategic Links](./econometrics/58-network-formation-and-strategic-links.md)
 - [Synthetic Control And Counterfactual Panels](./econometrics/59-synthetic-control-and-counterfactual-panels.md)
 - [Event Studies And Staggered Adoption](./econometrics/60-event-studies-and-staggered-adoption.md)
+- [Experimental Design And Policy Evaluation](./econometrics/02-experimental-design-and-policy-evaluation.md)
 
 ## public-finance
 
@@ -529,14 +537,17 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## data-governance
 
 - [Stewardship, Privacy, And Accountability](./data-governance/01-stewardship-privacy-and-accountability.md)
+- [Data Sovereignty, Cross-Border Flows, And Jurisdictional Privacy Regimes](./data-governance/02-data-sovereignty-cross-border-flows-and-privacy-regimes.md)
 
 ## ai-reliability
 
 - [Model Evaluation And Safety](./ai-reliability/01-model-evaluation-and-safety.md)
+- [Adversarial Robustness, Red-Teaming, And Safety Alignment](./ai-reliability/02-adversarial-robustness-and-safety-alignment.md)
 
 ## cybersecurity
 
 - [Threats, Defense, And Testing](./cybersecurity/01-threats-defense-and-testing.md)
+- [Zero Trust Architecture, Continuous Attestation, And Identity Federation](./cybersecurity/02-zero-trust-architecture-and-identity-federation.md)
 
 ## cloud-architecture
 
@@ -557,3 +568,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## programming-languages
 
 - [Types, Runtime, And Semantics](./programming-languages/01-types-runtime-and-semantics.md)
+
+
+## politics
+- [Political Landscape](./politics/01-political-landscape.md)

@@ -71,6 +71,8 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## astronomy
 
 - [Observational Astronomy And Detector Language](./astronomy/01-observational-astronomy-and-detector-language.md)
+- [Stellar Astrophysics And Evolution](./astronomy/02-stellar-astrophysics-and-evolution.md)
+- [Interstellar Medium Polarimetry And Cosmic Ray Acceleration](./astronomy/03-interstellar-medium-polarimetry-and-cosmic-ray-acceleration.md)
 
 ## geology
 
@@ -84,6 +86,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## architecture
 
 - [Historic Architecture And Structural Vocabulary](./architecture/01-historic-architecture-and-structural-vocabulary.md)
+- [Phenomenological Spatiality And Tectonic Articulation](./architecture/02-phenomenological-spatiality-and-tectonic-articulation.md)
 
 ## music-theory
 
@@ -100,6 +103,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## archaeobotany
 
 - [Archaeobotany And Zooarchaeology Evidence](./archaeobotany/01-archaeobotany-and-zooarchaeology-evidence.md)
+- [Phytolith Morphometrics And Paleodietary Reconstruction](./archaeobotany/02-phytolith-morphometrics-and-paleodietary-reconstruction.md)
 
 ## ecological-restoration
 
@@ -108,10 +112,12 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## mycology
 
 - [Fungal Structure And Reproductive Biology](./mycology/01-fungal-structure-and-reproductive-biology.md)
+- [Fungal Ecology And Pathogenesis](./mycology/02-fungal-ecology-and-pathogenesis.md)
 
 ## virology
 
 - [Virus Structure Evolution And Assays](./virology/01-virus-structure-evolution-and-assays.md)
+- [Infection Dynamics And Phage Biology](./virology/02-infection-dynamics-and-phage-biology.md)
 
 ## materials
 
@@ -120,6 +126,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## atmospheric-science
 
 - [Atmospheric Chemistry And Dynamics](./atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
+- [Atmospheric Dynamics And Mesoscale Systems](./atmospheric-science/02-atmospheric-dynamics-and-mesoscale-systems.md)
 
 ## hydrology
 
@@ -226,11 +233,16 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Healthcare-Associated Infection Epidemiology](./epidemiology/20-healthcare-associated-infection-epidemiology.md)
 - [Pathogen Genomics And Phylodynamics](./epidemiology/21-pathogen-genomics-and-phylodynamics.md)
 - [Health-Services Utilization Epidemiology](./epidemiology/22-health-services-utilization-epidemiology.md)
+- [Health Economics In Epidemiology](./epidemiology/23-health-economics-in-epidemiology.md)
+- [Social Epidemiology And Structural Determinants](./epidemiology/24-social-epidemiology-and-structural-determinants.md)
+- [Global Health Epidemiology And Policy](./epidemiology/25-global-health-epidemiology-and-policy.md)
 
 ## agroecology
 
 - [Crop Science And Agroecological Resilience](./agroecology/01-crop-science-and-agroecological-resilience.md)
 - [Food-System Resilience And Agrobiodiversity](./agroecology/02-food-system-resilience-and-agrobiodiversity.md)
+- [Agroecosystem Dynamics And Soil Ecology](./agroecology/03-agroecosystem-dynamics-and-soil-ecology.md)
+- [Mycorrhizal Networks And Perennial Polyculture](./agroecology/04-mycorrhizal-networks-and-perennial-polyculture.md)
 
 ## humanitarian-law
 

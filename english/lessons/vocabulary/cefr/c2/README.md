@@ -5,10 +5,12 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 ## argument
 
 - [Nuance Evidence And Argument](./argument/01-nuance-evidence-and-argument.md)
+- [Dialectical Inquiry And Counter-Hegemonic Discourse](./argument/02-dialectical-inquiry-and-counter-hegemonic-discourse.md)
 
 ## governance
 
 - [Public Authority And Accountability](./governance/01-public-authority-and-accountability.md)
+- [Polycentric Systems And Institutional Commons](./governance/02-polycentric-systems-and-institutional-commons.md)
 
 ## rhetoric
 
@@ -589,4 +591,9 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Embedded Time Synchronization And Sampling](./computing/179-embedded-time-synchronization-and-sampling.md)
 - [Embedded Power, Thermal, And Battery Management](./computing/180-embedded-power-thermal-and-battery-management.md)
 - [Embedded Telemetry And Profiling](./computing/181-embedded-telemetry-and-profiling.md)
+- [Digital Signal Processing And Filtering](./computing/182-digital-signal-processing-and-filtering.md)
+- [Computer Graphics And Rendering](./computing/183-computer-graphics-and-rendering.md)
+- [Formal Verification Of Distributed Consensus Protocols](./computing/184-formal-verification-of-distributed-consensus-protocols.md)
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
+- [Nanomedicine And Targeted Drug Delivery](./biomedicine/61-nanomedicine-and-targeted-delivery.md)
+- [Epigenetic Reprogramming And Cellular Rejuvenation](./biomedicine/62-epigenetic-reprogramming-and-cellular-rejuvenation.md)

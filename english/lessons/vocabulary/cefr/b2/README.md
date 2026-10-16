@@ -15,6 +15,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 09 — Digital installations, generative art, and virtual exhibits](./art/09-digital-installations-generative-art-and-virtual-exhibits.md)
 - [B2 Vocabulary 10 — Interactive sound art, acoustic ecology, and soundscape installations](./art/10-interactive-sound-art-acoustic-ecology-and-soundscape-installations.md)
 - [Kinetic Sculpture, Optical Art, and Spatial Illusions](./art/11-kinetic-sculpture-optical-art-and-spatial-illusions.md)
+- [B2 Vocabulary 12 — Bio-art, living tissues, and synthetic biology aesthetics](./art/12-bio-art-living-tissues-and-synthetic-biology-aesthetics.md)
 
 ## business
 
@@ -29,6 +30,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Strategic Joint Ventures, Cross-Border Alliances, and Consortiums](./business/09-strategic-joint-ventures-cross-border-alliances-and-consortiums.md)
 - [Joint Ventures, Technology Licensing, and Foreign Subsidiaries](./business/10-joint-ventures-technology-licensing-and-foreign-subsidiaries.md)
 - [Corporate Spin-Offs, Carve-Outs, and Divestiture Strategies](./business/11-corporate-spin-offs-carve-outs-and-divestiture-strategies.md)
+- [B2 Vocabulary 12 — Franchise expansion, intellectual property licensing, and royalty structures](./business/12-franchise-expansion-intellectual-property-licensing-and-royalty-structures.md)
 
 ## communication
 
@@ -38,6 +40,10 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Communication - Information Exchange and Media](./communication/04-information-exchange-and-media.md)
 - [B2 Vocabulary 05 — Cross-cultural negotiation, diplomatic protocol, and corporate communication](./communication/05-cross-cultural-negotiation-diplomatic-protocol-and-corporate-communication.md)
 - [B2 Vocabulary 06 — Crisis communication, public relations, and reputation management](./communication/06-crisis-communication-public-relations-and-reputation-management.md)
+- [Discourse And Interpretation](./communication/04-discourse-and-interpretation.md)
+- [Public Messaging And Trust](./communication/05-public-messaging-and-trust.md)
+- [Public Reasoning And Debate Framing](./communication/06-public-reasoning-and-debate-framing.md)
+- [Dialogue And Consensus Practice](./communication/07-dialogue-and-consensus-practice.md)
 
 ## decisions
 
@@ -46,6 +52,9 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 03 — Decision Making Process](./decisions/03-decision-making-process.md)
 - [B2 Vocabulary 04 — Strategic prioritization, stakeholder alignment, and resource allocation](./decisions/04-strategic-prioritization-stakeholder-alignment-and-resource-allocation.md)
 - [B2 Vocabulary 05 — Scenario planning, strategic trade-offs, and consensus building](./decisions/05-scenario-planning-strategic-trade-offs-and-consensus-building.md)
+- [Priority Setting And Decision Timing](./decisions/03-priority-setting-and-decision-timing.md)
+- [Decision Ownership And Implementation](./decisions/04-decision-ownership-and-implementation.md)
+- [Decision Evidence And Uncertainty](./decisions/05-decision-evidence-and-uncertainty.md)
 
 ## economics
 
@@ -61,6 +70,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [10. Sovereign Wealth Funds, Foreign Direct Investment, and Capital Controls](./economics/10-sovereign-wealth-funds-foreign-direct-investment-and-capital-controls.md)
 - [11. Demographic Transition, Dependency Ratios, and Silver Economy](./economics/11-demographic-transition-dependency-ratios-and-silver-economy.md)
 - [Input-Output Analysis, Inter-Industry Linkages, and Multiplier Effects](./economics/12-input-output-analysis-inter-industry-linkages-and-multiplier-effects.md)
+- [B2 Vocabulary 13 — Behavioral nudges, choice architecture, and public policy design](./economics/13-behavioral-nudges-choice-architecture-and-public-policy-design.md)
 
 ## education
 
@@ -72,6 +82,8 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 06 — Higher education governance, academic milestones, and university administration](./education/06-higher-education-governance-and-academic-milestones.md)
 - [B2 Vocabulary 07 — Vocational accreditation, curriculum standards, and educational equity](./education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
 - [B2 Vocabulary 08 — Digital pedagogy, remote learning, and academic integrity](./education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
+- [Learning Quality And Equity](./education/05-learning-quality-and-equity.md)
+- [Assessment Validity And Feedback](./education/06-assessment-validity-and-feedback.md)
 
 ## environment
 
@@ -110,6 +122,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Catastrophe Bonds, Insurance-Linked Securities, and Reinsurance Pools](./finance/11-catastrophe-bonds-insurance-linked-securities-and-reinsurance-pools.md)
 - [Project Finance, Non-Recourse Debt, and Infrastructure Concessions](./finance/12-project-finance-non-recourse-debt-and-infrastructure-concessions.md)
 - [Microfinance Institutions, Peer-to-Peer Lending, and Financial Inclusion](./finance/13-microfinance-institutions-peer-to-peer-lending-and-financial-inclusion.md)
+- [B2 Vocabulary 14 — Trade finance, letters of credit, and export credit guarantees](./finance/14-trade-finance-letters-of-credit-and-export-credit-guarantees.md)
 
 ## health
 
@@ -174,6 +187,10 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 01 — Evidence, trends, and interpretation](./research/01-evidence-trends-and-interpretation.md)
 - [B2 Vocabulary — Study design and evidence](./research/02-study-design-and-evidence.md)
 - [B2 Vocabulary 03 — Academic research process](./research/03-academic-research-process.md)
+- [Research Reproducibility And Reporting](./research/03-research-reproducibility-and-reporting.md)
+- [Publication And Research Impact](./research/04-publication-and-research-impact.md)
+- [Peer Review And Research Communication](./research/05-peer-review-and-research-communication.md)
+- [Evidence Synthesis And Limitations](./research/06-evidence-synthesis-and-limitations.md)
 
 ## risk
 
@@ -182,6 +199,47 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary — Risk monitoring and continuity](./risk/03-risk-monitoring-and-continuity.md)
 - [B2 Vocabulary 04 — Enterprise risk management, supply chain vulnerability, and cyber resilience](./risk/04-enterprise-risk-management-supply-chain-vulnerability-and-cyber-resilience.md)
 - [B2 Vocabulary 05 — Climate risk disclosure, actuarial modeling, and catastrophe insurance](./risk/05-climate-risk-disclosure-actuarial-modeling-and-catastrophe-insurance.md)
+- [Continuity And Recovery Operations](./risk/04-continuity-and-recovery-operations.md)
+- [Operational Risk Controls And Reporting](./risk/05-operational-risk-controls-and-reporting.md)
+- [Scenario Planning And Risk Appetite](./risk/06-scenario-planning-and-risk-appetite.md)
+- [Risk Transfer And Insurance Decisions](./risk/07-risk-transfer-and-insurance-decisions.md)
+- [Risk Culture And Accountability](./risk/08-risk-culture-and-accountability.md)
+- [Risk Data And Measurement](./risk/09-risk-data-and-measurement.md)
+- [Third Party Risk And Vendor Oversight](./risk/10-third-party-risk-and-vendor-oversight.md)
+- [Conduct Risk And Compliance Monitoring](./risk/11-conduct-risk-and-compliance-monitoring.md)
+- [Risk Audit And Assurance](./risk/12-risk-audit-and-assurance.md)
+- [Risk Appetite And Capital Allocation](./risk/13-risk-appetite-and-capital-allocation.md)
+- [Risk Interdependencies And Emerging Threats](./risk/14-risk-interdependencies-and-emerging-threats.md)
+- [Risk Data Governance And Reporting](./risk/15-risk-data-governance-and-reporting.md)
+- [Risk Stress Testing And Recovery Capacity](./risk/16-risk-stress-testing-and-recovery-capacity.md)
+- [Insurance Recovery And Risk Financing](./risk/17-insurance-recovery-and-risk-financing.md)
+- [Risk Model Governance And Validation](./risk/18-risk-model-governance-and-validation.md)
+- [Incident Management And Lessons Learned](./risk/19-incident-management-and-lessons-learned.md)
+- [Control Testing And Remediation Tracking](./risk/20-control-testing-and-remediation-tracking.md)
+- [Risk Exception Acceptance And Expiry](./risk/21-risk-exception-acceptance-and-expiry.md)
+- [Fraud Risk Detection And Case Monitoring](./risk/22-fraud-risk-detection-and-case-monitoring.md)
+- [Risk Limit Breach Management](./risk/23-risk-limit-breach-management.md)
+- [Operational Loss Event Data](./risk/24-operational-loss-event-data.md)
+- [Risk Data Lineage And Quality Controls](./risk/25-risk-data-lineage-and-quality-controls.md)
+- [Risk Governance Review And Oversight](./risk/26-risk-governance-review-and-oversight.md)
+- [Cyber Risk Exposure And Remediation](./risk/27-cyber-risk-exposure-and-remediation.md)
+- [Risk Culture Behavior Monitoring](./risk/28-risk-culture-behavior-monitoring.md)
+- [Risk Disclosure And Uncertainty Communication](./risk/29-risk-disclosure-and-uncertainty-communication.md)
+- [Scenario Assumptions And Sensitivity Governance](./risk/30-scenario-assumptions-and-sensitivity-governance.md)
+- [Measurement Uncertainty And Confidence Governance](./risk/31-measurement-uncertainty-and-confidence-governance.md)
+- [Risk Concentration And Diversification Monitoring](./risk/32-risk-concentration-and-diversification-monitoring.md)
+- [Risk Action Prioritization And Closure](./risk/33-risk-action-prioritization-and-closure.md)
+- [Risk Appetite Calibration And Threshold Setting](./risk/34-risk-appetite-calibration-and-threshold-setting.md)
+- [Risk Appetite Communication And Decision Cascade](./risk/35-risk-appetite-communication-and-decision-cascade.md)
+- [Risk Decision Rights And Accountability](./risk/36-risk-decision-rights-and-accountability.md)
+- [Risk Action Implementation And Verification](./risk/37-risk-action-implementation-and-verification.md)
+- [Risk Metric Reporting And Management Interpretation](./risk/38-risk-metric-reporting-and-management-interpretation.md)
+- [Risk Scenario Challenge And Contingency Planning](./risk/39-risk-scenario-challenge-and-contingency-planning.md)
+- [Risk Response Capacity And Resource Readiness](./risk/40-risk-response-capacity-and-resource-readiness.md)
+- [Risk Governance Change And Issue Escalation](./risk/41-risk-governance-change-and-issue-escalation.md)
+- [Risk Model Validation And Use Controls](./risk/42-risk-model-validation-and-use-controls.md)
+- [Risk Assurance Testing And Evidence Quality](./risk/43-risk-assurance-testing-and-evidence-quality.md)
+- [Risk Information Quality And Decision Confidence](./risk/44-risk-information-quality-and-decision-confidence.md)
 
 ## society
 
@@ -192,6 +250,9 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 05 — Immigration, diversity, and social inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
 - [B2 Vocabulary 06 — Civil liberties, grassroots activism, and social justice](./society/06-civil-liberties-grassroots-activism-and-social-justice.md)
 - [B2 Vocabulary 07 — Demographic aging, social care, and intergenerational equity](./society/07-demographic-aging-social-care-and-intergenerational-equity.md)
+- [Housing Access And Urban Growth](./society/04-housing-access-and-urban-growth.md)
+- [Civic Participation And Local Policy](./society/05-civic-participation-and-local-policy.md)
+- [Urban Policy And Community Outcomes](./society/06-urban-policy-and-community-outcomes.md)
 
 ## technology
 
@@ -203,6 +264,9 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 06 — Cybersecurity, threat intelligence, and network defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
 - [B2 Vocabulary 07 — Quantum computing, cryptography, and next-gen computing](./technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
 - [B2 Vocabulary 08 — Edge IoT, industrial robotics, and autonomous systems](./technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
+- [Platforms And Digital Infrastructure](./technology/04-platforms-and-digital-infrastructure.md)
+- [Service Reliability And Platform Design](./technology/05-service-reliability-and-platform-design.md)
+- [Data Governance And Lifecycle](./technology/06-data-governance-and-lifecycle.md)
 
 ## urban
 
@@ -231,3 +295,6 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 01 — Project risk and accountability](./work/01-project-risk-and-accountability.md)
 - [B2 Vocabulary 02 — Career lifecycle and workplace dynamics](./work/02-career-lifecycle-and-workplace-dynamics.md)
 - [B2 Vocabulary 03 — Organizational restructuring, leadership, and labor relations](./work/03-organizational-restructuring-leadership-and-labor-relations.md)
+- [Organizational Change And Workplace Performance](./work/02-organizational-change-and-workplace-performance.md)
+- [Leadership And Organizational Learning](./work/03-leadership-and-organizational-learning.md)
+- [Performance And Career Development](./work/04-performance-and-career-development.md)
