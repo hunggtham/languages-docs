@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,500 new targets across 100 independent topic batches; 6,500 structured headings toward the 10,000 target, leaving 3,500 after this checkpoint.
+- Progress in this checkpoint: 1,560 new targets across 104 independent topic batches; 6,560 structured headings toward the 10,000 target, leaving 3,440 after this checkpoint.
+
+- Topic: `advanced-small-modular-reactors-and-molten-salt`
+- File: `01-small-modular-reactors-and-molten-salt.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot SMR and molten salt reactor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 136-eojeol Korean SMR passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wide-bandgap-power-semiconductors`
+- File: `01-wide-bandgap-power-semiconductors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wide-bandgap power semiconductor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean wide-bandgap power semiconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-drone-swarms-and-urban-air-mobility`
+- File: `01-drone-swarms-and-urban-air-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot drone swarms and UAM headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 125-eojeol Korean drone swarms and UAM passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-green-steel-and-hydrogen-direct-reduction`
+- File: `01-green-steel-and-hydrogen-direct-reduction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot green steel and hydrogen direct reduction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 130-eojeol Korean green steel passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-ocean-alkalinity-and-marine-cdr`
 - File: `01-ocean-alkalinity-and-marine-cdr.md`
