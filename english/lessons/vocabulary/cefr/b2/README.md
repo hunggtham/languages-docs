@@ -210,6 +210,7 @@
 - [B2 Vocabulary 09 — Algorithmic news curation, echo chamber polarization, and the attention economy](media/09-algorithmic-news-curation-echo-chambers-and-attention-economy.md)
 - [B2 Vocabulary 10 — Disinformation verification, deepfake detection, and cryptographic digital provenance](media/10-disinformation-verification-deepfakes-and-algorithmic-provenance.md)
 - [B2 Vocabulary 11 — Broadcast journalism ethics, source attribution standards, and editorial independence](media/11-broadcast-journalism-ethics-on-the-record-and-editorial-independence.md)
+- [B2 Vocabulary 12 — Investigative journalism, whistleblower confidentiality, and reporter shield laws](media/12-investigative-journalism-whistleblower-confidentiality-and-shield-laws.md)
 
 ## politics
 
@@ -222,6 +223,7 @@
 - [B2 Vocabulary 07 — Parliamentary coalition formation, votes of confidence, and legislative discipline](politics/07-coalition-government-formation-confidence-votes-and-backbench-rebellions.md)
 - [B2 Vocabulary 08 — Electoral integrity, legislative redistricting, and universal voter enfranchisement](politics/08-electoral-integrity-gerrymandering-and-voter-enfranchisement.md)
 - [B2 Vocabulary 09 — Campaign finance regulation, political action committees (PACs), and lobbying disclosure mandates](politics/09-campaign-finance-pac-donations-and-lobbying-disclosures.md)
+- [B2 Vocabulary 10 — Electoral systems, proportional representation, and coalition governance](politics/10-electoral-systems-proportional-representation-and-coalition-governance.md)
 
 ## psychology
 

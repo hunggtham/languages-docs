@@ -582,10 +582,12 @@
 ## religion
 
 - [C1 Vocabulary 01 — Religion and public life](religion/01-religion-and-public-life.md)
+- [C1 Vocabulary 02 — Comparative hermeneutics, textual exegesis, and interreligious dialogue](religion/02-comparative-hermeneutics-textual-exegesis-and-interreligious-dialogue.md)
 
 ## research
 
 - [C1 Vocabulary 01 — Research quality and uncertainty](research/01-research-quality-and-uncertainty.md)
+- [C1 Vocabulary 02 — Longitudinal cohorts, propensity score matching, and attrition bias controls](research/02-longitudinal-cohorts-propensity-score-matching-and-attrition-controls.md)
 
 ## risk-governance
 

@@ -12,6 +12,7 @@
 - [C2 Vocabulary 08 — The Agrippan trilemma, infinitist justification chains, and epistemic foundationalism](argument/08-infinitism-foundationalism-and-the-agrippan-trilemma.md)
 - [C2 Vocabulary 09 — Epistemic injustice dynamics, testimonial credibility deficits, and structural hermeneutical lacunae](argument/09-epistemic-injustice-testimonial-hermeneutical-marginalization.md)
 - [C2 Vocabulary 10 — Epistemic rule-circularity, self-vindicating cognitive faculties, and non-doxastic foundational justification](argument/10-epistemic-circularity-rule-circularity-and-doxastic-justification.md)
+- [C2 Vocabulary 11 — Defeasible reasoning, non-monotonic logic, and epistemic undercutters](argument/11-defeasible-reasoning-non-monotonic-logic-and-epistemic-undercutters.md)
 
 ## biomedicine
 
@@ -313,6 +314,7 @@
 - [C2 Vocabulary 08 — Epistemic democratic theory, Condorcet jury mathematics, and cognitive diversity pooling](governance/08-epistemic-democracy-condorcet-jury-theorem-and-deliberative-pluralism.md)
 - [C2 Vocabulary 09 — Panarchy theory, adaptive ecological governance, and cross-scale systemic resilience cascades](governance/09-panarchy-adaptive-governance-and-socio-ecological-resilience-cascades.md)
 - [C2 Vocabulary 10 — Adversarial legalism, administrative rulemaking ossification, and the judicialization of public policy](governance/10-adversarial-legalism-regulatory-ossification-and-judicialized-governance.md)
+- [C2 Vocabulary 11 — Polycentric governance, common-pool resources, and institutional crafting](governance/11-polycentric-governance-common-pool-resources-and-institutional-crafting.md)
 
 ## rhetoric
 

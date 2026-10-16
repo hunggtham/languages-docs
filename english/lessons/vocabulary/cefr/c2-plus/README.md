@@ -219,11 +219,13 @@
 
 - [C2+ Vocabulary — Container shipping and trade compliance](maritime-logistics/01-container-shipping-and-trade-compliance.md)
 - [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md)
+- [C2+ Vocabulary 03 — Charterparty demurrage, laytime calculations, and seaworthiness warranties](maritime-logistics/03-charterparty-demurrage-laytime-calculations-and-seaworthiness-warranties.md)
 
 ## materials
 
 - [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md)
 - [C2+ Vocabulary 02 — Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md)
+- [C2+ Vocabulary 03 — High-entropy alloys, severe plastic deformation, and dislocation pinning](materials/03-high-entropy-alloys-severe-plastic-deformation-and-dislocation-pinning.md)
 
 ## medical-imaging
 
