@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,340 new targets across 156 independent topic batches; 7,340 structured headings toward the 10,000 target, leaving 2,660 after this checkpoint.
+- Progress in this checkpoint: 2,430 new targets across 162 independent topic batches; 7,430 structured headings toward the 10,000 target, leaving 2,570 after this checkpoint.
+
+- Topic: `advanced-perovskite-tandem-solar-cells-and-silicon-integration`
+- File: `01-perovskite-tandem-solar-cells-and-silicon-integration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite tandem solar and silicon integration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean perovskite tandem solar passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synaptic-transistors-and-brain-inspired-computing`
+- File: `01-synaptic-transistors-and-brain-inspired-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synaptic transistors and neuromorphic computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean synaptic transistors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-hydrogel-actuators-and-soft-robotics`
+- File: `01-hydrogel-actuators-and-soft-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogel actuators and soft robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean hydrogel actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-cold-atom-interferometry-and-quantum-gravimetry`
+- File: `01-cold-atom-interferometry-and-quantum-gravimetry.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cold atom interferometry and quantum gravimetry headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean cold atom gravimetry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-continuous-flow-chemistry-and-microreactors`
+- File: `01-continuous-flow-chemistry-and-microreactors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot continuous flow chemistry and microreactors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 100-eojeol Korean continuous flow chemistry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-thermoelectric-generators-and-waste-heat-harvesting`
+- File: `01-thermoelectric-generators-and-waste-heat-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot thermoelectric generators and waste heat harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean thermoelectric harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-metasurface-flat-optics-and-metalenses`
 - File: `01-metasurface-flat-optics-and-metalenses.md`

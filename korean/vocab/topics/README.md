@@ -212,6 +212,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [RNA 간섭 치료제와 핵산 전달체의 언어](./advanced-rna-interfering-therapeutics-and-sirna-delivery/README.md) — `지질 나노입자 기반 소간섭 RNA 전달 및 표적 유전자 침묵 기술`
 - [초전도 자기부상과 하이퍼루프 튜브의 언어](./advanced-magnetic-levitation-trains-and-hyperloop-tubes/README.md) — `아진공 튜브 기반 초고속 초전도 자기부상 하이퍼루프 기술`
 - [금속 수소화물과 고체 수소 저장의 언어](./advanced-metal-hydride-hydrogen-storage-and-solid-hydrides/README.md) — `상온 저압 고밀도 고체 금속 수소화물 수소 저장 기술`
+- [페로브스카이트 탠덤 태양전지와 실리콘 융합의 언어](./advanced-perovskite-tandem-solar-cells-and-silicon-integration/README.md) — `실리콘 이중접합 기반 페로브스카이트 탠덤 태양전지 고효율 발전 기술`
+- [시냅스 트랜지스터와 뇌 모사 컴퓨팅의 언어](./advanced-synaptic-transistors-and-brain-inspired-computing/README.md) — `생체 시냅스 가소성 모사 기반 초저전력 뉴로모픽 트랜지스터 기술`
+- [하이드로겔 구동기와 소프트 로보틱스의 언어](./advanced-hydrogel-actuators-and-soft-robotics/README.md) — `자극 감응형 고분자 네트워크 기반 지능형 하이드로겔 소프트 액추에이터 기술`
+- [냉각 원자 간섭계와 양자 중력계의 언어](./advanced-cold-atom-interferometry-and-quantum-gravimetry/README.md) — `레이저 포집 원자 물질파 간섭 기반 초정밀 양자 절대 중력 계측 기술`
+- [연속 흐름 화학과 마이크로리액터의 언어](./advanced-continuous-flow-chemistry-and-microreactors/README.md) — `미세 유체 반응기 기반 정밀 연속 흐름 유기 합성 및 열폭주 제어 기술`
+- [열전 발전과 폐열 회수 기술의 언어](./advanced-thermoelectric-generators-and-waste-heat-harvesting/README.md) — `제베크 효과 나노 복합 열전 소재 기반 산업 폐열 회수 발전 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
