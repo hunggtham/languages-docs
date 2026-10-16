@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,050 new targets across 270 independent topic batches; 9,050 structured headings toward the 10,000 target, leaving 950 after this checkpoint.
+- Progress in this checkpoint: 4,140 new targets across 276 independent topic batches; 9,140 structured headings toward the 10,000 target, leaving 860 after this checkpoint.
+
+- Topic: `advanced-neuromorphic-tactile-sensors-and-electronic-afferents`
+- File: `01-neuromorphic-tactile-sensors-and-electronic-afferents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic tactile sensors and biomimetic artificial afferents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-carbon-quantum-dots-and-green-photocatalysis`
+- File: `01-carbon-quantum-dots-and-green-photocatalysis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon quantum dots and green photocatalysis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-photonic-crystals-and-optical-delay-lines`
+- File: `01-topological-photonic-crystals-and-optical-delay-lines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological photonic crystals and optical delay lines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-catalysis-and-ultrasonic-water-purification`
+- File: `01-piezoelectric-catalysis-and-ultrasonic-water-purification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric catalysis and ultrasonic water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-synaptic-memristive-arrays-for-edge-ai`
+- File: `01-flexible-synaptic-memristive-arrays-for-edge-ai.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible synaptic memristive arrays and edge AI headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-nanoporous-carbon-supercapacitors-and-ionic-liquids`
+- File: `01-nanoporous-carbon-supercapacitors-and-ionic-liquids.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanoporous carbon supercapacitors and ionic liquids headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-quantum-dot-infrared-photodetectors-and-thermal-imaging`
 - File: `01-quantum-dot-infrared-photodetectors-and-thermal-imaging.md`
