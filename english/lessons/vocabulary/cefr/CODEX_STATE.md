@@ -27,20 +27,20 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 3901 items in 168 topic files; topic-folder numbering resets per folder.
-- B2: 3993 items in 168 topic files; B2 expansion is active beyond the original pilot.
+- B1: 3976 items in 171 topic files; topic-folder numbering resets per folder.
+- B2: 4033 items in 170 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders.
-- Total: 29896 items (authoritative script count after the thirteenth parallel batch: 16 lessons across B1 and B2; 104 remaining to 30,000).
+- Total: 30011 items (authoritative script count after the fourteenth parallel batch: TARGET 30,000 COMPLETE).
 
 ## Current position
 
-Status: `READY_FOR_30K`
+Status: `30K_COMPLETE`
 
 Current level: `B2`
 
-Next lesson: continue final batch (104 items remaining to reach 30,000). Milestone 29,800 has been crossed (29,896/30,000, 104 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Milestone achievement: The 30,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 30k=complete` with 30,011 items across 1,407 lessons). All lessons strictly adhere to the canonical format (`## <number>. <headword> /<IPA>/`), comprehensive CEFR fields, collocations, natural examples, Korean linkings, zero duplicate headwords across the entire corpus, and 100% bolded bilingual review-in-context sections. Future work can extend further specialized CEFR domains or maintain existing pedagogical materials.
 
 Before choosing the exact lesson topic and words:
 

@@ -109,6 +109,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Private Credit, Syndicated Facilities, and Mezzanine Debt](./finance/10-private-credit-syndicated-facilities-and-mezzanine-debt.md)
 - [Catastrophe Bonds, Insurance-Linked Securities, and Reinsurance Pools](./finance/11-catastrophe-bonds-insurance-linked-securities-and-reinsurance-pools.md)
 - [Project Finance, Non-Recourse Debt, and Infrastructure Concessions](./finance/12-project-finance-non-recourse-debt-and-infrastructure-concessions.md)
+- [Microfinance Institutions, Peer-to-Peer Lending, and Financial Inclusion](./finance/13-microfinance-institutions-peer-to-peer-lending-and-financial-inclusion.md)
 
 ## health
 
@@ -223,6 +224,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Sponge City Infrastructure, Rain Gardens, and Urban Floodways](./urban/16-sponge-city-infrastructure-rain-gardens-and-urban-floodways.md)
 - [Pocket Parks, Urban Micro-Forests, and Pocket Green Spaces](./urban/17-pocket-parks-urban-micro-forests-and-pocket-green-spaces.md)
 - [Urban Waterfront Revitalization, Floodable Promenades, and Canal Restoration](./urban/18-urban-waterfront-revitalization-floodable-promenades-and-canal-restoration.md)
+- [Biophilic Architecture, Green Roofs, and Vertical Gardens](./urban/19-biophilic-architecture-green-roofs-and-vertical-gardens.md)
 
 ## work
 
