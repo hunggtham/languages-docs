@@ -1070,7 +1070,7 @@
 - [C1 Vocabulary 02 — Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md)
 
 
-## Lessons (438 lessons, 9095 items)
+## Lessons (446 lessons, 9295 items)
 
 ### Agriculture ()
 
