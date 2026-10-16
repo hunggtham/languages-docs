@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,140 new targets across 276 independent topic batches; 9,140 structured headings toward the 10,000 target, leaving 860 after this checkpoint.
+- Progress in this checkpoint: 4,230 new targets across 282 independent topic batches; 9,230 structured headings toward the 10,000 target, leaving 770 after this checkpoint.
+
+- Topic: `advanced-microfluidic-organoid-chips-and-drug-screening`
+- File: `01-microfluidic-organoid-chips-and-drug-screening.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microfluidic organoid-on-a-chip and drug screening headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-spin-hall-insulators-and-edge-states`
+- File: `01-quantum-spin-hall-insulators-and-edge-states.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum spin Hall insulators and dissipationless edge transport headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-perovskite-photovoltaics-and-roll-to-roll`
+- File: `01-flexible-perovskite-photovoltaics-and-roll-to-roll.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible perovskite photovoltaics and roll-to-roll continuous printing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-ultrasensitive-surface-plasmon-resonance-biosensors`
+- File: `01-ultrasensitive-surface-plasmon-resonance-biosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ultrasensitive surface plasmon resonance biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-bone-regeneration-scaffolds`
+- File: `01-piezoelectric-bone-regeneration-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric bone regeneration scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-deep-ultraviolet-algan-laser-diodes`
+- File: `01-deep-ultraviolet-algan-laser-diodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep ultraviolet AlGaN laser diodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-neuromorphic-tactile-sensors-and-electronic-afferents`
 - File: `01-neuromorphic-tactile-sensors-and-electronic-afferents.md`
