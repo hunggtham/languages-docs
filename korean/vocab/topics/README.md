@@ -460,6 +460,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [말뭉치 언어학 및 코퍼스 사전학의 언어](./linguistics-corpus-linguistics-and-lexicography/README.md) — `대규모 말뭉치 형태통계 분석 및 코퍼스 연어 네트워크 기반 의존구문 파싱과 사전편찬 용례 정의`
 - [종교사회학 및 세속화 담론의 종교학적 언어](./theology-religious-sociology-and-secularization/README.md) — `세속화 명제 및 종교다원주의 공존담론 기반 시민종교 사회통합 의례와 탈제도화 개인맞춤형 영성`
 - [해사법 및 해상보험 법학의 언어](./law-admiralty-law-and-maritime-insurance/README.md) — `해상운송인 항해과실 면책특약 및 요크앤트워프 공동해손 분손정산 기반 선박우선특권과 IMO 안전환경규범`
+- [바이러스학 및 바이러스 병원성 미생물학의 언어](./microbiology-virology-and-viral-pathogenesis/README.md) — `바이러스 외피 당단백질 수용체 결합 및 역전사효소 복제기작 기반 인터페론 면역반응과 VLP 백신 전달체`
+- [개발경제학 및 빈곤퇴치 정책경제학의 언어](./economics-development-economics-and-poverty-alleviation/README.md) — `조건부 현금지급 CCT 및 마이크로파이낸스 금융포용 기반 RCT 실증평가와 다차원 빈곤지수 완화`
+- [건축음향 및 공연장 음향설계 공학의 언어](./architecture-acoustic-design-and-concert-hall-engineering/README.md) — `콘서트홀 잔향시간 최적화 및 3차원 음향확산체 시공 기반 직접음 초기반사음 제어와 부유바닥 차음설계`
+- [재난사회학 및 공동체 회복탄력성의 사회학적 언어](./sociology-sociology-of-disaster-and-community-resilience/README.md) — `재난 취약계층 불평등 진단 및 지역공동체 사회자본 회복탄력성 기반 참여형 거버넌스와 라스트마일 구호물류`
+- [레이저 분광학 및 포토닉스 광학 소재의 언어](./optics-laser-spectroscopy-and-photonic-materials/README.md) — `초고속 펨토초 레이저 펄스 및 라만 분광학 분자진동 지문분석 기반 광자밴드갭 소재와 실리콘 포토닉스 IC`
+- [우주법 및 우주조약 법학의 언어](./law-space-law-and-outer-space-treaties/README.md) — `우주조약 평화적이용 및 영유권 금지원칙 기반 우주물체 등록책임과 민간 우주활동 상업적 규제법제화`
+- [양봉학 및 화분매개 생태다양성 농학의 언어](./agriculture-apiculture-and-pollinator-biodiversity/README.md) — `꿀벌 군집붕괴현상 CCD 대응 및 밀원식물 생태숲 조성 기반 친환경 유기산 방제와 스마트 벌통 원격모니터링`
+- [심리언어학 및 언어습득 인지과학의 언어](./linguistics-psycholinguistics-and-language-acquisition/README.md) — `모국어 습득 결정적시기 가설 및 단어재인 점화효과 기반 시선추적 안구운동 분석과 ERP N400/P600 실시간 추적`
+- [토양정화 및 식물정화 생태환경공학의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `중금속 토양 식물정화 과축적식물 활용 및 열탈착 세척공정 기반 비굴착 SVE/Bioventing과 침출수 차단벽`
+- [색채학 및 안료화학 미술보존학의 언어](./fine-arts-color-theory-and-pigment-chemistry/README.md) — `보색대비 동시대비 시각효과 및 유화 건성유 산화중합 메커니즘 기반 비파괴 라만 안료분석과 바니시 코팅`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

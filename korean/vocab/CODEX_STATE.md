@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,060 new targets across 404 independent topic batches; 11,060 structured headings toward the 15,000 target, leaving 3,940 after this checkpoint.
+- Progress in this checkpoint: 6,210 new targets across 414 independent topic batches; 11,210 structured headings toward the 15,000 target, leaving 3,790 after this checkpoint.
+
+- Topic: `microbiology-virology-and-viral-pathogenesis`
+- File: `01-virology-and-viral-pathogenesis.md`
+- Coverage: 15 new advanced-native virology, viral pathogenesis, and antiviral immunology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-development-economics-and-poverty-alleviation`
+- File: `01-development-economics-and-poverty-alleviation.md`
+- Coverage: 15 new advanced-native development economics, conditional cash transfer, and poverty alleviation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `architecture-acoustic-design-and-concert-hall-engineering`
+- File: `01-acoustic-design-and-concert-hall-engineering.md`
+- Coverage: 15 new advanced-native architectural acoustics, concert hall RT60 design, and sound diffuser headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-disaster-and-community-resilience`
+- File: `01-sociology-of-disaster-and-community-resilience.md`
+- Coverage: 15 new advanced-native sociology of disaster, community resilience, and post-disaster recovery headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optics-laser-spectroscopy-and-photonic-materials`
+- File: `01-laser-spectroscopy-and-photonic-materials.md`
+- Coverage: 15 new advanced-native laser spectroscopy, photonic crystals, and silicon photonics IC headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-space-law-and-outer-space-treaties`
+- File: `01-space-law-and-outer-space-treaties.md`
+- Coverage: 15 new advanced-native international space law, outer space treaties, and space traffic governance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-apiculture-and-pollinator-biodiversity`
+- File: `01-apiculture-and-pollinator-biodiversity.md`
+- Coverage: 15 new advanced-native apiculture, pollinator biodiversity, and smart beehive IoT monitoring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-psycholinguistics-and-language-acquisition`
+- File: `01-psycholinguistics-and-language-acquisition.md`
+- Coverage: 15 new advanced-native psycholinguistics, first language acquisition CPH, and cognitive neuroscience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-remediation-and-phytoremediation`
+- File: `01-soil-remediation-and-phytoremediation.md`
+- Coverage: 15 new advanced-native soil remediation, phytoremediation hyperaccumulators, and in-situ bioventing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fine-arts-color-theory-and-pigment-chemistry`
+- File: `01-color-theory-and-pigment-chemistry.md`
+- Coverage: 15 new advanced-native color theory, pigment chemistry, and art conservation science headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `neuroscience-brain-computer-interface-and-neural-implants`
 - File: `01-brain-computer-interface-and-neural-implants.md`
