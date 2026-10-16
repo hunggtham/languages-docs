@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,250 new targets across 150 independent topic batches; 7,250 structured headings toward the 10,000 target, leaving 2,750 after this checkpoint.
+- Progress in this checkpoint: 2,340 new targets across 156 independent topic batches; 7,340 structured headings toward the 10,000 target, leaving 2,660 after this checkpoint.
+
+- Topic: `advanced-metasurface-flat-optics-and-metalenses`
+- File: `01-metasurface-flat-optics-and-metalenses.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface flat optics and metalens headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean metasurface flat optics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-transformers-and-smart-substations`
+- File: `01-solid-state-transformers-and-smart-substations.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state transformer and smart substation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean solid-state transformer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-energy-harvesting-and-wearables`
+- File: `01-piezoelectric-energy-harvesting-and-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric energy harvesting and wearable power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean piezoelectric harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-rna-interfering-therapeutics-and-sirna-delivery`
+- File: `01-rna-interfering-therapeutics-and-sirna-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot RNA interference therapeutics and siRNA delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean RNAi therapeutics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-magnetic-levitation-trains-and-hyperloop-tubes`
+- File: `01-magnetic-levitation-trains-and-hyperloop-tubes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot maglev hyperloop tube transportation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean maglev hyperloop passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-hydride-hydrogen-storage-and-solid-hydrides`
+- File: `01-metal-hydride-hydrogen-storage-and-solid-hydrides.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal hydride hydrogen storage and solid hydride headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean metal hydride storage passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-cryogenic-carbon-capture-and-sublimation`
 - File: `01-cryogenic-carbon-capture-and-sublimation.md`

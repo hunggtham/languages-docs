@@ -206,6 +206,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [미생물 전기합성과 고부가가치 화학물질 생산의 언어](./advanced-microbial-electrosynthesis-and-value-added-chemicals/README.md) — `생물전기화학 기반 이산화탄소 환원 및 유기 화합물 바이오 합성 기술`
 - [다이아몬드 질소 공공 양자 센서의 언어](./advanced-diamond-quantum-sensors-and-nv-centers/README.md) — `상온 질소-공공 센터 기반 초정밀 나노스케일 양자 계측 기술`
 - [초임계 이산화탄소 발전과 터보기계 공학의 언어](./advanced-supercritical-co2-power-cycles-and-turbomachinery/README.md) — `고온 고효율 초임계 이산화탄소 브레이턴 사이클 발전 기술`
+- [초표면 평면 광학 및 메타렌즈의 언어](./advanced-metasurface-flat-optics-and-metalenses/README.md) — `서브 파장 나노 구조 기반 초표면 평면 광학 및 메타렌즈 기술`
+- [반도체 변압기와 스마트 변전소의 언어](./advanced-solid-state-transformers-and-smart-substations/README.md) — `고전압 전력 전자 기반 반도체 변압기 및 스마트 배전망 기술`
+- [압전 에너지 하베스팅과 웨어러블 전원의 언어](./advanced-piezoelectric-energy-harvesting-and-wearables/README.md) — `유연 나노 압전 발전기 기반 자가 발전 및 웨어러블 전원 기술`
+- [RNA 간섭 치료제와 핵산 전달체의 언어](./advanced-rna-interfering-therapeutics-and-sirna-delivery/README.md) — `지질 나노입자 기반 소간섭 RNA 전달 및 표적 유전자 침묵 기술`
+- [초전도 자기부상과 하이퍼루프 튜브의 언어](./advanced-magnetic-levitation-trains-and-hyperloop-tubes/README.md) — `아진공 튜브 기반 초고속 초전도 자기부상 하이퍼루프 기술`
+- [금속 수소화물과 고체 수소 저장의 언어](./advanced-metal-hydride-hydrogen-storage-and-solid-hydrides/README.md) — `상온 저압 고밀도 고체 금속 수소화물 수소 저장 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
