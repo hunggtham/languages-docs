@@ -278,6 +278,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [생체모방 방오 코팅과 양쪽성 이온 표면의 언어](./advanced-bio-inspired-antifouling-and-zwitterionic-surfaces/README.md) — `상어 피부 미세리블렛 및 양쪽성 이온 고분자 브러시 기반 친환경 무독성 선박 방오 및 연비 절감 기술`
 - [실내광 페로브스카이트 태양전지와 IoT 독립 전원의 언어](./advanced-perovskite-indoor-photovoltaics-and-iot-energy/README.md) — `저조도 실내광 에너지 수확 및 무연 이중 페로브스카이트 기반 배터리 없는 IoT 무선 독립 전원 기술`
 - [프로그래머블 하이드로겔 구동기와 수중 소프트 로보틱스의 언어](./advanced-programmable-hydrogel-actuators-and-soft-robotics/README.md) — `비등방성 팽윤 수축 및 4D 프린팅 자극감응형 고분자 네트워크 기반 차세대 수중 소프트 액추에이터 기술`
+- [메타물질 마이크로파 레이돔과 전파 투과의 언어](./advanced-metamaterial-microwave-cloaking-and-radomes/README.md) — `광대역 전파 투과 초표면 및 유전율 경사형 임피던스 정합 기반 스텔스 항공기 마이크로파 레이돔 기술`
+- [리튬 공기 전지와 산화환원 매개체의 언어](./advanced-lithium-air-batteries-and-redox-mediators/README.md) — `가용성 산화환원 매개체 및 산소 투과막 기반 초고에너지밀도 도심항공교통 차세대 리튬공기 전지 기술`
+- [스핀트로닉 테라헤르츠 광원과 초고속 분광학의 언어](./advanced-spintronic-terahertz-emitters-and-spectroscopy/README.md) — `강자성/비자성 금속 이종접합 역스핀홀 효과 기반 초광대역 극초단 펨토초 테라헤르츠 펄스 방사 기술`
+- [자가발전 압전 골재생 스캐폴드의 언어](./advanced-piezoelectric-bone-regeneration-and-scaffolds/README.md) — `보행 기계적 부하 자가발전 신호 및 3D 프린팅 다공성 지지체 기반 생체친화적 골재생 전기자극 기술`
+- [메타표면 편광 제어와 풀 스톡스 이미징의 언어](./advanced-metasurface-polarization-optics-and-imaging/README.md) — `이방성 나노기둥 위상지연 및 단일샷 풀스톡스 편광 검출 기반 자율주행 및 생체조직 이미징 기술`
+- [미생물 연료전지와 환경 바이오센싱의 언어](./advanced-microbial-fuel-cells-and-biosensing/README.md) — `전기활성 박테리아 생물막 및 세포외 전자전달 기반 무전원 수질 독성 감시 하폐수 동시발전 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,330 new targets across 222 independent topic batches; 8,330 structured headings toward the 10,000 target, leaving 1,670 after this checkpoint.
+- Progress in this checkpoint: 3,420 new targets across 228 independent topic batches; 8,420 structured headings toward the 10,000 target, leaving 1,580 after this checkpoint.
+
+- Topic: `advanced-metamaterial-microwave-cloaking-and-radomes`
+- File: `01-metamaterial-microwave-cloaking-and-radomes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial microwave radomes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean microwave radome passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-lithium-air-batteries-and-redox-mediators`
+- File: `01-lithium-air-batteries-and-redox-mediators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lithium-air batteries and redox mediators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean lithium-air battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-spintronic-terahertz-emitters-and-spectroscopy`
+- File: `01-spintronic-terahertz-emitters-and-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic terahertz emitters and spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean spintronic THz passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-bone-regeneration-and-scaffolds`
+- File: `01-piezoelectric-bone-regeneration-and-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric bone regeneration and scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean piezoelectric bone regeneration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metasurface-polarization-optics-and-imaging`
+- File: `01-metasurface-polarization-optics-and-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface polarization optics and imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean metasurface polarization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-fuel-cells-and-biosensing`
+- File: `01-microbial-fuel-cells-and-biosensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial fuel cells and biosensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean microbial fuel cells passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-topological-superconductors-and-majorana-zero-modes`
 - File: `01-topological-superconductors-and-majorana-zero-modes.md`
