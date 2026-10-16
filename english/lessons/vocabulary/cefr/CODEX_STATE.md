@@ -28,11 +28,11 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 2176 items in 99 topic files; topic-folder numbering resets per folder.
-- B2: 1193 items in 56 topic files; B2 expansion is active beyond the original pilot.
+- B2: 1293 items in 60 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 25371 items (authoritative script count after the B2 politics, finance, work, and urban expansion batch).
+- Total: 25471 items (authoritative script count after the B2 communication, psychology, education, and society expansion batch; 4,529 remaining to 30,000).
 
 ## Current position
 
@@ -40,7 +40,7 @@ Status: `READY_FOR_30K`
 
 Current level: `B2`
 
-Next lesson: continue B2 with coherent topics (e.g., `b2/communication/05`, `b2/psychology/02`, `b2/education/07`, `b2/society/06`, `b2/decisions/04`) or further B1. The 20,000-item count is a verified checkpoint; milestone 25,000 has been crossed (25,371/30,000); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B2 with coherent topics (e.g., `b2/decisions/04`, `b2/risk/04`, `b2/finance/03`, `b2/law/03`, `b2/business/02`) or further B1. The 20,000-item count is a verified checkpoint; milestone 25,000 has been crossed (25,471/30,000, 4,529 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -1098,3 +1098,7 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest B2 continuation added `b2/history/01-historical-events-and-heritage-preservation.md` with 25 historical events and heritage preservation items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations.
 - Latest B2 continuation added `b2/psychology/02-personality-traits-and-social-dynamics.md` with 25 personality traits and social dynamics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations.
 - Latest C1 continuation added `c1/politics/01-political-landscape.md` with 25 political landscape, governance, and policy items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations.
+- Latest B2 expansion added `b2/communication/05-cross-cultural-negotiation-diplomatic-protocol-and-corporate-communication.md` with 25 cross-cultural negotiation, diplomatic protocol, and corporate communication items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B2 expansion added `b2/psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md` with 25 behavioral economics, cognitive bias, and decision heuristics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B2 expansion added `b2/education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md` with 25 vocational accreditation, curriculum standards, and educational equity items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B2 expansion added `b2/society/06-civil-liberties-grassroots-activism-and-social-justice.md` with 25 civil liberties, grassroots activism, and social justice items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.

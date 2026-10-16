@@ -26,6 +26,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Disagreement And Consensus](./communication/02-disagreement-and-consensus.md)
 - [Consensus And Negotiation](./communication/03-consensus-and-negotiation.md)
 - [Information Exchange And Media](./communication/04-information-exchange-and-media.md)
+- [Cross Cultural Negotiation Diplomatic Protocol And Corporate Communication](./communication/05-cross-cultural-negotiation-diplomatic-protocol-and-corporate-communication.md)
 
 ## research
 
@@ -41,6 +42,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Teaching And Assessment Design](./education/04-teaching-and-assessment-design.md)
 - [Learning Environments And Student Life](./education/05-learning-environments-and-student-life.md)
 - [Higher Education Governance And Academic Milestones](./education/06-higher-education-governance-and-academic-milestones.md)
+- [Vocational Accreditation Curriculum Standards And Educational Equity](./education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
 
 ## technology
 
@@ -57,6 +59,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
 - [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
 - [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
+- [Civil Liberties Grassroots Activism And Social Justice](./society/06-civil-liberties-grassroots-activism-and-social-justice.md)
 
 ## health
 
@@ -97,6 +100,8 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 ## psychology
 
 - [Cognitive Patterns And Emotional Wellbeing](./psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
+- [Personality Traits And Social Dynamics](./psychology/02-personality-traits-and-social-dynamics.md)
+- [Behavioral Economics Cognitive Bias And Decision Heuristics](./psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md)
 
 ## politics
 
