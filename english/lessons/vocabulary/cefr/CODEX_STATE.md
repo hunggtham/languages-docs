@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 3301 items in 144 topic files; topic-folder numbering resets per folder.
-- B2: 3368 items in 144 topic files; B2 expansion is active beyond the original pilot.
+- B1: 3501 items in 152 topic files; topic-folder numbering resets per folder.
+- B2: 3593 items in 152 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders.
-- Total: 28696 items (authoritative script count after the tenth parallel batch: 16 lessons across B1 and B2; 1,304 remaining to 30,000).
+- Total: 29096 items (authoritative script count after the eleventh parallel batch: 16 lessons across B1 and B2; 904 remaining to 30,000).
 
 ## Current position
 
@@ -40,7 +40,7 @@ Status: `READY_FOR_30K`
 
 Current level: `B2`
 
-Next lesson: continue B2 with coherent topics (e.g., `b2/art/05`, `b2/business/04`, `b2/economics/05`, `b2/finance/05`, `b2/health/05`) or further B1 (`b1/food/06`, `b1/work/07`). The 20,000-item count is a verified checkpoint; milestone 26,000 has been crossed (26,396/30,000, 3,604 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B2 with coherent topics (e.g., `b2/art/10`, `b2/business/10`, `b2/economics/11`, `b2/finance/11`, `b2/health/10`) or further B1 (`b1/culture/13`, `b1/education/11`, `b1/food/12`, `b1/health/13`, `b1/leisure/14`, `b1/society/15`, `b1/travel/15`, `b1/work/12`). The 20,000-item count is a verified checkpoint; milestone 29,000 has been crossed (29,096/30,000, 904 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
