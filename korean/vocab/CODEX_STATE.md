@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,230 new targets across 282 independent topic batches; 9,230 structured headings toward the 10,000 target, leaving 770 after this checkpoint.
+- Progress in this checkpoint: 4,320 new targets across 288 independent topic batches; 9,320 structured headings toward the 10,000 target, leaving 680 after this checkpoint.
+
+- Topic: `advanced-metamaterial-microwave-cloaking-and-radar-stealth`
+- File: `01-metamaterial-microwave-cloaking-and-radar-stealth.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial microwave cloaking and radar stealth headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-nanogenerator-acoustic-implants`
+- File: `01-piezoelectric-nanogenerator-acoustic-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric nanogenerator acoustic implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-optogenetic-neural-probes-and-deep-brain-stimulation`
+- File: `01-optogenetic-neural-probes-and-deep-brain-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optogenetic neural probes and deep brain stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-hydrogel-actuators-and-biomimetic-swimmers`
+- File: `01-hydrogel-actuators-and-biomimetic-swimmers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogel actuators and biomimetic swimmers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-cascade-detectors-and-thermal-sensing`
+- File: `01-quantum-cascade-detectors-and-thermal-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade detectors and thermal sensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-bioelectronic-electronic-tongues-and-taste-sensors`
+- File: `01-bioelectronic-electronic-tongues-and-taste-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic electronic tongues and taste sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-microfluidic-organoid-chips-and-drug-screening`
 - File: `01-microfluidic-organoid-chips-and-drug-screening.md`

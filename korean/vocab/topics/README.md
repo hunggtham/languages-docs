@@ -338,6 +338,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [초고감도 표면 플라즈몬 공명 바이오센서의 언어](./advanced-ultrasensitive-surface-plasmon-resonance-biosensors/README.md) — `국소 표면 플라즈몬 공명 및 전자기장 증폭 기반 피코몰 농도 극미량 바이오마커 실시간 무표지 광학 검출 기술`
 - [압전 생체 전기 자극 골재생 지지체의 언어](./advanced-piezoelectric-bone-regeneration-scaffolds/README.md) — `체내 역학 운동 유도 자가발전 압전 전위차 및 조골세포 분화 촉진 기반 결손 부위 맞춤형 3D 프린팅 골조직 지지체 기술`
 - [심자외선 질화알루미늄갈륨 반도체 레이저의 언어](./advanced-deep-ultraviolet-algan-laser-diodes/README.md) — `고알루미늄 조성 헤테로접합 및 다중양자우물 에피택시 성장 기반 친환경 수은프리 초단파장 살균 광반도체 레이저 기술`
+- [메타물질 전자기 투명망토 및 레이더 스텔스의 언어](./advanced-metamaterial-microwave-cloaking-and-radar-stealth/README.md) — `변환광학 굴절률 설계 및 능동 메타표면 기반 전자기파 산란 상쇄 및 초광대역 레이더 반사면적 극소화 기술`
+- [압전 인공 달팽이관 및 체내 이식형 음향 센서의 언어](./advanced-piezoelectric-nanogenerator-acoustic-implants/README.md) — `생체적합성 유연 압전막 및 주파수 분할 기계-전기 변환 기반 무전원 청각신경 직접 자극 인공 기저막 기술`
+- [광유전학 나노 신경 프로브 및 뇌심부 자극술의 언어](./advanced-optogenetic-neural-probes-and-deep-brain-stimulation/README.md) — `초소형 마이크로 LED 집적 및 유연 광도파로 기반 뇌심부 신경세포 발화 실시간 기록 및 초정밀 광자극 기술`
+- [스마트 하이드로겔 구동기 및 생체모사 수중 로봇의 언어](./advanced-hydrogel-actuators-and-biomimetic-swimmers/README.md) — `자극응답성 이온 농도 구배 팽윤 및 광열 구동 기반 3차원 비대칭 형상 변형 수중 자율 유영 마이크로봇 기술`
+- [양자폭포 광검출기 및 중적외선 초고속 센싱의 언어](./advanced-quantum-cascade-detectors-and-thermal-sensing/README.md) — `서브밴드 간 전자 전이 및 무바이어스 계단형 양자우물 기반 암잡음 원천 배제 고온 비냉각 중적외선 분광 검출 기술`
+- [바이오 전자 혀 및 인공 미각 수용체 센서의 언어](./advanced-bioelectronic-electronic-tongues-and-taste-sensors/README.md) — `지질막 모사 및 단백질 수용체 고정화 전극 기반 오미 다채널 실시간 분석 초소형 미세유체 바이오 전자 혀 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
