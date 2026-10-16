@@ -296,6 +296,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [마이크로 LED 대량 전사와 초고해상도 디스플레이의 언어](./advanced-micro-light-emitting-diode-mass-transfer-and-displays/README.md) — `유체 자가조립 및 레이저 유도 전방 전사 기반 초고밀도 자발광 마이크로 LED 디스플레이 실장 기술`
 - [동위원소 베타전지와 원자력 마이크로 전원의 언어](./advanced-nuclear-battery-and-betavoltaics/README.md) — `탄소-14 및 니켈-63 동위원소 기반 극한환경 우주 및 심해용 초장수명 비충전형 원자력 전지 기술`
 - [플라즈모닉 태양광 수처리 및 해수 담수화의 언어](./advanced-plasmonic-water-purification-and-solar-desalination/README.md) — `국소 표면 플라즈몬 공진열 및 계면 증발 집속 기반 무전원 고효율 해수 담수화 및 수자원 재생 기술`
+- [양자 이상 홀 효과와 무손실 위상 전도의 언어](./advanced-topological-insulator-quantum-anomalous-hall-effect/README.md) — `크롬 및 망간 도핑 자기 위상절연체 기반 무자장 카이랄 에지 채널 및 무손실 스핀 수송 저항 표준 계측 기술`
+- [생체 삽입형 마찰대전 발전기와 무배터리 의료기기의 언어](./advanced-implantable-triboelectric-medical-devices/README.md) — `심장 맥동 및 호흡 운동 기반 체내 역학 에너지 수확 및 생체흡수성 무배터리 이식형 인공심박동기 기술`
+- [프로그래머블 액체 금속과 소프트 머신의 언어](./advanced-programmable-liquid-metal-machines/README.md) — `갈륨-인듐 액체 합금 액적의 전기화학적 계면장력 제어 및 자기장 유도 형상변형 재구성 가능 소프트 로봇 기술`
+- [카이랄 메타물질과 원편광 이색성의 언어](./advanced-chiral-metamaterials-and-circular-dichroism/README.md) — `3차원 나노나선 구조 기반 거대 원편광 이색성 및 단백질 비대칭 거울상이성질체 초고감도 바이오센싱 기술`
+- [초소수성 결빙 방지와 유체 저항 저감의 언어](./advanced-superhydrophobic-anti-icing-and-drag-reduction/README.md) — `계층적 마이크로-나노 돌기 및 공기쿠션 안정화 기반 항공기 날개 결빙 방지 및 고속 선박 마찰저항 극소화 기술`
+- [다이아몬드 질소 공공 양자 자력계의 언어](./advanced-quantum-diamond-nitrogen-vacancy-magnetometry/README.md) — `다이아몬드 NV 결함 기반 상온 단일 전자스핀 공학 및 단일 단백질 비파괴 나노스케일 NMR 양자 계측 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

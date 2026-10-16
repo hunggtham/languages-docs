@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,600 new targets across 240 independent topic batches; 8,600 structured headings toward the 10,000 target, leaving 1,400 after this checkpoint.
+- Progress in this checkpoint: 3,690 new targets across 246 independent topic batches; 8,690 structured headings toward the 10,000 target, leaving 1,310 after this checkpoint.
+
+- Topic: `advanced-topological-insulator-quantum-anomalous-hall-effect`
+- File: `01-topological-insulator-quantum-anomalous-hall-effect.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum anomalous Hall effect headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-implantable-triboelectric-medical-devices`
+- File: `01-implantable-triboelectric-medical-devices.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot implantable triboelectric medical devices headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-programmable-liquid-metal-machines`
+- File: `01-programmable-liquid-metal-machines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable liquid metal machines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-chiral-metamaterials-and-circular-dichroism`
+- File: `01-chiral-metamaterials-and-circular-dichroism.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral metamaterials and circular dichroism headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-superhydrophobic-anti-icing-and-drag-reduction`
+- File: `01-superhydrophobic-anti-icing-and-drag-reduction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot superhydrophobic anti-icing and drag reduction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-diamond-nitrogen-vacancy-magnetometry`
+- File: `01-quantum-diamond-nitrogen-vacancy-magnetometry.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum diamond nitrogen-vacancy magnetometry headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-topological-acoustic-metamaterials-and-phononic-crystals`
 - File: `01-topological-acoustic-metamaterials-and-phononic-crystals.md`
