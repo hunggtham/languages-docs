@@ -140,6 +140,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [양자암호통신과 양자키분배의 언어](./advanced-quantum-cryptography-and-post-quantum-key-exchange/README.md) — `양자 키 분배와 후양자 암호 전환`
 - [정밀 영양과 대사체 프로파일링의 언어](./advanced-personalized-nutrition-and-metabolic-profiling/README.md) — `대사체 분석과 개인 맞춤형 임상 영양 중재`
 - [탄소중립 합성연료와 이퓨얼의 언어](./advanced-carbon-neutral-synthetic-fuels-and-efuels/README.md) — `탄소 재활용 합성연료와 수송 부문 탈탄소화`
+- [인공지능 윤리와 알고리즘 거버넌스의 언어](./advanced-ai-ethics-and-algorithmic-governance/README.md) — `인공지능 거버넌스와 알고리즘 신뢰성 규제`
+- [지능형 전력망과 가상발전소의 언어](./advanced-smart-grid-and-virtual-power-plants/README.md) — `가상발전소와 분산에너지 지능형 전력망 제어`
+- [정밀 발효와 세포 농업의 언어](./advanced-precision-fermentation-and-cellular-agriculture/README.md) — `세포 농업과 미생물 정밀 발효 기반 단백질 혁신`
+- [수소 운송과 액상 유기 수소 운반체의 언어](./advanced-hydrogen-transport-and-organic-carriers/README.md) — `대용량 수소 운송과 수소 캐리어 저장 인프라`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

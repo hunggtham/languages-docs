@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,260 new targets across 84 independent topic batches; 6,260 structured headings toward the 10,000 target, leaving 3,740 after this checkpoint.
+- Progress in this checkpoint: 1,320 new targets across 88 independent topic batches; 6,320 structured headings toward the 10,000 target, leaving 3,680 after this checkpoint.
+
+- Topic: `advanced-ai-ethics-and-algorithmic-governance`
+- File: `01-ai-ethics-and-algorithmic-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot AI ethics and algorithmic governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 140-eojeol Korean AI ethics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-smart-grid-and-virtual-power-plants`
+- File: `01-smart-grid-and-virtual-power-plants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot smart grid and virtual power plants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean smart grid passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-precision-fermentation-and-cellular-agriculture`
+- File: `01-precision-fermentation-and-cellular-agriculture.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot precision fermentation and cellular agriculture headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean precision fermentation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-hydrogen-transport-and-organic-carriers`
+- File: `01-hydrogen-transport-and-organic-carriers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogen transport and organic carriers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean hydrogen transport passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-regenerative-agriculture-and-soil-carbon-sequestration`
 - File: `01-regenerative-agriculture-and-soil-carbon-sequestration.md`
