@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,060 new targets across 204 independent topic batches; 8,060 structured headings toward the 10,000 target, leaving 1,940 after this checkpoint.
+- Progress in this checkpoint: 3,150 new targets across 210 independent topic batches; 8,150 structured headings toward the 10,000 target, leaving 1,850 after this checkpoint.
+
+- Topic: `advanced-perovskite-memristors-and-neuromorphic-arrays`
+- File: `01-perovskite-memristors-and-neuromorphic-arrays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite memristors and neuromorphic arrays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean perovskite memristor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-biomimetic-structural-color-and-photonic-films`
+- File: `01-biomimetic-structural-color-and-photonic-films.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic structural colors and photonic films headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean biomimetic structural color passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-supercritical-water-oxidation-and-waste-treatment`
+- File: `01-supercritical-water-oxidation-and-waste-treatment.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercritical water oxidation and waste treatment headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean SCWO waste treatment passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-liquid-crystal-elastomers-and-soft-actuators`
+- File: `01-liquid-crystal-elastomers-and-soft-actuators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid crystal elastomers and soft actuators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean LCE soft actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-soundproofing-and-acoustic-liners`
+- File: `01-metamaterial-soundproofing-and-acoustic-liners.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic metamaterials and acoustic liners headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean acoustic metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-dots-light-emitting-diodes-and-qled`
+- File: `01-quantum-dots-light-emitting-diodes-and-qled.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum dot light-emitting diodes and QLED headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean QLED displays passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-direct-air-capture-and-solid-amine-sorbents`
 - File: `01-direct-air-capture-and-solid-amine-sorbents.md`
