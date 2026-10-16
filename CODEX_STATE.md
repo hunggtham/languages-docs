@@ -24,6 +24,17 @@
 ## Current checkpoint
 
 - Filesystem progress must be recalculated with `scripts/vocab-progress.py` at the start of every resumed run.
-- Live progress after the latest validated checkpoint: A1 `400` items / `12` files; A2 `1,501` / `49`; B1 `1,226` / `61`; B2 `318` / `21`; C1 `5,150` / `280`; C2 `7,372` / `369`; C2+ `0` / `0`. Total: `15,967` valid learning items, leaving `4,033` to reach the 20,000-item target.
-- The latest checkpoint added `c2/computing/143-security-audit-evidence-and-log-integrity.md` with 20 security-audit evidence and log-integrity items and one integrated translated review passage.
-- Continue with C2 `computing/144` (or the next coherent topic after re-running `scripts/vocab-progress.py`); after C2, continue C2+ until the 20,000-item target is reached.
+- Live progress after the latest validated checkpoint (Wave 8):
+  - A1: `12` files, `400` items
+  - A2: `49` files, `1,501` items
+  - B1: `128` files, `2,901` items
+  - B2: `128` files, `2,993` items
+  - C1: `287` files, `5,325` items
+  - C2: `574` files, `11,480` items
+  - C2+: `144` files, `3,296` items
+  - **TOTAL**: `1,322` lessons, `27,896` valid learning items (`2,104` items remaining to reach the 30,000-item target).
+- The latest checkpoint (Wave 8) added 16 parallel lessons (400 items) across B1 and B2:
+  - B1: `culture/09`, `education/07`, `food/08`, `health/09`, `leisure/10`, `society/11`, `travel/11`, `work/08` (200 items)
+  - B2: `art/06`, `business/06`, `economics/07`, `environment/14`, `finance/07`, `health/06`, `law/07`, `urban/13` (200 items)
+  - All lessons strictly follow canonical H2 format, dual review-in-context with 100% headword bolding, and 0 duplicate headwords across the entire corpus.
+- Continue to Wave 9 targeting B1, B2, and C1 expansion until the 30,000-item target is fully achieved.

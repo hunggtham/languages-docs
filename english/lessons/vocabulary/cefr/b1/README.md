@@ -19,6 +19,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Business Operations And Corporate Travel](./work/05-business-operations-and-corporate-travel.md)
 - [Workplace Collaboration And Office Technology](./work/06-workplace-collaboration-and-office-technology.md)
 - [Job Hunting Interviews And Employment Contracts](./work/07-job-hunting-interviews-and-employment-contracts.md)
+- [Remote Collaboration Asynchronous Communication And Digital Nomadism](./work/08-remote-collaboration-asynchronous-communication-and-digital-nomadism.md)
 
 ## science
 
@@ -37,6 +38,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Common Illnesses And First Aid](./health/06-common-illnesses-and-first-aid.md)
 - [Treatments And Home Care](./health/07-treatments-and-home-care.md)
 - [Mental Wellness Stress Relief And Sleep Habits](./health/08-mental-wellness-stress-relief-and-sleep-habits.md)
+- [Physical Therapy Posture Correction And Sports Rehabilitation](./health/09-physical-therapy-posture-correction-and-sports-rehabilitation.md)
 
 ## home
 
@@ -65,6 +67,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Assessment And Study Support](./education/04-assessment-and-study-support.md)
 - [Qualifications And Academic Progress](./education/05-qualifications-and-academic-progress.md)
 - [Coursework And Campus Life](./education/06-coursework-and-campus-life.md)
+- [Vocational Apprenticeships Trade Skills And Career Certifications](./education/07-vocational-apprenticeships-trade-skills-and-career-certifications.md)
 
 ## business
 
@@ -90,6 +93,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
 - [Air Travel Customs Clearance And Lost Baggage](./travel/09-air-travel-customs-clearance-and-lost-baggage.md)
 - [Budget Backpacking Youth Hostels And Travel Safety](./travel/10-budget-backpacking-youth-hostels-and-travel-safety.md)
+- [Ecotourism Lodges Guided Nature Walks And Wildlife Tracking](./travel/11-ecotourism-lodges-guided-nature-walks-and-wildlife-tracking.md)
 
 ## society
 
@@ -103,6 +107,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Volunteering Fundraising And Community Service](./society/08-volunteering-fundraising-and-community-service.md)
 - [Community Policing Neighborhood Watch And Public Safety](./society/09-community-policing-neighborhood-watch-and-public-safety.md)
 - [Local Elections Town Hall Meetings And Civic Petitions](./society/10-local-elections-town-hall-meetings-and-civic-petitions.md)
+- [Public Libraries Digital Archives And Lifelong Learning](./society/11-public-libraries-digital-archives-and-lifelong-learning.md)
 
 ## technology
 
@@ -124,6 +129,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Multicultural Festivals Cross Cultural Customs And Hospitality](./culture/06-multicultural-festivals-cross-cultural-customs-and-hospitality.md)
 - [Folk Music Traditional Instruments And Oral Storytelling](./culture/07-folk-music-traditional-instruments-and-oral-storytelling.md)
 - [Traditional Crafts Pottery Making And Handicrafts](./culture/08-traditional-crafts-pottery-making-and-handicrafts.md)
+- [Theater Stagecraft Acting Workshops And Puppet Shows](./culture/09-theater-stagecraft-acting-workshops-and-puppet-shows.md)
 
 ## food
 
@@ -134,6 +140,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Baking Desserts And Cafe Culture](./food/05-baking-desserts-and-cafe-culture.md)
 - [Farm To Table Organic Farming And Local Food Markets](./food/06-farm-to-table-organic-farming-and-local-food-markets.md)
 - [Farmers Markets Seasonal Produce And Food Preservation](./food/07-farmers-markets-seasonal-produce-and-food-preservation.md)
+- [Artisan Bread Sourdough Fermentation And Local Bakeries](./food/08-artisan-bread-sourdough-fermentation-and-local-bakeries.md)
 
 ## relationships
 
@@ -152,6 +159,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Entertainment Venues And Outdoor Recreation](./leisure/07-entertainment-venues-and-outdoor-recreation.md)
 - [Cultural Events Festivals And Live Performances](./leisure/08-cultural-events-festivals-and-live-performances.md)
 - [Community Hobbies Gardening And Craft Clubs](./leisure/09-community-hobbies-gardening-and-craft-clubs.md)
+- [Board Game Cafes Tabletop Gaming And Hobby Conventions](./leisure/10-board-game-cafes-tabletop-gaming-and-hobby-conventions.md)
 
 ## services
 
