@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,680 new targets across 312 independent topic batches; 9,680 structured headings toward the 10,000 target, leaving 320 after this checkpoint.
+- Progress in this checkpoint: 4,770 new targets across 318 independent topic batches; 9,770 structured headings toward the 10,000 target, leaving 230 after this checkpoint.
+
+- Topic: `advanced-floquet-engineering-and-light-matter-interaction`
+- File: `01-floquet-engineering-and-light-matter-interaction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot floquet engineering and light matter interaction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-therapeutic-drug-monitoring`
+- File: `01-wearable-sweat-therapeutic-drug-monitoring.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat therapeutic drug monitoring headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-event-based-vision-sensors`
+- File: `01-neuromorphic-event-based-vision-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic event based vision sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezocatalytic-membrane-water-purification`
+- File: `01-piezocatalytic-membrane-water-purification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezocatalytic membrane water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-majorana-zero-mode-topological-qubits`
+- File: `01-majorana-zero-mode-topological-qubits.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot majorana zero mode topological qubits headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-pitcher-plant-slippery-liquid-infused-surfaces`
+- File: `01-pitcher-plant-slippery-liquid-infused-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot pitcher plant slippery liquid infused surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-metamaterial-perfect-absorbers-and-stealth`
 - File: `01-metamaterial-perfect-absorbers-and-stealth.md`
