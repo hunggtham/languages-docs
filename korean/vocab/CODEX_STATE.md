@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,980 new targets across 132 independent topic batches; 6,980 structured headings toward the 10,000 target, leaving 3,020 after this checkpoint.
+- Progress in this checkpoint: 2,070 new targets across 138 independent topic batches; 7,070 structured headings toward the 10,000 target, leaving 2,930 after this checkpoint.
+
+- Topic: `advanced-carbon-nanotube-semiconductors-and-sub-1nm`
+- File: `01-carbon-nanotube-semiconductors-and-sub-1nm.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon nanotube semiconductors and sub-1nm gate headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean CNT semiconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-photodetectors-and-swir-sensing`
+- File: `01-perovskite-photodetectors-and-swir-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite photodetectors and short-wave infrared sensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean perovskite SWIR photodetector passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-wave-energy-and-point-absorbers`
+- File: `01-ocean-wave-energy-and-point-absorbers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean wave energy conversion and point absorber buoy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean ocean wave power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-directed-evolution-and-enzyme-engineering`
+- File: `01-directed-evolution-and-enzyme-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot directed evolution and enzyme protein engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean directed evolution passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-optogenetics-and-neural-circuit-mapping`
+- File: `01-optogenetics-and-neural-circuit-mapping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optogenetics and neural circuit mapping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean optogenetics neural mapping passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-atmospheric-water-harvesting-and-mof`
+- File: `01-atmospheric-water-harvesting-and-mof.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot atmospheric water harvesting and metal-organic frameworks headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 110-eojeol Korean MOF water harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-quantum-dots-and-electroluminescent-displays`
 - File: `01-quantum-dots-and-electroluminescent-displays.md`

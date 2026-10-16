@@ -188,6 +188,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [천연 백색 수소와 지질학적 수소 탐사의 언어](./advanced-geological-hydrogen-and-natural-white-hydrogen/README.md) — `사문암화 반응 기반 천연 백색 수소 지중 매장 탐사 기술`
 - [생체 융합 로봇공학과 생체 구동기의 언어](./advanced-bio-hybrid-robotics-and-living-actuators/README.md) — `살아있는 근육 세포 기반 생체 융합 로봇 액추에이터 기술`
 - [광결정 광섬유와 초연속 스펙트럼의 언어](./advanced-photonic-crystal-fibers-and-supercontinuum-generation/README.md) — `미세구조 광결정 광섬유와 초광대역 초연속 레이저 기술`
+- [탄소 나노튜브 반도체와 초미세 공정의 언어](./advanced-carbon-nanotube-semiconductors-and-sub-1nm/README.md) — `서브 나노미터 탄소 나노튜브 트랜지스터와 집적회로 기술`
+- [페로브스카이트 광검출기와 단파적외선 센싱의 언어](./advanced-perovskite-photodetectors-and-swir-sensing/README.md) — `초고감도 비독성 페로브스카이트 단파적외선 광센서 기술`
+- [파력 발전과 점흡수식 부이 시스템의 언어](./advanced-ocean-wave-energy-and-point-absorbers/README.md) — `고효율 점흡수식 부이 파랑 에너지 변환 및 발전 기술`
+- [지향적 진화와 맞춤형 효소 단백질 공학의 언어](./advanced-directed-evolution-and-enzyme-engineering/README.md) — `초고속 스크리닝 기반 효소 지향적 진화 및 생체 촉매 기술`
+- [광유전학과 정밀 뇌신경 회로 제어의 언어](./advanced-optogenetics-and-neural-circuit-mapping/README.md) — `빛 반응 단백질 기반 초정밀 광유전학 신경망 매핑 기술`
+- [대기 수분 포집과 금속 유기 골격체의 언어](./advanced-atmospheric-water-harvesting-and-mof/README.md) — `다공성 금속 유기 골격체 기반 초저습도 대기 수분 포집 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
