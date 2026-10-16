@@ -28,6 +28,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Joint Ventures, Technology Licensing, and Foreign Subsidiaries](business/10-joint-ventures-technology-licensing-and-foreign-subsidiaries.md)
 - [Corporate Spin-Offs, Carve-Outs, and Divestiture Strategies](business/11-corporate-spin-offs-carve-outs-and-divestiture-strategies.md)
 - [B2 Vocabulary 12 — Franchise expansion, intellectual property licensing, and royalty structures](business/12-franchise-expansion-intellectual-property-licensing-and-royalty-structures.md)
+- [B2 Vocabulary 13 — Mergers and acquisitions, financial due diligence, and corporate restructuring](business/13-mergers-acquisitions-due-diligence-and-corporate-restructuring.md)
 
 ## communication
 - [B2 Vocabulary 01 — Discussion, persuasion, and interpretation](communication/01-discussion-persuasion-and-interpretation.md)
@@ -67,6 +68,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [11. Demographic Transition, Dependency Ratios, and Silver Economy](economics/11-demographic-transition-dependency-ratios-and-silver-economy.md)
 - [12. Input-Output Analysis, Inter-Industry Linkages, and Multiplier Effects](economics/12-input-output-analysis-inter-industry-linkages-and-multiplier-effects.md)
 - [B2 Vocabulary 13 — Behavioral nudges, choice architecture, and public policy design](economics/13-behavioral-nudges-choice-architecture-and-public-policy-design.md)
+- [B2 Vocabulary 14 — Circular economy, extended producer responsibility, and closed-loop manufacturing](economics/14-circular-economy-extended-producer-responsibility-and-waste-diversion.md)
 
 ## education
 - [B2 Vocabulary 01 — Academic writing and feedback](education/01-academic-writing-and-feedback.md)
@@ -80,6 +82,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 07 — Vocational accreditation, curriculum standards, and educational equity](education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
 - [B2 Vocabulary 08 — Digital pedagogy, remote learning, and academic integrity](education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
 - [B2 Vocabulary 09 — Inclusive special education, individualized learning plans, and neurodiversity support](education/09-inclusive-special-education-and-neurodiversity-support.md)
+- [B2 Vocabulary 10 — Hybrid pedagogy, digital learning platforms, and self-directed student agency](education/10-hybrid-pedagogy-learning-management-systems-and-student-agency.md)
 
 ## environment
 - [B2 Vocabulary 01 — Environmental conservation and climate action](environment/01-environmental-conservation-and-climate-action.md)
@@ -118,6 +121,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Project Finance, Non-Recourse Debt, and Infrastructure Concessions](finance/12-project-finance-non-recourse-debt-and-infrastructure-concessions.md)
 - [Microfinance Institutions, Peer-to-Peer Lending, and Financial Inclusion](finance/13-microfinance-institutions-peer-to-peer-lending-and-financial-inclusion.md)
 - [B2 Vocabulary 14 — Trade finance, letters of credit, and export credit guarantees](finance/14-trade-finance-letters-of-credit-and-export-credit-guarantees.md)
+- [B2 Vocabulary 15 — Microfinance lending, financial inclusion, and peer-to-peer credit platforms](finance/15-microfinance-fintech-inclusion-and-peer-to-peer-lending.md)
 
 ## health
 - [B2 Vocabulary 01 — Clinical consultation and health management](health/01-clinical-consultation-and-health-management.md)
@@ -132,10 +136,12 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 10 — Antimicrobial peptides, phage therapy, and novel pathogen diagnostics](health/10-antimicrobial-peptides-phage-therapy-and-novel-pathogen-diagnostics.md)
 - [B2 Vocabulary 11 — Cellular senescence, telomere biology, and longevity therapeutics](health/11-cellular-senescence-telomere-biology-and-longevity-therapeutics.md)
 - [B2 Vocabulary 12 — Palliative care, hospice support, and multidisciplinary pain management](health/12-palliative-care-hospice-support-and-pain-management.md)
+- [B2 Vocabulary 13 — Sleep architecture, circadian biology, and metabolic health restoration](health/13-sleep-architecture-circadian-rhythms-and-metabolic-health.md)
 
 ## history
 - [Historical Events and Heritage Preservation](history/01-historical-events-and-heritage-preservation.md)
 - [B2 Vocabulary 02 — Archival preservation, oral histories, and public memory curation](history/02-archival-preservation-oral-histories-and-public-memory.md)
+- [B2 Vocabulary 03 — Industrial heritage, labor unionization, and progressive social reform](history/03-industrial-heritage-labor-movements-and-social-reform.md)
 
 ## law
 - [B2 Vocabulary 01 — Courtroom proceedings, criminal justice, and legal disputes](law/01-courtroom-proceedings-and-legal-disputes.md)
@@ -151,6 +157,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [11. Maritime Law, Salvage Rights, and Admiralty Jurisdiction](law/11-maritime-law-salvage-rights-and-admiralty-jurisdiction.md)
 - [12. Antitrust Enforcement, Market Definition, and Merger Remedies](law/12-antitrust-enforcement-market-definition-and-merger-remedies.md)
 - [B2 Vocabulary 13 — Maritime admiralty law, general average, and salvage arbitration](law/13-maritime-admiralty-law-and-salvage-arbitration.md)
+- [B2 Vocabulary 14 — Intellectual property licensing, fair use doctrine, and patent infringement litigation](law/14-intellectual-property-licensing-fair-use-and-patent-litigation.md)
 
 ## media
 - [B2 Vocabulary 01 — News reporting, journalistic practices, and press operations](media/01-news-reporting-and-press-operations.md)
@@ -168,6 +175,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 03 — Public policy analysis, legislative advocacy, and regulatory reform](politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
 - [B2 Vocabulary 04 — Electoral integrity, gerrymandering, and democratic institutions](politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
 - [B2 Vocabulary 05 — Electoral integrity, gerrymandering, and voting access reforms](politics/05-electoral-integrity-gerrymandering-and-voting-access.md)
+- [B2 Vocabulary 06 — Civic engagement, participatory budgeting, and grassroots democratic mobilization](politics/06-civic-engagement-participatory-budgeting-and-grassroots-mobilization.md)
 
 ## psychology
 - [B2 Vocabulary 01 — Cognitive patterns and emotional well-being](psychology/01-cognitive-patterns-and-emotional-wellbeing.md)

@@ -5,34 +5,42 @@ Index of canonical C2-PLUS vocabulary learning materials by topic.
 - [C2+ Vocabulary — Food-system resilience and agrobiodiversity](agroecology/02-food-system-resilience-and-agrobiodiversity.md)
 - [C2+ Vocabulary — Agroecosystem dynamics and soil ecology](agroecology/03-agroecosystem-dynamics-and-soil-ecology.md)
 - [C2+ Vocabulary 04 — Mycorrhizal fungal networks, glomalin sequestration, and perennial polyculture](agroecology/04-mycorrhizal-networks-and-perennial-polyculture.md)
+- [C2+ Vocabulary 05 — Perennial grain polycultures, mycorrhizal hyphal networks, and soil microbiome metabolomics](agroecology/05-perennial-polycultures-mycorrhizal-fungal-networks-and-soil-microbiome-resilience.md)
 
 ## archaeobotany
 - [C2+ Vocabulary — Archaeobotany and zooarchaeology evidence](archaeobotany/01-archaeobotany-and-zooarchaeology-evidence.md)
 - [C2+ Vocabulary 02 — Phytolith morphometrics, starches, and paleodietary reconstruction](archaeobotany/02-phytolith-morphometrics-and-paleodietary-reconstruction.md)
+- [C2+ Vocabulary 03 — Phytolith 3D morphometrics, ancient starch granule taphonomy, and crop domestication syndromes](archaeobotany/03-phytolith-morphometrics-starch-grain-analysis-and-paleoethnobotany.md)
 
 ## architecture
 - [C2+ Vocabulary — Historic architecture and structural vocabulary](architecture/01-historic-architecture-and-structural-vocabulary.md)
 - [C2+ Vocabulary 02 — Phenomenological spatiality, haptic materiality, and tectonic articulation](architecture/02-phenomenological-spatiality-and-tectonic-articulation.md)
+- [C2+ Vocabulary 03 — Tectonic stereotomy, thrust-line graphic statics, and funicular masonry mechanics](architecture/03-tectonic-stereotomy-vaulted-masonry-and-kinematic-structural-optimization.md)
 
 ## astronomy
 - [C2+ Vocabulary — Observational astronomy and detector language](astronomy/01-observational-astronomy-and-detector-language.md)
 - [C2+ Vocabulary — Stellar astrophysics and evolution](astronomy/02-stellar-astrophysics-and-evolution.md)
 - [C2+ Vocabulary 03 — Interstellar medium polarimetry, synchrotron emission, and cosmic-ray acceleration](astronomy/03-interstellar-medium-polarimetry-and-cosmic-ray-acceleration.md)
+- [C2+ Vocabulary 04 — Pulsar timing arrays, Hellings-Downs spatial correlations, and nanohertz gravitational waves](astronomy/04-pulsar-timing-arrays-stochastic-gravitational-wave-background-and-astrometry.md)
 
 ## atmospheric-science
 - [C2+ Vocabulary — Atmospheric chemistry and dynamics](atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
 - [C2+ Vocabulary — Atmospheric dynamics and mesoscale systems](atmospheric-science/02-atmospheric-dynamics-and-mesoscale-systems.md)
 - [C2+ Vocabulary 03 — Stratospheric aerosol injection, geoengineering radiative forcing, and heterogeneous ozone chemistry](atmospheric-science/03-stratospheric-aerosol-injection-and-ozone-chemistry.md)
+- [C2+ Vocabulary 04 — Mesospheric internal gravity waves, hydroxyl airglow emissions, and noctilucent ice nucleation](atmospheric-science/04-mesospheric-gravity-waves-airglow-spectrophotometry-and-polar-mesospheric-clouds.md)
 
 ## baking
 - [C2+ Vocabulary — Bread and pastry fermentation science](baking/01-bread-and-pastry-fermentation-science.md)
+- [C2+ Vocabulary 02 — Sourdough microbial ecology, heterofermentative lactic acid fermentation, and gluten viscoelasticity](baking/02-sourdough-microbiome-kinetics-heterofermentative-lactobacilli-and-dough-rheology.md)
 
 ## biogeochemistry
 - [C2+ Vocabulary — Redox and biogeochemical cycling](biogeochemistry/01-redox-and-biogeochemical-cycling.md)
 - [C2+ Vocabulary 02 — Hydrogenotrophic methanogenesis, ANME consortia, and subseafloor methane sinks](biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md)
+- [C2+ Vocabulary 03 — High-nutrient low-chlorophyll (HNLC) ocean dynamics, iron-binding siderophores, and biological carbon pumps](biogeochemistry/03-marine-iron-fertilization-high-nutrient-low-chlorophyll-zones-and-carbon-export.md)
 
 ## blacksmithing
 - [C2+ Vocabulary — Forging and steel heat treatment](blacksmithing/01-forging-and-steel-heat-treatment.md)
+- [C2+ Vocabulary 02 — Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md)
 
 ## book-arts
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)

@@ -4,6 +4,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 01 — Nuance, evidence, and argument](argument/01-nuance-evidence-and-argument.md)
 - [C2 Vocabulary 02 — Dialectical inquiry, discursive dissonance, and counter-hegemonic critique](argument/02-dialectical-inquiry-and-counter-hegemonic-discourse.md)
 - [C2 Vocabulary 03 — Epistemic injustice, eristic sophistry, and presuppositional disputation](argument/03-epistemic-injustice-eristic-dialectic-and-presuppositional-inquiry.md)
+- [C2 Vocabulary 04 — Kantian antinomies, transcendental dialectic, and the logic of philosophical aporia](argument/04-aporia-dialectic-transcendental-critique-and-antinomies.md)
 
 ## biomedicine
 - [C2 Vocabulary — Proteomics and mass spectrometry](biomedicine/01-proteomics-and-mass-spectrometry.md)
@@ -72,6 +73,8 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 64 — Chimeric antigen receptor T-cell exhaustion and immunosuppressive tumor microenvironment](biomedicine/64-chimeric-antigen-receptor-t-cell-exhaustion-and-tumor-microenvironment.md)
 - [C2 Vocabulary 65 — Optogenetic neural circuit interrogation and photoswitchable ligand neuropharmacology](biomedicine/65-optogenetic-neural-circuits-and-synaptic-optopharmacology.md)
 - [C2 Vocabulary 66 — Induced pluripotent stem cell reprogramming, organoid morphogenesis, and lineage bifurcation](biomedicine/66-induced-pluripotent-stem-cells-organoid-morphogenesis-and-asymmetric-division.md)
+- [C2 Vocabulary 67 — Epigenetic aging clocks, DNA methylation entropy, and partial reprogramming rejuvenation](biomedicine/67-epigenetic-clocks-dna-methylation-entropy-and-cellular-rejuvenation.md)
+- [C2 Vocabulary 68 — Targeted protein degradation, PROTAC bifunctional degraders, and molecular glue complexes](biomedicine/68-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md)
 
 ## computing
 - [C2 Vocabulary — Distributed systems and consensus](computing/01-distributed-systems-and-consensus.md)
@@ -181,7 +184,9 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 186 — Probabilistic data structures, streaming sketches, and sublinear cardinality estimation](computing/186-probabilistic-data-structures-and-streaming-cardinality-estimation.md)
 - [C2 Vocabulary 187 — Formal verification, dependent type theories, and mechanized proof assistants](computing/187-formal-verification-dependent-types-and-interactive-theorem-proving.md)
 - [C2 Vocabulary 188 — Zero-copy network architectures, io_uring asynchronous ring buffers, and kernel bypass](computing/188-zero-copy-kernel-bypass-io-uring-and-memory-mapped-telemetry.md)
+- [C2 Vocabulary 189 — Lock-free concurrency primitives, epoch-based memory reclamation, and transactional memory](computing/189-lock-free-synchronization-memory-reclamation-and-hardware-transactional-memory.md)
 - [C2 Vocabulary — Edge computing and workload placement](computing/19-edge-computing-and-workload-placement.md)
+- [C2 Vocabulary 190 — Polyhedral loop transformations, static single assignment invariants, and compiler autotuning](computing/190-compilation-passes-polyhedral-loop-optimization-and-ssa-form.md)
 - [C2 Vocabulary — Event-driven architecture and messaging](computing/20-event-driven-architecture-and-messaging.md)
 - [C2 Vocabulary — Programmable networking and function offload](computing/21-programmable-networking-and-function-offload.md)
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md)
@@ -267,6 +272,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 01 — Public authority and institutional accountability](governance/01-public-authority-and-accountability.md)
 - [C2 Vocabulary 02 — Polycentric systems, nested enterprises, and institutional commons](governance/02-polycentric-systems-and-institutional-commons.md)
 - [C2 Vocabulary 03 — Polycentric federalism, jurisdictional arbitrage, and the principle of subsidiarity](governance/03-polycentric-federalism-regulatory-arbitrage-and-subsidiarity.md)
+- [C2 Vocabulary 04 — Deliberative minipublics, democratic sortition, and epistemic governance](governance/04-deliberative-minipublics-sortition-and-epistemic-democracy.md)
 
 ## rhetoric
 - [C2 Vocabulary 01 — Rhetorical stance and intellectual style](rhetoric/01-rhetorical-stance-and-intellectual-style.md)
@@ -318,6 +324,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 133 — Hermeneutic phenomenology, apophatic discourse, and ineffability](rhetoric/133-hermeneutic-phenomenology-and-apophatic-theology.md)
 - [C2 Vocabulary 134 — Deconstructionist tropes, paralipomenon tactics, and discursive subversion](rhetoric/134-deconstructionist-tropes-and-paralipomenon-tactics.md)
 - [C2 Vocabulary 135 — Semiotic aporia, radical catachresis, and allegorical hermeneutics](rhetoric/135-semiotic-aporia-catachresis-and-allegorical-exegesis.md)
+- [C2 Vocabulary 136 — Hermeneutic polysemy, allegorical typology, and parabasis in rhetorical discourse](rhetoric/136-allegory-parables-and-hermeneutic-polysemy.md)
 - [C2 Vocabulary — Ethical and political reasoning](rhetoric/14-ethical-and-political-reasoning.md)
 - [C2 Vocabulary 14 — Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md)
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md)
@@ -526,6 +533,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 198 — Backside power delivery networks, buried power rails, and nano-through-silicon vias](semiconductors/198-back-end-power-delivery-networks-and-buried-power-rails.md)
 - [C2 Vocabulary 199 — High-k metal gate reliability, negative bias temperature instability, and hot carrier degradation](semiconductors/199-high-k-metal-gate-reliability-bias-temperature-instability-and-hot-carrier-degradation.md)
 - [C2 Vocabulary — Design-for-test and silicon validation](semiconductors/20-design-for-test-and-silicon-validation.md)
+- [C2 Vocabulary 200 — Cryogenic CMOS electronics, sub-Kelvin thermal dissipation, and quantum qubit readout interfaces](semiconductors/200-cryogenic-cmos-quantum-readout-electronics-and-sub-kelvin-dissipation.md)
 - [C2 Vocabulary — Power integrity and high-speed signal analysis](semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md)
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md)

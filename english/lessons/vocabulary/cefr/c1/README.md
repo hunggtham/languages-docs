@@ -2,34 +2,42 @@
 Index of canonical C1 vocabulary learning materials by topic.
 ## agriculture
 - [C1 Vocabulary 01 — Agriculture and land stewardship](agriculture/01-agriculture-and-land-stewardship.md)
+- [C1 Vocabulary 02 — Controlled environment agriculture, vertical hydroponics, and precision nutrient dosing](agriculture/02-controlled-environment-agriculture-aeroponics-and-nutrient-film-technique.md)
 
 ## ai-reliability
 - [C1 Vocabulary 01 — Model evaluation and safety](ai-reliability/01-model-evaluation-and-safety.md)
 - [C1 Vocabulary 02 — Adversarial robustness, red-teaming, and safety alignment](ai-reliability/02-adversarial-robustness-and-safety-alignment.md)
+- [C1 Vocabulary 03 — Retrieval-augmented generation, epistemic confidence calibration, and hallucination reduction](ai-reliability/03-hallucination-mitigation-retrieval-augmented-generation-and-groundedness.md)
 
 ## analysis
 - [C1 Vocabulary 01 — Interpretation, nuance, and evidence](analysis/01-interpretation-and-nuance.md)
+- [C1 Vocabulary 02 — Structural equation modeling, latent constructs, and confirmatory factor analysis](analysis/02-structural-equation-modeling-latent-variables-and-confirmatory-factor-analysis.md)
 
 ## anthropology
 - [C1 Vocabulary 01 — Culture, kinship, and ethnography](anthropology/01-culture-kinship-and-ethnography.md)
 - [C1 Vocabulary 02 — Ethnocentrism, stratification, and belief systems](anthropology/02-ethnocentrism-stratification-and-belief-systems.md)
 - [C1 Vocabulary 03 — Ethnographic reflexivity, thick description, and multispecies coexistence](anthropology/03-ethnographic-reflexivity-and-multispecies-coexistence.md)
+- [C1 Vocabulary 04 — Sensory ethnography, phenomenology of embodiment, and affective material cultures](anthropology/04-sensory-ethnography-embodied-knowledge-and-material-culture.md)
 
 ## archaeology
 - [C1 Vocabulary 01 — Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md)
+- [C1 Vocabulary 02 — Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md)
 
 ## architecture
 - [C1 Vocabulary 01 — Architecture and built form](architecture/01-architecture-and-built-form.md)
 - [C1 Vocabulary 02 — Design elements and urban spaces](architecture/02-design-elements-and-urban-spaces.md)
 - [C1 Vocabulary 03 — Vernacular design, thermal mass, and climate-responsive facades](architecture/03-vernacular-design-and-climate-responsive-facades.md)
+- [C1 Vocabulary 04 — Biophilic urban design, regenerative envelopes, and passive thermal mass dynamics](architecture/04-biophilic-urbanism-passive-cooling-and-thermal-mass-engineering.md)
 
 ## arts
 - [C1 Vocabulary 01 — Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md)
 - [C1 Vocabulary 02 — Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md)
+- [C1 Vocabulary 03 — Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md)
 
 ## astronomy
 - [C1 Vocabulary 01 — Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md)
 - [C1 Vocabulary 02 — Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md)
+- [C1 Vocabulary 03 — Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md)
 
 ## behavioral-economics
 - [C1 Vocabulary 01 — Decisions and choice architecture](behavioral-economics/01-decisions-and-choice-architecture.md)

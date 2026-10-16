@@ -28,11 +28,11 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 3976 items in 171 topic files; topic-folder numbering resets per folder.
-- B2: 4533 items in 190 topic files; B2 expansion is active beyond the original pilot.
-- C1: 8050 items in 434 topic files; topic-folder numbering resets per folder.
-- C2: 11980 items in 594 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 3796 items in 164 lesson files across 52 topic folders.
-- Total: 34236 items (authoritative script count after Wave 17 parallel expansion toward 40,000 items).
+- B2: 4733 items in 198 topic files; B2 expansion is active beyond the original pilot.
+- C1: 8250 items in 442 topic files; topic-folder numbering resets per folder.
+- C2: 12180 items in 602 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 3996 items in 172 lesson files across 52 topic folders.
+- Total: 35036 items (authoritative script count after Wave 18 parallel expansion toward 40,000 items).
 
 ## Current position
 
@@ -42,11 +42,11 @@ Current level: `B2_C1_C2_C2_PLUS_PARALLEL`
 
 Milestone achievement: The 30,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 30k=complete` with 32,236 items). The current goal is actively expanding the corpus toward **40,000 items** distributed evenly across B2, C1, C2, and C2+ using parallel subagent waves.
 
-- Wave 17 added 32 parallel lessons across 8 subagents (800 items, 25 items each):
-  - B2: `communication/08`, `decisions/06`, `history/02`, `research/07`, `risk/45`, `society/08`, `work/05`, `art/13` (200 items)
-  - C1: `cryptography/02`, `culture/02`, `data-science/02`, `database-systems/02`, `diplomacy/02`, `distributed-systems/02`, `ecology/02`, `economy/02` (200 items)
-  - C2: `argument/03`, `governance/03`, `biomedicine/65`, `biomedicine/66`, `computing/187`, `computing/188`, `rhetoric/135`, `semiconductors/199` (200 items)
-  - C2+: `entomology/02`, `forensic-science/02`, `genome-regulation/02`, `geology/02`, `glaciology/02`, `horticulture/02`, `hydrology/02`, `linguistics/03` (200 items)
+- Wave 18 added 32 parallel lessons across 8 subagents (800 items, 25 items each):
+  - B2: `business/13`, `economics/14`, `education/10`, `finance/15`, `health/13`, `history/03`, `law/14`, `politics/06` (200 items)
+  - C1: `agriculture/02`, `ai-reliability/03`, `analysis/02`, `anthropology/04`, `archaeology/02`, `architecture/04`, `arts/03`, `astronomy/03` (200 items)
+  - C2: `argument/04`, `governance/04`, `biomedicine/67`, `biomedicine/68`, `computing/189`, `computing/190`, `rhetoric/136`, `semiconductors/200` (200 items)
+  - C2+: `agroecology/05`, `archaeobotany/03`, `architecture/03`, `astronomy/04`, `atmospheric-science/04`, `baking/02`, `biogeochemistry/03`, `blacksmithing/02` (200 items)
   - All lessons strictly adhere to canonical H2 format, dual bilingual review-in-context with 100% bolded headwords, and 0 duplicate headwords.
 
 Before choosing the exact lesson topic and words:
