@@ -11,6 +11,7 @@
 - [C2 Vocabulary 07 — Epistemic peer disagreement, the uniqueness thesis, and permissive Bayesian rationality](argument/07-epistemic-peer-disagreement-uniqueness-thesis-and-permissive-rationality.md)
 - [C2 Vocabulary 08 — The Agrippan trilemma, infinitist justification chains, and epistemic foundationalism](argument/08-infinitism-foundationalism-and-the-agrippan-trilemma.md)
 - [C2 Vocabulary 09 — Epistemic injustice dynamics, testimonial credibility deficits, and structural hermeneutical lacunae](argument/09-epistemic-injustice-testimonial-hermeneutical-marginalization.md)
+- [C2 Vocabulary 10 — Epistemic rule-circularity, self-vindicating cognitive faculties, and non-doxastic foundational justification](argument/10-epistemic-circularity-rule-circularity-and-doxastic-justification.md)
 
 ## biomedicine
 
@@ -92,6 +93,8 @@
 - [C2 Vocabulary 76 — Mitochondrial fission-fusion equilibrium, Drp1 GTPase oligomerization, and cristae remodeling](biomedicine/76-mitochondrial-dynamics-fission-fusion-balance-and-metabolic-senescence.md)
 - [C2 Vocabulary 77 — Single-cell ATAC-seq epigenomics, hyperactive Tn5 transposase tagging, and regulome accessibility landscapes](biomedicine/77-single-cell-epigenomics-scatac-seq-and-chromatin-accessibility-landscapes.md)
 - [C2 Vocabulary 78 — Targeted proteasomal degradation, PROTAC heterobifunctional chimeras, and molecular glue degraders](biomedicine/78-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md)
+- [C2 Vocabulary 79 — High-diversity cellular barcoding, clonal hematopoiesis of indeterminate potential (CHIP), and somatic lineage tracing](biomedicine/79-cellular-barcoding-clonal-hematopoiesis-and-lineage-tracing.md)
+- [C2 Vocabulary 80 — Presynaptic SNARE pin-zippering, synaptotagmin-1 calcium sensor triggering, and vesicle kiss-and-run recycling](biomedicine/80-synaptic-vesicle-exocytosis-snare-complex-and-synaptotagmin-calcium-sensing.md)
 
 ## computing
 
@@ -295,6 +298,8 @@
 - [C2 Vocabulary — Query optimization and execution](computing/97-query-optimization-and-execution.md)
 - [C2 Vocabulary — Stream processing and time semantics](computing/98-stream-processing-and-time-semantics.md)
 - [C2 Vocabulary — Resilient APIs and service contracts](computing/99-resilient-api-and-service-contracts.md)
+- [C2 Vocabulary 201 — Hardware transactional memory (HTM), cache coherence transaction tracking, and speculative lock elision](computing/201-hardware-transactional-memory-cache-coherence-and-speculative-lock-elision.md)
+- [C2 Vocabulary 202 — Static abstract interpretation, Galois connection adjunctions, and widening operator fixpoint acceleration](computing/202-abstract-interpretation-galois-connections-and-widening-operators.md)
 
 ## governance
 
@@ -307,6 +312,7 @@
 - [C2 Vocabulary 07 — Deliberative minipublics, democratic sortition, and epistemic procedural legitimacy](governance/07-deliberative-minipublics-sortition-and-epistemic-democratic-legitimacy.md)
 - [C2 Vocabulary 08 — Epistemic democratic theory, Condorcet jury mathematics, and cognitive diversity pooling](governance/08-epistemic-democracy-condorcet-jury-theorem-and-deliberative-pluralism.md)
 - [C2 Vocabulary 09 — Panarchy theory, adaptive ecological governance, and cross-scale systemic resilience cascades](governance/09-panarchy-adaptive-governance-and-socio-ecological-resilience-cascades.md)
+- [C2 Vocabulary 10 — Adversarial legalism, administrative rulemaking ossification, and the judicialization of public policy](governance/10-adversarial-legalism-regulatory-ossification-and-judicialized-governance.md)
 
 ## rhetoric
 
@@ -451,6 +457,7 @@
 - [C2 Vocabulary 97 — Pharmacology and drug delivery](rhetoric/97-pharmacology-and-drug-delivery.md)
 - [C2 Vocabulary 98 — Chemical process engineering and catalysis](rhetoric/98-chemical-process-engineering-and-catalysis.md)
 - [C2 Vocabulary 99 — Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md)
+- [C2 Vocabulary 142 — Passionate epizeuxis iteration, strategic diacopic repetition, and affective semantic amplification](rhetoric/142-epizeuxis-diacope-and-affective-lexical-iteration-in-dramatic-polemics.md)
 
 ## semiconductors
 
@@ -659,4 +666,4 @@
 - [C2 Vocabulary — Memory-controller scheduling and data integrity](semiconductors/97-memory-controller-scheduling-and-data-integrity.md)
 - [C2 Vocabulary — Memory coherence and persistent storage](semiconductors/98-memory-coherence-and-persistent-storage.md)
 - [C2 Vocabulary — NVMe I/O control and recovery observability](semiconductors/99-nvme-io-control-and-recovery-observability.md)
-
+- [C2 Vocabulary 206 — Atomic layer etching (ALE), self-limiting surface modification reactions, and sub-nanometer directional removal](semiconductors/206-atomic-layer-etching-self-limiting-surface-reactions-and-monolayer-precision.md)

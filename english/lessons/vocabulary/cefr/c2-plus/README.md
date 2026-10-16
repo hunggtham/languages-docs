@@ -91,6 +91,7 @@
 
 - [C2+ Vocabulary — Coffee processing and sensory analysis](coffee/01-coffee-processing-and-sensory-analysis.md)
 - [C2+ Vocabulary 02 — Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md)
+- [C2+ Vocabulary 03 — Specialty coffee organic acid speciation, quinic-to-malic chromatographic ratios, and refractometric extraction yields](coffee/03-specialty-coffee-organic-acid-profiles-quinic-malic-ratios-and-refractometric-tds.md)
 
 ## ecological-restoration
 
@@ -152,6 +153,7 @@
 
 - [C2+ Vocabulary — Wine sensory evaluation and cellar language](food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md)
 - [C2+ Vocabulary 02 — Grape must fermentation kinetics, yeast beta-lyase volatile thiol release, and malolactic biotransformation](food-and-wine/02-must-fermentation-kinetics-volatile-thiol-release-and-malolactic-biotransformation.md)
+- [C2+ Vocabulary 03 — Vintage Port brandy fortification kinetics, polymeric pyranoanthocyanin pigment synthesis, and oxidative pipe aging](food-and-wine/03-vintage-port-fortification-anthocyanin-tannin-pyranoanthocyanin-maturation.md)
 
 ## forensic-science
 
@@ -175,26 +177,31 @@
 
 - [C2+ Vocabulary — Glacial processes and landforms](glaciology/01-glacial-processes-and-landforms.md)
 - [C2+ Vocabulary 02 — Subglacial hydrologic channels, ice shelf buttressing collapse, and marine ice sheet instability](glaciology/02-subglacial-hydrology-ice-shelf-calving-and-grounding-line-retreat.md)
+- [C2+ Vocabulary 03 — Subglacial drainage channelization, basal sliding effective pressure, and marine ice sheet retrograde instability](glaciology/03-subglacial-hydrology-basal-shear-stress-and-marine-ice-sheet-instability.md)
 
 ## glasswork
 
 - [C2+ Vocabulary — Glassblowing and kilnforming language](glasswork/01-glassblowing-and-kilnforming-language.md)
 - [C2+ Vocabulary 02 — Soda-lime silicate glass rheology, lehr annealing thermal profiles, and devitrification crystallization kinetics](glasswork/02-soda-lime-viscosity-curves-lehr-annealing-and-devitrification-cristobalite.md)
+- [C2+ Vocabulary 03 — Historical stained-glass lead came glazing, linseed putty waterproofing, and potash glass potash leaching corrosion](glasswork/03-came-lead-stained-glass-cementing-and-atmospheric-atmospheric-corrosion-leaching.md)
 
 ## horticulture
 
 - [C2+ Vocabulary — Advanced plant propagation and growth](horticulture/01-advanced-plant-propagation-and-growth.md)
 - [C2+ Vocabulary 02 — Shoot apical meristem micropropagation, somaclonal variation, and cryopreservation vitrification](horticulture/02-somaclonal-variation-meristem-micropropagation-and-cryopreservation.md)
+- [C2+ Vocabulary 03 — Pomological scion-rootstock graft compatibility, cambial callus bridge parenchyma, and clonal dwarfing invigoration](horticulture/03-pomological-graft-incompatibility-callus-parenchyma-and-scion-invigoration.md)
 
 ## humanitarian-law
 
 - [C2+ Vocabulary — International humanitarian law and protection](humanitarian-law/01-international-humanitarian-law-and-protection.md)
 - [C2+ Vocabulary 02 — Belligerent reprisals prohibition, military necessity proportionality calculus, and the principle of distinction in hybrid armed conflicts](humanitarian-law/02-belligerent-reprisal-proportionality-doctrine-and-distinction-in-hybrid-warfare.md)
+- [C2+ Vocabulary 03 — Command responsibility doctrine, grave breaches universal prosecution, and customary IHL in non-international armed conflicts](humanitarian-law/03-grave-breaches-command-responsibility-and-customary-ihl-non-international-conflicts.md)
 
 ## hydrology
 
 - [C2+ Vocabulary — Surface-water and groundwater processes](hydrology/01-surface-water-and-groundwater-processes.md)
 - [C2+ Vocabulary 02 — Karst aquifer conduit networks, speleogenesis, and advective solute transport modeling](hydrology/02-karst-aquifer-conduits-and-solute-transport-modeling.md)
+- [C2+ Vocabulary 03 — Karst aquifer conduit-fissure dual porosity, fluorescent dye breakthrough curve analysis, and epikarst storage dynamics](hydrology/03-karst-hydrogeology-dye-tracing-breakthrough-curves-and-conduit-fissure-flow.md)
 
 ## linguistics
 
@@ -206,6 +213,7 @@
 
 - [C2+ Vocabulary — Marine zones and animal adaptations](marine-biology/01-marine-zones-and-animal-adaptations.md)
 - [C2+ Vocabulary 02 — Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md)
+- [C2+ Vocabulary 03 — Benthic-pelagic organic matter coupling, hydrothermal vent chemosynthesis, and methane cold-seep endosymbiosis](marine-biology/03-benthic-pelagic-coupling-deep-sea-chemosynthesis-and-cold-seep-microbiology.md)
 
 ## maritime-logistics
 

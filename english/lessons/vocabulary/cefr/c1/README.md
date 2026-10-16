@@ -496,14 +496,17 @@
 ## programming-languages
 
 - [C1 Vocabulary 01 — Types, runtime, and semantics](programming-languages/01-types-runtime-and-semantics.md)
+- [C1 Vocabulary 02 — Memory safety guarantees, borrow checking mechanics, and affine linear type systems](programming-languages/02-memory-safety-borrow-checker-and-affine-type-systems.md)
 
 ## project-management
 
 - [C1 Vocabulary 01 — Planning, delivery, and control](project-management/01-planning-delivery-and-control.md)
+- [C1 Vocabulary 02 — Earned value management (EVM), critical path schedule network analysis, and project slippage mitigation](project-management/02-earned-value-management-critical-path-and-schedule-slippage.md)
 
 ## psychiatry
 
 - [C1 Vocabulary 01 — Psychiatry and mental health](psychiatry/01-psychiatry-and-mental-health.md)
+- [C1 Vocabulary 02 — Synaptic neurotransmitter reuptake kinetics, transdiagnostic endophenotypes, and psychopharmacological titration](psychiatry/02-neurotransmitter-reuptake-transdiagnostic-endophenotypes-and-psychopharmacology.md)
 
 ## psychology
 
@@ -554,22 +557,27 @@
 ## public-administration
 
 - [C1 Vocabulary 01 — Administration and policy delivery](public-administration/01-administration-and-policy-delivery.md)
+- [C1 Vocabulary 02 — New public governance frameworks, citizen service co-production, and relational public contracting](public-administration/02-new-public-governance-co-production-and-collaborative-contracting.md)
 
 ## public-finance
 
 - [C1 Vocabulary 01 — Fiscal and monetary policy](public-finance/01-fiscal-and-monetary-policy.md)
+- [C1 Vocabulary 02 — Countercyclical fiscal multipliers, sovereign debt sustainability ceilings, and automatic stabilizer mechanics](public-finance/02-fiscal-multipliers-debt-sustainability-and-automatic-stabilizers.md)
 
 ## public-health
 
 - [C1 Vocabulary 01 — Public health and population risk](public-health/01-public-health-and-population-risk.md)
+- [C1 Vocabulary 02 — Syndemic disease interaction frameworks, structural social determinants, and digital contact tracing protocols](public-health/02-syndemic-frameworks-social-determinants-and-epidemic-contact-tracing.md)
 
 ## quality-management
 
 - [C1 Vocabulary 01 — Process improvement and control](quality-management/01-process-improvement-and-control.md)
+- [C1 Vocabulary 02 — Statistical process control (SPC), Six Sigma DMAIC methodology, and failure mode and effects analysis (FMEA)](quality-management/02-statistical-process-control-six-sigma-and-failure-mode-effects-analysis.md)
 
 ## quantum-computing
 
 - [C1 Vocabulary 01 — Quantum computing and information](quantum-computing/01-quantum-computing-and-information.md)
+- [C1 Vocabulary 02 — Superconducting qubit coherence times, Bloch sphere state vectors, and randomized benchmarking gate fidelity](quantum-computing/02-qubit-coherence-times-bloch-sphere-and-quantum-gate-fidelity.md)
 
 ## religion
 
