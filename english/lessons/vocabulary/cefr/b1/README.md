@@ -18,6 +18,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Work Planning And Career Steps](./work/04-work-planning-and-career-steps.md)
 - [Business Operations And Corporate Travel](./work/05-business-operations-and-corporate-travel.md)
 - [Workplace Collaboration And Office Technology](./work/06-workplace-collaboration-and-office-technology.md)
+- [Job Hunting Interviews And Employment Contracts](./work/07-job-hunting-interviews-and-employment-contracts.md)
 
 ## science
 
@@ -119,6 +120,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Cooking Methods And Food Preparation](./food/03-cooking-methods-and-food-preparation.md)
 - [Restaurant Service And Casual Dining](./food/04-restaurant-service-and-casual-dining.md)
 - [Baking Desserts And Cafe Culture](./food/05-baking-desserts-and-cafe-culture.md)
+- [Farm To Table Organic Farming And Local Food Markets](./food/06-farm-to-table-organic-farming-and-local-food-markets.md)
 
 ## relationships
 

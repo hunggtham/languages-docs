@@ -95,6 +95,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Industrial Decarbonization Circular Economy And Waste Management](./environment/04-industrial-decarbonization-circular-economy-and-waste-management.md)
 - [Carbon Capture Methane Abatement And Ecological Restoration](./environment/05-carbon-capture-methane-abatement-and-ecological-restoration.md)
 - [Ocean Conservation Marine Protected Areas And Plastics Abatement](./environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md)
+- [Agroforestry Regenerative Agriculture And Soil Microbiome](./environment/07-agroforestry-regenerative-agriculture-and-soil-microbiome.md)
 
 ## finance
 
@@ -109,12 +110,14 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
 - [Monetary Policy Inflation Dynamics And Central Banking](./economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
 - [Labor Market Dynamics Wage Polarization And Social Welfare Economics](./economics/04-labor-market-dynamics-wage-polarization-and-social-welfare-economics.md)
+- [Development Economics Foreign Aid And Sovereign Debt Restructuring](./economics/05-development-economics-foreign-aid-and-sovereign-debt-restructuring.md)
 
 ## business
 
 - [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
 - [Supply Chain Logistics Procurement And Inventory Optimization](./business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
 - [Corporate Venture Capital Open Innovation And Agile Transformation](./business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md)
+- [Cross Border Mergers Corporate Takeovers And Due Diligence](./business/04-cross-border-mergers-corporate-takeovers-and-due-diligence.md)
 
 ## law
 
@@ -150,3 +153,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Urban Regeneration Infrastructure Resilience And Civic Placemaking](./urban/03-urban-regeneration-infrastructure-resilience-and-civic-placemaking.md)
 - [Transit Oriented Development Spatial Equity And Affordable Housing](./urban/04-transit-oriented-development-spatial-equity-and-affordable-housing.md)
 - [Smart Grids District Energy And Climate Neutral Cities](./urban/05-smart-grids-district-energy-and-climate-neutral-cities.md)
+- [Waterfront Revitalization Flood Resilience And Civic Commons](./urban/06-waterfront-revitalization-flood-resilience-and-civic-commons.md)

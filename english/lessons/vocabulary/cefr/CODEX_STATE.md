@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 2276 items in 103 topic files; topic-folder numbering resets per folder.
-- B2: 2118 items in 93 topic files; B2 expansion is active beyond the original pilot.
+- B1: 2326 items in 105 topic files; topic-folder numbering resets per folder.
+- B2: 2218 items in 97 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 26396 items (authoritative script count after the second parallel batch: B1 transport/08, travel/08, B2 urban/05, environment/06, media/06, technology/08; 3,604 remaining to 30,000).
+- Total: 26546 items (authoritative script count after the third parallel batch: B1 food/06, work/07, B2 business/04, economics/05, environment/07, urban/06; 3,454 remaining to 30,000).
 
 ## Current position
 
