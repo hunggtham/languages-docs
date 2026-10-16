@@ -89,6 +89,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
 - [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
 - [Air Travel Customs Clearance And Lost Baggage](./travel/09-air-travel-customs-clearance-and-lost-baggage.md)
+- [Budget Backpacking Youth Hostels And Travel Safety](./travel/10-budget-backpacking-youth-hostels-and-travel-safety.md)
 
 ## society
 
@@ -100,6 +101,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Community Help And Local Access](./society/06-community-help-and-local-access.md)
 - [Community Action And Social Initiatives](./society/07-community-action-and-social-initiatives.md)
 - [Volunteering Fundraising And Community Service](./society/08-volunteering-fundraising-and-community-service.md)
+- [Community Policing Neighborhood Watch And Public Safety](./society/09-community-policing-neighborhood-watch-and-public-safety.md)
+- [Local Elections Town Hall Meetings And Civic Petitions](./society/10-local-elections-town-hall-meetings-and-civic-petitions.md)
 
 ## technology
 
@@ -119,6 +122,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Festivals Traditions And Customs](./culture/04-festivals-traditions-and-customs.md)
 - [Social Etiquette And Cultural Traditions](./culture/05-social-etiquette-and-cultural-traditions.md)
 - [Multicultural Festivals Cross Cultural Customs And Hospitality](./culture/06-multicultural-festivals-cross-cultural-customs-and-hospitality.md)
+- [Folk Music Traditional Instruments And Oral Storytelling](./culture/07-folk-music-traditional-instruments-and-oral-storytelling.md)
+- [Traditional Crafts Pottery Making And Handicrafts](./culture/08-traditional-crafts-pottery-making-and-handicrafts.md)
 
 ## food
 
@@ -128,6 +133,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Restaurant Service And Casual Dining](./food/04-restaurant-service-and-casual-dining.md)
 - [Baking Desserts And Cafe Culture](./food/05-baking-desserts-and-cafe-culture.md)
 - [Farm To Table Organic Farming And Local Food Markets](./food/06-farm-to-table-organic-farming-and-local-food-markets.md)
+- [Farmers Markets Seasonal Produce And Food Preservation](./food/07-farmers-markets-seasonal-produce-and-food-preservation.md)
 
 ## relationships
 
