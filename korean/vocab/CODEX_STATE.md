@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,150 new targets across 210 independent topic batches; 8,150 structured headings toward the 10,000 target, leaving 1,850 after this checkpoint.
+- Progress in this checkpoint: 3,240 new targets across 216 independent topic batches; 8,240 structured headings toward the 10,000 target, leaving 1,760 after this checkpoint.
+
+- Topic: `advanced-solid-state-refrigeration-and-elastocaloric-cooling`
+- File: `01-solid-state-refrigeration-and-elastocaloric-cooling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot elastocaloric cooling and solid-state refrigeration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean elastocaloric cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-triboelectric-nanogenerators-and-blue-energy`
+- File: `01-triboelectric-nanogenerators-and-blue-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot triboelectric nanogenerators and blue energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean TENG blue energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-photonics-and-backscattering-immunity`
+- File: `01-topological-photonics-and-backscattering-immunity.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological photonics and backscattering immunity headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean topological photonics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-electrochemical-carbon-dioxide-reduction-and-e-fuels`
+- File: `01-electrochemical-carbon-dioxide-reduction-and-e-fuels.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electrochemical CO2 reduction and e-fuels headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean CO2 reduction e-fuels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-dna-origami-and-nanoscale-molecular-machines`
+- File: `01-dna-origami-and-nanoscale-molecular-machines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot DNA origami and nanoscale molecular machines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 93-eojeol Korean DNA origami passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wireless-power-transfer-and-metamaterial-coupling`
+- File: `01-wireless-power-transfer-and-metamaterial-coupling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wireless power transfer and metamaterial coupling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean wireless power transfer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-perovskite-memristors-and-neuromorphic-arrays`
 - File: `01-perovskite-memristors-and-neuromorphic-arrays.md`
