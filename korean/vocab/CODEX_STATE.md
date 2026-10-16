@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,510 new targets across 234 independent topic batches; 8,510 structured headings toward the 10,000 target, leaving 1,490 after this checkpoint.
+- Progress in this checkpoint: 3,600 new targets across 240 independent topic batches; 8,600 structured headings toward the 10,000 target, leaving 1,400 after this checkpoint.
+
+- Topic: `advanced-topological-acoustic-metamaterials-and-phononic-crystals`
+- File: `01-topological-acoustic-metamaterials-and-phononic-crystals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological acoustic metamaterials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean topological acoustics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flexible-synaptic-transistors-and-e-skin`
+- File: `01-flexible-synaptic-transistors-and-e-skin.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible synaptic transistors and e-skin headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean synaptic transistors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-methanol-fuel-cells-and-micro-power`
+- File: `01-direct-methanol-fuel-cells-and-micro-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct methanol fuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 93-eojeol Korean DMFC micro-power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-micro-light-emitting-diode-mass-transfer-and-displays`
+- File: `01-micro-light-emitting-diode-mass-transfer-and-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot micro-LED mass transfer headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean micro-LED mass transfer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nuclear-battery-and-betavoltaics`
+- File: `01-nuclear-battery-and-betavoltaics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear battery and betavoltaics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean betavoltaics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-plasmonic-water-purification-and-solar-desalination`
+- File: `01-plasmonic-water-purification-and-solar-desalination.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot plasmonic water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean plasmonic water purification passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-topological-insulator-spintronics-and-spin-orbit-torque`
 - File: `01-topological-insulator-spintronics-and-spin-orbit-torque.md`
