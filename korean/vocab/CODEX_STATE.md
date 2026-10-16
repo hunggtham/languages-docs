@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,070 new targets across 138 independent topic batches; 7,070 structured headings toward the 10,000 target, leaving 2,930 after this checkpoint.
+- Progress in this checkpoint: 2,160 new targets across 144 independent topic batches; 7,160 structured headings toward the 10,000 target, leaving 2,840 after this checkpoint.
+
+- Topic: `advanced-liquid-metal-batteries-and-grid-scale-storage`
+- File: `01-liquid-metal-batteries-and-grid-scale-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid metal battery and grid-scale ESS headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean liquid metal battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-acoustic-metamaterials-and-sonic-cloaking`
+- File: `01-acoustic-metamaterials-and-sonic-cloaking.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic metamaterials and sonic cloaking headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean acoustic metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-crispr-prime-editing-and-genetic-correction`
+- File: `01-crispr-prime-editing-and-genetic-correction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot CRISPR prime editing and precise genetic correction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean prime editing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-silicon-anodes-and-solid-state-electrolytes`
+- File: `01-silicon-anodes-and-solid-state-electrolytes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot silicon anode and solid-state electrolyte interface headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean silicon solid-state battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-vision-sensors-and-event-cameras`
+- File: `01-neuromorphic-vision-sensors-and-event-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic vision sensors and event-based camera headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean neuromorphic vision passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-space-solar-power-and-microwave-wireless-transmission`
+- File: `01-space-solar-power-and-microwave-wireless-transmission.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot space solar power and microwave wireless transmission headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean space solar power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-carbon-nanotube-semiconductors-and-sub-1nm`
 - File: `01-carbon-nanotube-semiconductors-and-sub-1nm.md`

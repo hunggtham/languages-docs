@@ -194,6 +194,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [지향적 진화와 맞춤형 효소 단백질 공학의 언어](./advanced-directed-evolution-and-enzyme-engineering/README.md) — `초고속 스크리닝 기반 효소 지향적 진화 및 생체 촉매 기술`
 - [광유전학과 정밀 뇌신경 회로 제어의 언어](./advanced-optogenetics-and-neural-circuit-mapping/README.md) — `빛 반응 단백질 기반 초정밀 광유전학 신경망 매핑 기술`
 - [대기 수분 포집과 금속 유기 골격체의 언어](./advanced-atmospheric-water-harvesting-and-mof/README.md) — `다공성 금속 유기 골격체 기반 초저습도 대기 수분 포집 기술`
+- [액체 금속 전지와 전력망 에너지 저장의 언어](./advanced-liquid-metal-batteries-and-grid-scale-storage/README.md) — `고온 용융염 및 액체 금속 전지 기반 장주기 에너지 저장 기술`
+- [음향 메타물질과 음향 클로킹 기술의 언어](./advanced-acoustic-metamaterials-and-sonic-cloaking/README.md) — `국소 공진형 음향 메타물질과 음파 경로 조작 기술`
+- [프라임 에디팅과 차세대 유전자 교정의 언어](./advanced-crispr-prime-editing-and-genetic-correction/README.md) — `역전사 융합 단백질 기반 초정밀 프라임 유전자 에디팅 기술`
+- [실리콘 음극재와 전고체 전해질 계면의 언어](./advanced-silicon-anodes-and-solid-state-electrolytes/README.md) — `고용량 실리콘 음극과 황화물계 전고체 전해질 계면 안정화 기술`
+- [뉴로모픽 비전 센서와 이벤트 기반 카메라의 언어](./advanced-neuromorphic-vision-sensors-and-event-cameras/README.md) — `비동기 픽셀 신호 기반 초고속 뉴로모픽 이벤트 비전 기술`
+- [우주 태양광 발전과 무선 전력 전송의 언어](./advanced-space-solar-power-and-microwave-wireless-transmission/README.md) — `정지궤도 우주 태양광 발전 및 마이크로웨이브 전력 전송 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
