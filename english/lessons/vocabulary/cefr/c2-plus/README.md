@@ -309,35 +309,43 @@
 ## quantum-materials
 
 - [C2+ Vocabulary — Quantum condensed matter and materials](quantum-materials/01-quantum-condensed-matter-and-materials.md)
+- [C2+ Vocabulary 02 — Topological insulator surface states, linear Dirac cone dispersion, and helical spin-momentum locking](quantum-materials/02-topological-insulators-dirac-cone-dispersion-and-spin-momentum-locking.md)
 
 ## remote-sensing
 
 - [C2+ Vocabulary — Advanced remote sensing and geospatial analysis](remote-sensing/01-advanced-remote-sensing-and-geospatial-analysis.md)
 - [C2+ Vocabulary — Optical, hyperspectral, and canopy analysis](remote-sensing/02-optical-hyperspectral-and-canopy-analysis.md)
+- [C2+ Vocabulary 03 — Spaceborne InSAR interferometry, phase unwrapping algorithms, and millimeter surface displacement tracking](remote-sensing/03-synthetic-aperture-radar-interferometry-and-surface-deformation.md)
 
 ## soil-science
 
 - [C2+ Vocabulary — Pedogenesis and soil function](soil-science/01-pedogenesis-and-soil-function.md)
+- [C2+ Vocabulary 02 — Pedogenic horizon differentiation, argillic illuviation cutans, and soil cation exchange capacity](soil-science/02-pedogenesis-illuviation-horizons-and-cation-exchange-capacity.md)
 
 ## spirits
 
 - [C2+ Vocabulary — Distilling and spirit maturation](spirits/01-distilling-and-spirit-maturation.md)
+- [C2+ Vocabulary 02 — Pot still copper reflux kinetics, foreshots-to-feints congener fractionation, and barrel oak lactone extraction](spirits/02-congener-fractionation-copper-reflux-pot-stills-and-cask-maturation-lactones.md)
 
 ## stagecraft
 
 - [C2+ Vocabulary — Theater stagecraft and costume language](stagecraft/01-theater-stagecraft-and-costume-language.md)
+- [C2+ Vocabulary 02 — Theatrical counterweight rigging, catenary cable tension dynamics, and automated winch arbor kinematics](stagecraft/02-counterweight-rigging-catenary-cable-tension-and-theatrical-drapery-mechanics.md)
 
 ## statistical-learning
 
 - [C2+ Vocabulary — Statistical learning theory and generalization](statistical-learning/01-statistical-learning-theory-and-generalization.md)
+- [C2+ Vocabulary 02 — Reproducing kernel Hilbert spaces (RKHS), Mercer kernel spectral decomposition, and Tikhonov function regularization](statistical-learning/02-reproducing-kernel-hilbert-spaces-mercer-kernels-and-tikhonov-regularization.md)
 
 ## tea
 
 - [C2+ Vocabulary — Tea processing and brewing language](tea/01-tea-processing-and-brewing-language.md)
+- [C2+ Vocabulary 02 — Camellia sinensis polyphenol oxidase kinetics, theaflavin-thearubigin oxidation cascades, and salivary astringency](tea/02-camellia-sinensis-enzymatic-oxidation-theaflavins-and-astringency-polyphenols.md)
 
 ## textiles
 
 - [C2+ Vocabulary — Textile weaving, dyeing, and finishing](textiles/01-textile-weaving-dyeing-and-finishing.md)
+- [C2+ Vocabulary 02 — Electronic Jacquard harness shedding, filament yarn viscoelastic creep relaxation, and weave tensile hysteresis](textiles/02-jacquard-shedding-viscoelastic-yarn-creep-and-tensile-hysteresis-rheology.md)
 
 ## urban-planning
 

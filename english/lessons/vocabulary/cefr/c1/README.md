@@ -388,34 +388,42 @@
 ## human-rights
 
 - [C1 Vocabulary 01 — Rights, obligations, and remedies](human-rights/01-rights-obligations-and-remedies.md)
+- [C1 Vocabulary 02 — Extraterritorial human rights obligations, universal jurisdiction, and transitional justice tribunals](human-rights/02-extraterritorial-obligations-transitional-justice-and-universal-jurisdiction.md)
 
 ## hydrology
 
 - [C1 Vocabulary 01 — Water systems and scarcity](hydrology/01-water-systems-and-scarcity.md)
+- [C1 Vocabulary 02 — Groundwater overdraft dynamics, managed aquifer recharge, and coastal saline intrusion](hydrology/02-groundwater-depletion-aquifer-recharge-and-saline-intrusion.md)
 
 ## immunology
 
 - [C1 Vocabulary 01 — Immunology and immune defense](immunology/01-immunology-and-immune-defense.md)
+- [C1 Vocabulary 02 — Adaptive immune repertoires, monoclonal antibody therapies, and hyperinflammatory cytokine storms](immunology/02-adaptive-immunity-monoclonal-antibodies-and-cytokine-storms.md)
 
 ## institutions
 
 - [C1 Vocabulary 01 — Governance, oversight, and accountability](institutions/01-governance-and-accountability.md)
+- [C1 Vocabulary 02 — Institutional drift dynamics, covert regulatory capture, and bureaucratic organizational inertia](institutions/02-institutional-drift-regulatory-capture-and-bureaucratic-inertia.md)
 
 ## international-development
 
 - [C1 Vocabulary 01 — Poverty, aid, and inclusive growth](international-development/01-poverty-aid-and-inclusive-growth.md)
+- [C1 Vocabulary 02 — Multilateral development finance, structural adjustment conditionality, and sovereign debt distress](international-development/02-multilateral-aid-conditionality-debt-overhang-and-poverty-traps.md)
 
 ## language-acquisition
 
 - [C1 Vocabulary 01 — Second-language learning](language-acquisition/01-second-language-learning.md)
+- [C1 Vocabulary 02 — Second language phonological fossilization, syntactic processing constraints, and usage-based acquisition](language-acquisition/02-critical-period-hypothesis-phonological-fossilization-and-l2-syntax.md)
 
 ## law
 
 - [C1 Vocabulary 01 — Legal process and remedies](law/01-legal-process-and-remedies.md)
+- [C1 Vocabulary 02 — Substantive due process jurisprudence, proportionality review, and judicial deference doctrines](law/02-substantive-due-process-proportionality-review-and-judicial-deference.md)
 
 ## linguistics
 
 - [C1 Vocabulary 01 — Language and discourse](linguistics/01-language-and-discourse.md)
+- [C1 Vocabulary 02 — Diachronic grammaticalization paths, semantic bleaching, and linguistic typological universals](linguistics/02-grammaticalization-paths-semantic-bleaching-and-typological-universals.md)
 
 ## media
 
