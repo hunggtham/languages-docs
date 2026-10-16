@@ -28,11 +28,11 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 5236 items in 234 topic files; topic-folder numbering resets per folder.
-- B2: 8534 items in 375 topic files; B2 expansion is active beyond the original pilot.
-- C1: 8895 items in 430 topic files; topic-folder numbering resets per folder.
-- C2: 15041 items in 716 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 6847 items in 286 lesson files across 52 topic folders.
-- Total: 46454 items (authoritative script count after Wave 33 parallel expansion toward 50,000 items).
+- B2: 8734 items in 383 topic files; B2 expansion is active beyond the original pilot.
+- C1: 9095 items in 438 topic files; topic-folder numbering resets per folder.
+- C2: 15242 items in 724 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 7047 items in 294 lesson files across 52 topic folders.
+- Total: 47254 items (authoritative script count after Wave 34 parallel expansion toward 50,000 items).
 
 ## Current position
 
@@ -42,7 +42,11 @@ Current level: `B2_C1_C2_C2_PLUS_PARALLEL`
 
 Milestone achievement: The 40,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 40k=complete` with 40,054 items). The active goal is expanding the corpus toward **50,000 items** distributed evenly across B2, C1, C2, and C2+ using parallel subagent waves.
 
-- Wave 33 added 32 parallel lessons across 16 subagents (800 items, 25 items each):
+- Wave 34 added 32 parallel lessons across 16 subagents (800 items, 25 items each):
+  - B2 (8 lessons): `communication/16`, `decisions/14`, `history/11`, `media/17`, `politics/15`, `psychology/15`, `research/16`, `work/14`.
+  - C1 (8 lessons): `database-systems/03`, `demography/03`, `diplomacy/03`, `distributed-systems/03`, `ecology/03`, `economy/03`, `education/03`, `electoral-politics/03`.
+  - C2 (8 lessons): `argument/20`, `governance/20`, `biomedicine/97`, `biomedicine/98`, `computing/219`, `computing/220`, `rhetoric/151`, `semiconductors/215`.
+  - C2+ (8 lessons): `archaeobotany/05`, `architecture/05`, `baking/05`, `tea/04`, `textiles/04`, `urban-planning/04`, `virology/04`, `woodworking/04`.
   - B2 (8 lessons): `finance/21`, `health/19`, `law/19`, `media/16`, `politics/14`, `psychology/14`, `research/15`, `work/13`.
   - C1 (8 lessons): `constitutional-law/03`, `corporate-governance/03`, `criminal-justice/03`, `cryptography/03`, `culture/03`, `cybersecurity/03`, `data-governance/03`, `data-science/03`.
   - C2 (8 lessons): `argument/19`, `governance/19`, `biomedicine/95`, `biomedicine/96`, `computing/217`, `computing/218`, `rhetoric/150`, `semiconductors/214`.
