@@ -205,6 +205,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cinema
 
 - [Cinema And Film Language](./cinema/01-cinema-and-film-language.md)
+- [Auteur Theory, Non-Linear Cinematic Narratives, And Diegetic Sound Design](./cinema/02-auteur-theory-non-linear-narrative-and-diegetic-sound.md)
 
 ## architecture
 
@@ -223,6 +224,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## chemistry
 
 - [Chemistry And Reactions](./chemistry/01-chemistry-and-reactions.md)
+- [Organocatalysis, Asymmetric Synthesis, And Green Atom Economy](./chemistry/02-organocatalysis-green-synthesis-and-atom-economy.md)
 
 ## astronomy
 
@@ -240,6 +242,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## computer-science
 
 - [Computing Concepts And Systems](./computer-science/01-computing-concepts-and-systems.md)
+- [Computational Complexity And Probabilistic Algorithms](./computer-science/02-computational-complexity-and-probabilistic-algorithms.md)
 
 ## phonetics
 
@@ -405,10 +408,12 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 
 - [Culture, Kinship, And Ethnography](./anthropology/01-culture-kinship-and-ethnography.md)
 - [Ethnocentrism Stratification And Belief Systems](./anthropology/02-ethnocentrism-stratification-and-belief-systems.md)
+- [Ethnographic Reflexivity, Thick Description, And Multispecies Coexistence](./anthropology/03-ethnographic-reflexivity-and-multispecies-coexistence.md)
 
 ## demography
 
 - [Population Change And Transition](./demography/01-population-change-and-transition.md)
+- [Sub Replacement Fertility And Intergenerational Transfers](./demography/02-sub-replacement-fertility-and-intergenerational-transfers.md)
 
 ## econometrics
 
@@ -493,6 +498,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## constitutional-law
 
 - [Constitutional Structure And Review](./constitutional-law/01-constitutional-structure-and-review.md)
+- [Judicial Review Proportionality And Rights Balancing](./constitutional-law/02-judicial-review-proportionality-and-rights-balancing.md)
 
 ## electoral-politics
 
@@ -501,6 +507,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## comparative-politics
 
 - [Regimes And Democratic Change](./comparative-politics/01-regimes-and-democratic-change.md)
+- [Electoral Authoritarianism And Democratic Backsliding](./comparative-politics/02-electoral-authoritarianism-and-democratic-backsliding.md)
 
 ## diplomacy
 
@@ -552,6 +559,7 @@ Các bài C1 mở rộng từ vựng cho lập luận, phân tích, tổ chức 
 ## cloud-architecture
 
 - [Deployment, Resilience, And Operations](./cloud-architecture/01-deployment-resilience-and-operations.md)
+- [Serverless Orchestration, Event-Driven Mesh, And Distributed Circuit Breakers](./cloud-architecture/02-serverless-orchestration-and-event-driven-mesh.md)
 
 ## distributed-systems
 

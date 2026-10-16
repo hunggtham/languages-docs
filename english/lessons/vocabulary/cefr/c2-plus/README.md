@@ -95,6 +95,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## marine-biology
 
 - [Marine Zones And Animal Adaptations](./marine-biology/01-marine-zones-and-animal-adaptations.md)
+- [Benthic-Pelagic Coupling And Deep-Sea Chemosynthesis](./marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md)
 
 ## entomology
 
@@ -108,6 +109,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## ecological-restoration
 
 - [Restoration And Population Dynamics](./ecological-restoration/01-restoration-and-population-dynamics.md)
+- [Trophic Rewilding And Keystone Species Cascades](./ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md)
 
 ## mycology
 
@@ -127,6 +129,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 
 - [Atmospheric Chemistry And Dynamics](./atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
 - [Atmospheric Dynamics And Mesoscale Systems](./atmospheric-science/02-atmospheric-dynamics-and-mesoscale-systems.md)
+- [Stratospheric Aerosol Injection And Ozone Chemistry](./atmospheric-science/03-stratospheric-aerosol-injection-and-ozone-chemistry.md)
 
 ## hydrology
 
@@ -164,10 +167,12 @@ Files are numbered independently inside each topic folder. Every headword has an
 ## climate-dynamics
 
 - [Ocean–Atmosphere Dynamics And Climate Processes](./climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
+- [Atlantic Meridional Overturning Circulation Tipping Dynamics](./climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md)
 
 ## biogeochemistry
 
 - [Redox And Biogeochemical Cycling](./biogeochemistry/01-redox-and-biogeochemical-cycling.md)
+- [Methanogenesis Pathways And Anaerobic Oxidation Of Methane](./biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md)
 
 ## quantum-materials
 
@@ -181,6 +186,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 
 - [Environmental Toxicology And Risk Assessment](./ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)
 - [Environmental Fate Transport And Monitoring](./ecotoxicology/02-environmental-fate-transport-and-monitoring.md)
+- [Per- And Polyfluoroalkyl Substances Bioaccumulation Kinetics](./ecotoxicology/03-per-and-polyfluoroalkyl-substances-bioaccumulation-kinetics.md)
 
 ## remote-sensing
 
@@ -203,6 +209,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 
 - [Power Grid Operations And Energy Storage](./energy-systems/01-power-grid-operations-and-energy-storage.md)
 - [Storage Flexibility And Demand Forecasting](./energy-systems/02-storage-flexibility-and-demand-forecasting.md)
+- [Synchronous Condensers And Grid-Forming Inverter Stability](./energy-systems/03-synchronous-condensers-and-grid-forming-inverter-stability.md)
 
 ## maritime-logistics
 
@@ -236,6 +243,7 @@ Files are numbered independently inside each topic folder. Every headword has an
 - [Health Economics In Epidemiology](./epidemiology/23-health-economics-in-epidemiology.md)
 - [Social Epidemiology And Structural Determinants](./epidemiology/24-social-epidemiology-and-structural-determinants.md)
 - [Global Health Epidemiology And Policy](./epidemiology/25-global-health-epidemiology-and-policy.md)
+- [Phylodynamic Pathogen Transmission And Genomic Surveillance](./epidemiology/26-phylodynamic-pathogen-transmission-and-genomic-surveillance.md)
 
 ## agroecology
 

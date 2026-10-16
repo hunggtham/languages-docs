@@ -146,6 +146,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Acoustics And Auditory Perception](./rhetoric/130-acoustics-and-auditory-perception.md)
 - [Sensory Science And Flavor Chemistry](./rhetoric/131-sensory-science-and-flavor-chemistry.md)
 - [Seismology And Earthquake Hazards](./rhetoric/132-seismology-and-earthquake-hazards.md)
+- [Hermeneutic Phenomenology And Apophatic Theology](./rhetoric/133-hermeneutic-phenomenology-and-apophatic-theology.md)
+- [Deconstructionist Tropes And Paralipomenon Tactics](./rhetoric/134-deconstructionist-tropes-and-paralipomenon-tactics.md)
 
 ## computing
 
@@ -480,6 +482,8 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Music Instrument And Studio Service Robotics](./semiconductors/194-music-instrument-and-studio-service-robotics.md)
 - [Home Appliance And Domestic Service Robotics](./semiconductors/195-home-appliance-and-domestic-service-robotics.md)
 - [Aquarium And Aquatic Conservation Robotics](./semiconductors/196-aquarium-and-aquatic-conservation-robotics.md)
+- [High-Mobility Two-Dimensional Semiconductors And Dielectric Interfaces](./semiconductors/197-high-mobility-two-dimensional-semiconductors-and-dielectric-interfaces.md)
+- [Back-End Power Delivery Networks And Buried Power Rails](./semiconductors/198-back-end-power-delivery-networks-and-buried-power-rails.md)
 - [Cancer Biomarkers And Immunotherapy Response](./biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md)
 - [Estimand Design And Real-World Evidence](./biomedicine/60-estimand-design-and-real-world-evidence.md)
 - [Quantum Cryptography And Key Distribution](./computing/73-quantum-cryptography-and-key-distribution.md)
@@ -597,3 +601,7 @@ Files are numbered independently inside each topic folder. Lessons are topic-dri
 - [Neuroimaging Connectivity And Network Mapping](./biomedicine/57-neuroimaging-connectivity-and-network-mapping.md)
 - [Nanomedicine And Targeted Drug Delivery](./biomedicine/61-nanomedicine-and-targeted-delivery.md)
 - [Epigenetic Reprogramming And Cellular Rejuvenation](./biomedicine/62-epigenetic-reprogramming-and-cellular-rejuvenation.md)
+- [Single-Cell Transcriptomics And Spatial Proteomics](./biomedicine/63-single-cell-transcriptomics-and-spatial-proteomics.md)
+- [Chimeric Antigen Receptor T-Cell Exhaustion And Tumor Microenvironment](./biomedicine/64-chimeric-antigen-receptor-t-cell-exhaustion-and-tumor-microenvironment.md)
+- [Neuromorphic Spiking Neural Architectures And Synaptic Plasticity](./computing/185-neuromorphic-spiking-neural-architectures-and-synaptic-plasticity.md)
+- [Probabilistic Data Structures And Streaming Cardinality Estimation](./computing/186-probabilistic-data-structures-and-streaming-cardinality-estimation.md)

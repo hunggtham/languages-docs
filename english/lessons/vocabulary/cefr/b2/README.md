@@ -82,6 +82,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 06 — Higher education governance, academic milestones, and university administration](./education/06-higher-education-governance-and-academic-milestones.md)
 - [B2 Vocabulary 07 — Vocational accreditation, curriculum standards, and educational equity](./education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
 - [B2 Vocabulary 08 — Digital pedagogy, remote learning, and academic integrity](./education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
+- [B2 Vocabulary 09 — Inclusive special education, individualized learning plans, and neurodiversity support](./education/09-inclusive-special-education-and-neurodiversity-support.md)
 - [Learning Quality And Equity](./education/05-learning-quality-and-equity.md)
 - [Assessment Validity And Feedback](./education/06-assessment-validity-and-feedback.md)
 
@@ -106,6 +107,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Enhanced Rock Weathering, Carbon Mineralization, and Basalt Spreading](./environment/17-enhanced-rock-weathering-carbon-mineralization-and-basalt-spreading.md)
 - [Mangrove Afforestation, Blue Carbon Credits, and Coastal Bioshields](./environment/18-mangrove-afforestation-blue-carbon-credits-and-coastal-bioshields.md)
 - [Soil Salinization Remediation, Halophyte Cultivation, and Dryland Restoration](./environment/19-soil-salinization-remediation-halophyte-cultivation-and-dryland-restoration.md)
+- [B2 Vocabulary 20 — Agroforestry, silvopasture, and regenerative soil carbon sequestration](./environment/20-agroforestry-silvopasture-and-regenerative-soil-carbon.md)
 
 ## finance
 
@@ -137,6 +139,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 09 — Nosocomial infection control, antimicrobial stewardship, and isolation wards](./health/09-nosocomial-infection-control-antimicrobial-stewardship-and-isolation-wards.md)
 - [B2 Vocabulary 10 — Antimicrobial peptides, phage therapy, and novel pathogen diagnostics](./health/10-antimicrobial-peptides-phage-therapy-and-novel-pathogen-diagnostics.md)
 - [Cellular Senescence, Telomere Biology, and Longevity Therapeutics](./health/11-cellular-senescence-telomere-biology-and-longevity-therapeutics.md)
+- [B2 Vocabulary 12 — Palliative care, hospice support, and multidisciplinary pain management](./health/12-palliative-care-hospice-support-and-pain-management.md)
 
 ## history
 
@@ -156,6 +159,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [10. Multinational Arbitration, Bilateral Investment Treaties, and Forum Selection](./law/10-multinational-arbitration-bilateral-investment-treaties-and-forum-selection.md)
 - [11. Maritime Law, Salvage Rights, and Admiralty Jurisdiction](./law/11-maritime-law-salvage-rights-and-admiralty-jurisdiction.md)
 - [Antitrust Enforcement, Market Definition, and Merger Remedies](./law/12-antitrust-enforcement-market-definition-and-merger-remedies.md)
+- [B2 Vocabulary 13 — Maritime admiralty law, general average, and salvage arbitration](./law/13-maritime-admiralty-law-and-salvage-arbitration.md)
 
 ## media
 
@@ -166,6 +170,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 05 — Media monopolies, algorithmic curation, and disinformation countermeasures](./media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md)
 - [B2 Vocabulary 06 — Generative AI, synthetic media, and copyright fair use](./media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
 - [B2 Vocabulary 07 — Journalistic ethics, whistleblower protection, and state surveillance](./media/07-journalistic-ethics-whistleblower-protection-and-state-surveillance.md)
+- [B2 Vocabulary 08 — Investigative journalism, whistleblower protection, and editorial independence](./media/08-investigative-journalism-whistleblower-protection-and-editorial-independence.md)
 
 ## politics
 
@@ -173,6 +178,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 02 — International diplomacy, geopolitics, and treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
 - [B2 Vocabulary 03 — Public policy analysis, legislative advocacy, and regulatory reform](./politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
 - [B2 Vocabulary 04 — Electoral integrity, gerrymandering, and democratic institutions](./politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
+- [B2 Vocabulary 05 — Electoral integrity, gerrymandering, and voting access reforms](./politics/05-electoral-integrity-gerrymandering-and-voting-access.md)
 
 ## psychology
 
@@ -181,6 +187,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 03 — Behavioral economics, cognitive bias, and decision heuristics](./psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md)
 - [B2 Vocabulary 04 — Cognitive bias mitigation, neurodiversity, and behavioral interventions](./psychology/04-cognitive-bias-mitigation-neurodiversity-and-behavioral-interventions.md)
 - [B2 Vocabulary 05 — Organizational behavior, workplace stress, and leadership dynamics](./psychology/05-organizational-behavior-workplace-stress-and-leadership-dynamics.md)
+- [B2 Vocabulary 06 — Cognitive dissonance, social identity theory, and in-group bias](./psychology/06-cognitive-dissonance-social-identity-and-in-group-bias.md)
 
 ## research
 
@@ -264,6 +271,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 06 — Cybersecurity, threat intelligence, and network defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
 - [B2 Vocabulary 07 — Quantum computing, cryptography, and next-gen computing](./technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
 - [B2 Vocabulary 08 — Edge IoT, industrial robotics, and autonomous systems](./technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
+- [B2 Vocabulary 09 — Spatial computing, augmented reality overlays, and haptic telepresence](./technology/09-spatial-computing-augmented-reality-and-haptic-telepresence.md)
 - [Platforms And Digital Infrastructure](./technology/04-platforms-and-digital-infrastructure.md)
 - [Service Reliability And Platform Design](./technology/05-service-reliability-and-platform-design.md)
 - [Data Governance And Lifecycle](./technology/06-data-governance-and-lifecycle.md)
