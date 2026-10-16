@@ -200,6 +200,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [실리콘 음극재와 전고체 전해질 계면의 언어](./advanced-silicon-anodes-and-solid-state-electrolytes/README.md) — `고용량 실리콘 음극과 황화물계 전고체 전해질 계면 안정화 기술`
 - [뉴로모픽 비전 센서와 이벤트 기반 카메라의 언어](./advanced-neuromorphic-vision-sensors-and-event-cameras/README.md) — `비동기 픽셀 신호 기반 초고속 뉴로모픽 이벤트 비전 기술`
 - [우주 태양광 발전과 무선 전력 전송의 언어](./advanced-space-solar-power-and-microwave-wireless-transmission/README.md) — `정지궤도 우주 태양광 발전 및 마이크로웨이브 전력 전송 기술`
+- [극저온 탄소 포집과 승화 분리 기술의 언어](./advanced-cryogenic-carbon-capture-and-sublimation/README.md) — `상변화 기반 극저온 이산화탄소 동결 포집 및 승화 분리 공학`
+- [생체 모사 의수족과 근전도 제어의 언어](./advanced-bionic-prosthetics-and-myoelectric-control/README.md) — `다채널 근전도 및 신경 직접 연계 기반 생체 모사 로봇 의지 기술`
+- [심해 채광 로봇과 망간단괴 채집의 언어](./advanced-deep-sea-mining-robotics-and-nodule-collection/README.md) — `초심해 극한 환경 자율주행 채광 로봇 및 단괴 회수 기술`
+- [미생물 전기합성과 고부가가치 화학물질 생산의 언어](./advanced-microbial-electrosynthesis-and-value-added-chemicals/README.md) — `생물전기화학 기반 이산화탄소 환원 및 유기 화합물 바이오 합성 기술`
+- [다이아몬드 질소 공공 양자 센서의 언어](./advanced-diamond-quantum-sensors-and-nv-centers/README.md) — `상온 질소-공공 센터 기반 초정밀 나노스케일 양자 계측 기술`
+- [초임계 이산화탄소 발전과 터보기계 공학의 언어](./advanced-supercritical-co2-power-cycles-and-turbomachinery/README.md) — `고온 고효율 초임계 이산화탄소 브레이턴 사이클 발전 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

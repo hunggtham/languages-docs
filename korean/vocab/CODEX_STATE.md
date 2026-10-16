@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,160 new targets across 144 independent topic batches; 7,160 structured headings toward the 10,000 target, leaving 2,840 after this checkpoint.
+- Progress in this checkpoint: 2,250 new targets across 150 independent topic batches; 7,250 structured headings toward the 10,000 target, leaving 2,750 after this checkpoint.
+
+- Topic: `advanced-cryogenic-carbon-capture-and-sublimation`
+- File: `01-cryogenic-carbon-capture-and-sublimation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cryogenic carbon capture and sublimation separation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean cryogenic carbon capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bionic-prosthetics-and-myoelectric-control`
+- File: `01-bionic-prosthetics-and-myoelectric-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bionic prosthetics and myoelectric control headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean bionic prosthetics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-sea-mining-robotics-and-nodule-collection`
+- File: `01-deep-sea-mining-robotics-and-nodule-collection.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep-sea mining robotics and nodule collection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean deep-sea mining passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-electrosynthesis-and-value-added-chemicals`
+- File: `01-microbial-electrosynthesis-and-value-added-chemicals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrosynthesis and value-added biochemicals headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean microbial electrosynthesis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-diamond-quantum-sensors-and-nv-centers`
+- File: `01-diamond-quantum-sensors-and-nv-centers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot diamond NV-center quantum sensor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean diamond NV quantum sensor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-supercritical-co2-power-cycles-and-turbomachinery`
+- File: `01-supercritical-co2-power-cycles-and-turbomachinery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercritical CO2 power cycles and turbomachinery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean supercritical CO2 power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-liquid-metal-batteries-and-grid-scale-storage`
 - File: `01-liquid-metal-batteries-and-grid-scale-storage.md`
