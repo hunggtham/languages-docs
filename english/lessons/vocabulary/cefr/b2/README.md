@@ -739,7 +739,7 @@
 - [B2 Vocabulary 10 — Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md)
 
 
-## Lessons (391 lessons, 8934 items)
+## Lessons (399 lessons, 9134 items)
 
 ### Art ()
 

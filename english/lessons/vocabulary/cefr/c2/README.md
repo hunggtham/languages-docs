@@ -1379,7 +1379,7 @@
 - [C2 Vocabulary 208 — Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md)
 
 
-## Lessons (732 lessons, 15442 items)
+## Lessons (740 lessons, 15642 items)
 
 ### Argument ()
 
