@@ -18,7 +18,23 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,950 new targets across 330 independent topic batches; 9,950 structured headings toward the 10,000 target, leaving 50 after this checkpoint.
+- Progress in this checkpoint: 5,010 new targets across 334 independent topic batches; 10,010 structured headings toward the 10,000 target, leaving 0 after this checkpoint (10,000-word expansion goal achieved and exceeded).
+
+- Topic: `advanced-wearable-sweat-microrna-sensors`
+- File: `01-wearable-sweat-microrna-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat microrna sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-proprioceptive-electronic-skin-prosthetics`
+- File: `01-proprioceptive-electronic-skin-prosthetics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot proprioceptive electronic skin prosthetics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-bone-tissue-regeneration-scaffolds`
+- File: `01-piezo-bone-tissue-regeneration-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo bone tissue regeneration scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-shark-skin-riblet-drag-reduction-surfaces`
+- File: `01-shark-skin-riblet-drag-reduction-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot shark skin riblet drag reduction surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-topological-magnon-spintronics`
 - File: `01-topological-magnon-spintronics.md`

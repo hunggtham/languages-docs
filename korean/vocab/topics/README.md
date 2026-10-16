@@ -386,6 +386,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [압전 소노다이내믹 항균 치료 기술의 언어](./advanced-piezo-sonodynamic-antimicrobial-therapy/README.md) — `초음파 여기 압전 나노촉매 표면 전하 유도 활성산소종 발생 기반 항생제 내성 슈퍼박테리아 생물막 완전 제거 치료 기술`
 - [위상 양자점 나노 레이저 기술의 언어](./advanced-topological-quantum-dot-lasers/README.md) — `광자 체르넨 절연체 격자 및 인듐비소 양자점 고밀도 적층 기반 위상 보호 에지 상태 저임계값 단일 모드 온칩 레이징 기술`
 - [연잎 모사 초소수성 코팅 및 자가세정 기술의 언어](./advanced-lotus-inspired-superhydrophobic-coatings/README.md) — `마이크로-나노 이중 계층 돌기 구조 및 불소계 단분자막 기반 접촉각 150도 이상 자가세정 결로·착빙 지연 초발수 계면 기술`
+- [웨어러블 땀 마이크로RNA 센서 및 무표지 분자 진단 기술의 언어](./advanced-wearable-sweat-microrna-sensors/README.md) — `압타머 인식 및 무표지 전기화학 임피던스 분석 기반 극미량 땀 마이크로RNA 분자 센싱 조기 진단 기술`
+- [고유수용성 인공 전자피부 및 로봇 의수 인터페이스 기술의 언어](./advanced-proprioceptive-electronic-skin-prosthetics/README.md) — `다축 응력-변형률 감지 및 인공 시냅스 연계 온칩 스파이킹 신경망 기반 로봇 의수 고유감각 피드백 전자피부 기술`
+- [압전 골조직 재생 지지체 및 줄기세포 분화 촉진 기술의 언어](./advanced-piezo-bone-tissue-regeneration-scaffolds/README.md) — `초음파 기계전기 신호 변환 및 다공성 나노섬유 지지체 기반 줄기세포 조골세포 분화 유도 무선 골조직 재생 의공학 기술`
+- [상어 비늘 리블렛 미세구조 유체 저항 저감 표면 기술의 언어](./advanced-shark-skin-riblet-drag-reduction-surfaces/README.md) — `생체모사 난류 경계층 와류 제어 리블렛 박막 및 롤투롤 나노임프린팅 기반 점성 마찰 항력 저감 친환경 계면 공학 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
