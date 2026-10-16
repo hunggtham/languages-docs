@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,320 new targets across 288 independent topic batches; 9,320 structured headings toward the 10,000 target, leaving 680 after this checkpoint.
+- Progress in this checkpoint: 4,410 new targets across 294 independent topic batches; 9,410 structured headings toward the 10,000 target, leaving 590 after this checkpoint.
+
+- Topic: `advanced-metasurface-vortex-beam-generators-and-oam-multiplexing`
+- File: `01-metasurface-vortex-beam-generators-and-oam-multiplexing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface vortex beam generators and OAM multiplexing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-lactate-and-glucose-biofuel-cells`
+- File: `01-wearable-sweat-lactate-and-glucose-biofuel-cells.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat lactate and glucose biofuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-auditory-frontends-and-cochlea-chips`
+- File: `01-neuromorphic-auditory-frontends-and-cochlea-chips.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic auditory frontends and cochlea chips headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-photoelectrochemical-water-splitting`
+- File: `01-piezoelectric-photoelectrochemical-water-splitting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric photoelectrochemical water splitting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-carbon-nanotube-synaptic-transistors-and-neural-interfaces`
+- File: `01-carbon-nanotube-synaptic-transistors-and-neural-interfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon nanotube synaptic transistors and neural interfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-aerogel-thermal-superinsulation-and-spacecraft-heat-shields`
+- File: `01-aerogel-thermal-superinsulation-and-spacecraft-heat-shields.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aerogel thermal superinsulation and spacecraft heat shields headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-metamaterial-microwave-cloaking-and-radar-stealth`
 - File: `01-metamaterial-microwave-cloaking-and-radar-stealth.md`

@@ -344,6 +344,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [스마트 하이드로겔 구동기 및 생체모사 수중 로봇의 언어](./advanced-hydrogel-actuators-and-biomimetic-swimmers/README.md) — `자극응답성 이온 농도 구배 팽윤 및 광열 구동 기반 3차원 비대칭 형상 변형 수중 자율 유영 마이크로봇 기술`
 - [양자폭포 광검출기 및 중적외선 초고속 센싱의 언어](./advanced-quantum-cascade-detectors-and-thermal-sensing/README.md) — `서브밴드 간 전자 전이 및 무바이어스 계단형 양자우물 기반 암잡음 원천 배제 고온 비냉각 중적외선 분광 검출 기술`
 - [바이오 전자 혀 및 인공 미각 수용체 센서의 언어](./advanced-bioelectronic-electronic-tongues-and-taste-sensors/README.md) — `지질막 모사 및 단백질 수용체 고정화 전극 기반 오미 다채널 실시간 분석 초소형 미세유체 바이오 전자 혀 기술`
+- [메타표면 보텍스 빔 생성기와 궤도각운동량 다중화 기술의 언어](./advanced-metasurface-vortex-beam-generators-and-oam-multiplexing/README.md) — `위상 특이점 나노안테나 및 광학 파면 위상 변조 기반 궤도각운동량 보텍스 빔 생성 및 자유공간 광통신 공간 다중화 기술`
+- [웨어러블 땀 구동 젖산 및 포도당 생체연료전지 공학의 언어](./advanced-wearable-sweat-lactate-and-glucose-biofuel-cells/README.md) — `효소 고정화 3차원 전도성 지지체 및 미세유체 땀 채취 패치 기반 젖산·포도당 동시 발전 무전원 웨어러블 헬스케어 기술`
+- [뉴로모픽 청각 프런트엔드와 달팽이관 칩의 언어](./advanced-neuromorphic-auditory-frontends-and-cochlea-chips/README.md) — `생체 기저막 주파수 공간 분할 및 비동기 스파이킹 청각 신경 모사 기반 초저전력 잡음 강인 음성 인코딩 기술`
+- [압전광전기화학 복합 수전해 기술의 언어](./advanced-piezoelectric-photoelectrochemical-water-splitting/README.md) — `초음파 유도 압전 분극 및 광촉매 나노선 이종접합 기반 전자-정공 재결합 억제 친환경 무탄소 그린 수소 생산 기술`
+- [탄소 나노튜브 시냅스 트랜지스터와 신경 인터페이스의 언어](./advanced-carbon-nanotube-synaptic-transistors-and-neural-interfaces/README.md) — `생체 신경세포 직접 전기접합 및 다중게이트 이온젤 기반 초저전력 인공 시냅스 가소성 제어 생체전자 인터페이스 기술`
+- [나노다공성 에어로겔 초단열 및 우주선 열차폐 기술의 언어](./advanced-aerogel-thermal-superinsulation-and-spacecraft-heat-shields/README.md) — `크누센 효과 가스 열전도 차단 및 세라믹 섬유 보강 에어로겔 블랭킷 기반 대기권 재진입 우주선 초고온 열차폐 복합재 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
