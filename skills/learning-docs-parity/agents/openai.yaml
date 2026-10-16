@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Docs Parity"
+  short_description: "Detect and clone learning-docs feature changes"
+  default_prompt: "Use $learning-docs-parity to detect changes in learning-docs and clone relevant behavior safely into this repository."
