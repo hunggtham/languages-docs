@@ -55,6 +55,7 @@
 - [B2 Vocabulary 10 — Intercultural negotiation, high-context communication, and consensus-building protocols](communication/10-intercultural-negotiation-high-context-pragmatics-and-consensus-building.md)
 - [B2 Vocabulary 11 — Crisis public relations, corporate apology framing, and reputational restoration](communication/11-crisis-public-relations-apology-framing-and-reputational-repair.md)
 - [B2 Vocabulary 12 — Cross-cultural diplomatic protocol, high-context nonverbal pragmatics, and statecraft etiquette](communication/12-cross-cultural-diplomacy-nonverbal-cues-and-protocol-etiquette.md)
+- [B2 Vocabulary 13 — Crisis media relations, press conference protocols, and reputation repair](communication/13-crisis-media-relations-press-conferences-and-reputation-repair.md)
 
 ## decisions
 
@@ -71,6 +72,7 @@
 - [B2 Vocabulary 08 — Project pre-mortem analysis, prospective hindsight, and operational risk mitigation](decisions/08-pre-mortem-analysis-prospective-hindsight-and-project-de-risking.md)
 - [B2 Vocabulary 09 — Strategic game theory, Nash equilibrium bargaining, and credible commitment devices](decisions/09-game-theoretic-bargaining-nash-equilibria-and-credible-commitments.md)
 - [B2 Vocabulary 10 — Intuitive Bayesian updating, prior probability calibration, and empirical evidence integration](decisions/10-bayesian-updating-prior-probabilities-and-evidence-incorporation.md)
+- [B2 Vocabulary 11 — Strategic foresight, scenario planning, and horizon scanning](decisions/11-strategic-foresight-scenario-planning-and-horizon-scanning.md)
 
 ## economics
 
@@ -185,6 +187,7 @@
 - [B2 Vocabulary 05 — Cold War proxy conflicts, the Non-Aligned Movement, and global decolonization](history/05-cold-war-proxy-conflicts-non-aligned-movement-and-decolonization.md)
 - [B2 Vocabulary 06 — Post-colonial nation-building, constitutional drafting, and institutional statecraft](history/06-post-colonial-nation-building-and-constitutional-drafting.md)
 - [B2 Vocabulary 07 — Historical archival preservation, document paleography, and physical primary source conservation](history/07-archival-preservation-paleography-and-primary-source-conservation.md)
+- [B2 Vocabulary 08 — Diplomatic treaty negotiation, territorial boundary disputes, and post-war reconstruction](history/08-diplomatic-treaty-negotiation-territorial-disputes-and-post-war-reconstruction.md)
 
 ## law
 
@@ -219,6 +222,7 @@
 - [B2 Vocabulary 10 — Disinformation verification, deepfake detection, and cryptographic digital provenance](media/10-disinformation-verification-deepfakes-and-algorithmic-provenance.md)
 - [B2 Vocabulary 11 — Broadcast journalism ethics, source attribution standards, and editorial independence](media/11-broadcast-journalism-ethics-on-the-record-and-editorial-independence.md)
 - [B2 Vocabulary 12 — Investigative journalism, whistleblower confidentiality, and reporter shield laws](media/12-investigative-journalism-whistleblower-confidentiality-and-shield-laws.md)
+- [B2 Vocabulary 13 — Media monopolies, antitrust regulation, and algorithmic feed curation](media/13-media-monopolies-antitrust-regulation-and-algorithmic-feed-curation.md)
 
 ## politics
 
@@ -232,6 +236,7 @@
 - [B2 Vocabulary 08 — Electoral integrity, legislative redistricting, and universal voter enfranchisement](politics/08-electoral-integrity-gerrymandering-and-voter-enfranchisement.md)
 - [B2 Vocabulary 09 — Campaign finance regulation, political action committees (PACs), and lobbying disclosure mandates](politics/09-campaign-finance-pac-donations-and-lobbying-disclosures.md)
 - [B2 Vocabulary 10 — Electoral systems, proportional representation, and coalition governance](politics/10-electoral-systems-proportional-representation-and-coalition-governance.md)
+- [B2 Vocabulary 11 — Geopolitical sanctions, trade embargoes, and sovereign immunity](politics/11-geopolitical-sanctions-trade-embargoes-and-sovereign-immunity.md)
 
 ## psychology
 
@@ -245,6 +250,7 @@
 - [B2 Vocabulary 08 — Cognitive behavioral therapy principles, maladaptive cognitive distortions, and behavioral activation](psychology/08-cognitive-behavioral-therapy-cognitive-distortions-and-behavioral-activation.md)
 - [B2 Vocabulary 09 — Neuroplasticity mechanisms, cognitive rehabilitation, and experience-dependent synaptic pruning](psychology/09-neuroplasticity-cognitive-rehabilitation-and-synaptic-pruning.md)
 - [B2 Vocabulary 10 — Behavioral economics principles, choice architecture, and benevolent policy nudges](psychology/10-behavioral-economics-nudging-and-choice-architecture.md)
+- [B2 Vocabulary 11 — Neuroplasticity, cognitive reserve, and mnemonic training](psychology/11-neuroplasticity-cognitive-reserve-and-mnemonic-training.md)
 
 ## research
 
@@ -260,6 +266,7 @@
 - [B2 Vocabulary 09 — Qualitative coding methodology, reflexive thematic analysis, and theoretical saturation](research/09-qualitative-coding-thematic-analysis-and-grounded-theory-saturation.md)
 - [B2 Vocabulary 10 — Longitudinal cohort methodology, attrition bias mitigation, and panel conditioning effects](research/10-longitudinal-cohorts-attrition-bias-and-panel-conditioning.md)
 - [B2 Vocabulary 11 — Mixed methods research design, qualitative-quantitative triangulation, and data convergence](research/11-mixed-methods-triangulation-and-convergent-study-designs.md)
+- [B2 Vocabulary 12 — Meta-analysis, publication bias, and systematic review synthesis](research/12-meta-analysis-publication-bias-and-systematic-reviews.md)
 
 ## risk
 
@@ -378,3 +385,4 @@
 - [B2 Vocabulary 07 — Psychological safety in teams, radical candor communication, and blameless incident reviews](work/07-psychological-safety-candor-culture-and-blameless-post-mortems.md)
 - [B2 Vocabulary 08 — Hybrid workforce architectures, asynchronous communication, and proximity bias mitigation](work/08-hybrid-workforce-asynchronous-coordination-and-proximity-bias.md)
 - [B2 Vocabulary 09 — Employee stock ownership plans (ESOPs), vesting schedules, and startup equity compensation](work/09-employee-stock-ownership-vesting-schedules-and-equity-incentives.md)
+- [B2 Vocabulary 10 — Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md)

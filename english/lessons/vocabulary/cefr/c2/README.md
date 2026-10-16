@@ -14,6 +14,7 @@
 - [C2 Vocabulary 10 — Epistemic rule-circularity, self-vindicating cognitive faculties, and non-doxastic foundational justification](argument/10-epistemic-circularity-rule-circularity-and-doxastic-justification.md)
 - [C2 Vocabulary 11 — Defeasible reasoning, non-monotonic logic, and epistemic undercutters](argument/11-defeasible-reasoning-non-monotonic-logic-and-epistemic-undercutters.md)
 - [C2 Vocabulary 12 — Epistemic contextualism, semantic ascent, and invariantist skepticism](argument/12-epistemic-contextualism-semantic-ascent-and-invariantist-skepticism.md)
+- [C2 Vocabulary 13 — Transversal rationality, communicative action validity claims, and hermeneutic reconstruction](argument/13-transversal-rationality-communicative-action-and-hermeneutic-reconstruction.md)
 
 ## biomedicine
 
@@ -99,6 +100,8 @@
 - [C2 Vocabulary 80 — Presynaptic SNARE pin-zippering, synaptotagmin-1 calcium sensor triggering, and vesicle kiss-and-run recycling](biomedicine/80-synaptic-vesicle-exocytosis-snare-complex-and-synaptotagmin-calcium-sensing.md)
 - [C2 Vocabulary 81 — Spatial transcriptomics, in situ sequencing, and cellular niche profiling](biomedicine/81-spatial-transcriptomics-in-situ-sequencing-and-cellular-niche-profiling.md)
 - [C2 Vocabulary 82 — Optogenetic neural silencing, halorhodopsin chloride pumps, and behavioral circuit dissection](biomedicine/82-optogenetic-neural-silencing-halorhodopsin-and-behavioral-circuit-dissection.md)
+- [C2 Vocabulary 83 — Liquid biopsy cell-free DNA methylation, tissue-of-origin deconvolution, and early oncogenesis detection](biomedicine/83-liquid-biopsy-cell-free-dna-methylation-and-tissue-of-origin-deconvolution.md)
+- [C2 Vocabulary 84 — Targeted covalent inhibitors, cysteinyl kinetic selectivity, and allosteric proteasomal glues](biomedicine/84-targeted-covalent-inhibitors-cysteinyl-kinetic-selectivity-and-proteasomal-glues.md)
 
 ## computing
 
@@ -306,6 +309,8 @@
 - [C2 Vocabulary 202 — Static abstract interpretation, Galois connection adjunctions, and widening operator fixpoint acceleration](computing/202-abstract-interpretation-galois-connections-and-widening-operators.md)
 - [C2 Vocabulary 203 — Zero-knowledge succinct arguments (zk-SNARKs), arithmetic circuits, and polynomial commitments](computing/203-zero-knowledge-succinct-arguments-arithmetic-circuits-and-polynomial-commitments.md)
 - [C2 Vocabulary 204 — Concurrency separation logic, concurrent abstract predicates, and linearizability proofs](computing/204-concurrency-separation-logic-concurrent-abstract-predicates-and-linearizability.md)
+- [C2 Vocabulary 205 — Quantum error-correcting surface codes, stabilizer measurements, and fault-tolerant logical qubits](computing/205-quantum-error-correcting-surface-codes-and-fault-tolerant-logical-qubits.md)
+- [C2 Vocabulary 206 — Homomorphic encryption bootstrapping, Ring-LWE cryptography, and private computation circuits](computing/206-homomorphic-encryption-bootstrapping-rlwe-and-private-computation-circuits.md)
 
 ## governance
 
@@ -321,6 +326,7 @@
 - [C2 Vocabulary 10 — Adversarial legalism, administrative rulemaking ossification, and the judicialization of public policy](governance/10-adversarial-legalism-regulatory-ossification-and-judicialized-governance.md)
 - [C2 Vocabulary 11 — Polycentric governance, common-pool resources, and institutional crafting](governance/11-polycentric-governance-common-pool-resources-and-institutional-crafting.md)
 - [C2 Vocabulary 12 — Transnational regulatory networks, soft law harmonization, and peer surveillance](governance/12-transnational-regulatory-networks-soft-law-and-peer-surveillance.md)
+- [C2 Vocabulary 13 — Extraterritorial regulatory overreach, secondary sanctions, and sovereign jurisdictional friction](governance/13-extraterritorial-regulatory-overreach-secondary-sanctions-and-sovereignty.md)
 
 ## rhetoric
 
@@ -467,6 +473,7 @@
 - [C2 Vocabulary 99 — Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md)
 - [C2 Vocabulary 142 — Passionate epizeuxis iteration, strategic diacopic repetition, and affective semantic amplification](rhetoric/142-epizeuxis-diacope-and-affective-lexical-iteration-in-dramatic-polemics.md)
 - [C2 Vocabulary 143 — Polyptoton, paregmenon, and inflectional root iteration in polemical prose](rhetoric/143-polyptoton-paregmenon-and-inflectional-root-iteration-in-polemical-prose.md)
+- [C2 Vocabulary 144 — Antiphrasis, ironical catachresis, and rhetorical dissimulation in satirical polemics](rhetoric/144-antiphrasis-ironical-catachresis-and-satirical-dissimulation.md)
 
 ## semiconductors
 
@@ -677,3 +684,4 @@
 - [C2 Vocabulary — NVMe I/O control and recovery observability](semiconductors/99-nvme-io-control-and-recovery-observability.md)
 - [C2 Vocabulary 206 — Atomic layer etching (ALE), self-limiting surface modification reactions, and sub-nanometer directional removal](semiconductors/206-atomic-layer-etching-self-limiting-surface-reactions-and-monolayer-precision.md)
 - [C2 Vocabulary 207 — High-mobility 2D semiconductors, contact resistance reduction, and Fermi-level depinning](semiconductors/207-high-mobility-two-dimensional-semiconductors-contact-resistance-and-fermi-level-depinning.md)
+- [C2 Vocabulary 208 — Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md)
