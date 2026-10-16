@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** dịch tễ học.
 
-**뉘앙스와 사용법:** 개인의 진료보다 인구 집단의 패턴과 위험 요인을 본다. `역학 조사`는 감염 경로와 접촉자를 추적하는 실무를 가리킨다.
+**뉘앙스와 사용법:** Xem xét mô hình dân số và các yếu tố rủi ro thay vì chăm sóc cá nhân. 'Điều tra dịch tễ học' đề cập đến việc thực hành truy tìm các con đường lây nhiễm và những người tiếp xúc.
 
-**재사용 가능한 콜로케이션·청크:** `역학 조사`, `역학적 특성`, `역학 자료`.
+**재사용 가능한 콜로케이션·청크:** `역학 조사`, `역학적 특성`, `역학 자료`. — `Nghiên cứu dịch tễ học`, `Đặc điểm dịch tễ học`, `Dữ liệu dịch tễ học`.
 
-**자주 쓰는 문형과 성분:** `역학적으로 분석하다`; 감염병·발생률·위험 요인과 결합한다.
+**자주 쓰는 문형과 성분:** `역학적으로 분석하다`, `phân tích dịch tễ học` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의학·보건 정책·뉴스의 전문어이며 일상에서는 `유행 경로 조사`로 풀어 말한다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho y học, chính sách y tế và tin tức. Trong đời sống thường ngày, nó được dịch là ‘điều tra đường dịch’.
 
 **예문:** 역학 조사 결과, 초기 환자들은 같은 실내 행사에 참석한 것으로 확인됐다.
 
-**어휘 연결:** `임상`이 환자 개인의 진단과 치료라면 `역학`은 집단 수준의 발생과 확산을 분석한다.
+**Dịch:** Kết quả điều tra dịch tễ học đã xác nhận rằng các bệnh nhân ban đầu đã tham dự cùng một sự kiện trong nhà.
 
-**영어 참고:** *epidemiology* — 질병의 분포와 원인을 인구 집단 차원에서 연구한다.
+**어휘 연결:** `임상`이 환자 개인의 진단과 치료라면 `역학`은 집단 수준의 발생과 확산을 분석한다. — Nếu 'lâm sàng' đề cập đến chẩn đoán và điều trị cho từng bệnh nhân, thì 'dịch tễ học' sẽ phân tích sự xuất hiện và lây lan ở cấp độ quần thể.
+
+**영어 참고:** *epidemiology* — Nghiên cứu sự phân bố và nguyên nhân gây bệnh ở cấp độ dân số.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tỷ lệ hiện mắc.
 
-**뉘앙스와 사용법:** 새로 발생한 환자만 세는 것이 아니라 기존 환자까지 포함해 질병이 얼마나 널리 존재하는지 보여 준다.
+**뉘앙스와 사용법:** Cho biết mức độ lây lan của bệnh bằng cách không chỉ đếm các trường hợp mới mà còn bao gồm cả các trường hợp hiện có.
 
-**재사용 가능한 콜로케이션·청크:** `유병률이 높다`, `유병률 조사`, `만성질환 유병률`.
+**재사용 가능한 콜로케이션·청크:** `유병률이 높다`, `유병률 조사`, `만성질환 유병률`. — `Tỷ lệ lưu hành cao`, `Khảo sát tỷ lệ lưu hành`, `Tỷ lệ lưu hành bệnh mãn tính`.
 
-**자주 쓰는 문형과 성분:** `N의 유병률이 증가하다`; 만성질환·지역·연령대와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 유병률이 증가하다`, `Mức độ phổ biến của N tăng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건 통계·연구·정책 기사에 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong các bài viết về chính sách, nghiên cứu và thống kê y tế.
 
 **예문:** 고령 인구가 많은 지역일수록 당뇨병 유병률이 높게 나타났다.
 
-**어휘 연결:** `발생률`은 새 환자가 생기는 속도이고, `유병률`은 현재 질병을 가진 사람의 전체 비율이다.
+**Dịch:** Tỷ lệ mắc bệnh tiểu đường cao hơn ở những vùng có dân số già lớn hơn.
 
-**영어 참고:** *prevalence* — 특정 시점이나 기간에 존재하는 환자의 비율이다.
+**어휘 연결:** `발생률`은 새 환자가 생기는 속도이고, `유병률`은 현재 질병을 가진 사람의 전체 비율이다. — `Tỷ lệ mắc bệnh` là tốc độ tạo ra bệnh nhân mới và `tỷ lệ lây nhiễm` là tỷ lệ chung của những người hiện đang mắc bệnh.
+
+**영어 참고:** *prevalence* — Đây là tỷ lệ bệnh nhân có mặt tại một thời điểm hoặc khoảng thời gian cụ thể.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tỷ lệ tử vong trong số người mắc bệnh.
 
-**뉘앙스와 사용법:** 감염이 얼마나 잘 되는지보다 감염 후 사망 위험이 얼마나 큰지를 보여 준다. 환자 발견 방식과 의료 접근성에 따라 수치가 달라질 수 있다.
+**뉘앙스와 사용법:** Nó cho thấy nguy cơ tử vong sau khi nhiễm bệnh cao đến mức nào hơn là mức độ dễ bị nhiễm bệnh. Con số có thể thay đổi tùy thuộc vào cách bệnh nhân được phát hiện và tiếp cận dịch vụ chăm sóc y tế.
 
-**재사용 가능한 콜로케이션·청크:** `치명률이 높다`, `치명률을 낮추다`, `연령별 치명률`.
+**재사용 가능한 콜로케이션·청크:** `치명률이 높다`, `치명률을 낮추다`, `연령별 치명률`. — `Tỷ lệ tử vong cao`, `Tỷ lệ tử vong thấp hơn`, `Tỷ lệ tử vong theo độ tuổi`.
 
-**자주 쓰는 문형과 성분:** `질환의 치명률을 추정하다`; 감염병·연령·기저질환과 결합한다.
+**자주 쓰는 문형과 성분:** `질환의 치명률을 추정하다`, `Ước tính tỷ lệ tử vong của bệnh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의학·재난·보건 뉴스의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ cho tin tức y tế, thiên tai và sức khỏe.
 
 **예문:** 고령층에서는 같은 감염이라도 치명률이 더 높게 나타났다.
 
-**어휘 연결:** `사망률`은 전체 인구의 사망 비율일 수 있고, `치명률`은 특정 질병에 걸린 사람 중 사망 비율이다.
+**Dịch:** Ở người cao tuổi, tỷ lệ tử vong cao hơn ngay cả với cùng một bệnh nhiễm trùng.
 
-**영어 참고:** *case fatality rate* — 확진 또는 감염 사례 중 사망한 비율이다.
+**어휘 연결:** `사망률`은 전체 인구의 사망 비율일 수 있고, `치명률`은 특정 질병에 걸린 사람 중 사망 비율이다. — 'Tỷ lệ tử vong' có thể là tỷ lệ tử vong trong toàn bộ dân số và 'tỷ lệ tử vong' có thể là tỷ lệ tử vong ở những người mắc một căn bệnh cụ thể.
+
+**영어 참고:** *case fatality rate* — Tỷ lệ tử vong trong số các trường hợp được xác nhận hoặc bị nhiễm bệnh.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** bệnh nền.
 
-**뉘앙스와 사용법:** 감염이나 치료 결과에 영향을 주는 배경 건강 상태를 말한다. 고혈압·당뇨·심혈관 질환 등이 예로 제시된다.
+**뉘앙스와 사용법:** Đề cập đến tình trạng sức khỏe nền ảnh hưởng đến kết quả nhiễm trùng hoặc điều trị. Ví dụ bao gồm huyết áp cao, tiểu đường và bệnh tim mạch.
 
-**재사용 가능한 콜로케이션·청크:** `기저질환이 있다`, `기저질환자`, `기저질환을 관리하다`.
+**재사용 가능한 콜로케이션·청크:** `기저질환이 있다`, `기저질환자`, `기저질환을 관리하다`. — 'Mắc bệnh tiềm ẩn', 'Người mắc bệnh tiềm ẩn', 'Quản lý bệnh tiềm ẩn'.
 
-**자주 쓰는 문형과 성분:** `N이 기저질환을 앓다`; 감염 위험·중증도·사망과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 기저질환을 앓다`, `N mắc một căn bệnh tiềm ẩn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료 상담·재난 보도·공중보건 안내에서 널리 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong tư vấn y tế, báo cáo thảm họa và hướng dẫn sức khỏe cộng đồng.
 
 **예문:** 기저질환이 있는 환자는 증상이 가벼워도 전문의의 관찰이 필요하다.
 
-**어휘 연결:** `지병`은 일상적인 표현이고, `기저질환`은 현재 질환의 경과에 영향을 주는 기존 상태라는 의학적 맥락이 강하다.
+**Dịch:** Bệnh nhân mắc các bệnh tiềm ẩn cần được bác sĩ chuyên khoa theo dõi ngay cả khi các triệu chứng của họ ở mức độ nhẹ.
 
-**영어 참고:** *underlying condition*, *comorbidity* — 현재 질환과 함께 위험을 높일 수 있는 기존 질환이다.
+**어휘 연결:** `지병`은 일상적인 표현이고, `기저질환`은 현재 질환의 경과에 영향을 주는 기존 상태라는 의학적 맥락이 강하다. — Có một bối cảnh y tế rõ ràng trong đó 'bệnh mãn tính' là biểu hiện hàng ngày và 'bệnh tiềm ẩn' là tình trạng tồn tại từ trước ảnh hưởng đến diễn biến của bệnh hiện tại.
+
+**영어 참고:** *underlying condition*, *comorbidity* — Các điều kiện tồn tại từ trước có thể làm tăng rủi ro cùng với các điều kiện hiện tại.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** khám chữa bệnh từ xa.
 
-**뉘앙스와 사용법:** 감염병 이후 한국의 제도·안전·접근성 논쟁에서 현재 활발히 쓰이는 표현이다. 편의성뿐 아니라 오진·약물 관리·의료 격차를 함께 논의한다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt hiện đang được sử dụng tích cực trong cuộc tranh luận về hệ thống, sự an toàn và khả năng tiếp cận của Hàn Quốc sau dịch bệnh truyền nhiễm. Ngoài sự thuận tiện, chúng tôi còn thảo luận về chẩn đoán sai, quản lý thuốc và sự khác biệt về y tế.
 
-**재사용 가능한 콜로케이션·청크:** `비대면 진료를 허용하다`, `비대면 진료 플랫폼`, `비대면 진료의 안전성`.
+**재사용 가능한 콜로케이션·청크:** `비대면 진료를 허용하다`, `비대면 진료 플랫폼`, `비대면 진료의 안전성`. — 'Cho phép điều trị không trực tiếp', 'Nền tảng điều trị không trực tiếp', 'An toàn khi điều trị không trực tiếp'.
 
-**자주 쓰는 문형과 성분:** `환자가 비대면 진료를 이용하다`; 앱·처방·재진·의료 접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `환자가 비대면 진료를 이용하다`, `Bệnh nhân sử dụng phương pháp điều trị không trực tiếp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책 기사·병원 안내·일상 경험담에서 현재 사용되는 contemporary 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt hiện đại hiện đang được sử dụng trong các bài viết về chính sách, thông tin bệnh viện và trải nghiệm hàng ngày.
 
 **예문:** 정부는 재진 환자부터 비대면 진료를 확대하는 방안을 검토했다.
 
-**어휘 연결:** `원격의료`는 기술·제도 전체를 가리키는 넓은 말이고, `비대면 진료`는 실제 진료 행위와 이용 경험에 초점이 있다.
+**Dịch:** Chính phủ đã xem xét các kế hoạch mở rộng điều trị không trực tiếp, bắt đầu từ việc bệnh nhân quay trở lại.
 
-**영어 참고:** *telemedicine*, *remote consultation* — 직접 방문 없이 의료 상담과 처방을 제공한다.
+**어휘 연결:** `원격의료`는 기술·제도 전체를 가리키는 넓은 말이고, `비대면 진료`는 실제 진료 행위와 이용 경험에 초점이 있다. — 'Y học từ xa' là một thuật ngữ rộng đề cập đến toàn bộ công nghệ và hệ thống, trong khi 'điều trị không trực tiếp' tập trung vào điều trị y tế thực tế và trải nghiệm của người dùng.
+
+**영어 참고:** *telemedicine*, *remote consultation* — Cung cấp tư vấn y tế và đơn thuốc mà không cần đến gặp trực tiếp.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** miễn dịch cộng đồng.
 
-**뉘앙스와 사용법:** 개인의 면역이 아니라 집단 전체의 전파 가능성이 낮아지는 효과를 말한다. 병원체와 백신의 특성에 따라 필요한 면역 수준이 달라진다.
+**뉘앙스와 사용법:** Điều này đề cập đến tác động làm giảm khả năng lây truyền cho toàn bộ nhóm chứ không phải khả năng miễn dịch của từng cá nhân. Mức độ miễn dịch cần thiết khác nhau tùy thuộc vào đặc điểm của mầm bệnh và vắc xin.
 
-**재사용 가능한 콜로케이션·청크:** `집단면역이 형성되다`, `집단면역 효과`, `집단면역에 도달하다`.
+**재사용 가능한 콜로케이션·청크:** `집단면역이 형성되다`, `집단면역 효과`, `집단면역에 도달하다`. — 'Khả năng miễn dịch bầy đàn được hình thành', 'Hiệu ứng miễn dịch bầy đàn', 'Đạt được khả năng miễn dịch bầy đàn'.
 
-**자주 쓰는 문형과 성분:** `인구의 일정 비율이 집단면역을 형성하다`; 백신·감염·전파와 결합한다.
+**자주 쓰는 문형과 성분:** `인구의 일정 비율이 집단면역을 형성하다`, `Một tỷ lệ phần trăm dân số nhất định hình thành khả năng miễn dịch bầy đàn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 감염병·백신·보건 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ các bệnh truyền nhiễm, vắc xin và chính sách y tế.
 
 **예문:** 접종률이 높아지면 취약한 사람도 집단면역의 간접적인 보호를 받을 수 있다.
 
-**어휘 연결:** `면역력`은 개인의 방어 능력이고, `집단면역`은 인구 수준에서 전파가 제한되는 현상이다.
+**Dịch:** Khi tỷ lệ tiêm chủng tăng lên, ngay cả những người dễ bị tổn thương cũng có thể nhận được sự bảo vệ gián tiếp từ khả năng miễn dịch của đàn.
 
-**영어 참고:** *herd immunity*, *population immunity* — 충분한 면역 보유자가 전파를 줄이는 상태다.
+**어휘 연결:** `면역력`은 개인의 방어 능력이고, `집단면역`은 인구 수준에서 전파가 제한되는 현상이다. — 'Miễn dịch' là khả năng phòng vệ của một cá nhân và 'miễn dịch bầy đàn' là một hiện tượng trong đó sự lây truyền bị hạn chế ở cấp độ quần thể.
+
+**영어 참고:** *herd immunity*, *population immunity* — Trạng thái trong đó những trạng thái có đủ khả năng miễn dịch sẽ giảm khả năng lây truyền.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** thử nghiệm lâm sàng.
 
-**뉘앙스와 사용법:** 연구실 실험 이후 사람에게 적용하기 전 단계이며, 단계별 대상과 평가 기준이 엄격하게 정해진다.
+**뉘앙스와 사용법:** Đây là giai đoạn sau các thí nghiệm trong phòng thí nghiệm và trước khi áp dụng vào con người, được xác định nghiêm ngặt các mục tiêu, tiêu chuẩn đánh giá cho từng giai đoạn.
 
-**재사용 가능한 콜로케이션·청크:** `임상시험을 진행하다`, `임상시험 3상`, `임상시험 참가자`.
+**재사용 가능한 콜로케이션·청크:** `임상시험을 진행하다`, `임상시험 3상`, `임상시험 참가자`. — `Tiến hành thử nghiệm lâm sàng`, `Thử nghiệm lâm sàng giai đoạn 3`, `Người tham gia thử nghiệm lâm sàng`.
 
-**자주 쓰는 문형과 성분:** `신약이 임상시험에 들어가다`; 안전성·효과·승인과 결합한다.
+**자주 쓰는 문형과 성분:** `신약이 임상시험에 들어가다`, `Thuốc mới bước vào thử nghiệm lâm sàng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의학·제약·규제 보도의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ dành cho báo cáo y tế, dược phẩm và quy định.
 
 **예문:** 신약은 대규모 임상시험에서 중대한 부작용이 없는지 확인해야 한다.
 
-**어휘 연결:** `실험`은 넓은 일반어이고, `임상시험`은 사람을 대상으로 사전 승인과 윤리 기준 아래 진행하는 연구다.
+**Dịch:** Thuốc mới phải được xác nhận trong các thử nghiệm lâm sàng quy mô lớn để đảm bảo rằng không có tác dụng phụ nghiêm trọng.
 
-**영어 참고:** *clinical trial* — 환자나 지원자를 대상으로 치료의 안전성과 효과를 검증한다.
+**어휘 연결:** `실험`은 넓은 일반어이고, `임상시험`은 사람을 대상으로 사전 승인과 윤리 기준 아래 진행하는 연구다. — 'Thử nghiệm' là một thuật ngữ chung có nghĩa rộng và 'thử nghiệm lâm sàng' là nghiên cứu được tiến hành trên người theo các tiêu chuẩn đạo đức và phê duyệt trước.
+
+**영어 참고:** *clinical trial* — Xác minh tính an toàn và hiệu quả của việc điều trị đối với bệnh nhân hoặc tình nguyện viên.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** thử nghiệm đối chứng ngẫu nhiên.
 
-**뉘앙스와 사용법:** 다른 요인의 영향을 줄여 치료 자체의 효과를 추정하려는 강한 근거 설계다. 의학 기사에서 연구 결과의 신뢰도를 설명할 때 중요하다.
+**뉘앙스와 사용법:** Thiết kế bằng chứng mạnh mẽ cố gắng ước tính hiệu quả của chính biện pháp xử lý bằng cách giảm ảnh hưởng của các yếu tố khác. Điều này rất quan trọng khi giải thích độ tin cậy của kết quả nghiên cứu trong các bài báo y khoa.
 
-**재사용 가능한 콜로케이션·청크:** `무작위 대조시험 결과`, `무작위 대조시험을 실시하다`, `대조군을 두다`.
+**재사용 가능한 콜로케이션·청크:** `무작위 대조시험 결과`, `무작위 대조시험을 실시하다`, `대조군을 두다`. — `Kết quả kiểm tra được kiểm soát ngẫu nhiên`, `Tiến hành kiểm tra được kiểm soát ngẫu nhiên`, `Thành lập nhóm kiểm soát`.
 
-**자주 쓰는 문형과 성분:** `연구진이 N을 무작위 대조시험으로 검증하다`; 신약·백신·치료법과 결합한다.
+**자주 쓰는 문형과 성분:** `연구진이 N을 무작위 대조시험으로 검증하다`, `Các nhà nghiên cứu xác minh N thông qua thử nghiệm ngẫu nhiên có kiểm soát` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의학 연구·규제 기관·과학 보도의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ dành cho nghiên cứu y học, cơ quan quản lý và báo cáo khoa học.
 
 **예문:** 연구진은 새 치료법의 효과를 무작위 대조시험으로 비교했다.
 
-**어휘 연결:** `관찰 연구`는 자연스럽게 일어난 차이를 분석하고, `무작위 대조시험`은 연구자가 집단을 나눠 인과 효과를 더 엄격히 추정한다.
+**Dịch:** Các nhà nghiên cứu so sánh hiệu quả của các phương pháp điều trị mới trong các thử nghiệm đối chứng ngẫu nhiên.
 
-**영어 참고:** *randomized controlled trial* — 무작위 배정과 대조군을 사용하는 임상 연구다.
+**어휘 연결:** `관찰 연구`는 자연스럽게 일어난 차이를 분석하고, `무작위 대조시험`은 연구자가 집단을 나눠 인과 효과를 더 엄격히 추정한다. — Trong 'nghiên cứu quan sát', những khác biệt xảy ra một cách tự nhiên sẽ được phân tích và trong 'thử nghiệm đối chứng ngẫu nhiên', các nhà nghiên cứu chia các nhóm thành các nhóm và ước tính tác động nhân quả chặt chẽ hơn.
+
+**영어 참고:** *randomized controlled trial* — Một nghiên cứu lâm sàng sử dụng phân công ngẫu nhiên và nhóm đối chứng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** y học dựa trên bằng chứng.
 
-**뉘앙스와 사용법:** 논문만 기계적으로 따르는 것이 아니라 신뢰할 수 있는 근거를 환자별 상황에 맞게 해석한다는 의미다.
+**뉘앙스와 사용법:** Điều này có nghĩa là không chỉ theo dõi các giấy tờ một cách máy móc mà còn diễn giải các bằng chứng đáng tin cậy để phù hợp với hoàn cảnh của từng bệnh nhân.
 
-**재사용 가능한 콜로케이션·청크:** `근거중심의학의 원칙`, `근거중심의학을 적용하다`, `근거 수준`.
+**재사용 가능한 콜로케이션·청크:** `근거중심의학의 원칙`, `근거중심의학을 적용하다`, `근거 수준`. — ‘Các nguyên tắc của y học dựa trên bằng chứng’, ‘Áp dụng y học dựa trên bằng chứng’, ‘Mức độ bằng chứng’.
 
-**자주 쓰는 문형과 성분:** `근거중심의학에 따라 치료를 선택하다`; 임상 지침·의사결정·연구와 결합한다.
+**자주 쓰는 문형과 성분:** `근거중심의학에 따라 치료를 선택하다`, `Chọn phương pháp điều trị theo y học dựa trên bằng chứng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의학 교육·병원 정책·건강 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho giáo dục y tế, chính sách bệnh viện và báo cáo sức khỏe.
 
 **예문:** 병원은 근거중심의학에 따라 항생제 처방 기준을 다시 정비했다.
 
-**어휘 연결:** `경험적 치료`가 개인의 경험에 기대기 쉽다면, `근거중심의학`은 연구의 질과 환자 맥락을 함께 평가한다.
+**Dịch:** Bệnh viện đã tổ chức lại các tiêu chuẩn kê đơn thuốc kháng sinh phù hợp với y học dựa trên bằng chứng.
 
-**영어 참고:** *evidence-based medicine* — 과학적 근거와 임상 판단을 결합하는 의료 접근이다.
+**어휘 연결:** `경험적 치료`가 개인의 경험에 기대기 쉽다면, `근거중심의학`은 연구의 질과 환자 맥락을 함께 평가한다. — Trong khi 'điều trị theo kinh nghiệm' có xu hướng dựa vào kinh nghiệm cá nhân, 'y học dựa trên bằng chứng' đánh giá cả chất lượng nghiên cứu và bối cảnh bệnh nhân.
+
+**영어 참고:** *evidence-based medicine* — Một phương pháp y tế kết hợp bằng chứng khoa học và đánh giá lâm sàng.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** chênh lệch y tế, bất bình đẳng trong tiếp cận chăm sóc sức khỏe.
 
-**뉘앙스와 사용법:** 병원 수의 차이뿐 아니라 대기 시간·치료 질·건강 결과의 불평등까지 포함한다.
+**뉘앙스와 사용법:** Bao gồm không chỉ sự khác biệt về số lượng bệnh viện mà còn cả sự bất bình đẳng về thời gian chờ đợi, chất lượng chăm sóc và kết quả sức khỏe.
 
-**재사용 가능한 콜로케이션·청크:** `의료 격차를 해소하다`, `지역 의료 격차`, `의료 접근성 격차`.
+**재사용 가능한 콜로케이션·청크:** `의료 격차를 해소하다`, `지역 의료 격차`, `의료 접근성 격차`. — `Thu hẹp khoảng cách chăm sóc sức khỏe`, `Khoảng cách chăm sóc sức khỏe khu vực`, `Khoảng cách tiếp cận chăm sóc sức khỏe`.
 
-**자주 쓰는 문형과 성분:** `N에서 의료 격차가 심화되다`; 농촌·저소득층·응급의료와 결합한다.
+**자주 쓰는 문형과 성분:** `N에서 의료 격차가 심화되다`, `Sự chênh lệch về chăm sóc sức khỏe ngày càng sâu sắc ở N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·복지·정책 기사에서 쓰는 고급어다.
+**사회적 관계·주제별 register:** Đây là một từ nâng cao được sử dụng trong các bài viết về chính sách, phúc lợi và sức khỏe cộng đồng.
 
 **예문:** 응급의료 인력 부족은 수도권과 지방의 의료 격차를 키우고 있다.
 
-**어휘 연결:** `의료 접근성`은 이용할 수 있는 조건이고, `의료 격차`는 그 조건과 결과가 집단별로 벌어진 상태다.
+**Dịch:** Tình trạng thiếu nhân viên y tế cấp cứu đang làm tăng khoảng cách y tế giữa khu vực đô thị và khu vực địa phương.
 
-**영어 참고:** *health disparity*, *health inequity* — 건강 서비스와 결과의 구조적 불평등이다.
+**어휘 연결:** `의료 접근성`은 이용할 수 있는 조건이고, `의료 격차`는 그 조건과 결과가 집단별로 벌어진 상태다. — 'Tiếp cận dịch vụ chăm sóc y tế' là điều kiện có sẵn và 'khoảng cách chăm sóc y tế' là điều kiện trong đó các điều kiện và kết quả được mở rộng theo nhóm.
+
+**영어 참고:** *health disparity*, *health inequity* — Bất bình đẳng về cơ cấu trong các dịch vụ và kết quả y tế.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** y tế công cộng.
 
-**뉘앙스와 사용법:** 예방접종·감염 감시·환경 위생·건강 교육처럼 집단의 위험을 줄이는 활동을 포괄한다.
+**뉘앙스와 사용법:** Bao gồm các hoạt động làm giảm rủi ro nhóm như tiêm chủng, giám sát lây nhiễm, vệ sinh môi trường và giáo dục sức khỏe.
 
-**재사용 가능한 콜로케이션·청크:** `공중보건 위기`, `공중보건 조치`, `공중보건 전문가`.
+**재사용 가능한 콜로케이션·청크:** `공중보건 위기`, `공중보건 조치`, `공중보건 전문가`. — `Khủng hoảng sức khỏe cộng đồng`, `Các biện pháp y tế công cộng`, `Chuyên gia y tế công cộng`.
 
-**자주 쓰는 문형과 성분:** `공중보건을 강화하다`; 감염병·예방·정책·지역사회와 결합한다.
+**자주 쓰는 문형과 성분:** `공중보건을 강화하다`, `Tăng cường sức khỏe cộng đồng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정부 발표·의학·뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các thông báo, y học và tin tức của chính phủ.
 
 **예문:** 공중보건 당국은 고위험군의 예방접종을 우선순위로 정했다.
 
-**어휘 연결:** `의료`가 치료 서비스 전반이라면, `공중보건`은 질병 예방과 집단 보호에 초점이 있다.
+**Dịch:** Cơ quan y tế công cộng đã ưu tiên tiêm chủng cho các nhóm có nguy cơ cao.
 
-**영어 참고:** *public health* — 인구 집단의 건강을 예방과 정책으로 보호하는 분야다.
+**어휘 연결:** `의료`가 치료 서비스 전반이라면, `공중보건`은 질병 예방과 집단 보호에 초점이 있다. — Nếu 'chăm sóc y tế' là dịch vụ điều trị tổng thể thì 'y tế công cộng' tập trung vào phòng bệnh và bảo vệ nhóm.
+
+**영어 참고:** *public health* — Đây là lĩnh vực bảo vệ sức khỏe của người dân thông qua chính sách và phòng ngừa.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** dịch vụ y tế không được bảo hiểm chi trả.
 
-**뉘앙스와 사용법:** 보험 적용 여부와 가격 공개, 과잉 진료 논쟁에서 자주 쓰인다. 같은 치료라도 기준과 기관에 따라 급여·비급여가 달라질 수 있다.
+**뉘앙스와 사용법:** Thường được sử dụng trong các cuộc thảo luận về phạm vi bảo hiểm, tiết lộ giá và xử lý quá mức. Ngay cả đối với cùng một phương pháp điều trị, việc hoàn trả và không hoàn trả có thể khác nhau tùy thuộc vào tiêu chuẩn và tổ chức.
 
-**재사용 가능한 콜로케이션·청크:** `비급여 진료`, `비급여 항목`, `비급여 가격 공개`.
+**재사용 가능한 콜로케이션·청크:** `비급여 진료`, `비급여 항목`, `비급여 가격 공개`. — 'Chăm sóc không được bảo hiểm', 'Các mặt hàng không được bảo hiểm', 'Tiết lộ giá không được bảo hiểm'.
 
-**자주 쓰는 문형과 성분:** `N이 비급여로 분류되다`; 보험·진료비·환자 부담과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 비급여로 분류되다`, `N được phân loại là không có lợi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 병원 안내·건강보험·소비자 보도의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về thông tin bệnh viện, bảo hiểm y tế và báo cáo của người tiêu dùng.
 
 **예문:** 환자는 검사 전에 비급여 비용과 보험 적용 범위를 확인해야 한다.
 
-**어휘 연결:** `본인부담금`은 보험 적용 후 환자가 내는 일부 금액이고, `비급여`는 보험 자체가 적용되지 않는 항목이다.
+**Dịch:** Bệnh nhân nên kiểm tra các chi phí không được hoàn trả và bảo hiểm trước khi xét nghiệm.
 
-**영어 참고:** *non-covered medical service*, *out-of-pocket item* — 공적 보험의 보장 범위 밖에 있는 진료다.
+**어휘 연결:** `본인부담금`은 보험 적용 후 환자가 내는 일부 금액이고, `비급여`는 보험 자체가 적용되지 않는 항목이다. — 'Đồng thanh toán' là một phần số tiền bệnh nhân thanh toán sau khi được bảo hiểm chi trả và 'không được bảo hiểm' là một mục không được bảo hiểm chi trả.
+
+**영어 참고:** *non-covered medical service*, *out-of-pocket item* — Đây là cách xử lý nằm ngoài phạm vi bảo hiểm công cộng.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** hệ thống chuyển tuyến và phân phối dịch vụ y tế.
 
-**뉘앙스와 사용법:** 의료기관의 서열만이 아니라 1차 진료, 의뢰·회송, 응급 이송이 어떻게 연결되는지를 포함한다.
+**뉘앙스와 사용법:** Không chỉ bao gồm hệ thống phân cấp của các tổ chức y tế mà còn bao gồm cách kết nối chăm sóc ban đầu, giới thiệu/giới thiệu và vận chuyển cấp cứu.
 
-**재사용 가능한 콜로케이션·청크:** `의료전달체계를 개선하다`, `의료전달체계가 무너지다`, `1차 의료 강화`.
+**재사용 가능한 콜로케이션·청크:** `의료전달체계를 개선하다`, `의료전달체계가 무너지다`, `1차 의료 강화`. — 'Cải thiện hệ thống cung cấp y tế', 'Hệ thống cung cấp y tế đang sụp đổ', 'Tăng cường chăm sóc y tế ban đầu'.
 
-**자주 쓰는 문형과 성분:** `N의 의료전달체계를 정비하다`; 상급병원·지역의료·의뢰서와 결합한다.
+**자주 쓰는 문형과 성분:** `N의 의료전달체계를 정비하다`, `Tổ chức lại hệ thống cung cấp dịch vụ y tế của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건 정책·병원 경영·의료 기사에서 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật được sử dụng trong chính sách y tế, quản lý bệnh viện và các bài báo y tế.
 
 **예문:** 상급병원 쏠림을 줄이려면 지역 중심의 의료전달체계를 먼저 강화해야 한다.
 
-**어휘 연결:** `의료기관 분류`가 기관의 종류를 나누는 일이라면, `의료전달체계`는 환자가 기관 사이를 이동하는 흐름과 역할 분담까지 본다.
+**Dịch:** Để giảm sự tập trung ở các bệnh viện cấp 3, trước tiên phải tăng cường hệ thống cung cấp dịch vụ y tế khu vực.
 
-**영어 참고:** *healthcare delivery system*, *referral system* — 의료기관과 환자의 진료 흐름을 조직하는 체계다.
+**어휘 연결:** `의료기관 분류`가 기관의 종류를 나누는 일이라면, `의료전달체계`는 환자가 기관 사이를 이동하는 흐름과 역할 분담까지 본다. — Nếu 'phân loại cơ sở y tế' là phân chia các loại cơ sở, thì 'hệ thống cung cấp dịch vụ y tế' xem xét luồng bệnh nhân di chuyển giữa các cơ sở và phân chia vai trò.
+
+**영어 참고:** *healthcare delivery system*, *referral system* — Đây là hệ thống tổ chức luồng chăm sóc giữa các cơ sở y tế và bệnh nhân.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** phản ứng bất lợi, phản ứng phụ.
 
-**뉘앙스와 사용법:** 증상이 나타났다는 사실과 치료 때문에 발생했다는 인과관계를 구분해야 한다. 보건 당국은 신고 사례를 조사해 인과성을 평가한다.
+**뉘앙스와 사용법:** Cần phải phân biệt giữa thực tế là các triệu chứng đã xuất hiện và mối quan hệ nhân quả mà chúng xảy ra do điều trị. Cơ quan y tế điều tra các trường hợp được báo cáo và đánh giá nguyên nhân.
 
-**재사용 가능한 콜로케이션·청크:** `이상반응을 신고하다`, `중대한 이상반응`, `이상반응 감시`.
+**재사용 가능한 콜로케이션·청크:** `이상반응을 신고하다`, `중대한 이상반응`, `이상반응 감시`. — 'Báo cáo phản ứng bất lợi', 'Phản ứng bất lợi nghiêm trọng', 'Theo dõi phản ứng bất lợi'.
 
-**자주 쓰는 문형과 성분:** `N 이후 이상반응이 나타나다`; 백신·약물·임상시험·환자와 결합한다.
+**자주 쓰는 문형과 성분:** `N 이후 이상반응이 나타나다`, `Phản ứng bất lợi xảy ra sau N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의약품 안내·임상·보건 뉴스의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ về thông tin thuốc, thực hành lâm sàng và tin tức sức khỏe.
 
 **예문:** 접종 뒤 발열이 있었지만 당국은 이상반응과 백신의 인과성을 추가로 조사했다.
 
-**어휘 연결:** `부작용`은 일상적으로 해로운 결과를 강조하고, `이상반응`은 신고·감시 체계에서 관찰된 반응을 중립적으로 기록한다.
+**Dịch:** Có hiện tượng sốt sau khi tiêm vắc xin nhưng cơ quan chức năng đã điều tra sâu hơn về phản ứng bất lợi và nguyên nhân của vắc xin.
 
-**영어 참고:** *adverse event*, *adverse reaction* — 치료 뒤 나타난 원치 않는 반응을 기록하는 의학 용어다.
+**어휘 연결:** `부작용`은 일상적으로 해로운 결과를 강조하고, `이상반응`은 신고·감시 체계에서 관찰된 반응을 중립적으로 기록한다. — 'Tác dụng phụ' nhấn mạnh các kết quả có hại hàng ngày và 'Phản ứng bất lợi' ghi lại một cách trung lập các phản ứng được quan sát thấy trong hệ thống báo cáo và giám sát.
+
+**영어 참고:** *adverse event*, *adverse reaction* — Thuật ngữ y tế ghi lại các phản ứng không mong muốn xảy ra sau khi điều trị.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** truyền thông rủi ro.
 
-**뉘앙스와 사용법:** 일방적인 홍보나 공포 조장이 아니라 불확실성을 공개하고 행동 지침을 함께 조정하는 공공 커뮤니케이션을 뜻한다.
+**뉘앙스와 사용법:** Điều này đề cập đến thông tin liên lạc công khai bộc lộ sự không chắc chắn và điều phối các nguyên tắc hành động thay vì quảng bá một chiều hoặc gieo rắc nỗi sợ hãi.
 
-**재사용 가능한 콜로케이션·청크:** `위험소통 전략`, `투명한 위험소통`, `위험소통을 강화하다`.
+**재사용 가능한 콜로케이션·청크:** `위험소통 전략`, `투명한 위험소통`, `위험소통을 강화하다`. — `Chiến lược truyền thông rủi ro`, `Truyền thông rủi ro minh bạch`, `Tăng cường giao tiếp rủi ro`.
 
-**자주 쓰는 문형과 성분:** `당국이 시민과 위험소통을 하다`; 감염병·재난·백신·과학 자문과 결합한다.
+**자주 쓰는 문형과 성분:** `당국이 시민과 위험소통을 하다`, `Chính quyền thông báo rủi ro với người dân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 공중보건·재난 관리·과학 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách khoa học, quản lý thảm họa và y tế công cộng.
 
 **예문:** 과학적 불확실성을 숨기지 않는 위험소통이 오히려 시민의 신뢰를 높였다.
 
-**어휘 연결:** `홍보`는 긍정적 메시지 전달에 치우칠 수 있지만, `위험소통`은 우려·질문·불확실성을 함께 다룬다.
+**Dịch:** Truyền thông về rủi ro không che giấu sự không chắc chắn về mặt khoa học thực sự đã làm tăng niềm tin của người dân.
 
-**영어 참고:** *risk communication* — 위험 정보와 불확실성을 시민과 상호적으로 공유하는 과정이다.
+**어휘 연결:** `홍보`는 긍정적 메시지 전달에 치우칠 수 있지만, `위험소통`은 우려·질문·불확실성을 함께 다룬다. — 'Quan hệ công chúng' có thể thiên về việc truyền tải các thông điệp tích cực, nhưng 'truyền thông rủi ro' giải quyết các mối lo ngại, thắc mắc và sự không chắc chắn.
+
+**영어 참고:** *risk communication* — Đây là quá trình chia sẻ lẫn nhau thông tin rủi ro và sự không chắc chắn với người dân.
 
 <!-- passage_word_count: 104 Korean eojeol; target_set: 역학, 유병률, 치명률, 기저질환, 비대면 진료, 집단면역, 임상시험, 무작위 대조시험, 근거중심의학, 의료 격차, 공중보건, 비급여, 의료전달체계, 이상반응, 위험소통 -->
 

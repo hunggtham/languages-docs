@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** thông tin sai do nhầm lẫn.
 
-**뉘앙스와 사용법:** 고의로 속이는 허위정보와 구분해 정보 생산자의 의도와 정정 가능성을 함께 살핀다.
+**뉘앙스와 사용법:** Phân biệt với thông tin sai lệch có chủ ý lừa đảo và kiểm tra ý định của người tạo thông tin cũng như khả năng chỉnh sửa.
 
-**재사용 가능한 콜로케이션·청크:** `오정보 확산`, `오정보를 바로잡다`, `오정보 대응`.
+**재사용 가능한 콜로케이션·청크:** `오정보 확산`, `오정보를 바로잡다`, `오정보 대응`. — ‘Truyền bá thông tin sai lệch’, ‘Sửa thông tin sai lệch’, ‘Phản hồi thông tin sai lệch’.
 
-**자주 쓰는 문형과 성분:** `이용자가 오정보를 퍼뜨리다`; 사실확인·정정·플랫폼과 결합한다.
+**자주 쓰는 문형과 성분:** `이용자가 오정보를 퍼뜨리다`, `Người dùng phát tán thông tin sai` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 연구·공공정책·재난 소통의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho nghiên cứu truyền thông, chính sách công và truyền thông về thảm họa.
 
 **예문:** 재난 상황에서는 오정보가 빠르게 퍼지므로 공식 안내와 정정 절차가 동시에 필요하다.
 
-**어휘 연결:** `허위정보`는 속이려는 의도가 강조되고, `오정보`는 의도 없이 틀린 정보가 퍼지는 경우다.
+**Dịch:** Trong tình huống thảm họa, thông tin sai lệch lan truyền nhanh chóng, do đó cần có hướng dẫn chính thức và quy trình khắc phục cùng một lúc.
 
-**영어 참고:** *misinformation* — 고의 없이 만들어지거나 공유되는 잘못된 정보다.
+**어휘 연결:** `허위정보`는 속이려는 의도가 강조되고, `오정보`는 의도 없이 틀린 정보가 퍼지는 경우다. — 'Thông tin sai lệch' nhấn mạnh ý định lừa dối và 'thông tin sai lệch' là khi thông tin không chính xác được lan truyền mà không có chủ ý.
+
+**영어 참고:** *misinformation* — Đây là thông tin không chính xác được tạo hoặc chia sẻ ngoài ý muốn.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** chiến tranh thông tin.
 
-**뉘앙스와 사용법:** 군사 작전뿐 아니라 선거·외교·사회 갈등에서 계정, 언론, 영상, 유출 자료를 동원하는 행위를 포함한다.
+**뉘앙스와 사용법:** Bao gồm hành động huy động tài khoản, phương tiện truyền thông, video và tài liệu bị rò rỉ không chỉ trong các hoạt động quân sự mà còn trong bầu cử, ngoại giao và xung đột xã hội.
 
-**재사용 가능한 콜로케이션·청크:** `온라인 정보전`, `정보전 양상`, `정보전에 대응하다`.
+**재사용 가능한 콜로케이션·청크:** `온라인 정보전`, `정보전 양상`, `정보전에 대응하다`. — ‘Chiến tranh thông tin trực tuyến’, ‘Các khía cạnh của chiến tranh thông tin’, ‘Phản ứng với chiến tranh thông tin’.
 
-**자주 쓰는 문형과 성분:** `세력이 정보전을 벌이다`; 선전·여론·사이버 공격과 결합한다.
+**자주 쓰는 문형과 성분:** `세력이 정보전을 벌이다`, `Các cường quốc tiến hành chiến tranh thông tin` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 안보·외교·선거 보도의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ ưa thích để báo cáo về an ninh, ngoại giao và bầu cử.
 
 **예문:** 정보전이 거세질수록 출처와 이미지의 제작 시점을 확인하는 시민의 역량이 중요해진다.
 
-**어휘 연결:** `선전`은 특정 메시지를 퍼뜨리는 활동이고, `정보전`은 상대의 판단 체계 자체를 흔드는 경쟁을 강조한다.
+**Dịch:** Khi cuộc chiến thông tin trở nên khốc liệt hơn, khả năng xác minh nguồn và thời gian tạo hình ảnh của người dân trở nên quan trọng hơn.
 
-**영어 참고:** *information warfare* — 정보와 서사를 이용해 상대의 인식과 행동을 조정하는 경쟁이다.
+**어휘 연결:** `선전`은 특정 메시지를 퍼뜨리는 활동이고, `정보전`은 상대의 판단 체계 자체를 흔드는 경쟁을 강조한다. — 'Tuyên truyền' là hoạt động truyền bá một thông điệp cụ thể và 'chiến tranh thông tin' nhấn mạnh sự cạnh tranh làm rung chuyển chính hệ thống phán đoán của đối thủ.
+
+**영어 참고:** *information warfare* — Đây là cuộc thi sử dụng thông tin và tường thuật để điều chỉnh nhận thức và hành động của đối thủ.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** rửa nguồn tin.
 
-**뉘앙스와 사용법:** 최초 작성자를 감춘 채 블로그·커뮤니티·기사·영상으로 재유통해 검증된 사실처럼 포장하는 수법을 가리킨다.
+**뉘앙스와 사용법:** Điều này đề cập đến phương pháp phân phối lại thông tin qua blog, cộng đồng, bài viết và video trong khi ẩn tác giả gốc và đóng gói nó dưới dạng dữ kiện đã được xác minh.
 
-**재사용 가능한 콜로케이션·청크:** `출처 세탁 의혹`, `출처 세탁 경로`, `정보 출처를 세탁하다`.
+**재사용 가능한 콜로케이션·청크:** `출처 세탁 의혹`, `출처 세탁 경로`, `정보 출처를 세탁하다`. — `Nghi ngờ rửa nguồn`, `Con đường rửa nguồn`, `Nguồn thông tin rửa tiền`.
 
-**자주 쓰는 문형과 성분:** `게시물이 출처 세탁을 거치다`; 인용·재전파·팩트체크와 결합한다.
+**자주 쓰는 문형과 성분:** `게시물이 출처 세탁을 거치다`, `Bài đăng đã được rửa nguồn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 탐사보도·미디어 감시·온라인 정보 분석의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ chỉ báo cáo điều tra, giám sát phương tiện truyền thông và phân tích thông tin trực tuyến.
 
 **예문:** 출처 세탁을 막으려면 기사에 인용된 원문과 최초 게시 계정을 함께 추적해야 한다.
 
-**어휘 연결:** `오보`는 잘못된 보도 결과이고, `출처 세탁`은 정보가 신뢰를 얻도록 유통 경로를 꾸미는 방식이다.
+**Dịch:** Để ngăn chặn việc rửa nguồn, văn bản gốc được trích dẫn trong bài viết và tài khoản đăng bài gốc phải được theo dõi.
 
-**영어 참고:** *source laundering* — 불신받는 정보의 출처를 숨기고 신뢰성을 덧씌우는 유통 방식이다.
+**어휘 연결:** `오보`는 잘못된 보도 결과이고, `출처 세탁`은 정보가 신뢰를 얻도록 유통 경로를 꾸미는 방식이다. — 'Thông tin sai lệch' là kết quả của việc báo cáo không chính xác và 'rửa nguồn' là một phương pháp trang trí kênh phân phối thông tin để có được sự tin cậy.
+
+**영어 참고:** *source laundering* — Đây là phương pháp phân phối nhằm che giấu nguồn thông tin không đáng tin cậy và tăng thêm độ tin cậy.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** thiết lập chương trình nghị sự.
 
-**뉘앙스와 사용법:** 무엇이 사실인지 정하는 것보다 무엇을 공적 관심의 중심에 올릴지 결정하는 권력을 분석한다.
+**뉘앙스와 사용법:** Phân tích sức mạnh xác định điều gì là trung tâm của sự chú ý của công chúng thay vì xác định điều gì là sự thật.
 
-**재사용 가능한 콜로케이션·청크:** `의제설정 기능`, `언론의 의제설정`, `의제설정 효과`.
+**재사용 가능한 콜로케이션·청크:** `의제설정 기능`, `언론의 의제설정`, `의제설정 효과`. — `Chức năng cài đặt chương trình làm việc`, `Cài đặt chương trình làm việc truyền thông`, `Hiệu ứng cài đặt chương trình làm việc`.
 
-**자주 쓰는 문형과 성분:** `보도가 사회적 의제를 설정하다`; 프레이밍·여론·정책과 결합한다.
+**자주 쓰는 문형과 성분:** `보도가 사회적 의제를 설정하다`, `Báo chí đặt ra chương trình nghị sự xã hội` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론학·정치 커뮤니케이션·공론장 연구의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để nghiên cứu về báo chí, truyền thông chính trị và lĩnh vực công cộng.
 
 **예문:** 의제설정이 특정 집단의 문제만 반복해서 비추면 다른 사회적 고통은 공론에서 밀려날 수 있다.
 
-**어휘 연결:** `프레이밍`은 같은 의제를 특정 관점으로 제시하는 방식이고, `의제설정`은 무엇을 중요 의제로 올리는 과정이다.
+**Dịch:** Nếu việc thiết lập chương trình nghị sự liên tục tập trung vào các vấn đề của một nhóm cụ thể thì những đau khổ xã hội khác có thể bị đẩy ra khỏi cuộc thảo luận công khai.
 
-**영어 참고:** *agenda-setting* — 미디어가 공중이 중요하다고 생각할 의제를 형성하는 과정이다.
+**어휘 연결:** `프레이밍`은 같은 의제를 특정 관점으로 제시하는 방식이고, `의제설정`은 무엇을 중요 의제로 올리는 과정이다. — 'Định khung' là một phương pháp trình bày cùng một chương trình nghị sự từ một góc độ cụ thể và 'thiết lập chương trình nghị sự' là quá trình nêu lên một nội dung nào đó như một chương trình nghị sự quan trọng.
+
+**영어 참고:** *agenda-setting* — Đó là quá trình mà các phương tiện truyền thông hình thành một chương trình nghị sự mà công chúng cho là quan trọng.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** kiểm soát cổng thông tin.
 
-**뉘앙스와 사용법:** 전문적 편집과 검증을 가능하게 하지만 조직 편향이나 상업적 기준이 정보 접근을 제한할 수도 있다.
+**뉘앙스와 사용법:** Cho phép chỉnh sửa và xác minh chuyên nghiệp nhưng thành kiến ​​của tổ chức hoặc tiêu chuẩn thương mại có thể hạn chế quyền truy cập vào thông tin.
 
-**재사용 가능한 콜로케이션·청크:** `언론의 게이트키핑`, `게이트키핑 기능`, `게이트키핑 기준`.
+**재사용 가능한 콜로케이션·청크:** `언론의 게이트키핑`, `게이트키핑 기능`, `게이트키핑 기준`. — `Kiểm soát phương tiện truyền thông`, `Chức năng kiểm soát cổng`, `Tiêu chuẩn kiểm soát cổng`.
 
-**자주 쓰는 문형과 성분:** `편집국이 정보를 게이트키핑하다`; 뉴스 가치·플랫폼·검열과 결합한다.
+**자주 쓰는 문형과 성분:** `편집국이 정보를 게이트키핑하다`, `Thông tin người gác cổng văn phòng biên tập` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 저널리즘·플랫폼 연구·정보사회 분석의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ dành cho báo chí, nghiên cứu nền tảng và phân tích xã hội thông tin.
 
 **예문:** 플랫폼은 자동 추천으로 게이트키핑을 수행하지만 그 기준을 이용자에게 충분히 설명하지 않는다.
 
-**어휘 연결:** `검열`은 억압과 금지의 의미가 강하고, `게이트키핑`은 선택·배제·배치의 정보 유통 기능을 분석한다.
+**Dịch:** Nền tảng thực hiện kiểm soát thông qua các đề xuất tự động nhưng không giải thích đầy đủ các tiêu chí cho người dùng.
 
-**영어 참고:** *gatekeeping* — 정보가 대중에게 도달하기 전에 선택·배제되는 과정이다.
+**어휘 연결:** `검열`은 억압과 금지의 의미가 강하고, `게이트키핑`은 선택·배제·배치의 정보 유통 기능을 분석한다. — 'Kiểm duyệt' có ý nghĩa mạnh mẽ là áp bức và cấm đoán, đồng thời 'gác cổng' phân tích các chức năng phân phối thông tin như lựa chọn, loại trừ và sắp xếp.
+
+**영어 참고:** *gatekeeping* — Đây là quá trình thông tin được chọn và loại trừ trước khi nó đến với công chúng.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** hậu sự thật.
 
-**뉘앙스와 사용법:** 사실이 사라졌다는 뜻이 아니라 사실의 검증보다 믿고 싶은 이야기와 소속감이 우선되는 공론의 상태를 비판한다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là các sự kiện đã biến mất, nhưng nó chỉ trích trạng thái dư luận trong đó những câu chuyện mà một người muốn tin và cảm giác thuộc về được ưu tiên hơn việc xác minh sự thật.
 
-**재사용 가능한 콜로케이션·청크:** `탈진실 정치`, `탈진실 시대`, `탈진실 현상`.
+**재사용 가능한 콜로케이션·청크:** `탈진실 정치`, `탈진실 시대`, `탈진실 현상`. — `Chính trị hậu sự thật`, `Thời kỳ hậu sự thật`, `Hiện tượng hậu sự thật`.
 
-**자주 쓰는 문형과 성분:** `사회가 탈진실에 빠지다`; 감정·가짜뉴스·양극화와 결합한다.
+**자주 쓰는 문형과 성분:** `사회가 탈진실에 빠지다`, `Xã hội rơi vào tình trạng hậu sự thật` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치평론·미디어 비평·민주주의 논의의 추상어다.
+**사회적 관계·주제별 register:** Một từ trừu tượng để chỉ phê bình chính trị, phê bình truyền thông và thảo luận về dân chủ.
 
 **예문:** 탈진실 환경에서는 사실을 제시하는 것만으로는 이미 굳어진 감정과 소속감을 바꾸기 어렵다.
 
-**어휘 연결:** `가짜뉴스`는 특정한 허위 콘텐츠이고, `탈진실`은 사실보다 감정과 정체성이 우선하는 사회적 조건이다.
+**Dịch:** Trong một môi trường hậu sự thật, thật khó để thay đổi những cảm xúc và cảm giác thân thuộc đã có sẵn chỉ bằng cách trình bày sự thật.
 
-**영어 참고:** *post-truth* — 사실보다 감정과 신념이 공적 판단을 좌우하는 상황이다.
+**어휘 연결:** `가짜뉴스`는 특정한 허위 콘텐츠이고, `탈진실`은 사실보다 감정과 정체성이 우선하는 사회적 조건이다. — 'Tin tức giả' là nội dung sai sự thật cụ thể và 'hậu sự thật' là một tình trạng xã hội trong đó cảm xúc và danh tính được ưu tiên hơn sự thật.
+
+**영어 참고:** *post-truth* — Đây là tình huống trong đó cảm xúc và niềm tin thay vì sự thật ảnh hưởng đến đánh giá của công chúng.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** mồi nhấp chuột.
 
-**뉘앙스와 사용법:** 광고 수익과 추천 경쟁에서 흔하지만, 제목과 본문의 불일치가 신뢰와 정보 이해를 훼손한다.
+**뉘앙스와 사용법:** Mặc dù thường gặp trong cạnh tranh về doanh thu quảng cáo và đề xuất, nhưng sự không nhất quán giữa tiêu đề và văn bản làm suy yếu sự tin cậy và hiểu biết về thông tin.
 
-**재사용 가능한 콜로케이션·청크:** `클릭베이트 제목`, `클릭베이트성 콘텐츠`, `클릭베이트를 경계하다`.
+**재사용 가능한 콜로케이션·청크:** `클릭베이트 제목`, `클릭베이트성 콘텐츠`, `클릭베이트를 경계하다`. — `Tiêu đề dụ nhấp`, `Nội dung dụ nhấp`, `Cẩn thận với mồi nhấp`.
 
-**자주 쓰는 문형과 성분:** `매체가 클릭베이트를 사용하다`; 조회수·광고·제목과 결합한다.
+**자주 쓰는 문형과 성분:** `매체가 클릭베이트를 사용하다`, `Phương tiện sử dụng câu click` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 디지털 저널리즘·플랫폼 경제·미디어 비평의 고급 차용어다.
+**사회적 관계·주제별 register:** Đây là từ mượn cấp cao từ báo chí kỹ thuật số, kinh tế nền tảng và phê bình truyền thông.
 
 **예문:** 클릭베이트 제목은 단기 조회수를 올릴 수 있지만 독자의 재방문과 언론 신뢰를 떨어뜨린다.
 
-**어휘 연결:** `선정적 제목`은 자극성을 넓게 말하고, `클릭베이트`는 클릭과 수익을 목적으로 한 구조를 강조한다.
+**Dịch:** Tiêu đề câu click có thể tăng số lượt xem ngắn hạn nhưng chúng làm giảm sự quay trở lại của người đọc và niềm tin vào phương tiện truyền thông.
 
-**영어 참고:** *clickbait* — 클릭을 얻기 위해 과장된 제목과 이미지를 사용하는 콘텐츠다.
+**어휘 연결:** `선정적 제목`은 자극성을 넓게 말하고, `클릭베이트`는 클릭과 수익을 목적으로 한 구조를 강조한다. — 'Tiêu đề giật gân' nói chung là ám chỉ sự khiêu khích, trong khi 'dụ nhấp chuột' nhấn mạnh cấu trúc nhằm vào các nhấp chuột và lợi nhuận.
+
+**영어 참고:** *clickbait* — Nội dung sử dụng tiêu đề và hình ảnh phóng đại để nhận được nhấp chuột.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** tin đính chính.
 
-**뉘앙스와 사용법:** 조용히 기사를 고치는 것보다 독자가 오류를 인식하고 신뢰를 회복하도록 책임 있게 알리는 절차다.
+**뉘앙스와 사용법:** Thay vì lặng lẽ sửa một bài viết, đây là một quy trình cung cấp thông tin có trách nhiệm nhằm giúp người đọc nhận ra lỗi và khôi phục lòng tin.
 
-**재사용 가능한 콜로케이션·청크:** `정정보도문`, `정정보도를 게재하다`, `정정보도 청구`.
+**재사용 가능한 콜로케이션·청크:** `정정보도문`, `정정보도를 게재하다`, `정정보도 청구`. — `Tuyên bố đính chính`, `Xuất bản tuyên bố đính chính`, `Yêu cầu thông tin chỉnh sửa`.
 
-**자주 쓰는 문형과 성분:** `언론사가 정정보도를 내다`; 오보·피해자·언론중재와 결합한다.
+**자주 쓰는 문형과 성분:** `언론사가 정정보도를 내다`, `Phương tiện truyền thông công bố thông tin khắc phục` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론법·저널리즘 윤리·피해 구제의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của luật báo chí, đạo đức báo chí và cứu trợ thiệt hại.
 
 **예문:** 정정보도는 원래 기사와 비슷한 위치와 크기로 독자에게 오류를 알리는 것이 바람직하다.
 
-**어휘 연결:** `사과문`은 태도와 유감을 표현하고, `정정보도`는 사실관계의 오류를 공식적으로 수정한다.
+**Dịch:** Điều mong muốn là báo cáo đã sửa sẽ thông báo cho người đọc về lỗi ở vị trí và kích thước tương tự như bài viết gốc.
 
-**영어 참고:** *correction* — 잘못 보도된 사실을 공식적으로 바로잡는 보도다.
+**어휘 연결:** `사과문`은 태도와 유감을 표현하고, `정정보도`는 사실관계의 오류를 공식적으로 수정한다. — Một 'lời xin lỗi' thể hiện thái độ và sự hối tiếc, còn một 'báo cáo đính chính' chính thức sửa các lỗi thực tế.
+
+**영어 참고:** *correction* — Đây là báo cáo chính thức sửa các sự kiện được báo cáo không chính xác.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** hòa giải tranh chấp báo chí.
 
-**뉘앙스와 사용법:** 법정 소송 전에 정정·반론·손해배상 등을 협의해 피해를 구제하고 보도의 책임을 묻는 제도다.
+**뉘앙스와 사용법:** Đây là một hệ thống nhằm tìm kiếm biện pháp khắc phục thiệt hại và buộc mọi người phải chịu trách nhiệm báo cáo bằng cách thương lượng sửa chữa, phản biện và bồi thường thiệt hại trước khi nộp đơn kiện lên tòa án.
 
-**재사용 가능한 콜로케이션·청크:** `언론중재 신청`, `언론중재위원회`, `언론중재 절차`.
+**재사용 가능한 콜로케이션·청크:** `언론중재 신청`, `언론중재위원회`, `언론중재 절차`. — `Đơn đăng ký Trọng tài Truyền thông`, `Ủy ban Trọng tài Báo chí`, `Thủ tục Trọng tài Truyền thông`.
 
-**자주 쓰는 문형과 성분:** `피해자가 언론중재를 신청하다`; 정정보도·반론권·명예훼손과 결합한다.
+**자주 쓰는 문형과 성분:** `피해자가 언론중재를 신청하다`, `Nạn nhân nộp đơn xin phân xử bằng phương tiện truyền thông` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론법·피해구제·공적 책임의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật truyền thông, giảm nhẹ thiệt hại và trách nhiệm công cộng.
 
 **예문:** 언론중재는 표현의 자유를 보장하면서도 사실과 다른 보도로 인한 피해를 회복할 통로가 된다.
 
-**어휘 연결:** `민사소송`은 법원의 판결 절차이고, `언론중재`는 신속한 정정과 합의를 목표로 하는 조정 절차다.
+**Dịch:** Trọng tài báo chí đảm bảo quyền tự do ngôn luận và phục vụ như một kênh để khắc phục thiệt hại do các báo cáo khác với thực tế gây ra.
 
-**영어 참고:** *media mediation* — 언론 보도로 인한 분쟁을 조정하고 피해를 구제하는 절차다.
+**어휘 연결:** `민사소송`은 법원의 판결 절차이고, `언론중재`는 신속한 정정과 합의를 목표로 하는 조정 절차다. — 'Tố tụng dân sự' là thủ tục phán quyết của tòa án và 'trọng tài truyền thông' là thủ tục hòa giải nhằm mục đích khắc phục và thỏa thuận nhanh chóng.
+
+**영어 참고:** *media mediation* — Đây là thủ tục hòa giải các tranh chấp và cung cấp biện pháp khắc phục thiệt hại do các báo cáo truyền thông gây ra.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** né tránh tin tức.
 
-**뉘앙스와 사용법:** 관심 부족만이 아니라 반복되는 위기 보도, 정치적 양극화, 정보 과잉과 감정 소진의 결과로 분석한다.
+**뉘앙스와 사용법:** Nó được phân tích không chỉ do thiếu sự quan tâm mà còn do báo cáo khủng hoảng lặp đi lặp lại, sự phân cực chính trị, quá tải thông tin và cạn kiệt cảm xúc.
 
-**재사용 가능한 콜로케이션·청크:** `뉴스 회피 현상`, `선택적 뉴스 회피`, `뉴스 회피율`.
+**재사용 가능한 콜로케이션·청크:** `뉴스 회피 현상`, `선택적 뉴스 회피`, `뉴스 회피율`. — 'Hiện tượng tránh tin tức', 'Tránh tin tức có chọn lọc', 'Tỷ lệ tránh tin tức'.
 
-**자주 쓰는 문형과 성분:** `이용자가 뉴스를 회피하다`; 피로감·신뢰·뉴스 소비와 결합한다.
+**자주 쓰는 문형과 성분:** `이용자가 뉴스를 회피하다`, `Người dùng tránh tin tức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 연구·민주주의·저널리즘 전략의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao cho nghiên cứu truyền thông, dân chủ và chiến lược báo chí.
 
 **예문:** 뉴스 회피가 늘면 시민이 공적 의제를 접할 기회와 언론의 설명 책임이 함께 약해질 수 있다.
 
-**어휘 연결:** `뉴스 무관심`은 관심의 부재이고, `뉴스 회피`는 부담이나 불신 때문에 접촉을 의도적으로 줄이는 행동이다.
+**Dịch:** Nếu việc né tránh tin tức tăng lên, cơ hội của người dân tiếp cận các chương trình nghị sự công cộng và trách nhiệm giải thích của giới truyền thông có thể bị suy yếu.
 
-**영어 참고:** *news avoidance* — 뉴스 피로와 불신 등으로 뉴스 접촉을 줄이는 현상이다.
+**어휘 연결:** `뉴스 무관심`은 관심의 부재이고, `뉴스 회피`는 부담이나 불신 때문에 접촉을 의도적으로 줄이는 행동이다. — 'Sự thờ ơ với tin tức' là sự thiếu quan tâm và 'né tránh tin tức' là hành vi cố tình giảm liên lạc do gánh nặng hoặc sự ngờ vực.
+
+**영어 참고:** *news avoidance* — Đây là hiện tượng liên hệ với tin tức bị giảm do sự mệt mỏi và không tin tưởng vào tin tức.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** khả năng kiểm chứng.
 
-**뉘앙스와 사용법:** 기자의 권위만 믿는 것이 아니라 원문 링크, 데이터, 방법, 이해관계를 공개해 독립적으로 확인하게 한다.
+**뉘앙스와 사용법:** Thay vì chỉ tin tưởng vào thẩm quyền của người báo cáo, chúng tôi tiết lộ liên kết nguồn, dữ liệu, phương pháp và sở thích để chúng có thể được xác minh một cách độc lập.
 
-**재사용 가능한 콜로케이션·청크:** `정보의 검증 가능성`, `검증 가능성을 높이다`, `검증 가능한 근거`.
+**재사용 가능한 콜로케이션·청크:** `정보의 검증 가능성`, `검증 가능성을 높이다`, `검증 가능한 근거`. — `Khả năng xác minh được thông tin`, `Tăng khả năng xác minh`, `Bằng chứng có thể xác minh`.
 
-**자주 쓰는 문형과 성분:** `보도가 검증 가능성을 확보하다`; 데이터·출처·투명성과 결합한다.
+**자주 쓰는 문형과 성분:** `보도가 검증 가능성을 확보하다`, `Báo cáo đảm bảo tính xác minh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 과학저널리즘·탐사보도·공공기관 소통의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao dành cho báo chí khoa học, báo cáo điều tra và truyền thông của tổ chức công.
 
 **예문:** 숫자만 제시한 보도보다 원자료와 계산 방법을 공개한 보도가 검증 가능성이 높다.
 
-**어휘 연결:** `신뢰성`은 믿을 만한 정도이고, `검증 가능성`은 다른 사람이 그 신뢰성을 확인할 수 있는 구조다.
+**Dịch:** Các báo cáo tiết lộ dữ liệu thô và phương pháp tính toán có nhiều khả năng được xác minh hơn các báo cáo chỉ trình bày các con số.
 
-**영어 참고:** *verifiability* — 주장과 근거를 독립적으로 다시 확인할 수 있는 성질이다.
+**어휘 연결:** `신뢰성`은 믿을 만한 정도이고, `검증 가능성`은 다른 사람이 그 신뢰성을 확인할 수 있는 구조다. — 'Độ tin cậy' là mức độ mà một nội dung nào đó có thể được tin cậy và 'khả năng xác minh' là cấu trúc mà qua đó những người khác có thể xác nhận độ tin cậy của nó.
+
+**영어 참고:** *verifiability* — Đây là đặc tính có thể xác nhận lại các tuyên bố và bằng chứng một cách độc lập.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** đặt vào bối cảnh.
 
-**뉘앙스와 사용법:** 정보량을 늘리는 것보다 무엇이 앞뒤 원인과 결과인지 연결해 독자의 판단을 돕는다는 의미다.
+**뉘앙스와 사용법:** Điều này có nghĩa là thay vì tăng lượng thông tin, nó giúp người đọc đưa ra quyết định bằng cách kết nối nguyên nhân và kết quả.
 
-**재사용 가능한 콜로케이션·청크:** `사건의 맥락화`, `역사적 맥락화`, `맥락화된 보도`.
+**재사용 가능한 콜로케이션·청크:** `사건의 맥락화`, `역사적 맥락화`, `맥락화된 보도`. — `Ngữ cảnh hóa các sự kiện`, `Ngữ cảnh hóa lịch sử`, `Báo cáo theo ngữ cảnh`.
 
-**자주 쓰는 문형과 성분:** `기자가 발언을 맥락화하다`; 배경·자료·해석과 결합한다.
+**자주 쓰는 문형과 성분:** `기자가 발언을 맥락화하다`, `Người báo cáo ngữ cảnh hóa các nhận xét` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 저널리즘·역사교육·정책 소통의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về báo chí, giáo dục lịch sử và truyền thông chính sách.
 
 **예문:** 짧은 영상의 한 문장만 인용하지 말고 전체 발언을 맥락화해 보도해야 한다.
 
-**어휘 연결:** `요약`은 내용을 줄이는 것이고, `맥락화`는 의미가 생긴 배경과 관계를 복원하는 것이다.
+**Dịch:** Thay vì chỉ trích dẫn một câu từ một video ngắn, toàn bộ tuyên bố phải được ngữ cảnh hóa và báo cáo.
 
-**영어 참고:** *contextualization* — 정보와 사건을 배경·관계 속에서 설명하는 작업이다.
+**어휘 연결:** `요약`은 내용을 줄이는 것이고, `맥락화`는 의미가 생긴 배경과 관계를 복원하는 것이다. — 'Tóm tắt' là giảm bớt nội dung và 'ngữ cảnh hóa' là để khôi phục nền tảng và các mối quan hệ đã tạo ra ý nghĩa.
+
+**영어 참고:** *contextualization* — Đây là nhiệm vụ giải thích thông tin, sự kiện trong bối cảnh và mối quan hệ.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** niềm tin công chúng.
 
-**뉘앙스와 사용법:** 개인 간 신뢰보다 넓게 제도와 공적 정보가 반복적으로 검증되고 책임지는 경험에서 형성된다.
+**뉘앙스와 사용법:** Rộng hơn niềm tin giữa các cá nhân, nó được hình thành thông qua kinh nghiệm xác minh và giải trình nhiều lần của các tổ chức và thông tin công cộng.
 
-**재사용 가능한 콜로케이션·청크:** `공적 신뢰 회복`, `공적 신뢰가 무너지다`, `신뢰 기반 공론장`.
+**재사용 가능한 콜로케이션·청크:** `공적 신뢰 회복`, `공적 신뢰가 무너지다`, `신뢰 기반 공론장`. — 'Khôi phục lòng tin của công chúng', 'Sụp đổ niềm tin của công chúng', 'Không gian công dựa trên lòng tin'.
 
-**자주 쓰는 문형과 성분:** `기관이 공적 신뢰를 회복하다`; 투명성·책임·정정보도와 결합한다.
+**자주 쓰는 문형과 성분:** `기관이 공적 신뢰를 회복하다`, `Các tổ chức khôi phục lòng tin của công chúng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 민주주의·언론·행정 책임의 추상 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ cấp cao trừu tượng về dân chủ, truyền thông và trách nhiệm hành chính.
 
 **예문:** 오류를 숨기기보다 신속하게 정정보도하는 태도가 장기적으로 공적 신뢰를 지킨다.
 
-**어휘 연결:** `대중의 호감`은 감정적 평가이고, `공적 신뢰`는 제도가 책임 있게 작동할 것이라는 지속적 기대다.
+**Dịch:** Thái độ sửa lỗi nhanh chóng thay vì che giấu chúng sẽ duy trì niềm tin của công chúng về lâu dài.
 
-**영어 참고:** *public trust* — 공적 기관과 정보 체계가 책임 있게 작동한다는 시민의 믿음이다.
+**어휘 연결:** `대중의 호감`은 감정적 평가이고, `공적 신뢰`는 제도가 책임 있게 작동할 것이라는 지속적 기대다. — 'Sự ưu ái của công chúng' là một đánh giá mang tính cảm xúc và 'sự tin tưởng của công chúng' là kỳ vọng liên tục rằng hệ thống sẽ hoạt động có trách nhiệm.
+
+**영어 참고:** *public trust* — Niềm tin của người dân rằng các tổ chức công và hệ thống thông tin hoạt động có trách nhiệm.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** meme, nội dung lan truyền biến thể.
 
-**뉘앙스와 사용법:** 단순한 유행어보다 공동체가 패러디와 변주를 통해 의미를 덧붙이는 참여형 문화라는 점을 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh rằng cộng đồng là một nền văn hóa có sự tham gia, bổ sung ý nghĩa thông qua sự nhại lại và biến thể thay vì những từ thông dụng đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `밈이 되다`, `밈을 소비하다`, `밈 문화`.
+**재사용 가능한 콜로케이션·청크:** `밈이 되다`, `밈을 소비하다`, `밈 문화`. — `Trở thành meme`, `Tiêu thụ meme`, `Văn hóa meme`.
 
-**자주 쓰는 문형과 성분:** `장면이 밈으로 퍼지다`; 패러디·커뮤니티·바이럴과 결합한다.
+**자주 쓰는 문형과 성분:** `장면이 밈으로 퍼지다`, `Cảnh lan truyền` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** SNS·온라인 커뮤니티·대중문화 기사에서 현재적으로 쓰이는 표현이다.
+**사회적 관계·주제별 register:** Đây là cụm từ hiện đang được sử dụng trong SNS, cộng đồng trực tuyến và các bài viết về văn hóa đại chúng.
 
 **예문:** 짧은 표정 하나가 밈이 되면서 원래 사건의 맥락보다 패러디가 더 널리 소비됐다.
 
-**어휘 연결:** `유행어`는 말이나 표현의 유행이고, `밈`은 이미지·행동·문구가 변형되며 참여적으로 확산되는 문화다.
+**Dịch:** Khi một biểu cảm khuôn mặt ngắn gọn trở thành meme, tác phẩm nhại đã được sử dụng rộng rãi hơn bối cảnh của sự việc ban đầu.
 
-**영어 참고:** *meme* — 온라인에서 복제·변형되며 공유되는 문화적 콘텐츠다.
+**어휘 연결:** `유행어`는 말이나 표현의 유행이고, `밈`은 이미지·행동·문구가 변형되며 참여적으로 확산되는 문화다. — 'Từ thông dụng' là một xu hướng của từ hoặc cách diễn đạt và 'meme' là một nền văn hóa trong đó hình ảnh, hành động và cụm từ được chuyển đổi và lan truyền theo cách có sự tham gia.
+
+**영어 참고:** *meme* — Nội dung văn hóa được sao chép, biến đổi và chia sẻ trực tuyến.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** buôn bán lượt xem.
 
-**뉘앙스와 사용법:** 공식 언론 용어가 아니라 기사·영상·채널이 관심을 돈으로 바꾸는 방식을 날카롭게 평가하는 현재의 온라인 표현이다.
+**뉘앙스와 사용법:** Không phải là thuật ngữ báo chí chính thức mà là một biểu thức trực tuyến hiện tại đánh giá rõ ràng cách các bài báo, video và kênh chuyển sự chú ý thành tiền.
 
-**재사용 가능한 콜로케이션·청크:** `조회수 장사에 나서다`, `조회수 장사식 콘텐츠`, `조회수 장사라고 비판하다`.
+**재사용 가능한 콜로케이션·청크:** `조회수 장사에 나서다`, `조회수 장사식 콘텐츠`, `조회수 장사라고 비판하다`. — 'Tham gia kinh doanh lượt xem', 'Nội dung bán lượt xem', 'Chỉ trích nội dung đó vì hoạt động kinh doanh lượt xem'.
 
-**자주 쓰는 문형과 성분:** `채널이 조회수 장사를 하다`; 자극적 제목·광고·클릭베이트와 결합한다.
+**자주 쓰는 문형과 성분:** `채널이 조회수 장사를 하다`, `Kênh bán lượt xem` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 커뮤니티·영상 댓글·미디어 비평에서 현재적으로 쓰이는 평가 표현이다.
+**사회적 관계·주제별 register:** Đây là biểu thức đánh giá hiện được sử dụng trong cộng đồng, nhận xét video và phê bình truyền thông.
 
 **예문:** 사실 확인보다 공포를 키우는 영상은 조회수 장사라는 비판을 받기 쉽다.
 
-**어휘 연결:** `클릭베이트`는 유도하는 형식이고, `조회수 장사`는 관심을 수익으로 바꾸는 행위 전체를 비판한다.
+**Dịch:** Những video gây sợ hãi hơn là xác minh tính xác thực có thể bị chỉ trích vì bán lượt xem.
 
-**영어 참고:** *farming views for money* — 관심과 조회수를 수익으로 바꾸기 위해 자극을 과도하게 이용하는 행위다.
+**어휘 연결:** `클릭베이트`는 유도하는 형식이고, `조회수 장사`는 관심을 수익으로 바꾸는 행위 전체를 비판한다. — 'Clickbait' là một hình thức xúi giục và 'lượt xem bán hàng' chỉ trích toàn bộ hành động chuyển sự chú ý thành lợi nhuận.
+
+**영어 참고:** *farming views for money* — Đây là hành vi sử dụng quá mức sự kích thích để chuyển sự chú ý, quan điểm thành lợi nhuận.
 
 <!-- passage_word_count: 101 Korean eojeol; target_set: 오정보, 정보전, 출처 세탁, 의제설정, 게이트키핑, 탈진실, 클릭베이트, 정정보도, 언론중재, 뉴스 회피, 검증 가능성, 맥락화, 공적 신뢰, 밈, 조회수 장사 -->
 

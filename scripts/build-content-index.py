@@ -15,9 +15,7 @@ LESSON_OUTPUT = ROOT / "apps/web/public/lesson"
 NORMALIZED_ROOT = ROOT / "content"
 ENGLISH_CEFR_ROOT = ROOT / "english/lessons/vocabulary/cefr"
 KOREAN_TOPICS_ROOT = ROOT / "korean/vocab/topics"
-
-
-def grammar_document(source: str, document_id: str, title: str, level: str, track: str) -> dict[str, str]:
+def grammar_document(source: str, document_id: str, title: str, level: str, description: str, track: str) -> dict[str, str]:
     return {
         "source": source,
         "id": document_id,
@@ -25,30 +23,31 @@ def grammar_document(source: str, document_id: str, title: str, level: str, trac
         "skill": "Grammar",
         "level": level,
         "track": track,
+        "description": description,
     }
 
 
 DOCUMENTS = [
-    grammar_document("english/lessons/grammar/00-concept-map.md", "english-grammar-concept-map", "Grammar Concept Map", "Path guide", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/01-how-an-english-sentence-works.md", "english-grammar-foundations-sentence", "How an English Sentence Works", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/02-reference-nouns-articles-and-quantity.md", "english-grammar-foundations-reference", "Reference, Nouns, Articles, and Quantity", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/03-time-tense-and-aspect.md", "english-grammar-foundations-time", "Time, Tense, and Aspect", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/04-modality-negation-and-questions.md", "english-grammar-foundations-modality", "Modality, Negation, and Questions", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/05-verb-patterns-and-connecting-ideas.md", "english-grammar-foundations-verb-patterns", "Verb Patterns and Connecting Ideas", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/06-spoken-american-conversation-grammar.md", "english-grammar-foundations-spoken", "Spoken American Conversation Grammar", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/07-noun-clauses-and-embedded-questions.md", "english-grammar-foundations-embedded", "Noun Clauses and Embedded Questions", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/01-foundations/08-habit-familiarity-preference-and-advice.md", "english-grammar-foundations-habit", "Habit, Familiarity, Preference, and Advice", "Foundation", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/01-perfect-meaning-and-narrative-time.md", "english-grammar-core-perfect", "Perfect Meaning and Narrative Time", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/02-conditionals-counterfactuality-and-wish.md", "english-grammar-core-conditionals", "Conditionals, Counterfactuality, and Wish", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/03-modal-perfects-deduction-and-evaluation.md", "english-grammar-core-modal-perfects", "Modal Perfects, Deduction, and Evaluation", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/04-voice-reporting-and-clause-compression.md", "english-grammar-core-voice-reporting", "Voice, Reporting, and Clause Compression", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/05-focus-emphasis-and-information-flow.md", "english-grammar-core-focus", "Focus, Emphasis, and Information Flow", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/02-core/06-causatives-get-have-and-agency.md", "english-grammar-core-causatives", "Causatives, get, have, and Agency", "Core", "Grammar path"),
-    grammar_document("english/lessons/grammar/03-advanced/01-register-subjunctive-and-formal-choices.md", "english-grammar-advanced-register", "Register, Subjunctive, and Formal Choices", "Advanced", "Grammar path"),
-    grammar_document("english/lessons/grammar/03-advanced/02-hedging-stance-and-evidential-grammar.md", "english-grammar-advanced-hedging", "Hedging, Stance, and Evidential Grammar", "Advanced", "Grammar path"),
-    grammar_document("english/lessons/grammar/03-advanced/03-marked-word-order-and-rhetorical-focus.md", "english-grammar-advanced-word-order", "Marked Word Order and Rhetorical Focus", "Advanced", "Grammar path"),
-    grammar_document("english/lessons/grammar/03-advanced/04-ellipsis-compression-and-nominalization.md", "english-grammar-advanced-compression", "Ellipsis, Compression, and Nominalization", "Advanced", "Grammar path"),
-    grammar_document("english/lessons/grammar/03-advanced/05-american-british-bridges-and-native-choice.md", "english-grammar-advanced-us-uk", "American–British Bridges and Native Choice", "Advanced", "Grammar path"),
+    grammar_document("english/lessons/grammar/00-concept-map.md", "english-grammar-concept-map", "Grammar Concept Map", "Path guide", "Mental model and reading order for the full grammar path.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/01-how-an-english-sentence-works.md", "english-grammar-foundations-sentence", "How an English Sentence Works", "Foundation", "Sentence architecture, subjects, predicates and complements.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/02-reference-nouns-articles-and-quantity.md", "english-grammar-foundations-reference", "Reference, Nouns, Articles, and Quantity", "Foundation", "How English introduces, identifies and quantifies things.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/03-time-tense-and-aspect.md", "english-grammar-foundations-time", "Time, Tense, and Aspect", "Foundation", "Viewpoint, tense and aspect as one connected time system.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/04-modality-negation-and-questions.md", "english-grammar-foundations-modality", "Modality, Negation, and Questions", "Foundation", "Stance, possibility, obligation, negation and question structure.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/05-verb-patterns-and-connecting-ideas.md", "english-grammar-foundations-verb-patterns", "Verb Patterns and Connecting Ideas", "Foundation", "Complements, clause linking, passives, reporting and phrasal verbs.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/06-spoken-american-conversation-grammar.md", "english-grammar-foundations-spoken", "Spoken American Conversation Grammar", "Foundation", "Short answers, echoes, confirmation and recoverable ellipsis.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/07-noun-clauses-and-embedded-questions.md", "english-grammar-foundations-embedded", "Noun Clauses and Embedded Questions", "Foundation", "How propositions and questions become parts of larger clauses.", "Grammar path"),
+    grammar_document("english/lessons/grammar/01-foundations/08-habit-familiarity-preference-and-advice.md", "english-grammar-foundations-habit", "Habit, Familiarity, Preference, and Advice", "Foundation", "Used to, be used to, would rather, prefer, should and had better.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/01-perfect-meaning-and-narrative-time.md", "english-grammar-core-perfect", "Perfect Meaning and Narrative Time", "Core", "Reference points, perfect forms and narrative sequencing.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/02-conditionals-counterfactuality-and-wish.md", "english-grammar-core-conditionals", "Conditionals, Counterfactuality, and Wish", "Core", "Reality, possibility, distance and counterfactual alternatives.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/03-modal-perfects-deduction-and-evaluation.md", "english-grammar-core-modal-perfects", "Modal Perfects, Deduction, and Evaluation", "Core", "Must have, might have, should have and could have in context.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/04-voice-reporting-and-clause-compression.md", "english-grammar-core-voice-reporting", "Voice, Reporting, and Clause Compression", "Core", "Active/passive perspective, reported messages and reduced clauses.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/05-focus-emphasis-and-information-flow.md", "english-grammar-core-focus", "Focus, Emphasis, and Information Flow", "Core", "Clefts, fronting, inversion and information packaging.", "Grammar path"),
+    grammar_document("english/lessons/grammar/02-core/06-causatives-get-have-and-agency.md", "english-grammar-core-causatives", "Causatives, get, have, and Agency", "Core", "Cause, arrangement, force, persuasion and affected participants.", "Grammar path"),
+    grammar_document("english/lessons/grammar/03-advanced/01-register-subjunctive-and-formal-choices.md", "english-grammar-advanced-register", "Register, Subjunctive, and Formal Choices", "Advanced", "Register and formal choices in contemporary American English.", "Grammar path"),
+    grammar_document("english/lessons/grammar/03-advanced/02-hedging-stance-and-evidential-grammar.md", "english-grammar-advanced-hedging", "Hedging, Stance, and Evidential Grammar", "Advanced", "Calibrate certainty, evidence and commitment to a claim.", "Grammar path"),
+    grammar_document("english/lessons/grammar/03-advanced/03-marked-word-order-and-rhetorical-focus.md", "english-grammar-advanced-word-order", "Marked Word Order and Rhetorical Focus", "Advanced", "Marked order, negative inversion and rhetorical focus.", "Grammar path"),
+    grammar_document("english/lessons/grammar/03-advanced/04-ellipsis-compression-and-nominalization.md", "english-grammar-advanced-compression", "Ellipsis, Compression, and Nominalization", "Advanced", "Efficient but readable spoken and professional writing.", "Grammar path"),
+    grammar_document("english/lessons/grammar/03-advanced/05-american-british-bridges-and-native-choice.md", "english-grammar-advanced-us-uk", "American–British Bridges and Native Choice", "Advanced", "One stable American production target with useful international contrasts.", "Grammar path"),
     {
         "source": "english/lessons/grammar/error-notebook-unit-01-13.md",
         "id": "english-corrections-grammar-error-notebook",
@@ -56,6 +55,7 @@ DOCUMENTS = [
         "skill": "Corrections",
         "level": "Personal",
         "track": "Review",
+        "description": "Các lỗi ngữ pháp lặp lại và cách sửa để ôn theo SRS.",
     },
     {
         "source": "english/lessons/vocabulary/ielts-vocabulary-22000-clean.md",
@@ -64,6 +64,7 @@ DOCUMENTS = [
         "skill": "Vocabulary",
         "level": "IELTS",
         "track": "Vocabulary bank",
+        "description": "Kho từ vựng IELTS để tra cứu và chia nhỏ thành các phiên ôn tập.",
     },
     {
         "source": "english/lessons/vocabulary/new-words.md",
@@ -72,6 +73,7 @@ DOCUMENTS = [
         "skill": "Vocabulary",
         "level": "Personal",
         "track": "Vocabulary bank",
+        "description": "Từ mới thu thập trong quá trình học.",
     },
     {
         "source": "english/lessons/writing/personal-topics/introduce-myself.md",
@@ -80,6 +82,7 @@ DOCUMENTS = [
         "skill": "Writing",
         "level": "Personal",
         "track": "Writing practice",
+        "description": "Bài viết cá nhân để luyện câu giới thiệu và nói về bản thân.",
     },
     {
         "source": "english/lessons/writing/personal-topics/my-career-plan.md",
@@ -88,6 +91,7 @@ DOCUMENTS = [
         "skill": "Writing",
         "level": "Personal",
         "track": "Writing practice",
+        "description": "Luyện viết về kế hoạch nghề nghiệp và mục tiêu tương lai.",
     },
     {
         "source": "english/lessons/writing/personal-topics/my-hometown.md",
@@ -96,6 +100,7 @@ DOCUMENTS = [
         "skill": "Writing",
         "level": "Personal",
         "track": "Writing practice",
+        "description": "Luyện mô tả quê hương bằng câu rõ ràng và tự nhiên.",
     },
     {
         "source": "english/lessons/writing/personal-topics/my-work.md",
@@ -104,6 +109,7 @@ DOCUMENTS = [
         "skill": "Writing",
         "level": "Personal",
         "track": "Writing practice",
+        "description": "Luyện nói và viết về công việc hiện tại.",
     },
     {
         "source": "english/lessons/writing/personal-topics/why-i-study-english.md",
@@ -112,6 +118,7 @@ DOCUMENTS = [
         "skill": "Writing",
         "level": "Personal",
         "track": "Writing practice",
+        "description": "Luyện trình bày lý do, động lực và thói quen học ngoại ngữ.",
     },
     {
         "source": "english/lessons/corrections/teacher-corrections.md",
@@ -120,6 +127,7 @@ DOCUMENTS = [
         "skill": "Corrections",
         "level": "Personal",
         "track": "Review",
+        "description": "Các lỗi cá nhân cần ôn lại theo lịch SRS.",
     },
 ]
 
@@ -140,7 +148,7 @@ def markdown_title(text: str, fallback: str) -> str:
     return fallback
 
 
-def markdown_description(text: str) -> str:
+def markdown_description(text: str, fallback: str) -> str:
     cleaned = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     blocks = re.split(r"\n\s*\n", cleaned)
     for block in blocks:
@@ -148,7 +156,101 @@ def markdown_description(text: str) -> str:
         if not candidate or candidate.startswith("#") or candidate.startswith("---"):
             continue
         return excerpt(candidate)
-    return ""
+    return fallback
+
+
+def strip_markdown(text: str) -> str:
+    cleaned = re.sub(r"```[\s\S]*?```", " ", text)
+    cleaned = re.sub(r"`([^`]+)`", r"\1", cleaned)
+    cleaned = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", cleaned)
+    cleaned = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", cleaned)
+    cleaned = re.sub(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]", r"\1", cleaned)
+    cleaned = re.sub(r"^#{1,6}\s+", "", cleaned, flags=re.M)
+    cleaned = re.sub(r"^>\s?", "", cleaned, flags=re.M)
+    cleaned = re.sub(r"[*_~=-]{2,}", " ", cleaned)
+    cleaned = re.sub(r"<[^>]+>", " ", cleaned)
+    return re.sub(r"\s+", " ", cleaned).strip()
+
+
+def extract_headings(text: str) -> list[dict[str, str | int]]:
+    return [
+        {"level": len(match.group(1)), "text": re.sub(r"[*_`~]", "", match.group(2)).strip()}
+        for match in re.finditer(r"^(#{1,3})\s+(.+)$", text, flags=re.M)
+    ]
+
+
+def build_related_indexes(catalog: list[dict[str, str]]) -> tuple[dict, dict]:
+    """Build lazy full-text and internal-link indexes for Learning OS tools."""
+    by_source = {item["source"]: item for item in catalog}
+    aliases: dict[str, str] = {}
+    for item in catalog:
+        source = item["source"]
+        candidates = {
+            source.lower(),
+            source.removesuffix(".md").lower(),
+            Path(source).name.lower(),
+            Path(source).stem.lower(),
+            item["title"].strip().lower(),
+            item["id"].lower(),
+        }
+        for candidate in candidates:
+            aliases.setdefault(candidate, source)
+
+    def resolve_link(source: str, target: str) -> str | None:
+        target = target.strip().strip("<>").split("#", 1)[0]
+        if not target or re.match(r"^(?:https?:|mailto:|tel:|#)", target, flags=re.I):
+            return None
+        target = unicodedata.normalize("NFKC", target.replace("\\", "/"))
+        if target.startswith("/"):
+            target = target[1:]
+        resolved = Path(source).parent.joinpath(target).as_posix()
+        if resolved in by_source:
+            return resolved
+        normalized = Path(resolved).as_posix().lower()
+        if normalized in aliases:
+            return aliases[normalized]
+        return aliases.get(target.removesuffix(".md").lower())
+
+    edges: list[dict[str, str]] = []
+    seen_edges: set[tuple[str, str]] = set()
+    search_documents: list[dict] = []
+    for item in catalog:
+        source = Path(item["source"])
+        text = source.read_text(encoding="utf-8")
+        search_documents.append({
+            "id": item["id"],
+            "title": item["title"],
+            "source": item["source"],
+            "contentUrl": item["contentUrl"],
+            "skill": item["skill"],
+            "level": item["level"],
+            "language": item.get("language", "English"),
+            "track": item.get("track", ""),
+            "headings": extract_headings(text),
+            "text": strip_markdown(text)[:20000],
+        })
+        targets: list[str] = []
+        targets.extend(match.group(1) for match in re.finditer(r"\[[^\]]+\]\(([^)]+)\)", text))
+        targets.extend(match.group(1) for match in re.finditer(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]", text))
+        for raw_target in targets:
+            target_source = resolve_link(item["source"], raw_target)
+            if not target_source or target_source == item["source"]:
+                continue
+            edge = (item["id"], by_source[target_source]["id"])
+            if edge in seen_edges:
+                continue
+            seen_edges.add(edge)
+            edges.append({"source": edge[0], "target": edge[1]})
+
+    graph = {
+        "version": 1,
+        "nodes": [
+            {"id": item["id"], "title": item["title"], "source": item["source"], "skill": item["skill"], "level": item["level"]}
+            for item in catalog
+        ],
+        "edges": edges,
+    }
+    return {"version": 1, "documents": search_documents}, graph
 
 
 def generated_documents() -> list[dict[str, str]]:
@@ -168,7 +270,7 @@ def generated_documents() -> list[dict[str, str]]:
             "skill": "Vocabulary",
             "level": level,
             "track": "English CEFR Vocabulary",
-            "description": markdown_description(source_text),
+            "description": markdown_description(source_text, "English vocabulary lesson."),
             "language": "English",
         })
 
@@ -185,7 +287,7 @@ def generated_documents() -> list[dict[str, str]]:
             "skill": "Vocabulary",
             "level": "Advanced",
             "track": "한국어 어휘",
-            "description": markdown_description(source_text),
+            "description": markdown_description(source_text, "고급 한국어 어휘 학습 자료."),
             "language": "Korean",
         })
 
@@ -246,6 +348,9 @@ def main() -> None:
     catalog_text = json.dumps({"version": 1, "language": "English", "learnerLanguage": "Vietnamese", "documents": catalog}, ensure_ascii=False, indent=2) + "\n"
     (ROOT / "content/catalog.json").write_text(catalog_text, encoding="utf-8")
     (OUTPUT / "catalog.json").write_text(catalog_text, encoding="utf-8")
+    search_index, graph = build_related_indexes(catalog)
+    (OUTPUT / "search-index.json").write_text(json.dumps(search_index, ensure_ascii=False), encoding="utf-8")
+    (OUTPUT / "graph.json").write_text(json.dumps(graph, ensure_ascii=False), encoding="utf-8")
     print(f"Built {len(catalog)} documents in {OUTPUT}")
 
 

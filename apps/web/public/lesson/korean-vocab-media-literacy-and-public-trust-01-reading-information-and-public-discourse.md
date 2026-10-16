@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** thông tin sai lệch.
 
-**뉘앙스와 사용법:** 누군가 일부러 만들었는지는 확정하지 않고, 정보의 정확성과 사회적 피해를 분석할 때 쓴다.
+**뉘앙스와 사용법:** Nó được sử dụng để phân tích tính chính xác của thông tin và thiệt hại xã hội mà không xác nhận liệu ai đó có cố ý tạo ra nó hay không.
 
-**재사용 가능한 콜로케이션·청크:** `허위정보를 유포하다`, `허위정보 대응`, `허위정보 판별`, `허위정보에 속다`.
+**재사용 가능한 콜로케이션·청크:** `허위정보를 유포하다`, `허위정보 대응`, `허위정보 판별`, `허위정보에 속다`. — `Truyền bá thông tin sai sự thật`, `Phản hồi thông tin sai sự thật`, `Phân biệt đối xử với thông tin sai sự thật`, `Bị lừa bởi thông tin sai sự thật`.
 
-**자주 쓰는 문형과 성분:** `허위정보가 확산되다`; 게시물·선거·재난·플랫폼과 결합한다.
+**자주 쓰는 문형과 성분:** `허위정보가 확산되다`, `Lan truyền thông tin sai sự thật` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론·정책·연구에서 쓰는 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức được sử dụng trong truyền thông, chính sách và nghiên cứu.
 
 **예문:** 재난 상황에서는 허위정보가 실제 구조 활동까지 방해할 수 있다.
 
-**어휘 연결:** `허위정보`는 사실과 다른 정보 전반, `가짜뉴스`는 뉴스 형식을 흉내 낸 표현, `오보`는 언론 보도의 잘못된 사실을 강조한다.
+**Dịch:** Trong các tình huống thảm họa, thông tin sai lệch thậm chí có thể cản trở các nỗ lực cứu hộ thực sự.
 
-**영어 참고:** *misinformation*, *disinformation*, *false information* — 의도적 기만까지 강조할 때는 *disinformation*을 구별해 쓴다.
+**어휘 연결:** `허위정보`는 사실과 다른 정보 전반, `가짜뉴스`는 뉴스 형식을 흉내 낸 표현, `오보`는 언론 보도의 잘못된 사실을 강조한다. — 'Thông tin sai lệch' đề cập đến thông tin chung khác với sự thật, 'tin giả' là cách diễn đạt bắt chước một dạng tin tức và 'thông tin sai lệch' nhấn mạnh sự thật không chính xác trong các báo cáo truyền thông.
+
+**영어 참고:** *misinformation*, *disinformation*, *false information* — Khi nhấn mạnh hành vi lừa dối có chủ ý, *thông tin sai lệch* được sử dụng riêng.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tin giả.
 
-**뉘앙스와 사용법:** 온라인에서 널리 쓰이지만 범위가 모호해, 실제 보도 오류와 의도적 조작을 구분할 때는 더 정확한 용어가 필요하다.
+**뉘앙스와 사용법:** Được sử dụng rộng rãi trực tuyến nhưng phạm vi của nó không rõ ràng, vì vậy cần có thuật ngữ chính xác hơn để phân biệt giữa lỗi báo cáo thực tế và hành vi thao túng có chủ ý.
 
-**재사용 가능한 콜로케이션·청크:** `가짜뉴스를 퍼뜨리다`, `가짜뉴스 판별`, `가짜뉴스 논란`, `가짜뉴스에 속다`.
+**재사용 가능한 콜로케이션·청크:** `가짜뉴스를 퍼뜨리다`, `가짜뉴스 판별`, `가짜뉴스 논란`, `가짜뉴스에 속다`. — ‘Truyền bá tin tức giả’, ‘Nhận biết tin tức giả’, ‘Tranh cãi về tin tức giả’, ‘Bị lừa bởi tin tức giả’.
 
-**자주 쓰는 문형과 성분:** `N을/를 가짜뉴스로 몰다`; 게시물·정치·선거·영상과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 가짜뉴스로 몰다`, `Chỉ trích N là tin giả` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 회화·온라인·뉴스 제목에서 현재 활발히 쓰이는 표현이다.
+**사회적 관계·주제별 register:** Đây là biểu thức hiện được sử dụng tích cực trong các tiêu đề cuộc trò chuyện, trực tuyến và tin tức.
 
 **예문:** 근거가 약한 글을 곧바로 가짜뉴스라고 부르기보다 원출처를 먼저 확인해야 한다.
 
-**어휘 연결:** `가짜뉴스`는 대중적이고 비판적인 표현, `허위정보`는 분석·정책 용어, `오보`는 보도 과정의 오류에 가깝다.
+**Dịch:** Thay vì ngay lập tức gọi một bài viết có bằng chứng yếu là tin giả, bạn nên kiểm tra nguồn gốc trước.
 
-**영어 참고:** *fake news*, *false report*, *misinformation* — *fake news*는 정치적 비난으로도 남용될 수 있다.
+**어휘 연결:** `가짜뉴스`는 대중적이고 비판적인 표현, `허위정보`는 분석·정책 용어, `오보`는 보도 과정의 오류에 가깝다. — 'Tin tức giả' là một cách diễn đạt phổ biến và mang tính chỉ trích, 'thông tin sai lệch' là một thuật ngữ phân tích/chính sách và 'thông tin sai lệch' gần như là một lỗi trong quá trình báo cáo.
+
+**영어 참고:** *fake news*, *false report*, *misinformation* — *tin giả* cũng có thể bị lạm dụng làm chỉ trích chính trị.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** kiểm chứng sự thật.
 
-**뉘앙스와 사용법:** 단순히 내용을 읽는 것이 아니라 출처·수치·발언 기록을 확인하는 저널리즘 관행을 말한다.
+**뉘앙스와 사용법:** Điều này đề cập đến hoạt động báo chí kiểm tra các nguồn, số liệu và hồ sơ nhận xét thay vì chỉ đọc nội dung.
 
-**재사용 가능한 콜로케이션·청크:** `사실확인 보도`, `사실확인 결과`, `사실확인팀`, `사실확인을 거치다`.
+**재사용 가능한 콜로케이션·청크:** `사실확인 보도`, `사실확인 결과`, `사실확인팀`, `사실확인을 거치다`. — 'Báo cáo xác minh thực tế', 'Kết quả xác minh thực tế', 'Nhóm kiểm tra thực tế', 'Tiến hành xác minh thực tế'.
 
-**자주 쓰는 문형과 성분:** `주장을 사실확인하다`; 발언·통계·자료·출처와 결합한다.
+**자주 쓰는 문형과 성분:** `주장을 사실확인하다`, `Kiểm tra tính xác thực của tuyên bố` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론·선거·공공기관의 공식 담화에서 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng trong diễn ngôn chính thức trên các phương tiện truyền thông, bầu cử và các tổ chức công cộng.
 
 **예문:** 기자는 영상의 촬영 시점과 장소를 확인한 뒤 사실확인 결과를 발표했다.
 
-**어휘 연결:** `사실확인`은 공개 주장을 검증하는 절차, `검증`은 연구·기술까지 넓은 말, `확인`은 일반적인 점검이다.
+**Dịch:** Phóng viên xác nhận thời gian, địa điểm quay video và công bố kết quả xác minh tính xác thực.
 
-**영어 참고:** *fact-checking*, *fact verification*, *verification process* — *fact-checking*은 공적 주장에 대한 사실 대조 활동이다.
+**어휘 연결:** `사실확인`은 공개 주장을 검증하는 절차, `검증`은 연구·기술까지 넓은 말, `확인`은 일반적인 점검이다. — 'Xác minh sự thật' là một thủ tục để xác minh các tuyên bố công khai, 'xác minh' là một thuật ngữ rộng bao gồm nghiên cứu và công nghệ, và 'xác minh' là kiểm tra chung.
+
+**영어 참고:** *fact-checking*, *fact verification*, *verification process* — *kiểm tra sự thật* là hoạt động so sánh sự thật với các tuyên bố của công chúng.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** kích động, tuyên truyền kích động.
 
-**뉘앙스와 사용법:** 단순한 설득보다 공포·분노·적대감을 이용해 이성적 판단을 약화한다는 부정적 평가가 들어 있다.
+**뉘앙스와 사용법:** Có đánh giá tiêu cực rằng nó làm suy yếu khả năng phán đoán hợp lý bằng cách sử dụng nỗi sợ hãi, tức giận và thù địch thay vì thuyết phục đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `선동적인 발언`, `대중을 선동하다`, `선동 정치`, `선동에 휩쓸리다`.
+**재사용 가능한 콜로케이션·청크:** `선동적인 발언`, `대중을 선동하다`, `선동 정치`, `선동에 휩쓸리다`. — `nhận xét mang tính kích động`, `kích động công chúng`, `chính trị gây kích động`, `bị cuốn vào kích động`.
 
-**자주 쓰는 문형과 성분:** `사람을 선동하다`; 군중·감정·혐오·폭력과 결합한다.
+**자주 쓰는 문형과 성분:** `사람을 선동하다`, `kích động mọi người` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치·사회 비평·역사 서술에서 강한 평가어로 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng như một từ đánh giá mạnh mẽ trong các câu chuyện chính trị, xã hội và lịch sử.
 
 **예문:** 사실을 설명하기보다 상대 집단에 대한 분노를 키우는 말은 선동에 가깝다.
 
-**어휘 연결:** `선동`은 감정적 몰아가기, `설득`은 근거로 판단을 바꾸려는 중립적 행위, `동원`은 사람과 자원을 행동에 참여시키는 과정이다.
+**Dịch:** Những lời nói làm tăng sự tức giận đối với nhóm đối lập hơn là giải thích sự thật gần với sự kích động hơn.
 
-**영어 참고:** *incitement*, *agitprop*, *demagoguery* — *demagoguery*는 대중의 감정을 이용하는 정치적 수사를 비판하는 말이다.
+**어휘 연결:** `선동`은 감정적 몰아가기, `설득`은 근거로 판단을 바꾸려는 중립적 행위, `동원`은 사람과 자원을 행동에 참여시키는 과정이다. — `Kích động` là động lực cảm xúc, `thuyết phục` là hành động trung lập để thay đổi phán đoán dựa trên bằng chứng và `huy động` là quá trình lôi kéo mọi người và nguồn lực tham gia vào hành động.
+
+**영어 참고:** *incitement*, *agitprop*, *demagoguery* — *mục đích* là một thuật ngữ chỉ trích lối hùng biện chính trị lợi dụng cảm xúc của công chúng.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** dư luận.
 
-**뉘앙스와 사용법:** 실제 인구 전체의 의견과 온라인에서 크게 보이는 반응은 다를 수 있으므로 조사 방식과 표본을 함께 살펴야 한다.
+**뉘앙스와 사용법:** Ý kiến ​​của toàn bộ người dân thực tế và phản ứng nhìn thấy trực tuyến có thể khác nhau, vì vậy phương pháp khảo sát và mẫu phải được kiểm tra cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `여론의 향방`, `여론을 살피다`, `여론이 들끓다`, `여론조사`.
+**재사용 가능한 콜로케이션·청크:** `여론의 향방`, `여론을 살피다`, `여론이 들끓다`, `여론조사`. — `Định hướng dư luận`, `Nhìn vào dư luận`, `Dư luận sôi sục`, `Khảo sát ý kiến`.
 
-**자주 쓰는 문형과 성분:** `여론이 + 움직이다/악화되다`; 정책·선거·사건·댓글과 결합한다.
+**자주 쓰는 문형과 성분:** `여론이 + 움직이다/악화되다`, `Dư luận + di chuyển/trở nên tồi tệ hơn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·정치·일상 대화에서 현재 매우 활발히 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng rất tích cực trong tin tức, chính trị và các cuộc trò chuyện hàng ngày.
 
 **예문:** 댓글 수만으로 전체 여론을 대표한다고 판단해서는 안 된다.
 
-**어휘 연결:** `여론`은 사회적 의견의 흐름, `민심`은 시민의 정서와 신뢰를 강조, `댓글 반응`은 온라인 이용자의 제한된 반응이다.
+**Dịch:** Bạn không nên đánh giá rằng chỉ riêng số lượng bình luận đã đại diện cho toàn bộ dư luận.
 
-**영어 참고:** *public opinion*, *sentiment*, *the public mood* — *sentiment*는 특정 사안에 대한 정서적 방향을 강조한다.
+**어휘 연결:** `여론`은 사회적 의견의 흐름, `민심`은 시민의 정서와 신뢰를 강조, `댓글 반응`은 온라인 이용자의 제한된 반응이다. — 'Dư luận' là luồng ý kiến ​​xã hội, 'tình cảm của công chúng' nhấn mạnh cảm xúc và sự tin tưởng của người dân và 'phản hồi bình luận' là phản hồi hạn chế của người dùng trực tuyến.
+
+**영어 참고:** *public opinion*, *sentiment*, *the public mood* — *tình cảm* nhấn mạnh hướng cảm xúc về một vấn đề cụ thể.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** cách định khung thông tin, framing.
 
-**뉘앙스와 사용법:** 무엇을 강조하고 무엇을 배경으로 밀어내는지 분석할 때 쓰며, 반드시 거짓이라는 뜻은 아니다.
+**뉘앙스와 사용법:** Được sử dụng để phân tích nội dung được nhấn mạnh và nội dung bị đẩy xuống nền và không nhất thiết có nghĩa là nội dung đó sai.
 
-**재사용 가능한 콜로케이션·청크:** `뉴스 프레이밍`, `프레임을 씌우다`, `프레이밍 효과`, `사건을 프레이밍하다`.
+**재사용 가능한 콜로케이션·청크:** `뉴스 프레이밍`, `프레임을 씌우다`, `프레이밍 효과`, `사건을 프레이밍하다`. — `Đóng khung tin tức`, `Đặt khung`, `Hiệu ứng đóng khung`, `Đóng khung một sự kiện`.
 
-**자주 쓰는 문형과 성분:** `사건을 N으로 프레이밍하다`; 제목·사진·정책·담론과 결합한다.
+**자주 쓰는 문형과 성분:** `사건을 N으로 프레이밍하다`, `Đóng khung sự kiện bằng N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 연구·정치 분석·광고 비평의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ dành cho nghiên cứu truyền thông, phân tích chính trị và phê bình quảng cáo.
 
 **예문:** 같은 통계도 위기라는 프레이밍과 기회라는 프레이밍에 따라 전혀 다르게 읽힌다.
 
-**어휘 연결:** `프레이밍`은 해석의 틀을 구성, `왜곡`은 사실이나 의미를 비틀어 바꿈, `편집`은 전달할 내용을 선택·배열하는 넓은 행위다.
+**Dịch:** Các số liệu thống kê giống nhau được đọc hoàn toàn khác nhau tùy thuộc vào khuôn khổ của một cuộc khủng hoảng hoặc một cơ hội.
 
-**영어 참고:** *framing*, *framing effect*, *narrative frame* — *framing effect*는 표현 방식이 판단에 미치는 영향을 가리킨다.
+**어휘 연결:** `프레이밍`은 해석의 틀을 구성, `왜곡`은 사실이나 의미를 비틀어 바꿈, `편집`은 전달할 내용을 선택·배열하는 넓은 행위다. — `Đóng khung` tạo thành một khuôn khổ để diễn giải, `bóp méo` là bóp méo sự thật hoặc ý nghĩa và `chỉnh sửa` là một hành động rộng rãi nhằm lựa chọn và sắp xếp nội dung cần truyền tải.
+
+**영어 참고:** *framing*, *framing effect*, *narrative frame* — *hiệu ứng đóng khung* đề cập đến ảnh hưởng của phương pháp diễn đạt đến phán đoán.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** thiên kiến xác nhận.
 
-**뉘앙스와 사용법:** 누구에게나 생길 수 있는 인지 경향으로 설명하며, 상대를 무조건 비난하는 표현으로 쓰면 분석력이 떨어진다.
+**뉘앙스와 사용법:** Nó được mô tả là một xu hướng nhận thức có thể xảy ra ở bất kỳ ai và nếu nó được sử dụng như một biểu hiện chỉ trích người khác một cách vô điều kiện thì khả năng phân tích sẽ bị giảm đi.
 
-**재사용 가능한 콜로케이션·청크:** `확증편향에 빠지다`, `확증편향을 경계하다`, `확증편향을 강화하다`, `확증편향적 사고`.
+**재사용 가능한 콜로케이션·청크:** `확증편향에 빠지다`, `확증편향을 경계하다`, `확증편향을 강화하다`, `확증편향적 사고`. — 'Rơi vào thành kiến ​​xác nhận', 'Hãy cẩn thận với thành kiến ​​xác nhận', 'Tăng cường thành kiến ​​xác nhận', 'Suy nghĩ thiên vị xác nhận'.
 
-**자주 쓰는 문형과 성분:** `확증편향이 + 작동하다/강해지다`; 검색·추천·정치·논쟁과 결합한다.
+**자주 쓰는 문형과 성분:** `확증편향이 + 작동하다/강해지다`, `Xác nhận thiên vị + hoạt động/trở nên mạnh hơn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 심리학·미디어 리터러시·토론 교육의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho tâm lý học, hiểu biết về truyền thông và giáo dục tranh luận.
 
 **예문:** 자신과 같은 의견의 영상만 보면 확증편향이 더 강해질 수 있다.
 
-**어휘 연결:** `확증편향`은 믿음을 확인하는 정보 선택, `편견`은 대상에 대한 선입견, `고정관념`은 집단을 단순화한 믿음이다.
+**Dịch:** Thành kiến ​​xác nhận có thể trở nên mạnh mẽ hơn nếu bạn chỉ xem video của những người có cùng quan điểm với bạn.
 
-**영어 참고:** *confirmation bias*, *cognitive bias*, *motivated reasoning* — *motivated reasoning*은 원하는 결론에 맞춰 추론하는 과정까지 강조한다.
+**어휘 연결:** `확증편향`은 믿음을 확인하는 정보 선택, `편견`은 대상에 대한 선입견, `고정관념`은 집단을 단순화한 믿음이다. — 'Thành kiến ​​xác nhận' là việc lựa chọn thông tin xác nhận một niềm tin, 'định kiến' là một khái niệm định sẵn về một đối tượng và 'khuôn mẫu' là niềm tin giúp đơn giản hóa một nhóm.
+
+**영어 참고:** *confirmation bias*, *cognitive bias*, *motivated reasoning* — *lý luận có động cơ* nhấn mạnh quá trình lý luận theo kết luận mong muốn.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** không gian công luận.
 
-**뉘앙스와 사용법:** 단순히 사람이 모인 곳보다 근거를 제시하고 서로 반박하며 공적 판단을 만들어 가는 기능을 강조한다.
+**뉘앙스와 사용법:** Thay vì chỉ đơn giản là nơi mọi người tụ tập, chức năng đưa ra bằng chứng, mâu thuẫn với nhau và đưa ra đánh giá công khai được nhấn mạnh.
 
-**재사용 가능한 콜로케이션·청크:** `공론장을 열다`, `공론장에서 논의하다`, `건강한 공론장`, `공론장의 붕괴`.
+**재사용 가능한 콜로케이션·청크:** `공론장을 열다`, `공론장에서 논의하다`, `건강한 공론장`, `공론장의 붕괴`. — ‘Mở phạm vi công cộng’, ‘Thảo luận trong phạm vi công cộng’, ‘Không gian công cộng lành mạnh’, ‘Sự sụp đổ của phạm vi công cộng’.
 
-**자주 쓰는 문형과 성분:** `공론장에서 N을 논의하다`; 시민·언론·정책·토론과 결합한다.
+**자주 쓰는 문형과 성분:** `공론장에서 N을 논의하다`, `Thảo luận về N trong diễn đàn công cộng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정치 철학·시민사회·언론 담화의 문어적 표현이다.
+**사회적 관계·주제별 register:** Nó là sự thể hiện bằng văn bản về triết lý chính trị, xã hội dân sự và diễn ngôn truyền thông.
 
 **예문:** 서로 다른 의견이 안전하게 부딪힐 수 있어야 공론장이 유지된다.
 
-**어휘 연결:** `공론장`은 공적 논의의 구조, `여론`은 그 과정에서 형성된 의견 흐름, `토론장`은 실제 논쟁이 벌어지는 장소나 형식이다.
+**Dịch:** Một diễn đàn công khai chỉ có thể được duy trì khi các ý kiến ​​khác nhau có thể xung đột một cách an toàn.
 
-**영어 참고:** *public sphere*, *public forum*, *deliberative space* — *public sphere*는 공적 의견이 형성되는 사회적 영역을 뜻한다.
+**어휘 연결:** `공론장`은 공적 논의의 구조, `여론`은 그 과정에서 형성된 의견 흐름, `토론장`은 실제 논쟁이 벌어지는 장소나 형식이다. — 'Diễn đàn công cộng' là cấu trúc của cuộc thảo luận công khai, 'ý kiến ​​công chúng' là luồng ý kiến ​​được hình thành trong quá trình và 'diễn đàn tranh luận' là địa điểm hoặc hình thức diễn ra cuộc tranh luận thực tế.
+
+**영어 참고:** *public sphere*, *public forum*, *deliberative space* — *lĩnh vực công cộng* đề cập đến lĩnh vực xã hội nơi ý kiến ​​công chúng được hình thành.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** giọng điệu, lập trường của bài viết.
 
-**뉘앙스와 사용법:** 단어 하나의 감정보다 기사 전체에 흐르는 비판·옹호·중립의 결을 분석할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng để phân tích kết cấu phê phán, ủng hộ và tính trung lập xuyên suốt toàn bộ bài viết chứ không phải cảm xúc của một từ duy nhất.
 
-**재사용 가능한 콜로케이션·청크:** `비판적 논조`, `논조를 유지하다`, `논조가 달라지다`, `논조의 변화`.
+**재사용 가능한 콜로케이션·청크:** `비판적 논조`, `논조를 유지하다`, `논조가 달라지다`, `논조의 변화`. — `Âm thanh quan trọng`, `Duy trì âm sắc`, `Thay đổi âm sắc`, `Thay đổi âm sắc`.
 
-**자주 쓰는 문형과 성분:** `N의 논조`; 기사·사설·칼럼·방송과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 논조`, `Âm điệu N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론 비평·문학·정치 분석에서 쓰는 문어적 표현이다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt bằng văn bản được sử dụng trong phê bình truyền thông, văn học và phân tích chính trị.
 
 **예문:** 같은 사건을 다뤄도 두 신문의 논조는 상당히 달랐다.
 
-**어휘 연결:** `논조`는 글 전체의 태도, `어조`는 말이나 문장의 말투, `논지`는 주장의 핵심 흐름이다.
+**Dịch:** Mặc dù đưa tin về cùng một sự việc nhưng giọng điệu của hai tờ báo khá khác nhau.
 
-**영어 참고:** *editorial tone*, *stance*, *editorial line* — *stance*는 입장, *editorial tone*은 표현의 분위기와 방향을 함께 담는다.
+**어휘 연결:** `논조`는 글 전체의 태도, `어조`는 말이나 문장의 말투, `논지`는 주장의 핵심 흐름이다. — 'Giọng điệu' là thái độ của toàn bộ văn bản, 'Giọng điệu' là giọng điệu của từ hoặc câu và 'Tranh luận' là luồng cốt lõi của lập luận.
+
+**영어 참고:** *editorial tone*, *stance*, *editorial line* — *lập trường* chứa lập trường và *giọng điệu biên tập* chứa tâm trạng và hướng diễn đạt.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** tác nghiệp, thu thập tin tức.
 
-**뉘앙스와 사용법:** 단순히 정보를 검색하는 것보다 현장 확인·인터뷰·자료 대조를 포함하는 전문적인 활동이다.
+**뉘앙스와 사용법:** Đây là hoạt động chuyên nghiệp bao gồm xác minh tại chỗ, phỏng vấn và so sánh dữ liệu thay vì chỉ tìm kiếm thông tin.
 
-**재사용 가능한 콜로케이션·청크:** `현장 취재`, `취재 경쟁`, `취재원을 보호하다`, `취재하다`.
+**재사용 가능한 콜로케이션·청크:** `현장 취재`, `취재 경쟁`, `취재원을 보호하다`, `취재하다`. — `Báo cáo tại chỗ`, `Báo cáo cuộc thi`, `Bảo vệ phóng viên`, `Báo cáo`.
 
-**자주 쓰는 문형과 성분:** `사건을 취재하다`; 기자·현장·관계자·자료와 결합한다.
+**자주 쓰는 문형과 성분:** `사건을 취재하다`, `đưa tin về một sự việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 언론·방송·탐사보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho báo chí, phát thanh truyền hình và báo cáo điều tra.
 
 **예문:** 기자는 여러 관계자를 취재한 뒤 서로 다른 증언을 대조했다.
 
-**어휘 연결:** `취재`는 보도를 위한 조사, `조사`는 연구·행정까지 넓은 말, `인터뷰`는 직접 질문하고 답을 듣는 한 방식이다.
+**Dịch:** Phóng viên đã phỏng vấn một số quan chức và so sánh các lời khai khác nhau.
 
-**영어 참고:** *reporting*, *journalistic investigation*, *newsgathering* — *newsgathering*은 자료·제보·현장 정보를 모으는 전체 과정이다.
+**어휘 연결:** `취재`는 보도를 위한 조사, `조사`는 연구·행정까지 넓은 말, `인터뷰`는 직접 질문하고 답을 듣는 한 방식이다. — 'Báo cáo' là một cuộc điều tra nhằm mục đích báo cáo, 'điều tra' là một thuật ngữ rộng bao gồm nghiên cứu và quản lý, và 'phỏng vấn' là một phương pháp đặt câu hỏi trực tiếp và nhận câu trả lời.
+
+**영어 참고:** *reporting*, *journalistic investigation*, *newsgathering* — *thu thập tin tức* là toàn bộ quá trình thu thập dữ liệu, báo cáo và thông tin hiện trường.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** bóp méo, xuyên tạc.
 
-**뉘앙스와 사용법:** 단순한 실수보다 선택·편집·해석 때문에 의미가 달라졌다는 비판적 느낌이 있다.
+**뉘앙스와 사용법:** Có cảm giác quan trọng rằng ý nghĩa đã thay đổi do sự lựa chọn, chỉnh sửa và diễn giải chứ không phải do những lỗi đơn giản.
 
-**재사용 가능한 콜로케이션·청크:** `사실 왜곡`, `역사 왜곡`, `왜곡 보도`, `왜곡하다`.
+**재사용 가능한 콜로케이션·청크:** `사실 왜곡`, `역사 왜곡`, `왜곡 보도`, `왜곡하다`. — `bóp méo sự thật`, `bóp méo lịch sử`, `báo cáo bóp méo`, `bóp méo`.
 
-**자주 쓰는 문형과 성분:** `N을/를 왜곡하다`; 발언·통계·역사·맥락과 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 왜곡하다`, `Làm biến dạng/N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스 비평·역사·정치 담화에서 강한 평가어다.
+**사회적 관계·주제별 register:** Đó là một từ có tính đánh giá mạnh mẽ trong phê bình tin tức, lịch sử và diễn ngôn chính trị.
 
 **예문:** 짧은 문장만 잘라 인용하면 발언의 취지가 왜곡될 수 있다.
 
-**어휘 연결:** `왜곡`은 의미를 비틀어 바꿈, `오해`는 잘못 이해함, `조작`은 의도적으로 결과나 자료를 꾸밈이다.
+**Dịch:** Nếu bạn chỉ trích dẫn những câu ngắn, mục đích của tuyên bố có thể bị bóp méo.
 
-**영어 참고:** *distortion*, *misrepresentation*, *twisting* — *misrepresentation*은 사실이나 입장을 부정확하게 제시하는 행위다.
+**어휘 연결:** `왜곡`은 의미를 비틀어 바꿈, `오해`는 잘못 이해함, `조작`은 의도적으로 결과나 자료를 꾸밈이다. — 'Xuyên tạc' là bóp méo ý nghĩa, 'hiểu lầm' là hiểu lầm và 'thao túng' là cố tình tô điểm kết quả hoặc dữ liệu.
+
+**영어 참고:** *distortion*, *misrepresentation*, *twisting* — *trình bày sai* là hành động trình bày sự kiện hoặc quan điểm không chính xác.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** giật gân, câu khách.
 
-**뉘앙스와 사용법:** 성적인 의미로만 한정되지 않으며, 폭력·공포·분노를 과도하게 내세우는 제목과 보도에도 쓴다.
+**뉘앙스와 사용법:** Nó không bị giới hạn ở hàm ý tình dục và còn được sử dụng trong các tiêu đề và báo cáo mô tả quá nhiều bạo lực, sợ hãi và tức giận.
 
-**재사용 가능한 콜로케이션·청크:** `선정적 보도`, `선정적인 제목`, `선정성을 부추기다`, `선정적으로 다루다`.
+**재사용 가능한 콜로케이션·청크:** `선정적 보도`, `선정적인 제목`, `선정성을 부추기다`, `선정적으로 다루다`. — `báo cáo giật gân`, `tiêu đề giật gân`, `kích động chủ nghĩa giật gân`, `che đậy giật gân`.
 
-**자주 쓰는 문형과 성분:** `선정적으로 + 보도하다/편집하다`; 기사·사진·방송·광고와 결합한다.
+**자주 쓰는 문형과 성분:** `선정적으로 + 보도하다/편집하다`, `giật gân + báo cáo/chỉnh sửa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미디어 비평과 공적 담화에서 부정적인 평가를 나타낸다.
+**사회적 관계·주제별 register:** Biểu thị những đánh giá tiêu cực trong phê bình truyền thông và diễn ngôn công khai.
 
 **예문:** 피해자의 사진을 크게 내건 선정적 보도는 알 권리보다 사생활 침해를 키울 수 있다.
 
-**어휘 연결:** `선정적`은 자극으로 관심을 끎, `자극적`은 감각이나 감정을 강하게 건드림, `과장된`은 실제보다 크게 표현함이다.
+**Dịch:** Báo cáo giật gân có ảnh lớn của nạn nhân có thể làm tăng hành vi vi phạm quyền riêng tư hơn là quyền được biết.
 
-**영어 참고:** *sensational*, *salacious*, *clickbait-oriented* — *clickbait-oriented*는 클릭을 유도하는 제목 전략을 강조한다.
+**어휘 연결:** `선정적`은 자극으로 관심을 끎, `자극적`은 감각이나 감정을 강하게 건드림, `과장된`은 실제보다 크게 표현함이다. — 'Giật gân' có nghĩa là thu hút sự chú ý thông qua sự kích thích, 'kích thích' có nghĩa là chạm vào các giác quan hoặc cảm xúc một cách mạnh mẽ và 'cường điệu' có nghĩa là thể hiện điều gì đó lớn hơn thực tế.
+
+**영어 참고:** *sensational*, *salacious*, *clickbait-oriented* — *định hướng dụ nhấp chuột* nhấn mạnh chiến lược tiêu đề thu hút nhấp chuột.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** bối cảnh.
 
-**뉘앙스와 사용법:** 한 문장이나 숫자만 떼어 판단하지 않고 시간·관계·목적을 함께 본다는 뜻으로 자주 쓴다.
+**뉘앙스와 사용법:** Nó thường được dùng với nghĩa là xem xét thời gian, mối quan hệ và mục đích cùng nhau thay vì chỉ đánh giá một câu hoặc một con số.
 
-**재사용 가능한 콜로케이션·청크:** `맥락을 고려하다`, `맥락을 잃다`, `맥락상`, `역사적 맥락`.
+**재사용 가능한 콜로케이션·청크:** `맥락을 고려하다`, `맥락을 잃다`, `맥락상`, `역사적 맥락`. — `Xem xét bối cảnh`, `Mất bối cảnh`, `Ngữ cảnh`, `Bối cảnh lịch sử`.
 
-**자주 쓰는 문형과 성분:** `N의 맥락`; 발언·사건·정책·인용과 결합한다.
+**자주 쓰는 문형과 성분:** `N의 맥락`, `Ngữ cảnh của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학술·언론·일상 설명 모두에서 널리 쓰이지만 다소 추상적이다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong học thuật, truyền thông và giải thích hàng ngày nhưng hơi trừu tượng.
 
 **예문:** 그 발언은 당시의 역사적 맥락을 빼고 보면 전혀 다르게 들린다.
 
-**어휘 연결:** `맥락`은 의미를 둘러싼 상황과 관계, `배경`은 원인과 환경, `전후 사정`은 구체적인 사건의 앞뒤 사정을 말한다.
+**Dịch:** Câu nói đó nghe có vẻ hoàn toàn khác nếu bạn loại bỏ bối cảnh lịch sử vào thời điểm đó.
 
-**영어 참고:** *context*, *contextual background*, *situational frame* — *context*가 가장 일반적이고 학술·일상 모두에 쓰인다.
+**어휘 연결:** `맥락`은 의미를 둘러싼 상황과 관계, `배경`은 원인과 환경, `전후 사정`은 구체적인 사건의 앞뒤 사정을 말한다. — 'Ngữ cảnh' ám chỉ tình huống và mối quan hệ xung quanh ý nghĩa, 'nền tảng' ám chỉ nguyên nhân và môi trường, và 'ngữ cảnh' ám chỉ hoàn cảnh trước và sau một sự kiện cụ thể.
+
+**영어 참고:** *context*, *contextual background*, *situational frame* — *ngữ cảnh* là phổ biến nhất và được sử dụng trong cả học tập lẫn cuộc sống hàng ngày.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** nguồn, nguồn trích dẫn.
 
-**뉘앙스와 사용법:** 정보의 신뢰도를 판단할 때 원출처인지, 재인용인지, 익명 제보인지 구분하는 것이 중요하다.
+**뉘앙스와 사용법:** Khi đánh giá độ tin cậy của thông tin, điều quan trọng là phải phân biệt được đó là nguồn gốc, trích dẫn lại hay mẹo ẩn danh.
 
-**재사용 가능한 콜로케이션·청크:** `출처를 밝히다`, `출처가 불분명하다`, `원출처`, `공식 출처`.
+**재사용 가능한 콜로케이션·청크:** `출처를 밝히다`, `출처가 불분명하다`, `원출처`, `공식 출처`. — `Cho biết nguồn`, `Nguồn không rõ ràng`, `Nguồn gốc`, `Nguồn chính thức`.
 
-**자주 쓰는 문형과 성분:** `출처를 + 확인하다/표시하다`; 기사·통계·사진·인용과 결합한다.
+**자주 쓰는 문형과 성분:** `출처를 + 확인하다/표시하다`, `+ kiểm tra/đánh dấu nguồn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 연구·언론·온라인 정보 공유에서 핵심적인 중립어다.
+**사회적 관계·주제별 register:** Ngôn ngữ trung lập quan trọng trong nghiên cứu, truyền thông và chia sẻ thông tin trực tuyến.
 
 **예문:** 출처가 불분명한 통계는 숫자가 그럴듯해도 그대로 인용하지 않았다.
 
-**어휘 연결:** `출처`는 정보가 나온 곳, `근거`는 주장을 뒷받침하는 이유·자료, `원문`은 인용된 자료의 최초 텍스트다.
+**Dịch:** Thống kê từ các nguồn không xác định đã không được trích dẫn nguyên trạng, ngay cả khi các con số đó hợp lý.
 
-**영어 참고:** *source*, *origin*, *source attribution* — *source attribution*은 출처를 밝히고 공로를 표시하는 관행이다.
+**어휘 연결:** `출처`는 정보가 나온 곳, `근거`는 주장을 뒷받침하는 이유·자료, `원문`은 인용된 자료의 최초 텍스트다. — 'Nguồn' là nơi xuất phát thông tin, 'Cơ sở' là lý do/dữ liệu hỗ trợ cho tuyên bố và 'Văn bản gốc' là văn bản gốc của dữ liệu được trích dẫn.
+
+**영어 참고:** *source*, *origin*, *source attribution* — *ghi công nguồn* là cách thực hành trích dẫn nguồn và ghi công.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** trích dẫn.
 
-**뉘앙스와 사용법:** 정확한 출처와 앞뒤 맥락을 함께 제시해야 하며, 일부만 잘라 의미를 바꾸면 왜곡이 된다.
+**뉘앙스와 사용법:** Nguồn và ngữ cảnh chính xác phải được trình bày cùng nhau. Chỉ cắt bỏ một phần và thay đổi ý nghĩa sẽ dẫn đến sự biến dạng.
 
-**재사용 가능한 콜로케이션·청크:** `직접 인용`, `간접 인용`, `인용 부호`, `인용하다`.
+**재사용 가능한 콜로케이션·청크:** `직접 인용`, `간접 인용`, `인용 부호`, `인용하다`. — `trích dẫn trực tiếp`, `trích dẫn gián tiếp`, `dấu ngoặc kép`, `trích dẫn`.
 
-**자주 쓰는 문형과 성분:** `N을/를 인용하다`; 발언·논문·기사·출처와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 인용하다`, `trích dẫn N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 학술·언론·법률 문서에서 주로 쓰는 공식어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức được sử dụng chủ yếu trong các tài liệu học thuật, truyền thông và pháp lý.
 
 **예문:** 인터뷰 문장을 인용할 때는 발언이 나온 맥락과 날짜도 함께 적었다.
 
-**어휘 연결:** `인용`은 남의 표현을 가져옴, `참조`는 자료를 참고함, `표절`은 출처를 밝히지 않고 남의 표현을 자기 것처럼 사용함이다.
+**Dịch:** Khi trích dẫn một câu phỏng vấn, ngữ cảnh và ngày tháng của câu phát biểu cũng được ghi lại.
 
-**영어 참고:** *quotation*, *citation*, *reference* — *quotation*은 문장을 그대로 옮김, *citation*은 출처를 표시하는 형식까지 포함한다.
+**어휘 연결:** `인용`은 남의 표현을 가져옴, `참조`는 자료를 참고함, `표절`은 출처를 밝히지 않고 남의 표현을 자기 것처럼 사용함이다. — 'Trích dẫn' là lấy cách diễn đạt của người khác, 'tham khảo' đang đề cập đến dữ liệu và 'đạo văn' là sử dụng cách diễn đạt của người khác làm của mình mà không tiết lộ nguồn.
+
+**영어 참고:** *quotation*, *citation*, *reference* — *trích dẫn* dịch nguyên câu và *trích dẫn* bao gồm hình thức chỉ rõ nguồn.
 
 ---
 

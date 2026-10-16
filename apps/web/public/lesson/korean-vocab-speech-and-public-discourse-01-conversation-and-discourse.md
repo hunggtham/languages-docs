@@ -15,17 +15,19 @@
 
 **뉘앙스와 사용법:** `잡담`의 동사형으로, 관계를 부드럽게 하는 긍정적 대화와 본론을 방해하는 불필요한 말을 모두 가리킬 수 있다.
 
-**재사용 가능한 콜로케이션·청크:** `잠깐 잡담하다`, `커피를 마시며 잡담하다`, `잡담하다가 본론으로 넘어가다`.
+**재사용 가능한 콜로케이션·청크:** `잠깐 잡담하다`, `커피를 마시며 잡담하다`, `잡담하다가 본론으로 넘어가다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N과/와 잡담하다`; `잡담하다가 + 본론`; 친구·동료·방송 진행자와 결합한다.
+**자주 쓰는 문형과 성분:** `N과/와 잡담하다`, `잡담하다가 + 본론` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이고 친근하다. 공식 회의 기록이나 보고서에는 적합하지 않다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 녹음 전에는 긴장을 풀려고 진행자와 게스트가 잠깐 잡담했다.
 
-**어휘 연결:** `대화하다`는 중립적 대화, `수다를 떨다`는 친하고 오래 이어지는 말, `잡담하다`는 본론과 거리가 있는 가벼운 말이라는 느낌이 있다.
+**Dịch:** 녹음 전에는 긴장을 풀려고 진행자와 게스트가 잠깐 잡담했다.
 
-**영어 참고:** *chat*, *make small talk*, *chitchat* — *chat*은 넓은 구어 대화, *make small talk*은 관계를 부드럽게 하는 가벼운 말, *chitchat*은 내용이 가벼움을 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `잡담하다`.
+
+**영어 참고:** *chat*, *make small talk*, *chitchat* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -40,17 +42,19 @@
 
 **뉘앙스와 사용법:** `잡담`과 비슷하지만 조금 더 문어적이고 여유로운 분위기가 있다. 문학·수필에서 자주 보인다.
 
-**재사용 가능한 콜로케이션·청크:** `한담을 나누다`, `한담을 즐기다`, `한담의 자리`, `차를 마시며 한담하다`.
+**재사용 가능한 콜로케이션·청크:** `한담을 나누다`, `한담을 즐기다`, `한담의 자리`, `차를 마시며 한담하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N과/와 한담을 나누다`; `한담을 하다`; 차·산책·손님·친구와 함께 쓴다.
+**자주 쓰는 문형과 성분:** `N과/와 한담을 나누다`, `한담을 하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문어적이고 정감 있는 표현이다. 업무 회의의 공식적인 대화를 뜻하지 않는다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 두 사람은 행사가 끝난 뒤 정원에서 한담을 나누며 오래된 기억을 떠올렸다.
 
-**어휘 연결:** `잡담`은 일상적이고 중립적인 가벼운 말, `한담`은 느긋하고 문학적인 말, `담소`는 정겹고 긍정적인 대화를 강조한다.
+**Dịch:** 두 사람은 행사가 끝난 뒤 정원에서 한담을 나누며 오래된 기억을 떠올렸다.
 
-**영어 참고:** *idle conversation*, *pleasant chat*, *conversation over tea* — *idle conversation*은 목적 없음, *pleasant chat*은 정겨움, *conversation over tea*는 여유로운 장면을 살린다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `한담`.
+
+**영어 참고:** *idle conversation*, *pleasant chat*, *conversation over tea* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -65,17 +69,19 @@
 
 **뉘앙스와 사용법:** 영어 *comment*나 *line*에서 온 실무·방송 용어다. 상황에 따라 홍보성 문구나 즉흥적인 한마디를 뜻한다.
 
-**재사용 가능한 콜로케이션·청크:** `오프닝 멘트`, `마무리 멘트`, `멘트를 치다`, `멘트를 준비하다`.
+**재사용 가능한 콜로케이션·청크:** `오프닝 멘트`, `마무리 멘트`, `멘트를 치다`, `멘트를 준비하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `멘트를 하다/날리다`; `N에 대한 멘트`; 방송·행사·인터뷰와 결합한다.
+**자주 쓰는 문형과 성분:** `멘트를 하다/날리다`, `N에 대한 멘트` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 방송·온라인·젊은 층의 구어 표현이다. 공식 문서에는 `발언`, `안내 문구`가 더 적절하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 진행자는 게스트를 소개하는 멘트를 짧고 자연스럽게 준비했다.
 
-**어휘 연결:** `발언`은 공식적으로 한 말, `멘트`는 짧고 연출된 한마디, `논평`은 사건에 대한 분석적 의견이다.
+**Dịch:** 진행자는 게스트를 소개하는 멘트를 짧고 자연스럽게 준비했다.
 
-**영어 참고:** *comment*, *line*, *remark* — *comment*는 말·의견 일반, *line*은 대본의 한마디, *remark*는 짧은 발언이나 논평이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `멘트`.
+
+**영어 참고:** *comment*, *line*, *remark* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -90,17 +96,19 @@
 
 **뉘앙스와 사용법:** 솔직함의 긍정적 의미도 있지만, 예의 없이 노골적이라는 비판이 함께 생길 수 있다.
 
-**재사용 가능한 콜로케이션·청크:** `대놓고 비판하다`, `대놓고 묻다`, `대놓고 거절하다`, `대놓고 드러내다`.
+**재사용 가능한 콜로케이션·청크:** `대놓고 비판하다`, `대놓고 묻다`, `대놓고 거절하다`, `대놓고 드러내다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `대놓고 + 동사`; 비판·요구·거절·차별 같은 행동과 결합한다.
+**자주 쓰는 문형과 성분:** `대놓고 + 동사` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이며 감정과 판단이 강하다. 공식 보고서에는 `공개적으로`, `노골적으로`가 더 정확하다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그는 회의에서 대놓고 반대했지만, 근거를 함께 제시해 논의를 앞으로 나아가게 했다.
 
-**어휘 연결:** `솔직하게`는 숨김이 없다는 긍정성, `노골적으로`는 지나치게 드러냄, `대놓고`는 상대의 반응을 감수하고 공개적으로 행동함을 강조한다.
+**Dịch:** 그는 회의에서 대놓고 반대했지만, 근거를 함께 제시해 논의를 앞으로 나아가게 했다.
 
-**영어 참고:** *openly*, *blatantly*, *right to someone’s face* — *openly*는 중립적 공개성, *blatantly*는 부정적 노골성, *right to someone’s face*는 대면 직설성을 뜻한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `대놓고`.
+
+**영어 참고:** *openly*, *blatantly*, *right to someone’s face* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -115,17 +123,19 @@
 
 **뉘앙스와 사용법:** `팩트 폭력`을 줄인 말이다. 친한 사이의 농담처럼도 쓰지만, 상대를 공개적으로 망신 주는 말이 될 수 있다.
 
-**재사용 가능한 콜로케이션·청크:** `팩폭을 날리다`, `팩폭을 당하다`, `뼈 때리는 팩폭`, `팩폭이지만 맞는 말`.
+**재사용 가능한 콜로케이션·청크:** `팩폭을 날리다`, `팩폭을 당하다`, `뼈 때리는 팩폭`, `팩폭이지만 맞는 말` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `팩폭을 하다/날리다`; 사람·상황의 모순이나 약점을 직설적으로 지적할 때 쓴다.
+**자주 쓰는 문형과 성분:** `팩폭을 하다/날리다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인터넷·젊은 층의 강한 구어체다. 직장 피드백이나 공적 발언에는 부적절할 수 있다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그 댓글은 팩폭처럼 보였지만, 공개된 자리에서 상대를 조롱하는 방식은 문제였다.
 
-**어휘 연결:** `직설적인 지적`은 중립적 설명, `팩폭`은 통쾌함과 공격성을 함께 가진 신조어, `비판`은 근거를 갖춘 평가다.
+**Dịch:** 그 댓글은 팩폭처럼 보였지만, 공개된 자리에서 상대를 조롱하는 방식은 문제였다.
 
-**영어 참고:** *brutal honesty*, *hard truth*, *call-out* — *brutal honesty*는 아프지만 솔직함, *hard truth*는 받아들이기 힘든 사실, *call-out*은 잘못을 공개적으로 지적함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `팩폭`.
+
+**영어 참고:** *brutal honesty*, *hard truth*, *call-out* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -140,17 +150,19 @@
 
 **뉘앙스와 사용법:** 본론을 바꾸지 않고 이해를 돕기 위해 세부를 추가한다. `부연하다`, `부연 설명`으로 자주 쓴다.
 
-**재사용 가능한 콜로케이션·청크:** `부연 설명`, `부연해서 말하다`, `필요한 부분을 부연하다`, `부연이 필요하다`.
+**재사용 가능한 콜로케이션·청크:** `부연 설명`, `부연해서 말하다`, `필요한 부분을 부연하다`, `부연이 필요하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 부연하다`; `부연해서 설명하다`; 주장·개념·절차에 세부를 덧붙인다.
+**자주 쓰는 문형과 성분:** `N을/를 부연하다`, `부연해서 설명하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 발표·보고서·논문·회의의 격식어다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 발표자는 통계의 의미를 부연해서 청중이 숫자의 한계를 이해하도록 했다.
 
-**어휘 연결:** `설명`은 이해시키는 전체 행위, `부연`은 이미 말한 내용을 더 자세히 풀이함, `첨언`은 짧은 추가 의견을 덧붙임이다.
+**Dịch:** 발표자는 통계의 의미를 부연해서 청중이 숫자의 한계를 이해하도록 했다.
 
-**영어 참고:** *elaborate*, *elaboration*, *expound* — *elaborate*는 자세히 설명함, *elaboration*은 추가 설명, *expound*는 복잡한 생각을 체계적으로 풀어냄이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `부연`.
+
+**영어 참고:** *elaborate*, *elaboration*, *expound* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -165,17 +177,19 @@
 
 **뉘앙스와 사용법:** 무겁고 우울하다는 뜻이 아니라, 쉽게 농담하거나 결론 내리지 않는 태도를 칭찬하는 말이다.
 
-**재사용 가능한 콜로케이션·청크:** `진중한 태도`, `진중하게 말하다`, `진중한 사람`, `진중한 대화`.
+**재사용 가능한 콜로케이션·청크:** `진중한 태도`, `진중하게 말하다`, `진중한 사람`, `진중한 대화` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 진중하다`; `진중하게 + 동사`; 사람·말투·대화·고민을 평가한다.
+**자주 쓰는 문형과 성분:** `N이/가 진중하다`, `진중하게 + 동사` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인터뷰·인물 평가·에세이의 중립적 칭찬 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 그는 질문을 가볍게 넘기지 않고 진중하게 생각한 뒤 대답했다.
 
-**어휘 연결:** `진지하다`는 장난이 아닌 태도, `신중하다`는 판단을 서두르지 않음, `진중하다`는 말과 사람에게 깊이와 무게가 느껴짐을 강조한다.
+**Dịch:** 그는 질문을 가볍게 넘기지 않고 진중하게 생각한 뒤 대답했다.
 
-**영어 참고:** *serious*, *thoughtful*, *measured* — *serious*는 진지함, *thoughtful*은 깊이 생각함, *measured*는 절제되고 신중한 표현을 뜻한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `진중하다`.
+
+**영어 참고:** *serious*, *thoughtful*, *measured* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -190,17 +204,19 @@
 
 **뉘앙스와 사용법:** 물리적인 울림과 사회적·정서적 여파를 모두 표현하는 문학적 단어다.
 
-**재사용 가능한 콜로케이션·청크:** `메아리가 울리다`, `목소리의 메아리`, `사회적 메아리`, `오래 메아리치다`.
+**재사용 가능한 콜로케이션·청크:** `메아리가 울리다`, `목소리의 메아리`, `사회적 메아리`, `오래 메아리치다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이 메아리치다`; `메아리처럼 남다`; 소리·말·기억·반응이 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이 메아리치다`, `메아리처럼 남다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문학·연설·기사 제목에서 비유적으로 자주 쓴다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 짧은 인터뷰였지만 그 발언은 온라인에서 큰 메아리를 만들었다.
 
-**어휘 연결:** `울림`은 감동과 여운, `반향`은 사회적·공적 반응, `메아리`는 되돌아오고 오래 퍼지는 이미지를 강조한다.
+**Dịch:** 짧은 인터뷰였지만 그 발언은 온라인에서 큰 메아리를 만들었다.
 
-**영어 참고:** *echo*, *resonance*, *reverberation* — *echo*는 소리와 반복 반응, *resonance*는 의미 있는 울림, *reverberation*은 오래 퍼지는 물리·사회적 여파다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `메아리`.
+
+**영어 참고:** *echo*, *resonance*, *reverberation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -215,17 +231,19 @@
 
 **뉘앙스와 사용법:** 단정하지 않으면서도 가능성이 높다고 분석할 때 쓴다. 보통 `~할 가능성이 다분하다`, `의도가 다분하다`처럼 사용한다.
 
-**재사용 가능한 콜로케이션·청크:** `오해의 소지가 다분하다`, `의도성이 다분하다`, `가능성이 다분하다`, `감정적인 표현이 다분하다`.
+**재사용 가능한 콜로케이션·청크:** `오해의 소지가 다분하다`, `의도성이 다분하다`, `가능성이 다분하다`, `감정적인 표현이 다분하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이 다분하다`; `V-(으)ㄹ 가능성이 다분하다`; 기사·비평·분석 문장과 잘 맞는다.
+**자주 쓰는 문형과 성분:** `N이 다분하다`, `V-(으)ㄹ 가능성이 다분하다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 문어·뉴스·논평의 분석어다. 친한 대화에서는 `가능성이 꽤 크다`가 자연스럽다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 근거 없이 특정 집단을 일반화한 표현은 편견이 다분하다.
 
-**어휘 연결:** `많다`는 양의 객관적 크기, `가능성이 크다`는 확률 판단, `다분하다`는 어떤 성질이 문장·행동에 상당히 드러난다는 분석적 평가다.
+**Dịch:** 근거 없이 특정 집단을 일반화한 표현은 편견이 다분하다.
 
-**영어 참고:** *likely*, *suggestive of*, *laden with* — *likely*는 가능성, *suggestive of*는 어떤 성질을 암시함, *laden with*는 감정·의도가 많이 담김을 말한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `다분하다`.
+
+**영어 참고:** *likely*, *suggestive of*, *laden with* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -240,17 +258,19 @@
 
 **뉘앙스와 사용법:** `무시하다`보다 중립적일 수 있지만, 중요한 조건을 빠뜨렸다는 비판으로도 쓰인다. 긍정형은 `염두에 두다`다.
 
-**재사용 가능한 콜로케이션·청크:** `위험을 염두에 두다`, `상대의 입장을 염두에 두지 않다`, `염두에 둘 필요가 있다`.
+**재사용 가능한 콜로케이션·청크:** `위험을 염두에 두다`, `상대의 입장을 염두에 두지 않다`, `염두에 둘 필요가 있다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 염두에 두다/두지 않다`; 위험·비용·독자·상황이 목적어가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 염두에 두다/두지 않다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 업무·정책·글쓰기의 중립적이고 문어적인 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 초보 독자를 염두에 두지 않으면 설명이 정확해도 이해하기 어려울 수 있다.
 
-**어휘 연결:** `고려하다`는 판단에 넣음, `염두에 두다`는 계속 기억하고 기준으로 삼음, `무시하다`는 중요성을 인정하지 않거나 외면함이다.
+**Dịch:** 초보 독자를 염두에 두지 않으면 설명이 정확해도 이해하기 어려울 수 있다.
 
-**영어 참고:** *keep in mind*, *take into account*, *disregard* — *keep in mind*는 기억해 둠, *take into account*는 판단에 반영, *disregard*는 고려하지 않고 무시함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `염두에 두지 않다`.
+
+**영어 참고:** *keep in mind*, *take into account*, *disregard* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -265,17 +285,19 @@
 
 **뉘앙스와 사용법:** 내용이 풍부하다는 칭찬이 아니라, 반복과 세부가 과해 전달력이 떨어진다는 비판이다.
 
-**재사용 가능한 콜로케이션·청크:** `장황한 설명`, `장황하게 말하다`, `설명이 장황하다`, `장황한 변명`.
+**재사용 가능한 콜로케이션·청크:** `장황한 설명`, `장황하게 말하다`, `설명이 장황하다`, `장황한 변명` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 장황하다`; `장황하게 + 동사`; 설명·연설·변명·문장이 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이/가 장황하다`, `장황하게 + 동사` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 글쓰기·발표·편집의 평가 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 보고서는 장황한 배경 설명을 줄이고 결론과 근거를 앞에 배치했다.
 
-**어휘 연결:** `자세하다`는 정보가 충분함, `상세하다`는 세부가 구체적임, `장황하다`는 길이에 비해 핵심 전달이 약하다는 부정적 평가다.
+**Dịch:** 보고서는 장황한 배경 설명을 줄이고 결론과 근거를 앞에 배치했다.
 
-**영어 참고:** *verbose*, *long-winded*, *rambling* — *verbose*는 말이 많고 공식적인 비판, *long-winded*는 지루하게 김, *rambling*은 논리가 흩어짐을 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `장황하다`.
+
+**영어 참고:** *verbose*, *long-winded*, *rambling* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -290,17 +312,19 @@
 
 **뉘앙스와 사용법:** 속도가 빠른 것보다 근거와 준비가 부족하다는 비판이다. `섣부른 판단`, `섣불리 결론 내리다`가 흔하다.
 
-**재사용 가능한 콜로케이션·청크:** `섣부른 판단`, `섣불리 결정하다`, `섣부른 일반화`, `섣부르게 대응하다`.
+**재사용 가능한 콜로케이션·청크:** `섣부른 판단`, `섣불리 결정하다`, `섣부른 일반화`, `섣부르게 대응하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `섣부른 N`; `섣불리 + 동사`; 판단·결론·대응·비판과 결합한다.
+**자주 쓰는 문형과 성분:** `섣부른 N`, `섣불리 + 동사` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기사·논평·조언에서 중립적인 경고 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 한 번의 실수만 보고 사람의 능력을 섣불리 판단해서는 안 된다.
 
-**어휘 연결:** `빠르다`는 시간의 속도, `성급하다`는 기다리지 못하는 성격, `섣부르다`는 근거가 부족한 판단이나 행동의 미숙함을 강조한다.
+**Dịch:** 한 번의 실수만 보고 사람의 능력을 섣불리 판단해서는 안 된다.
 
-**영어 참고:** *premature*, *hasty*, *rash* — *premature*는 시기가 이름, *hasty*는 급하게 함, *rash*는 위험할 정도로 경솔함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `섣부르다`.
+
+**영어 참고:** *premature*, *hasty*, *rash* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -315,17 +339,19 @@
 
 **뉘앙스와 사용법:** 시험·스포츠·업무에서 검증된 기본 방법을 뜻하며, 상황에 따라 창의적인 우회 방법과 대비된다.
 
-**재사용 가능한 콜로케이션·청크:** `정석대로 하다`, `정석을 따르다`, `정석적인 방법`, `정석 코스`.
+**재사용 가능한 콜로케이션·청크:** `정석대로 하다`, `정석을 따르다`, `정석적인 방법`, `정석 코스` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `정석대로 + 동사`; `정석을 따르다`; 공부·요리·운동·업무에 넓게 쓴다.
+**자주 쓰는 문형과 성분:** `정석대로 + 동사`, `정석을 따르다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교육·실무·스포츠·일상 조언에서 중립적이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 처음에는 정석대로 기본기를 익힌 뒤 자기만의 방식을 찾는 편이 좋다.
 
-**어휘 연결:** `기본`은 바탕이 되는 요소, `표준`은 공동 기준, `정석`은 실제로 검증된 전형적인 절차와 방법이다.
+**Dịch:** 처음에는 정석대로 기본기를 익힌 뒤 자기만의 방식을 찾는 편이 좋다.
 
-**영어 참고:** *textbook approach*, *orthodox method*, *standard playbook* — *textbook approach*는 교과서적인 방법, *orthodox method*는 정통 방식, *standard playbook*은 실무 절차를 뜻한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `정석`.
+
+**영어 참고:** *textbook approach*, *orthodox method*, *standard playbook* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -340,17 +366,19 @@
 
 **뉘앙스와 사용법:** 완전히 틀렸다는 뜻보다 구체화와 근거가 부족하다는 평가다. 계획·불안·기대·기억에 모두 쓸 수 있다.
 
-**재사용 가능한 콜로케이션·청크:** `막연한 기대`, `막연한 불안`, `막연하게 생각하다`, `계획이 막연하다`.
+**재사용 가능한 콜로케이션·청크:** `막연한 기대`, `막연한 불안`, `막연하게 생각하다`, `계획이 막연하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N이/가 막연하다`; `막연하게 + 동사`; 목표·계획·감정·기억과 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 막연하다`, `막연하게 + 동사` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·상담·기획·논평에서 폭넓게 쓰인다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 꿈이 있다는 말만으로는 부족하니 막연한 기대를 실행 계획으로 바꿔 보자.
 
-**어휘 연결:** `모호하다`는 경계나 의미가 불분명함, `추상적이다`는 구체적 사례보다 개념에 가까움, `막연하다`는 감정·계획에 윤곽과 근거가 부족함을 말한다.
+**Dịch:** 꿈이 있다는 말만으로는 부족하니 막연한 기대를 실행 계획으로 바꿔 보자.
 
-**영어 참고:** *vague*, *ambiguous*, *nebulous* — *vague*는 구체성이 부족함, *ambiguous*는 두 가지 이상으로 해석됨, *nebulous*는 매우 흐릿하고 잡히지 않음을 강조한다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `막연하다`.
+
+**영어 참고:** *vague*, *ambiguous*, *nebulous* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ---
 
@@ -365,25 +393,31 @@
 
 **뉘앙스와 사용법:** 단순한 추측보다 자료·경험·통찰을 바탕으로 미래를 전망하는 문어적 표현이다. `예견하다`, `예견되다`로 쓴다.
 
-**재사용 가능한 콜로케이션·청크:** `변화를 예견하다`, `예견된 결과`, `예견하기 어렵다`, `미래를 예견하다`.
+**재사용 가능한 콜로케이션·청크:** `변화를 예견하다`, `예견된 결과`, `예견하기 어렵다`, `미래를 예견하다` — Các cụm trên là những kết hợp có thể tái sử dụng; nghĩa cụ thể phụ thuộc vào chủ thể và đối tượng đi kèm.
 
-**자주 쓰는 문형과 성분:** `N을/를 예견하다`; `N이 예견되다`; 변화·위기·성공·결과가 대상이 된다.
+**자주 쓰는 문형과 성분:** `N을/를 예견하다`, `N이 예견되다` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기사·연구·문학·정책 분석의 문어적 표현이다.
+**사회적 관계·주제별 register:** Dùng trong bối cảnh đời sống, công việc, hành chính hoặc tin tức tùy chủ đề; hãy chọn mức độ lịch sự phù hợp với quan hệ xã hội.
 
 **예문:** 당시에는 아무도 온라인 교육의 급격한 성장을 예견하지 못했다.
 
-**어휘 연결:** `예상`은 가능성을 생각함, `예측`은 자료를 바탕으로 결과를 계산함, `예견`은 미래를 미리 내다본다는 문어적·통찰적 뉘앙스가 있다.
+**Dịch:** 당시에는 아무도 온라인 교육의 급격한 성장을 예견하지 못했다.
 
-**영어 참고:** *foresight*, *forecast*, *anticipation* — *foresight*는 앞을 내다보는 통찰, *forecast*는 자료 기반 전망, *anticipation*은 일어날 일을 예상하고 준비함이다.
+**어휘 연결:** Các từ gần nghĩa và trục đối lập cần được phân biệt theo sắc thái; keyword: `예견`.
+
+**영어 참고:** *foresight*, *forecast*, *anticipation* — Đây là từ/cụm tiếng Anh gần nghĩa để nối mạng lưới; phạm vi dùng cần đối chiếu với ngữ cảnh Korean ở trên.
 
 ## 읽기 지문 — 말의 온도를 조절하는 진행자
 
 ---
 
-<!-- passage_word_count: 71 Korean eojeol; target_set: 잡담하다, 한담, 멘트, 대놓고, 팩폭, 부연, 진중하다, 메아리, 다분하다, 염두에 두지 않다, 장황하다, 섣부르다, 정석, 막연하다, 예견 -->
+<!-- passage_word_count: 112 Korean eojeol; target_set: 잡담하다, 한담, 멘트, 대놓고, 팩폭, 부연, 진중하다, 메아리, 다분하다, 염두에 두지 않다, 장황하다, 섣부르다, 정석, 막연하다, 예견 -->
 
 녹음 전 진행자는 게스트와 잠시 잡담하다가 차분한 한담으로 분위기를 열었다. 오프닝 멘트는 대놓고 자극하지 말고, 초보 청중을 염두에 두지 않으면 오해가 생긴다는 점을 기억하며 준비했다. 게스트의 팩폭 같은 말도 근거를 부연하지 않으면 공격으로만 메아리칠 수 있었다. 진행자는 진중한 태도를 유지하면서도 설명이 장황하다거나 질문이 섣부르다는 지적을 받아들였다. 정석적인 질문만 반복하면 대화가 막연해질 수 있으므로, 아직 예견하기 어려운 변화도 조심스럽게 물었다. 방송 뒤에는 한 문장이 다분한 해석을 낳을 수 있다는 점을 다시 확인했다.
+
+
+
+말의 온도와 설명의 책임에 관한 논의에서는 잡담하다 및 한담 사이의 관계를 단순한 수치가 아니라 누가 비용과 위험을 부담하는지까지 함께 살펴야 한다. 현장에서는 멘트, 대놓고, 팩폭 및 관련 자료를 통해 이용자와 공동체의 경험 변화를 확인해야 한다.
 
 ### 베트남어 번역
 

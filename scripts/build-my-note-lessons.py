@@ -30,6 +30,10 @@ def main() -> None:
         raise SystemExit(f"Expected 89 PNG files, found {len(images)}")
     DEST.mkdir(parents=True, exist_ok=True)
     rows = [
+        "# Source images",
+        "",
+        "All PNG attachments are copied from the Notion export. The original files remain untouched.",
+        "",
         "| Normalized file | Original export name |",
         "|---|---|",
     ]

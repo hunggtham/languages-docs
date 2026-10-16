@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** tội ác chiến tranh.
 
-**뉘앙스와 사용법:** 전쟁의 참혹함을 일반적으로 말하는 것이 아니라 개인의 형사책임이 성립할 수 있는 구체적 범죄를 가리킨다.
+**뉘앙스와 사용법:** Nó không đề cập đến sự khủng khiếp của chiến tranh nói chung mà đề cập đến các tội ác cụ thể mà trách nhiệm hình sự của cá nhân có thể được xác định.
 
-**재사용 가능한 콜로케이션·청크:** `전쟁범죄 조사`, `전쟁범죄 혐의`, `전쟁범죄 책임`.
+**재사용 가능한 콜로케이션·청크:** `전쟁범죄 조사`, `전쟁범죄 혐의`, `전쟁범죄 책임`. — 'Điều tra tội ác chiến tranh', 'Cáo buộc tội ác chiến tranh', 'Trách nhiệm tội ác chiến tranh'.
 
-**자주 쓰는 문형과 성분:** `국제기구가 전쟁범죄를 기록하다`; 민간인·증거·기소와 결합한다.
+**자주 쓰는 문형과 성분:** `국제기구가 전쟁범죄를 기록하다`, `Các tổ chức quốc tế ghi nhận tội ác chiến tranh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·인권·분쟁 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho luật pháp quốc tế, nhân quyền và báo cáo xung đột.
 
 **예문:** 조사단은 민간인 집단 처형이 전쟁범죄에 해당하는지 검토했다.
 
-**어휘 연결:** `전쟁의 참상`은 결과와 고통을 말하고, `전쟁범죄`는 법적 책임이 따르는 행위를 특정한다.
+**Dịch:** Nhóm điều tra đã kiểm tra xem liệu việc hành quyết hàng loạt thường dân có cấu thành tội ác chiến tranh hay không.
 
-**영어 참고:** *war crime* — 무력충돌 중 국제인도법을 중대하게 위반한 범죄다.
+**어휘 연결:** `전쟁의 참상`은 결과와 고통을 말하고, `전쟁범죄`는 법적 책임이 따르는 행위를 특정한다. — 'Sự khủng khiếp của chiến tranh' đề cập đến hậu quả và đau khổ, còn 'tội ác chiến tranh' chỉ rõ các hành động mà trách nhiệm pháp lý được áp dụng.
+
+**영어 참고:** *war crime* — Đó là tội phạm vi phạm nghiêm trọng luật nhân đạo quốc tế trong xung đột vũ trang.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tội ác chống loài người.
 
-**뉘앙스와 사용법:** 특정 전쟁터의 교전 규칙 위반을 넘어 국가나 조직의 체계적 공격이라는 맥락을 강조한다.
+**뉘앙스와 사용법:** Nhấn mạnh bối cảnh của một cuộc tấn công có hệ thống bởi một quốc gia hoặc tổ chức ngoài việc vi phạm các quy tắc tham gia vào một chiến trường cụ thể.
 
-**재사용 가능한 콜로케이션·청크:** `반인도적 범죄 혐의`, `반인도적 범죄를 규탄하다`, `조직적 반인도적 범죄`.
+**재사용 가능한 콜로케이션·청크:** `반인도적 범죄 혐의`, `반인도적 범죄를 규탄하다`, `조직적 반인도적 범죄`. — 'Các tội ác bị cáo buộc chống lại loài người', 'Lên án tội ác chống lại loài người', 'Tội ác có tổ chức chống lại loài người'.
 
-**자주 쓰는 문형과 성분:** `검찰이 반인도적 범죄를 수사하다`; 박해·강제이주·국제형사재판소와 결합한다.
+**자주 쓰는 문형과 성분:** `검찰이 반인도적 범죄를 수사하다`, `Các công tố viên điều tra tội ác chống lại loài người` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제형사법·인권외교의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao cho luật hình sự quốc tế và ngoại giao nhân quyền.
 
 **예문:** 보고서는 강제이주 정책이 반인도적 범죄의 요소를 갖췄다고 지적했다.
 
-**어휘 연결:** `전쟁범죄`는 전쟁 중 행위에 초점을 두고, `반인도적 범죄`는 민간인에 대한 광범위하고 조직적인 공격을 본다.
+**Dịch:** Báo cáo chỉ ra rằng chính sách di cư cưỡng bức có các yếu tố cấu thành tội ác chống lại loài người.
 
-**영어 참고:** *crime against humanity* — 민간인을 상대로 광범위하거나 조직적인 공격을 하는 국제범죄다.
+**어휘 연결:** `전쟁범죄`는 전쟁 중 행위에 초점을 두고, `반인도적 범죄`는 민간인에 대한 광범위하고 조직적인 공격을 본다. — 'Tội ác chiến tranh' tập trung vào các hành động trong chiến tranh, trong khi 'tội ác chống lại loài người' xem xét các cuộc tấn công có hệ thống và lan rộng nhằm vào dân thường.
+
+**영어 참고:** *crime against humanity* — Đây là tội phạm quốc tế liên quan đến các cuộc tấn công trên diện rộng hoặc có hệ thống nhằm vào dân thường.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** tội diệt chủng.
 
-**뉘앙스와 사용법:** 사망자 수만으로 결정되지 않고 특정 집단을 없애려는 의도와 행위의 맥락을 법적으로 입증해야 한다.
+**뉘앙스와 사용법:** Thay vì chỉ được xác định bởi số người chết, bối cảnh của ý định và hành động nhằm loại bỏ một nhóm cụ thể phải được chứng minh về mặt pháp lý.
 
-**재사용 가능한 콜로케이션·청크:** `집단살해 방지`, `집단살해 혐의`, `집단살해를 인정하다`.
+**재사용 가능한 콜로케이션·청크:** `집단살해 방지`, `집단살해 혐의`, `집단살해를 인정하다`. — ‘Ngăn chặn tội diệt chủng’, ‘Nghi ngờ tội diệt chủng’, ‘Thừa nhận tội diệt chủng’.
 
-**자주 쓰는 문형과 성분:** `국제사회가 집단살해를 막다`; 소수집단·의도·증거와 결합한다.
+**자주 쓰는 문형과 성분:** `국제사회가 집단살해를 막다`, `Cộng đồng quốc tế ngăn chặn nạn diệt chủng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·역사기억·인권 담화의 가장 무거운 법률어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ pháp lý nặng nề nhất trong luật pháp quốc tế, ký ức lịch sử và diễn ngôn về nhân quyền.
 
 **예문:** 법원은 특정 민족을 제거하려는 의도가 있었는지 집단살해의 핵심 쟁점으로 삼았다.
 
-**어휘 연결:** `대량학살`은 대규모 살상을 넓게 말하고, `집단살해`는 특정 집단을 파괴하려는 법적 의도를 포함한다.
+**Dịch:** Tòa án xem xét liệu có ý định loại bỏ một nhóm dân tộc cụ thể như một vấn đề chính trong nạn diệt chủng hay không.
 
-**영어 참고:** *genocide* — 특정 민족·인종·종교 집단을 파괴하려는 국제범죄다.
+**어휘 연결:** `대량학살`은 대규모 살상을 넓게 말하고, `집단살해`는 특정 집단을 파괴하려는 법적 의도를 포함한다. — 'Diệt chủng' nói rộng ra là giết chóc trên quy mô lớn và 'diệt chủng' bao gồm mục đích hợp pháp nhằm tiêu diệt một nhóm cụ thể.
+
+**영어 참고:** *genocide* — Đây là tội phạm quốc tế nhằm tiêu diệt một nhóm dân tộc, chủng tộc hoặc tôn giáo cụ thể.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** xung đột vũ trang.
 
-**뉘앙스와 사용법:** 전면전보다 넓은 개념으로, 국제적 충돌과 국내 무장분쟁을 모두 포함할 수 있다.
+**뉘앙스와 사용법:** Đó là một khái niệm rộng hơn chiến tranh tổng lực và có thể bao gồm cả xung đột quốc tế và xung đột vũ trang trong nước.
 
-**재사용 가능한 콜로케이션·청크:** `무력충돌 발생`, `무력충돌이 격화되다`, `무력충돌 지역`.
+**재사용 가능한 콜로케이션·청크:** `무력충돌 발생`, `무력충돌이 격화되다`, `무력충돌 지역`. — 'Xung đột vũ trang xảy ra', 'Xung đột vũ trang ngày càng gia tăng', 'Khu vực xung đột vũ trang'.
 
-**자주 쓰는 문형과 성분:** `양측이 무력충돌을 벌이다`; 휴전·민간인·국제인도법과 결합한다.
+**자주 쓰는 문형과 성분:** `양측이 무력충돌을 벌이다`, `Cả hai bên tham gia xung đột vũ trang` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·안보·국제법 보도의 중립적 전문어다.
+**사회적 관계·주제별 register:** Biệt ngữ trung lập để báo cáo về ngoại giao, an ninh và luật pháp quốc tế.
 
 **예문:** 무력충돌이 국경을 넘어 확산되면서 난민의 수가 늘었다.
 
-**어휘 연결:** `전쟁`은 정치적·역사적 명칭이고, `무력충돌`은 법적 적용과 사실관계를 분석하는 중립어다.
+**Dịch:** Khi xung đột vũ trang lan rộng qua biên giới, số lượng người tị nạn tăng lên.
 
-**영어 참고:** *armed conflict* — 조직된 세력 사이에 무력이 지속적으로 사용되는 상황이다.
+**어휘 연결:** `전쟁`은 정치적·역사적 명칭이고, `무력충돌`은 법적 적용과 사실관계를 분석하는 중립어다. — 'Chiến tranh' là tên chính trị và lịch sử và 'xung đột vũ trang' là một từ trung lập phân tích thực tế và ứng dụng pháp lý.
+
+**영어 참고:** *armed conflict* — Đây là tình huống vũ lực được sử dụng liên tục giữa các lực lượng có tổ chức.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** các bên tham chiến.
 
-**뉘앙스와 사용법:** 단순히 갈등의 이해관계자가 아니라 국제인도법상 의무를 부담하는 전투 주체라는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là họ không chỉ đơn giản là những bên liên quan trong cuộc xung đột mà còn là những chiến binh chịu trách nhiệm theo luật nhân đạo quốc tế.
 
-**재사용 가능한 콜로케이션·청크:** `교전당사자 간 합의`, `교전당사자의 의무`, `모든 교전당사자`.
+**재사용 가능한 콜로케이션·청크:** `교전당사자 간 합의`, `교전당사자의 의무`, `모든 교전당사자`. — `Thỏa thuận giữa các bên tham chiến`, `Nghĩa vụ của các bên tham chiến`, `Tất cả các bên tham chiến`.
 
-**자주 쓰는 문형과 성분:** `교전당사자가 민간인 보호 의무를 지키다`; 휴전·포로·협상과 결합한다.
+**자주 쓰는 문형과 성분:** `교전당사자가 민간인 보호 의무를 지키다`, `Các bên tham chiến duy trì nghĩa vụ bảo vệ dân thường` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·평화협상·분쟁 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho luật pháp quốc tế, đàm phán hòa bình và báo cáo xung đột.
 
 **예문:** 국제기구는 모든 교전당사자에게 병원 공격을 중단하라고 촉구했다.
 
-**어휘 연결:** `분쟁 당사자`는 협상·소송의 당사자까지 포함하고, `교전당사자`는 실제 무력 사용 주체를 특정한다.
+**Dịch:** Các tổ chức quốc tế kêu gọi tất cả các bên tham chiến ngừng tấn công các bệnh viện.
 
-**영어 참고:** *parties to a conflict* — 무력충돌에 참여하는 전투 주체다.
+**어휘 연결:** `분쟁 당사자`는 협상·소송의 당사자까지 포함하고, `교전당사자`는 실제 무력 사용 주체를 특정한다. — 'Các bên tham gia xung đột' bao gồm các bên tham gia đàm phán và kiện tụng và 'các bên tham gia chiến tranh' chỉ định thực thể thực sự sử dụng vũ lực.
+
+**영어 참고:** *parties to a conflict* — Một chiến binh tham gia vào một cuộc xung đột vũ trang.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** bảo vệ dân thường.
 
-**뉘앙스와 사용법:** 대피 통로·병원 보호·구호 접근뿐 아니라 공격 대상 선정의 법적 원칙까지 포함한다.
+**뉘앙스와 사용법:** Bao gồm các tuyến đường sơ tán, bảo vệ bệnh viện và tiếp cận cứu trợ cũng như các nguyên tắc pháp lý để lựa chọn mục tiêu tấn công.
 
-**재사용 가능한 콜로케이션·청크:** `민간인 보호 의무`, `민간인 보호 조치`, `민간인 보호를 촉구하다`.
+**재사용 가능한 콜로케이션·청크:** `민간인 보호 의무`, `민간인 보호 조치`, `민간인 보호를 촉구하다`. — `Nhiệm vụ bảo vệ dân thường`, `các biện pháp bảo vệ dân thường`, `kêu gọi bảo vệ dân thường`.
 
-**자주 쓰는 문형과 성분:** `유엔이 민간인 보호를 요구하다`; 피난·병원·구호와 결합한다.
+**자주 쓰는 문형과 성분:** `유엔이 민간인 보호를 요구하다`, `LHQ yêu cầu bảo vệ dân thường` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인도주의·안보·국제법 보도의 핵심어다.
+**사회적 관계·주제별 register:** Từ khóa báo cáo về chủ nghĩa nhân đạo, an ninh và luật pháp quốc tế.
 
 **예문:** 휴전이 성사되지 않더라도 민간인 보호를 위한 인도적 통로는 유지돼야 한다.
 
-**어휘 연결:** `인권 보호`는 평상시에도 쓰이는 넓은 개념이고, `민간인 보호`는 전쟁 상황의 구체적 의무와 조치를 뜻한다.
+**Dịch:** Ngay cả khi không đạt được lệnh ngừng bắn, các kênh nhân đạo để bảo vệ dân thường vẫn phải được duy trì.
 
-**영어 참고:** *protection of civilians* — 분쟁 중 민간인을 공격과 피해로부터 보호하는 원칙이다.
+**어휘 연결:** `인권 보호`는 평상시에도 쓰이는 넓은 개념이고, `민간인 보호`는 전쟁 상황의 구체적 의무와 조치를 뜻한다. — 'Bảo vệ nhân quyền' là một khái niệm rộng được sử dụng ngay cả trong thời gian bình thường và 'bảo vệ thường dân' đề cập đến các nghĩa vụ và biện pháp cụ thể trong các tình huống chiến tranh.
+
+**영어 참고:** *protection of civilians* — Đây là nguyên tắc bảo vệ dân thường khỏi bị tấn công và thiệt hại trong xung đột.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** hỗ trợ nhân đạo.
 
-**뉘앙스와 사용법:** 정치적 조건이나 군사 목적과 구분되는 중립적 원칙을 강조하지만, 지원 통로와 분배의 투명성이 문제 된다.
+**뉘앙스와 사용법:** Nhấn mạnh các nguyên tắc trung lập khác với điều kiện chính trị hoặc mục đích quân sự, nhưng tính minh bạch của các kênh hỗ trợ và phân phối là một vấn đề.
 
-**재사용 가능한 콜로케이션·청크:** `인도적 지원 제공`, `인도적 지원 물자`, `인도적 지원 통로`.
+**재사용 가능한 콜로케이션·청크:** `인도적 지원 제공`, `인도적 지원 물자`, `인도적 지원 통로`. — `Cung cấp viện trợ nhân đạo`, `Vật liệu viện trợ nhân đạo`, `Kênh viện trợ nhân đạo`.
 
-**자주 쓰는 문형과 성분:** `국제기구가 인도적 지원을 전달하다`; 난민·구호·봉쇄와 결합한다.
+**자주 쓰는 문형과 성분:** `국제기구가 인도적 지원을 전달하다`, `Các tổ chức quốc tế cung cấp viện trợ nhân đạo` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·개발협력·재난 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho ngoại giao, hợp tác phát triển và báo cáo thiên tai.
 
 **예문:** 봉쇄 지역에 인도적 지원이 도달하도록 교전당사자가 통로를 열어야 한다.
 
-**어휘 연결:** `원조`는 개발·경제 지원까지 포괄하고, `인도적 지원`은 생존과 긴급 구호에 우선순위를 둔다.
+**Dịch:** Các bên tham chiến phải mở các kênh viện trợ nhân đạo để tiếp cận khu vực bị phong tỏa.
 
-**영어 참고:** *humanitarian assistance* — 분쟁·재난 피해자의 생존과 회복을 돕는 긴급 지원이다.
+**어휘 연결:** `원조`는 개발·경제 지원까지 포괄하고, `인도적 지원`은 생존과 긴급 구호에 우선순위를 둔다. — 'Viện trợ' bao gồm hỗ trợ phát triển và kinh tế, trong khi 'viện trợ nhân đạo' ưu tiên cho sự sống còn và cứu trợ khẩn cấp.
+
+**영어 참고:** *humanitarian assistance* — Hỗ trợ khẩn cấp để giúp nạn nhân xung đột và thảm họa sống sót và phục hồi.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** nghị quyết trừng phạt.
 
-**뉘앙스와 사용법:** 정치적 비난을 넘어 법적·외교적 효력, 예외 조항, 이행 감시를 포함하는 표현이다.
+**뉘앙스와 사용법:** Đó là một cách diễn đạt vượt xa sự chỉ trích chính trị và bao gồm các hiệu ứng pháp lý và ngoại giao, các điều khoản ngoại lệ và giám sát việc thực hiện.
 
-**재사용 가능한 콜로케이션·청크:** `제재 결의 채택`, `제재 결의 위반`, `제재 결의 이행`.
+**재사용 가능한 콜로케이션·청크:** `제재 결의 채택`, `제재 결의 위반`, `제재 결의 이행`. — `Thông qua nghị quyết trừng phạt`, `Vi phạm nghị quyết trừng phạt`, `Thực hiện nghị quyết trừng phạt`.
 
-**자주 쓰는 문형과 성분:** `안보리가 제재 결의를 채택하다`; 핵·무기·금융과 결합한다.
+**자주 쓰는 문형과 성분:** `안보리가 제재 결의를 채택하다`, `Hội đồng Bảo an thông qua nghị quyết trừng phạt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 유엔·외교·국제안보 보도의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức để báo cáo về Liên hợp quốc, ngoại giao và an ninh quốc tế.
 
 **예문:** 새 제재 결의는 무기 거래와 핵 관련 금융을 동시에 제한했다.
 
-**어휘 연결:** `제재`는 조치 전반이고, `제재 결의`는 국제기구가 채택한 공식 결정과 문서를 특정한다.
+**Dịch:** Nghị quyết trừng phạt mới đồng thời hạn chế buôn bán vũ khí và tài trợ liên quan đến hạt nhân.
 
-**영어 참고:** *sanctions resolution* — 제재 조치를 공식적으로 결정한 국제기구의 결의다.
+**어휘 연결:** `제재`는 조치 전반이고, `제재 결의`는 국제기구가 채택한 공식 결정과 문서를 특정한다. — 'Các biện pháp trừng phạt' là các biện pháp nói chung và 'nghị quyết trừng phạt' chỉ rõ các quyết định và tài liệu chính thức được các tổ chức quốc tế thông qua.
+
+**영어 참고:** *sanctions resolution* — Nghị quyết của một tổ chức quốc tế chính thức quyết định các biện pháp trừng phạt.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** quyền tài phán phổ quát.
 
-**뉘앙스와 사용법:** 고문·집단살해 같은 범죄를 처벌하지 않는 공백을 줄이지만, 주권과 외교적 마찰을 일으킬 수 있다.
+**뉘앙스와 사용법:** Nó làm giảm khoảng cách trong đó các tội ác như tra tấn và diệt chủng không bị trừng phạt, nhưng nó có thể gây ra xung đột về chủ quyền và ngoại giao.
 
-**재사용 가능한 콜로케이션·청크:** `보편관할 원칙`, `보편관할권 행사`, `보편관할에 따른 기소`.
+**재사용 가능한 콜로케이션·청크:** `보편관할 원칙`, `보편관할권 행사`, `보편관할에 따른 기소`. — `Nguyên tắc thẩm quyền chung`, `Thực thi thẩm quyền chung`, `Truy tố theo thẩm quyền chung`.
 
-**자주 쓰는 문형과 성분:** `법원이 보편관할을 인정하다`; 국제범죄·피고인·주권과 결합한다.
+**자주 쓰는 문형과 성분:** `법원이 보편관할을 인정하다`, `Tòa án công nhận quyền tài phán chung` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제형사법·인권소송의 최고급 법률어다.
+**사회적 관계·주제별 register:** Ngôn ngữ pháp lý ở cấp độ cao nhất trong luật hình sự quốc tế và tranh chấp nhân quyền.
 
 **예문:** 피해국이 재판할 의지가 없을 때 제3국 법원이 보편관할을 행사할 수 있다.
 
-**어휘 연결:** `국가 관할권`은 영토·국적에 기반하고, `보편관할`은 범죄의 중대성 때문에 관할을 넓힌다.
+**Dịch:** Tòa án của nước thứ ba có thể thực hiện quyền tài phán chung khi quốc gia nạn nhân không có ý chí phán xét.
 
-**영어 참고:** *universal jurisdiction* — 국제범죄를 장소·국적과 무관하게 재판할 수 있는 원칙이다.
+**어휘 연결:** `국가 관할권`은 영토·국적에 기반하고, `보편관할`은 범죄의 중대성 때문에 관할을 넓힌다. — 'Quyền tài phán quốc gia' dựa trên lãnh thổ và quốc tịch, còn 'quyền tài phán chung' mở rộng quyền tài phán do mức độ nghiêm trọng của tội phạm.
+
+**영어 참고:** *universal jurisdiction* — Đây là nguyên tắc mà tội phạm quốc tế có thể được xét xử bất kể vị trí hay quốc tịch.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** Tòa án Hình sự Quốc tế.
 
-**뉘앙스와 사용법:** 국가 자체가 아니라 개인의 형사책임을 다루며, 국내 사법이 수사·재판을 할 수 없을 때 보충적으로 개입한다.
+**뉘앙스와 사용법:** Nó giải quyết trách nhiệm hình sự của các cá nhân chứ không phải của chính nhà nước và can thiệp bổ sung khi cơ quan tư pháp trong nước không thể tiến hành điều tra và xét xử.
 
-**재사용 가능한 콜로케이션·청크:** `국제형사재판소 기소`, `국제형사재판소 체포영장`, `재판소 관할`.
+**재사용 가능한 콜로케이션·청크:** `국제형사재판소 기소`, `국제형사재판소 체포영장`, `재판소 관할`. — `Bản cáo trạng của Tòa án Hình sự Quốc tế`, `Lệnh bắt giữ của Tòa án Hình sự Quốc tế`, `Thẩm quyền của tòa án`.
 
-**자주 쓰는 문형과 성분:** `국제형사재판소가 체포영장을 발부하다`; 피고인·로마규정·관할과 결합한다.
+**자주 쓰는 문형과 성분:** `국제형사재판소가 체포영장을 발부하다`, `Tòa án Hình sự Quốc tế ban hành lệnh bắt giữ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제법·외교·인권 보도의 공식 명칭이다.
+**사회적 관계·주제별 register:** Đây là tên chính thức của luật quốc tế, ngoại giao và báo cáo nhân quyền.
 
 **예문:** 국제형사재판소는 민간인 공격의 책임자에게 체포영장을 청구했다.
 
-**어휘 연결:** `국제사법재판소`는 국가 간 분쟁을 다루고, `국제형사재판소`는 개인의 국제범죄를 다룬다.
+**Dịch:** Tòa án Hình sự Quốc tế đã yêu cầu lệnh bắt giữ người chịu trách nhiệm về vụ tấn công dân thường.
 
-**영어 참고:** *International Criminal Court (ICC)* — 중대 국제범죄를 저지른 개인을 재판하는 상설 법원이다.
+**어휘 연결:** `국제사법재판소`는 국가 간 분쟁을 다루고, `국제형사재판소`는 개인의 국제범죄를 다룬다. — 'Tòa án Công lý Quốc tế' giải quyết các tranh chấp giữa các quốc gia và 'Tòa án Hình sự Quốc tế' giải quyết các tội phạm quốc tế riêng lẻ.
+
+**영어 참고:** *International Criminal Court (ICC)* — Đây là tòa án thường trực xét xử những cá nhân đã phạm tội quốc tế nghiêm trọng.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** truy cứu trách nhiệm.
 
-**뉘앙스와 사용법:** 비난을 선언하는 데 그치지 않고 진상 규명, 법적 절차, 재발 방지까지 포함한다.
+**뉘앙스와 사용법:** Nó không dừng lại ở việc tuyên bố lên án mà còn bao gồm việc điều tra sự thật, thủ tục pháp lý và ngăn ngừa tái diễn.
 
-**재사용 가능한 콜로케이션·청크:** `책임 추궁 요구`, `책임 추궁 절차`, `책임을 끝까지 추궁하다`.
+**재사용 가능한 콜로케이션·청크:** `책임 추궁 요구`, `책임 추궁 절차`, `책임을 끝까지 추궁하다`. — `Yêu cầu trách nhiệm giải trình`, `Quy trình điều tra trách nhiệm`, `Theo đuổi trách nhiệm đến cùng`.
 
-**자주 쓰는 문형과 성분:** `국제사회가 가해자의 책임을 추궁하다`; 조사·처벌·배상과 결합한다.
+**자주 쓰는 문형과 성분:** `국제사회가 가해자의 책임을 추궁하다`, `Cộng đồng quốc tế quy trách nhiệm cho những kẻ phạm tội` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인권·외교·재난·사법 보도의 고급어다.
+**사회적 관계·주제별 register:** Một thuật ngữ ưa thích để nói về nhân quyền, ngoại giao, thảm họa và báo cáo tư pháp.
 
 **예문:** 피해자 단체는 사건의 지휘 라인까지 책임 추궁이 이뤄져야 한다고 주장했다.
 
-**어휘 연결:** `비판`은 잘못을 지적하는 행위이고, `책임 추궁`은 조사와 제재를 통해 결과를 요구하는 과정이다.
+**Dịch:** Các nhóm nạn nhân lập luận rằng trách nhiệm phải được truy cứu theo cấp chỉ đạo của vụ việc.
 
-**영어 참고:** *accountability process* — 잘못에 대한 조사와 처벌·시정을 요구하는 과정이다.
+**어휘 연결:** `비판`은 잘못을 지적하는 행위이고, `책임 추궁`은 조사와 제재를 통해 결과를 요구하는 과정이다. — 'Chỉ trích' là hành động chỉ ra sai lầm và 'theo đuổi trách nhiệm' là quá trình yêu cầu kết quả thông qua điều tra và trừng phạt.
+
+**영어 참고:** *accountability process* — Đây là quá trình yêu cầu điều tra, trừng phạt và sửa chữa hành vi sai trái.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** đàm phán ngừng bắn.
 
-**뉘앙스와 사용법:** 전쟁을 영구적으로 끝내는 평화협정과 달리 우선적인 전투 중단과 임시 안전을 목표로 한다.
+**뉘앙스와 사용법:** Không giống như thỏa thuận hòa bình chấm dứt vĩnh viễn chiến tranh, nó chủ yếu nhằm mục đích ngừng chiến đấu và cung cấp an ninh tạm thời.
 
-**재사용 가능한 콜로케이션·청크:** `휴전 협상 재개`, `휴전 협상 결렬`, `휴전 조건`.
+**재사용 가능한 콜로케이션·청크:** `휴전 협상 재개`, `휴전 협상 결렬`, `휴전 조건`. — 'Tiếp tục đàm phán ngừng bắn', 'Thất bại trong đàm phán ngừng bắn', 'Điều kiện ngừng bắn'.
 
-**자주 쓰는 문형과 성분:** `양측이 휴전 협상에 들어가다`; 중재·포로·감시단과 결합한다.
+**자주 쓰는 문형과 성분:** `양측이 휴전 협상에 들어가다`, `Cả hai bên tham gia đàm phán ngừng bắn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·안보·국제뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức về ngoại giao, an ninh và tin tức quốc tế.
 
 **예문:** 휴전 협상이 결렬되자 민간인 대피가 다시 어려워졌다.
 
-**어휘 연결:** `평화협상`은 전쟁의 정치적 종결을 다루고, `휴전 협상`은 우선 무력 사용을 멈추는 조건을 다룬다.
+**Dịch:** Khi các cuộc đàm phán ngừng bắn đổ vỡ, việc sơ tán dân thường lại trở nên khó khăn.
 
-**영어 참고:** *ceasefire negotiations* — 전투를 중단하기 위한 교전당사자 간 협상이다.
+**어휘 연결:** `평화협상`은 전쟁의 정치적 종결을 다루고, `휴전 협상`은 우선 무력 사용을 멈추는 조건을 다룬다. — 'Đàm phán hòa bình' giải quyết vấn đề kết thúc chiến tranh về mặt chính trị và 'thương lượng ngừng bắn' giải quyết các điều kiện để trước tiên phải ngừng sử dụng vũ lực.
+
+**영어 참고:** *ceasefire negotiations* — Thương lượng giữa các bên tham chiến để ngừng đánh nhau.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** ngoại giao con thoi.
 
-**뉘앙스와 사용법:** 당사자가 한자리에 모이기 어려운 분쟁에서 비공개 메시지 전달과 단계적 신뢰 형성에 활용된다.
+**뉘앙스와 사용법:** Được sử dụng để truyền tải các tin nhắn riêng tư và từng bước xây dựng niềm tin trong các tranh chấp mà các bên khó có thể tập trung tại một nơi.
 
-**재사용 가능한 콜로케이션·청크:** `셔틀외교를 펼치다`, `셔틀외교 중재`, `셔틀외교 성과`.
+**재사용 가능한 콜로케이션·청크:** `셔틀외교를 펼치다`, `셔틀외교 중재`, `셔틀외교 성과`. — `Thực hiện ngoại giao con thoi`, `Hòa giải ngoại giao con thoi`, `Thành tựu ngoại giao con thoi`.
 
-**자주 쓰는 문형과 성분:** `특사가 셔틀외교에 나서다`; 중재·정상회담·비공개 접촉과 결합한다.
+**자주 쓰는 문형과 성분:** `특사가 셔틀외교에 나서다`, `Đặc phái viên bắt tay vào ngoại giao con thoi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정상회담·분쟁 중재·외교 해설의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao cho hội nghị thượng đỉnh, hòa giải tranh chấp và bình luận ngoại giao.
 
 **예문:** 특사는 수도를 오가며 셔틀외교로 휴전 조건의 간극을 좁혔다.
 
-**어휘 연결:** `중재`는 갈등 해결의 기능이고, `셔틀외교`는 중재자가 당사자 사이를 오가는 구체적 방식을 말한다.
+**Dịch:** Đặc phái viên đi đi lại lại giữa thủ đô và thu hẹp khoảng cách về điều kiện ngừng bắn thông qua ngoại giao con thoi.
 
-**영어 참고:** *shuttle diplomacy* — 중재자가 대립 당사자 사이를 오가며 합의를 조율하는 방식이다.
+**어휘 연결:** `중재`는 갈등 해결의 기능이고, `셔틀외교`는 중재자가 당사자 사이를 오가는 구체적 방식을 말한다. — 'Trọng tài' là một chức năng giải quyết xung đột và 'ngoại giao con thoi' đề cập đến một phương pháp cụ thể trong đó hòa giải viên đi lại giữa các bên.
+
+**영어 참고:** *shuttle diplomacy* — Đây là phương pháp trong đó người hòa giải qua lại giữa các bên xung đột để điều phối một thỏa thuận.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** sự mệt mỏi vì chiến tranh.
 
-**뉘앙스와 사용법:** 공식 심리 지표라기보다 장기 분쟁에 대한 관심 저하와 지원 피로를 설명하는 현재의 뉴스·대화 표현이다.
+**뉘앙스와 사용법:** Thay vì là chỉ báo tâm lý chính thức, nó là biểu hiện của tin tức và cuộc trò chuyện hiện tại giải thích sự suy giảm mối quan tâm đến cuộc xung đột lâu dài và hỗ trợ cho sự mệt mỏi.
 
-**재사용 가능한 콜로케이션·청크:** `전쟁 피로감 확산`, `전쟁 피로감이 커지다`, `지원 피로감`.
+**재사용 가능한 콜로케이션·청크:** `전쟁 피로감 확산`, `전쟁 피로감이 커지다`, `지원 피로감`. — 'Mệt mỏi chiến tranh lan rộng', 'Mệt mỏi chiến tranh gia tăng', 'Mệt mỏi hỗ trợ'.
 
-**자주 쓰는 문형과 성분:** `시민 사이에 전쟁 피로감이 쌓이다`; 여론·원조·선거와 결합한다.
+**자주 쓰는 문형과 성분:** `시민 사이에 전쟁 피로감이 쌓이다`, `Sự mệt mỏi vì chiến tranh ngày càng gia tăng trong người dân` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제뉴스·정치 해설·온라인 토론에서 현재적으로 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong tin tức quốc tế, bình luận chính trị và thảo luận trực tuyến.
 
 **예문:** 전쟁 피로감이 커지면서 난민 지원에 대한 관심도 낮아질 수 있다는 우려가 나왔다.
 
-**어휘 연결:** `전쟁 트라우마`는 개인의 심리적 상처이고, `전쟁 피로감`은 사회 전체의 관심과 지지가 약해지는 현상이다.
+**Dịch:** Đã có những lo ngại rằng khi tình trạng mệt mỏi vì chiến tranh ngày càng gia tăng thì mối quan tâm đến việc hỗ trợ người tị nạn có thể giảm đi.
 
-**영어 참고:** *war fatigue* — 장기 전쟁에 대한 대중의 피로와 관심 저하다.
+**어휘 연결:** `전쟁 트라우마`는 개인의 심리적 상처이고, `전쟁 피로감`은 사회 전체의 관심과 지지가 약해지는 현상이다. — 'Chấn thương chiến tranh' là vết thương tâm lý của một cá nhân và 'sự mệt mỏi vì chiến tranh' là hiện tượng mà sự quan tâm và ủng hộ của toàn xã hội đang suy yếu.
+
+**영어 참고:** *war fatigue* — Sự mệt mỏi của công chúng và sự quan tâm ngày càng giảm đối với cuộc chiến kéo dài.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** lo ngại xung đột leo thang/mở rộng.
 
-**뉘앙스와 사용법:** 외교·안보 기사에서 현재 상황의 긴박함을 압축하며, 온라인 대화에서도 위험 신호를 전달하는 표현이다.
+**뉘앙스와 사용법:** Biểu thức này gói gọn tính cấp bách của tình hình hiện tại trong các bài viết ngoại giao và an ninh, đồng thời truyền tải tín hiệu nguy hiểm trong các cuộc trò chuyện trực tuyến.
 
-**재사용 가능한 콜로케이션·청크:** `확전 우려가 커지다`, `확전 우려 속`, `확전을 막다`.
+**재사용 가능한 콜로케이션·청크:** `확전 우려가 커지다`, `확전 우려 속`, `확전을 막다`. — 'Gia tăng lo ngại về leo thang chiến tranh', 'Giữa những lo ngại về leo thang chiến tranh', 'Ngăn chặn leo thang chiến tranh'.
 
-**자주 쓰는 문형과 성분:** `전문가들이 확전 우려를 제기하다`; 보복·동맹·미사일과 결합한다.
+**자주 쓰는 문형과 성분:** `전문가들이 확전 우려를 제기하다`, `Các chuyên gia nêu lên mối lo ngại về việc leo thang chiến tranh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국제뉴스·외교 브리핑·시사 대화에서 현재 쓰인다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong tin tức quốc tế, các cuộc họp giao ban ngoại giao và các cuộc trò chuyện về thời sự.
 
 **예문:** 주변국의 보복 공격이 이어지자 확전 우려가 커졌다.
 
-**어휘 연결:** `긴장 고조`는 대립의 강도 상승이고, `확전 우려`는 그 대립이 새로운 전장과 당사자로 확대될 가능성을 뜻한다.
+**Dịch:** Khi các cuộc tấn công trả đũa từ các nước láng giềng tiếp tục diễn ra, mối lo ngại về sự leo thang chiến tranh ngày càng tăng.
 
-**영어 참고:** *fears of escalation* — 무력충돌이 더 넓은 전쟁으로 확대될 가능성에 대한 우려다.
+**어휘 연결:** `긴장 고조`는 대립의 강도 상승이고, `확전 우려`는 그 대립이 새로운 전장과 당사자로 확대될 가능성을 뜻한다. — 'Căng thẳng gia tăng' có nghĩa là cường độ xung đột gia tăng và 'lo ngại về leo thang chiến tranh' có nghĩa là xung đột có khả năng mở rộng sang các chiến trường và các bên mới.
+
+**영어 참고:** *fears of escalation* — Có lo ngại về khả năng xung đột vũ trang mở rộng thành một cuộc chiến tranh rộng lớn hơn.
 
 <!-- passage_word_count: 106 Korean eojeol; target_set: 전쟁범죄, 반인도적 범죄, 집단살해, 무력충돌, 교전당사자, 민간인 보호, 인도적 지원, 제재 결의, 보편관할, 국제형사재판소, 책임 추궁, 휴전 협상, 셔틀외교, 전쟁 피로감, 확전 우려 -->
 

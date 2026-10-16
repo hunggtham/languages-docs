@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** người gia trưởng áp đặt tư tưởng cũ; “boomer” theo nghĩa phê phán.
 
-**뉘앙스와 사용법:** 나이 많은 사람 전체를 뜻하지 않으며, 권위적으로 훈계하거나 변화를 거부하는 태도를 가리킨다.
+**뉘앙스와 사용법:** Nó không đề cập đến tất cả những người lớn tuổi, nhưng đề cập đến thái độ khuyên răn độc đoán hoặc từ chối thay đổi.
 
-**재사용 가능한 콜로케이션·청크:** `꼰대 같다`, `꼰대 마인드`, `꼰대질을 하다`, `젊은 꼰대`.
+**재사용 가능한 콜로케이션·청크:** `꼰대 같다`, `꼰대 마인드`, `꼰대질을 하다`, `젊은 꼰대`. — `Trông như một ông già`, `Tâm trí của một ông già`, `Cư xử như một ông già`, `Ông già trẻ`.
 
-**자주 쓰는 문형과 성분:** `N이/가 꼰대 같다`; 상사·선배·조직 문화와 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 꼰대 같다`, `N nhìn như ông già` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어·온라인의 강한 비판어다. 상대에게 직접 쓰면 모욕이 될 수 있다.
+**사회적 관계·주제별 register:** Đây là sự chỉ trích mạnh mẽ về lời nói và trực tuyến. Nếu bạn sử dụng nó trực tiếp vào người khác, nó có thể là một sự xúc phạm.
 
 **예문:** 의견을 듣지도 않고 “내 때는 말이야”라고 하면 꼰대처럼 보일 수 있다.
 
-**어휘 연결:** `꼰대`는 권위적 태도를 비판하는 신조어, `권위적`은 공식 분석어, `고집스럽다`는 태도 일반을 말한다.
+**Dịch:** Nếu bạn nói “Đã đến lúc của tôi” mà không lắng nghe ý kiến, bạn có thể trông giống như một ông già.
 
-**영어 참고:** *boomer*, *old-school authoritarian*, *condescending* — 한국어 `꼰대`는 나이보다 관계 속 권력과 훈계를 함께 비판한다.
+**어휘 연결:** `꼰대`는 권위적 태도를 비판하는 신조어, `권위적`은 공식 분석어, `고집스럽다`는 태도 일반을 말한다. — ‘Okdae’ là một từ mới chỉ trích thái độ độc đoán, ‘có thẩm quyền’ là một từ phân tích chính thức và ‘cứng đầu’ là một thái độ chung.
+
+**영어 참고:** *boomer*, *old-school authoritarian*, *condescending* — ‘kkondae’ tiếng Hàn chỉ trích quyền lực và kỷ luật trong các mối quan hệ hơn là tuổi tác.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** khả năng đọc không khí, ý tứ.
 
-**뉘앙스와 사용법:** 한국 사회의 간접적 소통과 관련되며, `눈치가 빠르다`는 칭찬과 `눈치를 보다`는 위축된 태도 모두 가능하다.
+**뉘앙스와 사용법:** Nó liên quan đến giao tiếp gián tiếp trong xã hội Hàn Quốc và có thể vừa khen ngợi việc nhanh chóng nhận thấy vừa có thể có thái độ rút lui vì không biết gì.
 
-**재사용 가능한 콜로케이션·청크:** `눈치가 빠르다`, `눈치를 보다`, `눈치가 없다`, `눈치채다`.
+**재사용 가능한 콜로케이션·청크:** `눈치가 빠르다`, `눈치를 보다`, `눈치가 없다`, `눈치채다`. — `Thông báo nhanh`, `Thông báo`, `Không thông báo`, `Thông báo`.
 
-**자주 쓰는 문형과 성분:** `눈치를 + 보다/채다`; 분위기·상사·친구·상황과 결합한다.
+**자주 쓰는 문형과 성분:** `눈치를 + 보다/채다`, `thông báo + xem/thông báo` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상 대화에서 매우 흔하고, 문화 설명·직장 담화에서도 중요하다.
+**사회적 관계·주제별 register:** Nó rất phổ biến trong cuộc trò chuyện hàng ngày và cũng quan trọng trong việc giải thích về văn hóa và diễn ngôn tại nơi làm việc.
 
 **예문:** 회의가 길어지는 눈치라서 핵심 의견만 간단히 덧붙였다.
 
-**어휘 연결:** `눈치`는 상황을 읽는 사회적 감각, `배려`는 상대를 고려해 행동하는 태도, `감지`는 신호를 알아차리는 중립어다.
+**Dịch:** Vì cuộc họp có vẻ kéo dài hơn nên tôi chỉ bổ sung ngắn gọn những ý kiến ​​quan trọng.
 
-**영어 참고:** *social awareness*, *reading the room*, *tact* — *read the room*이 분위기를 파악한다는 뜻에 가장 가깝다.
+**어휘 연결:** `눈치`는 상황을 읽는 사회적 감각, `배려`는 상대를 고려해 행동하는 태도, `감지`는 신호를 알아차리는 중립어다. — 'Thông báo' là một ý nghĩa xã hội để đọc tình huống, 'cân nhắc' là thái độ hành động có tính đến người khác và 'cảm nhận' là một từ trung tính để nhận biết các tín hiệu.
+
+**영어 참고:** *social awareness*, *reading the room*, *tact* — *đọc phòng* là cách hiểu gần nhất về bầu không khí.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** cảm giác hụt hẫng khi trở về thực tế.
 
-**뉘앙스와 사용법:** `현실 자각 타임`에서 나온 줄임말로, 심각한 우울증을 뜻하는 의학 용어가 아니다.
+**뉘앙스와 사용법:** Đây là tên viết tắt của 'Thời gian nhận thức thực tế' và không phải là thuật ngữ y học cho chứng trầm cảm nặng.
 
-**재사용 가능한 콜로케이션·청크:** `현타가 오다`, `현타를 맞다`, `갑자기 현타가 오다`, `현타가 세게 오다`.
+**재사용 가능한 콜로케이션·청크:** `현타가 오다`, `현타를 맞다`, `갑자기 현타가 오다`, `현타가 세게 오다`. — 'Hyeonta đến', 'Hyeongta đến', 'Hyeonta đến bất ngờ', 'Hyeonta đến mạnh mẽ'.
 
-**자주 쓰는 문형과 성분:** `현타가 오다`; 소비·덕질·야근·계획과 결합한다.
+**자주 쓰는 문형과 성분:** `현타가 오다`, `Hyeonta đang đến` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 친구 대화·메신저·온라인에서 자연스럽고 공식적인 글에는 부적절하다.
+**사회적 관계·주제별 register:** Nó không phù hợp để viết một cách tự nhiên và trang trọng trong các cuộc trò chuyện với bạn bè, người nhắn tin và trực tuyến.
 
 **예문:** 새벽까지 쇼핑하다가 통장 잔액을 보고 현타가 왔다.
 
-**어휘 연결:** `현타`는 순간적인 현실 자각과 허탈감, `허무`는 더 넓고 문어적인 공허함, `현실적이다`는 감정이 아닌 판단의 성격이다.
+**Dịch:** Khi đang đi mua sắm cho đến rạng sáng, tôi đã bị sốc khi nhìn thấy số dư tài khoản ngân hàng của mình.
 
-**영어 참고:** *reality check*, *post-high crash*, *disillusionment* — *reality check*는 현타를 가볍게 설명할 때 쓸 수 있다.
+**어휘 연결:** `현타`는 순간적인 현실 자각과 허탈감, `허무`는 더 넓고 문어적인 공허함, `현실적이다`는 감정이 아닌 판단의 성격이다. — `Hyeonta` là nhận thức nhất thời về thực tế và cảm giác hoang tàn, `sự trống rỗng` là sự trống rỗng rộng hơn, giống như con bạch tuộc và `thực tế` là sự phán xét hơn là cảm xúc.
+
+**영어 참고:** *reality check*, *post-high crash*, *disillusionment* — *kiểm tra thực tế* có thể được sử dụng để giải thích nhẹ về cách đánh bóng hiện tại.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** cuộc sống thực, đời sống ngoài mạng.
 
-**뉘앙스와 사용법:** `현실 생활`을 줄인 온라인 표현으로, 잠시 취미를 쉬거나 바쁜 일상으로 돌아간다는 맥락에서 쓴다.
+**뉘앙스와 사용법:** Cụm từ trực tuyến được rút ngắn thành 'cuộc sống thực', được sử dụng trong bối cảnh tạm dừng một sở thích hoặc quay trở lại cuộc sống bận rộn hàng ngày.
 
-**재사용 가능한 콜로케이션·청크:** `현생이 바쁘다`, `현생으로 돌아가다`, `현생 때문에`, `현생을 살다`.
+**재사용 가능한 콜로케이션·청크:** `현생이 바쁘다`, `현생으로 돌아가다`, `현생 때문에`, `현생을 살다`. — ‘Tôi bận rộn với cuộc sống này’, ‘Trở về cuộc sống này’, ‘Vì cuộc sống này’, ‘Sống cuộc sống này’.
 
-**자주 쓰는 문형과 성분:** `현생이 + 바쁘다/힘들다`; 덕질·게임·커뮤니티와 대비한다.
+**자주 쓰는 문형과 성분:** `현생이 + 바쁘다/힘들다`, `Cuộc sống hiện tại + bận rộn/khó khăn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 커뮤니티와 친한 대화의 표현이며, 공식적인 `현실 생활`과 구별한다.
+**사회적 관계·주제별 register:** Nó là sự thể hiện của cộng đồng trực tuyến và cuộc trò chuyện thân thiện, phân biệt nó với 'đời thực' chính thức.
 
 **예문:** 이번 주는 현생이 너무 바빠서 커뮤니티에 거의 못 들어왔다.
 
-**어휘 연결:** `현생`은 온라인 활동과 대비한 실제 삶, `일상`은 중립적인 생활, `현실`은 상황·조건까지 넓은 말이다.
+**Dịch:** Tuần này tôi quá bận rộn với cuộc sống nên hầu như không tham gia cộng đồng.
 
-**영어 참고:** *real life*, *offline life*, *IRL* — *IRL*은 온라인과 대비되는 실제 생활을 가리키는 인터넷 약어다.
+**어휘 연결:** `현생`은 온라인 활동과 대비한 실제 삶, `일상`은 중립적인 생활, `현실`은 상황·조건까지 넓은 말이다. — ‘Cuộc sống hiện tại’ là cuộc sống thực so với các hoạt động trực tuyến, ‘cuộc sống hàng ngày’ là cuộc sống trung tính và ‘thực tế’ là một thuật ngữ rộng bao gồm các tình huống và điều kiện.
+
+**영어 참고:** *real life*, *offline life*, *IRL* — *IRL* là từ viết tắt trên internet đề cập đến cuộc sống thực chứ không phải trực tuyến.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** cố tình bắt bẻ, công kích vô lý.
 
-**뉘앙스와 사용법:** `억지로 까다`에서 나온 온라인 신조어로, 실제 비판과 부당한 공격을 구분하려는 말이다.
+**뉘앙스와 사용법:** Đây là một từ mới trực tuyến xuất phát từ 'cắt buộc khắc nghiệt' và nhằm phân biệt giữa lời chỉ trích thực tế và các cuộc tấn công không công bằng.
 
-**재사용 가능한 콜로케이션·청크:** `억까를 당하다`, `억까가 심하다`, `억까하지 마`, `이건 억까다`.
+**재사용 가능한 콜로케이션·청크:** `억까를 당하다`, `억까가 심하다`, `억까하지 마`, `이건 억까다`. — 'Bị đối xử bất công', 'Đây là hành vi phạm tội nghiêm trọng', 'Không được đối xử bất công', 'Điều này là không công bằng'.
 
-**자주 쓰는 문형과 성분:** `N을 억까하다`; 댓글·팬덤·경기·논쟁과 결합한다.
+**자주 쓰는 문형과 성분:** `N을 억까하다`, `Quên N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인·팬덤·젊은 층의 구어에 한정되며 공식 비판에는 쓰지 않는다.
+**사회적 관계·주제별 register:** Giới hạn trong ngôn ngữ trực tuyến, cộng đồng người hâm mộ và ngôn ngữ nói của giới trẻ và không được sử dụng để phê bình chính thức.
 
 **예문:** 작은 실수를 전체 인성 문제로 몰아가면 억까라는 반응이 나올 수 있다.
 
-**어휘 연결:** `억까`는 근거 없이 과하게 공격함, `비판`은 근거를 가진 평가, `트집 잡다`는 사소한 흠을 일부러 찾는 일반 구어다.
+**Dịch:** Nếu bạn biến một lỗi nhỏ thành một vấn đề tổng thể về tính cách, bạn có thể nhận được phản hồi gay gắt.
 
-**영어 참고:** *unfair bashing*, *nitpicking*, *dogpiling* — *dogpiling*은 온라인에서 여러 사람이 한 대상을 몰아 공격하는 현상이다.
+**어휘 연결:** `억까`는 근거 없이 과하게 공격함, `비판`은 근거를 가진 평가, `트집 잡다`는 사소한 흠을 일부러 찾는 일반 구어다. — `Eokka` là sự tấn công thái quá mà không có bất kỳ cơ sở nào, `chỉ trích` là sự đánh giá có cơ sở và `tìm lỗi ở điều gì đó` là cách diễn đạt thông tục chung nhằm cố ý tìm ra những sai sót nhỏ.
+
+**영어 참고:** *unfair bashing*, *nitpicking*, *dogpiling* — *Dogpiling* là hiện tượng nhiều người tấn công một mục tiêu trực tuyến.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** bầu không khí đột nhiên lạnh đi.
 
-**뉘앙스와 사용법:** `갑자기 분위기 싸해짐`의 줄임말로, 누군가의 말이나 사건 뒤에 어색함이 생긴 상황을 가볍게 말한다.
+**뉘앙스와 사용법:** Đây là từ viết tắt của 'bầu không khí đột nhiên trở nên lạnh' và đề cập nhẹ đến tình huống khó xử sau lời nói hoặc sự cố của ai đó.
 
-**재사용 가능한 콜로케이션·청크:** `갑분싸가 되다`, `갑분싸를 만들다`, `갑분싸 발언`, `순식간에 갑분싸`.
+**재사용 가능한 콜로케이션·청크:** `갑분싸가 되다`, `갑분싸를 만들다`, `갑분싸 발언`, `순식간에 갑분싸`. — `Trở thành Gapbunssa`, `Tạo Gapbunssa`, `Nhận xét Gapbunssa`, `Ngay lập tức, Gapbunssa`.
 
-**자주 쓰는 문형과 성분:** `분위기가 갑분싸가 되다`; 농담·회식·댓글·모임과 결합한다.
+**자주 쓰는 문형과 성분:** `분위기가 갑분싸가 되다`, `Bầu không khí trở nên ngột ngạt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 친한 대화와 온라인에서만 자연스러운 slang이다.
+**사회적 관계·주제별 register:** Đây chỉ là tiếng lóng tự nhiên trong các cuộc trò chuyện thân thiện và trực tuyến.
 
 **예문:** 다들 웃고 있었는데 갑자기 전 애인 이야기가 나와서 갑분싸가 됐다.
 
-**어휘 연결:** `갑분싸`는 갑작스러운 분위기 냉각, `어색하다`는 일반적인 감정 상태, `분위기가 가라앉다`는 중립적인 서술이다.
+**Dịch:** Mọi người đang cười thì bỗng nhiên câu chuyện về người yêu cũ của tôi xuất hiện và mọi chuyện trở nên sôi nổi.
 
-**영어 참고:** *awkward silence*, *the mood suddenly turned cold*, *buzzkill moment* — *buzzkill*은 분위기를 망친 사람이나 일을 가볍게 비판한다.
+**어휘 연결:** `갑분싸`는 갑작스러운 분위기 냉각, `어색하다`는 일반적인 감정 상태, `분위기가 가라앉다`는 중립적인 서술이다. — 'Gapbunsa' là tâm trạng nguội lạnh đột ngột, 'khó xử' là một trạng thái cảm xúc chung và 'tâm trạng đang chìm xuống' là một mô tả trung lập.
+
+**영어 참고:** *awkward silence*, *the mood suddenly turned cold*, *buzzkill moment* — *buzzkill* chỉ trích nhẹ nhàng một người hoặc sự kiện làm phá hỏng bầu không khí.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** cảm giác sảng khoái, hả dạ.
 
-**뉘앙스와 사용법:** 탄산음료의 시원함에서 나온 비유로, 복수·폭로·직설적인 대응을 긍정적으로 평가할 때 쓴다.
+**뉘앙스와 사용법:** Một phép ẩn dụ bắt nguồn từ sự mát lạnh của đồ uống có ga, được sử dụng để đánh giá tích cực sự trả thù, tiết lộ và phản ứng trực tiếp.
 
-**재사용 가능한 콜로케이션·청크:** `사이다 발언`, `사이다 전개`, `사이다처럼 시원하다`, `사이다 결말`.
+**재사용 가능한 콜로케이션·청크:** `사이다 발언`, `사이다 전개`, `사이다처럼 시원하다`, `사이다 결말`. — `Nhận xét về rượu táo`, `Phát triển rượu táo`, `Sảng khoái như rượu táo`, `Kết thúc về rượu táo`.
 
-**자주 쓰는 문형과 성분:** `N이 사이다다`; 드라마·댓글·직장 에피소드와 결합한다.
+**자주 쓰는 문형과 성분:** `N이 사이다다`, `N là rượu táo` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 대중문화·온라인·구어에서 활발한 비유적 slang이다.
+**사회적 관계·주제별 register:** Một tiếng lóng tượng trưng hoạt động trong văn hóa đại chúng, trực tuyến và ngôn ngữ nói.
 
 **예문:** 계속 참던 사람이 마침내 사실을 말하는 장면이 정말 사이다였다.
 
-**어휘 연결:** `사이다`는 통쾌함의 비유, `통쾌하다`는 표준 형용사, `속 시원하다`는 일상적인 감정 표현이다.
+**Dịch:** Cảnh người kìm nén cuối cùng cũng nói ra sự thật thực sự là rượu táo.
 
-**영어 참고:** *satisfying*, *cathartic*, *feel-good payoff* — *cathartic*은 쌓인 감정이 해소되는 느낌을 강조한다.
+**어휘 연결:** `사이다`는 통쾌함의 비유, `통쾌하다`는 표준 형용사, `속 시원하다`는 일상적인 감정 표현이다. — 'Cider' là phép ẩn dụ cho sự sảng khoái, 'làm mới' là một tính từ tiêu chuẩn và 'làm mới bên trong' là một biểu hiện cảm xúc hàng ngày.
+
+**영어 참고:** *satisfying*, *cathartic*, *feel-good payoff* — *tiêu cực* nhấn mạnh cảm giác giải quyết được những cảm xúc tích tụ.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** suy đoán cá nhân không có căn cứ.
 
-**뉘앙스와 사용법:** `뇌`와 `오피셜`을 합친 말로, 사실인 것처럼 말하는 추측을 가볍게 낮춰 부른다.
+**뉘앙스와 사용법:** Sự kết hợp của các từ 'bộ não' và 'chính thức', ám chỉ suy đoán được nói như thể nó là sự thật.
 
-**재사용 가능한 콜로케이션·청크:** `뇌피셜을 말하다`, `뇌피셜에 불과하다`, `뇌피셜 추측`, `뇌피셜 금지`.
+**재사용 가능한 콜로케이션·청크:** `뇌피셜을 말하다`, `뇌피셜에 불과하다`, `뇌피셜 추측`, `뇌피셜 금지`. — 'Nói về các từ chính thức của não', 'Không gì khác hơn là các từ chính thức của não', 'Đoán các từ chính thức của não', 'Không có từ chính thức của não'.
 
-**자주 쓰는 문형과 성분:** `N은/는 뇌피셜이다`; 팬덤·댓글·사건 추측과 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 뇌피셜이다`, `N là/là não hình thức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인·친한 대화에 한정되는 slang이다.
+**사회적 관계·주제별 register:** Đây là tiếng lóng giới hạn trong các cuộc trò chuyện trực tuyến và thân thiện.
 
 **예문:** 출처 없이 범인을 지목하는 건 그냥 뇌피셜이니 사실처럼 퍼뜨리지 말자.
 
-**어휘 연결:** `뇌피셜`은 근거 없는 개인 추측, `추정`은 공식·분석적 가설, `억측`은 지나치고 근거 없는 추측이라는 문어적 비판어다.
+**Dịch:** Việc chỉ ra thủ phạm mà không dẫn nguồn chỉ là suy đoán nên đừng lan truyền nó như sự thật.
 
-**영어 참고:** *personal speculation*, *headcanon*, *baseless theory* — *headcanon*은 팬덤에서 개인적으로 설정한 해석이라는 뜻이 강하다.
+**어휘 연결:** `뇌피셜`은 근거 없는 개인 추측, `추정`은 공식·분석적 가설, `억측`은 지나치고 근거 없는 추측이라는 문어적 비판어다. — 'Noir chính thức' là một lời phê bình văn học có nghĩa là suy đoán cá nhân vô căn cứ, 'ước tính' là một giả thuyết chính thức/phân tích và 'suy đoán' là suy đoán quá mức và vô căn cứ.
+
+**영어 참고:** *personal speculation*, *headcanon*, *baseless theory* — *headcanon* mang ý nghĩa mạnh mẽ về cách diễn giải do fandom đặt ra.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** tiêu chuẩn kép, làm theo kiểu “mình thì được, người khác thì không”.
 
-**뉘앙스와 사용법:** `내가 하면 로맨스, 남이 하면 불륜`의 앞부분을 줄인 표현으로, 정치·조직·일상 비판에 널리 쓰인다.
+**뉘앙스와 사용법:** Là viết tắt của phần đầu câu 'Tôi làm thì lãng mạn, nếu người khác làm thì là ngoại tình.' Nó được sử dụng rộng rãi trong việc phê phán chính trị, tổ chức và cuộc sống hàng ngày.
 
-**재사용 가능한 콜로케이션·청크:** `내로남불 논란`, `내로남불식 태도`, `내로남불이라고 비판하다`, `전형적인 내로남불`.
+**재사용 가능한 콜로케이션·청크:** `내로남불 논란`, `내로남불식 태도`, `내로남불이라고 비판하다`, `전형적인 내로남불`. — `Tranh cãi về Naeronambul`, `Thái độ phong cách Naeronambul`, `Chỉ trích Naeronambul`, `Naeronambul điển hình`.
 
-**자주 쓰는 문형과 성분:** `N은/는 내로남불이다`; 정치인·상사·규칙·도덕 판단과 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 내로남불이다`, `N là/là Naeronambul` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어·온라인·뉴스 논평에서 활발하지만 공식 보고서에는 `이중 기준`이 적절하다.
+**사회적 관계·주제별 register:** Tích cực trong lời nói, bình luận trực tuyến và tin tức, nhưng 'tiêu chuẩn kép' lại phù hợp trong các báo cáo chính thức.
 
 **예문:** 남의 사생활은 폭로하면서 자신의 사생활은 숨기려 하면 내로남불이라는 비판을 받는다.
 
-**어휘 연결:** `내로남불`은 이중 기준을 비꼬는 slang, `위선`은 문어적·도덕적 분석어, `이중 잣대`는 비교적 중립적인 비판 표현이다.
+**Dịch:** Nếu bạn cố che giấu đời tư của mình trong khi lại vạch trần đời sống riêng tư của người khác, bạn sẽ bị chê là người hẹp hòi.
 
-**영어 참고:** *double standard*, *hypocrisy*, *do as I say, not as I do* — *double standard*가 가장 직접적인 대응어다.
+**어휘 연결:** `내로남불`은 이중 기준을 비꼬는 slang, `위선`은 문어적·도덕적 분석어, `이중 잣대`는 비교적 중립적인 비판 표현이다. — 'Naeronambul' là tiếng lóng chỉ trích các tiêu chuẩn kép, 'đạo đức giả' là một từ phân tích văn học và đạo đức, và 'tiêu chuẩn kép' là một cách diễn đạt phê bình tương đối trung tính.
+
+**영어 참고:** *double standard*, *hypocrisy*, *do as I say, not as I do* — *tiêu chuẩn kép* là tương đương trực tiếp nhất.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** cực kỳ bực mình, tức điên lên.
 
-**뉘앙스와 사용법:** `열받다`를 변형한 표현으로, 실제 분노의 심각성보다 인터넷식 과장과 장난기가 강하다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt đã được sửa đổi của từ 'tức giận' và mang tính cường điệu và đùa giỡn theo phong cách Internet hơn là mức độ nghiêm trọng của cơn giận thực sự.
 
-**재사용 가능한 콜로케이션·청크:** `진짜 킹받다`, `킹받게 하다`, `킹받는 상황`, `괜히 킹받네`.
+**재사용 가능한 콜로케이션·청크:** `진짜 킹받다`, `킹받게 하다`, `킹받는 상황`, `괜히 킹받네`. — `Nhận được vua thật`, `Nhận được vua`, `Tình huống nhận được vua`, `Tôi nhận được vua không có lý do`.
 
-**자주 쓰는 문형과 성분:** `N 때문에 킹받다`; 댓글·게임·친구 장난과 결합한다.
+**자주 쓰는 문형과 성분:** `N 때문에 킹받다`, `Lên vua vì N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 젊은 층의 온라인·구어 표현이며, 공식 상황에는 쓰지 않는다.
+**사회적 관계·주제별 register:** Đây là cách diễn đạt trực tuyến và nói được sử dụng bởi giới trẻ và không được sử dụng trong các tình huống trang trọng.
 
 **예문:** 일부러 답을 안 알려 주고 웃는 친구가 오늘따라 킹받았다.
 
-**어휘 연결:** `킹받다`는 과장된 짜증, `열받다`는 표준에 가까운 구어, `화나다`는 가장 중립적인 표현이다.
+**Dịch:** Người bạn cố tình mỉm cười mà không cho tôi biết câu trả lời đã có được vua hôm nay.
 
-**영어 참고:** *be so annoyed*, *infuriating*, *that’s triggering* — *triggering*은 온라인에서 불쾌한 감정을 건드린다는 뜻으로 쓰일 수 있다.
+**어휘 연결:** `킹받다`는 과장된 짜증, `열받다`는 표준에 가까운 구어, `화나다`는 가장 중립적인 표현이다. — 'Tức giận' là biểu hiện phóng đại của sự khó chịu, 'tức giận' là biểu hiện thông tục gần với tiêu chuẩn và 'tức giận' là biểu hiện trung tính nhất.
+
+**영어 참고:** *be so annoyed*, *infuriating*, *that’s triggering* — *kích hoạt* có thể được dùng với nghĩa là chạm vào những cảm xúc khó chịu trên mạng.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** chính hiệu, thật sự.
 
-**뉘앙스와 사용법:** `진짜`를 강조하거나 팬덤·온라인에서 정통성과 실력을 인정할 때 쓴다.
+**뉘앙스와 사용법:** Được sử dụng khi nhấn mạnh 'tính chân thực' hoặc thừa nhận tính xác thực và kỹ năng trong fandom hoặc trực tuyến.
 
-**재사용 가능한 콜로케이션·청크:** `찐친`, `찐맛집`, `찐이다`, `찐팬`, `찐으로 좋아하다`.
+**재사용 가능한 콜로케이션·청크:** `찐친`, `찐맛집`, `찐이다`, `찐팬`, `찐으로 좋아하다`. — `Jjinchin`, `Nhà hàng Jjin`, `Jjinida`, `Jjinpan`, `Like Jinjin`.
 
-**자주 쓰는 문형과 성분:** `찐 + 명사`; 친구·팬·맛집·실력과 결합한다.
+**자주 쓰는 문형과 성분:** `찐 + 명사`, `Jjin + danh từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어·온라인에 자연스럽고, 공식 글에서는 `진정한`, `실제의`로 바꾼다.
+**사회적 관계·주제별 register:** Tự nhiên trong ngôn ngữ nói và trực tuyến, được đổi thành 'đúng' và 'thực tế' trong văn bản chính thức.
 
 **예문:** 그 사람은 말뿐 아니라 행동으로 보여 주는 찐친이다.
 
-**어휘 연결:** `찐`은 진짜임을 강조하는 slang, `진짜`는 일반 구어, `정통`은 전통·계보와 진짜임을 강조하는 문어적 표현이다.
+**Dịch:** Người đó là một người bạn thực sự, không chỉ qua lời nói mà còn qua hành động.
 
-**영어 참고:** *the real deal*, *genuine*, *legit* — *legit*은 온라인·구어에서 “진짜 괜찮다”는 뜻으로도 쓰인다.
+**어휘 연결:** `찐`은 진짜임을 강조하는 slang, `진짜`는 일반 구어, `정통`은 전통·계보와 진짜임을 강조하는 문어적 표현이다. — 'Jjin' là tiếng lóng nhấn mạnh tính xác thực, 'thực' là một từ được nói chung và 'chính thống' là cách diễn đạt bằng văn bản nhấn mạnh đến truyền thống, phả hệ và tính xác thực.
+
+**영어 참고:** *the real deal*, *genuine*, *legit* — *legit* cũng được sử dụng trực tuyến và trong ngôn ngữ nói với nghĩa là “điều đó thực sự ổn”.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** tự biết làm cho tốt, gọn gàng và có ý tứ.
 
-**뉘앙스와 사용법:** `알아서 잘 딱 깔끔하고 센스 있게`의 첫 음절을 줄인 표현으로, 친한 사이의 장난스러운 부탁이나 반응에 쓴다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt viết tắt của âm tiết đầu tiên của 'làm tốt, gọn gàng và có ý thức tốt' và được sử dụng cho các yêu cầu hoặc phản hồi vui vẻ giữa những người bạn thân.
 
-**재사용 가능한 콜로케이션·청크:** `알잘딱깔센하게 해`, `알잘딱깔센이 중요하다`, `알잘딱깔센 부탁`.
+**재사용 가능한 콜로케이션·청크:** `알잘딱깔센하게 해`, `알잘딱깔센이 중요하다`, `알잘딱깔센 부탁`. — ‘Làm tốt và rõ ràng’, ‘Rõ ràng và rõ ràng là quan trọng’, ‘Hãy rõ ràng và rõ ràng’.
 
-**자주 쓰는 문형과 성분:** `알잘딱깔센하게 + 하다/처리하다`; 디자인·편집·업무 부탁과 결합한다.
+**자주 쓰는 문형과 성분:** `알잘딱깔센하게 + 하다/처리하다`, `Chính xác + làm/xử lý` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인·젊은 층·친한 직장 대화의 slang이며 공식 지시에는 부적절하다.
+**사회적 관계·주제별 register:** Đây là tiếng lóng chỉ những cuộc trò chuyện trực tuyến, giới trẻ, thân thiện nơi công sở và không phù hợp với hướng dẫn chính thức.
 
 **예문:** 세부 지시를 다 쓰기 어려우니 자료는 알잘딱깔센하게 정리해 줘.
 
-**어휘 연결:** `알잘딱깔센`은 센스 있는 자율 처리를 기대하는 slang, `알아서 하다`는 중립적 표현, `재량껏 처리하다`는 공식어다.
+**Dịch:** Rất khó để viết hết các hướng dẫn chi tiết nên hãy sắp xếp tài liệu một cách gọn gàng.
 
-**영어 참고:** *use your judgment*, *make it work*, *handle it smartly* — 단어 하나로 완전히 대응하기보다 상황 설명이 필요하다.
+**어휘 연결:** `알잘딱깔센`은 센스 있는 자율 처리를 기대하는 slang, `알아서 하다`는 중립적 표현, `재량껏 처리하다`는 공식어다. — 'Aljalttakkalsen' là tiếng lóng yêu cầu quá trình xử lý tự động hợp lý, 'hãy xử lý nó' là một cách diễn đạt trung lập và 'xử lý theo quyết định của bạn' là một từ chính thức.
+
+**영어 참고:** *use your judgment*, *make it work*, *handle it smartly* — Cần giải thích tình huống hơn là trả lời hoàn toàn bằng một từ.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** hỏi gì cũng được; phiên hỏi đáp.
 
-**뉘앙스와 사용법:** SNS 스토리·커뮤니티에서 질문을 모집하는 기능이나 게시물을 가볍게 부르는 표현이다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt thông thường dành cho một chức năng hoặc bài đăng đặt câu hỏi trong các câu chuyện hoặc cộng đồng SNS.
 
-**재사용 가능한 콜로케이션·청크:** `무물 받다`, `무물 타임`, `무물 열다`, `무물 답변`.
+**재사용 가능한 콜로케이션·청크:** `무물 받다`, `무물 타임`, `무물 열다`, `무물 답변`. — `Không nhận được gì`, `Không có thời gian`, `Không mở gì`, `Không trả lời`.
 
-**자주 쓰는 문형과 성분:** `무물을 + 열다/받다`; 팔로워·질문·스토리·답변과 결합한다.
+**자주 쓰는 문형과 성분:** `무물을 + 열다/받다`, `Mở/không nhận gì` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인 커뮤니티와 SNS에 한정되는 slang이다.
+**사회적 관계·주제별 register:** Đây là tiếng lóng giới hạn trong cộng đồng trực tuyến và SNS.
 
 **예문:** 오늘 밤에는 유학 경험에 관한 무물을 받아 볼게요.
 
-**어휘 연결:** `무물`은 온라인 질문 모집, `Q&A`는 더 넓고 중립적인 형식, `질의응답`은 공식 행사·문서에 쓰는 말이다.
+**Dịch:** Tối nay tôi sẽ nhận được bài phỏng vấn về trải nghiệm du học của mình.
 
-**영어 참고:** *ask me anything*, *AMA*, *Q&A* — *AMA*는 Reddit 등 온라인에서 널리 쓰이는 형식명이다.
+**어휘 연결:** `무물`은 온라인 질문 모집, `Q&A`는 더 넓고 중립적인 형식, `질의응답`은 공식 행사·문서에 쓰는 말이다. — 'Mumul' là một câu hỏi đặt ra trực tuyến, 'Q&A' ​​là một định dạng rộng hơn và trung lập, và 'Q&A' ​​là thuật ngữ được sử dụng cho các sự kiện và tài liệu chính thức.
+
+**영어 참고:** *ask me anything*, *AMA*, *Q&A* — *AMA* là tên định dạng được sử dụng rộng rãi trên mạng, bao gồm cả Reddit.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** người hỏi nhưng chỉ muốn nghe câu trả lời đã định sẵn.
 
-**뉘앙스와 사용법:** `답은 정해져 있고 너는 대답만 하면 돼`의 줄임말로, 상대의 형식적인 질문을 비꼰다.
+**뉘앙스와 사용법:** Đây là viết tắt của 'câu trả lời đã được ấn định và bạn chỉ cần trả lời thôi', mang tính chất giễu cợt câu hỏi trang trọng của người khác.
 
-**재사용 가능한 콜로케이션·청크:** `답정너 질문`, `완전 답정너`, `답정너 모드`, `답정너에게 대답하다`.
+**재사용 가능한 콜로케이션·청크:** `답정너 질문`, `완전 답정너`, `답정너 모드`, `답정너에게 대답하다`. — `Trả lời câu hỏi`, `Câu trả lời hoàn chỉnh`, `Chế độ trả lời`, `Trả lời câu trả lời`.
 
-**자주 쓰는 문형과 성분:** `N은/는 답정너다`; 연애·쇼핑·친구 상담과 결합한다.
+**자주 쓰는 문형과 성분:** `N은/는 답정너다`, `N là câu trả lời` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 친한 대화와 온라인에서 쓰는 비판적 slang이다.
+**사회적 관계·주제별 register:** Đây là tiếng lóng quan trọng được sử dụng trong các cuộc trò chuyện thân thiện và trực tuyến.
 
 **예문:** 조언을 구한다면서 칭찬만 기대하면 답정너라는 말을 들을 수 있다.
 
-**어휘 연결:** `답정너`는 원하는 답을 강요하는 질문, `확증편향`은 믿음에 맞는 정보만 고르는 심리, `유도 질문`은 답을 특정 방향으로 이끄는 중립어다.
+**Dịch:** Nếu bạn xin lời khuyên và chỉ mong được khen ngợi, bạn có thể được thông báo rằng bạn sẽ không trả lời.
 
-**영어 참고:** *leading question*, *fishing for compliments*, *confirmation-seeking* — *fishing for compliments*는 칭찬을 유도하는 상황에 한정된다.
+**어휘 연결:** `답정너`는 원하는 답을 강요하는 질문, `확증편향`은 믿음에 맞는 정보만 고르는 심리, `유도 질문`은 답을 특정 방향으로 이끄는 중립어다. — 'Người trả lời' là câu hỏi buộc phải có câu trả lời mong muốn, 'thiên vị xác nhận' là tâm lý chỉ chọn thông tin phù hợp với niềm tin của một người và 'câu hỏi dẫn dắt' là một từ trung lập dẫn câu trả lời theo một hướng cụ thể.
+
+**영어 참고:** *leading question*, *fishing for compliments*, *confirmation-seeking* — *tìm kiếm lời khen* được giới hạn trong các tình huống mời gọi lời khen.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** câu tương tác bằng cách khiêu khích, gây chú ý.
 
-**뉘앙스와 사용법:** 영어 *aggressive*에서 변형된 온라인 표현으로, 관심을 끌려는 도발적인 게시물이나 사람을 가리킨다.
+**뉘앙스와 사용법:** Một biểu thức trực tuyến phỏng theo tiếng Anh *hung hăng*, đề cập đến một bài đăng khiêu khích hoặc một người đang tìm cách thu hút sự chú ý.
 
-**재사용 가능한 콜로케이션·청크:** `어그로를 끌다`, `어그로성 제목`, `어그로에 낚이다`, `어그로를 무시하다`.
+**재사용 가능한 콜로케이션·청크:** `어그로를 끌다`, `어그로성 제목`, `어그로에 낚이다`, `어그로를 무시하다`. — `Thu hút aggro`, `Tiêu đề Aggro`, `Bị vướng vào aggro`, `Bỏ qua aggro`.
 
-**자주 쓰는 문형과 성분:** `N이/가 어그로를 끌다`; 댓글·제목·방송·커뮤니티와 결합한다.
+**자주 쓰는 문형과 성분:** `N이/가 어그로를 끌다`, `N thu hút sự chú ý` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 온라인·게임·방송의 slang이며, 공식적인 글에서는 `도발적 관심 유도`처럼 풀어 쓴다.
+**사회적 관계·주제별 register:** Đó là tiếng lóng để chỉ trực tuyến, trò chơi và phát thanh truyền hình, và trong văn bản chính thức, nó được diễn đạt là 'khiêu khích gây hứng thú'.
 
 **예문:** 논쟁을 해결하려는 글이 아니라 어그로를 끌려고 일부러 과격한 제목을 단 것 같다.
 
-**어휘 연결:** `어그로`는 반응을 끌려는 도발, `선동`은 행동을 몰아가는 수사, `관심 유도`는 의도가 중립적인 공식 표현이다.
+**Dịch:** Có vẻ như tiêu đề này cố tình gay gắt nhằm thu hút sự gây hấn hơn là để giải quyết tranh cãi.
 
-**영어 참고:** *trolling*, *baiting*, *attention-seeking* — *trolling*은 온라인에서 일부러 화나게 하는 행위를 강조한다.
+**어휘 연결:** `어그로`는 반응을 끌려는 도발, `선동`은 행동을 몰아가는 수사, `관심 유도`는 의도가 중립적인 공식 표현이다. — 'Aggro' là hành động khiêu khích nhằm khơi gợi phản ứng, 'kích động' là lời hùng biện thúc đẩy hành động và 'kích động sự quan tâm' là cách diễn đạt chính thức với mục đích trung lập.
+
+**영어 참고:** *trolling*, *baiting*, *attention-seeking* — *trolling* nhấn mạnh hành động cố tình gây phản cảm trên mạng.
 
 <!-- passage_word_count: 101 Korean eojeol; target_set: 꼰대, 눈치, 현타, 현생, 억까, 갑분싸, 사이다, 뇌피셜, 내로남불, 킹받다, 찐, 알잘딱깔센, 무물, 답정너, 어그로 -->
 

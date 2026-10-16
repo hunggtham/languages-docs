@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** quốc khách, nguyên thủ nước ngoài thăm cấp nhà nước.
 
-**뉘앙스와 사용법:** 일반적인 외국 손님보다 의전과 외교적 의미가 훨씬 크다. 사람을 가리키기도 하고 `국빈 방문`처럼 방문 자체를 수식하기도 한다.
+**뉘앙스와 사용법:** Nghi thức và ý nghĩa ngoại giao lớn hơn nhiều so với một vị khách nước ngoài thông thường. Nó có thể đề cập đến một người hoặc sửa đổi chính chuyến thăm đó, chẳng hạn như 'chuyến thăm cấp nhà nước'.
 
-**재사용 가능한 콜로케이션·청크:** `국빈 방문`, `국빈을 맞이하다`, `국빈 자격`, `국빈 대우`.
+**재사용 가능한 콜로케이션·청크:** `국빈 방문`, `국빈을 맞이하다`, `국빈 자격`, `국빈 대우`. — `chuyến thăm cấp nhà nước`, `tiếp khách cấp nhà nước`, `tiêu chuẩn cấp nhà nước`, `điều trị cấp nhà nước`.
 
-**자주 쓰는 문형과 성분:** `국빈이 방문하다`; `국빈을 맞이하다`; 대통령·국왕·총리 같은 국가 대표와 결합한다.
+**자주 쓰는 문형과 성분:** `국빈이 방문하다`, `국빈을 맞이하다`, `Các chuyến thăm cấp nhà nước`, `Đón tiếp khách cấp nhà nước` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 외교·정치 뉴스와 의전 문서의 격식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các tài liệu nghi thức và tin tức ngoại giao, chính trị.
 
 **예문:** 정부는 국빈 방문 기간에 정상회담과 문화 행사를 함께 준비했다.
 
-**어휘 연결:** `외빈`은 외국에서 온 귀빈을 넓게 가리키고, `국빈`은 국가가 공식적으로 예우하는 손님, `귀빈`은 국내외의 중요한 손님을 모두 포함한다.
+**Dịch:** Chính phủ đã chuẩn bị hội nghị thượng đỉnh và các sự kiện văn hóa trong chuyến thăm cấp nhà nước.
 
-**영어 참고:** *state guest*, *state visit*, *guest of state* — *state guest*는 사람, *state visit*은 공식 방문, *guest of state*는 국가 의전의 지위를 강조한다.
+**어휘 연결:** `외빈`은 외국에서 온 귀빈을 넓게 가리키고, `국빈`은 국가가 공식적으로 예우하는 손님, `귀빈`은 국내외의 중요한 손님을 모두 포함한다. — 'Khách nước ngoài' nói chung là các vị khách quý từ nước ngoài, 'khách quốc gia' là những vị khách được nhà nước chiêu đãi chính thức và 'khách quý' bao gồm cả các vị khách quan trọng trong nước và nước ngoài.
+
+**영어 참고:** *state guest*, *state visit*, *guest of state* — *khách mời cấp bang* nhấn mạnh một người, *chuyến thăm cấp nhà nước* nhấn mạnh chuyến thăm chính thức và *khách mời cấp bang* nhấn mạnh địa vị của nghi thức quốc gia.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** khoáng sản, khoáng vật.
 
-**뉘앙스와 사용법:** 지질학적 물질을 가리키기도 하고, 경제·안보 맥락에서는 산업에 필요한 자원이라는 의미가 강하다.
+**뉘앙스와 사용법:** Nó đề cập đến vật liệu địa chất và trong bối cảnh kinh tế và an ninh, nó có ý nghĩa mạnh mẽ như một nguồn tài nguyên cần thiết cho ngành công nghiệp.
 
-**재사용 가능한 콜로케이션·청크:** `희귀 광물`, `광물 자원`, `광물 매장량`, `광물을 수입하다`.
+**재사용 가능한 콜로케이션·청크:** `희귀 광물`, `광물 자원`, `광물 매장량`, `광물을 수입하다`. — `Khoáng sản quý hiếm`, `Tài nguyên khoáng sản`, `Dự trữ khoáng sản`, `Khoáng sản nhập khẩu`.
 
-**자주 쓰는 문형과 성분:** `광물을 채굴하다/정제하다`; `광물 자원`; 산업·배터리·에너지 정책과 결합한다.
+**자주 쓰는 문형과 성분:** `광물을 채굴하다/정제하다`, `광물 자원`, `Khai thác/tinh chế khoáng sản`, `Tài nguyên khoáng sản` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 지질·경제·산업·국제정책의 전문어다.
+**사회적 관계·주제별 register:** Thuật ngữ địa chất, kinh tế, công nghiệp và chính sách quốc tế.
 
 **예문:** 희귀 광물의 안정적인 공급망을 확보하는 일이 국가 경쟁력과 연결되고 있다.
 
-**어휘 연결:** `자원`은 사용할 수 있는 자연·인적 요소의 넓은 말, `광물`은 땅에서 얻는 무기물, `금속`은 광물에서 추출하거나 가공한 물질을 뜻한다.
+**Dịch:** Đảm bảo chuỗi cung ứng ổn định cho khoáng sản quý hiếm gắn liền với khả năng cạnh tranh quốc gia.
 
-**영어 참고:** *mineral*, *mineral resource*, *ore* — *mineral*은 광물 일반, *mineral resource*는 경제적 자원, *ore*는 금속을 추출할 수 있는 광석이다.
+**어휘 연결:** `자원`은 사용할 수 있는 자연·인적 요소의 넓은 말, `광물`은 땅에서 얻는 무기물, `금속`은 광물에서 추출하거나 가공한 물질을 뜻한다. — 'Tài nguyên' là một thuật ngữ rộng chỉ các yếu tố tự nhiên và con người có thể sử dụng được, 'khoáng sản' là khoáng sản thu được từ lòng đất và 'kim loại' là các chất được chiết xuất hoặc chế biến từ khoáng sản.
+
+**영어 참고:** *mineral*, *mineral resource*, *ore* — *khoáng chất* là khoáng sản tổng hợp, *tài nguyên khoáng sản* là tài nguyên kinh tế và *quặng* là quặng có thể khai thác kim loại.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** lực lượng cảnh sát biển.
 
-**뉘앙스와 사용법:** 한국어에서는 보통 `해양경찰`의 줄임말로 쓰인다. 군대와 역할이 다르지만 해상 안전과 국경 관리에서 협력한다.
+**뉘앙스와 사용법:** Trong tiếng Hàn, nó thường được dùng làm từ viết tắt của 'Cảnh sát bờ biển'. Mặc dù có vai trò khác với quân đội nhưng họ hợp tác trong lĩnh vực an ninh hàng hải và quản lý biên giới.
 
-**재사용 가능한 콜로케이션·청크:** `해경에 신고하다`, `해경 경비정`, `해경 구조대`, `해경이 수색하다`.
+**재사용 가능한 콜로케이션·청크:** `해경에 신고하다`, `해경 경비정`, `해경 구조대`, `해경이 수색하다`. — `Báo cáo cho Cảnh sát biển`, `Tàu tuần tra của Cảnh sát biển`, `Đội cứu hộ của Cảnh sát biển`, `Tìm kiếm của Cảnh sát biển`.
 
-**자주 쓰는 문형과 성분:** `해경이 구조하다/수색하다`; 사고·어선·밀수·오염과 결합한다.
+**자주 쓰는 문형과 성분:** `해경이 구조하다/수색하다`, `Tìm kiếm/cứu hộ Cảnh sát biển` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·재난·해양 행정의 중립적 표현이다.
+**사회적 관계·주제별 register:** Thể hiện trung lập về tin tức, thảm họa và quản lý hàng hải.
 
 **예문:** 해경은 조난 신호를 받은 뒤 인근 선박과 함께 수색에 나섰다.
 
-**어휘 연결:** `경찰`은 육상 치안 기관, `해경`은 바다의 치안·구조 기관, `해군`은 국가 방위와 군사 작전을 담당한다.
+**Dịch:** Sau khi nhận được tín hiệu cấp cứu, Cảnh sát biển bắt đầu tìm kiếm các tàu gần đó.
 
-**영어 참고:** *coast guard*, *maritime police*, *maritime safety authority* — *coast guard*가 가장 일반적이고, *maritime police*는 치안 기능을 강조한다.
+**어휘 연결:** `경찰`은 육상 치안 기관, `해경`은 바다의 치안·구조 기관, `해군`은 국가 방위와 군사 작전을 담당한다. — 'Cảnh sát' là cơ quan an ninh đất liền, 'Cảnh sát biển' là cơ quan an ninh biển và cứu hộ, và 'Hải quân' chịu trách nhiệm về các hoạt động quốc phòng và quân sự.
+
+**영어 참고:** *coast guard*, *maritime police*, *maritime safety authority* — *cảnh sát bờ biển* là phổ biến nhất và *cảnh sát hàng hải* nhấn mạnh chức năng an ninh.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** khai thác khoáng sản, đào mỏ.
 
-**뉘앙스와 사용법:** 자원을 실제로 꺼내는 산업 행위에 초점을 둔다. 환경 피해·노동 안전·지역 주민 권리와 함께 논의되는 경우가 많다.
+**뉘앙스와 사용법:** Tập trung vào các hoạt động công nghiệp thực sự khai thác tài nguyên. Nó thường được thảo luận cùng với thiệt hại về môi trường, an toàn lao động và quyền của người dân địa phương.
 
-**재사용 가능한 콜로케이션·청크:** `광물 채굴`, `해저 채굴`, `채굴 사업`, `채굴 지역`.
+**재사용 가능한 콜로케이션·청크:** `광물 채굴`, `해저 채굴`, `채굴 사업`, `채굴 지역`. — `Khai thác khoáng sản`, `khai thác đáy biển`, `kinh doanh khai thác`, `khu vực khai thác`.
 
-**자주 쓰는 문형과 성분:** `N을/를 채굴하다`; `채굴이 이루어지다`; 광물·석탄·천연가스·해저가 대상이 된다.
+**자주 쓰는 문형과 성분:** `N을/를 채굴하다`, `채굴이 이루어지다`, `N을/를 채굴하다`, `Việc khai thác diễn ra` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업·환경·자원 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho chính sách công nghiệp, môi trường và tài nguyên.
 
 **예문:** 해저 채굴을 추진하려면 생태계 영향과 지역 어민의 생계를 함께 검토해야 한다.
 
-**어휘 연결:** `채취`는 자연물이나 표본을 가져오는 넓은 말, `채굴`은 지하 자원을 파냄, `추출`은 가공 과정에서 특정 성분을 분리함을 강조한다.
+**Dịch:** Để theo đuổi việc khai thác đáy biển, các tác động sinh thái và sinh kế của ngư dân địa phương phải được xem xét cùng nhau.
 
-**영어 참고:** *mining*, *extraction*, *drilling* — *mining*은 광물 채굴, *extraction*은 자원·성분을 뽑아냄, *drilling*은 구멍을 뚫어 석유·가스를 얻는 방식이다.
+**어휘 연결:** `채취`는 자연물이나 표본을 가져오는 넓은 말, `채굴`은 지하 자원을 파냄, `추출`은 가공 과정에서 특정 성분을 분리함을 강조한다. — 'Bộ sưu tập' là một thuật ngữ rộng để chỉ việc lấy các vật thể hoặc mẫu tự nhiên, 'khai thác' là đào các nguồn tài nguyên dưới lòng đất và 'khai thác' nhấn mạnh đến việc tách các thành phần cụ thể trong quá trình xử lý.
+
+**영어 참고:** *mining*, *extraction*, *drilling* — *khai thác* là khai thác khoáng sản, *khai thác* là khai thác tài nguyên và các thành phần và *khoan* là phương pháp khoan lỗ để thu được dầu và khí đốt.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** bản địa, bản xứ, bản sinh.
 
-**뉘앙스와 사용법:** 사람에게는 `토착민`, 문화에는 `토착 문화`, 생물에는 `토착종`처럼 쓴다. 외부에서 들어온 것과 대비되며, 식민·개발의 역사와 연결될 수 있다.
+**뉘앙스와 사용법:** Sử dụng 'người bản địa' cho con người, 'văn hóa bản địa' cho các nền văn hóa và 'loài bản địa' cho các sinh vật sống. Nó trái ngược với những gì đến từ bên ngoài và có thể gắn liền với lịch sử thuộc địa hóa và phát triển.
 
-**재사용 가능한 콜로케이션·청크:** `토착민`, `토착 문화`, `토착종`, `토착 지식`.
+**재사용 가능한 콜로케이션·청크:** `토착민`, `토착 문화`, `토착종`, `토착 지식`. — `Người bản địa`, `Văn hóa bản địa`, `Loài bản địa`, `Kiến thức bản địa`.
 
-**자주 쓰는 문형과 성분:** `토착 + 명사`; 지역·생태·역사와 함께 원래의 자리와 지식을 설명한다.
+**자주 쓰는 문형과 성분:** `토착 + 명사`, `bản địa + danh từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인류학·환경·역사·개발 정책의 분석어다.
+**사회적 관계·주제별 register:** Thuật ngữ phân tích về nhân chủng học, môi trường, lịch sử và chính sách phát triển.
 
 **예문:** 개발 계획은 토착민의 생활 방식과 전통 지식을 먼저 고려해야 한다.
 
-**어휘 연결:** `지역 주민`은 현재 그곳에 사는 사람, `토착민`은 역사적 뿌리와 원주성을 강조, `원주민`은 국제적 인권·민족 맥락에서 자주 쓰인다.
+**Dịch:** Kế hoạch phát triển trước tiên phải xem xét lối sống và kiến ​​thức truyền thống của người dân bản địa.
 
-**영어 참고:** *indigenous*, *native*, *local* — *indigenous*는 역사적 원주성과 권리, *native*는 출신·생물학적 토착성, *local*은 현재 지역성을 뜻한다.
+**어휘 연결:** `지역 주민`은 현재 그곳에 사는 사람, `토착민`은 역사적 뿌리와 원주성을 강조, `원주민`은 국제적 인권·민족 맥락에서 자주 쓰인다. — 'Cư dân địa phương' đề cập đến những người hiện đang sống ở đó, 'người bản địa' nhấn mạnh nguồn gốc lịch sử và tính độc đáo, và 'người bản địa' thường được sử dụng trong bối cảnh nhân quyền và sắc tộc quốc tế.
+
+**영어 참고:** *indigenous*, *native*, *local* — *bản địa* ám chỉ tính nguyên gốc và các quyền lịch sử, *bản địa* ám chỉ nguồn gốc và tính bản địa sinh học, và *địa phương* ám chỉ địa phương hiện tại.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** cuộc xâm lược xuống phía nam; trong lịch sử Hàn Quốc là cuộc tấn công của Bắc Triều Tiên vào miền Nam.
 
-**뉘앙스와 사용법:** 한국 현대사에서 매우 구체적인 역사적 사건을 가리킬 수 있다. 현재 정치 논쟁에서 무분별하게 비유하면 갈등을 키울 수 있다.
+**뉘앙스와 사용법:** Có thể đề cập đến một sự kiện lịch sử rất cụ thể trong lịch sử hiện đại của Hàn Quốc. Trong cuộc tranh luận chính trị hiện nay, việc sử dụng phép loại suy một cách bừa bãi có thể làm gia tăng xung đột.
 
-**재사용 가능한 콜로케이션·청크:** `남침을 감행하다`, `남침의 역사`, `남침 전쟁`, `남침을 기억하다`.
+**재사용 가능한 콜로케이션·청크:** `남침을 감행하다`, `남침의 역사`, `남침 전쟁`, `남침을 기억하다`. — `Miền Nam xâm lược`, `Lịch sử xâm lược miền Nam`, `Chiến tranh xâm lược miền Nam`, `Tưởng nhớ miền Nam xâm lược`.
 
-**자주 쓰는 문형과 성분:** `남침이 시작되다`; `남침을 감행하다`; 전쟁사·기념관·교과서와 결합한다.
+**자주 쓰는 문형과 성분:** `남침이 시작되다`, `남침을 감행하다`, `Cuộc xâm lược miền Nam bắt đầu`, `Tiến hành xâm lược miền Nam` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역사·안보·교육의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức của lịch sử, an ninh và giáo dục.
 
 **예문:** 박물관은 남침으로 시작된 전쟁의 피해를 민간인의 기록으로 보여 주었다.
 
-**어휘 연결:** `침공`은 군사적 공격 일반, `남침`은 남쪽으로 내려온 특정 방향과 한국전쟁의 역사 맥락, `북진`은 북쪽으로 진격함을 뜻한다.
+**Dịch:** Bảo tàng trưng bày hồ sơ dân sự về những thiệt hại do chiến tranh bắt đầu từ cuộc xâm lược miền Nam.
 
-**영어 참고:** *North Korean invasion of the South*, *invasion from the north*, *Korean War offensive* — 첫 표현이 역사적 맥락을 가장 명확하게 전달한다.
+**어휘 연결:** `침공`은 군사적 공격 일반, `남침`은 남쪽으로 내려온 특정 방향과 한국전쟁의 역사 맥락, `북진`은 북쪽으로 진격함을 뜻한다. — 'Cuộc xâm lược' đề cập đến một cuộc tấn công quân sự nói chung, 'Cuộc xâm lược phía Nam' đề cập đến một hướng cụ thể di chuyển về phía nam và bối cảnh lịch sử của Chiến tranh Triều Tiên, và 'Tiến về phía Bắc' đề cập đến việc tiến lên phía bắc.
+
+**영어 참고:** *North Korean invasion of the South*, *invasion from the north*, *Korean War offensive* — Biểu thức đầu tiên truyền tải bối cảnh lịch sử một cách rõ ràng nhất.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** sự chiếm đóng, chiếm lĩnh.
 
-**뉘앙스와 사용법:** 단순한 승리보다 영토를 실제로 통치하거나 통제하는 상태를 포함한다. 역사·국제법·전쟁 보도에서 신중하게 사용한다.
+**뉘앙스와 사용법:** Bao gồm trạng thái thực sự cai trị hoặc kiểm soát một lãnh thổ thay vì chỉ đơn giản là chiến thắng. Sử dụng thận trọng khi đưa tin về lịch sử, luật pháp quốc tế và chiến tranh.
 
-**재사용 가능한 콜로케이션·청크:** `영토를 점령하다`, `점령군`, `점령지`, `점령 통치`.
+**재사용 가능한 콜로케이션·청크:** `영토를 점령하다`, `점령군`, `점령지`, `점령 통치`. — `lãnh thổ chiếm đóng`, `lực lượng chiếm đóng`, `lãnh thổ chiếm đóng`, `quy tắc chiếm đóng`.
 
-**자주 쓰는 문형과 성분:** `N을/를 점령하다`; `점령이 계속되다`; 도시·섬·국가·지역이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N을/를 점령하다`, `점령이 계속되다`, `chiếm N`, `Việc chiếm đóng vẫn tiếp tục` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 전쟁사·국제정치·국제법의 강한 공식어다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức mạnh mẽ của lịch sử chiến tranh, chính trị quốc tế và luật pháp quốc tế.
 
 **예문:** 점령 이후 주민들의 이동과 언어 사용이 크게 제한되었다.
 
-**어휘 연결:** `정복`은 싸워 이겨 지배함, `점령`은 특정 지역을 차지해 통제함, `주둔`은 군대가 일정 장소에 머무는 상태다.
+**Dịch:** Sau khi bị chiếm đóng, việc đi lại và sử dụng ngôn ngữ của cư dân bị hạn chế rất nhiều.
 
-**영어 참고:** *occupation*, *capture*, *conquest* — *occupation*은 지역을 계속 통치함, *capture*는 차지하는 순간, *conquest*는 정복의 과정과 결과를 넓게 말한다.
+**어휘 연결:** `정복`은 싸워 이겨 지배함, `점령`은 특정 지역을 차지해 통제함, `주둔`은 군대가 일정 장소에 머무는 상태다. — `Chinh phục` là kiểm soát bằng cách chiến đấu và giành chiến thắng, `Chiếm giữ` là chiếm đóng và kiểm soát một khu vực cụ thể và `Đồn trú` là trạng thái quân đội đóng tại một địa điểm nhất định.
+
+**영어 참고:** *occupation*, *capture*, *conquest* — *chiếm đóng* ám chỉ việc tiếp tục cai trị một khu vực, *chiếm giữ* ám chỉ thời điểm chiếm đóng và *chinh phục* nói chung là ám chỉ quá trình và kết quả của cuộc chinh phục.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** ngày đình chiến.
 
-**뉘앙스와 사용법:** 전쟁이 완전히 끝난 종전일과 다르다. 기념·교육·역사 기록에서 날짜가 지닌 의미를 설명할 때 쓴다.
+**뉘앙스와 사용법:** Nó khác với ngày kết thúc khi chiến tranh đã hoàn toàn kết thúc. Được sử dụng để giải thích ý nghĩa của ngày tháng trong các hồ sơ kỷ niệm, giáo dục và lịch sử.
 
-**재사용 가능한 콜로케이션·청크:** `휴전일을 기념하다`, `휴전일의 의미`, `휴전 협정`, `휴전일 행사`.
+**재사용 가능한 콜로케이션·청크:** `휴전일을 기념하다`, `휴전일의 의미`, `휴전 협정`, `휴전일 행사`. — 'Kỷ niệm ngày đình chiến', 'Ý nghĩa của ngày đình chiến', 'Thỏa thuận đình chiến', 'Sự kiện ngày đình chiến'.
 
-**자주 쓰는 문형과 성분:** `휴전일을 맞다/기념하다`; 전쟁·기념관·평화 교육과 결합한다.
+**자주 쓰는 문형과 성분:** `휴전일을 맞다/기념하다`, `Kỷ niệm/kỷ niệm ngày đình chiến` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역사·외교·평화운동의 격식어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chính thức cho các phong trào lịch sử, ngoại giao và hòa bình.
 
 **예문:** 휴전일을 맞아 학생들은 전쟁보다 평화 협상이 왜 어려운지 토론했다.
 
-**어휘 연결:** `휴전`은 싸움을 일시 중단함, `종전`은 전쟁을 공식적으로 끝냄, `정전`은 전투가 멈춘 상태를 법적·군사적으로 표현한다.
+**Dịch:** Vào Ngày đình chiến, học sinh đã thảo luận tại sao đàm phán hòa bình khó khăn hơn chiến tranh.
 
-**영어 참고:** *armistice day*, *ceasefire anniversary*, *day of truce* — *armistice day*가 역사적 기념일의 일반 번역이다.
+**어휘 연결:** `휴전`은 싸움을 일시 중단함, `종전`은 전쟁을 공식적으로 끝냄, `정전`은 전투가 멈춘 상태를 법적·군사적으로 표현한다. — 'Đình chiến' đề cập đến việc ngừng giao tranh tạm thời, 'Kết thúc chiến tranh' chính thức kết thúc chiến tranh và 'Đình chiến' thể hiện về mặt pháp lý và quân sự tình trạng giao tranh đã dừng lại.
+
+**영어 참고:** *armistice day*, *ceasefire anniversary*, *day of truce* — *ngày đình chiến* là cách dịch chung cho ngày kỷ niệm lịch sử.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** chiến trường, mặt trận.
 
-**뉘앙스와 사용법:** 실제 전투 장소뿐 아니라 경제·정치 경쟁을 비유적으로 표현할 때도 쓴다. 인간의 희생과 위험을 함께 떠올리게 하는 강한 말이다.
+**뉘앙스와 사용법:** Nó được dùng để diễn đạt một cách ẩn dụ sự cạnh tranh kinh tế và chính trị cũng như các địa điểm chiến đấu thực tế. Đây là những từ mạnh mẽ nhắc nhở chúng ta về sự hy sinh và nguy hiểm của con người.
 
-**재사용 가능한 콜로케이션·청크:** `전장에 나가다`, `전장을 누비다`, `전장의 참상`, `새로운 전장`.
+**재사용 가능한 콜로케이션·청크:** `전장에 나가다`, `전장을 누비다`, `전장의 참상`, `새로운 전장`. — `Tới chiến trường`, `Điều hướng chiến trường`, `Nỗi kinh hoàng của chiến trường`, `Chiến trường mới`.
 
-**자주 쓰는 문형과 성분:** `전장에서 싸우다`; `전장이 되다`; 전쟁·시장·기술 경쟁이 수식어가 된다.
+**자주 쓰는 문형과 성분:** `전장에서 싸우다`, `전장이 되다`, `Chiến đấu trên chiến trường`, `trở thành chiến trường` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 역사·문학·뉴스와 비유적 논평에서 쓰인다.
+**사회적 관계·주제별 register:** Được sử dụng trong lịch sử, văn học, tin tức và bình luận ẩn dụ.
 
 **예문:** 전장에서 살아남은 사람들의 증언은 통계만으로 알 수 없는 공포를 전했다.
 
-**어휘 연결:** `전쟁터`는 구어적이고 현장감 있는 말, `전장`은 문어·군사적 표현, `전선`은 군대가 맞서는 선이나 경쟁의 최전선을 뜻한다.
+**Dịch:** Lời khai của những người sống sót sau chiến trường truyền tải những nỗi kinh hoàng không thể biết được chỉ qua số liệu thống kê.
 
-**영어 참고:** *battlefield*, *front*, *theater of war* — *battlefield*는 전투 장소, *front*는 전선, *theater of war*는 넓은 작전 지역이다.
+**어휘 연결:** `전쟁터`는 구어적이고 현장감 있는 말, `전장`은 문어·군사적 표현, `전선`은 군대가 맞서는 선이나 경쟁의 최전선을 뜻한다. — 'Chiến trường' là một thuật ngữ thông tục và thực tế, 'chiến trường' là cách diễn đạt bằng văn bản/quân sự và 'tiền tuyến' đề cập đến chiến tuyến nơi quân đội chiến đấu hoặc tiền tuyến cạnh tranh.
+
+**영어 참고:** *battlefield*, *front*, *theater of war* — *chiến trường* là địa điểm chiến đấu, *tiền tuyến* là tiền tuyến và *sân khấu chiến tranh* là một khu vực hoạt động rộng lớn.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** sự nổi lên nhanh chóng, trỗi dậy đột ngột.
 
-**뉘앙스와 사용법:** 원래 있던 대상이 빠르게 올라오는 모습을 뉴스 제목처럼 압축한다. 시장·정치·스포츠·기술에 자주 쓴다.
+**뉘앙스와 사용법:** Hình ảnh của đối tượng ban đầu xuất hiện nhanh chóng được nén như tiêu đề tin tức. Nó thường được sử dụng trong thị trường, chính trị, thể thao và công nghệ.
 
-**재사용 가능한 콜로케이션·청크:** `신흥 강국의 급부상`, `급부상한 기업`, `시장에 급부상하다`, `급부상하는 기술`.
+**재사용 가능한 콜로케이션·청크:** `신흥 강국의 급부상`, `급부상한 기업`, `시장에 급부상하다`, `급부상하는 기술`. — 'Sự trỗi dậy nhanh chóng của một cường quốc mới nổi', 'Công ty mới nổi nhanh chóng', 'Nổi lên nhanh chóng trên thị trường', 'Công nghệ mới nổi nhanh chóng'.
 
-**자주 쓰는 문형과 성분:** `N이 급부상하다`; `급부상한 N`; 국가·기업·선수·기술이 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이 급부상하다`, `급부상한 N`, `N tăng nhanh`, `Tăng N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기사·경제·정치 분석의 압축적인 표현이다.
+**사회적 관계·주제별 register:** Sự thể hiện cô đọng của bài viết, phân tích kinh tế và chính trị.
 
 **예문:** 재생에너지 산업의 급부상으로 관련 인력 교육의 필요성도 커졌다.
 
-**어휘 연결:** `성장`은 점진적인 발전, `부상`은 주목받으며 올라옴, `급부상`은 짧은 기간의 속도와 갑작스러움을 강조한다.
+**Dịch:** Với sự phát triển nhanh chóng của ngành năng lượng tái tạo, nhu cầu đào tạo nguồn nhân lực liên quan cũng tăng lên.
 
-**영어 참고:** *rapid rise*, *emergence*, *meteoric rise* — *rapid rise*는 빠른 상승, *emergence*는 새롭게 등장함, *meteoric rise*는 매우 극적인 급부상이다.
+**어휘 연결:** `성장`은 점진적인 발전, `부상`은 주목받으며 올라옴, `급부상`은 짧은 기간의 속도와 갑작스러움을 강조한다. — 'Tăng trưởng' ám chỉ sự phát triển dần dần, 'tăng trưởng' ám chỉ việc thu hút sự chú ý và 'tăng trưởng đột ngột' nhấn mạnh tốc độ và tính đột ngột của một khoảng thời gian ngắn.
+
+**영어 참고:** *rapid rise*, *emergence*, *meteoric rise* — *tăng nhanh* là sự gia tăng nhanh chóng, *nổi lên* là sự xuất hiện mới và *sự gia tăng nhanh chóng* là sự gia tăng rất mạnh mẽ.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** đòn đánh; tổn thất, cú sốc.
 
-**뉘앙스와 사용법:** 스포츠·전투의 물리적 타격과 경제·심리의 비유적 손상을 모두 표현한다.
+**뉘앙스와 사용법:** Thể hiện cả thiệt hại vật chất của thể thao và chiến đấu cũng như thiệt hại ẩn dụ về kinh tế và tâm lý.
 
-**재사용 가능한 콜로케이션·청크:** `타격을 입다`, `큰 타격`, `경제적 타격`, `타격을 가하다`.
+**재사용 가능한 콜로케이션·청크:** `타격을 입다`, `큰 타격`, `경제적 타격`, `타격을 가하다`. — `chịu đòn`, `đòn lớn`, `đòn kinh tế`, `gây đòn`.
 
-**자주 쓰는 문형과 성분:** `N에 타격을 입히다`; `타격을 받다`; 산업·시장·조직·몸이 대상이 된다.
+**자주 쓰는 문형과 성분:** `N에 타격을 입히다`, `타격을 받다`, `nhấn N`, `bị đánh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·경제·스포츠·군사에서 널리 쓰이는 중립어다.
+**사회적 관계·주제별 register:** Một từ trung lập được sử dụng rộng rãi trong tin tức, kinh tế, thể thao và quân sự.
 
 **예문:** 홍수로 농가가 큰 타격을 입었지만 지역 주민들은 복구 작업을 함께 시작했다.
 
-**어휘 연결:** `충격`은 심리·사회적 놀람, `손실`은 잃은 양이나 가치, `타격`은 사건이 기능과 입지에 준 직접적인 손상을 강조한다.
+**Dịch:** Các trang trại bị ảnh hưởng nặng nề bởi lũ lụt nhưng người dân địa phương đã cùng nhau bắt đầu công việc khắc phục.
 
-**영어 참고:** *blow*, *impact*, *damage* — *blow*는 갑작스러운 타격, *impact*는 영향과 충격, *damage*는 실제 손상을 뜻한다.
+**어휘 연결:** `충격`은 심리·사회적 놀람, `손실`은 잃은 양이나 가치, `타격`은 사건이 기능과 입지에 준 직접적인 손상을 강조한다. — 'Sốc' nhấn mạnh sự ngạc nhiên về mặt tâm lý xã hội, 'mất mát' nhấn mạnh số lượng hoặc giá trị bị mất và 'đòn' nhấn mạnh thiệt hại trực tiếp mà sự kiện gây ra cho hoạt động và trạng thái.
+
+**영어 참고:** *blow*, *impact*, *damage* — *đòn* nghĩa là đòn bất ngờ, *tác động* nghĩa là va chạm và tác động, và *thiệt hại* nghĩa là thiệt hại thực tế.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** đấu trường cạnh tranh khốc liệt.
 
-**뉘앙스와 사용법:** 실제 경기장보다 시장·기술·외교처럼 경쟁이 집중된 영역을 비유적으로 말할 때 흔하다.
+**뉘앙스와 사용법:** Người ta thường ám chỉ một cách ẩn dụ các lĩnh vực tập trung cạnh tranh, chẳng hạn như thị trường, công nghệ và ngoại giao, thay vì các sân vận động thực tế.
 
-**재사용 가능한 콜로케이션·청크:** `치열한 각축장`, `경쟁의 각축장`, `기술 각축장`, `각축장이 되다`.
+**재사용 가능한 콜로케이션·청크:** `치열한 각축장`, `경쟁의 각축장`, `기술 각축장`, `각축장이 되다`. — ‘Đấu trường cạnh tranh khốc liệt’, ‘Đấu trường cạnh tranh’, ‘Đấu trường cạnh tranh kỹ năng’, ‘Trở thành đấu trường cạnh tranh’.
 
-**자주 쓰는 문형과 성분:** `N이 각축장이 되다`; 국가·시장·플랫폼·지역이 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이 각축장이 되다`, `N trở thành chiến trường` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제·정치 기사와 분석 글의 문어적 표현이다.
+**사회적 관계·주제별 register:** Đây là cách trình bày bằng văn bản các bài báo và phân tích về kinh tế và chính trị.
 
 **예문:** 해상 풍력 시장은 여러 기업이 기술과 가격으로 겨루는 각축장이 되었다.
 
-**어휘 연결:** `경쟁장`은 넓고 중립적인 말, `격전지`는 전투처럼 치열한 경쟁, `각축장`은 여러 세력이 우위를 다투는 분야를 강조한다.
+**Dịch:** Thị trường điện gió ngoài khơi đã trở thành một đấu trường cạnh tranh nơi nhiều công ty cạnh tranh về công nghệ và giá cả.
 
-**영어 참고:** *battleground*, *competitive arena*, *contested field* — *battleground*는 비유적 전장, *competitive arena*는 경쟁 분야, *contested field*는 이해관계가 충돌하는 영역이다.
+**어휘 연결:** `경쟁장`은 넓고 중립적인 말, `격전지`는 전투처럼 치열한 경쟁, `각축장`은 여러 세력이 우위를 다투는 분야를 강조한다. — 'Trường cạnh tranh' là một thuật ngữ rộng và trung lập, 'chiến trường' nhấn mạnh sự cạnh tranh khốc liệt như một trận chiến và 'trường cạnh tranh' nhấn mạnh một khu vực có nhiều lực lượng cạnh tranh để giành quyền tối cao.
+
+**영어 참고:** *battleground*, *competitive arena*, *contested field* — *chiến trường* là chiến trường ẩn dụ, *đấu trường cạnh tranh* là sân đấu của sự cạnh tranh và *sân đấu tranh* là khu vực có xung đột lợi ích.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** sự che giấu, ẩn giấu, cất giấu.
 
-**뉘앙스와 사용법:** `은폐`가 사건이나 책임을 덮는 데 넓게 쓰인다면, `은닉`은 구체적인 대상이나 장소를 숨기는 행위에 더 가깝다.
+**뉘앙스와 사용법:** Nếu 'che giấu' được sử dụng rộng rãi để che giấu một sự việc hoặc trách nhiệm thì 'che giấu' gần với hành động che giấu một đồ vật hoặc địa điểm cụ thể.
 
-**재사용 가능한 콜로케이션·청크:** `증거 은닉`, `재산 은닉`, `은닉 장소`, `은닉을 시도하다`.
+**재사용 가능한 콜로케이션·청크:** `증거 은닉`, `재산 은닉`, `은닉 장소`, `은닉을 시도하다`. — `Che giấu bằng chứng`, `Che giấu tài sản`, `Nơi cất giấu`, `Cố gắng che giấu`.
 
-**자주 쓰는 문형과 성분:** `N을/를 은닉하다`; 증거·재산·무기·신분·정보가 목적어가 된다.
+**자주 쓰는 문형과 성분:** `N을/를 은닉하다`, `ẩn N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 수사·법률·보안·뉴스의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức dành cho điều tra, luật pháp, an ninh và tin tức.
 
 **예문:** 수사관들은 증거 은닉을 막기 위해 창고의 출입 기록을 확보했다.
 
-**어휘 연결:** `숨기다`는 일반어, `은닉`은 찾기 어렵게 감춤, `은폐`는 진실·책임을 드러나지 않게 함이라는 비판적 의도가 더 강하다.
+**Dịch:** Các nhà điều tra đã thu được hồ sơ truy cập kho hàng để ngăn chặn việc che giấu bằng chứng.
 
-**영어 참고:** *concealment*, *hiding*, *secreting* — *concealment*는 공식적 은닉, *hiding*은 일반적인 숨김, *secreting*은 물건을 몰래 감춰 둠을 강조한다.
+**어휘 연결:** `숨기다`는 일반어, `은닉`은 찾기 어렵게 감춤, `은폐`는 진실·책임을 드러나지 않게 함이라는 비판적 의도가 더 강하다. — 'Ẩn' là một từ chung chung, 'che giấu' là một từ chung chung để gây khó tìm và 'che giấu' có mục đích phê phán mạnh mẽ hơn là ngăn chặn sự thật và trách nhiệm bị tiết lộ.
+
+**영어 참고:** *concealment*, *hiding*, *secreting* — *che giấu* nhấn mạnh đến việc che giấu chính thức, *ẩn* nhấn mạnh vào việc che giấu chung và *bí mật* nhấn mạnh vào việc bí mật giấu một đối tượng.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** nghiêm trọng, nghiêm khắc, nặng nề.
 
-**뉘앙스와 사용법:** 단순히 심각하다는 뜻뿐 아니라 권위 있는 기관이 책임을 묻거나 강한 경고를 보낸다는 느낌이 있다.
+**뉘앙스와 사용법:** Điều đó không chỉ có nghĩa là sự việc nghiêm trọng mà còn có cảm giác rằng một cơ quan có thẩm quyền đang buộc họ phải chịu trách nhiệm hoặc gửi cảnh báo mạnh mẽ.
 
-**재사용 가능한 콜로케이션·청크:** `엄중한 경고`, `엄중한 처벌`, `엄중히 조치하다`, `엄중한 책임`.
+**재사용 가능한 콜로케이션·청크:** `엄중한 경고`, `엄중한 처벌`, `엄중히 조치하다`, `엄중한 책임`. — `cảnh cáo nghiêm trọng`, `hình phạt nghiêm trọng`, `hành động nghiêm trọng`, `trách nhiệm nghiêm trọng`.
 
-**자주 쓰는 문형과 성분:** `엄중한 N`; `엄중히 경고하다/처벌하다`; 정부·법원·기관의 공식 발표와 결합한다.
+**자주 쓰는 문형과 성분:** `엄중한 N`, `엄중히 경고하다/처벌하다`, `nghiêm ngặt N`, `cảnh cáo/trừng phạt nghiêm khắc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 법률·정치·행정·뉴스의 격식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ trang trọng dành cho luật pháp, chính trị, hành chính và tin tức.
 
 **예문:** 기관은 개인정보를 유출한 업체에 엄중한 책임을 묻겠다고 밝혔다.
 
-**어휘 연결:** `심각하다`는 문제의 정도, `엄격하다`는 기준의 까다로움, `엄중하다`는 권위 있는 경고·처벌의 무게를 강조한다.
+**Dịch:** Cơ quan này đã thông báo rằng họ sẽ buộc các công ty rò rỉ thông tin cá nhân phải chịu trách nhiệm nghiêm khắc.
 
-**영어 참고:** *stern*, *grave*, *severe* — *stern*은 단호한 태도, *grave*는 매우 심각함, *severe*는 처벌이나 영향의 강도를 뜻한다.
+**어휘 연결:** `심각하다`는 문제의 정도, `엄격하다`는 기준의 까다로움, `엄중하다`는 권위 있는 경고·처벌의 무게를 강조한다. — 'Nghiêm trọng' nhấn mạnh mức độ của vấn đề, 'nghiêm ngặt' ​​nhấn mạnh tính nghiêm ngặt của các tiêu chuẩn và 'nghiêm trọng' nhấn mạnh tầm quan trọng của các cảnh báo và hình phạt có thẩm quyền.
+
+**영어 참고:** *stern*, *grave*, *severe* — *nghiêm khắc* có nghĩa là thái độ kiên quyết, *nghiêm trọng* có nghĩa là rất nghiêm túc và *nghiêm trọng* có nghĩa là cường độ trừng phạt hoặc ảnh hưởng.
 
 ---
 
@@ -363,27 +391,33 @@
 
 **베트남어 뜻:** một cách nhanh nhạy, mau lẹ và linh hoạt.
 
-**뉘앙스와 사용법:** 단순히 속도가 빠른 것이 아니라 변화와 위험을 읽고 적절히 대응하는 판단력까지 포함한다.
+**뉘앙스와 사용법:** Nó không chỉ là về tốc độ mà còn bao gồm khả năng phán đoán để đọc các thay đổi, rủi ro và phản hồi thích hợp.
 
-**재사용 가능한 콜로케이션·청크:** `기민하게 대응하다`, `기민하게 움직이다`, `변화에 기민하게 반응하다`, `기민한 판단`.
+**재사용 가능한 콜로케이션·청크:** `기민하게 대응하다`, `기민하게 움직이다`, `변화에 기민하게 반응하다`, `기민한 판단`. — `Phản ứng nhanh nhẹn`, `Di chuyển nhanh`, `Phản ứng nhanh để thay đổi`, `Phán đoán sắc sảo`.
 
-**자주 쓰는 문형과 성분:** `기민하게 + 동사`; 대응·판단·조정·이동과 결합한다.
+**자주 쓰는 문형과 성분:** `기민하게 + 동사`, `agile + động từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 정책·군사·비즈니스·기사의 격식어다. 일상에서는 `재빨리`, `눈치 빠르게`가 더 쉽다.
+**사회적 관계·주제별 register:** Ngôn ngữ trang trọng cho chính sách, quân sự, kinh doanh và bài viết. Trong cuộc sống hàng ngày, việc ‘nhanh chóng’ và ‘nhanh chóng’ sẽ dễ dàng hơn.
 
 **예문:** 시장이 급변하자 작은 회사는 기민하게 생산 계획을 바꾸었다.
 
-**어휘 연결:** `빠르게`는 속도, `민첩하게`는 몸이나 행동의 재빠름, `기민하게`는 정보 판단과 전략적 대응의 영리함을 강조한다.
+**Dịch:** Khi thị trường thay đổi nhanh chóng, công ty nhỏ cũng nhanh chóng thay đổi kế hoạch sản xuất.
 
-**영어 참고:** *swiftly*, *agilely*, *promptly* — *swiftly*는 빠른 속도, *agilely*는 유연한 대응, *promptly*는 지체 없이 행동함이다.
+**어휘 연결:** `빠르게`는 속도, `민첩하게`는 몸이나 행동의 재빠름, `기민하게`는 정보 판단과 전략적 대응의 영리함을 강조한다. — 'Nhanh chóng' nhấn mạnh tốc độ, 'nhanh nhẹn' nhấn mạnh sự nhanh chóng của cơ thể hoặc hành động và 'nhanh nhẹn' nhấn mạnh sự thông minh trong phán đoán thông tin và phản ứng chiến lược.
+
+**영어 참고:** *swiftly*, *agilely*, *promptly* — *nhanh* có nghĩa là tốc độ nhanh, *nhanh nhẹn* có nghĩa là phản hồi linh hoạt và *kịp thời* có nghĩa là hành động không chậm trễ.
 
 ## 읽기 지문 — 역사에서 자원 정책까지
 
 ---
 
-<!-- passage_word_count: 69 Korean eojeol; target_set: 국빈, 광물, 해경, 채굴, 토착, 남침, 점령, 휴전일, 전장, 급부상, 타격, 각축장, 은닉, 엄중한, 기민하게 -->
+<!-- passage_word_count: 109 Korean eojeol; target_set: 국빈, 광물, 해경, 채굴, 토착, 남침, 점령, 휴전일, 전장, 급부상, 타격, 각축장, 은닉, 엄중한, 기민하게 -->
 
 국빈 방문을 앞두고 열린 세미나에서 연구자들은 희귀 광물 채굴과 해양 안전을 함께 논의했다. 해경의 구조 기록과 토착 공동체의 지식을 무시하면 자원 개발이 큰 타격을 남길 수 있었다. 강연자는 남침과 점령으로 이어진 전쟁의 역사를 설명하며, 휴전일이 전장의 고통이 끝났다는 뜻은 아니라고 강조했다. 오늘날 해상 자원 지역은 여러 국가가 경쟁하는 각축장으로 급부상했고, 불법 채굴과 자료 은닉에는 엄중한 대응이 필요했다. 정책 담당자들은 변화에 기민하게 움직이되, 역사적 기억을 단순한 구호로 소비하지 않으려 했다.
+
+
+
+전쟁의 기억과 자원 경쟁에 관한 논의에서는 국빈 및 광물 사이의 관계를 단순한 수치가 아니라 누가 비용과 위험을 부담하는지까지 함께 살펴야 한다. 현장에서는 해경, 채굴, 토착 및 관련 자료를 통해 이용자와 공동체의 경험 변화를 확인해야 한다.
 
 ### 베트남어 번역
 

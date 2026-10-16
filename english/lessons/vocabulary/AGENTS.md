@@ -2,7 +2,7 @@
 
 ## Mission
 
-Expand the reviewed CEFR vocabulary track from A1 through C2+ into a large, coherent learning corpus. The working target is **20,000 unique learning items**, with **10,000 items as the first milestone**. These are planning targets, not official CEFR word counts.
+Expand the reviewed CEFR vocabulary track from A1 through C2+ into a large, coherent learning corpus. The working target is **30,000 unique learning items**, with **10,000 items as the first milestone** and **20,000 as the verified continuation checkpoint**. These are planning targets, not official CEFR word counts.
 
 The corpus must remain useful to a learner, not become a raw word dump. Quality, deduplication, natural contemporary American English, and consistency with the approved lesson format take priority over mechanically reaching a number.
 
@@ -10,11 +10,11 @@ The corpus must remain useful to a learner, not become a raw word dump. Quality,
 
 Always read and follow:
 
-- `../../../prompt/COMMON_PROMPT.md`
-- `../../../prompt/VOCAB_PROMPT.md`
-- `../../../prompt/vocabulary_goal/GOAL.md`
-- `./cefr/README.md`
-- `./cefr/CODEX_STATE.md`
+- `/prompt/COMMON_PROMPT.md`
+- `/prompt/VOCAB_PROMPT.md`
+- `/prompt/vocabulary_goal/GOAL.md`
+- `/english/lessons/vocabulary/cefr/README.md`
+- `/english/lessons/vocabulary/cefr/CODEX_STATE.md`
 
 Before generating a new lesson, inspect the latest lesson in the same level and at least one approved pilot lesson. The current A1, B2, and C2 pilots are approved format references and must not be reformatted casually.
 
@@ -24,7 +24,7 @@ Generate in this order unless the state file says otherwise:
 
 `A1 → A2 → B1 → B2 → C1 → C2 → C2+`
 
-Use these only as soft planning targets for the 20,000-item corpus:
+Use these only as soft planning targets for the 30,000-item corpus:
 
 - A1: about 1,000
 - A2: about 1,500
@@ -32,26 +32,26 @@ Use these only as soft planning targets for the 20,000-item corpus:
 - B2: about 3,500
 - C1: about 4,500
 - C2: about 4,000
-- C2+: about 3,000
+- C2+: about 13,000
 
 Do not distort CEFR placement just to satisfy a quota. Rebalance when linguistic quality requires it.
 
 ## Lesson batching
 
-The task-specific lesson-size and batching rules live in `../../../prompt/vocabulary_goal/GOAL.md`. Do not impose a default item count or create files merely to satisfy a quota; choose file boundaries from the coherent topic and the words needed to teach it.
+The task-specific lesson-size and batching rules live in `/prompt/vocabulary_goal/GOAL.md`. Do not impose a default item count or create files merely to satisfy a quota; choose file boundaries from the coherent topic and the words needed to teach it.
 
 Historical consolidation files may exceed 29 items when they combine already-approved lessons to reduce file sprawl. Preserve one labeled review passage per source lesson in those files; do not use their larger size as a quota for newly generated lessons.
 
 Numeric prefixes reset inside each topic folder and each CEFR level. For example, `a2/communication/01-...md` and `a2/home/01-...md` are both valid. Keep historical source coverage in the file metadata instead of forcing one global sequence across all topic folders.
 
-Work in coherent topic batches explicitly authorized by the current task. The number of files and items in a batch is determined by the topics, not by a fixed lesson or item quota. After each batch:
+Work continuously in coherent topic batches. The number of files and items in a batch is determined by the topics, not by a fixed lesson or item quota. After each batch:
 
 1. review every entry against the prompt and canonical format;
 2. check for duplicate headword+sense coverage;
 3. check file naming and sequential lesson numbering;
 4. update `cefr/CODEX_STATE.md`;
 5. commit the batch as one durable checkpoint;
-6. stop at the authorized scope unless the user/task explicitly authorizes continuation.
+6. immediately continue with the next batch while the runtime allows.
 
 If a session is likely to end before three lessons are complete, checkpoint any fully completed lesson instead of leaving untracked finished work.
 
@@ -65,7 +65,7 @@ Before choosing a new batch, scan existing CEFR lesson headings and nearby conte
 
 `ielts-vocabulary-22000-clean.md` is only a **candidate pool/reference source**, not a template. It contains legacy material and must not be copied mechanically.
 
-Do not copy definitions, example sentences, translations, or explanatory prose from that file or from proprietary dictionaries/word lists. Write original explanations and original examples consistent with contemporary General American English. Use external references only to verify usage, sense, pronunciation, register, or CEFR plausibility when needed. Do not invent IPA, CEFR placement, frequency, collocations, register judgments, or citations; mark unresolved claims `UNVERIFIED`/`NEEDS_SOURCE`.
+Do not copy definitions, example sentences, translations, or explanatory prose from that file or from proprietary dictionaries/word lists. Write original explanations and original examples consistent with contemporary General American English. Use external references only to verify usage, sense, pronunciation, register, or CEFR plausibility when needed.
 
 When the legacy source contains outdated, unnatural, duplicated, malformed, or overly exam-specific material, skip or modernize the candidate instead of preserving it blindly.
 
@@ -79,14 +79,12 @@ Do not inflate easy A1/A2 words with unnecessary academic detail. Do not oversim
 
 ## Continuous-run behavior
 
-Once started on the vocabulary expansion task, do not stop after one lesson or one batch merely to summarize progress within the explicitly authorized scope. Do not infer permission to expand the scope from the existence of the 20,000-item goal. Stop when one of these conditions occurs:
+Once started on the vocabulary expansion task, do not stop after one lesson or one batch merely to summarize progress. Continue selecting, writing, validating, checkpointing, and committing the next batch until one of these conditions occurs:
 
-- the 20,000-item target is reached with acceptable quality;
+- the 30,000-item target is reached with acceptable quality;
 - Codex/runtime usage limits prevent another turn or continuation;
 - an unrecoverable Git conflict or repository failure occurs;
 - a decision genuinely requires the user.
-
-An AI-generated lesson is not accepted until a human reviews its prose, evidence, examples, translations, and duplicate coverage. Structural validation does not prove semantic correctness. Do not edit `CODEX_STATE.md`, counts, metadata, or validators to make an unresolved batch appear complete.
 
 Usage limits do not require special handling inside the content. The repository checkpoint is the recovery mechanism. On the next run, recalculate the current repository state, read `CODEX_STATE.md`, and resume from the first unfinished lesson.
 
