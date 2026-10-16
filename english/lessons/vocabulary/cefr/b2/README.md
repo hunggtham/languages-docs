@@ -135,6 +135,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Visual Arts Artistic Creation And Gallery Exhibitions](./art/01-visual-arts-artistic-creation-and-gallery-exhibitions.md)
 - [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
 - [Curatorial Practice Museum Provenance And Cultural Preservation](./art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
+- [Art Market Valuation Auction Economics And Cultural Heritage Restitution](./art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md)
 
 ## urban
 

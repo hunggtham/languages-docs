@@ -28,11 +28,11 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 2176 items in 99 topic files; topic-folder numbering resets per folder.
-- B2: 1893 items in 84 topic files; B2 expansion is active beyond the original pilot.
+- B2: 1918 items in 85 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 26071 items (authoritative script count after the B2 psychology, business, economics, and health expansion batch; 3,929 remaining to 30,000).
+- Total: 26096 items (authoritative script count after the B2 art/04 addition; 3,904 remaining to 30,000).
 
 ## Current position
 
@@ -40,7 +40,7 @@ Status: `READY_FOR_30K`
 
 Current level: `B2`
 
-Next lesson: continue B2 with coherent topics (e.g., `b2/art/04`, `b2/urban/04`, `b2/environment/05`, `b2/media/05`) or further B1. The 20,000-item count is a verified checkpoint; milestone 26,000 has been crossed (26,071/30,000, 3,929 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B2 with coherent topics (e.g., `b2/urban/04`, `b2/environment/05`, `b2/media/05`, `b2/technology/07`) or further B1. The 20,000-item count is a verified checkpoint; milestone 26,000 has been crossed (26,096/30,000, 3,904 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -1126,3 +1126,4 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest B2 expansion added `b2/business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md` with 25 corporate venture capital, open innovation, and agile transformation items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/economics/04-labor-market-dynamics-wage-polarization-and-social-welfare-economics.md` with 25 labor market dynamics, wage polarization, and social welfare economics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md` with 25 digital health therapeutics, telemedicine systems, and patient data ethics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest B2 expansion added `b2/art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md` with 25 art market valuation, auction economics, and cultural heritage restitution items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
