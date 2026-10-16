@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,500 new targets across 300 independent topic batches; 9,500 structured headings toward the 10,000 target, leaving 500 after this checkpoint.
+- Progress in this checkpoint: 4,590 new targets across 306 independent topic batches; 9,590 structured headings toward the 10,000 target, leaving 410 after this checkpoint.
+
+- Topic: `advanced-acoustic-black-holes-and-structural-vibration-damping`
+- File: `01-acoustic-black-holes-and-structural-vibration-damping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic black holes and structural vibration damping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-cortisol-immunosensors`
+- File: `01-wearable-sweat-cortisol-immunosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat cortisol immunosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-retinal-implants-and-photodiode-arrays`
+- File: `01-neuromorphic-retinal-implants-and-photodiode-arrays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic retinal implants and photodiode arrays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-sonochemical-nanomaterial-synthesis`
+- File: `01-piezo-sonochemical-nanomaterial-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo-sonochemical nanomaterial synthesis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-chiral-perovskite-spintronics-and-circular-polarization`
+- File: `01-chiral-perovskite-spintronics-and-circular-polarization.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral perovskite spintronics and circular polarization headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-spider-silk-super-fibers`
+- File: `01-biomimetic-spider-silk-super-fibers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic spider silk super-fibers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-metamaterial-superlens-and-sub-diffraction-imaging`
 - File: `01-metamaterial-superlens-and-sub-diffraction-imaging.md`
