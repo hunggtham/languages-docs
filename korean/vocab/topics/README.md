@@ -136,6 +136,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [뉴로모픽 컴퓨팅과 스파이킹 신경망의 언어](./advanced-neuromorphic-computing-and-spiking-neural-networks/README.md) — `인간 뇌를 모사하는 초저전력 인공지능 반도체`
 - [항공우주 복합재와 구조건전성의 언어](./advanced-aerospace-composite-materials-and-structural-health/README.md) — `항공기 첨단 복합재와 실시간 구조 진단`
 - [전력망 사이버 복원력과 운영기술 보안의 언어](./advanced-grid-cyber-resilience-and-ot-security/README.md) — `국가 핵심 전력망과 제어시스템 사이버 방어`
+- [재생농업과 토양 탄소 축적의 언어](./advanced-regenerative-agriculture-and-soil-carbon-sequestration/README.md) — `생태계 회복형 농업과 토양 탄소 격리`
+- [양자암호통신과 양자키분배의 언어](./advanced-quantum-cryptography-and-post-quantum-key-exchange/README.md) — `양자 키 분배와 후양자 암호 전환`
+- [정밀 영양과 대사체 프로파일링의 언어](./advanced-personalized-nutrition-and-metabolic-profiling/README.md) — `대사체 분석과 개인 맞춤형 임상 영양 중재`
+- [탄소중립 합성연료와 이퓨얼의 언어](./advanced-carbon-neutral-synthetic-fuels-and-efuels/README.md) — `탄소 재활용 합성연료와 수송 부문 탈탄소화`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

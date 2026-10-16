@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,200 new targets across eighty independent topic batches; 6,200 structured headings toward the 10,000 target, leaving 3,800 after this checkpoint.
+- Progress in this checkpoint: 1,260 new targets across 84 independent topic batches; 6,260 structured headings toward the 10,000 target, leaving 3,740 after this checkpoint.
+
+- Topic: `advanced-regenerative-agriculture-and-soil-carbon-sequestration`
+- File: `01-regenerative-agriculture-and-soil-carbon-sequestration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot regenerative agriculture and soil carbon sequestration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean regenerative agriculture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-cryptography-and-post-quantum-key-exchange`
+- File: `01-quantum-cryptography-and-post-quantum-key-exchange.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cryptography and post-quantum key exchange headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 120-eojeol Korean quantum cryptography passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-personalized-nutrition-and-metabolic-profiling`
+- File: `01-personalized-nutrition-and-metabolic-profiling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot personalized nutrition and metabolic profiling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean personalized nutrition passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-neutral-synthetic-fuels-and-efuels`
+- File: `01-carbon-neutral-synthetic-fuels-and-efuels.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon-neutral synthetic fuels and e-fuels headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean synthetic fuels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-deep-sea-mining-and-benthic-ecosystems`
 - File: `01-deep-sea-mining-and-benthic-ecosystems.md`
