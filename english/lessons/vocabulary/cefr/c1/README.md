@@ -37,9 +37,8 @@
 ## archaeology
 - [C1 Vocabulary 01 — Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md)
 - [C1 Vocabulary 02 — Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md)
-
-- [C1 Vocabulary 01 — Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md)
-- [C1 Vocabulary 02 — Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md)
+- [C1 Vocabulary 03 — Maritime shipwreck archaeology, underwater 3D photogrammetry, and waterlogged wood conservation](archaeology/03-underwater-photogrammetry-maritime-shipwreck-excavation-and-conservation.md)
+- [C1 Vocabulary 04 — Submerged prehistoric settlements, maritime shipwreck archaeology, and 3D photogrammetric survey](archaeology/04-underwater-archaeology-submerged-settlements-and-photogrammetric-survey.md)
 
 ## architecture
 - [C1 Vocabulary 01 — Architecture and built form](architecture/01-architecture-and-built-form.md)
@@ -56,19 +55,18 @@
 - [C1 Vocabulary 01 — Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md)
 - [C1 Vocabulary 02 — Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md)
 - [C1 Vocabulary 03 — Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md)
+- [C1 Vocabulary 04 — Kinetic sculpture dynamics, Calderian suspended mobiles, and wind-activated mechanical equilibrium](arts/04-kinetic-sculpture-mobiles-and-calderian-equilibrium.md)
 
 - [C1 Vocabulary 01 — Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md)
 - [C1 Vocabulary 02 — Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md)
 - [C1 Vocabulary 03 — Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md)
+- [C1 Vocabulary 04 — Kinetic sculpture dynamics, Calderian suspended mobiles, and wind-activated mechanical equilibrium](arts/04-kinetic-sculpture-mobiles-and-calderian-equilibrium.md)
 
 ## astronomy
 - [C1 Vocabulary 01 — Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md)
 - [C1 Vocabulary 02 — Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md)
 - [C1 Vocabulary 03 — Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md)
-
-- [C1 Vocabulary 01 — Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md)
-- [C1 Vocabulary 02 — Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md)
-- [C1 Vocabulary 03 — Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md)
+- [C1 Vocabulary 04 — Gravitational microlensing events, exoplanet orbital detection, and relativistic Einstein ring distortions](astronomy/04-gravitational-microlensing-exoplanet-discovery-and-einstein-rings.md)
 
 ## behavioral-economics
 - [C1 Vocabulary 01 — Decisions and choice architecture](behavioral-economics/01-decisions-and-choice-architecture.md)
@@ -200,9 +198,8 @@
 ## biology
 - [C1 Vocabulary 01 — Biology and genetics](biology/01-biology-and-genetics.md)
 - [C1 Vocabulary 02 — Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md)
-
-- [C1 Vocabulary 01 — Biology and genetics](biology/01-biology-and-genetics.md)
-- [C1 Vocabulary 02 — Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md)
+- [C1 Vocabulary 03 — Epigenetic histone methylation, ATP-dependent chromatin remodeling, and transcriptional silencing](biology/03-epigenetic-histone-methylation-chromatin-remodeling-and-gene-silencing.md)
+- [C1 Vocabulary 04 — Epigenetic DNA methylation, histone acetylation dynamics, and nucleosome chromatin remodeling](biology/04-epigenetic-dna-methylation-histone-acetylation-and-chromatin-remodeling.md)
 
 ## business
 - [C1 Vocabulary 01 — Business strategy and operations](business/01-business-strategy-and-operations.md)
@@ -1105,6 +1102,7 @@
 - [Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md) — 15 items
 - [Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md) — 25 items
 - [Maritime shipwreck archaeology, underwater 3D photogrammetry, and waterlogged wood conservation](archaeology/03-underwater-photogrammetry-maritime-shipwreck-excavation-and-conservation.md) — 25 items
+- [Submerged prehistoric settlements, maritime shipwreck archaeology, and 3D photogrammetric survey](archaeology/04-underwater-archaeology-submerged-settlements-and-photogrammetric-survey.md) — 25 items
 
 ### Architecture ()
 
@@ -1118,12 +1116,14 @@
 - [Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md) — 15 items
 - [Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md) — 25 items
 - [Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md) — 25 items
+- [Kinetic sculpture dynamics, Calderian suspended mobiles, and wind-activated mechanical equilibrium](arts/04-kinetic-sculpture-mobiles-and-calderian-equilibrium.md) — 25 items
 
 ### Astronomy ()
 
 - [Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md) — 15 items
 - [Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md) — 25 items
 - [Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md) — 25 items
+- [Gravitational microlensing events, exoplanet orbital detection, and relativistic Einstein ring distortions](astronomy/04-gravitational-microlensing-exoplanet-discovery-and-einstein-rings.md) — 25 items
 
 ### Behavioral Economics ()
 
@@ -1195,6 +1195,7 @@
 - [Biology and genetics](biology/01-biology-and-genetics.md) — 15 items
 - [Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md) — 25 items
 - [Epigenetic histone methylation, ATP-dependent chromatin remodeling, and transcriptional silencing](biology/03-epigenetic-histone-methylation-chromatin-remodeling-and-gene-silencing.md) — 25 items
+- [Epigenetic DNA methylation, histone acetylation dynamics, and nucleosome chromatin remodeling](biology/04-epigenetic-dna-methylation-histone-acetylation-and-chromatin-remodeling.md) — 25 items
 
 ### Business ()
 

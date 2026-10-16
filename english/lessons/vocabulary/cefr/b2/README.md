@@ -764,6 +764,7 @@
 - [Museum curatorial practice, art provenance research, and cultural artifact repatriation](art/19-museum-curation-provenance-research-and-cultural-repatriation.md) — 25 items
 - [Public art installations, site-specific sculptures, and community cultural engagement](art/20-public-art-installations-site-specificity-and-community-engagement.md) — 25 items
 - [Museum art curation, artwork provenance research, and exhibition spatial design](art/21-museum-curation-provenance-research-and-exhibition-design.md) — 25 items
+- [Street art muralism, graffiti culture, and public space aesthetic reclamation](art/22-street-art-muralism-and-public-space-reclamation.md) — 25 items
 
 ### Business ()
 
@@ -788,6 +789,7 @@
 - [Commercial franchise expansion, recurring royalty fees, and operational brand standardization](business/19-franchise-expansion-royalty-fees-and-brand-standardization.md) — 25 items
 - [Startup venture funding, investor pitch decks, and Series A term sheets](business/20-venture-capital-pitch-decks-and-series-a-funding.md) — 25 items
 - [Mergers and acquisitions (M&A), financial due diligence, and operational synergies](business/21-mergers-and-acquisitions-due-diligence-and-synergies.md) — 25 items
+- [Corporate rebranding strategy, visual brand identity, and market repositioning](business/22-corporate-rebranding-brand-identity-and-market-repositioning.md) — 25 items
 
 ### Communication ()
 
@@ -812,6 +814,7 @@
 - [Executive speechwriting, persuasive rhetorical devices, and audience framing strategies](communication/16-executive-speechwriting-rhetorical-devices-and-audience-framing.md) — 25 items
 - [Crisis public relations, media scrum management, and proactive holding statements](communication/17-crisis-public-relations-media-scrum-and-holding-statements.md) — 25 items
 - [Cross-cultural negotiation, high-context communication, and diplomatic face-saving](communication/18-cross-cultural-negotiation-high-context-communication-and-face-saving.md) — 25 items
+- [Corporate crisis communication, emergency press briefings, and stakeholder reassurance](communication/19-crisis-communication-press-briefings-and-stakeholder-reassurance.md) — 25 items
 
 ### Decisions ()
 
@@ -834,6 +837,7 @@
 - [The Delphi method, iterative expert consensus panels, and controlled feedback forecasting](decisions/14-delphi-method-expert-consensus-and-iterative-forecasting.md) — 25 items
 - [Trolley problem dilemmas, utilitarian calculus, and deontological ethical boundaries](decisions/15-trolley-problems-ethical-dilemmas-and-utilitarian-tradeoffs.md) — 25 items
 - [Monte Carlo simulations, probabilistic outcome forecasting, and risk-range modeling](decisions/16-monte-carlo-simulation-probabilistic-forecasting-and-risk-ranges.md) — 25 items
+- [Delphi consensus method, anonymous expert panels, and iterative forecasting rounds](decisions/17-delphi-method-expert-consensus-and-iterative-forecasting.md) — 25 items
 
 ### Economics ()
 

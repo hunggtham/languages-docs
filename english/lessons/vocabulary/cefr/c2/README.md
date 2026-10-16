@@ -137,6 +137,8 @@
 - [C2 Vocabulary 102 — Cryo-electron tomography (cryo-ET), subtomogram averaging, and in situ cellular ultrastructure](biomedicine/102-cryo-electron-tomography-subtomogram-averaging-and-in-situ-structural-biology.md)
 - [C2 Vocabulary 103 — Spatial transcriptomics, Visium HD resolution, and subcellular RNA sequencing capture](biomedicine/103-spatial-transcriptomics-visium-hd-and-subcellular-rna-capture.md)
 - [C2 Vocabulary 104 — Antibody-drug conjugates (ADCs), cleavable peptidyl linkers, and bystander antitumor killing](biomedicine/104-antibody-drug-conjugates-cleavable-linkers-and-bystander-killing.md)
+- [C2 Vocabulary 105 — Optogenetic channelrhodopsins, two-photon circuit activation, and closed-loop neuromodulation](biomedicine/105-optogenetics-channelrhodopsin-and-closed-loop-neural-circuit-control.md)
+- [C2 Vocabulary 106 — Human organoid cultures, cortical assembloids, and microphysiological disease modeling](biomedicine/106-organoids-assembloids-and-microphysiological-disease-modeling.md)
 
 - [C2 Vocabulary — Proteomics and mass spectrometry](biomedicine/01-proteomics-and-mass-spectrometry.md)
 - [C2 Vocabulary — Single-cell genomics and cell atlases](biomedicine/02-single-cell-genomics-and-cell-atlases.md)
@@ -1420,6 +1422,7 @@
 - [The Sorites paradox, boundary vagueness, supervaluationism, and epistemicism](argument/21-sorites-paradox-vagueness-and-epistemicism.md) — 25 items
 - [Epistemic peer disagreement, the equal weight view, conciliationism, and steadfastness](argument/22-epistemic-peer-disagreement-conciliationism-and-steadfastness.md) — 25 items
 - [Dialetheism, true contradictions, and paraconsistent Liar paradox resolutions](argument/23-dialetheism-true-contradictions-and-liar-paradox-resolutions.md) — 25 items
+- [Modal epistemology, counterpossible conditionals, and semantic hyperintensionality](argument/24-modal-epistemology-counterpossibles-and-hyperintensionality.md) — 25 items
 
 ### Biomedicine ()
 
@@ -1527,6 +1530,8 @@
 - [Cryo-electron tomography (cryo-ET), subtomogram averaging, and in situ cellular ultrastructure](biomedicine/102-cryo-electron-tomography-subtomogram-averaging-and-in-situ-structural-biology.md) — 25 items
 - [Spatial transcriptomics, Visium HD resolution, and subcellular RNA sequencing capture](biomedicine/103-spatial-transcriptomics-visium-hd-and-subcellular-rna-capture.md) — 25 items
 - [Antibody-drug conjugates (ADCs), cleavable peptidyl linkers, and bystander antitumor killing](biomedicine/104-antibody-drug-conjugates-cleavable-linkers-and-bystander-killing.md) — 25 items
+- [Optogenetic channelrhodopsins, two-photon circuit activation, and closed-loop neuromodulation](biomedicine/105-optogenetics-channelrhodopsin-and-closed-loop-neural-circuit-control.md) — 25 items
+- [Human organoid cultures, cortical assembloids, and microphysiological disease modeling](biomedicine/106-organoids-assembloids-and-microphysiological-disease-modeling.md) — 25 items
 
 ### Computing ()
 
@@ -1782,6 +1787,7 @@
 - [Decentralized autonomous organizations (DAOs), smart contract governance, and tokenized voting quorum](governance/21-decentralized-autonomous-organizations-daos-and-algorithmic-governance.md) — 25 items
 - [Sovereign wealth funds (SWFs), Santiago principles transparency, and strategic state capitalism](governance/22-sovereign-wealth-funds-santiago-principles-and-state-capitalism.md) — 25 items
 - [Intergenerational justice, social discount rates, and institutional future generations representation](governance/23-intergenerational-justice-discount-rates-and-future-generations-representation.md) — 25 items
+- [Algorithmic accountability regimes, black-box independent auditing, and automated administrative due process](governance/24-algorithmic-accountability-black-box-auditing-and-automated-due-process.md) — 25 items
 
 ### Rhetoric ()
 

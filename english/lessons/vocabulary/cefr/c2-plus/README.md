@@ -371,37 +371,29 @@
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
 - [C2+ Vocabulary 02 — Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md)
 - [C2+ Vocabulary 03 — Functional MRI, BOLD contrast hemodynamic response, and resting-state functional connectivity](medical-imaging/03-functional-mri-blood-oxygen-level-dependent-hemodynamic-response-and-resting-state-connectivity.md)
-
-- [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
-- [C2+ Vocabulary 02 — Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md)
-- [C2+ Vocabulary 03 — Functional MRI, BOLD contrast hemodynamic response, and resting-state functional connectivity](medical-imaging/03-functional-mri-blood-oxygen-level-dependent-hemodynamic-response-and-resting-state-connectivity.md)
+- [C2+ Vocabulary 04 — Diffusion tensor imaging (DTI), deterministic tractography, and fractional anisotropy neuroimaging](medical-imaging/04-diffusion-tensor-imaging-tractography-and-fractional-anisotropy.md)
+- [C2+ Vocabulary 05 — 7-Tesla ultra-high-field MRI, susceptibility-weighted imaging (SWI), and parallel transmit B1 shimming](medical-imaging/05-7-tesla-ultra-high-field-mri-susceptibility-weighted-imaging-and-b1-shimming.md)
 
 ## music-theory
 - [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md)
 - [C2+ Vocabulary 02 — Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md)
 - [C2+ Vocabulary 03 — Pitch-class set theory, interval-class vectors, and combinatorial hexachordal inversion](music-theory/03-pitch-class-set-theory-interval-vectors-and-combinatorial-hexachordal-inversion.md)
-
-- [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md)
-- [C2+ Vocabulary 02 — Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md)
-- [C2+ Vocabulary 03 — Pitch-class set theory, interval-class vectors, and combinatorial hexachordal inversion](music-theory/03-pitch-class-set-theory-interval-vectors-and-combinatorial-hexachordal-inversion.md)
+- [C2+ Vocabulary 04 — Neo-Riemannian Tonnetz, parsimonious triadic voice-leading, and PLR transformations](music-theory/04-neo-riemannian-tonnetz-parsimonious-voice-leading-and-triadic-transformations.md)
+- [C2+ Vocabulary 05 — Schenkerian structural analysis, Ursatz fundamental structure, and voice-leading prolongation](music-theory/05-schenkerian-analysis-ursatz-fundamental-structure-and-prolongation.md)
 
 ## mycology
 - [C2+ Vocabulary — Fungal structure and reproductive biology](mycology/01-fungal-structure-and-reproductive-biology.md)
 - [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md)
 - [C2+ Vocabulary 03 — Mycorrhizal hyphal networks, glomalin-mediated soil aggregation, and ectomycorrhizal fungal mantles](mycology/03-mycorrhizal-hyphal-networks-glomalin-soil-aggregation-and-ectomycorrhizal-mantles.md)
-
-- [C2+ Vocabulary — Fungal structure and reproductive biology](mycology/01-fungal-structure-and-reproductive-biology.md)
-- [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md)
-- [C2+ Vocabulary 03 — Mycorrhizal hyphal networks, glomalin-mediated soil aggregation, and ectomycorrhizal fungal mantles](mycology/03-mycorrhizal-hyphal-networks-glomalin-soil-aggregation-and-ectomycorrhizal-mantles.md)
+- [C2+ Vocabulary 04 — Mycelial network architecture, vegetative hyphal anastomosis, and fungal foraging cords](mycology/04-mycelial-network-architecture-hyphal-fusion-and-anastomosis.md)
+- [C2+ Vocabulary 05 — Arbuscular mycorrhizal symbioses, strigolactone root signaling, and glomalin carbon sequestration](mycology/05-arbuscular-mycorrhizal-fungi-strigolactone-signaling-and-glomalin-sequestration.md)
 
 ## neuroscience
 - [C2+ Vocabulary — Neural circuits, glia, and spatial coding](neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
 - [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md)
 - [C2+ Vocabulary 03 — Predictive coding, precision-weighted prediction errors, and hierarchical active inference](neuroscience/03-predictive-coding-precision-weighted-prediction-errors-and-hierarchical-active-inference.md)
-
-- [C2+ Vocabulary — Neural circuits, glia, and spatial coding](neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
-- [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md)
-- [C2+ Vocabulary 03 — Predictive coding, precision-weighted prediction errors, and hierarchical active inference](neuroscience/03-predictive-coding-precision-weighted-prediction-errors-and-hierarchical-active-inference.md)
+- [C2+ Vocabulary 04 — Optogenetic opsins, microbial rhodopsin photostimulation, and cell-type-specific neural circuit dissection](neuroscience/04-optogenetic-channelrhodopsin-photostimulation-and-neural-circuit-dissection.md)
+- [C2+ Vocabulary 05 — Spike-timing-dependent plasticity (STDP), Hebbian learning rules, and theta-gamma phase-amplitude coupling](neuroscience/05-spike-timing-dependent-plasticity-stdp-and-theta-gamma-phase-amplitude-coupling.md)
 
 ## perfumery
 - [C2+ Vocabulary — Perfumery and olfactory language](perfumery/01-perfumery-and-olfactory-language.md)
@@ -942,6 +934,7 @@
 - [Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md) — 25 items
 - [Functional MRI, BOLD contrast hemodynamic response, and resting-state functional connectivity](medical-imaging/03-functional-mri-blood-oxygen-level-dependent-hemodynamic-response-and-resting-state-connectivity.md) — 25 items
 - [Diffusion tensor imaging (DTI), deterministic tractography, and fractional anisotropy neuroimaging](medical-imaging/04-diffusion-tensor-imaging-tractography-and-fractional-anisotropy.md) — 25 items
+- [7-Tesla ultra-high-field MRI, susceptibility-weighted imaging (SWI), and parallel transmit B1 shimming](medical-imaging/05-7-tesla-ultra-high-field-mri-susceptibility-weighted-imaging-and-b1-shimming.md) — 25 items
 
 ### Music Theory ()
 
@@ -949,6 +942,7 @@
 - [Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md) — 25 items
 - [Pitch-class set theory, interval-class vectors, and combinatorial hexachordal inversion](music-theory/03-pitch-class-set-theory-interval-vectors-and-combinatorial-hexachordal-inversion.md) — 25 items
 - [Neo-Riemannian Tonnetz, parsimonious triadic voice-leading, and PLR transformations](music-theory/04-neo-riemannian-tonnetz-parsimonious-voice-leading-and-triadic-transformations.md) — 25 items
+- [Schenkerian structural analysis, Ursatz fundamental structure, and voice-leading prolongation](music-theory/05-schenkerian-analysis-ursatz-fundamental-structure-and-prolongation.md) — 25 items
 
 ### Mycology ()
 
@@ -956,6 +950,7 @@
 - [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md) — 25 items
 - [Mycorrhizal hyphal networks, glomalin-mediated soil aggregation, and ectomycorrhizal fungal mantles](mycology/03-mycorrhizal-hyphal-networks-glomalin-soil-aggregation-and-ectomycorrhizal-mantles.md) — 25 items
 - [Mycelial network architecture, vegetative hyphal anastomosis, and fungal foraging cords](mycology/04-mycelial-network-architecture-hyphal-fusion-and-anastomosis.md) — 25 items
+- [Arbuscular mycorrhizal symbioses, strigolactone root signaling, and glomalin carbon sequestration](mycology/05-arbuscular-mycorrhizal-fungi-strigolactone-signaling-and-glomalin-sequestration.md) — 25 items
 
 ### Neuroscience ()
 
@@ -963,6 +958,7 @@
 - [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md) — 20 items
 - [Predictive coding, precision-weighted prediction errors, and hierarchical active inference](neuroscience/03-predictive-coding-precision-weighted-prediction-errors-and-hierarchical-active-inference.md) — 25 items
 - [Optogenetic opsins, microbial rhodopsin photostimulation, and cell-type-specific neural circuit dissection](neuroscience/04-optogenetic-channelrhodopsin-photostimulation-and-neural-circuit-dissection.md) — 25 items
+- [Spike-timing-dependent plasticity (STDP), Hebbian learning rules, and theta-gamma phase-amplitude coupling](neuroscience/05-spike-timing-dependent-plasticity-stdp-and-theta-gamma-phase-amplitude-coupling.md) — 25 items
 
 ### Perfumery ()
 

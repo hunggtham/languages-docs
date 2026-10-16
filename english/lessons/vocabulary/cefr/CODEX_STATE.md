@@ -28,20 +28,21 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 5236 items in 234 topic files; topic-folder numbering resets per folder.
-- B2: 9334 items in 407 topic files; B2 expansion is active beyond the original pilot.
-- C1: 9695 items in 462 topic files; topic-folder numbering resets per folder.
-- C2: 15841 items in 748 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 7647 items in 318 lesson files across 52 topic folders.
-- Total: 49654 items (authoritative script count after Wave 37 parallel expansion toward 50,000 items).
+- B2: 9434 items in 411 topic files; B2 expansion is active beyond the original pilot.
+- C1: 9795 items in 466 topic files; topic-folder numbering resets per folder.
+- C2: 15941 items in 752 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 7747 items in 322 lesson files across 52 topic folders.
+- Total: 50054 items (authoritative script count after Wave 38 parallel expansion, achieving 50,054/50,000 items).
 
 ## Current position
 
-Status: `EXPANDING_TO_50K`
-Wave: 37 complete, next Wave: 38 (Final batch to reach >= 50,000 items)
+Status: `TARGET_50K_COMPLETE`
+Wave: 38 complete (Final milestone achieved: 50,054 / 50,000 items)
 
 Current level: `B2_C1_C2_C2_PLUS_PARALLEL`
 
-Milestone achievement: The 40,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 40k=complete` with 40,054 items). The active goal is expanding the corpus toward **50,000 items** distributed evenly across B2, C1, C2, and C2+ using parallel subagent waves.
+Milestone achievement: The 50,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 50k=complete` with 50,054 items in 2,246 lessons). Distributed evenly across B2, C1, C2, and C2+.
+
 
 - Wave 36 added 32 parallel lessons across 16 subagents (800 items, 25 items each):
   - B2 (8 lessons): `communication/17`, `decisions/15`, `education/18`, `history/12`, `media/18`, `politics/16`, `psychology/16`, `research/17`.
@@ -1165,3 +1166,4 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest parallel expansion added `b1/transport/08-rail-transit-subway-navigation-and-commuter-habits.md`, `b1/travel/08-eco-tourism-national-parks-and-wilderness-camping.md`, `b2/environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md`, `b2/media/06-generative-ai-synthetic-media-and-copyright-fair-use.md`, `b2/technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md`, and `b2/urban/05-smart-grids-district-energy-and-climate-neutral-cities.md` with 150 items across 6 lessons; each includes contextual network introductions and two integrated review passages with Vietnamese translations. All passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/health/05-genomic-medicine-personalized-therapies-and-bioethics.md` with 25 genomic medicine, personalized therapies, and bioethics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/art/05-public-art-street-murals-and-civic-monuments.md` with 25 public art, street murals, and civic monuments items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest C1 expansion added `c1/astronomy/04-gravitational-microlensing-exoplanet-discovery-and-einstein-rings.md` and `c1/biology/04-epigenetic-dna-methylation-histone-acetylation-and-chromatin-remodeling.md` with 50 advanced academic vocabulary items across gravitational microlensing astrophysics and epigenetic molecular biology; each lesson features comprehensive American IPA, grammatical roles, core meanings with vivid mental images, collocations, register nuances, authentic examples with Vietnamese translations, Korean linking, and dual contextual review passages with complete Vietnamese translations. Both lessons passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
