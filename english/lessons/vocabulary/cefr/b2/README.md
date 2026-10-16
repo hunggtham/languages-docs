@@ -2,27 +2,25 @@
 
 Files are numbered independently inside each topic folder. B2 lessons use deeper explanation of nuance, register, collocation, linking, and sentence behavior than B1 while keeping review-context sizing aligned with `/prompt/vocabulary_goal/GOAL.md`.
 
-## decisions
+## art
 
-- [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
-- [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
-- [Decision Making Process](./decisions/03-decision-making-process.md)
-- [Strategic Prioritization Stakeholder Alignment And Resource Allocation](./decisions/04-strategic-prioritization-stakeholder-alignment-and-resource-allocation.md)
-- [Scenario Planning Strategic Trade Offs And Consensus Building](./decisions/05-scenario-planning-strategic-trade-offs-and-consensus-building.md)
+- [Visual Arts And Gallery Exhibitions](./art/01-visual-arts-and-gallery-exhibitions.md)
+- [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
+- [Curatorial Practice Museum Provenance And Cultural Preservation](./art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
+- [Art Market Valuation Auction Economics And Cultural Heritage Restitution](./art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md)
+- [Public Art Street Murals And Civic Monuments](./art/05-public-art-street-murals-and-civic-monuments.md)
+- [Curatorial Ethics Restitution Of Colonial Artifacts And Provenance Research](./art/06-curatorial-ethics-restitution-of-colonial-artifacts-and-provenance-research.md)
+- [Museum Conservation Pigment Spectroscopy And Canvas Restoration](./art/07-museum-conservation-pigment-spectroscopy-and-canvas-restoration.md)
 
-## risk
+## business
 
-- [Risk Assessment And Preparedness](./risk/01-risk-assessment-and-preparedness.md)
-- [Risk Governance And Response](./risk/02-risk-governance-and-response.md)
-- [Risk Monitoring And Continuity](./risk/03-risk-monitoring-and-continuity.md)
-- [Enterprise Risk Management Supply Chain Vulnerability And Cyber Resilience](./risk/04-enterprise-risk-management-supply-chain-vulnerability-and-cyber-resilience.md)
-- [Climate Risk Disclosure Actuarial Modeling And Catastrophe Insurance](./risk/05-climate-risk-disclosure-actuarial-modeling-and-catastrophe-insurance.md)
-
-## work
-
-- [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
-- [Career Lifecycle And Workplace Dynamics](./work/02-career-lifecycle-and-workplace-dynamics.md)
-- [Organizational Restructuring Leadership And Labor Relations](./work/03-organizational-restructuring-leadership-and-labor-relations.md)
+- [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
+- [Supply Chain Logistics Procurement And Inventory Optimization](./business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
+- [Corporate Venture Capital Open Innovation And Agile Transformation](./business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md)
+- [Cross Border Mergers Corporate Takeovers And Due Diligence](./business/04-cross-border-mergers-corporate-takeovers-and-due-diligence.md)
+- [Venture Debt Syndicated Loans And Capital Restructuring](./business/05-venture-debt-syndicated-loans-and-capital-restructuring.md)
+- [Hostile Takeovers Poison Pills And Shareholder Activism](./business/06-hostile-takeovers-poison-pills-and-shareholder-activism.md)
+- [Corporate Turnarounds Distressed Debt And Divestitures](./business/07-corporate-turnarounds-distressed-debt-and-divestitures.md)
 
 ## communication
 
@@ -33,11 +31,24 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Cross Cultural Negotiation Diplomatic Protocol And Corporate Communication](./communication/05-cross-cultural-negotiation-diplomatic-protocol-and-corporate-communication.md)
 - [Crisis Communication Public Relations And Reputation Management](./communication/06-crisis-communication-public-relations-and-reputation-management.md)
 
-## research
+## decisions
 
-- [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
-- [Study Design And Evidence](./research/02-study-design-and-evidence.md)
-- [Academic Research Process](./research/03-academic-research-process.md)
+- [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
+- [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
+- [Decision Making Process](./decisions/03-decision-making-process.md)
+- [Strategic Prioritization Stakeholder Alignment And Resource Allocation](./decisions/04-strategic-prioritization-stakeholder-alignment-and-resource-allocation.md)
+- [Scenario Planning Strategic Trade Offs And Consensus Building](./decisions/05-scenario-planning-strategic-trade-offs-and-consensus-building.md)
+
+## economics
+
+- [Macroeconomic Forces And Indicators](./economics/01-macroeconomic-forces-and-indicators.md)
+- [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
+- [Monetary Policy Inflation Dynamics And Central Banking](./economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
+- [Labor Market Dynamics Wage Polarization And Social Welfare Economics](./economics/04-labor-market-dynamics-wage-polarization-and-social-welfare-economics.md)
+- [Development Economics Foreign Aid And Sovereign Debt Restructuring](./economics/05-development-economics-foreign-aid-and-sovereign-debt-restructuring.md)
+- [Universal Basic Income Labor Automation And Wealth Taxation](./economics/06-universal-basic-income-labor-automation-and-wealth-taxation.md)
+- [Sovereign Debt Sustainability Debt For Nature Swaps And Multilateral Relief](./economics/07-sovereign-debt-sustainability-debt-for-nature-swaps-and-multilateral-relief.md)
+- [Macroprudential Regulation Systemic Risk And Financial Contagion](./economics/08-macroprudential-regulation-systemic-risk-and-financial-contagion.md)
 
 ## education
 
@@ -49,46 +60,6 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Higher Education Governance And Academic Milestones](./education/06-higher-education-governance-and-academic-milestones.md)
 - [Vocational Accreditation Curriculum Standards And Educational Equity](./education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
 - [Digital Pedagogy Remote Learning And Academic Integrity](./education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
-
-## technology
-
-- [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
-- [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
-- [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
-- [Cloud Infrastructure And Software Maintenance](./technology/04-cloud-infrastructure-and-software-maintenance.md)
-- [Artificial Intelligence Automation And Data Ethics](./technology/05-artificial-intelligence-automation-and-data-ethics.md)
-- [Cybersecurity Threat Intelligence And Network Defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
-- [Quantum Computing Cryptography And Next Gen Computing](./technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
-- [Edge Iot Industrial Robotics And Autonomous Systems](./technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
-
-## society
-
-- [Urban Life Housing And Public Space](./society/01-urban-life-housing-and-public-space.md)
-- [Housing Policy And Neighborhood Change](./society/02-housing-policy-and-neighborhood-change.md)
-- [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
-- [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
-- [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
-- [Civil Liberties Grassroots Activism And Social Justice](./society/06-civil-liberties-grassroots-activism-and-social-justice.md)
-- [Demographic Aging Social Care And Intergenerational Equity](./society/07-demographic-aging-social-care-and-intergenerational-equity.md)
-
-## health
-
-- [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
-- [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
-- [Biomedical Diagnostics Pharmacology And Chronic Disease Management](./health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
-- [Digital Health Therapeutics Telemedicine Systems And Patient Data Ethics](./health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md)
-- [Genomic Medicine Personalized Therapies And Bioethics](./health/05-genomic-medicine-personalized-therapies-and-bioethics.md)
-- [Antimicrobial Resistance Nosocomial Infections And Antibiotic Stewardship](./health/06-antimicrobial-resistance-nosocomial-infections-and-antibiotic-stewardship.md)
-
-## media
-
-- [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
-- [Digital Journalism And Mass Communication](./media/02-digital-journalism-and-mass-communication.md)
-- [Digital Platforms Social Media Algorithms And Content Moderation](./media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
-- [Investigative Documentary Broadcast Ethics And Information Integrity](./media/04-investigative-documentary-broadcast-ethics-and-information-integrity.md)
-- [Media Monopolies Algorithmic Curation And Disinformation Countermeasures](./media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md)
-- [Generative Ai Synthetic Media And Copyright Fair Use](./media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
-- [Journalistic Ethics Whistleblower Protection And State Surveillance](./media/07-journalistic-ethics-whistleblower-protection-and-state-surveillance.md)
 
 ## environment
 
@@ -106,6 +77,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Coastal Erosion Living Shorelines And Mangrove Restoration](./environment/12-coastal-erosion-living-shorelines-and-mangrove-restoration.md)
 - [Peatland Rewetting Carbon Fluxes And Wetland Restoration](./environment/13-peatland-rewetting-carbon-fluxes-and-wetland-restoration.md)
 - [Permafrost Thaw Methane Hydrates And Arctic Feedback Loops](./environment/14-permafrost-thaw-methane-hydrates-and-arctic-feedback-loops.md)
+- [Soil Carbon Sequestration Regenerative Grazing And Biochar](./environment/15-soil-carbon-sequestration-regenerative-grazing-and-biochar.md)
 
 ## finance
 
@@ -116,25 +88,21 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Sovereign Wealth Funds Central Bank Reserves And Currency Interventions](./finance/05-sovereign-wealth-funds-central-bank-reserves-and-currency-interventions.md)
 - [Sovereign Green Bonds Carbon Pricing And Climate Finance](./finance/06-sovereign-green-bonds-carbon-pricing-and-climate-finance.md)
 - [Cryptocurrency Derivatives Decentralized Lending And Smart Contract Audits](./finance/07-cryptocurrency-derivatives-decentralized-lending-and-smart-contract-audits.md)
+- [Algorithmic Trading Market Microstructure And Dark Pools](./finance/08-algorithmic-trading-market-microstructure-and-dark-pools.md)
 
-## economics
+## health
 
-- [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
-- [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
-- [Monetary Policy Inflation Dynamics And Central Banking](./economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
-- [Labor Market Dynamics Wage Polarization And Social Welfare Economics](./economics/04-labor-market-dynamics-wage-polarization-and-social-welfare-economics.md)
-- [Development Economics Foreign Aid And Sovereign Debt Restructuring](./economics/05-development-economics-foreign-aid-and-sovereign-debt-restructuring.md)
-- [Universal Basic Income Labor Automation And Wealth Taxation](./economics/06-universal-basic-income-labor-automation-and-wealth-taxation.md)
-- [Sovereign Debt Sustainability Debt For Nature Swaps And Multilateral Relief](./economics/07-sovereign-debt-sustainability-debt-for-nature-swaps-and-multilateral-relief.md)
+- [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
+- [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
+- [Biomedical Diagnostics Pharmacology And Chronic Disease Management](./health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
+- [Digital Health Therapeutics Telemedicine Systems And Patient Data Ethics](./health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md)
+- [Genomic Medicine Personalized Therapies And Bioethics](./health/05-genomic-medicine-personalized-therapies-and-bioethics.md)
+- [Antimicrobial Resistance Nosocomial Infections And Antibiotic Stewardship](./health/06-antimicrobial-resistance-nosocomial-infections-and-antibiotic-stewardship.md)
+- [Epidemiological Surveillance Contact Tracing And Quarantine Policy](./health/07-epidemiological-surveillance-contact-tracing-and-quarantine-policy.md)
 
-## business
+## history
 
-- [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
-- [Supply Chain Logistics Procurement And Inventory Optimization](./business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
-- [Corporate Venture Capital Open Innovation And Agile Transformation](./business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md)
-- [Cross Border Mergers Corporate Takeovers And Due Diligence](./business/04-cross-border-mergers-corporate-takeovers-and-due-diligence.md)
-- [Venture Debt Syndicated Loans And Capital Restructuring](./business/05-venture-debt-syndicated-loans-and-capital-restructuring.md)
-- [Hostile Takeovers Poison Pills And Shareholder Activism](./business/06-hostile-takeovers-poison-pills-and-shareholder-activism.md)
+- [Historical Events And Heritage Preservation](./history/01-historical-events-and-heritage-preservation.md)
 
 ## law
 
@@ -145,6 +113,24 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [International Arbitration Investor State Disputes And Bilateral Investment Treaties](./law/05-international-arbitration-investor-state-disputes-and-bilateral-investment-treaties.md)
 - [Cross Border Insolvency Creditor Protection And Asset Tracing](./law/06-cross-border-insolvency-creditor-protection-and-asset-tracing.md)
 - [Intellectual Property Licensing Patent Pools And Royalty Audits](./law/07-intellectual-property-licensing-patent-pools-and-royalty-audits.md)
+- [Antitrust Enforcement Platform Monopolies And Merger Remedies](./law/08-antitrust-enforcement-platform-monopolies-and-merger-remedies.md)
+
+## media
+
+- [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
+- [Digital Journalism And Mass Communication](./media/02-digital-journalism-and-mass-communication.md)
+- [Digital Platforms Social Media Algorithms And Content Moderation](./media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
+- [Investigative Documentary Broadcast Ethics And Information Integrity](./media/04-investigative-documentary-broadcast-ethics-and-information-integrity.md)
+- [Media Monopolies Algorithmic Curation And Disinformation Countermeasures](./media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md)
+- [Generative Ai Synthetic Media And Copyright Fair Use](./media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
+- [Journalistic Ethics Whistleblower Protection And State Surveillance](./media/07-journalistic-ethics-whistleblower-protection-and-state-surveillance.md)
+
+## politics
+
+- [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
+- [International Diplomacy Geopolitics And Treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
+- [Public Policy Analysis Legislative Advocacy And Regulatory Reform](./politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
+- [Electoral Integrity Gerrymandering And Democratic Institutions](./politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
 
 ## psychology
 
@@ -154,21 +140,40 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Cognitive Bias Mitigation Neurodiversity And Behavioral Interventions](./psychology/04-cognitive-bias-mitigation-neurodiversity-and-behavioral-interventions.md)
 - [Organizational Behavior Workplace Stress And Leadership Dynamics](./psychology/05-organizational-behavior-workplace-stress-and-leadership-dynamics.md)
 
-## politics
+## research
 
-- [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
-- [International Diplomacy Geopolitics And Treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
-- [Public Policy Analysis Legislative Advocacy And Regulatory Reform](./politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
-- [Electoral Integrity Gerrymandering And Democratic Institutions](./politics/04-electoral-integrity-gerrymandering-and-democratic-institutions.md)
+- [Evidence Trends And Interpretation](./research/01-evidence-trends-and-interpretation.md)
+- [Study Design And Evidence](./research/02-study-design-and-evidence.md)
+- [Academic Research Process](./research/03-academic-research-process.md)
 
-## art
+## risk
 
-- [Visual Arts Artistic Creation And Gallery Exhibitions](./art/01-visual-arts-artistic-creation-and-gallery-exhibitions.md)
-- [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
-- [Curatorial Practice Museum Provenance And Cultural Preservation](./art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
-- [Art Market Valuation Auction Economics And Cultural Heritage Restitution](./art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md)
-- [Public Art Street Murals And Civic Monuments](./art/05-public-art-street-murals-and-civic-monuments.md)
-- [Curatorial Ethics Restitution Of Colonial Artifacts And Provenance Research](./art/06-curatorial-ethics-restitution-of-colonial-artifacts-and-provenance-research.md)
+- [Risk Assessment And Preparedness](./risk/01-risk-assessment-and-preparedness.md)
+- [Risk Governance And Response](./risk/02-risk-governance-and-response.md)
+- [Risk Monitoring And Continuity](./risk/03-risk-monitoring-and-continuity.md)
+- [Enterprise Risk Management Supply Chain Vulnerability And Cyber Resilience](./risk/04-enterprise-risk-management-supply-chain-vulnerability-and-cyber-resilience.md)
+- [Climate Risk Disclosure Actuarial Modeling And Catastrophe Insurance](./risk/05-climate-risk-disclosure-actuarial-modeling-and-catastrophe-insurance.md)
+
+## society
+
+- [Urban Life Housing And Public Space](./society/01-urban-life-housing-and-public-space.md)
+- [Housing Policy And Neighborhood Change](./society/02-housing-policy-and-neighborhood-change.md)
+- [Housing Supply And Planning](./society/03-housing-supply-and-planning.md)
+- [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
+- [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
+- [Civil Liberties Grassroots Activism And Social Justice](./society/06-civil-liberties-grassroots-activism-and-social-justice.md)
+- [Demographic Aging Social Care And Intergenerational Equity](./society/07-demographic-aging-social-care-and-intergenerational-equity.md)
+
+## technology
+
+- [Data Privacy And Digital Behavior](./technology/01-data-privacy-and-digital-behavior.md)
+- [Security Controls And User Choice](./technology/02-security-controls-and-user-choice.md)
+- [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
+- [Cloud Infrastructure And Software Maintenance](./technology/04-cloud-infrastructure-and-software-maintenance.md)
+- [Artificial Intelligence Automation And Data Ethics](./technology/05-artificial-intelligence-automation-and-data-ethics.md)
+- [Cybersecurity Threat Intelligence And Network Defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
+- [Quantum Computing Cryptography And Next Gen Computing](./technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
+- [Edge Iot Industrial Robotics And Autonomous Systems](./technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
 
 ## urban
 
@@ -185,3 +190,10 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [District Cooling Geothermal Heat Pumps And Urban Microgrids](./urban/11-district-cooling-geothermal-heat-pumps-and-urban-microgrids.md)
 - [Urban Sprawl Containment Greenbelts And Growth Boundaries](./urban/12-urban-sprawl-containment-greenbelts-and-growth-boundaries.md)
 - [Transit Equity Micromobility Networks And Congestion Pricing](./urban/13-transit-equity-micromobility-networks-and-congestion-pricing.md)
+- [Tactical Urbanism Pop Up Bike Lanes And Pedestrian Plazas](./urban/14-tactical-urbanism-pop-up-bike-lanes-and-pedestrian-plazas.md)
+
+## work
+
+- [Project Risk And Accountability](./work/01-project-risk-and-accountability.md)
+- [Career Lifecycle And Workplace Dynamics](./work/02-career-lifecycle-and-workplace-dynamics.md)
+- [Organizational Restructuring Leadership And Labor Relations](./work/03-organizational-restructuring-leadership-and-labor-relations.md)

@@ -2,73 +2,6 @@
 
 Files are numbered independently inside each topic folder. New lessons are topic-driven; there is no fixed word quota. Review-context sizing follows `/prompt/vocabulary_goal/GOAL.md`.
 
-## communication
-
-- [News And Media Literacy](./communication/01-news-and-media-literacy.md)
-- [Digital Communication And Collaboration](./communication/02-digital-communication-and-collaboration.md)
-- [Public Speaking And Professional Communication](./communication/03-public-speaking-and-professional-communication.md)
-- [Professional Writing And Documentation](./communication/04-professional-writing-and-documentation.md)
-- [Interpersonal Communication And Conversation Skills](./communication/05-interpersonal-communication-and-conversation-skills.md)
-
-## work
-
-- [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
-- [Workplace Communication And Wellbeing](./work/02-workplace-communication-and-wellbeing.md)
-- [Career Development And Workplace Skills](./work/03-career-development-and-workplace-skills.md)
-- [Work Planning And Career Steps](./work/04-work-planning-and-career-steps.md)
-- [Business Operations And Corporate Travel](./work/05-business-operations-and-corporate-travel.md)
-- [Workplace Collaboration And Office Technology](./work/06-workplace-collaboration-and-office-technology.md)
-- [Job Hunting Interviews And Employment Contracts](./work/07-job-hunting-interviews-and-employment-contracts.md)
-- [Remote Collaboration Asynchronous Communication And Digital Nomadism](./work/08-remote-collaboration-asynchronous-communication-and-digital-nomadism.md)
-
-## science
-
-- [Climate And Environment](./science/01-climate-and-environment.md)
-- [Research And Innovation](./science/02-research-and-innovation.md)
-- [Climate Action And Environmental Policy](./science/03-climate-action-and-environmental-policy.md)
-- [Matter Forces And Experiments](./science/04-matter-forces-and-experiments.md)
-
-## health
-
-- [Health And Wellbeing](./health/01-health-and-wellbeing.md)
-- [Healthcare And Prevention](./health/02-healthcare-and-prevention.md)
-- [Healthy Routines And Wellbeing](./health/03-healthy-routines-and-wellbeing.md)
-- [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
-- [Health Visits And Self Care](./health/05-health-visits-and-self-care.md)
-- [Common Illnesses And First Aid](./health/06-common-illnesses-and-first-aid.md)
-- [Treatments And Home Care](./health/07-treatments-and-home-care.md)
-- [Mental Wellness Stress Relief And Sleep Habits](./health/08-mental-wellness-stress-relief-and-sleep-habits.md)
-- [Physical Therapy Posture Correction And Sports Rehabilitation](./health/09-physical-therapy-posture-correction-and-sports-rehabilitation.md)
-
-## home
-
-- [Housing And Renting](./home/01-housing-and-renting.md)
-- [Household Emergency Preparedness](./home/02-household-emergency-preparedness.md)
-- [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
-- [Household Chores And Cleaning](./home/04-household-chores-and-cleaning.md)
-- [Home Improvement And Repairs](./home/05-home-improvement-and-repairs.md)
-- [Outdoor Living And Home Ownership](./home/06-outdoor-living-and-home-ownership.md)
-- [Smart Home Devices Energy Efficiency And Recycling](./home/07-smart-home-devices-energy-efficiency-and-recycling.md)
-
-## transport
-
-- [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
-- [Air Travel And Airport Procedures](./transport/02-air-travel-and-airport-procedures.md)
-- [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
-- [Road Trips Vehicle Maintenance And Traffic Safety](./transport/07-road-trips-vehicle-maintenance-and-traffic-safety.md)
-- [Rail Transit Subway Navigation And Commuter Habits](./transport/08-rail-transit-subway-navigation-and-commuter-habits.md)
-- [Public Transit Navigation Bike Sharing And Commuter Passes](./transport/09-public-transit-navigation-bike-sharing-and-commuter-passes.md)
-
-## education
-
-- [Academic Research](./education/01-academic-research.md)
-- [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
-- [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
-- [Assessment And Study Support](./education/04-assessment-and-study-support.md)
-- [Qualifications And Academic Progress](./education/05-qualifications-and-academic-progress.md)
-- [Coursework And Campus Life](./education/06-coursework-and-campus-life.md)
-- [Vocational Apprenticeships Trade Skills And Career Certifications](./education/07-vocational-apprenticeships-trade-skills-and-career-certifications.md)
-
 ## business
 
 - [Business And Markets](./business/01-business-and-markets.md)
@@ -81,43 +14,13 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Wholesale And Inventory Management](./business/08-wholesale-and-inventory-management.md)
 - [Digital Payments E Commerce And Freelancing](./business/09-digital-payments-e-commerce-and-freelancing.md)
 
-## travel
+## communication
 
-- [Travel And Cultural Awareness](./travel/01-travel-and-cultural-awareness.md)
-- [Travel Planning And Support](./travel/02-travel-planning-and-support.md)
-- [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
-- [Travel Documents And Local Plans](./travel/04-travel-documents-and-local-plans.md)
-- [Road Trips And Rail Journeys](./travel/05-road-trips-and-rail-journeys.md)
-- [Beach Vacations And Cruise Travel](./travel/06-beach-vacations-and-cruise-travel.md)
-- [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
-- [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
-- [Air Travel Customs Clearance And Lost Baggage](./travel/09-air-travel-customs-clearance-and-lost-baggage.md)
-- [Budget Backpacking Youth Hostels And Travel Safety](./travel/10-budget-backpacking-youth-hostels-and-travel-safety.md)
-- [Ecotourism Lodges Guided Nature Walks And Wildlife Tracking](./travel/11-ecotourism-lodges-guided-nature-walks-and-wildlife-tracking.md)
-
-## society
-
-- [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
-- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
-- [Law And Public Services](./society/03-law-and-public-services.md)
-- [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
-- [Public Policy And Civic Communication](./society/05-public-policy-and-civic-communication.md)
-- [Community Help And Local Access](./society/06-community-help-and-local-access.md)
-- [Community Action And Social Initiatives](./society/07-community-action-and-social-initiatives.md)
-- [Volunteering Fundraising And Community Service](./society/08-volunteering-fundraising-and-community-service.md)
-- [Community Policing Neighborhood Watch And Public Safety](./society/09-community-policing-neighborhood-watch-and-public-safety.md)
-- [Local Elections Town Hall Meetings And Civic Petitions](./society/10-local-elections-town-hall-meetings-and-civic-petitions.md)
-- [Public Libraries Digital Archives And Lifelong Learning](./society/11-public-libraries-digital-archives-and-lifelong-learning.md)
-
-## technology
-
-- [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
-- [Data And Digital Work](./technology/02-data-and-digital-work.md)
-- [Cybersecurity And Digital Trust](./technology/03-cybersecurity-and-digital-trust.md)
-- [Networks And Emerging Technology](./technology/04-networks-and-emerging-technology.md)
-- [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
-- [Device Use And Support](./technology/06-device-use-and-support.md)
-- [Account And Privacy Tools](./technology/07-account-and-privacy-tools.md)
+- [News And Media Literacy](./communication/01-news-and-media-literacy.md)
+- [Digital Communication And Collaboration](./communication/02-digital-communication-and-collaboration.md)
+- [Public Speaking And Professional Communication](./communication/03-public-speaking-and-professional-communication.md)
+- [Professional Writing And Documentation](./communication/04-professional-writing-and-documentation.md)
+- [Interpersonal Communication And Conversation Skills](./communication/05-interpersonal-communication-and-conversation-skills.md)
 
 ## culture
 
@@ -130,6 +33,18 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Folk Music Traditional Instruments And Oral Storytelling](./culture/07-folk-music-traditional-instruments-and-oral-storytelling.md)
 - [Traditional Crafts Pottery Making And Handicrafts](./culture/08-traditional-crafts-pottery-making-and-handicrafts.md)
 - [Theater Stagecraft Acting Workshops And Puppet Shows](./culture/09-theater-stagecraft-acting-workshops-and-puppet-shows.md)
+- [Film Festivals Independent Cinema And Screenplay Workshops](./culture/10-film-festivals-independent-cinema-and-screenplay-workshops.md)
+
+## education
+
+- [Academic Research](./education/01-academic-research.md)
+- [Learning Strategies And Assessment](./education/02-learning-strategies-and-assessment.md)
+- [Academic Life And Campus Services](./education/03-academic-life-and-campus-services.md)
+- [Assessment And Study Support](./education/04-assessment-and-study-support.md)
+- [Qualifications And Academic Progress](./education/05-qualifications-and-academic-progress.md)
+- [Coursework And Campus Life](./education/06-coursework-and-campus-life.md)
+- [Vocational Apprenticeships Trade Skills And Career Certifications](./education/07-vocational-apprenticeships-trade-skills-and-career-certifications.md)
+- [Online Distance Learning Virtual Classrooms And Digital Literacy](./education/08-online-distance-learning-virtual-classrooms-and-digital-literacy.md)
 
 ## food
 
@@ -141,12 +56,30 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Farm To Table Organic Farming And Local Food Markets](./food/06-farm-to-table-organic-farming-and-local-food-markets.md)
 - [Farmers Markets Seasonal Produce And Food Preservation](./food/07-farmers-markets-seasonal-produce-and-food-preservation.md)
 - [Artisan Bread Sourdough Fermentation And Local Bakeries](./food/08-artisan-bread-sourdough-fermentation-and-local-bakeries.md)
+- [Specialty Coffee Roasting Single Origin Beans And Brewing Methods](./food/09-specialty-coffee-roasting-single-origin-beans-and-brewing-methods.md)
 
-## relationships
+## health
 
-- [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
-- [Dating Emotional Bonds And Reconciliation](./relationships/02-dating-emotional-bonds-and-reconciliation.md)
-- [Family Roles And Household Dynamics](./relationships/03-family-roles-and-household-dynamics.md)
+- [Health And Wellbeing](./health/01-health-and-wellbeing.md)
+- [Healthcare And Prevention](./health/02-healthcare-and-prevention.md)
+- [Healthy Routines And Wellbeing](./health/03-healthy-routines-and-wellbeing.md)
+- [Healthcare Communication And Patient Rights](./health/04-healthcare-communication-and-patient-rights.md)
+- [Health Visits And Self Care](./health/05-health-visits-and-self-care.md)
+- [Common Illnesses And First Aid](./health/06-common-illnesses-and-first-aid.md)
+- [Treatments And Home Care](./health/07-treatments-and-home-care.md)
+- [Mental Wellness Stress Relief And Sleep Habits](./health/08-mental-wellness-stress-relief-and-sleep-habits.md)
+- [Physical Therapy Posture Correction And Sports Rehabilitation](./health/09-physical-therapy-posture-correction-and-sports-rehabilitation.md)
+- [Nutrition Counseling Dietary Supplements And Preventive Care](./health/10-nutrition-counseling-dietary-supplements-and-preventive-care.md)
+
+## home
+
+- [Housing And Renting](./home/01-housing-and-renting.md)
+- [Household Emergency Preparedness](./home/02-household-emergency-preparedness.md)
+- [Home Safety And Recovery](./home/03-home-safety-and-recovery.md)
+- [Household Chores And Cleaning](./home/04-household-chores-and-cleaning.md)
+- [Home Improvement And Repairs](./home/05-home-improvement-and-repairs.md)
+- [Outdoor Living And Home Ownership](./home/06-outdoor-living-and-home-ownership.md)
+- [Smart Home Devices Energy Efficiency And Recycling](./home/07-smart-home-devices-energy-efficiency-and-recycling.md)
 
 ## leisure
 
@@ -154,12 +87,26 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Fitness Training And Community Sports](./leisure/02-fitness-training-and-community-sports.md)
 - [Community Events And Creative Hobbies](./leisure/03-community-events-and-creative-hobbies.md)
 - [Hobby Clubs And Learning Projects](./leisure/04-hobby-clubs-and-learning-projects.md)
-- [Club And Project Planning](./leisure/05-club-project-planning.md)
+- [Club Project Planning](./leisure/05-club-project-planning.md)
 - [Entertainment Media And Indoor Relaxation](./leisure/06-entertainment-media-and-indoor-relaxation.md)
 - [Entertainment Venues And Outdoor Recreation](./leisure/07-entertainment-venues-and-outdoor-recreation.md)
 - [Cultural Events Festivals And Live Performances](./leisure/08-cultural-events-festivals-and-live-performances.md)
 - [Community Hobbies Gardening And Craft Clubs](./leisure/09-community-hobbies-gardening-and-craft-clubs.md)
 - [Board Game Cafes Tabletop Gaming And Hobby Conventions](./leisure/10-board-game-cafes-tabletop-gaming-and-hobby-conventions.md)
+- [Amateur Astronomy Stargazing Clubs And Telescope Observing](./leisure/11-amateur-astronomy-stargazing-clubs-and-telescope-observing.md)
+
+## relationships
+
+- [Friendship Conflict And Social Plans](./relationships/01-friendship-conflict-and-social-plans.md)
+- [Dating Emotional Bonds And Reconciliation](./relationships/02-dating-emotional-bonds-and-reconciliation.md)
+- [Family Roles And Household Dynamics](./relationships/03-family-roles-and-household-dynamics.md)
+
+## science
+
+- [Climate And Environment](./science/01-climate-and-environment.md)
+- [Research And Innovation](./science/02-research-and-innovation.md)
+- [Climate Action And Environmental Policy](./science/03-climate-action-and-environmental-policy.md)
+- [Matter Forces And Experiments](./science/04-matter-forces-and-experiments.md)
 
 ## services
 
@@ -179,7 +126,68 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Online Shopping And Customer Service](./shopping/03-online-shopping-and-customer-service.md)
 - [Discounts Promotions And Loyalty Programs](./shopping/04-discounts-promotions-and-loyalty-programs.md)
 
+## society
+
+- [Civic Life And Public Policy](./society/01-civic-life-and-public-policy.md)
+- [Community And Social Challenges](./society/02-community-and-social-challenges.md)
+- [Law And Public Services](./society/03-law-and-public-services.md)
+- [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
+- [Public Policy And Civic Communication](./society/05-public-policy-and-civic-communication.md)
+- [Community Help And Local Access](./society/06-community-help-and-local-access.md)
+- [Community Action And Social Initiatives](./society/07-community-action-and-social-initiatives.md)
+- [Volunteering Fundraising And Community Service](./society/08-volunteering-fundraising-and-community-service.md)
+- [Community Policing Neighborhood Watch And Public Safety](./society/09-community-policing-neighborhood-watch-and-public-safety.md)
+- [Local Elections Town Hall Meetings And Civic Petitions](./society/10-local-elections-town-hall-meetings-and-civic-petitions.md)
+- [Public Libraries Digital Archives And Lifelong Learning](./society/11-public-libraries-digital-archives-and-lifelong-learning.md)
+- [Community Gardens Urban Farming And Neighborhood Greening](./society/12-community-gardens-urban-farming-and-neighborhood-greening.md)
+
 ## sport
 
 - [Competitive Sports And Tournaments](./sport/01-competitive-sports-and-tournaments.md)
 - [Outdoor Fitness And Recreation](./sport/02-outdoor-fitness-and-recreation.md)
+
+## technology
+
+- [Digital Systems And Safety](./technology/01-digital-systems-and-safety.md)
+- [Data And Digital Work](./technology/02-data-and-digital-work.md)
+- [Cybersecurity And Digital Trust](./technology/03-cybersecurity-and-digital-trust.md)
+- [Networks And Emerging Technology](./technology/04-networks-and-emerging-technology.md)
+- [Software Development And Digital Products](./technology/05-software-development-and-digital-products.md)
+- [Device Use And Support](./technology/06-device-use-and-support.md)
+- [Account And Privacy Tools](./technology/07-account-and-privacy-tools.md)
+
+## transport
+
+- [Public Transportation And Commuting](./transport/01-public-transportation-and-commuting.md)
+- [Air Travel And Airport Procedures](./transport/02-air-travel-and-airport-procedures.md)
+- [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
+- [Road Trips Vehicle Maintenance And Traffic Safety](./transport/07-road-trips-vehicle-maintenance-and-traffic-safety.md)
+- [Rail Transit Subway Navigation And Commuter Habits](./transport/08-rail-transit-subway-navigation-and-commuter-habits.md)
+- [Public Transit Navigation Bike Sharing And Commuter Passes](./transport/09-public-transit-navigation-bike-sharing-and-commuter-passes.md)
+
+## travel
+
+- [Travel And Cultural Awareness](./travel/01-travel-and-cultural-awareness.md)
+- [Travel Planning And Support](./travel/02-travel-planning-and-support.md)
+- [Travel Safety And Responsible Tourism](./travel/03-travel-safety-and-responsible-tourism.md)
+- [Travel Documents And Local Plans](./travel/04-travel-documents-and-local-plans.md)
+- [Road Trips And Rail Journeys](./travel/05-road-trips-and-rail-journeys.md)
+- [Beach Vacations And Cruise Travel](./travel/06-beach-vacations-and-cruise-travel.md)
+- [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
+- [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
+- [Air Travel Customs Clearance And Lost Baggage](./travel/09-air-travel-customs-clearance-and-lost-baggage.md)
+- [Budget Backpacking Youth Hostels And Travel Safety](./travel/10-budget-backpacking-youth-hostels-and-travel-safety.md)
+- [Ecotourism Lodges Guided Nature Walks And Wildlife Tracking](./travel/11-ecotourism-lodges-guided-nature-walks-and-wildlife-tracking.md)
+- [Wildlife Safaris Conservation Reserves And Sustainable Camping](./travel/12-wildlife-safaris-conservation-reserves-and-sustainable-camping.md)
+
+## work
+
+- [Project Teamwork And Careers](./work/01-project-teamwork-and-careers.md)
+- [Workplace Communication And Wellbeing](./work/02-workplace-communication-and-wellbeing.md)
+- [Career Development And Workplace Skills](./work/03-career-development-and-workplace-skills.md)
+- [Work Planning And Career Steps](./work/04-work-planning-and-career-steps.md)
+- [Business Operations And Corporate Travel](./work/05-business-operations-and-corporate-travel.md)
+- [Workplace Collaboration And Office Technology](./work/06-workplace-collaboration-and-office-technology.md)
+- [Job Hunting Interviews And Employment Contracts](./work/07-job-hunting-interviews-and-employment-contracts.md)
+- [Remote Collaboration Asynchronous Communication And Digital Nomadism](./work/08-remote-collaboration-asynchronous-communication-and-digital-nomadism.md)
+- [Workplace Diversity Inclusive Hiring And Employee Wellness](./work/09-workplace-diversity-inclusive-hiring-and-employee-wellness.md)
