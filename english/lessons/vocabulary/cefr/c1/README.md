@@ -774,6 +774,7 @@
 ## peace-and-conflict
 - [C1 Vocabulary 01 — Peacebuilding and post-conflict recovery](peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
 - [C1 Vocabulary 02 — Disarmament, demobilization, and reintegration (DDR) frameworks, and ceasefire verification mechanisms](peace-and-conflict/02-disarmament-demobilization-and-reintegration-and-ceasefire-verification.md)
+- [C1 Vocabulary 03 — Transitional justice mechanisms, truth and reconciliation commissions, and restorative post-conflict jurisprudence](peace-and-conflict/03-transitional-justice-truth-commissions-and-post-conflict-reconciliation.md)
 
 - [C1 Vocabulary 01 — Peacebuilding and post-conflict recovery](peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
 - [C1 Vocabulary 02 — Disarmament, demobilization, and reintegration (DDR) frameworks, and ceasefire verification mechanisms](peace-and-conflict/02-disarmament-demobilization-and-reintegration-and-ceasefire-verification.md)
@@ -781,6 +782,7 @@
 ## philosophy
 - [C1 Vocabulary 01 — Philosophy and reasoning](philosophy/01-philosophy-and-reasoning.md)
 - [C1 Vocabulary — Core philosophical concepts](philosophy/02-core-philosophical-concepts.md)
+- [C1 Vocabulary 03 — Moral particularism, neo-Aristotelian virtue ethics, and practical wisdom (phronesis)](philosophy/03-moral-particularism-virtue-ethics-and-phronesis.md)
 
 - [C1 Vocabulary 01 — Philosophy and reasoning](philosophy/01-philosophy-and-reasoning.md)
 - [C1 Vocabulary — Core philosophical concepts](philosophy/02-core-philosophical-concepts.md)
@@ -788,6 +790,7 @@
 ## phonetics
 - [C1 Vocabulary 01 — Phonetics and pronunciation](phonetics/01-phonetics-and-pronunciation.md)
 - [C1 Vocabulary 02 — Acoustic formant trajectories, voice onset time (VOT) boundaries, and coarticulatory assimilation](phonetics/02-acoustic-formants-voice-onset-time-and-coarticulation-dynamics.md)
+- [C1 Vocabulary 03 — Acoustic phonetics, spectral tilt measurements, and glottal voice source dynamics](phonetics/03-acoustic-phonetics-spectral-tilt-and-voice-source-dynamics.md)
 
 - [C1 Vocabulary 01 — Phonetics and pronunciation](phonetics/01-phonetics-and-pronunciation.md)
 - [C1 Vocabulary 02 — Acoustic formant trajectories, voice onset time (VOT) boundaries, and coarticulatory assimilation](phonetics/02-acoustic-formants-voice-onset-time-and-coarticulation-dynamics.md)
@@ -795,6 +798,7 @@
 ## politics
 - [C1 Vocabulary 01 — Political landscape](politics/01-political-landscape.md)
 - [C1 Vocabulary 02 — Authoritarian regime consolidation, democratic backsliding mechanics, and autocratic legalism](politics/02-authoritarian-consolidation-democratic-backsliding-and-autocratic-legalism.md)
+- [C1 Vocabulary 03 — Consociational democracy, segmental autonomy, and power-sharing grand coalitions](politics/03-consociational-democracy-power-sharing-and-segmented-pluralism.md)
 
 - [C1 Vocabulary 01 — Political landscape](politics/01-political-landscape.md)
 - [C1 Vocabulary 02 — Authoritarian regime consolidation, democratic backsliding mechanics, and autocratic legalism](politics/02-authoritarian-consolidation-democratic-backsliding-and-autocratic-legalism.md)
@@ -802,6 +806,7 @@
 ## programming-languages
 - [C1 Vocabulary 01 — Types, runtime, and semantics](programming-languages/01-types-runtime-and-semantics.md)
 - [C1 Vocabulary 02 — Memory safety guarantees, borrow checking mechanics, and affine linear type systems](programming-languages/02-memory-safety-borrow-checker-and-affine-type-systems.md)
+- [C1 Vocabulary 03 — Algebraic data types (ADTs), structural pattern matching, and monadic effect composition](programming-languages/03-algebraic-data-types-pattern-matching-and-monadic-composition.md)
 
 - [C1 Vocabulary 01 — Types, runtime, and semantics](programming-languages/01-types-runtime-and-semantics.md)
 - [C1 Vocabulary 02 — Memory safety guarantees, borrow checking mechanics, and affine linear type systems](programming-languages/02-memory-safety-borrow-checker-and-affine-type-systems.md)
@@ -809,6 +814,7 @@
 ## project-management
 - [C1 Vocabulary 01 — Planning, delivery, and control](project-management/01-planning-delivery-and-control.md)
 - [C1 Vocabulary 02 — Earned value management (EVM), critical path schedule network analysis, and project slippage mitigation](project-management/02-earned-value-management-critical-path-and-schedule-slippage.md)
+- [C1 Vocabulary 03 — Critical chain project management (CCPM), resource contention, and buffer consumption dynamics](project-management/03-critical-chain-project-management-and-buffer-consumption.md)
 
 - [C1 Vocabulary 01 — Planning, delivery, and control](project-management/01-planning-delivery-and-control.md)
 - [C1 Vocabulary 02 — Earned value management (EVM), critical path schedule network analysis, and project slippage mitigation](project-management/02-earned-value-management-critical-path-and-schedule-slippage.md)
@@ -816,6 +822,7 @@
 ## psychiatry
 - [C1 Vocabulary 01 — Psychiatry and mental health](psychiatry/01-psychiatry-and-mental-health.md)
 - [C1 Vocabulary 02 — Synaptic neurotransmitter reuptake kinetics, transdiagnostic endophenotypes, and psychopharmacological titration](psychiatry/02-neurotransmitter-reuptake-transdiagnostic-endophenotypes-and-psychopharmacology.md)
+- [C1 Vocabulary 03 — Treatment-resistant depression, NMDA-antagonist esketamine, and rapid cortical synaptogenesis](psychiatry/03-treatment-resistant-depression-esketamine-and-rapid-synaptogenesis.md)
 
 - [C1 Vocabulary 01 — Psychiatry and mental health](psychiatry/01-psychiatry-and-mental-health.md)
 - [C1 Vocabulary 02 — Synaptic neurotransmitter reuptake kinetics, transdiagnostic endophenotypes, and psychopharmacological titration](psychiatry/02-neurotransmitter-reuptake-transdiagnostic-endophenotypes-and-psychopharmacology.md)
@@ -828,6 +835,7 @@
 - [C1 Vocabulary — Social influence and group decisions](psychology/05-social-influence-and-group-decisions.md)
 - [C1 Vocabulary — Emotion and moral judgment](psychology/06-emotion-and-moral-judgment.md)
 - [C1 Vocabulary — Personality measurement and individual differences](psychology/07-personality-measurement-and-individual-differences.md)
+- [C1 Vocabulary 08 — Embodied cognition theory, sensorimotor coupling, and ecological affordance perception](psychology/08-embodied-cognition-sensorimotor-coupling-and-affordance-perception.md)
 
 - [C1 Vocabulary 01 — Emotion and self-regulation](psychology/01-emotion-and-self-regulation.md)
 - [C1 Vocabulary — Cognitive habits and motivation](psychology/02-cognitive-habits-and-motivation.md)

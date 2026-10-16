@@ -89,6 +89,7 @@
 - [B2 Vocabulary 11 — Crisis public relations, corporate apology framing, and reputational restoration](communication/11-crisis-public-relations-apology-framing-and-reputational-repair.md)
 - [B2 Vocabulary 12 — Cross-cultural diplomatic protocol, high-context nonverbal pragmatics, and statecraft etiquette](communication/12-cross-cultural-diplomacy-nonverbal-cues-and-protocol-etiquette.md)
 - [B2 Vocabulary 13 — Crisis media relations, press conference protocols, and reputation repair](communication/13-crisis-media-relations-press-conferences-and-reputation-repair.md)
+- [B2 Vocabulary 14 — Asynchronous teamwork, cross-cultural communication protocols, and organizational knowledge sharing](communication/14-asynchronous-teamwork-cross-cultural-collaboration-and-knowledge-sharing.md)
 
 - [B2 Vocabulary 01 — Discussion, persuasion, and interpretation](communication/01-discussion-persuasion-and-interpretation.md)
 - [B2 Vocabulary — Disagreement and consensus](communication/02-disagreement-and-consensus.md)
@@ -122,6 +123,7 @@
 - [B2 Vocabulary 09 — Strategic game theory, Nash equilibrium bargaining, and credible commitment devices](decisions/09-game-theoretic-bargaining-nash-equilibria-and-credible-commitments.md)
 - [B2 Vocabulary 10 — Intuitive Bayesian updating, prior probability calibration, and empirical evidence integration](decisions/10-bayesian-updating-prior-probabilities-and-evidence-incorporation.md)
 - [B2 Vocabulary 11 — Strategic foresight, scenario planning, and horizon scanning](decisions/11-strategic-foresight-scenario-planning-and-horizon-scanning.md)
+- [B2 Vocabulary 12 — Opportunity cost trade-offs, sunk cost fallacy mitigation, and strategic business pivoting](decisions/12-opportunity-costs-sunk-cost-fallacy-and-strategic-pivoting.md)
 
 - [B2 Vocabulary 01 — Decisions, collaboration, and results](decisions/01-decisions-collaboration-and-results.md)
 - [B2 Vocabulary — Decision quality and implementation](decisions/02-decision-quality-and-implementation.md)
@@ -345,6 +347,7 @@
 - [B2 Vocabulary 06 — Post-colonial nation-building, constitutional drafting, and institutional statecraft](history/06-post-colonial-nation-building-and-constitutional-drafting.md)
 - [B2 Vocabulary 07 — Historical archival preservation, document paleography, and physical primary source conservation](history/07-archival-preservation-paleography-and-primary-source-conservation.md)
 - [B2 Vocabulary 08 — Diplomatic treaty negotiation, territorial boundary disputes, and post-war reconstruction](history/08-diplomatic-treaty-negotiation-territorial-disputes-and-post-war-reconstruction.md)
+- [B2 Vocabulary 09 — Post-war decolonization movements, Cold War proxy confrontations, and the Non-Aligned Movement](history/09-decolonization-movements-cold-war-proxy-wars-and-non-alignment.md)
 
 - [Historical Events and Heritage Preservation](history/01-historical-events-and-heritage-preservation.md)
 - [B2 Vocabulary 02 — Archival preservation, oral histories, and public memory curation](history/02-archival-preservation-oral-histories-and-public-memory.md)
@@ -405,6 +408,7 @@
 - [B2 Vocabulary 11 — Broadcast journalism ethics, source attribution standards, and editorial independence](media/11-broadcast-journalism-ethics-on-the-record-and-editorial-independence.md)
 - [B2 Vocabulary 12 — Investigative journalism, whistleblower confidentiality, and reporter shield laws](media/12-investigative-journalism-whistleblower-confidentiality-and-shield-laws.md)
 - [B2 Vocabulary 13 — Media monopolies, antitrust regulation, and algorithmic feed curation](media/13-media-monopolies-antitrust-regulation-and-algorithmic-feed-curation.md)
+- [B2 Vocabulary 14 — Algorithmic feed curation, deepfake forensics, and cryptographic digital provenance](media/14-algorithmic-curation-deepfakes-and-digital-provenance.md)
 
 - [B2 Vocabulary 01 — News reporting, journalistic practices, and press operations](media/01-news-reporting-and-press-operations.md)
 - [B2 Vocabulary 02 — Digital journalism, reporting ethics, and mass communication](media/02-digital-journalism-and-mass-communication.md)
@@ -432,6 +436,7 @@
 - [B2 Vocabulary 09 — Campaign finance regulation, political action committees (PACs), and lobbying disclosure mandates](politics/09-campaign-finance-pac-donations-and-lobbying-disclosures.md)
 - [B2 Vocabulary 10 — Electoral systems, proportional representation, and coalition governance](politics/10-electoral-systems-proportional-representation-and-coalition-governance.md)
 - [B2 Vocabulary 11 — Geopolitical sanctions, trade embargoes, and sovereign immunity](politics/11-geopolitical-sanctions-trade-embargoes-and-sovereign-immunity.md)
+- [B2 Vocabulary 12 — Partisan gerrymandering, legislative redistricting, and voting rights enforcement](politics/12-gerrymandering-electoral-boundaries-and-voting-rights.md)
 
 - [B2 Vocabulary 01 — Government institutions, political representation, and electoral politics](politics/01-government-institutions-and-electoral-politics.md)
 - [B2 Vocabulary 02 — International diplomacy, geopolitics, and treaties](politics/02-international-diplomacy-geopolitics-and-treaties.md)
@@ -457,6 +462,7 @@
 - [B2 Vocabulary 09 — Neuroplasticity mechanisms, cognitive rehabilitation, and experience-dependent synaptic pruning](psychology/09-neuroplasticity-cognitive-rehabilitation-and-synaptic-pruning.md)
 - [B2 Vocabulary 10 — Behavioral economics principles, choice architecture, and benevolent policy nudges](psychology/10-behavioral-economics-nudging-and-choice-architecture.md)
 - [B2 Vocabulary 11 — Neuroplasticity, cognitive reserve, and mnemonic training](psychology/11-neuroplasticity-cognitive-reserve-and-mnemonic-training.md)
+- [B2 Vocabulary 12 — Neuroplasticity mechanisms, cognitive reappraisal strategies, and physiological stress resilience](psychology/12-neuroplasticity-cognitive-reappraisal-and-stress-resilience.md)
 
 - [B2 Vocabulary 01 — Cognitive patterns and emotional well-being](psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
 - [Personality Traits and Social Dynamics](psychology/02-personality-traits-and-social-dynamics.md)
@@ -484,6 +490,7 @@
 - [B2 Vocabulary 10 — Longitudinal cohort methodology, attrition bias mitigation, and panel conditioning effects](research/10-longitudinal-cohorts-attrition-bias-and-panel-conditioning.md)
 - [B2 Vocabulary 11 — Mixed methods research design, qualitative-quantitative triangulation, and data convergence](research/11-mixed-methods-triangulation-and-convergent-study-designs.md)
 - [B2 Vocabulary 12 — Meta-analysis, publication bias, and systematic review synthesis](research/12-meta-analysis-publication-bias-and-systematic-reviews.md)
+- [B2 Vocabulary 13 — Study preregistration, open-science protocols, and scientific reproducibility crisis remedies](research/13-preregistration-open-science-and-reproducibility-crises.md)
 
 - [B2 Vocabulary 01 — Evidence, trends, and interpretation](research/01-evidence-trends-and-interpretation.md)
 - [B2 Vocabulary — Study design and evidence](research/02-study-design-and-evidence.md)
@@ -708,6 +715,7 @@
 - [B2 Vocabulary 08 — Hybrid workforce architectures, asynchronous communication, and proximity bias mitigation](work/08-hybrid-workforce-asynchronous-coordination-and-proximity-bias.md)
 - [B2 Vocabulary 09 — Employee stock ownership plans (ESOPs), vesting schedules, and startup equity compensation](work/09-employee-stock-ownership-vesting-schedules-and-equity-incentives.md)
 - [B2 Vocabulary 10 — Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md)
+- [B2 Vocabulary 11 — Modern talent acquisition, voluntary turnover analytics, and strategic employer branding](work/11-talent-acquisition-retention-metrics-and-employer-branding.md)
 
 - [B2 Vocabulary 01 — Project risk and accountability](work/01-project-risk-and-accountability.md)
 - [B2 Vocabulary 02 — Career lifecycle and workplace dynamics](work/02-career-lifecycle-and-workplace-dynamics.md)

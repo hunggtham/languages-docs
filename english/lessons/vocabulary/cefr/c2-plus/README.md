@@ -72,6 +72,7 @@
 - [C2+ Vocabulary — Redox and biogeochemical cycling](biogeochemistry/01-redox-and-biogeochemical-cycling.md)
 - [C2+ Vocabulary 02 — Hydrogenotrophic methanogenesis, ANME consortia, and subseafloor methane sinks](biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md)
 - [C2+ Vocabulary 03 — High-nutrient low-chlorophyll (HNLC) ocean dynamics, iron-binding siderophores, and biological carbon pumps](biogeochemistry/03-marine-iron-fertilization-high-nutrient-low-chlorophyll-zones-and-carbon-export.md)
+- [C2+ Vocabulary 04 — Oceanic iron fertilization, biological carbon pump efficiency, and mesopelagic particulate carbon flux](biogeochemistry/04-iron-fertilization-oceanic-biological-pump-and-particulate-organic-carbon-flux.md)
 
 - [C2+ Vocabulary — Redox and biogeochemical cycling](biogeochemistry/01-redox-and-biogeochemical-cycling.md)
 - [C2+ Vocabulary 02 — Hydrogenotrophic methanogenesis, ANME consortia, and subseafloor methane sinks](biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md)
@@ -81,6 +82,7 @@
 - [C2+ Vocabulary — Forging and steel heat treatment](blacksmithing/01-forging-and-steel-heat-treatment.md)
 - [C2+ Vocabulary 02 — Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md)
 - [C2+ Vocabulary 03 — Pattern-welded Damascus steel forge welding, solid-state interstitial carbon diffusion, and ferric chloride acid etch topography](blacksmithing/03-pattern-welded-damascus-interstitial-diffusion-and-etch-contrast-metallurgy.md)
+- [C2+ Vocabulary 04 — Pattern-welded Damascus steel forge-welding, carbon diffusion decarburization, and crucible wootz metallurgy](blacksmithing/04-pattern-welded-damascus-steel-decarburization-and-crucible-wootz.md)
 
 - [C2+ Vocabulary — Forging and steel heat treatment](blacksmithing/01-forging-and-steel-heat-treatment.md)
 - [C2+ Vocabulary 02 — Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md)
@@ -90,6 +92,7 @@
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)
 - [C2+ Vocabulary 02 — Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md)
 - [C2+ Vocabulary 03 — Historical manuscript water gilding, rabbit-skin glue gesso bole preparation, and dog-tooth agate burnishing](book-arts/03-gold-leaf-gilding-rabbit-skin-glue-bole-and-agate-burnishing.md)
+- [C2+ Vocabulary 04 — Medieval parchment conservation, collagen hydrothermal denaturation, and fiber leafcasting restoration](book-arts/04-parchment-conservation-collagen-gelatinization-and-leafcasting.md)
 
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)
 - [C2+ Vocabulary 02 — Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md)
@@ -99,6 +102,7 @@
 - [C2+ Vocabulary — Advanced cartography and map projection](cartography/01-advanced-cartography-and-map-projection.md)
 - [C2+ Vocabulary 02 — Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md)
 - [C2+ Vocabulary 03 — Topographic hypsometric tinting palettes, Swiss-style analytical shaded relief, and digital elevation surface draping](cartography/03-topographic-hypsometric-tints-shaded-relief-and-digital-elevation-drape.md)
+- [C2+ Vocabulary 04 — Multibeam bathymetric sonar, acoustic backscatter classification, and seafloor geomorphometry](cartography/04-bathymetric-multibeam-backscatter-and-seafloor-geomorphology.md)
 
 - [C2+ Vocabulary — Advanced cartography and map projection](cartography/01-advanced-cartography-and-map-projection.md)
 - [C2+ Vocabulary 02 — Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md)
@@ -108,6 +112,7 @@
 - [C2+ Vocabulary — Advanced causal identification and proximal inference](causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
 - [C2+ Vocabulary 02 — Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md)
 - [C2+ Vocabulary 03 — Synthetic control estimators, constrained convex optimization weights, and in-space placebo permutation inference](causal-identification/03-synthetic-control-convex-optimization-and-placebo-permutation-inference.md)
+- [C2+ Vocabulary 04 — Synthetic control methods, convex optimization weights, and staggered adoption difference-in-differences](causal-identification/04-synthetic-control-methods-matrix-completion-and-staggered-rollouts.md)
 
 - [C2+ Vocabulary — Advanced causal identification and proximal inference](causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
 - [C2+ Vocabulary 02 — Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md)
@@ -117,6 +122,7 @@
 - [C2+ Vocabulary — Studio pottery process and glaze chemistry](ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
 - [C2+ Vocabulary 02 — Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md)
 - [C2+ Vocabulary 03 — Celadon iron reduction kinetics, washed wood-ash glaze eutectics, and tensile thermal crazing](ceramics/03-celadon-iron-reduction-kinetics-wood-ash-eutectics-and-crazing-tension.md)
+- [C2+ Vocabulary 04 — Wood-fired anagama kiln aerodynamics, natural fly-ash melt, and flashing vapor coloration](ceramics/04-wood-firing-anagama-kiln-ash-deposition-and-flashing-effects.md)
 
 - [C2+ Vocabulary — Studio pottery process and glaze chemistry](ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
 - [C2+ Vocabulary 02 — Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md)
@@ -126,6 +132,7 @@
 - [C2+ Vocabulary — Cheesemaking cultures and affinage](cheesemaking/01-cheesemaking-cultures-and-affinage.md)
 - [C2+ Vocabulary 02 — Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md)
 - [C2+ Vocabulary 03 — Propionic fermentation, eye formation mechanics, and secondary proteolysis flavor peptides](cheesemaking/03-propionic-fermentation-eyes-formation-and-secondary-proteolysis-flavor-peptides.md)
+- [C2+ Vocabulary 04 — Alpine copper vat thermal convection, curd scalding syneresis, and Propionibacterium eye formation](cheesemaking/04-alpine-hard-cheese-copper-vat-thermodynamics-and-propionic-fermentation.md)
 
 - [C2+ Vocabulary — Cheesemaking cultures and affinage](cheesemaking/01-cheesemaking-cultures-and-affinage.md)
 - [C2+ Vocabulary 02 — Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md)
@@ -135,6 +142,7 @@
 - [C2+ Vocabulary — Ocean–atmosphere dynamics and climate processes](climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
 - [C2+ Vocabulary 02 — Atlantic meridional overturning circulation, freshwater hosing, and bistable tipping points](climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md)
 - [C2+ Vocabulary 03 — Stratospheric quasi-biennial oscillation, equatorial wave-mean flow interactions, and extratropical teleconnections](climate-dynamics/03-quasi-biennial-oscillation-equatorial-wave-mean-flow-interaction-and-teleconnections.md)
+- [C2+ Vocabulary 04 — Atlantic Meridional Overturning Circulation (AMOC) stability, freshwater hosing tipping points, and North Atlantic Deep Water](climate-dynamics/04-atlantic-meridional-overturning-circulation-amoc-tipping-and-deep-water-formation.md)
 
 - [C2+ Vocabulary — Ocean–atmosphere dynamics and climate processes](climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
 - [C2+ Vocabulary 02 — Atlantic meridional overturning circulation, freshwater hosing, and bistable tipping points](climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md)
