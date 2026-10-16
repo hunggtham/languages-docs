@@ -164,6 +164,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [생체전자약과 미주신경 자극의 언어](./advanced-bioelectronic-medicine-and-vagus-stimulation/README.md) — `생체전자약과 미주신경 자극 기반 신경면역 조절`
 - [자율무인잠수정과 해저 군집 탐사의 언어](./advanced-autonomous-underwater-vehicles-and-subsea-fleets/README.md) — `자율무인잠수정과 심해 군집 협업 탐사 기술`
 - [메타물질과 변환 광학의 언어](./advanced-metamaterials-and-transformation-optics/README.md) — `인공 메타물질과 변환 광학 기반 파동 제어`
+- [흐름 전지와 장주기 에너지 저장의 언어](./advanced-flow-batteries-and-long-duration-storage/README.md) — `바나듐 흐름 전지와 대용량 장주기 에너지 저장 기술`
+- [이종 장기 이식과 생체 장기 공학의 언어](./advanced-xenotransplantation-and-organ-engineering/README.md) — `유전자 교정 기반 이종 장기 이식과 거부반응 극복`
+- [산업용 초분광 영상과 비파괴 검사의 언어](./advanced-industrial-hyperspectral-imaging-and-quality-control/README.md) — `초분광 영상 기반 비파괴 공정 검사와 분광 데이터 분석`
+- [탄소 광물화와 산업 부산물 순환의 언어](./advanced-carbon-mineralization-and-industrial-waste-upcycling/README.md) — `산업 부산물 기반 탄소 광물화와 친환경 건자재 제조`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

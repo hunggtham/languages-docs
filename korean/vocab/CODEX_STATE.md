@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,620 new targets across 108 independent topic batches; 6,620 structured headings toward the 10,000 target, leaving 3,380 after this checkpoint.
+- Progress in this checkpoint: 1,680 new targets across 112 independent topic batches; 6,680 structured headings toward the 10,000 target, leaving 3,320 after this checkpoint.
+
+- Topic: `advanced-flow-batteries-and-long-duration-storage`
+- File: `01-flow-batteries-and-long-duration-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flow batteries and long duration storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean flow batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-xenotransplantation-and-organ-engineering`
+- File: `01-xenotransplantation-and-organ-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot xenotransplantation and organ engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean xenotransplantation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-industrial-hyperspectral-imaging-and-quality-control`
+- File: `01-industrial-hyperspectral-imaging-and-quality-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot industrial hyperspectral imaging and quality control headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean hyperspectral imaging passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-mineralization-and-industrial-waste-upcycling`
+- File: `01-carbon-mineralization-and-industrial-waste-upcycling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon mineralization and industrial waste upcycling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 107-eojeol Korean carbon mineralization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-direct-air-capture-and-solid-sorbents`
 - File: `01-direct-air-capture-and-solid-sorbents.md`
