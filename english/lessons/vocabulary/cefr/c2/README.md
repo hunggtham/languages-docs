@@ -1,13 +1,16 @@
 # CEFR C2 Vocabulary Lessons
-Index of canonical C2 vocabulary learning materials by topic.
+
 ## argument
+
 - [C2 Vocabulary 01 — Nuance, evidence, and argument](argument/01-nuance-evidence-and-argument.md)
 - [C2 Vocabulary 02 — Dialectical inquiry, discursive dissonance, and counter-hegemonic critique](argument/02-dialectical-inquiry-and-counter-hegemonic-discourse.md)
 - [C2 Vocabulary 03 — Epistemic injustice, eristic sophistry, and presuppositional disputation](argument/03-epistemic-injustice-eristic-dialectic-and-presuppositional-inquiry.md)
 - [C2 Vocabulary 04 — Kantian antinomies, transcendental dialectic, and the logic of philosophical aporia](argument/04-aporia-dialectic-transcendental-critique-and-antinomies.md)
 - [C2 Vocabulary 05 — Apophatic negation, radical incommensurability, and the dialectical paralogisms of reason](argument/05-apophatic-negation-incommensurability-and-the-paralogisms-of-reason.md)
+- [C2 Vocabulary 06 — Dialetheic contradiction, paraconsistent logic calculi, and self-referential semantic antinomies](argument/06-dialetheism-paraconsistent-logic-and-semantic-paradoxes.md)
 
 ## biomedicine
+
 - [C2 Vocabulary — Proteomics and mass spectrometry](biomedicine/01-proteomics-and-mass-spectrometry.md)
 - [C2 Vocabulary — Single-cell genomics and cell atlases](biomedicine/02-single-cell-genomics-and-cell-atlases.md)
 - [C2 Vocabulary — Genome editing and CRISPR systems](biomedicine/03-genome-editing-and-crispr-systems.md)
@@ -78,8 +81,11 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 68 — Targeted protein degradation, PROTAC bifunctional degraders, and molecular glue complexes](biomedicine/68-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md)
 - [C2 Vocabulary 69 — Ribosomal profiling, translatomic dynamics, and non-canonical microprotein translation](biomedicine/69-ribosome-profiling-translatomics-and-non-canonical-open-reading-frames.md)
 - [C2 Vocabulary 70 — Mitochondrial heteroplasmy thresholds, PINK1-Parkin mitophagy kinetics, and retrograde signaling](biomedicine/70-mitochondrial-heteroplasmy-mitophagy-kinetics-and-metabolic-reprogramming.md)
+- [C2 Vocabulary 71 — Chemogenetic designer receptors (DREADDs), targeted pharmacogenetic actuation, and neural circuit manipulation](biomedicine/71-chemogenetics-designer-receptors-and-neural-circuit-dissection.md)
+- [C2 Vocabulary 72 — Spatial transcriptomics, multiplexed in situ RNA sequencing, and cellular microenvironment cartography](biomedicine/72-spatial-transcriptomics-in-situ-sequencing-and-tissue-microenvironment-cartography.md)
 
 ## computing
+
 - [C2 Vocabulary — Distributed systems and consensus](computing/01-distributed-systems-and-consensus.md)
 - [C2 Vocabulary — Compilers and runtime systems](computing/02-compilers-and-runtime-systems.md)
 - [C2 Vocabulary — Database internals and query optimization](computing/03-database-internals-and-query-optimization.md)
@@ -192,6 +198,8 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 190 — Polyhedral loop transformations, static single assignment invariants, and compiler autotuning](computing/190-compilation-passes-polyhedral-loop-optimization-and-ssa-form.md)
 - [C2 Vocabulary 191 — Asynchronous coroutine runtimes, work-stealing scheduling heuristics, and cooperative cancellation](computing/191-asynchronous-coroutine-runtimes-work-stealing-schedulers-and-cancellation-tokens.md)
 - [C2 Vocabulary 192 — Formally verified microkernels, zero-copy synchronous IPC, and capability-based access control](computing/192-verified-microkernels-formal-ipc-mechanisms-and-capability-based-security.md)
+- [C2 Vocabulary 193 — Compiler intermediate representations, static single assignment (SSA) invariants, and flow-sensitive alias analysis](computing/193-compilation-passes-static-single-assignment-and-alias-analysis.md)
+- [C2 Vocabulary 194 — Homotopy type theory, higher inductive types, and the Voevodsky univalence axiom](computing/194-type-theory-homotopy-type-theory-and-univalence-axiom.md)
 - [C2 Vocabulary — Event-driven architecture and messaging](computing/20-event-driven-architecture-and-messaging.md)
 - [C2 Vocabulary — Programmable networking and function offload](computing/21-programmable-networking-and-function-offload.md)
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md)
@@ -274,13 +282,16 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary — Resilient APIs and service contracts](computing/99-resilient-api-and-service-contracts.md)
 
 ## governance
+
 - [C2 Vocabulary 01 — Public authority and institutional accountability](governance/01-public-authority-and-accountability.md)
 - [C2 Vocabulary 02 — Polycentric systems, nested enterprises, and institutional commons](governance/02-polycentric-systems-and-institutional-commons.md)
 - [C2 Vocabulary 03 — Polycentric federalism, jurisdictional arbitrage, and the principle of subsidiarity](governance/03-polycentric-federalism-regulatory-arbitrage-and-subsidiarity.md)
 - [C2 Vocabulary 04 — Deliberative minipublics, democratic sortition, and epistemic governance](governance/04-deliberative-minipublics-sortition-and-epistemic-democracy.md)
 - [C2 Vocabulary 05 — Epistemic technocracy, polycentric commoning, and systemic regulatory arbitrage](governance/05-epistemic-technocracy-polycentric-commoning-and-regulatory-capture.md)
+- [C2 Vocabulary 06 — Institutional subsidiarity, overlapping jurisdictional redundancy, and polycentric common-pool governance](governance/06-subsidiarity-jurisdictional-redundancy-and-polycentric-common-pool-institutions.md)
 
 ## rhetoric
+
 - [C2 Vocabulary 01 — Rhetorical stance and intellectual style](rhetoric/01-rhetorical-stance-and-intellectual-style.md)
 - [C2 Vocabulary 02 — Epistemic precision and argumentative method](rhetoric/02-epistemic-precision-and-argumentative-method.md)
 - [C2 Vocabulary — Rhetorical devices and interpretation](rhetoric/03-rhetorical-devices-and-interpretation.md)
@@ -332,6 +343,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 135 — Semiotic aporia, radical catachresis, and allegorical hermeneutics](rhetoric/135-semiotic-aporia-catachresis-and-allegorical-exegesis.md)
 - [C2 Vocabulary 136 — Hermeneutic polysemy, allegorical typology, and parabasis in rhetorical discourse](rhetoric/136-allegory-parables-and-hermeneutic-polysemy.md)
 - [C2 Vocabulary 137 — Mannerist paronomasia, radical catachrestic displacement, and discursive hyperbaton](rhetoric/137-paronomasia-catachresis-and-mannerist-discursive-stratagems.md)
+- [C2 Vocabulary 138 — Chiastic balance, rigorous antimetabolic inversion, and dialectical mirror structures in classical polemics](rhetoric/138-chiasmus-antimetabole-and-symmetrical-inversion-in-classical-polemics.md)
 - [C2 Vocabulary — Ethical and political reasoning](rhetoric/14-ethical-and-political-reasoning.md)
 - [C2 Vocabulary 14 — Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md)
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md)
@@ -420,6 +432,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary 99 — Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md)
 
 ## semiconductors
+
 - [C2 Vocabulary — Semiconductor fabrication and lithography](semiconductors/01-semiconductor-fabrication-and-lithography.md)
 - [C2 Vocabulary — Advanced packaging and chiplets](semiconductors/02-advanced-packaging-and-chiplets.md)
 - [C2 Vocabulary — Transistor scaling and device physics](semiconductors/03-transistor-scaling-and-device-physics.md)
@@ -542,6 +555,7 @@ Index of canonical C2 vocabulary learning materials by topic.
 - [C2 Vocabulary — Design-for-test and silicon validation](semiconductors/20-design-for-test-and-silicon-validation.md)
 - [C2 Vocabulary 200 — Cryogenic CMOS electronics, sub-Kelvin thermal dissipation, and quantum qubit readout interfaces](semiconductors/200-cryogenic-cmos-quantum-readout-electronics-and-sub-kelvin-dissipation.md)
 - [C2 Vocabulary 201 — Ferroelectric field-effect transistors, polarization switching dynamics, and stabilized negative capacitance](semiconductors/201-ferroelectric-field-effect-transistors-polarization-switching-and-negative-capacitance.md)
+- [C2 Vocabulary 202 — Monolayer transition metal dichalcogenides, valley pseudospin polarization, and valleytronic computing](semiconductors/202-two-dimensional-transition-metal-dichalcogenides-and-valleytronics.md)
 - [C2 Vocabulary — Power integrity and high-speed signal analysis](semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md)
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md)

@@ -1,6 +1,7 @@
 # CEFR C2-PLUS Vocabulary Lessons
-Index of canonical C2-PLUS vocabulary learning materials by topic.
+
 ## agroecology
+
 - [C2+ Vocabulary — Crop science and agroecological resilience](agroecology/01-crop-science-and-agroecological-resilience.md)
 - [C2+ Vocabulary — Food-system resilience and agrobiodiversity](agroecology/02-food-system-resilience-and-agrobiodiversity.md)
 - [C2+ Vocabulary — Agroecosystem dynamics and soil ecology](agroecology/03-agroecosystem-dynamics-and-soil-ecology.md)
@@ -8,89 +9,111 @@ Index of canonical C2-PLUS vocabulary learning materials by topic.
 - [C2+ Vocabulary 05 — Perennial grain polycultures, mycorrhizal hyphal networks, and soil microbiome metabolomics](agroecology/05-perennial-polycultures-mycorrhizal-fungal-networks-and-soil-microbiome-resilience.md)
 
 ## archaeobotany
+
 - [C2+ Vocabulary — Archaeobotany and zooarchaeology evidence](archaeobotany/01-archaeobotany-and-zooarchaeology-evidence.md)
 - [C2+ Vocabulary 02 — Phytolith morphometrics, starches, and paleodietary reconstruction](archaeobotany/02-phytolith-morphometrics-and-paleodietary-reconstruction.md)
 - [C2+ Vocabulary 03 — Phytolith 3D morphometrics, ancient starch granule taphonomy, and crop domestication syndromes](archaeobotany/03-phytolith-morphometrics-starch-grain-analysis-and-paleoethnobotany.md)
 
 ## architecture
+
 - [C2+ Vocabulary — Historic architecture and structural vocabulary](architecture/01-historic-architecture-and-structural-vocabulary.md)
 - [C2+ Vocabulary 02 — Phenomenological spatiality, haptic materiality, and tectonic articulation](architecture/02-phenomenological-spatiality-and-tectonic-articulation.md)
 - [C2+ Vocabulary 03 — Tectonic stereotomy, thrust-line graphic statics, and funicular masonry mechanics](architecture/03-tectonic-stereotomy-vaulted-masonry-and-kinematic-structural-optimization.md)
 
 ## astronomy
+
 - [C2+ Vocabulary — Observational astronomy and detector language](astronomy/01-observational-astronomy-and-detector-language.md)
 - [C2+ Vocabulary — Stellar astrophysics and evolution](astronomy/02-stellar-astrophysics-and-evolution.md)
 - [C2+ Vocabulary 03 — Interstellar medium polarimetry, synchrotron emission, and cosmic-ray acceleration](astronomy/03-interstellar-medium-polarimetry-and-cosmic-ray-acceleration.md)
 - [C2+ Vocabulary 04 — Pulsar timing arrays, Hellings-Downs spatial correlations, and nanohertz gravitational waves](astronomy/04-pulsar-timing-arrays-stochastic-gravitational-wave-background-and-astrometry.md)
 
 ## atmospheric-science
+
 - [C2+ Vocabulary — Atmospheric chemistry and dynamics](atmospheric-science/01-atmospheric-chemistry-and-dynamics.md)
 - [C2+ Vocabulary — Atmospheric dynamics and mesoscale systems](atmospheric-science/02-atmospheric-dynamics-and-mesoscale-systems.md)
 - [C2+ Vocabulary 03 — Stratospheric aerosol injection, geoengineering radiative forcing, and heterogeneous ozone chemistry](atmospheric-science/03-stratospheric-aerosol-injection-and-ozone-chemistry.md)
 - [C2+ Vocabulary 04 — Mesospheric internal gravity waves, hydroxyl airglow emissions, and noctilucent ice nucleation](atmospheric-science/04-mesospheric-gravity-waves-airglow-spectrophotometry-and-polar-mesospheric-clouds.md)
 
 ## baking
+
 - [C2+ Vocabulary — Bread and pastry fermentation science](baking/01-bread-and-pastry-fermentation-science.md)
 - [C2+ Vocabulary 02 — Sourdough microbial ecology, heterofermentative lactic acid fermentation, and gluten viscoelasticity](baking/02-sourdough-microbiome-kinetics-heterofermentative-lactobacilli-and-dough-rheology.md)
 
 ## biogeochemistry
+
 - [C2+ Vocabulary — Redox and biogeochemical cycling](biogeochemistry/01-redox-and-biogeochemical-cycling.md)
 - [C2+ Vocabulary 02 — Hydrogenotrophic methanogenesis, ANME consortia, and subseafloor methane sinks](biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md)
 - [C2+ Vocabulary 03 — High-nutrient low-chlorophyll (HNLC) ocean dynamics, iron-binding siderophores, and biological carbon pumps](biogeochemistry/03-marine-iron-fertilization-high-nutrient-low-chlorophyll-zones-and-carbon-export.md)
 
 ## blacksmithing
+
 - [C2+ Vocabulary — Forging and steel heat treatment](blacksmithing/01-forging-and-steel-heat-treatment.md)
 - [C2+ Vocabulary 02 — Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md)
 
 ## book-arts
+
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)
 - [C2+ Vocabulary 02 — Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md)
 
 ## cartography
+
 - [C2+ Vocabulary — Advanced cartography and map projection](cartography/01-advanced-cartography-and-map-projection.md)
 - [C2+ Vocabulary 02 — Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md)
 
 ## causal-identification
+
 - [C2+ Vocabulary — Advanced causal identification and proximal inference](causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
 - [C2+ Vocabulary 02 — Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md)
 
 ## ceramics
+
 - [C2+ Vocabulary — Studio pottery process and glaze chemistry](ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
 - [C2+ Vocabulary 02 — Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md)
 
 ## cheesemaking
+
 - [C2+ Vocabulary — Cheesemaking cultures and affinage](cheesemaking/01-cheesemaking-cultures-and-affinage.md)
 - [C2+ Vocabulary 02 — Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md)
 
 ## climate-dynamics
+
 - [C2+ Vocabulary — Ocean–atmosphere dynamics and climate processes](climate-dynamics/01-ocean-atmosphere-dynamics-and-climate-processes.md)
 - [C2+ Vocabulary 02 — Atlantic meridional overturning circulation, freshwater hosing, and bistable tipping points](climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md)
 - [C2+ Vocabulary 03 — Stratospheric quasi-biennial oscillation, equatorial wave-mean flow interactions, and extratropical teleconnections](climate-dynamics/03-quasi-biennial-oscillation-equatorial-wave-mean-flow-interaction-and-teleconnections.md)
 
 ## coffee
+
 - [C2+ Vocabulary — Coffee processing and sensory analysis](coffee/01-coffee-processing-and-sensory-analysis.md)
 - [C2+ Vocabulary 02 — Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md)
 
 ## ecological-restoration
+
 - [C2+ Vocabulary — Restoration and population dynamics](ecological-restoration/01-restoration-and-population-dynamics.md)
 - [C2+ Vocabulary 02 — Trophic rewilding, apex carnivore reintroduction, and landscape-scale ecological cascades](ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md)
 - [C2+ Vocabulary 03 — Serpentine soil edaphic endemism, nickel hyperaccumulation kinetics, and phytomining agro-restoration](ecological-restoration/03-serpentine-soil-edaphic-endemism-and-hyperaccumulator-phytomining.md)
 
 ## ecotoxicology
+
 - [C2+ Vocabulary — Environmental toxicology and risk assessment](ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)
 - [C2+ Vocabulary — Environmental fate, transport, and monitoring](ecotoxicology/02-environmental-fate-transport-and-monitoring.md)
 - [C2+ Vocabulary 03 — Per- and polyfluoroalkyl substances (PFAS), bioaccumulation kinetics, and trophic biomagnification](ecotoxicology/03-per-and-polyfluoroalkyl-substances-bioaccumulation-kinetics.md)
+- [C2+ Vocabulary 04 — Perfluoroalkyl surfactant bioaccumulation, serum albumin binding kinetics, and trophic biomagnification](ecotoxicology/04-pfas-perfluorinated-surfactant-bioaccumulation-and-protein-binding-kinetics.md)
 
 ## energy-systems
+
 - [C2+ Vocabulary — Power-grid operations and energy storage](energy-systems/01-power-grid-operations-and-energy-storage.md)
 - [C2+ Vocabulary — Storage, flexibility, and demand forecasting](energy-systems/02-storage-flexibility-and-demand-forecasting.md)
 - [C2+ Vocabulary 03 — Synchronous condensers, virtual inertia, and grid-forming inverter stability](energy-systems/03-synchronous-condensers-and-grid-forming-inverter-stability.md)
+- [C2+ Vocabulary 04 — Concentrated solar power receivers, nitrate molten salt thermocline storage, and supercritical CO2 Brayton cycles](energy-systems/04-concentrated-solar-power-molten-salt-thermal-storage-and-supercritical-co2-brayton-cycles.md)
 
 ## entomology
+
 - [C2+ Vocabulary — Insect anatomy and development](entomology/01-insect-anatomy-and-development.md)
 - [C2+ Vocabulary 02 — Eusocial caste polyphenism, epigenetic differentiation, and trail pheromone volatilization](entomology/02-eusocial-caste-polyphenism-and-chemical-trail-pheromones.md)
+- [C2+ Vocabulary 03 — Eusocial caste polyphenism, juvenile hormone endocrine titers, and mandibular morphometric allometry](entomology/03-eusocial-caste-polyphenism-juvenile-hormone-titers-and-epigenetic-mandibular-allometry.md)
 
 ## epidemiology
+
 - [C2+ Vocabulary — Outbreak dynamics and public-health evaluation](epidemiology/01-outbreak-dynamics-and-public-health-evaluation.md)
 - [C2+ Vocabulary — Outbreak surveillance and response](epidemiology/02-outbreak-surveillance-and-response.md)
 - [C2+ Vocabulary — Antimicrobial resistance and stewardship](epidemiology/03-antimicrobial-resistance-and-stewardship.md)
@@ -117,74 +140,98 @@ Index of canonical C2-PLUS vocabulary learning materials by topic.
 - [C2+ Vocabulary — Social epidemiology & structural determinants](epidemiology/24-social-epidemiology-and-structural-determinants.md)
 - [C2+ Vocabulary — Global health epidemiology & policy](epidemiology/25-global-health-epidemiology-and-policy.md)
 - [C2+ Vocabulary 26 — Phylodynamic pathogen transmission, coalescent theory, and genomic outbreak surveillance](epidemiology/26-phylodynamic-pathogen-transmission-and-genomic-surveillance.md)
+- [C2+ Vocabulary 27 — Serological cross-reactivity, plaque reduction neutralization titers, and viral antigenic cartography](epidemiology/27-serological-cross-reactivity-neutralization-assays-and-antigenic-cartography.md)
 
 ## food-and-wine
+
 - [C2+ Vocabulary — Wine sensory evaluation and cellar language](food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md)
+- [C2+ Vocabulary 02 — Grape must fermentation kinetics, yeast beta-lyase volatile thiol release, and malolactic biotransformation](food-and-wine/02-must-fermentation-kinetics-volatile-thiol-release-and-malolactic-biotransformation.md)
 
 ## forensic-science
+
 - [C2+ Vocabulary — Forensic DNA and evidence interpretation](forensic-science/01-forensic-dna-and-evidence-interpretation.md)
 - [C2+ Vocabulary 02 — Mitochondrial hypervariable sequencing, forensic palynology, and trace elemental geolocation](forensic-science/02-mitochondrial-dna-lineage-and-forensic-palynology.md)
+- [C2+ Vocabulary 03 — Forensic STR allele drop-out, capillary electrophoresis stutter ratios, and continuous probabilistic genotyping](forensic-science/03-str-allele-drop-out-stutter-peak-ratios-and-probabilistic-genotyping.md)
 
 ## genome-regulation
+
 - [C2+ Vocabulary — Genome variation and single-cell regulation](genome-regulation/01-genome-variation-and-single-cell-regulation.md)
 - [C2+ Vocabulary 02 — Topologically associating domains, loop extrusion mechanics, and transcriptional condensates](genome-regulation/02-three-dimensional-chromatin-architecture-and-phase-separated-condensates.md)
+- [C2+ Vocabulary 03 — Topologically associating domains (TADs), cohesin-driven loop extrusion, and CTCF boundary insulation mechanics](genome-regulation/03-topologically-associating-domains-cohesin-loop-extrusion-and-ctcf-boundary-insulation.md)
 
 ## geology
+
 - [C2+ Vocabulary — Advanced petrography and tectonic evidence](geology/01-advanced-petrography-and-tectonic-evidence.md)
 - [C2+ Vocabulary 02 — Mantle xenolith petrogenesis, eclogite facies metamorphism, and slab fluid metasomatism](geology/02-mantle-xenolith-petrogenesis-and-subduction-zone-metasomatism.md)
+- [C2+ Vocabulary 03 — Deep mantle plume dynamics, primordial helium isotope systematics, and continental flood basalt petrogenesis](geology/03-mantle-plume-geochemistry-helium-isotopic-ratios-and-large-igneous-provinces.md)
 
 ## glaciology
+
 - [C2+ Vocabulary — Glacial processes and landforms](glaciology/01-glacial-processes-and-landforms.md)
 - [C2+ Vocabulary 02 — Subglacial hydrologic channels, ice shelf buttressing collapse, and marine ice sheet instability](glaciology/02-subglacial-hydrology-ice-shelf-calving-and-grounding-line-retreat.md)
 
 ## glasswork
+
 - [C2+ Vocabulary — Glassblowing and kilnforming language](glasswork/01-glassblowing-and-kilnforming-language.md)
 
 ## horticulture
+
 - [C2+ Vocabulary — Advanced plant propagation and growth](horticulture/01-advanced-plant-propagation-and-growth.md)
 - [C2+ Vocabulary 02 — Shoot apical meristem micropropagation, somaclonal variation, and cryopreservation vitrification](horticulture/02-somaclonal-variation-meristem-micropropagation-and-cryopreservation.md)
 
 ## humanitarian-law
+
 - [C2+ Vocabulary — International humanitarian law and protection](humanitarian-law/01-international-humanitarian-law-and-protection.md)
 
 ## hydrology
+
 - [C2+ Vocabulary — Surface-water and groundwater processes](hydrology/01-surface-water-and-groundwater-processes.md)
 - [C2+ Vocabulary 02 — Karst aquifer conduit networks, speleogenesis, and advective solute transport modeling](hydrology/02-karst-aquifer-conduits-and-solute-transport-modeling.md)
 
 ## linguistics
+
 - [C2+ Vocabulary — Advanced phonology and grammatical change](linguistics/01-advanced-phonology-and-grammatical-change.md)
 - [C2+ Vocabulary — Morphosyntactic typology and contact change](linguistics/02-morphosyntactic-typology-and-contact-change.md)
 - [C2+ Vocabulary 03 — Ergative-absolutive morphosyntactic alignment, split ergativity, and grammaticalized evidentiality](linguistics/03-ergative-absolutive-alignment-and-grammatical-evidentiality.md)
 
 ## marine-biology
+
 - [C2+ Vocabulary — Marine zones and animal adaptations](marine-biology/01-marine-zones-and-animal-adaptations.md)
 - [C2+ Vocabulary 02 — Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md)
 
 ## maritime-logistics
+
 - [C2+ Vocabulary — Container shipping and trade compliance](maritime-logistics/01-container-shipping-and-trade-compliance.md)
 - [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md)
 
 ## materials
+
 - [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md)
 
 ## medical-imaging
+
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
 
 ## music-theory
+
 - [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md)
 
 ## mycology
+
 - [C2+ Vocabulary — Fungal structure and reproductive biology](mycology/01-fungal-structure-and-reproductive-biology.md)
 - [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md)
 
 ## neuroscience
+
 - [C2+ Vocabulary — Neural circuits, glia, and spatial coding](neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
 - [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md)
 
 ## perfumery
+
 - [C2+ Vocabulary — Perfumery and olfactory language](perfumery/01-perfumery-and-olfactory-language.md)
 
 ## philosophy-of-science
+
 - [C2+ Vocabulary — Theories, explanation, and scientific change](philosophy-of-science/01-theories-explanation-and-scientific-change.md)
 - [C2+ Vocabulary — Epistemic practice and scientific values](philosophy-of-science/02-epistemic-practice-and-scientific-values.md)
 - [C2+ Vocabulary — Causal explanation, laws, and models](philosophy-of-science/03-causal-explanation-laws-and-models.md)
@@ -244,43 +291,56 @@ Index of canonical C2-PLUS vocabulary learning materials by topic.
 - [C2+ Vocabulary — Kidney disease and dialysis care](philosophy-of-science/57-kidney-disease-and-dialysis-care.md)
 
 ## planetary-geology
+
 - [C2+ Vocabulary — Planetary geomorphology and remote sensing](planetary-geology/01-planetary-geomorphology-and-remote-sensing.md)
 
 ## plant-physiology
+
 - [C2+ Vocabulary — Advanced plant physiology and signaling](plant-physiology/01-advanced-plant-physiology-and-signaling.md)
 
 ## quantum-materials
+
 - [C2+ Vocabulary — Quantum condensed matter and materials](quantum-materials/01-quantum-condensed-matter-and-materials.md)
 
 ## remote-sensing
+
 - [C2+ Vocabulary — Advanced remote sensing and geospatial analysis](remote-sensing/01-advanced-remote-sensing-and-geospatial-analysis.md)
 - [C2+ Vocabulary — Optical, hyperspectral, and canopy analysis](remote-sensing/02-optical-hyperspectral-and-canopy-analysis.md)
 
 ## soil-science
+
 - [C2+ Vocabulary — Pedogenesis and soil function](soil-science/01-pedogenesis-and-soil-function.md)
 
 ## spirits
+
 - [C2+ Vocabulary — Distilling and spirit maturation](spirits/01-distilling-and-spirit-maturation.md)
 
 ## stagecraft
+
 - [C2+ Vocabulary — Theater stagecraft and costume language](stagecraft/01-theater-stagecraft-and-costume-language.md)
 
 ## statistical-learning
+
 - [C2+ Vocabulary — Statistical learning theory and generalization](statistical-learning/01-statistical-learning-theory-and-generalization.md)
 
 ## tea
+
 - [C2+ Vocabulary — Tea processing and brewing language](tea/01-tea-processing-and-brewing-language.md)
 
 ## textiles
+
 - [C2+ Vocabulary — Textile weaving, dyeing, and finishing](textiles/01-textile-weaving-dyeing-and-finishing.md)
 
 ## urban-planning
+
 - [C2+ Vocabulary — Advanced urban planning and land use](urban-planning/01-advanced-urban-planning-and-land-use.md)
 
 ## virology
+
 - [C2+ Vocabulary — Virus structure, evolution, and assays](virology/01-virus-structure-evolution-and-assays.md)
 - [Virology: Infection Dynamics and Phage Biology](virology/02-infection-dynamics-and-phage-biology.md)
 
 ## woodworking
+
 - [C2+ Vocabulary — Advanced joinery and lumber behavior](woodworking/01-advanced-joinery-and-lumber-behavior.md)
 

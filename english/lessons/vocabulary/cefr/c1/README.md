@@ -1,45 +1,54 @@
 # CEFR C1 Vocabulary Lessons
-Index of canonical C1 vocabulary learning materials by topic.
+
 ## agriculture
+
 - [C1 Vocabulary 01 — Agriculture and land stewardship](agriculture/01-agriculture-and-land-stewardship.md)
 - [C1 Vocabulary 02 — Controlled environment agriculture, vertical hydroponics, and precision nutrient dosing](agriculture/02-controlled-environment-agriculture-aeroponics-and-nutrient-film-technique.md)
 
 ## ai-reliability
+
 - [C1 Vocabulary 01 — Model evaluation and safety](ai-reliability/01-model-evaluation-and-safety.md)
 - [C1 Vocabulary 02 — Adversarial robustness, red-teaming, and safety alignment](ai-reliability/02-adversarial-robustness-and-safety-alignment.md)
 - [C1 Vocabulary 03 — Retrieval-augmented generation, epistemic confidence calibration, and hallucination reduction](ai-reliability/03-hallucination-mitigation-retrieval-augmented-generation-and-groundedness.md)
 
 ## analysis
+
 - [C1 Vocabulary 01 — Interpretation, nuance, and evidence](analysis/01-interpretation-and-nuance.md)
 - [C1 Vocabulary 02 — Structural equation modeling, latent constructs, and confirmatory factor analysis](analysis/02-structural-equation-modeling-latent-variables-and-confirmatory-factor-analysis.md)
 
 ## anthropology
+
 - [C1 Vocabulary 01 — Culture, kinship, and ethnography](anthropology/01-culture-kinship-and-ethnography.md)
 - [C1 Vocabulary 02 — Ethnocentrism, stratification, and belief systems](anthropology/02-ethnocentrism-stratification-and-belief-systems.md)
 - [C1 Vocabulary 03 — Ethnographic reflexivity, thick description, and multispecies coexistence](anthropology/03-ethnographic-reflexivity-and-multispecies-coexistence.md)
 - [C1 Vocabulary 04 — Sensory ethnography, phenomenology of embodiment, and affective material cultures](anthropology/04-sensory-ethnography-embodied-knowledge-and-material-culture.md)
 
 ## archaeology
+
 - [C1 Vocabulary 01 — Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md)
 - [C1 Vocabulary 02 — Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md)
 
 ## architecture
+
 - [C1 Vocabulary 01 — Architecture and built form](architecture/01-architecture-and-built-form.md)
 - [C1 Vocabulary 02 — Design elements and urban spaces](architecture/02-design-elements-and-urban-spaces.md)
 - [C1 Vocabulary 03 — Vernacular design, thermal mass, and climate-responsive facades](architecture/03-vernacular-design-and-climate-responsive-facades.md)
 - [C1 Vocabulary 04 — Biophilic urban design, regenerative envelopes, and passive thermal mass dynamics](architecture/04-biophilic-urbanism-passive-cooling-and-thermal-mass-engineering.md)
 
 ## arts
+
 - [C1 Vocabulary 01 — Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md)
 - [C1 Vocabulary 02 — Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md)
 - [C1 Vocabulary 03 — Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md)
 
 ## astronomy
+
 - [C1 Vocabulary 01 — Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md)
 - [C1 Vocabulary 02 — Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md)
 - [C1 Vocabulary 03 — Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md)
 
 ## behavioral-economics
+
 - [C1 Vocabulary 01 — Decisions and choice architecture](behavioral-economics/01-decisions-and-choice-architecture.md)
 - [C1 Vocabulary 02 — Biases, social preferences, and self-control](behavioral-economics/02-biases-social-preferences-and-self-control.md)
 - [C1 Vocabulary 03 — Frictions, social norms, and policy interventions](behavioral-economics/03-frictions-social-norms-and-policy-interventions.md)
@@ -104,96 +113,121 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary 62 — Behavioral Entrepreneurship and Startup Decisions](behavioral-economics/62-behavioral-entrepreneurship-and-startup-decisions.md)
 
 ## biology
+
 - [C1 Vocabulary 01 — Biology and genetics](biology/01-biology-and-genetics.md)
 - [C1 Vocabulary 02 — Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md)
 
 ## business
+
 - [C1 Vocabulary 01 — Business strategy and operations](business/01-business-strategy-and-operations.md)
 - [C1 Vocabulary 02 — Platform ecosystem orchestration, two-sided market dynamics, and multi-homing costs](business/02-platform-orchestration-two-sided-markets-and-network-effects.md)
 
 ## change
+
 - [C1 Vocabulary 01 — Resilience, adaptation, and change](change/01-resilience-and-adaptation.md)
 - [C1 Vocabulary 02 — Punctuated equilibrium, institutional isomorphism, and sociological paradigm shifts](change/02-punctuated-equilibrium-institutional-isomorphism-and-paradigm-shifts.md)
 
 ## chemistry
+
 - [C1 Vocabulary 01 — Chemistry and reactions](chemistry/01-chemistry-and-reactions.md)
 - [C1 Vocabulary 02 — Organocatalysis, asymmetric synthesis, and green atom economy](chemistry/02-organocatalysis-green-synthesis-and-atom-economy.md)
 - [C1 Vocabulary 03 — Supramolecular coordination cages, non-covalent self-assembly, and host-guest cavity kinetics](chemistry/03-supramolecular-coordination-cages-and-host-guest-encapsulation.md)
 
 ## cinema
+
 - [C1 Vocabulary 01 — Cinema and film language](cinema/01-cinema-and-film-language.md)
 - [C1 Vocabulary 02 — Auteur theory, non-linear cinematic narratives, and diegetic sound design](cinema/02-auteur-theory-non-linear-narrative-and-diegetic-sound.md)
 - [C1 Vocabulary 03 — Slow cinema aesthetics, durational temporality, and the contemplative visual gaze](cinema/03-slow-cinema-temporality-spatial-realism-and-contemplative-gaze.md)
 
 ## cloud-architecture
+
 - [C1 Vocabulary 01 — Deployment, resilience, and operations](cloud-architecture/01-deployment-resilience-and-operations.md)
 - [C1 Vocabulary 02 — Serverless orchestration, event-driven mesh, and distributed circuit breakers](cloud-architecture/02-serverless-orchestration-and-event-driven-mesh.md)
 - [C1 Vocabulary 03 — Distributed state machine consensus, Raft log replication, and split-brain fencing](cloud-architecture/03-distributed-consensus-raft-log-replication-and-split-brain-prevention.md)
 
 ## communication
+
 - [C1 Vocabulary 01 — Diplomatic and persuasive communication](communication/01-diplomatic-and-persuasive-communication.md)
 - [C1 Vocabulary 02 — Critical discourse analysis, ideological news framing, and sociolinguistic hegemony](communication/02-critical-discourse-analysis-ideological-framing-and-hegemonic-rhetoric.md)
 
 ## comparative-politics
+
 - [C1 Vocabulary 01 — Regimes and democratic change](comparative-politics/01-regimes-and-democratic-change.md)
 - [C1 Vocabulary 02 — Electoral authoritarianism, executive aggrandizement, and democratic backsliding](comparative-politics/02-electoral-authoritarianism-and-democratic-backsliding.md)
 - [C1 Vocabulary 03 — Hybrid regime institutionalization, political clientelism, and subnational authoritarian enclaves](comparative-politics/03-hybrid-regimes-clientelism-and-subnational-authoritarianism.md)
 
 ## computer-science
+
 - [C1 Vocabulary 01 — Computing concepts and systems](computer-science/01-computing-concepts-and-systems.md)
 - [C1 Vocabulary 02 — Computational complexity, NP-completeness, and randomized approximation](computer-science/02-computational-complexity-and-probabilistic-algorithms.md)
 
 ## constitutional-law
+
 - [C1 Vocabulary 01 — Constitutional structure and review](constitutional-law/01-constitutional-structure-and-review.md)
 - [C1 Vocabulary 02 — Constitutional judicial review, proportionality doctrine, and rights balancing](constitutional-law/02-judicial-review-proportionality-and-rights-balancing.md)
 
 ## corporate-governance
+
 - [C1 Vocabulary 01 — Boards, ownership, and accountability](corporate-governance/01-boards-ownership-and-accountability.md)
+- [C1 Vocabulary 02 — Institutional stewardship codes, proxy advisory influence, and activist shareholder campaigns](corporate-governance/02-stewardship-codes-proxy-voting-advisories-and-shareholder-activism.md)
 
 ## criminal-justice
+
 - [C1 Vocabulary 01 — Crime, evidence, and sentencing](criminal-justice/01-crime-evidence-and-sentencing.md)
+- [C1 Vocabulary 02 — Restorative justice conferencing, victim-offender reconciliation, and recidivism mitigation](criminal-justice/02-restorative-justice-conferencing-recidivism-reduction-and-victim-reparation.md)
 
 ## cryptography
+
 - [C1 Vocabulary 01 — Cryptography and secure communication](cryptography/01-cryptography-and-secure-communication.md)
 - [C1 Vocabulary 02 — Zero-knowledge proofs, post-quantum cryptography, and homomorphic encryption](cryptography/02-zero-knowledge-proofs-and-homomorphic-encryption.md)
 
 ## culture
+
 - [C1 Vocabulary 01 — Cultural criticism and representation](culture/01-cultural-criticism-and-representation.md)
 - [C1 Vocabulary 02 — Post-structuralist semiotics, cultural hegemony, and subcultural appropriation](culture/02-post-structuralist-semiotics-and-cultural-hegemony.md)
 
 ## cybersecurity
+
 - [C1 Vocabulary 01 — Threats, defense, and testing](cybersecurity/01-threats-defense-and-testing.md)
 - [C1 Vocabulary 02 — Zero trust architecture, continuous attestation, and identity federation](cybersecurity/02-zero-trust-architecture-and-identity-federation.md)
 
 ## data-governance
+
 - [C1 Vocabulary 01 — Stewardship, privacy, and accountability](data-governance/01-stewardship-privacy-and-accountability.md)
 - [C1 Vocabulary 02 — Data sovereignty, cross-border flows, and jurisdictional privacy regimes](data-governance/02-data-sovereignty-cross-border-flows-and-privacy-regimes.md)
 
 ## data-science
+
 - [C1 Vocabulary 01 — Data science and model validation](data-science/01-data-science-and-model-validation.md)
 - [C1 Vocabulary 02 — Algorithmic fairness, explainable machine learning, and concept drift](data-science/02-algorithmic-fairness-explainable-ai-and-feature-drift.md)
 
 ## database-systems
+
 - [C1 Vocabulary 01 — Transactions, storage, and analytics](database-systems/01-transactions-storage-and-analytics.md)
 - [C1 Vocabulary 02 — Distributed consensus protocols, ACID-to-BASE transitions, and horizontal sharding](database-systems/02-distributed-consensus-acid-guarantees-and-sharding.md)
 
 ## demography
+
 - [C1 Vocabulary 01 — Population change and transition](demography/01-population-change-and-transition.md)
 - [C1 Vocabulary 02 — Sub-replacement fertility, demographic shrinkage, and intergenerational transfers](demography/02-sub-replacement-fertility-and-intergenerational-transfers.md)
 
 ## diplomacy
+
 - [C1 Vocabulary 01 — Diplomatic strategy and negotiation](diplomacy/01-diplomatic-strategy-and-negotiation.md)
 - [C1 Vocabulary 02 — Track-two diplomacy, secondary sanctions architecture, and diplomatic backchannels](diplomacy/02-track-two-diplomacy-sanctions-architecture-and-backchannels.md)
 
 ## distributed-systems
+
 - [C1 Vocabulary 01 — Consistency, failures, and resilience](distributed-systems/01-consistency-failures-and-resilience.md)
 - [C1 Vocabulary 02 — Byzantine fault tolerance, gossip protocols, and vector clock causal ordering](distributed-systems/02-byzantine-fault-tolerance-gossip-protocols-and-vector-clocks.md)
 
 ## ecology
+
 - [C1 Vocabulary 01 — Ecology and species interactions](ecology/01-ecology-and-species-interactions.md)
 - [C1 Vocabulary 02 — Metapopulation dynamics, trophic downgrading, and ecotone edge effects](ecology/02-metapopulation-dynamics-trophic-downgrading-and-ecotones.md)
 
 ## econometrics
+
 - [C1 Vocabulary 01 — Causal inference and data structure](econometrics/01-causal-inference-and-data-structure.md)
 - [C1 Vocabulary 02 — Evaluation design and estimands](econometrics/02-evaluation-design-and-estimands.md)
 - [C1 Vocabulary 02 — Experimental design and policy evaluation](econometrics/02-experimental-design-and-policy-evaluation.md)
@@ -257,38 +291,55 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary 60 — Event studies and staggered adoption](econometrics/60-event-studies-and-staggered-adoption.md)
 
 ## economy
+
 - [C1 Vocabulary 01 — Economic policy and household pressure](economy/01-economic-policy-and-household-pressure.md)
 - [C1 Vocabulary 02 — Monetary transmission channels, yield curve inversion, and dynamic fiscal multipliers](economy/02-monetary-transmission-yield-curve-inversion-and-fiscal-multipliers.md)
 
 ## education
+
 - [C1 Vocabulary 01 — Advanced learning and assessment](education/01-advanced-learning-and-assessment.md)
+- [C1 Vocabulary 02 — Epistemic cognition development, scaffolded inquiry learning, and metacognitive calibration](education/02-epistemic-cognition-scaffolded-inquiry-and-metacognitive-calibration.md)
 
 ## electoral-politics
+
 - [C1 Vocabulary 01 — Elections and representation](electoral-politics/01-elections-and-representation.md)
+- [C1 Vocabulary 02 — Partisan gerrymandering metrics, geometric compactness tests, and redistricting jurisprudence](electoral-politics/02-gerrymandering-compactness-metrics-and-redistricting-jurisprudence.md)
 
 ## energy
+
 - [C1 Vocabulary 01 — Energy grids and transition](energy/01-energy-grids-and-transition.md)
+- [C1 Vocabulary 02 — Grid-scale battery storage, sub-second frequency regulation, and capacity market dynamics](energy/02-grid-scale-battery-storage-frequency-regulation-and-capacity-markets.md)
 
 ## engineering
+
 - [C1 Vocabulary 01 — Engineering materials and reliability](engineering/01-engineering-materials-and-reliability.md)
+- [C1 Vocabulary 02 — Additive manufacturing metallurgy, laser powder bed fusion, and microstructural anisotropy](engineering/02-additive-manufacturing-powder-bed-fusion-and-microstructural-anisotropy.md)
 
 ## environment
+
 - [C1 Vocabulary 01 — Biodiversity and environmental stewardship](environment/01-biodiversity-and-environmental-stewardship.md)
+- [C1 Vocabulary 02 — Coastal blue carbon ecosystems, mangrove peat preservation, and anoxic sediment carbon burial](environment/02-blue-carbon-coastal-wetlands-and-biogeochemical-sediment-sequestration.md)
 
 ## ethics
+
 - [C1 Vocabulary — Ethical decision-making](ethics/01-ethical-decision-making.md)
+- [C1 Vocabulary 02 — Neo-Aristotelian virtue ethics, practical wisdom (phronesis), and ethical particularism](ethics/02-virtue-ethics-phronesis-and-moral-particularism.md)
 
 ## finance
+
 - [C1 Vocabulary 01 — Financial risk and investment](finance/01-financial-risk-and-investment.md)
 - [C1 Vocabulary — Financial regulation and consumer protection](finance/02-financial-regulation-and-consumer-protection.md)
 
 ## food
+
 - [C1 Vocabulary 01 — Food systems and nutrition](food/01-food-systems-and-nutrition.md)
 
 ## formal-methods
+
 - [C1 Vocabulary 01 — Verification, logic, and testing](formal-methods/01-verification-logic-and-testing.md)
 
 ## game-theory
+
 - [C1 Vocabulary 01 — Strategy and interdependence](game-theory/01-strategy-and-interdependence.md)
 - [C1 Vocabulary 02 — Information, equilibria, and mechanism design](game-theory/02-information-equilibria-and-mechanism-design.md)
 - [C1 Vocabulary 03 — Bargaining, matching, and coalitions](game-theory/03-bargaining-matching-and-coalitions.md)
@@ -303,48 +354,63 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary 12 — Fair division and market allocation](game-theory/12-fair-division-and-market-allocation.md)
 
 ## genomics
+
 - [C1 Vocabulary 01 — Genomics and inheritance](genomics/01-genomics-and-inheritance.md)
 
 ## geography
+
 - [C1 Vocabulary 01 — Geography and spatial patterns](geography/01-geography-and-spatial-patterns.md)
 
 ## geology
+
 - [C1 Vocabulary 01 — Geology and Earth processes](geology/01-geology-and-earth-processes.md)
 
 ## geopolitics
+
 - [C1 Vocabulary 01 — Geopolitics and international order](geopolitics/01-geopolitics-and-international-order.md)
 
 ## health
+
 - [C1 Vocabulary 01 — Clinical risk and treatment](health/01-clinical-risk-and-treatment.md)
 
 ## housing
+
 - [C1 Vocabulary 01 — Housing markets and tenure](housing/01-housing-markets-and-tenure.md)
 
 ## human-rights
+
 - [C1 Vocabulary 01 — Rights, obligations, and remedies](human-rights/01-rights-obligations-and-remedies.md)
 
 ## hydrology
+
 - [C1 Vocabulary 01 — Water systems and scarcity](hydrology/01-water-systems-and-scarcity.md)
 
 ## immunology
+
 - [C1 Vocabulary 01 — Immunology and immune defense](immunology/01-immunology-and-immune-defense.md)
 
 ## institutions
+
 - [C1 Vocabulary 01 — Governance, oversight, and accountability](institutions/01-governance-and-accountability.md)
 
 ## international-development
+
 - [C1 Vocabulary 01 — Poverty, aid, and inclusive growth](international-development/01-poverty-aid-and-inclusive-growth.md)
 
 ## language-acquisition
+
 - [C1 Vocabulary 01 — Second-language learning](language-acquisition/01-second-language-learning.md)
 
 ## law
+
 - [C1 Vocabulary 01 — Legal process and remedies](law/01-legal-process-and-remedies.md)
 
 ## linguistics
+
 - [C1 Vocabulary 01 — Language and discourse](linguistics/01-language-and-discourse.md)
 
 ## media
+
 - [C1 Vocabulary 01 — Journalism and public trust](media/01-journalism-and-public-trust.md)
 - [C1 Vocabulary 02 — Media economics and platform attention](media/02-media-economics-and-platform-attention.md)
 - [C1 Vocabulary 03 — Digital newsroom workflows and reader revenue](media/03-digital-newsroom-workflows-and-reader-revenue.md)
@@ -367,43 +433,56 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary 20 — Media law and rights management](media/20-media-law-and-rights-management.md)
 
 ## medicine
+
 - [C1 Vocabulary 01 — Pharmacology and clinical care](medicine/01-pharmacology-and-clinical-care.md)
 
 ## music
+
 - [C1 Vocabulary 01 — Music theory and performance](music/01-music-theory-and-performance.md)
 
 ## neuroscience
+
 - [C1 Vocabulary 01 — Neuroscience and the brain](neuroscience/01-neuroscience-and-the-brain.md)
 
 ## oceanography
+
 - [C1 Vocabulary 01 — Oceanography and marine systems](oceanography/01-oceanography-and-marine-systems.md)
 
 ## paleontology
+
 - [C1 Vocabulary 01 — Fossil record and evolution](paleontology/01-fossil-record-and-evolution.md)
 
 ## peace-and-conflict
+
 - [C1 Vocabulary 01 — Peacebuilding and post-conflict recovery](peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
 
 ## philosophy
+
 - [C1 Vocabulary 01 — Philosophy and reasoning](philosophy/01-philosophy-and-reasoning.md)
 - [C1 Vocabulary — Core philosophical concepts](philosophy/02-core-philosophical-concepts.md)
 
 ## phonetics
+
 - [C1 Vocabulary 01 — Phonetics and pronunciation](phonetics/01-phonetics-and-pronunciation.md)
 
 ## politics
+
 - [C1 Vocabulary 01 — Political landscape](politics/01-political-landscape.md)
 
 ## programming-languages
+
 - [C1 Vocabulary 01 — Types, runtime, and semantics](programming-languages/01-types-runtime-and-semantics.md)
 
 ## project-management
+
 - [C1 Vocabulary 01 — Planning, delivery, and control](project-management/01-planning-delivery-and-control.md)
 
 ## psychiatry
+
 - [C1 Vocabulary 01 — Psychiatry and mental health](psychiatry/01-psychiatry-and-mental-health.md)
 
 ## psychology
+
 - [C1 Vocabulary 01 — Emotion and self-regulation](psychology/01-emotion-and-self-regulation.md)
 - [C1 Vocabulary — Cognitive habits and motivation](psychology/02-cognitive-habits-and-motivation.md)
 - [C1 Vocabulary — Memory retrieval and forgetting](psychology/03-memory-retrieval-and-forgetting.md)
@@ -413,6 +492,7 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary — Personality measurement and individual differences](psychology/07-personality-measurement-and-individual-differences.md)
 
 ## psychometrics
+
 - [C1 Vocabulary — Scale development and test quality](psychometrics/01-scale-development-and-test-quality.md)
 - [C1 Vocabulary — Clinical test interpretation and decision thresholds](psychometrics/02-clinical-test-interpretation-and-decision-thresholds.md)
 - [C1 Vocabulary — Fairness, equating, and assessment access](psychometrics/03-fairness-equating-and-assessment-access.md)
@@ -448,65 +528,86 @@ Index of canonical C1 vocabulary learning materials by topic.
 - [C1 Vocabulary — Item response curves and information](psychometrics/33-item-response-curves-and-information.md)
 
 ## public-administration
+
 - [C1 Vocabulary 01 — Administration and policy delivery](public-administration/01-administration-and-policy-delivery.md)
 
 ## public-finance
+
 - [C1 Vocabulary 01 — Fiscal and monetary policy](public-finance/01-fiscal-and-monetary-policy.md)
 
 ## public-health
+
 - [C1 Vocabulary 01 — Public health and population risk](public-health/01-public-health-and-population-risk.md)
 
 ## quality-management
+
 - [C1 Vocabulary 01 — Process improvement and control](quality-management/01-process-improvement-and-control.md)
 
 ## quantum-computing
+
 - [C1 Vocabulary 01 — Quantum computing and information](quantum-computing/01-quantum-computing-and-information.md)
 
 ## religion
+
 - [C1 Vocabulary 01 — Religion and public life](religion/01-religion-and-public-life.md)
 
 ## research
+
 - [C1 Vocabulary 01 — Research quality and uncertainty](research/01-research-quality-and-uncertainty.md)
 
 ## risk-governance
+
 - [C1 Vocabulary 01 — Resilience and climate risk](risk-governance/01-resilience-and-climate-risk.md)
 
 ## robotics
+
 - [C1 Vocabulary 01 — Robotics and autonomous machines](robotics/01-robotics-and-autonomous-machines.md)
 
 ## science
+
 - [C1 Vocabulary 01 — Climate systems and transition](science/01-climate-systems-and-transition.md)
 
 ## seismology
+
 - [C1 Vocabulary 01 — Earthquakes and seismic risk](seismology/01-earthquakes-and-seismic-risk.md)
 
 ## society
+
 - [C1 Vocabulary 01 — Migration and social cohesion](society/01-migration-and-social-cohesion.md)
 
 ## sociolinguistics
+
 - [C1 Vocabulary 01 — Language use and variation](sociolinguistics/01-language-use-and-variation.md)
 
 ## statistics
+
 - [C1 Vocabulary 01 — Statistical reasoning and evidence](statistics/01-statistical-reasoning-and-evidence.md)
 
 ## supply-chain
+
 - [C1 Vocabulary 01 — Resilience, inventory, and sourcing](supply-chain/01-resilience-inventory-and-sourcing.md)
 
 ## technology
+
 - [C1 Vocabulary 01 — Digital systems and constraints](technology/01-digital-systems-and-constraints.md)
 
 ## transport
+
 - [C1 Vocabulary 01 — Transport networks and mobility](transport/01-transport-networks-and-mobility.md)
 
 ## urban
+
 - [C1 Vocabulary 01 — Urban design and livability](urban/01-urban-design-and-livability.md)
 
 ## volcanology
+
 - [C1 Vocabulary 01 — Volcanoes and eruption hazards](volcanology/01-volcanoes-and-eruption-hazards.md)
 
 ## weather
+
 - [C1 Vocabulary 01 — Weather systems and forecasting](weather/01-weather-systems-and-forecasting.md)
 
 ## work
+
 - [C1 Vocabulary 01 — Organizational dynamics and career paths](work/01-organizational-dynamics-and-career.md)
 

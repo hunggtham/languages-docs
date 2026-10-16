@@ -1,6 +1,7 @@
 # CEFR B2 Vocabulary Lessons
-Index of canonical B2 vocabulary learning materials by topic.
+
 ## art
+
 - [B2 Vocabulary 01 — Visual arts, artistic creation, and gallery exhibitions](art/01-visual-arts-and-gallery-exhibitions.md)
 - [B2 Vocabulary 02 — Performing arts, theater, and cinematic expression](art/02-performing-arts-theater-and-cinematic-expression.md)
 - [B2 Vocabulary 03 — Curatorial practice, museum provenance, and cultural preservation](art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
@@ -14,8 +15,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 11 — Kinetic sculpture, optical art, and spatial illusions](art/11-kinetic-sculpture-optical-art-and-spatial-illusions.md)
 - [B2 Vocabulary 12 — Bio-art, living tissues, and synthetic biology aesthetics](art/12-bio-art-living-tissues-and-synthetic-biology-aesthetics.md)
 - [B2 Vocabulary 13 — Curatorial ethics, artifact repatriation, and museum deaccessioning](art/13-curatorial-ethics-repatriation-and-decolonizing-museums.md)
+- [B2 Vocabulary 14 — Site-specific art installations, spatial interventions, and ephemeral public sculpture](art/14-site-specific-installations-spatial-intervention-and-ephemeral-public-art.md)
 
 ## business
+
 - [B2 Vocabulary 01 — Corporate strategy, market competition, and mergers](business/01-corporate-strategy-market-competition-and-mergers.md)
 - [B2 Vocabulary 02 — Supply chain logistics, procurement, and inventory optimization](business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
 - [B2 Vocabulary 03 — Corporate venture capital, open innovation, and agile transformation](business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md)
@@ -29,8 +32,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Corporate Spin-Offs, Carve-Outs, and Divestiture Strategies](business/11-corporate-spin-offs-carve-outs-and-divestiture-strategies.md)
 - [B2 Vocabulary 12 — Franchise expansion, intellectual property licensing, and royalty structures](business/12-franchise-expansion-intellectual-property-licensing-and-royalty-structures.md)
 - [B2 Vocabulary 13 — Mergers and acquisitions, financial due diligence, and corporate restructuring](business/13-mergers-acquisitions-due-diligence-and-corporate-restructuring.md)
+- [B2 Vocabulary 14 — Commercial franchising models, royalty structures, and territorial licensing agreements](business/14-franchising-models-royalty-structures-and-territorial-licensing.md)
 
 ## communication
+
 - [B2 Vocabulary 01 — Discussion, persuasion, and interpretation](communication/01-discussion-persuasion-and-interpretation.md)
 - [B2 Vocabulary — Disagreement and consensus](communication/02-disagreement-and-consensus.md)
 - [B2 Vocabulary — Consensus and negotiation](communication/03-consensus-and-negotiation.md)
@@ -45,6 +50,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 09 — Digital public diplomacy, counter-disinformation strategies, and institutional credibility](communication/09-digital-diplomacy-misinformation-countermeasures-and-public-trust.md)
 
 ## decisions
+
 - [B2 Vocabulary 01 — Decisions, collaboration, and results](decisions/01-decisions-collaboration-and-results.md)
 - [B2 Vocabulary — Decision quality and implementation](decisions/02-decision-quality-and-implementation.md)
 - [B2 Vocabulary 03 — Decision Making Process](decisions/03-decision-making-process.md)
@@ -57,6 +63,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 07 — Multi-criteria decision analysis, stakeholder preference weighting, and sensitivity testing](decisions/07-multi-criteria-decision-analysis-stakeholder-weighting-and-sensitivity.md)
 
 ## economics
+
 - [Macroeconomic Forces and Indicators](economics/01-macroeconomic-forces-and-indicators.md)
 - [B2 Vocabulary 02 — Fiscal policy, taxation, and public debt](economics/02-fiscal-policy-taxation-and-public-debt.md)
 - [B2 Vocabulary 03 — Monetary policy, inflation dynamics, and central banking](economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
@@ -71,8 +78,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [12. Input-Output Analysis, Inter-Industry Linkages, and Multiplier Effects](economics/12-input-output-analysis-inter-industry-linkages-and-multiplier-effects.md)
 - [B2 Vocabulary 13 — Behavioral nudges, choice architecture, and public policy design](economics/13-behavioral-nudges-choice-architecture-and-public-policy-design.md)
 - [B2 Vocabulary 14 — Circular economy, extended producer responsibility, and closed-loop manufacturing](economics/14-circular-economy-extended-producer-responsibility-and-waste-diversion.md)
+- [B2 Vocabulary 15 — Urban congestion pricing, cordon toll zones, and traffic demand redistribution](economics/15-congestion-pricing-cordon-tolls-and-urban-mobility-redistribution.md)
 
 ## education
+
 - [B2 Vocabulary 01 — Academic writing and feedback](education/01-academic-writing-and-feedback.md)
 - [B2 Vocabulary — Academic revision and editing](education/02-academic-revision-and-editing.md)
 - [B2 Vocabulary — Research and submission](education/03-research-and-submission.md)
@@ -85,8 +94,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 08 — Digital pedagogy, remote learning, and academic integrity](education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
 - [B2 Vocabulary 09 — Inclusive special education, individualized learning plans, and neurodiversity support](education/09-inclusive-special-education-and-neurodiversity-support.md)
 - [B2 Vocabulary 10 — Hybrid pedagogy, digital learning platforms, and self-directed student agency](education/10-hybrid-pedagogy-learning-management-systems-and-student-agency.md)
+- [B2 Vocabulary 11 — Experiential pedagogy, community service-learning, and professional internships](education/11-experiential-learning-service-learning-and-community-internships.md)
 
 ## environment
+
 - [B2 Vocabulary 01 — Environmental conservation and climate action](environment/01-environmental-conservation-and-climate-action.md)
 - [B2 Vocabulary 02 — Renewable energy and resource sustainability](environment/02-renewable-energy-and-resource-sustainability.md)
 - [B2 Vocabulary 03 — Climate resilience, biodiversity, and conservation policy](environment/03-climate-resilience-biodiversity-and-conservation-policy.md)
@@ -107,8 +118,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Mangrove Afforestation, Blue Carbon Credits, and Coastal Bioshields](environment/18-mangrove-afforestation-blue-carbon-credits-and-coastal-bioshields.md)
 - [Soil Salinization Remediation, Halophyte Cultivation, and Dryland Restoration](environment/19-soil-salinization-remediation-halophyte-cultivation-and-dryland-restoration.md)
 - [B2 Vocabulary 20 — Agroforestry, silvopasture, and regenerative soil carbon sequestration](environment/20-agroforestry-silvopasture-and-regenerative-soil-carbon.md)
+- [B2 Vocabulary 21 — Landscape rewilding, apex predator reintroduction, and trophic cascade restoration](environment/21-rewilding-apex-predators-trophic-cascades-and-ecological-corridors.md)
 
 ## finance
+
 - [B2 Vocabulary 01 — Personal finance and capital management](finance/01-personal-finance-and-capital-management.md)
 - [B2 Vocabulary 02 — Banking operations, credit risk, and financial regulation](finance/02-banking-operations-credit-risk-and-financial-regulation.md)
 - [B2 Vocabulary 03 — Investment vehicles, portfolio diversification, and wealth preservation](finance/03-investment-vehicles-portfolio-diversification-and-wealth-preservation.md)
@@ -124,8 +137,10 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Microfinance Institutions, Peer-to-Peer Lending, and Financial Inclusion](finance/13-microfinance-institutions-peer-to-peer-lending-and-financial-inclusion.md)
 - [B2 Vocabulary 14 — Trade finance, letters of credit, and export credit guarantees](finance/14-trade-finance-letters-of-credit-and-export-credit-guarantees.md)
 - [B2 Vocabulary 15 — Microfinance lending, financial inclusion, and peer-to-peer credit platforms](finance/15-microfinance-fintech-inclusion-and-peer-to-peer-lending.md)
+- [B2 Vocabulary 16 — Venture debt financing, equity warrant coverage, and startup runway extension](finance/16-venture-debt-warrant-coverage-and-runway-extension-strategies.md)
 
 ## health
+
 - [B2 Vocabulary 01 — Clinical consultation and health management](health/01-clinical-consultation-and-health-management.md)
 - [B2 Vocabulary 02 — Public health, epidemics, and healthcare infrastructure](health/02-public-health-epidemics-and-healthcare-infrastructure.md)
 - [B2 Vocabulary 03 — Biomedical diagnostics, pharmacology, and chronic disease management](health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
@@ -139,13 +154,17 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 11 — Cellular senescence, telomere biology, and longevity therapeutics](health/11-cellular-senescence-telomere-biology-and-longevity-therapeutics.md)
 - [B2 Vocabulary 12 — Palliative care, hospice support, and multidisciplinary pain management](health/12-palliative-care-hospice-support-and-pain-management.md)
 - [B2 Vocabulary 13 — Sleep architecture, circadian biology, and metabolic health restoration](health/13-sleep-architecture-circadian-rhythms-and-metabolic-health.md)
+- [B2 Vocabulary 14 — Occupational ergonomics, repetitive strain injuries, and workstation biomechanics](health/14-occupational-ergonomics-repetitive-strain-injury-and-workstation-biomechanics.md)
 
 ## history
+
 - [Historical Events and Heritage Preservation](history/01-historical-events-and-heritage-preservation.md)
 - [B2 Vocabulary 02 — Archival preservation, oral histories, and public memory curation](history/02-archival-preservation-oral-histories-and-public-memory.md)
 - [B2 Vocabulary 03 — Industrial heritage, labor unionization, and progressive social reform](history/03-industrial-heritage-labor-movements-and-social-reform.md)
+- [B2 Vocabulary 04 — Oral history methodologies, vernacular testimonies, and marginalized collective memory](history/04-oral-history-methodologies-archival-testimonies-and-subaltern-memory.md)
 
 ## law
+
 - [B2 Vocabulary 01 — Courtroom proceedings, criminal justice, and legal disputes](law/01-courtroom-proceedings-and-legal-disputes.md)
 - [B2 Vocabulary 02 — Intellectual property, corporate liability, and contract enforcement](law/02-intellectual-property-corporate-liability-and-contract-enforcement.md)
 - [B2 Vocabulary 03 — International trade law, antitrust regulation, and corporate governance](law/03-international-trade-law-antitrust-regulation-and-corporate-governance.md)
@@ -162,6 +181,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 14 — Intellectual property licensing, fair use doctrine, and patent infringement litigation](law/14-intellectual-property-licensing-fair-use-and-patent-litigation.md)
 
 ## media
+
 - [B2 Vocabulary 01 — News reporting, journalistic practices, and press operations](media/01-news-reporting-and-press-operations.md)
 - [B2 Vocabulary 02 — Digital journalism, reporting ethics, and mass communication](media/02-digital-journalism-and-mass-communication.md)
 - [B2 Vocabulary 03 — Digital platforms, social media algorithms, and content moderation](media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
@@ -172,6 +192,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 08 — Investigative journalism, whistleblower protection, and editorial independence](media/08-investigative-journalism-whistleblower-protection-and-editorial-independence.md)
 
 ## politics
+
 - [B2 Vocabulary 01 — Government institutions, political representation, and electoral politics](politics/01-government-institutions-and-electoral-politics.md)
 - [B2 Vocabulary 02 — International diplomacy, geopolitics, and treaties](politics/02-international-diplomacy-geopolitics-and-treaties.md)
 - [B2 Vocabulary 03 — Public policy analysis, legislative advocacy, and regulatory reform](politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
@@ -180,6 +201,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 06 — Civic engagement, participatory budgeting, and grassroots democratic mobilization](politics/06-civic-engagement-participatory-budgeting-and-grassroots-mobilization.md)
 
 ## psychology
+
 - [B2 Vocabulary 01 — Cognitive patterns and emotional well-being](psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
 - [Personality Traits and Social Dynamics](psychology/02-personality-traits-and-social-dynamics.md)
 - [B2 Vocabulary 03 — Behavioral economics, cognitive bias, and decision heuristics](psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md)
@@ -189,6 +211,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 07 — Attachment theory, emotional regulation, and adult relational security](psychology/07-attachment-theory-emotional-regulation-and-relational-security.md)
 
 ## research
+
 - [B2 Vocabulary 01 — Evidence, trends, and interpretation](research/01-evidence-trends-and-interpretation.md)
 - [B2 Vocabulary — Study design and evidence](research/02-study-design-and-evidence.md)
 - [B2 Vocabulary 03 — Academic research process](research/03-academic-research-process.md)
@@ -200,6 +223,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 08 — Meta-analysis methodology, study heterogeneity, and publication bias detection](research/08-meta-analysis-heterogeneity-and-funnel-plot-asymmetry.md)
 
 ## risk
+
 - [B2 Vocabulary — Risk assessment and preparedness](risk/01-risk-assessment-and-preparedness.md)
 - [B2 Vocabulary — Risk governance and response](risk/02-risk-governance-and-response.md)
 - [B2 Vocabulary — Risk monitoring and continuity](risk/03-risk-monitoring-and-continuity.md)
@@ -250,6 +274,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 46 — Climate-related financial disclosures, physical risk modeling, and stranded carbon assets](risk/46-climate-risk-disclosure-scenario-stress-testing-and-stranded-assets.md)
 
 ## society
+
 - [B2 Vocabulary 01 — Urban life, housing, and public space](society/01-urban-life-housing-and-public-space.md)
 - [B2 Vocabulary — Housing policy and neighborhood change](society/02-housing-policy-and-neighborhood-change.md)
 - [B2 Vocabulary — Housing supply and planning](society/03-housing-supply-and-planning.md)
@@ -264,6 +289,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 09 — The digital divide, universal broadband access, and civic digital literacy](society/09-digital-divide-broadband-equity-and-civic-connectivity.md)
 
 ## technology
+
 - [B2 Vocabulary 01 — Data privacy and digital behavior](technology/01-data-privacy-and-digital-behavior.md)
 - [B2 Vocabulary — Security controls and user choice](technology/02-security-controls-and-user-choice.md)
 - [B2 Vocabulary — Security governance and assurance](technology/03-security-governance-and-assurance.md)
@@ -279,6 +305,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [B2 Vocabulary 10 — Quantum computing readiness, post-RSA encryption migration, and crypto-agility](technology/10-quantum-computing-cryptographic-transition-and-post-rsa-security.md)
 
 ## urban
+
 - [B2 Vocabulary 01 — Metropolitan growth, urban mobility, and municipal infrastructure](urban/01-metropolitan-growth-and-municipal-infrastructure.md)
 - [B2 Vocabulary 02 — Smart cities, sustainable mobility, and urban zoning](urban/02-smart-cities-sustainable-mobility-and-urban-zoning.md)
 - [B2 Vocabulary 03 — Urban regeneration, infrastructure resilience, and civic placemaking](urban/03-urban-regeneration-infrastructure-resilience-and-civic-placemaking.md)
@@ -300,6 +327,7 @@ Index of canonical B2 vocabulary learning materials by topic.
 - [Biophilic Architecture, Green Roofs, and Vertical Gardens](urban/19-biophilic-architecture-green-roofs-and-vertical-gardens.md)
 
 ## work
+
 - [B2 Vocabulary 01 — Project risk and accountability](work/01-project-risk-and-accountability.md)
 - [B2 Vocabulary 02 — Career lifecycle and workplace dynamics](work/02-career-lifecycle-and-workplace-dynamics.md)
 - [B2 Vocabulary 02 — Organizational change and workplace performance](work/02-organizational-change-and-workplace-performance.md)
