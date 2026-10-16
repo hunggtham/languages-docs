@@ -15,10 +15,50 @@
 - Source PDFs and dictionaries are reference material only; lesson explanations and passages are original.
 - Lexical audit: 214 nested target headwords retain `advanced_native` or `contemporary_native_hot` metadata; 71 common/support words were removed from target headings but remain available in explanations and passages. The 67 legacy flat headwords are preserved as `legacy_review`.
 
-## 2026-10-09 10,000-word expansion kickoff
+## 2026-10-16 15,000-word expansion kickoff
 
-- Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 5,010 new targets across 334 independent topic batches; 10,010 structured headings toward the 10,000 target, leaving 0 after this checkpoint (10,000-word expansion goal achieved and exceeded).
+- Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
+- Progress in this checkpoint: 5,160 new targets across 344 independent topic batches; 10,160 structured headings toward the 15,000 target, leaving 4,840 after this checkpoint.
+
+- Topic: `business-corporate-mergers-and-acquisitions`
+- File: `01-corporate-mergers-and-acquisitions.md`
+- Coverage: 15 new advanced-native corporate mergers and acquisitions headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `media-journalism-ethics-and-press-freedom`
+- File: `01-journalism-ethics-and-press-freedom.md`
+- Coverage: 15 new advanced-native journalism ethics and press freedom headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-civil-litigation-and-contract-breach`
+- File: `01-civil-litigation-and-contract-breach.md`
+- Coverage: 15 new advanced-native civil litigation and contract breach headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-monetary-policy-and-inflation`
+- File: `01-monetary-policy-and-inflation.md`
+- Coverage: 15 new advanced-native monetary policy and inflation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `psychology-cognitive-bias-and-decision-making`
+- File: `01-cognitive-bias-and-decision-making.md`
+- Coverage: 15 new advanced-native cognitive bias and decision making headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environment-carbon-neutrality-and-circular-economy`
+- File: `01-carbon-neutrality-and-circular-economy.md`
+- Coverage: 15 new advanced-native carbon neutrality and circular economy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-demographic-aging-and-welfare-state`
+- File: `01-demographic-aging-and-welfare-state.md`
+- Coverage: 15 new advanced-native demographic aging and welfare state headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `technology-data-privacy-and-cybersecurity`
+- File: `01-data-privacy-and-cybersecurity.md`
+- Coverage: 15 new advanced-native data privacy and cybersecurity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `culture-contemporary-art-and-aesthetic-criticism`
+- File: `01-contemporary-art-and-aesthetic-criticism.md`
+- Coverage: 15 new advanced-native contemporary art and aesthetic criticism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `workplace-organizational-conflict-and-negotiation`
+- File: `01-organizational-conflict-and-negotiation.md`
+- Coverage: 15 new advanced-native organizational conflict and negotiation headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `advanced-wearable-sweat-microrna-sensors`
 - File: `01-wearable-sweat-microrna-sensors.md`

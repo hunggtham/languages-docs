@@ -390,6 +390,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [고유수용성 인공 전자피부 및 로봇 의수 인터페이스 기술의 언어](./advanced-proprioceptive-electronic-skin-prosthetics/README.md) — `다축 응력-변형률 감지 및 인공 시냅스 연계 온칩 스파이킹 신경망 기반 로봇 의수 고유감각 피드백 전자피부 기술`
 - [압전 골조직 재생 지지체 및 줄기세포 분화 촉진 기술의 언어](./advanced-piezo-bone-tissue-regeneration-scaffolds/README.md) — `초음파 기계전기 신호 변환 및 다공성 나노섬유 지지체 기반 줄기세포 조골세포 분화 유도 무선 골조직 재생 의공학 기술`
 - [상어 비늘 리블렛 미세구조 유체 저항 저감 표면 기술의 언어](./advanced-shark-skin-riblet-drag-reduction-surfaces/README.md) — `생체모사 난류 경계층 와류 제어 리블렛 박막 및 롤투롤 나노임프린팅 기반 점성 마찰 항력 저감 친환경 계면 공학 기술`
+- [기업 인수합병 및 지배구조 개편의 언어](./business-corporate-mergers-and-acquisitions/README.md) — `적대적 M&A 방어 및 정밀 실사 기반 이사회 선관주의 의무와 기업지배구조 투명성 제고 전략`
+- [언론 윤리와 보도의 자유의 언어](./media-journalism-ethics-and-press-freedom/README.md) — `탐사보도 알 권리 보장 및 팩트체크 시스템 기반 언론자유와 공적 책임성 조화 윤리 규범`
+- [민사 소송 및 계약 불이행 법률 분쟁의 언어](./law-civil-litigation-and-contract-breach/README.md) — `계약불이행 손해배상 및 보전처분 입증책임 기반 신의성실 원칙과 집행권원 확보 사법 구제 절차`
+- [통화 정책 및 물가 안정 거시경제의 언어](./macroeconomics-monetary-policy-and-inflation/README.md) — `중앙은행 기준금리 인상 및 양적 긴축 기반 인플레이션 억제와 거시건전성 금융안정 전략`
+- [인지 편향 및 합리적 의사결정 심리학의 언어](./psychology-cognitive-bias-and-decision-making/README.md) — `확증편향 및 손실회피 성향 극복 기반 휴리스틱 직관 판단 교정과 합리적 의사결정 인지심리학`
+- [탄소 중립 및 순환 경제 정책의 언어](./environment-carbon-neutrality-and-circular-economy/README.md) — `온실가스 배출권 거래제 및 탄소국경조정제도 기반 전과정 환경성 평가와 넷제로 순환 경제 전략`
+- [인구 고령화 및 복지 국가의 미래의 언어](./sociology-demographic-aging-and-welfare-state/README.md) — `초고령사회 인구 절벽 및 국민연금 개혁 기반 세대 간 형평성과 지속 가능한 지역사회 통합 돌봄 체계`
+- [데이터 프라이버시 및 사이버 보안 거버넌스의 언어](./technology-data-privacy-and-cybersecurity/README.md) — `제로 트러스트 보안 아키텍처 및 개인정보 자기결정권 보호 기반 다중요소 인증과 침해사고 포렌식 조사 체계`
+- [현대 미술 비평 및 미학 담론의 언어](./culture-contemporary-art-and-aesthetic-criticism/README.md) — `포스트모더니즘 미학 담론 및 장소특정적 설치미술 기반 관계미학적 관객 참여와 시각문화 기호학적 비평`
+- [조직 내 갈등 관리 및 상생 협상 기술의 언어](./workplace-organizational-conflict-and-negotiation/README.md) — `노사상생 단체교섭 및 심리적 안전감 기반 윈윈 상호이익 협상과 갈등 전환 회복적 대화 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
