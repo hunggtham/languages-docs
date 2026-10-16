@@ -74,6 +74,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
 - [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
 - [Biomedical Diagnostics Pharmacology And Chronic Disease Management](./health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
+- [Digital Health Therapeutics Telemedicine Systems And Patient Data Ethics](./health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md)
 
 ## media
 
@@ -101,11 +102,13 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
 - [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
 - [Monetary Policy Inflation Dynamics And Central Banking](./economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
+- [Labor Market Dynamics Wage Polarization And Social Welfare Economics](./economics/04-labor-market-dynamics-wage-polarization-and-social-welfare-economics.md)
 
 ## business
 
 - [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
 - [Supply Chain Logistics Procurement And Inventory Optimization](./business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
+- [Corporate Venture Capital Open Innovation And Agile Transformation](./business/03-corporate-venture-capital-open-innovation-and-agile-transformation.md)
 
 ## law
 
@@ -119,6 +122,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Cognitive Patterns And Emotional Wellbeing](./psychology/01-cognitive-patterns-and-emotional-wellbeing.md)
 - [Personality Traits And Social Dynamics](./psychology/02-personality-traits-and-social-dynamics.md)
 - [Behavioral Economics Cognitive Bias And Decision Heuristics](./psychology/03-behavioral-economics-cognitive-bias-and-decision-heuristics.md)
+- [Cognitive Bias Mitigation Neurodiversity And Behavioral Interventions](./psychology/04-cognitive-bias-mitigation-neurodiversity-and-behavioral-interventions.md)
 
 ## politics
 
