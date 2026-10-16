@@ -80,6 +80,7 @@
 
 - [C2+ Vocabulary — Cheesemaking cultures and affinage](cheesemaking/01-cheesemaking-cultures-and-affinage.md)
 - [C2+ Vocabulary 02 — Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md)
+- [C2+ Vocabulary 03 — Propionic fermentation, eye formation mechanics, and secondary proteolysis flavor peptides](cheesemaking/03-propionic-fermentation-eyes-formation-and-secondary-proteolysis-flavor-peptides.md)
 
 ## climate-dynamics
 
@@ -231,26 +232,31 @@
 
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
 - [C2+ Vocabulary 02 — Diffusion tensor magnetic resonance imaging (DTI), fractional anisotropy calculation, and deterministic tractography](medical-imaging/02-diffusion-tensor-imaging-fractional-anisotropy-and-tractographic-reconstruction.md)
+- [C2+ Vocabulary 03 — Functional MRI, BOLD contrast hemodynamic response, and resting-state functional connectivity](medical-imaging/03-functional-mri-blood-oxygen-level-dependent-hemodynamic-response-and-resting-state-connectivity.md)
 
 ## music-theory
 
 - [C2+ Vocabulary — Advanced composition and harmonic language](music-theory/01-advanced-composition-and-harmonic-language.md)
 - [C2+ Vocabulary 02 — Neo-Riemannian voice-leading operations, Tonnetz toroidal geometry, and chromatic hexatonic cycles](music-theory/02-neo-riemannian-voice-leading-tonnetz-geometry-and-hexatonic-cycles.md)
+- [C2+ Vocabulary 03 — Pitch-class set theory, interval-class vectors, and combinatorial hexachordal inversion](music-theory/03-pitch-class-set-theory-interval-vectors-and-combinatorial-hexachordal-inversion.md)
 
 ## mycology
 
 - [C2+ Vocabulary — Fungal structure and reproductive biology](mycology/01-fungal-structure-and-reproductive-biology.md)
 - [C2+ Vocabulary — Fungal ecology and pathogenesis](mycology/02-fungal-ecology-and-pathogenesis.md)
+- [C2+ Vocabulary 03 — Mycorrhizal hyphal networks, glomalin-mediated soil aggregation, and ectomycorrhizal fungal mantles](mycology/03-mycorrhizal-hyphal-networks-glomalin-soil-aggregation-and-ectomycorrhizal-mantles.md)
 
 ## neuroscience
 
 - [C2+ Vocabulary — Neural circuits, glia, and spatial coding](neuroscience/01-neural-circuits-glia-and-spatial-coding.md)
 - [C2+ Vocabulary — Predictive processing and cognitive control](neuroscience/02-predictive-processing-and-cognitive-control.md)
+- [C2+ Vocabulary 03 — Predictive coding, precision-weighted prediction errors, and hierarchical active inference](neuroscience/03-predictive-coding-precision-weighted-prediction-errors-and-hierarchical-active-inference.md)
 
 ## perfumery
 
 - [C2+ Vocabulary — Perfumery and olfactory language](perfumery/01-perfumery-and-olfactory-language.md)
 - [C2+ Vocabulary 02 — Dynamic headspace GC-MS analysis, olfactory evaporation kinetics, and macrocyclic musk substantivity](perfumery/02-headspace-gas-chromatography-olfactory-evaporation-curves-and-fixative-substantivity.md)
+- [C2+ Vocabulary 03 — Ambergris notes, ambroxan stereoselective synthesis, and chiral lactone fixative tenacity](perfumery/03-ambergris-ambroxan-synthesis-chiral-lactones-and-tenacious-fixative-diffusion.md)
 
 ## philosophy-of-science
 
@@ -316,11 +322,13 @@
 
 - [C2+ Vocabulary — Planetary geomorphology and remote sensing](planetary-geology/01-planetary-geomorphology-and-remote-sensing.md)
 - [C2+ Vocabulary 02 — Cryovolcanic eruptive mechanics, icy satellite subsurface ocean convection, and solid-state ice shell diapirism](planetary-geology/02-cryovolcanism-subsurface-ocean-convection-and-ice-shell-diapirism.md)
+- [C2+ Vocabulary 03 — Impact cratering mechanics, acoustic fluidization, and central peak shock metamorphism](planetary-geology/03-impact-cratering-mechanics-acoustic-fluidization-and-central-peak-shock-metamorphism.md)
 
 ## plant-physiology
 
 - [C2+ Vocabulary — Advanced plant physiology and signaling](plant-physiology/01-advanced-plant-physiology-and-signaling.md)
 - [C2+ Vocabulary 02 — Stomatal guard cell electrophysiology, abscisic acid signaling cascades, and xylem acoustic cavitation vulnerability](plant-physiology/02-stomatal-guard-cell-electrophysiology-abscisic-acid-signaling-and-xylem-cavitation.md)
+- [C2+ Vocabulary 03 — Phloem translocation, Münch pressure-flow hypothesis, and sucrose-proton symporter loading](plant-physiology/03-phloem-translocation-munch-counterflow-and-sucrose-proton-symporter-loading.md)
 
 ## quantum-materials
 

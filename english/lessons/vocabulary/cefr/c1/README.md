@@ -592,34 +592,42 @@
 ## risk-governance
 
 - [C1 Vocabulary 01 — Resilience and climate risk](risk-governance/01-resilience-and-climate-risk.md)
+- [C1 Vocabulary 02 — Catastrophic risk modeling, extreme value theory, and resilience engineering](risk-governance/02-catastrophic-risk-modeling-extreme-value-theory-and-resilience-engineering.md)
 
 ## robotics
 
 - [C1 Vocabulary 01 — Robotics and autonomous machines](robotics/01-robotics-and-autonomous-machines.md)
+- [C1 Vocabulary 02 — Inverse kinematics, motion planning algorithms, and simultaneous localization and mapping (SLAM)](robotics/02-inverse-kinematics-motion-planning-and-simultaneous-localization-and-mapping.md)
 
 ## science
 
 - [C1 Vocabulary 01 — Climate systems and transition](science/01-climate-systems-and-transition.md)
+- [C1 Vocabulary 02 — Planetary boundary tipping points, Earth system feedbacks, and cryosphere destabilization](science/02-planetary-boundary-tipping-points-and-earth-system-feedbacks.md)
 
 ## seismology
 
 - [C1 Vocabulary 01 — Earthquakes and seismic risk](seismology/01-earthquakes-and-seismic-risk.md)
+- [C1 Vocabulary 02 — Fault rupture dynamics, paleoseismic trenching, and moment magnitude scaling](seismology/02-fault-rupture-dynamics-paleoseismology-and-moment-magnitude-scaling.md)
 
 ## society
 
 - [C1 Vocabulary 01 — Migration and social cohesion](society/01-migration-and-social-cohesion.md)
+- [C1 Vocabulary 02 — Transnational migration, diaspora remittances, and immigrant integration policy](society/02-transnational-migration-diaspora-remittances-and-integration-policy.md)
 
 ## sociolinguistics
 
 - [C1 Vocabulary 01 — Language use and variation](sociolinguistics/01-language-use-and-variation.md)
+- [C1 Vocabulary 02 — Diglossia, language revitalization, and sociophonetic variation](sociolinguistics/02-diglossia-language-revitalization-and-sociophonetic-variation.md)
 
 ## statistics
 
 - [C1 Vocabulary 01 — Statistical reasoning and evidence](statistics/01-statistical-reasoning-and-evidence.md)
+- [C1 Vocabulary 02 — Bayesian hierarchical modeling, Markov chain Monte Carlo, and credible intervals](statistics/02-bayesian-hierarchical-modeling-markov-chain-monte-carlo-and-credible-intervals.md)
 
 ## supply-chain
 
 - [C1 Vocabulary 01 — Resilience, inventory, and sourcing](supply-chain/01-resilience-inventory-and-sourcing.md)
+- [C1 Vocabulary 02 — Supply chain digital twins, bullwhip effect dampening, and multi-tier visibility](supply-chain/02-supply-chain-digital-twins-bullwhip-effect-and-multi-tier-visibility.md)
 
 ## technology
 

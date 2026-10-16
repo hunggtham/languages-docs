@@ -28,25 +28,25 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
 - B1: 5236 items in 234 topic files; topic-folder numbering resets per folder.
-- B2: 6934 items in 311 topic files; B2 expansion is active beyond the original pilot.
-- C1: 7295 items in 366 topic files; topic-folder numbering resets per folder.
-- C2: 13441 items in 652 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
-- C2+: 5247 items in 222 lesson files across 52 topic folders.
-- Total: 40054 items (authoritative script count after Wave 25 parallel expansion, achieving the 40,000 items goal).
+- B2: 7134 items in 319 topic files; B2 expansion is active beyond the original pilot.
+- C1: 7495 items in 374 topic files; topic-folder numbering resets per folder.
+- C2: 13641 items in 660 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
+- C2+: 5447 items in 230 lesson files across 52 topic folders.
+- Total: 40854 items (authoritative script count after Wave 26 parallel expansion toward 50,000 items).
 
 ## Current position
 
-Status: `TARGET_40K_COMPLETE`
+Status: `EXPANDING_TO_50K`
 
 Current level: `B2_C1_C2_C2_PLUS_PARALLEL`
 
-Milestone achievement: The 40,000 unique vocabulary learning items target has been successfully achieved and verified (`TOTAL lessons=1846 items=40054`). The corpus is thoroughly distributed across B2, C1, C2, and C2+ with full canonical formatting, dual bilingual review narratives, and zero duplicate headwords.
+Milestone achievement: The 40,000 unique vocabulary learning items target has been successfully achieved and verified (`TARGET 40k=complete` with 40,054 items). The active goal is expanding the corpus toward **50,000 items** distributed evenly across B2, C1, C2, and C2+ using parallel subagent waves.
 
-- Wave 25 added 8 parallel lessons across 8 subagents (200 items, 25 items each) completing the milestone:
-  - B2: `media/12`, `politics/10` (50 items)
-  - C1: `religion/02`, `research/02` (50 items)
-  - C2: `argument/11`, `governance/11` (50 items)
-  - C2+: `maritime-logistics/03`, `materials/03` (50 items)
+- Wave 26 added 32 parallel lessons across 16 subagents (800 items, 25 items each):
+  - B2: `art/16`, `business/16`, `economics/17`, `education/13`, `environment/23`, `finance/18`, `health/16`, `law/16` (200 items)
+  - C1: `risk-governance/02`, `robotics/02`, `science/02`, `seismology/02`, `society/02`, `sociolinguistics/02`, `statistics/02`, `supply-chain/02` (200 items)
+  - C2: `argument/12`, `governance/12`, `biomedicine/81`, `biomedicine/82`, `computing/203`, `computing/204`, `rhetoric/143`, `semiconductors/207` (200 items)
+  - C2+: `cheesemaking/03`, `medical-imaging/03`, `music-theory/03`, `mycology/03`, `neuroscience/03`, `perfumery/03`, `planetary-geology/03`, `plant-physiology/03` (200 items)
   - All lessons strictly adhere to canonical H2 format, dual bilingual review-in-context with 100% bolded headwords, and 0 duplicate headwords.
 
 Before choosing the exact lesson topic and words:

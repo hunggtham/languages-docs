@@ -13,6 +13,7 @@
 - [C2 Vocabulary 09 — Epistemic injustice dynamics, testimonial credibility deficits, and structural hermeneutical lacunae](argument/09-epistemic-injustice-testimonial-hermeneutical-marginalization.md)
 - [C2 Vocabulary 10 — Epistemic rule-circularity, self-vindicating cognitive faculties, and non-doxastic foundational justification](argument/10-epistemic-circularity-rule-circularity-and-doxastic-justification.md)
 - [C2 Vocabulary 11 — Defeasible reasoning, non-monotonic logic, and epistemic undercutters](argument/11-defeasible-reasoning-non-monotonic-logic-and-epistemic-undercutters.md)
+- [C2 Vocabulary 12 — Epistemic contextualism, semantic ascent, and invariantist skepticism](argument/12-epistemic-contextualism-semantic-ascent-and-invariantist-skepticism.md)
 
 ## biomedicine
 
@@ -96,6 +97,8 @@
 - [C2 Vocabulary 78 — Targeted proteasomal degradation, PROTAC heterobifunctional chimeras, and molecular glue degraders](biomedicine/78-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md)
 - [C2 Vocabulary 79 — High-diversity cellular barcoding, clonal hematopoiesis of indeterminate potential (CHIP), and somatic lineage tracing](biomedicine/79-cellular-barcoding-clonal-hematopoiesis-and-lineage-tracing.md)
 - [C2 Vocabulary 80 — Presynaptic SNARE pin-zippering, synaptotagmin-1 calcium sensor triggering, and vesicle kiss-and-run recycling](biomedicine/80-synaptic-vesicle-exocytosis-snare-complex-and-synaptotagmin-calcium-sensing.md)
+- [C2 Vocabulary 81 — Spatial transcriptomics, in situ sequencing, and cellular niche profiling](biomedicine/81-spatial-transcriptomics-in-situ-sequencing-and-cellular-niche-profiling.md)
+- [C2 Vocabulary 82 — Optogenetic neural silencing, halorhodopsin chloride pumps, and behavioral circuit dissection](biomedicine/82-optogenetic-neural-silencing-halorhodopsin-and-behavioral-circuit-dissection.md)
 
 ## computing
 
@@ -301,6 +304,8 @@
 - [C2 Vocabulary — Resilient APIs and service contracts](computing/99-resilient-api-and-service-contracts.md)
 - [C2 Vocabulary 201 — Hardware transactional memory (HTM), cache coherence transaction tracking, and speculative lock elision](computing/201-hardware-transactional-memory-cache-coherence-and-speculative-lock-elision.md)
 - [C2 Vocabulary 202 — Static abstract interpretation, Galois connection adjunctions, and widening operator fixpoint acceleration](computing/202-abstract-interpretation-galois-connections-and-widening-operators.md)
+- [C2 Vocabulary 203 — Zero-knowledge succinct arguments (zk-SNARKs), arithmetic circuits, and polynomial commitments](computing/203-zero-knowledge-succinct-arguments-arithmetic-circuits-and-polynomial-commitments.md)
+- [C2 Vocabulary 204 — Concurrency separation logic, concurrent abstract predicates, and linearizability proofs](computing/204-concurrency-separation-logic-concurrent-abstract-predicates-and-linearizability.md)
 
 ## governance
 
@@ -315,6 +320,7 @@
 - [C2 Vocabulary 09 — Panarchy theory, adaptive ecological governance, and cross-scale systemic resilience cascades](governance/09-panarchy-adaptive-governance-and-socio-ecological-resilience-cascades.md)
 - [C2 Vocabulary 10 — Adversarial legalism, administrative rulemaking ossification, and the judicialization of public policy](governance/10-adversarial-legalism-regulatory-ossification-and-judicialized-governance.md)
 - [C2 Vocabulary 11 — Polycentric governance, common-pool resources, and institutional crafting](governance/11-polycentric-governance-common-pool-resources-and-institutional-crafting.md)
+- [C2 Vocabulary 12 — Transnational regulatory networks, soft law harmonization, and peer surveillance](governance/12-transnational-regulatory-networks-soft-law-and-peer-surveillance.md)
 
 ## rhetoric
 
@@ -460,6 +466,7 @@
 - [C2 Vocabulary 98 — Chemical process engineering and catalysis](rhetoric/98-chemical-process-engineering-and-catalysis.md)
 - [C2 Vocabulary 99 — Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md)
 - [C2 Vocabulary 142 — Passionate epizeuxis iteration, strategic diacopic repetition, and affective semantic amplification](rhetoric/142-epizeuxis-diacope-and-affective-lexical-iteration-in-dramatic-polemics.md)
+- [C2 Vocabulary 143 — Polyptoton, paregmenon, and inflectional root iteration in polemical prose](rhetoric/143-polyptoton-paregmenon-and-inflectional-root-iteration-in-polemical-prose.md)
 
 ## semiconductors
 
@@ -669,3 +676,4 @@
 - [C2 Vocabulary — Memory coherence and persistent storage](semiconductors/98-memory-coherence-and-persistent-storage.md)
 - [C2 Vocabulary — NVMe I/O control and recovery observability](semiconductors/99-nvme-io-control-and-recovery-observability.md)
 - [C2 Vocabulary 206 — Atomic layer etching (ALE), self-limiting surface modification reactions, and sub-nanometer directional removal](semiconductors/206-atomic-layer-etching-self-limiting-surface-reactions-and-monolayer-precision.md)
+- [C2 Vocabulary 207 — High-mobility 2D semiconductors, contact resistance reduction, and Fermi-level depinning](semiconductors/207-high-mobility-two-dimensional-semiconductors-contact-resistance-and-fermi-level-depinning.md)

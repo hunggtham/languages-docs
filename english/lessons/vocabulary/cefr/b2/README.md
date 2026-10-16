@@ -17,6 +17,7 @@
 - [B2 Vocabulary 13 — Curatorial ethics, artifact repatriation, and museum deaccessioning](art/13-curatorial-ethics-repatriation-and-decolonizing-museums.md)
 - [B2 Vocabulary 14 — Site-specific art installations, spatial interventions, and ephemeral public sculpture](art/14-site-specific-installations-spatial-intervention-and-ephemeral-public-art.md)
 - [B2 Vocabulary 15 — Socially engaged art, participatory community murals, and public creative placemaking](art/15-participatory-social-practice-art-and-community-murals.md)
+- [B2 Vocabulary 16 — Immersive digital scenography, projection mapping, and kinetic installations](art/16-immersive-digital-scenography-projection-mapping-and-kinetic-installations.md)
 
 ## business
 
@@ -35,6 +36,7 @@
 - [B2 Vocabulary 13 — Mergers and acquisitions, financial due diligence, and corporate restructuring](business/13-mergers-acquisitions-due-diligence-and-corporate-restructuring.md)
 - [B2 Vocabulary 14 — Commercial franchising models, royalty structures, and territorial licensing agreements](business/14-franchising-models-royalty-structures-and-territorial-licensing.md)
 - [B2 Vocabulary 15 — Supply chain end-to-end traceability, RFID inventory tracking, and circular reverse logistics](business/15-supply-chain-traceability-barcode-rfid-and-reverse-logistics.md)
+- [B2 Vocabulary 16 — Venture capital term sheets, liquidation preferences, and cap table dilution](business/16-venture-capital-term-sheets-liquidation-preferences-and-cap-table-dilution.md)
 
 ## communication
 
@@ -88,6 +90,7 @@
 - [B2 Vocabulary 14 — Circular economy, extended producer responsibility, and closed-loop manufacturing](economics/14-circular-economy-extended-producer-responsibility-and-waste-diversion.md)
 - [B2 Vocabulary 15 — Urban congestion pricing, cordon toll zones, and traffic demand redistribution](economics/15-congestion-pricing-cordon-tolls-and-urban-mobility-redistribution.md)
 - [B2 Vocabulary 16 — Universal basic income trials, labor force participation, and economic security safety nets](economics/16-universal-basic-income-pilot-evaluations-and-workforce-participation.md)
+- [B2 Vocabulary 17 — Carbon border adjustment mechanisms, emissions trading schemes, and decarbonization tariffs](economics/17-carbon-border-adjustment-mechanisms-and-emissions-trading-schemes.md)
 
 ## education
 
@@ -105,6 +108,7 @@
 - [B2 Vocabulary 10 — Hybrid pedagogy, digital learning platforms, and self-directed student agency](education/10-hybrid-pedagogy-learning-management-systems-and-student-agency.md)
 - [B2 Vocabulary 11 — Experiential pedagogy, community service-learning, and professional internships](education/11-experiential-learning-service-learning-and-community-internships.md)
 - [B2 Vocabulary 12 — Interdisciplinary curriculum integration, project-based learning, and authentic assessment rubrics](education/12-interdisciplinary-curriculum-design-project-based-learning-and-rubrics.md)
+- [B2 Vocabulary 13 — Adaptive learning analytics, gamified pedagogy, and formative assessment](education/13-adaptive-learning-analytics-gamified-pedagogy-and-formative-assessment.md)
 
 ## environment
 
@@ -130,6 +134,7 @@
 - [B2 Vocabulary 20 — Agroforestry, silvopasture, and regenerative soil carbon sequestration](environment/20-agroforestry-silvopasture-and-regenerative-soil-carbon.md)
 - [B2 Vocabulary 21 — Landscape rewilding, apex predator reintroduction, and trophic cascade restoration](environment/21-rewilding-apex-predators-trophic-cascades-and-ecological-corridors.md)
 - [B2 Vocabulary 22 — Urban heat island mitigation, high-albedo reflective surfaces, and green roof engineering](environment/22-urban-heat-islands-albedo-surfaces-and-green-roof-infrastructure.md)
+- [B2 Vocabulary 23 — Coastal mangrove afforestation, blue carbon sequestration, and storm surge resilience](environment/23-coastal-mangrove-afforestation-blue-carbon-and-storm-surge-resilience.md)
 
 ## finance
 
@@ -150,6 +155,7 @@
 - [B2 Vocabulary 15 — Microfinance lending, financial inclusion, and peer-to-peer credit platforms](finance/15-microfinance-fintech-inclusion-and-peer-to-peer-lending.md)
 - [B2 Vocabulary 16 — Venture debt financing, equity warrant coverage, and startup runway extension](finance/16-venture-debt-warrant-coverage-and-runway-extension-strategies.md)
 - [B2 Vocabulary 17 — Sovereign wealth fund governance, foreign exchange reserves, and intergenerational resource endowments](finance/17-sovereign-wealth-funds-foreign-reserves-and-intergenerational-wealth.md)
+- [B2 Vocabulary 18 — Green bonds, sustainability-linked loans, and ESG debt covenants](finance/18-green-bonds-sustainability-linked-loans-and-esg-debt-covenants.md)
 
 ## health
 
@@ -168,6 +174,7 @@
 - [B2 Vocabulary 13 — Sleep architecture, circadian biology, and metabolic health restoration](health/13-sleep-architecture-circadian-rhythms-and-metabolic-health.md)
 - [B2 Vocabulary 14 — Occupational ergonomics, repetitive strain injuries, and workstation biomechanics](health/14-occupational-ergonomics-repetitive-strain-injury-and-workstation-biomechanics.md)
 - [B2 Vocabulary 15 — Telemedicine delivery models, remote patient monitoring devices, and digital clinical triage](health/15-telemedicine-remote-patient-monitoring-and-digital-triage.md)
+- [B2 Vocabulary 16 — Regenerative stem cell therapies, autologous transplantation, and tissue engineering scaffolds](health/16-regenerative-stem-cell-therapies-and-tissue-engineering-scaffolds.md)
 
 ## history
 
@@ -196,6 +203,7 @@
 - [B2 Vocabulary 13 — Maritime admiralty law, general average, and salvage arbitration](law/13-maritime-admiralty-law-and-salvage-arbitration.md)
 - [B2 Vocabulary 14 — Intellectual property licensing, fair use doctrine, and patent infringement litigation](law/14-intellectual-property-licensing-fair-use-and-patent-litigation.md)
 - [B2 Vocabulary 15 — Intellectual property doctrine, fair use defense standards, and trademark dilution protection](law/15-intellectual-property-fair-use-copyright-and-trademark-dilution.md)
+- [B2 Vocabulary 16 — Data privacy regulations, cross-border data transfers, and algorithmic transparency](law/16-data-privacy-regulations-cross-border-transfers-and-algorithmic-transparency.md)
 
 ## media
 
