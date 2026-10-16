@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,880 new targets across 192 independent topic batches; 7,880 structured headings toward the 10,000 target, leaving 2,120 after this checkpoint.
+- Progress in this checkpoint: 2,970 new targets across 198 independent topic batches; 7,970 structured headings toward the 10,000 target, leaving 2,030 after this checkpoint.
+
+- Topic: `advanced-spin-qubits-and-silicon-quantum-dots`
+- File: `01-spin-qubits-and-silicon-quantum-dots.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spin qubits and silicon quantum dots headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean spin qubits passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bacterial-cellulose-and-biomedical-implants`
+- File: `01-bacterial-cellulose-and-biomedical-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bacterial cellulose and biomedical implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean bacterial cellulose passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flexible-perovskite-photovoltaics-and-wearables`
+- File: `01-flexible-perovskite-photovoltaics-and-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible perovskite photovoltaics and wearables headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean flexible perovskite passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-micro-solid-oxide-fuel-cells-and-portable-power`
+- File: `01-micro-solid-oxide-fuel-cells-and-portable-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot micro-SOFC and portable power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean micro-SOFC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-matter-and-claytronics`
+- File: `01-programmable-matter-and-claytronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable matter and claytronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean programmable matter passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-chiral-metamaterials-and-circular-dichroism-sensing`
+- File: `01-chiral-metamaterials-and-circular-dichroism-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral metamaterials and circular dichroism headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean chiral metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-diamond-semiconductors-and-high-power-electronics`
 - File: `01-diamond-semiconductors-and-high-power-electronics.md`
