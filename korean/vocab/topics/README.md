@@ -308,6 +308,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [초표면 홀로그래피와 라이트필드 디스플레이의 언어](./advanced-metasurface-holography-and-light-field-displays/README.md) — `서브파장 위상변조 유전체 나노기둥 기반 원편광 다중화 무안경 초고해상도 라이트필드 홀로그래픽 디스플레이 기술`
 - [집속 초음파 표적 미세기포와 약물 전달의 언어](./advanced-ultrasound-targeted-microbubble-drug-delivery/README.md) — `집속 초음파 음향 공진 및 지질 나노기포 공동현상 기반 혈뇌장벽 가역적 개방 정밀 표적 약물 전달 기술`
 - [위상 레이저와 폴라리톤 응축의 언어](./advanced-topological-laser-and-polariton-condensates/README.md) — `엑시톤-폴라리톤 응축 및 카이랄 에지 모드 기반 결함 내성 단일모드 발진 상온 초유체 빛 위상 레이저 집적회로 기술`
+- [뉴로모픽 동적 시각 센서와 이벤트 카메라의 언어](./advanced-neuromorphic-visual-sensors-and-event-cameras/README.md) — `비동기 픽셀 및 마이크로초 시간분해능 기반 모션블러 차단 뉴로모픽 동적 시각 센서 및 온디바이스 엣지 비전 기술`
+- [전고체 이차전지와 고체 전해질의 언어](./advanced-solid-state-electrolytes-and-all-solid-state-batteries/README.md) — `황화물 및 산화물계 고체 전해질막 기반 금속 리튬 수지상 관통 차단 및 온간정수압성형 불연성 전고체 전지 기술`
+- [양자 카스케이드 레이저와 중적외선 가스 분광학의 언어](./advanced-quantum-cascade-laser-and-gas-spectroscopy/README.md) — `중적외선 서브밴드 천이 및 공진기 흡수소멸 분광 기반 온실가스·독성가스 초고감도 실시간 원격 계측 기술`
+- [재구성 가능 지능형 표면과 차세대 전파 통신의 언어](./advanced-programmable-metasurface-reconfigurable-intelligent-surfaces/README.md) — `PIN 다이오드 위상가변 셀 및 능동 빔형성 기반 6G 스마트 무선 환경 구축 및 전파 음영지역 해소 초표면 기술`
+- [나노 광유체학과 단분자 광집게의 언어](./advanced-nano-optofluidics-and-single-molecule-trapping/README.md) — `광자결정 나노광집게 및 나노포어 센싱 기반 무표지 단일 생체분자 포집 및 랩온어칩 초정밀 유전체 분석 기술`
+- [극저온 스핀트로닉스와 양자 제어의 언어](./advanced-cryogenic-spintronics-and-superconducting-qubit-control/README.md) — `조셉슨 접합 및 스핀밸브 자기저항 기반 밀리켈빈 초전도 큐비트 마이크로파 제어 및 극저온 비휘발성 메모리 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

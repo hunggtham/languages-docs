@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,780 new targets across 252 independent topic batches; 8,780 structured headings toward the 10,000 target, leaving 1,220 after this checkpoint.
+- Progress in this checkpoint: 3,870 new targets across 258 independent topic batches; 8,870 structured headings toward the 10,000 target, leaving 1,130 after this checkpoint.
+
+- Topic: `advanced-neuromorphic-visual-sensors-and-event-cameras`
+- File: `01-neuromorphic-visual-sensors-and-event-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic visual sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-solid-state-electrolytes-and-all-solid-state-batteries`
+- File: `01-solid-state-electrolytes-and-all-solid-state-batteries.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid state electrolytes and batteries headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-cascade-laser-and-gas-spectroscopy`
+- File: `01-quantum-cascade-laser-and-gas-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade laser and gas spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-programmable-metasurface-reconfigurable-intelligent-surfaces`
+- File: `01-programmable-metasurface-reconfigurable-intelligent-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot reconfigurable intelligent surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-nano-optofluidics-and-single-molecule-trapping`
+- File: `01-nano-optofluidics-and-single-molecule-trapping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nano-optofluidics and single-molecule trapping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-cryogenic-spintronics-and-superconducting-qubit-control`
+- File: `01-cryogenic-spintronics-and-superconducting-qubit-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cryogenic spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-radiative-sky-cooling-and-thermal-metamaterials`
 - File: `01-radiative-sky-cooling-and-thermal-metamaterials.md`
