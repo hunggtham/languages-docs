@@ -739,7 +739,7 @@
 - [B2 Vocabulary 10 — Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md)
 
 
-## Lessons (367 lessons, 8334 items)
+## Lessons (375 lessons, 8534 items)
 
 ### Art ()
 
@@ -920,6 +920,7 @@
 - [Green bonds, sustainability-linked loans, and ESG debt covenants](finance/18-green-bonds-sustainability-linked-loans-and-esg-debt-covenants.md) — 25 items
 - [Cross-border remittances, decentralized foreign exchange, stablecoin settlements, and AML protocols](finance/19-cross-border-remittances-stablecoin-settlements-and-aml-protocols.md) — 25 items
 - [Sovereign green bonds, sustainability-linked corporate loans, and ESG disclosure standards](finance/20-green-bonds-sustainability-linked-loans-and-esg-reporting.md) — 25 items
+- [Decentralized finance (DeFi), automated market makers, and liquidity pool staking](finance/21-decentralized-finance-liquidity-pools-and-smart-contract-yield.md) — 25 items
 
 ### Health ()
 
@@ -941,6 +942,7 @@
 - [Regenerative stem cell therapies, autologous transplantation, and tissue engineering scaffolds](health/16-regenerative-stem-cell-therapies-and-tissue-engineering-scaffolds.md) — 25 items
 - [Microbiome therapeutics, fecal microbiota transplants, gut-brain axis, and dysbiosis treatment](health/17-microbiome-therapeutics-fecal-transplantation-and-gut-brain-axis.md) — 25 items
 - [Telehealth expansion, remote patient monitoring devices, and prescription digital therapeutics](health/18-telehealth-remote-patient-monitoring-and-digital-therapeutics.md) — 25 items
+- [Telemedicine consultations, remote biometric monitoring, and algorithmic patient triage](health/19-telemedicine-remote-patient-monitoring-and-digital-triage.md) — 25 items
 
 ### History ()
 
@@ -975,6 +977,7 @@
 - [Data privacy regulations, cross-border data transfers, and algorithmic transparency](law/16-data-privacy-regulations-cross-border-transfers-and-algorithmic-transparency.md) — 25 items
 - [Space law, Outer Space Treaty non-appropriation, orbital debris mitigation, and asteroid mining rights](law/17-space-law-outer-space-treaty-and-orbital-debris-mitigation.md) — 25 items
 - [Mandatory arbitration clauses, class-action waivers, and adhesive consumer contracts](law/18-arbitration-clauses-class-action-waivers-and-consumer-contracts.md) — 25 items
+- [Intellectual property litigation, non-practicing patent assertion entities, and the fair use doctrine](law/19-intellectual-property-patent-trolls-and-fair-use-doctrine.md) — 25 items
 
 ### Media ()
 
@@ -993,6 +996,7 @@
 - [Media monopolies, antitrust regulation, and algorithmic feed curation](media/13-media-monopolies-antitrust-regulation-and-algorithmic-feed-curation.md) — 25 items
 - [Algorithmic feed curation, deepfake forensics, and cryptographic digital provenance](media/14-algorithmic-curation-deepfakes-and-digital-provenance.md) — 25 items
 - [Programmatic digital advertising, real-time bidding, and commercial surveillance ecosystems](media/15-digital-advertising-real-time-bidding-and-surveillance-capitalism.md) — 25 items
+- [Synthetic media creation, generative AI deepfakes, and cryptographic provenance watermarking](media/16-deepfakes-synthetic-media-detection-and-watermarking.md) — 25 items
 
 ### Politics ()
 
@@ -1009,6 +1013,7 @@
 - [Geopolitical sanctions, trade embargoes, and sovereign immunity](politics/11-geopolitical-sanctions-trade-embargoes-and-sovereign-immunity.md) — 25 items
 - [Partisan gerrymandering, legislative redistricting, and voting rights enforcement](politics/12-gerrymandering-electoral-boundaries-and-voting-rights.md) — 25 items
 - [Parliamentary coalition dynamics, votes of no confidence, and legislative dissolution](politics/13-parliamentary-coalition-building-confidence-votes-and-dissolution.md) — 25 items
+- [Ranked-choice electoral voting, partisan gerrymandering, and direct citizen ballot initiatives](politics/14-ranked-choice-voting-electoral-gerrymandering-and-ballot-initiatives.md) — 25 items
 
 ### Psychology ()
 
@@ -1025,6 +1030,7 @@
 - [Neuroplasticity, cognitive reserve, and mnemonic training](psychology/11-neuroplasticity-cognitive-reserve-and-mnemonic-training.md) — 25 items
 - [Neuroplasticity mechanisms, cognitive reappraisal strategies, and physiological stress resilience](psychology/12-neuroplasticity-cognitive-reappraisal-and-stress-resilience.md) — 25 items
 - [Social identity theory, in-group favoritism, out-group derogation, and intergroup bias](psychology/13-social-identity-theory-in-group-favoritism-and-intergroup-bias.md) — 25 items
+- [Neuroplasticity mechanisms, basal ganglia habit formation loops, and lifelong cognitive reserve](psychology/14-neuroplasticity-habit-formation-and-cognitive-reserve.md) — 25 items
 
 ### Research ()
 
@@ -1043,6 +1049,7 @@
 - [Meta-analysis, publication bias, and systematic review synthesis](research/12-meta-analysis-publication-bias-and-systematic-reviews.md) — 25 items
 - [Study preregistration, open-science protocols, and scientific reproducibility crisis remedies](research/13-preregistration-open-science-and-reproducibility-crises.md) — 25 items
 - [Longitudinal cohort studies, participant attrition bias, and panel data retention strategies](research/14-longitudinal-cohort-studies-attrition-bias-and-panel-retention.md) — 25 items
+- [Systematic literature reviews, PRISMA guidelines, and quantitative meta-analytic pooling](research/15-systematic-literature-reviews-prisma-protocols-and-meta-analysis.md) — 25 items
 
 ### Risk ()
 
@@ -1167,3 +1174,4 @@
 - [Hybrid workforce coordination, asynchronous collaboration culture, and remote talent retention](work/10-hybrid-workforce-coordination-asynchronous-culture-and-retention.md) — 25 items
 - [Modern talent acquisition, voluntary turnover analytics, and strategic employer branding](work/11-talent-acquisition-retention-metrics-and-employer-branding.md) — 25 items
 - [Workplace burnout prevention, cognitive workload governance, and institutional wellbeing policies](work/12-employee-burnout-prevention-workload-governance-and-wellbeing.md) — 25 items
+- [Gig economy platform labor, algorithmic management dispatch, and worker reclassification](work/13-gig-economy-algorithmic-management-and-platform-labor.md) — 25 items

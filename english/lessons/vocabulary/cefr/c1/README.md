@@ -1070,7 +1070,7 @@
 - [C1 Vocabulary 02 — Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md)
 
 
-## Lessons (422 lessons, 8695 items)
+## Lessons (430 lessons, 8895 items)
 
 ### Agriculture ()
 
@@ -1245,41 +1245,49 @@
 
 - [Constitutional structure and review](constitutional-law/01-constitutional-structure-and-review.md) — 15 items
 - [Constitutional judicial review, proportionality doctrine, and rights balancing](constitutional-law/02-judicial-review-proportionality-and-rights-balancing.md) — 25 items
+- [Substantive due process, unenumerated fundamental rights, and strict scrutiny judicial review](constitutional-law/03-substantive-due-process-fundamental-rights-and-strict-scrutiny.md) — 25 items
 
 ### Corporate Governance ()
 
 - [Boards, ownership, and accountability](corporate-governance/01-boards-ownership-and-accountability.md) — 15 items
 - [Institutional stewardship codes, proxy advisory influence, and activist shareholder campaigns](corporate-governance/02-stewardship-codes-proxy-voting-advisories-and-shareholder-activism.md) — 25 items
+- [Activist shareholder campaigns, classified staggered boards, and contested proxy fights](corporate-governance/03-shareholder-activism-staggered-boards-and-proxy-fights.md) — 25 items
 
 ### Criminal Justice ()
 
 - [Crime, evidence, and sentencing](criminal-justice/01-crime-evidence-and-sentencing.md) — 15 items
 - [Restorative justice conferencing, victim-offender reconciliation, and recidivism mitigation](criminal-justice/02-restorative-justice-conferencing-recidivism-reduction-and-victim-reparation.md) — 25 items
+- [Restorative justice principles, community sentencing circles, and victim-offender reconciliation](criminal-justice/03-restorative-justice-sentencing-circles-and-victim-offender-mediation.md) — 25 items
 
 ### Cryptography ()
 
 - [Cryptography and secure communication](cryptography/01-cryptography-and-secure-communication.md) — 15 items
 - [Zero-knowledge proofs, post-quantum cryptography, and homomorphic encryption](cryptography/02-zero-knowledge-proofs-and-homomorphic-encryption.md) — 25 items
+- [Non-interactive zero-knowledge proofs, Pedersen commitments, and succinct cryptographic verification](cryptography/03-zero-knowledge-succinct-proofs-pedersen-commitments-and-zk-snarks.md) — 25 items
 
 ### Culture ()
 
 - [Cultural criticism and representation](culture/01-cultural-criticism-and-representation.md) — 15 items
 - [Post-structuralist semiotics, cultural hegemony, and subcultural appropriation](culture/02-post-structuralist-semiotics-and-cultural-hegemony.md) — 25 items
+- [Cultural appropriation debates, postcolonial hybridity, and indigenous heritage ownership](culture/03-cultural-appropriation-vs-appreciation-hybridity-and-heritage-ownership.md) — 25 items
 
 ### Cybersecurity ()
 
 - [Threats, defense, and testing](cybersecurity/01-threats-defense-and-testing.md) — 15 items
 - [Zero trust architecture, continuous attestation, and identity federation](cybersecurity/02-zero-trust-architecture-and-identity-federation.md) — 25 items
+- [Zero-trust enterprise architecture, network micro-segmentation, and proactive threat hunting](cybersecurity/03-zero-trust-architecture-micro-segmentation-and-threat-hunting.md) — 25 items
 
 ### Data Governance ()
 
 - [Stewardship, privacy, and accountability](data-governance/01-stewardship-privacy-and-accountability.md) — 15 items
 - [Data sovereignty, cross-border flows, and jurisdictional privacy regimes](data-governance/02-data-sovereignty-cross-border-flows-and-privacy-regimes.md) — 25 items
+- [Enterprise data lineage, automated metadata cataloging, and statutory GDPR compliance](data-governance/03-data-lineage-cataloging-metadata-and-gdpr-compliance.md) — 25 items
 
 ### Data Science ()
 
 - [Data science and model validation](data-science/01-data-science-and-model-validation.md) — 15 items
 - [Algorithmic fairness, explainable machine learning, and concept drift](data-science/02-algorithmic-fairness-explainable-ai-and-feature-drift.md) — 25 items
+- [Automated feature engineering, statistical outlier detection, and SHAP model explainability](data-science/03-feature-engineering-outlier-detection-and-model-explainability.md) — 25 items
 
 ### Database Systems ()
 

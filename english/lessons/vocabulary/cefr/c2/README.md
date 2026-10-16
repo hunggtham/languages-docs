@@ -1379,7 +1379,7 @@
 - [C2 Vocabulary 208 — Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md)
 
 
-## Lessons (708 lessons, 14842 items)
+## Lessons (716 lessons, 15042 items)
 
 ### Argument ()
 
@@ -1401,6 +1401,7 @@
 - [Kantian transcendental arguments, conditions of possibility, and anti-skeptical retortion](argument/16-transcendental-arguments-conditions-of-possibility-and-skeptical-refutation.md) — 25 items
 - [Dialectical ad hominem variants, tu quoque hypocrisy retorts, and circumstantial disqualification](argument/17-ad-hominem-tu-quoque-and-circumstantial-disqualification.md) — 25 items
 - [Causal slippery slope fallacies, continuum sorites paradoxes, and precautionary deliberation](argument/18-slippery-slope-fallacy-causal-sorites-and-precautionary-deliberation.md) — 25 items
+- [Petitio principii, vicious circular reasoning, and epistemic circularity in philosophical debates](argument/19-begging-the-question-circular-reasoning-and-epistemic-circularity.md) — 25 items
 
 ### Biomedicine ()
 
@@ -1498,6 +1499,8 @@
 - [Matrix-assisted laser desorption ionization (MALDI) imaging spatial lipidomics, and lipid raft microdomains](biomedicine/92-spatial-lipidomics-maldi-imaging-and-membrane-bilayer-heterogeneity.md) — 25 items
 - [Single-cell RNA sequencing (scRNA-seq), high-dimensional manifold clustering, and RNA velocity vectors](biomedicine/93-single-cell-transcriptomics-cell-type-clustering-and-rna-velocity.md) — 25 items
 - [Cryo-electron microscopy (cryo-EM), single-particle 3D reconstruction, and conformational heterogeneity](biomedicine/94-cryo-electron-microscopy-single-particle-reconstruction-and-conformational-heterogeneity.md) — 25 items
+- [In situ sequencing spatial transcriptomics, optical cellular barcoding, and tissue histology integration](biomedicine/95-spatial-transcriptomics-in-situ-sequencing-and-cellular-barcoding.md) — 25 items
+- [Catalytically dead Cas9 (dCas9) epigenome editing, targeted DNA methylation, and synthetic chromatin rewiring](biomedicine/96-epigenome-editing-dead-cas9-effectors-and-chromatin-rewiring.md) — 25 items
 
 ### Computing ()
 
@@ -1639,6 +1642,8 @@
 - [Type-level metaprogramming, Martin-Löf dependent types, and Curry-Howard propositional logic](computing/214-type-level-metaprogramming-dependent-types-and-curry-howard-correspondence.md) — 25 items
 - [Fully homomorphic encryption (FHE), bootstrapping noise refreshes, and lattice-based learning with errors](computing/215-homomorphic-encryption-bootstrapping-and-lattice-based-cryptography.md) — 25 items
 - [Probabilistic programming languages (PPL), Hamiltonian Monte Carlo (HMC), and differentiable inference](computing/216-probabilistic-programming-mcmc-sampling-and-differentiable-inference.md) — 25 items
+- [Distributed consensus protocols, Raft leader election, Paxos synod, and Byzantine fault tolerance (BFT)](computing/217-consensus-protocols-raft-paxos-and-byzantine-fault-tolerance.md) — 25 items
+- [Lock-free memory reclamation, hazard pointers, and epoch-based synchronization](computing/218-memory-reclamation-hazard-pointers-and-epoch-based-synchronization.md) — 25 items
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md) — 20 items
 - [C2 Vocabulary — Distributed ML training and inference](computing/23-distributed-ml-training-and-inference.md) — 20 items
 - [C2 Vocabulary — Privacy-preserving federated learning](computing/24-privacy-preserving-federated-learning.md) — 20 items
@@ -1738,6 +1743,7 @@
 - [Administrative regulatory capture, the revolving door phenomenon, and epistemic arbitrage in rulemaking](governance/16-regulatory-capture-revolving-door-and-epistemic-arbitrage.md) — 25 items
 - [Executive emergency decrees, Schmittian states of exception, and hyper-presidential constitutionalism](governance/17-emergency-decrees-state-of-exception-and-constitutional-hyper-presidentialism.md) — 25 items
 - [Technocratic governance, epistemic democratic legitimacy, and agency regulatory capture](governance/18-technocratic-governance-epistemic-democracy-and-regulatory-capture.md) — 25 items
+- [Fiscal federalism, equalization transfers, flypaper effects, and the subsidiarity principle](governance/19-fiscal-federalism-intergovernmental-transfers-and-subsidiarity.md) — 25 items
 
 ### Rhetoric ()
 
@@ -1806,6 +1812,7 @@
 - [Chiasmus, antimetabole, inverted parallel syntax, and reversible aphoristic balance](rhetoric/148-chiasmus-antimetabole-and-criss-cross-reversal.md) — 25 items
 - [Catachresis, strained metaphoric abuse, and radical semantic extension](rhetoric/149-catachresis-radical-metaphor-and-semantic-strain.md) — 25 items
 - [Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md) — 20 items
+- [Polyptoton, etymological paronomasia, and morphological root derivation](rhetoric/150-polyptoton-etymological-wordplay-and-morphological-derivation.md) — 25 items
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md) — 20 items
 - [Measurement, evidence, and analytical granularity](rhetoric/17-measurement-evidence-and-analytical-granularity.md) — 20 items
 - [C2 Vocabulary — Epistemology and scientific models](rhetoric/18-epistemology-and-scientific-models.md) — 20 items
@@ -2028,6 +2035,7 @@
 - [Beta-gallium oxide (β-Ga2O3) semiconductors, ultra-wide bandgap physics, and kilovolt-class power switches](semiconductors/211-gallium-oxide-ultra-wide-bandgap-and-kilovolt-power-switches.md) — 25 items
 - [Spin-transfer torque MRAM (STT-MRAM), magnetic tunnel junctions (MTJ), and perpendicular magnetic anisotropy](semiconductors/212-spin-transfer-torque-mram-magnetic-tunnel-junctions-and-perpendicular-anisotropy.md) — 25 items
 - [Silicon photonics, co-packaged optics (CPO), and sub-picojoule optical transceiver interconnects](semiconductors/213-silicon-photonics-optical-interconnects-and-co-packaged-optics.md) — 25 items
+- [Carbon nanotube field-effect transistors (CNFETs), chirality purification, and sub-10nm GAA ballistic transport](semiconductors/214-carbon-nanotube-fets-sub-10nm-gate-all-around-and-chirality-control.md) — 25 items
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md) — 20 items
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md) — 20 items
 - [C2 Vocabulary — Gate-oxide reliability and bias-temperature instability](semiconductors/24-gate-oxide-reliability-and-bias-temperature-instability.md) — 20 items

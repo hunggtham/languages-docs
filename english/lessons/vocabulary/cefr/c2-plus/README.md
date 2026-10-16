@@ -658,7 +658,7 @@
 
 
 
-## Lessons (278 lessons, 6647 items)
+## Lessons (286 lessons, 6847 items)
 
 ### Agroecology ()
 
@@ -1021,48 +1021,56 @@
 - [C2+ Vocabulary — Planetary geomorphology and remote sensing](planetary-geology/01-planetary-geomorphology-and-remote-sensing.md) — 20 items
 - [Cryovolcanic eruptive mechanics, icy satellite subsurface ocean convection, and solid-state ice shell diapirism](planetary-geology/02-cryovolcanism-subsurface-ocean-convection-and-ice-shell-diapirism.md) — 25 items
 - [Impact cratering mechanics, acoustic fluidization, and central peak shock metamorphism](planetary-geology/03-impact-cratering-mechanics-acoustic-fluidization-and-central-peak-shock-metamorphism.md) — 25 items
+- [Martian perchlorate deliquescence, recurring slope lineae (RSL), and outer solar system cryovolcanism](planetary-geology/04-martian-perchlorate-brines-recurrent-slope-lineae-and-cryovolcanism.md) — 25 items
 
 ### Plant Physiology ()
 
 - [C2+ Vocabulary — Advanced plant physiology and signaling](plant-physiology/01-advanced-plant-physiology-and-signaling.md) — 20 items
 - [Stomatal guard cell electrophysiology, abscisic acid signaling cascades, and xylem acoustic cavitation vulnerability](plant-physiology/02-stomatal-guard-cell-electrophysiology-abscisic-acid-signaling-and-xylem-cavitation.md) — 25 items
 - [Phloem translocation, Münch pressure-flow hypothesis, and sucrose-proton symporter loading](plant-physiology/03-phloem-translocation-munch-counterflow-and-sucrose-proton-symporter-loading.md) — 25 items
+- [Crassulacean acid metabolism (CAM), nocturnal PEP carboxylation, and daytime stomatal closure](plant-physiology/04-crassulacean-acid-metabolism-cam-nocturnal-carboxylation-and-stomatal-closure.md) — 25 items
 
 ### Quantum Materials ()
 
 - [C2+ Vocabulary — Quantum condensed matter and materials](quantum-materials/01-quantum-condensed-matter-and-materials.md) — 20 items
 - [Topological insulator surface states, linear Dirac cone dispersion, and helical spin-momentum locking](quantum-materials/02-topological-insulators-dirac-cone-dispersion-and-spin-momentum-locking.md) — 25 items
 - [Quantum spin liquids, Majorana fermion fractionalization, and kagome lattice frustration](quantum-materials/03-quantum-spin-liquids-majorana-fermions-and-kagome-lattice-frustration.md) — 25 items
+- [Majorana zero modes, topological p-wave superconductivity, and non-Abelian braiding statistics](quantum-materials/04-majorana-zero-modes-topological-superconductivity-and-non-abelian-braiding.md) — 25 items
 
 ### Remote Sensing ()
 
 - [C2+ Vocabulary — Advanced remote sensing and geospatial analysis](remote-sensing/01-advanced-remote-sensing-and-geospatial-analysis.md) — 20 items
 - [C2+ Vocabulary — Optical, hyperspectral, and canopy analysis](remote-sensing/02-optical-hyperspectral-and-canopy-analysis.md) — 20 items
 - [Spaceborne InSAR interferometry, phase unwrapping algorithms, and millimeter surface displacement tracking](remote-sensing/03-synthetic-aperture-radar-interferometry-and-surface-deformation.md) — 25 items
+- [Synthetic aperture radar interferometry (InSAR), persistent scatterer phase unwrapping, and millimeter crustal deformation](remote-sensing/04-synthetic-aperture-radar-interferometry-insar-and-surface-deformation.md) — 25 items
 
 ### Soil Science ()
 
 - [C2+ Vocabulary — Pedogenesis and soil function](soil-science/01-pedogenesis-and-soil-function.md) — 20 items
 - [Pedogenic horizon differentiation, argillic illuviation cutans, and soil cation exchange capacity](soil-science/02-pedogenesis-illuviation-horizons-and-cation-exchange-capacity.md) — 25 items
 - [Soil humic supramolecular conformation, organo-mineral associations, and pedoturbation dynamics](soil-science/03-soil-humic-supramolecular-conformation-and-organo-mineral-interactions.md) — 25 items
+- [Boreal podzolization, organic acid chelation, and illuvial sesquioxide illuviation](soil-science/04-podzolization-illuvial-sesquioxides-and-humic-translocation.md) — 25 items
 
 ### Spirits ()
 
 - [C2+ Vocabulary — Distilling and spirit maturation](spirits/01-distilling-and-spirit-maturation.md) — 20 items
 - [Pot still copper reflux kinetics, foreshots-to-feints congener fractionation, and barrel oak lactone extraction](spirits/02-congener-fractionation-copper-reflux-pot-stills-and-cask-maturation-lactones.md) — 25 items
 - [Peated single malt distillation, phenolic extraction kinetics, and dunnage warehouse aging](spirits/03-peated-single-malt-distillation-phenolic-extraction-and-dunnage-aging.md) — 25 items
+- [Single malt whisky congeners, copper pot still reflux, and oak cask lactone maturation](spirits/04-whisky-congeners-copper-pot-distillation-and-cask-lactone-extraction.md) — 25 items
 
 ### Stagecraft ()
 
 - [C2+ Vocabulary — Theater stagecraft and costume language](stagecraft/01-theater-stagecraft-and-costume-language.md) — 20 items
 - [Theatrical counterweight rigging, catenary cable tension dynamics, and automated winch arbor kinematics](stagecraft/02-counterweight-rigging-catenary-cable-tension-and-theatrical-drapery-mechanics.md) — 25 items
 - [Theatrical automation axis synchronization, show control networks, and hydraulic scenic machinery](stagecraft/03-theatrical-automation-axis-synchronization-and-hydraulic-scenic-machinery.md) — 25 items
+- [Theatrical motorized fly rigging, computerized scenic automation, and revolving stage turntables](stagecraft/04-automated-counterweight-fly-rigging-revolving-stages-and-scenic-automation.md) — 25 items
 
 ### Statistical Learning ()
 
 - [C2+ Vocabulary — Statistical learning theory and generalization](statistical-learning/01-statistical-learning-theory-and-generalization.md) — 20 items
 - [Reproducing kernel Hilbert spaces (RKHS), Mercer kernel spectral decomposition, and Tikhonov function regularization](statistical-learning/02-reproducing-kernel-hilbert-spaces-mercer-kernels-and-tikhonov-regularization.md) — 25 items
 - [Non-parametric Bayesian Dirichlet processes, stick-breaking construction, and Chinese restaurant clustering](statistical-learning/03-non-parametric-bayesian-dirichlet-processes-and-hierarchical-clustering.md) — 25 items
+- [Split conformal prediction, distribution-free coverage guarantees, and non-conformity scores](statistical-learning/04-conformal-prediction-distribution-free-uncertainty-and-coverage-guarantees.md) — 25 items
 
 ### Tea ()
 
