@@ -152,6 +152,7 @@
 - [C2+ Vocabulary — Coffee processing and sensory analysis](coffee/01-coffee-processing-and-sensory-analysis.md)
 - [C2+ Vocabulary 02 — Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md)
 - [C2+ Vocabulary 03 — Specialty coffee organic acid speciation, quinic-to-malic chromatographic ratios, and refractometric extraction yields](coffee/03-specialty-coffee-organic-acid-profiles-quinic-malic-ratios-and-refractometric-tds.md)
+- [C2+ Vocabulary 04 — Anaerobic coffee fermentation maceration, targeted yeast inoculation, and volatile ester synthesis](coffee/04-anaerobic-maceration-yeast-inoculation-and-esters-synthesis.md)
 
 - [C2+ Vocabulary — Coffee processing and sensory analysis](coffee/01-coffee-processing-and-sensory-analysis.md)
 - [C2+ Vocabulary 02 — Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md)
@@ -161,6 +162,7 @@
 - [C2+ Vocabulary — Restoration and population dynamics](ecological-restoration/01-restoration-and-population-dynamics.md)
 - [C2+ Vocabulary 02 — Trophic rewilding, apex carnivore reintroduction, and landscape-scale ecological cascades](ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md)
 - [C2+ Vocabulary 03 — Serpentine soil edaphic endemism, nickel hyperaccumulation kinetics, and phytomining agro-restoration](ecological-restoration/03-serpentine-soil-edaphic-endemism-and-hyperaccumulator-phytomining.md)
+- [C2+ Vocabulary 04 — Arbuscular mycorrhizal fungal networks, spore inoculation, and post-mining tailing revegetation](ecological-restoration/04-mycorrhizal-fungal-networks-spore-inoculation-and-post-mining-revegetation.md)
 
 - [C2+ Vocabulary — Restoration and population dynamics](ecological-restoration/01-restoration-and-population-dynamics.md)
 - [C2+ Vocabulary 02 — Trophic rewilding, apex carnivore reintroduction, and landscape-scale ecological cascades](ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md)
@@ -171,6 +173,7 @@
 - [C2+ Vocabulary — Environmental fate, transport, and monitoring](ecotoxicology/02-environmental-fate-transport-and-monitoring.md)
 - [C2+ Vocabulary 03 — Per- and polyfluoroalkyl substances (PFAS), bioaccumulation kinetics, and trophic biomagnification](ecotoxicology/03-per-and-polyfluoroalkyl-substances-bioaccumulation-kinetics.md)
 - [C2+ Vocabulary 04 — Perfluoroalkyl surfactant bioaccumulation, serum albumin binding kinetics, and trophic biomagnification](ecotoxicology/04-pfas-perfluorinated-surfactant-bioaccumulation-and-protein-binding-kinetics.md)
+- [C2+ Vocabulary 05 — Tire wear particle leachates, 6PPD-quinone acute toxicity, and stormwater ecotoxicology](ecotoxicology/05-microplastic-leachates-tire-wear-particles-and-6ppd-quinone-toxicity.md)
 
 - [C2+ Vocabulary — Environmental toxicology and risk assessment](ecotoxicology/01-environmental-toxicology-and-risk-assessment.md)
 - [C2+ Vocabulary — Environmental fate, transport, and monitoring](ecotoxicology/02-environmental-fate-transport-and-monitoring.md)
@@ -182,6 +185,7 @@
 - [C2+ Vocabulary — Storage, flexibility, and demand forecasting](energy-systems/02-storage-flexibility-and-demand-forecasting.md)
 - [C2+ Vocabulary 03 — Synchronous condensers, virtual inertia, and grid-forming inverter stability](energy-systems/03-synchronous-condensers-and-grid-forming-inverter-stability.md)
 - [C2+ Vocabulary 04 — Concentrated solar power receivers, nitrate molten salt thermocline storage, and supercritical CO2 Brayton cycles](energy-systems/04-concentrated-solar-power-molten-salt-thermal-storage-and-supercritical-co2-brayton-cycles.md)
+- [C2+ Vocabulary 05 — Organic Rankine cycles (ORC), low-enthalpy geothermal binary power, and supercritical deep reservoirs](energy-systems/05-geothermal-binary-cycles-organic-rankine-and-supercritical-enhanced-reservoirs.md)
 
 - [C2+ Vocabulary — Power-grid operations and energy storage](energy-systems/01-power-grid-operations-and-energy-storage.md)
 - [C2+ Vocabulary — Storage, flexibility, and demand forecasting](energy-systems/02-storage-flexibility-and-demand-forecasting.md)
@@ -192,6 +196,7 @@
 - [C2+ Vocabulary — Insect anatomy and development](entomology/01-insect-anatomy-and-development.md)
 - [C2+ Vocabulary 02 — Eusocial caste polyphenism, epigenetic differentiation, and trail pheromone volatilization](entomology/02-eusocial-caste-polyphenism-and-chemical-trail-pheromones.md)
 - [C2+ Vocabulary 03 — Eusocial caste polyphenism, juvenile hormone endocrine titers, and mandibular morphometric allometry](entomology/03-eusocial-caste-polyphenism-juvenile-hormone-titers-and-epigenetic-mandibular-allometry.md)
+- [C2+ Vocabulary 04 — Insect cuticular hydrocarbon profiles, chemical mimicry, and social insect nestmate recognition](entomology/04-insect-cuticular-hydrocarbons-chemical-mimicry-and-nestmate-recognition.md)
 
 - [C2+ Vocabulary — Insect anatomy and development](entomology/01-insect-anatomy-and-development.md)
 - [C2+ Vocabulary 02 — Eusocial caste polyphenism, epigenetic differentiation, and trail pheromone volatilization](entomology/02-eusocial-caste-polyphenism-and-chemical-trail-pheromones.md)
@@ -225,6 +230,7 @@
 - [C2+ Vocabulary — Global health epidemiology & policy](epidemiology/25-global-health-epidemiology-and-policy.md)
 - [C2+ Vocabulary 26 — Phylodynamic pathogen transmission, coalescent theory, and genomic outbreak surveillance](epidemiology/26-phylodynamic-pathogen-transmission-and-genomic-surveillance.md)
 - [C2+ Vocabulary 27 — Serological cross-reactivity, plaque reduction neutralization titers, and viral antigenic cartography](epidemiology/27-serological-cross-reactivity-neutralization-assays-and-antigenic-cartography.md)
+- [C2+ Vocabulary 28 — Viral phylodynamics, coalescent genealogical modeling, and molecular clock transmission trees](epidemiology/28-phylodynamic-coalescent-models-molecular-clock-dating-and-pathogen-transmission-trees.md)
 
 - [C2+ Vocabulary — Outbreak dynamics and public-health evaluation](epidemiology/01-outbreak-dynamics-and-public-health-evaluation.md)
 - [C2+ Vocabulary — Outbreak surveillance and response](epidemiology/02-outbreak-surveillance-and-response.md)
@@ -258,6 +264,7 @@
 - [C2+ Vocabulary — Wine sensory evaluation and cellar language](food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md)
 - [C2+ Vocabulary 02 — Grape must fermentation kinetics, yeast beta-lyase volatile thiol release, and malolactic biotransformation](food-and-wine/02-must-fermentation-kinetics-volatile-thiol-release-and-malolactic-biotransformation.md)
 - [C2+ Vocabulary 03 — Vintage Port brandy fortification kinetics, polymeric pyranoanthocyanin pigment synthesis, and oxidative pipe aging](food-and-wine/03-vintage-port-fortification-anthocyanin-tannin-pyranoanthocyanin-maturation.md)
+- [C2+ Vocabulary 04 — Sauvignon grape methoxypyrazines, varietal polyfunctional thiols, and aromatic terroir typicity](food-and-wine/04-methoxypyrazines-thiols-and-varietal-terroir-typicity.md)
 
 - [C2+ Vocabulary — Wine sensory evaluation and cellar language](food-and-wine/01-wine-sensory-evaluation-and-cellar-language.md)
 - [C2+ Vocabulary 02 — Grape must fermentation kinetics, yeast beta-lyase volatile thiol release, and malolactic biotransformation](food-and-wine/02-must-fermentation-kinetics-volatile-thiol-release-and-malolactic-biotransformation.md)
@@ -267,6 +274,7 @@
 - [C2+ Vocabulary — Forensic DNA and evidence interpretation](forensic-science/01-forensic-dna-and-evidence-interpretation.md)
 - [C2+ Vocabulary 02 — Mitochondrial hypervariable sequencing, forensic palynology, and trace elemental geolocation](forensic-science/02-mitochondrial-dna-lineage-and-forensic-palynology.md)
 - [C2+ Vocabulary 03 — Forensic STR allele drop-out, capillary electrophoresis stutter ratios, and continuous probabilistic genotyping](forensic-science/03-str-allele-drop-out-stutter-peak-ratios-and-probabilistic-genotyping.md)
+- [C2+ Vocabulary 04 — Skeletal bone weathering stages, taphonomic traceology, and post-mortem interval estimation](forensic-science/04-bone-weathering-stages-taphonomic-traceology-and-post-mortem-interval.md)
 
 - [C2+ Vocabulary — Forensic DNA and evidence interpretation](forensic-science/01-forensic-dna-and-evidence-interpretation.md)
 - [C2+ Vocabulary 02 — Mitochondrial hypervariable sequencing, forensic palynology, and trace elemental geolocation](forensic-science/02-mitochondrial-dna-lineage-and-forensic-palynology.md)

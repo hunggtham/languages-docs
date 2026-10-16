@@ -18,6 +18,7 @@
 - [B2 Vocabulary 15 — Socially engaged art, participatory community murals, and public creative placemaking](art/15-participatory-social-practice-art-and-community-murals.md)
 - [B2 Vocabulary 16 — Immersive digital scenography, projection mapping, and kinetic installations](art/16-immersive-digital-scenography-projection-mapping-and-kinetic-installations.md)
 - [B2 Vocabulary 17 — Museum restitution, NAGPRA repatriation, provenance research, and digital decolonization](art/17-museum-restitution-nagpra-repatriation-and-digital-decolonization.md)
+- [B2 Vocabulary 18 — Public monument controversies, contextual memorialization, and urban statuary iconoclasm](art/18-public-monuments-iconoclasm-and-memorial-contestation.md)
 
 - [B2 Vocabulary 01 — Visual arts, artistic creation, and gallery exhibitions](art/01-visual-arts-and-gallery-exhibitions.md)
 - [B2 Vocabulary 02 — Performing arts, theater, and cinematic expression](art/02-performing-arts-theater-and-cinematic-expression.md)
@@ -54,6 +55,7 @@
 - [B2 Vocabulary 15 — Supply chain end-to-end traceability, RFID inventory tracking, and circular reverse logistics](business/15-supply-chain-traceability-barcode-rfid-and-reverse-logistics.md)
 - [B2 Vocabulary 16 — Venture capital term sheets, liquidation preferences, and cap table dilution](business/16-venture-capital-term-sheets-liquidation-preferences-and-cap-table-dilution.md)
 - [B2 Vocabulary 17 — Corporate venture debt, equity warrant coverage, and startup runway preservation](business/17-corporate-venture-debt-warrant-coverage-and-runway-preservation.md)
+- [B2 Vocabulary 18 — Subscription business models, recurring revenue churn mitigation, and customer lifetime value](business/18-subscription-economy-churn-mitigation-and-customer-lifetime-value.md)
 
 - [B2 Vocabulary 01 — Corporate strategy, market competition, and mergers](business/01-corporate-strategy-market-competition-and-mergers.md)
 - [B2 Vocabulary 02 — Supply chain logistics, procurement, and inventory optimization](business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
@@ -159,6 +161,7 @@
 - [B2 Vocabulary 16 — Universal basic income trials, labor force participation, and economic security safety nets](economics/16-universal-basic-income-pilot-evaluations-and-workforce-participation.md)
 - [B2 Vocabulary 17 — Carbon border adjustment mechanisms, emissions trading schemes, and decarbonization tariffs](economics/17-carbon-border-adjustment-mechanisms-and-emissions-trading-schemes.md)
 - [B2 Vocabulary 18 — Sovereign wealth funds, natural resource endowments, and intergenerational wealth preservation](economics/18-sovereign-wealth-funds-resource-endowments-and-intergenerational-wealth.md)
+- [B2 Vocabulary 19 — Gig economy platform labor, algorithmic management, and worker classification disputes](economics/19-gig-economy-algorithmic-management-and-platform-labor.md)
 
 - [Macroeconomic Forces and Indicators](economics/01-macroeconomic-forces-and-indicators.md)
 - [B2 Vocabulary 02 — Fiscal policy, taxation, and public debt](economics/02-fiscal-policy-taxation-and-public-debt.md)
@@ -195,6 +198,7 @@
 - [B2 Vocabulary 12 — Interdisciplinary curriculum integration, project-based learning, and authentic assessment rubrics](education/12-interdisciplinary-curriculum-design-project-based-learning-and-rubrics.md)
 - [B2 Vocabulary 13 — Adaptive learning analytics, gamified pedagogy, and formative assessment](education/13-adaptive-learning-analytics-gamified-pedagogy-and-formative-assessment.md)
 - [B2 Vocabulary 14 — Universal design for learning (UDL), neurodivergent accommodation, and cognitive accessibility](education/14-universal-design-for-learning-neurodivergent-support-and-cognitive-access.md)
+- [B2 Vocabulary 15 — Micro-credentials, digital skills badging, workforce reskilling, and modular learning pathways](education/15-micro-credentials-skills-based-badging-and-workforce-reskilling.md)
 
 - [B2 Vocabulary 01 — Academic writing and feedback](education/01-academic-writing-and-feedback.md)
 - [B2 Vocabulary — Academic revision and editing](education/02-academic-revision-and-editing.md)
@@ -237,6 +241,7 @@
 - [B2 Vocabulary 22 — Urban heat island mitigation, high-albedo reflective surfaces, and green roof engineering](environment/22-urban-heat-islands-albedo-surfaces-and-green-roof-infrastructure.md)
 - [B2 Vocabulary 23 — Coastal mangrove afforestation, blue carbon sequestration, and storm surge resilience](environment/23-coastal-mangrove-afforestation-blue-carbon-and-storm-surge-resilience.md)
 - [B2 Vocabulary 24 — Urban rewilding, wildlife corridors, ecological permeability, and pocket forest restoration](environment/24-urban-rewilding-wildlife-corridors-and-pocket-forest-restoration.md)
+- [B2 Vocabulary 25 — Nature-based solutions, sponge city infrastructure, and urban flood attenuation](environment/25-nature-based-solutions-sponge-cities-and-flood-attenuation.md)
 
 - [B2 Vocabulary 01 — Environmental conservation and climate action](environment/01-environmental-conservation-and-climate-action.md)
 - [B2 Vocabulary 02 — Renewable energy and resource sustainability](environment/02-renewable-energy-and-resource-sustainability.md)
@@ -282,6 +287,7 @@
 - [B2 Vocabulary 17 — Sovereign wealth fund governance, foreign exchange reserves, and intergenerational resource endowments](finance/17-sovereign-wealth-funds-foreign-reserves-and-intergenerational-wealth.md)
 - [B2 Vocabulary 18 — Green bonds, sustainability-linked loans, and ESG debt covenants](finance/18-green-bonds-sustainability-linked-loans-and-esg-debt-covenants.md)
 - [B2 Vocabulary 19 — Cross-border remittances, decentralized foreign exchange, stablecoin settlements, and AML protocols](finance/19-cross-border-remittances-stablecoin-settlements-and-aml-protocols.md)
+- [B2 Vocabulary 20 — Sovereign green bonds, sustainability-linked corporate loans, and ESG disclosure standards](finance/20-green-bonds-sustainability-linked-loans-and-esg-reporting.md)
 
 - [B2 Vocabulary 01 — Personal finance and capital management](finance/01-personal-finance-and-capital-management.md)
 - [B2 Vocabulary 02 — Banking operations, credit risk, and financial regulation](finance/02-banking-operations-credit-risk-and-financial-regulation.md)
@@ -320,6 +326,7 @@
 - [B2 Vocabulary 15 — Telemedicine delivery models, remote patient monitoring devices, and digital clinical triage](health/15-telemedicine-remote-patient-monitoring-and-digital-triage.md)
 - [B2 Vocabulary 16 — Regenerative stem cell therapies, autologous transplantation, and tissue engineering scaffolds](health/16-regenerative-stem-cell-therapies-and-tissue-engineering-scaffolds.md)
 - [B2 Vocabulary 17 — Microbiome therapeutics, fecal microbiota transplants, gut-brain axis, and dysbiosis treatment](health/17-microbiome-therapeutics-fecal-transplantation-and-gut-brain-axis.md)
+- [B2 Vocabulary 18 — Telehealth expansion, remote patient monitoring devices, and prescription digital therapeutics](health/18-telehealth-remote-patient-monitoring-and-digital-therapeutics.md)
 
 - [B2 Vocabulary 01 — Clinical consultation and health management](health/01-clinical-consultation-and-health-management.md)
 - [B2 Vocabulary 02 — Public health, epidemics, and healthcare infrastructure](health/02-public-health-epidemics-and-healthcare-infrastructure.md)
@@ -376,6 +383,7 @@
 - [B2 Vocabulary 15 — Intellectual property doctrine, fair use defense standards, and trademark dilution protection](law/15-intellectual-property-fair-use-copyright-and-trademark-dilution.md)
 - [B2 Vocabulary 16 — Data privacy regulations, cross-border data transfers, and algorithmic transparency](law/16-data-privacy-regulations-cross-border-transfers-and-algorithmic-transparency.md)
 - [B2 Vocabulary 17 — Space law, Outer Space Treaty non-appropriation, orbital debris mitigation, and asteroid mining rights](law/17-space-law-outer-space-treaty-and-orbital-debris-mitigation.md)
+- [B2 Vocabulary 18 — Mandatory arbitration clauses, class-action waivers, and adhesive consumer contracts](law/18-arbitration-clauses-class-action-waivers-and-consumer-contracts.md)
 
 - [B2 Vocabulary 01 — Courtroom proceedings, criminal justice, and legal disputes](law/01-courtroom-proceedings-and-legal-disputes.md)
 - [B2 Vocabulary 02 — Intellectual property, corporate liability, and contract enforcement](law/02-intellectual-property-corporate-liability-and-contract-enforcement.md)

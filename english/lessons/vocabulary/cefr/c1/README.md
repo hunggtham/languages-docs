@@ -917,6 +917,7 @@
 ## public-administration
 - [C1 Vocabulary 01 — Administration and policy delivery](public-administration/01-administration-and-policy-delivery.md)
 - [C1 Vocabulary 02 — New public governance frameworks, citizen service co-production, and relational public contracting](public-administration/02-new-public-governance-co-production-and-collaborative-contracting.md)
+- [C1 Vocabulary 03 — Digital public infrastructure (DPI), open government data mandates, and civic technology ecosystems](public-administration/03-digital-public-infrastructure-open-government-data-and-civic-tech.md)
 
 - [C1 Vocabulary 01 — Administration and policy delivery](public-administration/01-administration-and-policy-delivery.md)
 - [C1 Vocabulary 02 — New public governance frameworks, citizen service co-production, and relational public contracting](public-administration/02-new-public-governance-co-production-and-collaborative-contracting.md)
@@ -924,6 +925,7 @@
 ## public-finance
 - [C1 Vocabulary 01 — Fiscal and monetary policy](public-finance/01-fiscal-and-monetary-policy.md)
 - [C1 Vocabulary 02 — Countercyclical fiscal multipliers, sovereign debt sustainability ceilings, and automatic stabilizer mechanics](public-finance/02-fiscal-multipliers-debt-sustainability-and-automatic-stabilizers.md)
+- [C1 Vocabulary 03 — Sovereign debt sustainability analysis, restructuring haircuts, and collective action clauses (CACs)](public-finance/03-sovereign-debt-sustainability-haircuts-and-collective-action-clauses.md)
 
 - [C1 Vocabulary 01 — Fiscal and monetary policy](public-finance/01-fiscal-and-monetary-policy.md)
 - [C1 Vocabulary 02 — Countercyclical fiscal multipliers, sovereign debt sustainability ceilings, and automatic stabilizer mechanics](public-finance/02-fiscal-multipliers-debt-sustainability-and-automatic-stabilizers.md)
@@ -931,6 +933,7 @@
 ## public-health
 - [C1 Vocabulary 01 — Public health and population risk](public-health/01-public-health-and-population-risk.md)
 - [C1 Vocabulary 02 — Syndemic disease interaction frameworks, structural social determinants, and digital contact tracing protocols](public-health/02-syndemic-frameworks-social-determinants-and-epidemic-contact-tracing.md)
+- [C1 Vocabulary 03 — Antimicrobial stewardship programs, One Health paradigm, and zoonotic pathogen surveillance](public-health/03-antimicrobial-stewardship-one-health-and-zoonotic-surveillance.md)
 
 - [C1 Vocabulary 01 — Public health and population risk](public-health/01-public-health-and-population-risk.md)
 - [C1 Vocabulary 02 — Syndemic disease interaction frameworks, structural social determinants, and digital contact tracing protocols](public-health/02-syndemic-frameworks-social-determinants-and-epidemic-contact-tracing.md)
@@ -938,6 +941,7 @@
 ## quality-management
 - [C1 Vocabulary 01 — Process improvement and control](quality-management/01-process-improvement-and-control.md)
 - [C1 Vocabulary 02 — Statistical process control (SPC), Six Sigma DMAIC methodology, and failure mode and effects analysis (FMEA)](quality-management/02-statistical-process-control-six-sigma-and-failure-mode-effects-analysis.md)
+- [C1 Vocabulary 03 — Lean Six Sigma DMAIC methodology, statistical variance reduction, and Ishikawa root cause analysis](quality-management/03-lean-six-sigma-dmaic-and-root-cause-ishikawa.md)
 
 - [C1 Vocabulary 01 — Process improvement and control](quality-management/01-process-improvement-and-control.md)
 - [C1 Vocabulary 02 — Statistical process control (SPC), Six Sigma DMAIC methodology, and failure mode and effects analysis (FMEA)](quality-management/02-statistical-process-control-six-sigma-and-failure-mode-effects-analysis.md)
@@ -945,6 +949,7 @@
 ## quantum-computing
 - [C1 Vocabulary 01 — Quantum computing and information](quantum-computing/01-quantum-computing-and-information.md)
 - [C1 Vocabulary 02 — Superconducting qubit coherence times, Bloch sphere state vectors, and randomized benchmarking gate fidelity](quantum-computing/02-qubit-coherence-times-bloch-sphere-and-quantum-gate-fidelity.md)
+- [C1 Vocabulary 03 — Quantum error correction, planar surface codes, and fault-tolerant threshold theorems](quantum-computing/03-quantum-error-correction-surface-codes-and-fault-tolerant-thresholds.md)
 
 - [C1 Vocabulary 01 — Quantum computing and information](quantum-computing/01-quantum-computing-and-information.md)
 - [C1 Vocabulary 02 — Superconducting qubit coherence times, Bloch sphere state vectors, and randomized benchmarking gate fidelity](quantum-computing/02-qubit-coherence-times-bloch-sphere-and-quantum-gate-fidelity.md)
@@ -952,6 +957,7 @@
 ## religion
 - [C1 Vocabulary 01 — Religion and public life](religion/01-religion-and-public-life.md)
 - [C1 Vocabulary 02 — Comparative hermeneutics, textual exegesis, and interreligious dialogue](religion/02-comparative-hermeneutics-textual-exegesis-and-interreligious-dialogue.md)
+- [C1 Vocabulary 03 — Classical secularization thesis, post-secular public spheres, and theological pluralism](religion/03-secularization-thesis-post-secularism-and-religious-pluralism.md)
 
 - [C1 Vocabulary 01 — Religion and public life](religion/01-religion-and-public-life.md)
 - [C1 Vocabulary 02 — Comparative hermeneutics, textual exegesis, and interreligious dialogue](religion/02-comparative-hermeneutics-textual-exegesis-and-interreligious-dialogue.md)
@@ -959,6 +965,7 @@
 ## research
 - [C1 Vocabulary 01 — Research quality and uncertainty](research/01-research-quality-and-uncertainty.md)
 - [C1 Vocabulary 02 — Longitudinal cohorts, propensity score matching, and attrition bias controls](research/02-longitudinal-cohorts-propensity-score-matching-and-attrition-controls.md)
+- [C1 Vocabulary 03 — Mixed-methods research design, convergent triangulation, and grounded theory coding paradigms](research/03-mixed-methods-triangulation-and-grounded-theory-coding.md)
 
 - [C1 Vocabulary 01 — Research quality and uncertainty](research/01-research-quality-and-uncertainty.md)
 - [C1 Vocabulary 02 — Longitudinal cohorts, propensity score matching, and attrition bias controls](research/02-longitudinal-cohorts-propensity-score-matching-and-attrition-controls.md)
@@ -966,6 +973,7 @@
 ## risk-governance
 - [C1 Vocabulary 01 — Resilience and climate risk](risk-governance/01-resilience-and-climate-risk.md)
 - [C1 Vocabulary 02 — Catastrophic risk modeling, extreme value theory, and resilience engineering](risk-governance/02-catastrophic-risk-modeling-extreme-value-theory-and-resilience-engineering.md)
+- [C1 Vocabulary 03 — Tail-risk distribution modeling, extreme value theory (EVT), and Black Swan mitigation frameworks](risk-governance/03-tail-risk-extreme-value-theory-and-black-swan-mitigation.md)
 
 - [C1 Vocabulary 01 — Resilience and climate risk](risk-governance/01-resilience-and-climate-risk.md)
 - [C1 Vocabulary 02 — Catastrophic risk modeling, extreme value theory, and resilience engineering](risk-governance/02-catastrophic-risk-modeling-extreme-value-theory-and-resilience-engineering.md)
