@@ -430,6 +430,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [국제통상법 및 무역 관세 분쟁 해결의 언어](./law-international-trade-and-tariff-disputes/README.md) — `WTO 상소기구 및 반덤핑 상계관세 기반 MFN 최혜국대우 원칙과 CBAM 탄소국경조정제도 대응`
 - [해양 플라스틱 및 생태계 보전 환경생물학의 언어](./environmental-marine-plastic-and-ecosystem-preservation/README.md) — `미세플라스틱 생태독성 및 폐어망 생분해성 어구 기반 갯벌 블루카본 흡수원과 플라스틱 열분해유`
 - [음악학 및 음향학 예술 비평의 언어](./music-musicology-and-acoustic-aesthetics/README.md) — `서양음악사 화성학 대위법 및 쇤베르크 12음 기법 기반 콘서트홀 잔향 설계와 인지신경음악학 연구`
+- [우주항공 및 6G 저궤도 위성 통신 공학의 언어](./aerospace-satellite-communication-and-6g/README.md) — `초소형 군집위성망 및 6G 테라헤르츠 무선통신 기반 위성간 레이저 ISL과 빔포밍 능동위상배열 통신망`
+- [합성생물학 및 대사공학의 언어](./biomedical-synthetic-biology-and-metabolic-engineering/README.md) — `합성 유전체 설계 및 미생물 대사경로 엔지니어링 기반 바이오파운드리 스크리닝과 세포공장 발효공정`
+- [수중고고학 및 문화유산 보존과학의 언어](./archaeology-underwater-excavation-and-conservation-science/README.md) — `해저 침몰선 발굴조사 및 수침목재 탈염 동결건조 기반 AMS 탄소연대측정과 3D 디지털 복원 보존과학`
+- [자산운용 및 퀀트 금융공학의 언어](./finance-asset-management-and-quantitative-investing/README.md) — `멀티팩터 포트폴리오 및 블랙-리터만 모델 기반 리스크 패리티 위험균형과 통계적 차익거래 페어트레이딩`
+- [행정소송 및 국가배상의 언어](./law-administrative-litigation-and-state-compensation/README.md) — `취소소송 원고적격 및 국가배상법 직무상 불법행위 책임 기반 집행정지 가처분과 재량권 일탈남용 비례원칙`
+- [스마트 워터그리드 및 도시 홍수방재의 언어](./urban-smart-water-grid-and-flood-control/README.md) — `스마트 원격검침 및 대심도 빗물배수터널 기반 AI 하천 홍수위 예측과 저영향개발 투수성 물 순환 체계`
+- [특수교육 및 보조공학의 언어](./education-special-education-and-assistive-technology/README.md) — `개별화교육계획 IEP 및 AAC 보완대체의사소통 기반 UDL 보편적 학습설계와 시선추적 안구마우스 보조공학`
+- [나노소재 및 양자점 나노공학의 언어](./materials-nanomaterials-and-quantum-dots/README.md) — `양자점 디스플레이 색재현율 및 탄소나노튜브 복합재 기반 2차원 그래핀 박리와 원자층 증착 ALD 초박막 공정`
+- [디지털 격차 및 플랫폼 노동의 사회학적 언어](./sociology-digital-divide-and-platform-labor/README.md) — `알고리즘 통제 종속 및 긱 이코노미 호출노동 기반 특고 사회안전망과 플랫폼 협동조합 대안경제 모델`
+- [비교종교학 및 종교간 대화의 언어](./theology-comparative-religion-and-interfaith-dialogue/README.md) — `비교종교학 현상학적 이해 및 종교다원주의 논쟁 기반 성스러움과 속됨의 공간 철학과 평화공존 담론`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

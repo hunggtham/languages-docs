@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,610 new targets across 374 independent topic batches; 10,610 structured headings toward the 15,000 target, leaving 4,390 after this checkpoint.
+- Progress in this checkpoint: 5,760 new targets across 384 independent topic batches; 10,760 structured headings toward the 15,000 target, leaving 4,240 after this checkpoint.
+
+- Topic: `aerospace-satellite-communication-and-6g`
+- File: `01-satellite-communication-and-6g.md`
+- Coverage: 15 new advanced-native aerospace, 6G LEO satellite communications, and space network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedical-synthetic-biology-and-metabolic-engineering`
+- File: `01-synthetic-biology-and-metabolic-engineering.md`
+- Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, and biomanufacturing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeology-underwater-excavation-and-conservation-science`
+- File: `01-underwater-excavation-and-conservation-science.md`
+- Coverage: 15 new advanced-native underwater archaeology, maritime heritage salvage, and conservation science headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-asset-management-and-quantitative-investing`
+- File: `01-asset-management-and-quantitative-investing.md`
+- Coverage: 15 new advanced-native quantitative asset management, factor investing, and risk parity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-administrative-litigation-and-state-compensation`
+- File: `01-administrative-litigation-and-state-compensation.md`
+- Coverage: 15 new advanced-native administrative litigation, state tort liability, and procedural justice headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `urban-smart-water-grid-and-flood-control`
+- File: `01-smart-water-grid-and-flood-control.md`
+- Coverage: 15 new advanced-native smart water grid, urban flood prevention, and sustainable hydrology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `education-special-education-and-assistive-technology`
+- File: `01-special-education-and-assistive-technology.md`
+- Coverage: 15 new advanced-native special education, inclusive pedagogy, and assistive technology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-nanomaterials-and-quantum-dots`
+- File: `01-nanomaterials-and-quantum-dots.md`
+- Coverage: 15 new advanced-native quantum dot optoelectronics, nanomaterial synthesis, and atomic characterization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-digital-divide-and-platform-labor`
+- File: `01-digital-divide-and-platform-labor.md`
+- Coverage: 15 new advanced-native digital divide, platform labor subordination, and gig economy sociology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `theology-comparative-religion-and-interfaith-dialogue`
+- File: `01-comparative-religion-and-interfaith-dialogue.md`
+- Coverage: 15 new advanced-native comparative religion, phenomenology of the sacred, and interfaith peace discourse headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `robotics-humanoid-and-autonomous-systems`
 - File: `01-humanoid-and-autonomous-systems.md`
