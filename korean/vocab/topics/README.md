@@ -302,6 +302,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [카이랄 메타물질과 원편광 이색성의 언어](./advanced-chiral-metamaterials-and-circular-dichroism/README.md) — `3차원 나노나선 구조 기반 거대 원편광 이색성 및 단백질 비대칭 거울상이성질체 초고감도 바이오센싱 기술`
 - [초소수성 결빙 방지와 유체 저항 저감의 언어](./advanced-superhydrophobic-anti-icing-and-drag-reduction/README.md) — `계층적 마이크로-나노 돌기 및 공기쿠션 안정화 기반 항공기 날개 결빙 방지 및 고속 선박 마찰저항 극소화 기술`
 - [다이아몬드 질소 공공 양자 자력계의 언어](./advanced-quantum-diamond-nitrogen-vacancy-magnetometry/README.md) — `다이아몬드 NV 결함 기반 상온 단일 전자스핀 공학 및 단일 단백질 비파괴 나노스케일 NMR 양자 계측 기술`
+- [복사 냉각 메타물질과 열 복사 제어의 언어](./advanced-radiative-sky-cooling-and-thermal-metamaterials/README.md) — `대기투명창 열복사 방출 및 태양광 초고반사율 기반 무전원 주야간 복사 냉각 메타물질 박막 및 제로에너지 건축 코팅 기술`
+- [유연 열전 발전기와 체온 에너지 수확의 언어](./advanced-flexible-thermoelectric-generators-and-body-heat/README.md) — `유기-무기 복합 열전재료 및 제베크 계수 극대화 기반 체온 미세전력 수확 무배터리 웨어러블 자가발전 패치 기술`
+- [미생물 전기합성과 탄소순환 생물공학의 언어](./advanced-microbial-electrosynthesis-and-value-added-chemicals/README.md) — `세균 전기생물촉매 전극 및 세포외 전자전달 기반 이산화탄소 전기생물전환 고부가가치 화학물질 생산 플랫폼 기술`
+- [초표면 홀로그래피와 라이트필드 디스플레이의 언어](./advanced-metasurface-holography-and-light-field-displays/README.md) — `서브파장 위상변조 유전체 나노기둥 기반 원편광 다중화 무안경 초고해상도 라이트필드 홀로그래픽 디스플레이 기술`
+- [집속 초음파 표적 미세기포와 약물 전달의 언어](./advanced-ultrasound-targeted-microbubble-drug-delivery/README.md) — `집속 초음파 음향 공진 및 지질 나노기포 공동현상 기반 혈뇌장벽 가역적 개방 정밀 표적 약물 전달 기술`
+- [위상 레이저와 폴라리톤 응축의 언어](./advanced-topological-laser-and-polariton-condensates/README.md) — `엑시톤-폴라리톤 응축 및 카이랄 에지 모드 기반 결함 내성 단일모드 발진 상온 초유체 빛 위상 레이저 집적회로 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

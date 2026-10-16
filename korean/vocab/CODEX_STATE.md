@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,690 new targets across 246 independent topic batches; 8,690 structured headings toward the 10,000 target, leaving 1,310 after this checkpoint.
+- Progress in this checkpoint: 3,780 new targets across 252 independent topic batches; 8,780 structured headings toward the 10,000 target, leaving 1,220 after this checkpoint.
+
+- Topic: `advanced-radiative-sky-cooling-and-thermal-metamaterials`
+- File: `01-radiative-sky-cooling-and-thermal-metamaterials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot radiative sky cooling and thermal metamaterials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-thermoelectric-generators-and-body-heat`
+- File: `01-flexible-thermoelectric-generators-and-body-heat.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible thermoelectric generators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-microbial-electrosynthesis-and-value-added-chemicals`
+- File: `01-microbial-electrosynthesis-and-value-added-chemicals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrosynthesis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metasurface-holography-and-light-field-displays`
+- File: `01-metasurface-holography-and-light-field-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface holography and light field displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-ultrasound-targeted-microbubble-drug-delivery`
+- File: `01-ultrasound-targeted-microbubble-drug-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ultrasound targeted microbubble drug delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-laser-and-polariton-condensates`
+- File: `01-topological-laser-and-polariton-condensates.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological laser and polariton condensates headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-topological-insulator-quantum-anomalous-hall-effect`
 - File: `01-topological-insulator-quantum-anomalous-hall-effect.md`
