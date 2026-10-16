@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,520 new targets across 168 independent topic batches; 7,520 structured headings toward the 10,000 target, leaving 2,480 after this checkpoint.
+- Progress in this checkpoint: 2,610 new targets across 174 independent topic batches; 7,610 structured headings toward the 10,000 target, leaving 2,390 after this checkpoint.
+
+- Topic: `advanced-magnetic-refrigeration-and-magnetocaloric-alloys`
+- File: `01-magnetic-refrigeration-and-magnetocaloric-alloys.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot magnetic refrigeration and magnetocaloric alloys headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean magnetic refrigeration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-antennas-and-ris-smart-surfaces`
+- File: `01-metamaterial-antennas-and-ris-smart-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot RIS smart surfaces and metamaterial antennas headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean RIS smart surfaces passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-electronic-medicines-and-vagus-nerve-stimulation`
+- File: `01-bio-electronic-medicines-and-vagus-nerve-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic medicines and vagus nerve stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean bioelectronic medicines passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-air-batteries-and-air-breathing-cathodes`
+- File: `01-metal-air-batteries-and-air-breathing-cathodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-air batteries and air-breathing cathodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean metal-air batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-spatially-resolved-transcriptomics-and-in-situ-sequencing`
+- File: `01-spatially-resolved-transcriptomics-and-in-situ-sequencing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spatially resolved transcriptomics and in situ sequencing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean spatial transcriptomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-phononic-crystals-and-acoustic-insulation`
+- File: `01-phononic-crystals-and-acoustic-insulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot phononic crystals and acoustic insulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean phononic crystals passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-metamaterial-cloaking-and-transformation-optics`
 - File: `01-metamaterial-cloaking-and-transformation-optics.md`
