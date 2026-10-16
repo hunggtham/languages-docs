@@ -9,7 +9,8 @@
     "dev:web": "pnpm -C apps/web dev",
     "build:web": "pnpm content:build && pnpm -C apps/web build",
     "preview:web": "pnpm -C apps/web preview",
-    "open:local": "node scripts/open-web-local.mjs"
+    "open:local": "node scripts/open-web-local.mjs",
+    "vocab:export": "python3 scripts/export-vocab-json.py"
   },
   "engines": {
     "node": ">=18",
