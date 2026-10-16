@@ -762,6 +762,8 @@
 - [Museum restitution, NAGPRA repatriation, provenance research, and digital decolonization](art/17-museum-restitution-nagpra-repatriation-and-digital-decolonization.md) — 25 items
 - [Public monument controversies, contextual memorialization, and urban statuary iconoclasm](art/18-public-monuments-iconoclasm-and-memorial-contestation.md) — 25 items
 - [Museum curatorial practice, art provenance research, and cultural artifact repatriation](art/19-museum-curation-provenance-research-and-cultural-repatriation.md) — 25 items
+- [Public art installations, site-specific sculptures, and community cultural engagement](art/20-public-art-installations-site-specificity-and-community-engagement.md) — 25 items
+- [Museum art curation, artwork provenance research, and exhibition spatial design](art/21-museum-curation-provenance-research-and-exhibition-design.md) — 25 items
 
 ### Business ()
 
@@ -784,6 +786,8 @@
 - [Corporate venture debt, equity warrant coverage, and startup runway preservation](business/17-corporate-venture-debt-warrant-coverage-and-runway-preservation.md) — 25 items
 - [Subscription business models, recurring revenue churn mitigation, and customer lifetime value](business/18-subscription-economy-churn-mitigation-and-customer-lifetime-value.md) — 25 items
 - [Commercial franchise expansion, recurring royalty fees, and operational brand standardization](business/19-franchise-expansion-royalty-fees-and-brand-standardization.md) — 25 items
+- [Startup venture funding, investor pitch decks, and Series A term sheets](business/20-venture-capital-pitch-decks-and-series-a-funding.md) — 25 items
+- [Mergers and acquisitions (M&A), financial due diligence, and operational synergies](business/21-mergers-and-acquisitions-due-diligence-and-synergies.md) — 25 items
 
 ### Communication ()
 
@@ -805,6 +809,9 @@
 - [Crisis media relations, press conference protocols, and reputation repair](communication/13-crisis-media-relations-press-conferences-and-reputation-repair.md) — 25 items
 - [Asynchronous teamwork, cross-cultural communication protocols, and organizational knowledge sharing](communication/14-asynchronous-teamwork-cross-cultural-collaboration-and-knowledge-sharing.md) — 25 items
 - [Corporate crisis communication, reputational risk containment, and institutional apologies](communication/15-strategic-crisis-communication-brand-damage-control-and-apology.md) — 25 items
+- [Executive speechwriting, persuasive rhetorical devices, and audience framing strategies](communication/16-executive-speechwriting-rhetorical-devices-and-audience-framing.md) — 25 items
+- [Crisis public relations, media scrum management, and proactive holding statements](communication/17-crisis-public-relations-media-scrum-and-holding-statements.md) — 25 items
+- [Cross-cultural negotiation, high-context communication, and diplomatic face-saving](communication/18-cross-cultural-negotiation-high-context-communication-and-face-saving.md) — 25 items
 
 ### Decisions ()
 
@@ -824,6 +831,9 @@
 - [Strategic foresight, scenario planning, and horizon scanning](decisions/11-strategic-foresight-scenario-planning-and-horizon-scanning.md) — 25 items
 - [Opportunity cost trade-offs, sunk cost fallacy mitigation, and strategic business pivoting](decisions/12-opportunity-costs-sunk-cost-fallacy-and-strategic-pivoting.md) — 25 items
 - [MCDA framework prioritization (MCDA), weighted scoring matrices, and strategic trade-off evaluations](decisions/13-multi-criteria-decision-analysis-weighted-scoring-and-trade-offs.md) — 25 items
+- [The Delphi method, iterative expert consensus panels, and controlled feedback forecasting](decisions/14-delphi-method-expert-consensus-and-iterative-forecasting.md) — 25 items
+- [Trolley problem dilemmas, utilitarian calculus, and deontological ethical boundaries](decisions/15-trolley-problems-ethical-dilemmas-and-utilitarian-tradeoffs.md) — 25 items
+- [Monte Carlo simulations, probabilistic outcome forecasting, and risk-range modeling](decisions/16-monte-carlo-simulation-probabilistic-forecasting-and-risk-ranges.md) — 25 items
 
 ### Economics ()
 
@@ -847,6 +857,8 @@
 - [Sovereign wealth funds, natural resource endowments, and intergenerational wealth preservation](economics/18-sovereign-wealth-funds-resource-endowments-and-intergenerational-wealth.md) — 25 items
 - [Gig economy platform labor, algorithmic management, and worker classification disputes](economics/19-gig-economy-algorithmic-management-and-platform-labor.md) — 25 items
 - [Sovereign wealth funds, intergenerational commodity savings, and macro-fiscal spending rules](economics/20-sovereign-wealth-funds-intergenerational-savings-and-fiscal-rules.md) — 25 items
+- [Circular economy models, product life extension, and industrial closed-loop recycling](economics/21-circular-economy-product-life-extension-and-waste-reduction.md) — 25 items
+- [Universal basic services (UBS), public goods funding, and social decommodification](economics/22-universal-basic-services-public-goods-and-decommodification.md) — 25 items
 
 ### Education ()
 
@@ -868,6 +880,9 @@
 - [Universal design for learning (UDL), neurodivergent accommodation, and cognitive accessibility](education/14-universal-design-for-learning-neurodivergent-support-and-cognitive-access.md) — 25 items
 - [Micro-credentials, digital skills badging, workforce reskilling, and modular learning pathways](education/15-micro-credentials-skills-based-badging-and-workforce-reskilling.md) — 25 items
 - [Vocational apprenticeships, dual-track technical education, and industry-recognized credentials](education/16-vocational-apprenticeships-dual-education-and-skills-certifications.md) — 25 items
+- [Blended learning pedagogies, flipped classroom models, and asynchronous course delivery](education/17-blended-learning-flipped-classrooms-and-synchronous-instruction.md) — 25 items
+- [Gamified educational platforms, digital badges, and intrinsic student motivation](education/18-gamified-learning-leaderboards-and-intrinsic-motivation.md) — 25 items
+- [Peer tutoring programs, reciprocal teaching methods, and collaborative group problem-solving](education/19-peer-tutoring-reciprocal-teaching-and-collaborative-problem-solving.md) — 25 items
 
 ### Environment ()
 
@@ -897,6 +912,7 @@
 - [Urban rewilding, wildlife corridors, ecological permeability, and pocket forest restoration](environment/24-urban-rewilding-wildlife-corridors-and-pocket-forest-restoration.md) — 25 items
 - [Nature-based solutions, sponge city infrastructure, and urban flood attenuation](environment/25-nature-based-solutions-sponge-cities-and-flood-attenuation.md) — 25 items
 - [Urban tree canopy cover, heat island effect mitigation, and neighborhood tree equity](environment/26-urban-canopy-cover-heat-island-mitigation-and-tree-equity.md) — 25 items
+- [Constructed urban wetlands, stormwater bioswales, and sponge city flood mitigation](environment/27-urban-wetlands-stormwater-mitigation-and-biodiversity-swales.md) — 25 items
 
 ### Finance ()
 
@@ -921,6 +937,7 @@
 - [Cross-border remittances, decentralized foreign exchange, stablecoin settlements, and AML protocols](finance/19-cross-border-remittances-stablecoin-settlements-and-aml-protocols.md) — 25 items
 - [Sovereign green bonds, sustainability-linked corporate loans, and ESG disclosure standards](finance/20-green-bonds-sustainability-linked-loans-and-esg-reporting.md) — 25 items
 - [Decentralized finance (DeFi), automated market makers, and liquidity pool staking](finance/21-decentralized-finance-liquidity-pools-and-smart-contract-yield.md) — 25 items
+- [ESG investment criteria, certified green bonds, and sustainable finance taxonomies](finance/22-esg-investing-green-bonds-and-sustainable-finance-taxonomy.md) — 25 items
 
 ### Health ()
 
@@ -943,6 +960,8 @@
 - [Microbiome therapeutics, fecal microbiota transplants, gut-brain axis, and dysbiosis treatment](health/17-microbiome-therapeutics-fecal-transplantation-and-gut-brain-axis.md) — 25 items
 - [Telehealth expansion, remote patient monitoring devices, and prescription digital therapeutics](health/18-telehealth-remote-patient-monitoring-and-digital-therapeutics.md) — 25 items
 - [Telemedicine consultations, remote biometric monitoring, and algorithmic patient triage](health/19-telemedicine-remote-patient-monitoring-and-digital-triage.md) — 25 items
+- [Telehealth consultations, remote patient monitoring, and digital clinical triage](health/20-telehealth-remote-monitoring-and-digital-triage.md) — 25 items
+- [Circadian sleep rhythms, sleep hygiene protocols, and pineal melatonin regulation](health/21-circadian-rhythms-sleep-hygiene-and-melatonin-regulation.md) — 25 items
 
 ### History ()
 
@@ -956,6 +975,9 @@
 - [Diplomatic treaty negotiation, territorial boundary disputes, and post-war reconstruction](history/08-diplomatic-treaty-negotiation-territorial-disputes-and-post-war-reconstruction.md) — 25 items
 - [Post-war decolonization movements, Cold War proxy confrontations, and the Non-Aligned Movement](history/09-decolonization-movements-cold-war-proxy-wars-and-non-alignment.md) — 25 items
 - [The Cold War nuclear arms race, strategic deterrence doctrine, and mutually assured destruction (MAD)](history/10-nuclear-arms-race-deterrence-doctrine-and-mutually-assured-destruction.md) — 25 items
+- [The Cold War space race, Apollo lunar missions, and technological superpower prestige](history/11-the-space-race-apollo-program-and-geopolitical-prestige.md) — 25 items
+- [The First Industrial Revolution, steam locomotives, and rural-to-urban migration](history/12-the-industrial-revolution-steam-locomotives-and-urban-migration.md) — 25 items
+- [Ancient Silk Road routes, desert caravanserais, and transcontinental merchant exchange](history/13-the-silk-road-caravanserais-and-transcontinental-cultural-exchange.md) — 25 items
 
 ### Law ()
 
@@ -978,6 +1000,7 @@
 - [Space law, Outer Space Treaty non-appropriation, orbital debris mitigation, and asteroid mining rights](law/17-space-law-outer-space-treaty-and-orbital-debris-mitigation.md) — 25 items
 - [Mandatory arbitration clauses, class-action waivers, and adhesive consumer contracts](law/18-arbitration-clauses-class-action-waivers-and-consumer-contracts.md) — 25 items
 - [Intellectual property litigation, non-practicing patent assertion entities, and the fair use doctrine](law/19-intellectual-property-patent-trolls-and-fair-use-doctrine.md) — 25 items
+- [Class action litigations, plaintiff certification, and restitution settlement funds](law/20-class-action-lawsuits-settlement-funds-and-opt-out-notices.md) — 25 items
 
 ### Media ()
 
@@ -997,6 +1020,8 @@
 - [Algorithmic feed curation, deepfake forensics, and cryptographic digital provenance](media/14-algorithmic-curation-deepfakes-and-digital-provenance.md) — 25 items
 - [Programmatic digital advertising, real-time bidding, and commercial surveillance ecosystems](media/15-digital-advertising-real-time-bidding-and-surveillance-capitalism.md) — 25 items
 - [Synthetic media creation, generative AI deepfakes, and cryptographic provenance watermarking](media/16-deepfakes-synthetic-media-detection-and-watermarking.md) — 25 items
+- [Algorithmic feed curation, cognitive filter bubbles, and engagement-maximizing optimization](media/17-algorithmic-content-curation-filter-bubbles-and-engagement-metrics.md) — 25 items
+- [Citizen journalism, smartphone livestreaming, and user-generated breaking news](media/18-citizen-journalism-live-streaming-and-user-generated-content.md) — 25 items
 
 ### Politics ()
 
@@ -1014,6 +1039,8 @@
 - [Partisan gerrymandering, legislative redistricting, and voting rights enforcement](politics/12-gerrymandering-electoral-boundaries-and-voting-rights.md) — 25 items
 - [Parliamentary coalition dynamics, votes of no confidence, and legislative dissolution](politics/13-parliamentary-coalition-building-confidence-votes-and-dissolution.md) — 25 items
 - [Ranked-choice electoral voting, partisan gerrymandering, and direct citizen ballot initiatives](politics/14-ranked-choice-voting-electoral-gerrymandering-and-ballot-initiatives.md) — 25 items
+- [Legislative oversight committees, subpoena enforcement powers, and executive branch accountability](politics/15-parliamentary-oversight-select-committees-and-subpoena-powers.md) — 25 items
+- [Special interest lobbying, revolving door politics, and campaign finance transparency](politics/16-lobbying-revolving-doors-and-campaign-finance.md) — 25 items
 
 ### Psychology ()
 
@@ -1031,6 +1058,8 @@
 - [Neuroplasticity mechanisms, cognitive reappraisal strategies, and physiological stress resilience](psychology/12-neuroplasticity-cognitive-reappraisal-and-stress-resilience.md) — 25 items
 - [Social identity theory, in-group favoritism, out-group derogation, and intergroup bias](psychology/13-social-identity-theory-in-group-favoritism-and-intergroup-bias.md) — 25 items
 - [Neuroplasticity mechanisms, basal ganglia habit formation loops, and lifelong cognitive reserve](psychology/14-neuroplasticity-habit-formation-and-cognitive-reserve.md) — 25 items
+- [Cognitive heuristics, systematic decision biases, and Herbert Simon's bounded rationality](psychology/15-cognitive-biases-heuristic-reasoning-and-bounded-rationality.md) — 25 items
+- [Csikszentmihalyi's flow state, optimal human experience, and deep cognitive absorption](psychology/16-flow-state-optimal-experience-and-intrinsic-absorption.md) — 25 items
 
 ### Research ()
 
@@ -1050,6 +1079,8 @@
 - [Study preregistration, open-science protocols, and scientific reproducibility crisis remedies](research/13-preregistration-open-science-and-reproducibility-crises.md) — 25 items
 - [Longitudinal cohort studies, participant attrition bias, and panel data retention strategies](research/14-longitudinal-cohort-studies-attrition-bias-and-panel-retention.md) — 25 items
 - [Systematic literature reviews, PRISMA guidelines, and quantitative meta-analytic pooling](research/15-systematic-literature-reviews-prisma-protocols-and-meta-analysis.md) — 25 items
+- [Qualitative grounded theory, theoretical sampling methods, and conceptual saturation](research/16-qualitative-grounded-theory-theoretical-sampling-and-saturation.md) — 25 items
+- [Systematic literature reviews, PRISMA reporting guidelines, and statistical meta-analysis](research/17-systematic-reviews-prisma-guidelines-and-meta-analysis.md) — 25 items
 
 ### Risk ()
 
@@ -1175,3 +1206,4 @@
 - [Modern talent acquisition, voluntary turnover analytics, and strategic employer branding](work/11-talent-acquisition-retention-metrics-and-employer-branding.md) — 25 items
 - [Workplace burnout prevention, cognitive workload governance, and institutional wellbeing policies](work/12-employee-burnout-prevention-workload-governance-and-wellbeing.md) — 25 items
 - [Gig economy platform labor, algorithmic management dispatch, and worker reclassification](work/13-gig-economy-algorithmic-management-and-platform-labor.md) — 25 items
+- [Organizational culture archetypes, psychological employment contracts, and workplace meritocracy](work/14-organizational-culture-meritocracy-and-psychological-contracts.md) — 25 items

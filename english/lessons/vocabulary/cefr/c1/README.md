@@ -1077,18 +1077,21 @@
 - [Agriculture and land stewardship](agriculture/01-agriculture-and-land-stewardship.md) — 15 items
 - [Controlled environment agriculture, vertical hydroponics, and precision nutrient dosing](agriculture/02-controlled-environment-agriculture-aeroponics-and-nutrient-film-technique.md) — 25 items
 - [Precision viticulture, multispectral drone imagery, and variable-rate drip irrigation](agriculture/03-precision-viticulture-drone-multispectral-imaging-and-variable-rate-irrigation.md) — 25 items
+- [Closed-loop nutrient film technique (NFT), controlled-environment vertical farming, and LED photoperiods](agriculture/04-hydroponic-nutrient-film-technique-and-vertical-farming.md) — 25 items
 
 ### Ai Reliability ()
 
 - [Model evaluation and safety](ai-reliability/01-model-evaluation-and-safety.md) — 15 items
 - [Adversarial robustness, red-teaming, and safety alignment](ai-reliability/02-adversarial-robustness-and-safety-alignment.md) — 25 items
 - [Retrieval-augmented generation, epistemic confidence calibration, and hallucination reduction](ai-reliability/03-hallucination-mitigation-retrieval-augmented-generation-and-groundedness.md) — 25 items
+- [LLM hallucination mitigation, retrieval-augmented grounding, and factored cognitive decomposition](ai-reliability/04-hallucination-mitigation-retrieval-augmented-generation-and-factored-cognition.md) — 25 items
 
 ### Analysis ()
 
 - [Interpretation, nuance, and evidence](analysis/01-interpretation-and-nuance.md) — 15 items
 - [Structural equation modeling, latent constructs, and confirmatory factor analysis](analysis/02-structural-equation-modeling-latent-variables-and-confirmatory-factor-analysis.md) — 25 items
 - [Monte Carlo simulation methods, stochastic differential modeling, and variance reduction techniques](analysis/03-monte-carlo-simulation-stochastic-modeling-and-variance-reduction.md) — 25 items
+- [Time-to-event survival analysis, Cox proportional hazards regression, and non-informative right censoring](analysis/04-survival-analysis-cox-proportional-hazards-and-right-censoring.md) — 25 items
 
 ### Anthropology ()
 
@@ -1293,26 +1296,31 @@
 
 - [Transactions, storage, and analytics](database-systems/01-transactions-storage-and-analytics.md) — 15 items
 - [Distributed consensus protocols, ACID-to-BASE transitions, and horizontal sharding](database-systems/02-distributed-consensus-acid-guarantees-and-sharding.md) — 25 items
+- [Distributed ACID transactions, two-phase commit (2PC), and Google Spanner TrueTime API](database-systems/03-distributed-acid-transactions-two-phase-commit-and-spanner-true-time.md) — 25 items
 
 ### Demography ()
 
 - [Population change and transition](demography/01-population-change-and-transition.md) — 15 items
 - [Sub-replacement fertility, demographic shrinkage, and intergenerational transfers](demography/02-sub-replacement-fertility-and-intergenerational-transfers.md) — 25 items
+- [Demographic dividend windows, age-dependency ratios, and shifting population pyramids](demography/03-demographic-dividend-dependency-ratios-and-population-pyramids.md) — 25 items
 
 ### Diplomacy ()
 
 - [Diplomatic strategy and negotiation](diplomacy/01-diplomatic-strategy-and-negotiation.md) — 15 items
 - [Track-two diplomacy, secondary sanctions architecture, and diplomatic backchannels](diplomacy/02-track-two-diplomacy-sanctions-architecture-and-backchannels.md) — 25 items
+- [Multilateral treaty negotiation, plenipotentiary full powers, and Vienna convention diplomatic immunity](diplomacy/03-multilateral-treaty-negotiation-plenipotentiary-powers-and-diplomatic-immunity.md) — 25 items
 
 ### Distributed Systems ()
 
 - [Consistency, failures, and resilience](distributed-systems/01-consistency-failures-and-resilience.md) — 15 items
 - [Byzantine fault tolerance, gossip protocols, and vector clock causal ordering](distributed-systems/02-byzantine-fault-tolerance-gossip-protocols-and-vector-clocks.md) — 25 items
+- [CAP theorem trade-offs, eventual consistency models, and conflict-free replicated data types (CRDTs)](distributed-systems/03-cap-theorem-tradeoffs-eventual-consistency-and-crdts.md) — 25 items
 
 ### Ecology ()
 
 - [Ecology and species interactions](ecology/01-ecology-and-species-interactions.md) — 15 items
 - [Metapopulation dynamics, trophic downgrading, and ecotone edge effects](ecology/02-metapopulation-dynamics-trophic-downgrading-and-ecotones.md) — 25 items
+- [Apex predator trophic cascades, keystone species dynamics, and ecological regime shifts](ecology/03-trophic-cascades-keystone-predators-and-ecosystem-resilience.md) — 25 items
 
 ### Econometrics ()
 
@@ -1382,51 +1390,61 @@
 
 - [Economic policy and household pressure](economy/01-economic-policy-and-household-pressure.md) — 15 items
 - [Monetary transmission channels, yield curve inversion, and dynamic fiscal multipliers](economy/02-monetary-transmission-yield-curve-inversion-and-fiscal-multipliers.md) — 25 items
+- [Macroeconomic stagflation, adverse supply shocks, and self-reinforcing wage-price spirals](economy/03-stagflation-dynamics-supply-shocks-and-wage-price-spirals.md) — 25 items
 
 ### Education ()
 
 - [Advanced learning and assessment](education/01-advanced-learning-and-assessment.md) — 15 items
 - [Epistemic cognition development, scaffolded inquiry learning, and metacognitive calibration](education/02-epistemic-cognition-scaffolded-inquiry-and-metacognitive-calibration.md) — 25 items
+- [Formative assessment feedback loops, Vygotskian scaffolding pedagogy, and metacognitive self-regulation](education/03-formative-assessment-scaffolding-pedagogy-and-metacognitive-regulation.md) — 25 items
 
 ### Electoral Politics ()
 
 - [Elections and representation](electoral-politics/01-elections-and-representation.md) — 15 items
 - [Partisan gerrymandering metrics, geometric compactness tests, and redistricting jurisprudence](electoral-politics/02-gerrymandering-compactness-metrics-and-redistricting-jurisprudence.md) — 25 items
+- [Voter participation rates, institutional voter suppression, and statutory compulsory voting](electoral-politics/03-electoral-turnout-voter-suppression-and-compulsory-voting.md) — 25 items
 
 ### Energy ()
 
 - [Energy grids and transition](energy/01-energy-grids-and-transition.md) — 15 items
 - [Grid-scale battery storage, sub-second frequency regulation, and capacity market dynamics](energy/02-grid-scale-battery-storage-frequency-regulation-and-capacity-markets.md) — 25 items
+- [Grid-scale battery storage, virtual power plants (VPPs), and ancillary grid frequency regulation](energy/03-grid-scale-battery-storage-virtual-power-plants-and-frequency-regulation.md) — 25 items
 
 ### Engineering ()
 
 - [Engineering materials and reliability](engineering/01-engineering-materials-and-reliability.md) — 15 items
 - [Additive manufacturing metallurgy, laser powder bed fusion, and microstructural anisotropy](engineering/02-additive-manufacturing-powder-bed-fusion-and-microstructural-anisotropy.md) — 25 items
+- [Finite element analysis (FEA), stress concentration factors, and cyclic fatigue life prediction](engineering/03-finite-element-analysis-stress-concentrations-and-fatigue-failure.md) — 25 items
 
 ### Environment ()
 
 - [Biodiversity and environmental stewardship](environment/01-biodiversity-and-environmental-stewardship.md) — 15 items
 - [Coastal blue carbon ecosystems, mangrove peat preservation, and anoxic sediment carbon burial](environment/02-blue-carbon-coastal-wetlands-and-biogeochemical-sediment-sequestration.md) — 25 items
+- [Arctic permafrost thaw, subsea methane hydrates, and positive climate feedback loops](environment/03-permafrost-thaw-methane-hydrates-and-arctic-amplification.md) — 25 items
 
 ### Ethics ()
 
 - [C1 Vocabulary — Ethical decision-making](ethics/01-ethical-decision-making.md) — 20 items
 - [Neo-Aristotelian virtue ethics, practical wisdom (phronesis), and ethical particularism](ethics/02-virtue-ethics-phronesis-and-moral-particularism.md) — 25 items
+- [Algorithmic fairness metrics, disparate impact doctrines, and autonomous AI accountability](ethics/03-algorithmic-fairness-disparate-impact-and-ethical-ai-governance.md) — 25 items
 
 ### Finance ()
 
 - [Financial risk and investment](finance/01-financial-risk-and-investment.md) — 15 items
 - [C1 Vocabulary — Financial regulation and consumer protection](finance/02-financial-regulation-and-consumer-protection.md) — 20 items
+- [Central bank quantitative easing, large-scale asset purchases, and balance sheet normalization](finance/03-quantitative-easing-unconventional-monetary-policy-and-central-bank-balance-sheets.md) — 25 items
 
 ### Food ()
 
 - [Food systems and nutrition](food/01-food-systems-and-nutrition.md) — 15 items
 - [Regenerative agroecosystems, rhizosphere microbiomes, and global food security](food/02-regenerative-agriculture-soil-microbiome-and-food-security.md) — 25 items
+- [Cellular agriculture, precision microbial fermentation, and bioreactor cultured meat cultivation](food/03-cellular-agriculture-precision-fermentation-and-cultured-meat.md) — 25 items
 
 ### Formal Methods ()
 
 - [Verification, logic, and testing](formal-methods/01-verification-logic-and-testing.md) — 15 items
 - [Automated model checking, linear temporal logic (LTL), and state space explosion mitigations](formal-methods/02-model-checking-temporal-logic-and-state-space-explosion.md) — 25 items
+- [Static program analysis, abstract interpretation frameworks, and Galois connections](formal-methods/03-abstract-interpretation-galois-connections-and-static-program-analysis.md) — 25 items
 
 ### Game Theory ()
 
@@ -1447,46 +1465,55 @@
 
 - [Genomics and inheritance](genomics/01-genomics-and-inheritance.md) — 15 items
 - [Precision CRISPR base editing, prime editing reverse transcription, and off-target mitigation](genomics/02-crispr-cas-base-editing-and-prime-editing-precision.md) — 25 items
+- [Epigenetic DNA methylation, histone tail acetylation, and ATP-dependent chromatin remodeling](genomics/03-epigenetic-methylation-chromatin-remodeling-and-histone-acetylation.md) — 25 items
 
 ### Geography ()
 
 - [Geography and spatial patterns](geography/01-geography-and-spatial-patterns.md) — 15 items
 - [Planetary urbanization dynamics, spatial justice, and peri-urban metabolic rifts](geography/02-planetary-urbanization-spatial-justice-and-peri-urban-expansion.md) — 25 items
+- [Drainage basin hydrology, fluvial geomorphology, and riparian buffer ecosystems](geography/03-drainage-basin-hydrology-fluvial-geomorphology-and-riparian-buffers.md) — 25 items
 
 ### Geology ()
 
 - [Geology and Earth processes](geology/01-geology-and-earth-processes.md) — 15 items
 - [Subduction zone metamorphism, slab dehydration fluid fluxing, and volcanic arc petrogenesis](geology/02-subduction-zone-metamorphism-fluid-fluxing-and-arc-magmatism.md) — 25 items
+- [Lithospheric subduction zones, oceanic trenches, and deep mantle plume volcanism](geology/03-plate-tectonics-subduction-zones-and-mantle-plumes.md) — 25 items
 
 ### Geopolitics ()
 
 - [Geopolitics and international order](geopolitics/01-geopolitics-and-international-order.md) — 15 items
 - [Geo-economic statecraft, maritime chokepoint vulnerability, and strategic supply chain reshoring](geopolitics/02-geoeconomic-statecraft-chokepoint-weaponization-and-supply-chain-reshoring.md) — 25 items
+- [Strategic maritime chokepoints, naval blockades, and sea lines of communication (SLOCs)](geopolitics/03-maritime-chokepoints-strait-of-malacca-and-sea-lines-of-communication.md) — 25 items
 
 ### Health ()
 
 - [Clinical risk and treatment](health/01-clinical-risk-and-treatment.md) — 15 items
 - [Zoonotic spillover interfaces, pathogen emergence dynamics, and One Health surveillance](health/02-epidemiological-triad-zoonotic-spillover-and-one-health-surveillance.md) — 25 items
+- [Hospital antimicrobial stewardship, nosocomial infection control, and rapid sepsis resuscitation](health/03-antimicrobial-stewardship-nosocomial-infections-and-sepsis-protocols.md) — 25 items
 
 ### Housing ()
 
 - [Housing markets and tenure](housing/01-housing-markets-and-tenure.md) — 15 items
 - [Housing decommodification, community land trusts, and municipal inclusionary zoning mandates](housing/02-social-housing-decommodification-community-land-trusts-and-inclusionary-zoning.md) — 25 items
+- [Non-profit social housing tenure, inner-city gentrification displacement, and community land trusts (CLTs)](housing/03-social-housing-tenure-gentrification-and-community-land-trusts.md) — 25 items
 
 ### Human Rights ()
 
 - [Rights, obligations, and remedies](human-rights/01-rights-obligations-and-remedies.md) — 15 items
 - [Extraterritorial human rights obligations, universal jurisdiction, and transitional justice tribunals](human-rights/02-extraterritorial-obligations-transitional-justice-and-universal-jurisdiction.md) — 25 items
+- [Transitional justice mechanisms, national truth commissions, and victim restitution reparations](human-rights/03-transitional-justice-truth-commissions-and-reparations.md) — 25 items
 
 ### Hydrology ()
 
 - [Water systems and scarcity](hydrology/01-water-systems-and-scarcity.md) — 15 items
 - [Groundwater overdraft dynamics, managed aquifer recharge, and coastal saline intrusion](hydrology/02-groundwater-depletion-aquifer-recharge-and-saline-intrusion.md) — 25 items
+- [Karst aquifer conduits, speleogenetic cave dissolution, and subterranean dye tracer hydrology](hydrology/03-karst-aquifers-speleogenesis-and-subterranean-tracer-tests.md) — 25 items
 
 ### Immunology ()
 
 - [Immunology and immune defense](immunology/01-immunology-and-immune-defense.md) — 15 items
 - [Adaptive immune repertoires, monoclonal antibody therapies, and hyperinflammatory cytokine storms](immunology/02-adaptive-immunity-monoclonal-antibodies-and-cytokine-storms.md) — 25 items
+- [Chimeric antigen receptor (CAR) T-cell therapy, single-chain scFv binding, and cytokine release syndrome](immunology/03-chimeric-antigen-receptor-t-cells-and-cytokine-release-syndrome.md) — 25 items
 
 ### Institutions ()
 
@@ -1760,23 +1787,28 @@
 
 - [Transport networks and mobility](transport/01-transport-networks-and-mobility.md) — 15 items
 - [Intermodal freight corridors, dynamic berth scheduling, and port hinterland logistics](transport/02-intermodal-freight-corridors-berth-scheduling-and-hinterland-logistics.md) — 25 items
+- [Magnetic levitation (maglev) trains, linear induction motors, and electrodynamic guideway levitation](transport/03-maglev-trains-linear-induction-motors-and-guideway-levitation.md) — 25 items
 
 ### Urban ()
 
 - [Urban design and livability](urban/01-urban-design-and-livability.md) — 15 items
 - [Tactical urbanism, superblock pedestrianization, and 15-minute city accessibility](urban/02-tactical-urbanism-superblock-pedestrianization-and-15-minute-cities.md) — 25 items
+- [Sponge city civil engineering, permeable concrete pavements, and bioretention swale basins](urban/03-sponge-cities-permeable-pavements-and-bioretention-basins.md) — 25 items
 
 ### Volcanology ()
 
 - [Volcanoes and eruption hazards](volcanology/01-volcanoes-and-eruption-hazards.md) — 15 items
 - [Pyroclastic density currents, magmatic degassing kinetics, and volcanic hazard zonation](volcanology/02-pyroclastic-density-currents-degassing-kinetics-and-hazard-zonation.md) — 25 items
+- [Pyroclastic density currents (PDCs), catastrophic caldera collapses, and hyperconcentrated lahar flows](volcanology/03-pyroclastic-density-currents-caldera-collapses-and-lahar-dynamics.md) — 25 items
 
 ### Weather ()
 
 - [Weather systems and forecasting](weather/01-weather-systems-and-forecasting.md) — 15 items
 - [Numerical weather prediction, atmospheric rivers, and ensemble forecasting](weather/02-numerical-weather-prediction-atmospheric-rivers-and-ensemble-forecasting.md) — 25 items
+- [Mesoscale convective systems (MCSs), serial bow-echo derechos, and supercell tornadogenesis](weather/03-mesoscale-convective-systems-derechos-and-supercell-tornadogenesis.md) — 25 items
 
 ### Work ()
 
 - [Organizational dynamics and career paths](work/01-organizational-dynamics-and-career.md) — 15 items
 - [Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md) — 25 items
+- [Platform algorithmic management, automated worker surveillance, and digital Taylorism](work/03-algorithmic-management-gig-worker-surveillance-and-digital-taylorism.md) — 25 items

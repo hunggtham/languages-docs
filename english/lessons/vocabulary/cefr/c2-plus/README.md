@@ -329,55 +329,43 @@
 - [C2+ Vocabulary — International humanitarian law and protection](humanitarian-law/01-international-humanitarian-law-and-protection.md)
 - [C2+ Vocabulary 02 — Belligerent reprisals prohibition, military necessity proportionality calculus, and the principle of distinction in hybrid armed conflicts](humanitarian-law/02-belligerent-reprisal-proportionality-doctrine-and-distinction-in-hybrid-warfare.md)
 - [C2+ Vocabulary 03 — Command responsibility doctrine, grave breaches universal prosecution, and customary IHL in non-international armed conflicts](humanitarian-law/03-grave-breaches-command-responsibility-and-customary-ihl-non-international-conflicts.md)
-
-- [C2+ Vocabulary — International humanitarian law and protection](humanitarian-law/01-international-humanitarian-law-and-protection.md)
-- [C2+ Vocabulary 02 — Belligerent reprisals prohibition, military necessity proportionality calculus, and the principle of distinction in hybrid armed conflicts](humanitarian-law/02-belligerent-reprisal-proportionality-doctrine-and-distinction-in-hybrid-warfare.md)
-- [C2+ Vocabulary 03 — Command responsibility doctrine, grave breaches universal prosecution, and customary IHL in non-international armed conflicts](humanitarian-law/03-grave-breaches-command-responsibility-and-customary-ihl-non-international-conflicts.md)
+- [C2+ Vocabulary 04 — International humanitarian law proportionality in attack, dual-use targeting, and collateral damage estimation](humanitarian-law/04-proportionality-in-attack-dual-use-targeting-and-collateral-damage.md)
+- [C2+ Vocabulary 05 — Principle of distinction, proportionality assessments, and dual-use civil infrastructure](humanitarian-law/05-distinction-proportionality-precaution-and-dual-use-infrastructure.md)
 
 ## hydrology
 - [C2+ Vocabulary — Surface-water and groundwater processes](hydrology/01-surface-water-and-groundwater-processes.md)
 - [C2+ Vocabulary 02 — Karst aquifer conduit networks, speleogenesis, and advective solute transport modeling](hydrology/02-karst-aquifer-conduits-and-solute-transport-modeling.md)
 - [C2+ Vocabulary 03 — Karst aquifer conduit-fissure dual porosity, fluorescent dye breakthrough curve analysis, and epikarst storage dynamics](hydrology/03-karst-hydrogeology-dye-tracing-breakthrough-curves-and-conduit-fissure-flow.md)
-
-- [C2+ Vocabulary — Surface-water and groundwater processes](hydrology/01-surface-water-and-groundwater-processes.md)
-- [C2+ Vocabulary 02 — Karst aquifer conduit networks, speleogenesis, and advective solute transport modeling](hydrology/02-karst-aquifer-conduits-and-solute-transport-modeling.md)
-- [C2+ Vocabulary 03 — Karst aquifer conduit-fissure dual porosity, fluorescent dye breakthrough curve analysis, and epikarst storage dynamics](hydrology/03-karst-hydrogeology-dye-tracing-breakthrough-curves-and-conduit-fissure-flow.md)
+- [C2+ Vocabulary 04 — Riverbed hyporheic exchange flux, transient solute storage, and groundwater residence time distributions](hydrology/04-groundwater-hyporheic-exchange-solute-transport-and-residence-times.md)
+- [C2+ Vocabulary 05 — Hyporheic zone exchange, interstitial water residence time, and streambed nutrient attenuation](hydrology/05-hyporheic-zone-exchange-interstitial-residence-time-and-nutrient-attenuation.md)
 
 ## linguistics
 - [C2+ Vocabulary — Advanced phonology and grammatical change](linguistics/01-advanced-phonology-and-grammatical-change.md)
 - [C2+ Vocabulary — Morphosyntactic typology and contact change](linguistics/02-morphosyntactic-typology-and-contact-change.md)
 - [C2+ Vocabulary 03 — Ergative-absolutive morphosyntactic alignment, split ergativity, and grammaticalized evidentiality](linguistics/03-ergative-absolutive-alignment-and-grammatical-evidentiality.md)
-
-- [C2+ Vocabulary — Advanced phonology and grammatical change](linguistics/01-advanced-phonology-and-grammatical-change.md)
-- [C2+ Vocabulary — Morphosyntactic typology and contact change](linguistics/02-morphosyntactic-typology-and-contact-change.md)
-- [C2+ Vocabulary 03 — Ergative-absolutive morphosyntactic alignment, split ergativity, and grammaticalized evidentiality](linguistics/03-ergative-absolutive-alignment-and-grammatical-evidentiality.md)
+- [C2+ Vocabulary 04 — Polysynthetic morphology, productive noun incorporation, and radical head-marking syntax](linguistics/04-polysynthetic-noun-incorporation-head-marking-and-morphological-complexity.md)
+- [C2+ Vocabulary 05 — Morphosyntactic alignment, split ergativity conditioning, and direct-inverse hierarchical marking](linguistics/05-morphosyntactic-alignment-split-ergativity-and-hierarchical-person-marking.md)
 
 ## marine-biology
 - [C2+ Vocabulary — Marine zones and animal adaptations](marine-biology/01-marine-zones-and-animal-adaptations.md)
 - [C2+ Vocabulary 02 — Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md)
 - [C2+ Vocabulary 03 — Benthic-pelagic organic matter coupling, hydrothermal vent chemosynthesis, and methane cold-seep endosymbiosis](marine-biology/03-benthic-pelagic-coupling-deep-sea-chemosynthesis-and-cold-seep-microbiology.md)
-
-- [C2+ Vocabulary — Marine zones and animal adaptations](marine-biology/01-marine-zones-and-animal-adaptations.md)
-- [C2+ Vocabulary 02 — Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md)
-- [C2+ Vocabulary 03 — Benthic-pelagic organic matter coupling, hydrothermal vent chemosynthesis, and methane cold-seep endosymbiosis](marine-biology/03-benthic-pelagic-coupling-deep-sea-chemosynthesis-and-cold-seep-microbiology.md)
+- [C2+ Vocabulary 04 — Deep-sea hydrothermal vent chemosynthesis, sulfur-oxidizing endosymbionts, and trophosome biochemistry](marine-biology/04-deep-sea-hydrothermal-vent-chemosynthesis-and-endosymbiosis.md)
+- [C2+ Vocabulary 05 — Hydrothermal vent symbioses, chemolithoautotrophic sulfur oxidation, and Riftia trophosome biology](marine-biology/05-hydrothermal-vent-symbiosis-chemolithoautotrophy-and-trophosome-metabolism.md)
 
 ## maritime-logistics
 - [C2+ Vocabulary — Container shipping and trade compliance](maritime-logistics/01-container-shipping-and-trade-compliance.md)
 - [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md)
 - [C2+ Vocabulary 03 — Charterparty demurrage, laytime calculations, and seaworthiness warranties](maritime-logistics/03-charterparty-demurrage-laytime-calculations-and-seaworthiness-warranties.md)
-
-- [C2+ Vocabulary — Container shipping and trade compliance](maritime-logistics/01-container-shipping-and-trade-compliance.md)
-- [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md)
-- [C2+ Vocabulary 03 — Charterparty demurrage, laytime calculations, and seaworthiness warranties](maritime-logistics/03-charterparty-demurrage-laytime-calculations-and-seaworthiness-warranties.md)
+- [C2+ Vocabulary 04 — Automated container terminals, automated guided vehicles (AGVs), and dual-cycling quay crane scheduling](maritime-logistics/04-container-terminal-automated-guided-vehicles-and-quay-crane-scheduling.md)
+- [C2+ Vocabulary 05 — Ultra large container vessels (ULCVs), continuous berth allocation, and quay crane scheduling](maritime-logistics/05-ultra-large-container-vessel-berth-allocation-and-quay-crane-scheduling.md)
 
 ## materials
 - [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md)
 - [C2+ Vocabulary 02 — Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md)
 - [C2+ Vocabulary 03 — High-entropy alloys, severe plastic deformation, and dislocation pinning](materials/03-high-entropy-alloys-severe-plastic-deformation-and-dislocation-pinning.md)
-
-- [C2+ Vocabulary — Corrosion and materials processing](materials/01-corrosion-and-materials-processing.md)
-- [C2+ Vocabulary 02 — Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md)
-- [C2+ Vocabulary 03 — High-entropy alloys, severe plastic deformation, and dislocation pinning](materials/03-high-entropy-alloys-severe-plastic-deformation-and-dislocation-pinning.md)
+- [C2+ Vocabulary 04 — Nitinol shape memory alloys, thermoelastic martensitic transformations, and pseudoelastic hysteresis](materials/04-shape-memory-alloys-martensitic-transformation-and-superelasticity.md)
+- [C2+ Vocabulary 05 — High-entropy alloys (HEAs), core cocktail effect, sluggish diffusion, and severe lattice distortion](materials/05-high-entropy-alloys-sluggish-diffusion-and-severe-lattice-distortion.md)
 
 ## medical-imaging
 - [C2+ Vocabulary — Advanced MRI, CT, and perfusion imaging](medical-imaging/01-advanced-mri-ct-and-perfusion-imaging.md)
@@ -675,6 +663,7 @@
 - [Phytolith morphometrics, starches, and paleodietary reconstruction](archaeobotany/02-phytolith-morphometrics-and-paleodietary-reconstruction.md) — 25 items
 - [Phytolith 3D morphometrics, ancient starch granule taphonomy, and crop domestication syndromes](archaeobotany/03-phytolith-morphometrics-starch-grain-analysis-and-paleoethnobotany.md) — 25 items
 - [Ancient starch grain polarization microscopy, diagnostic extinction crosses, and crop domestication morphometrics](archaeobotany/04-ancient-starch-polarization-microscopy-and-crop-domestication.md) — 25 items
+- [Silica phytolith morphometrics, cereal domestication signatures, and ancient crop processing traceology](archaeobotany/05-phytolith-morphometry-cereal-domestication-and-ancient-crop-processing.md) — 25 items
 
 ### Architecture ()
 
@@ -682,6 +671,7 @@
 - [Phenomenological spatiality, haptic materiality, and tectonic articulation](architecture/02-phenomenological-spatiality-and-tectonic-articulation.md) — 25 items
 - [Tectonic stereotomy, thrust-line graphic statics, and funicular masonry mechanics](architecture/03-tectonic-stereotomy-vaulted-masonry-and-kinematic-structural-optimization.md) — 25 items
 - [Porphyry stereotomy, hyperboloid vault geometries, and load-bearing timber reciprocal frames](architecture/04-porphyry-stereotomy-hyperboloid-vaults-and-reciprocal-timber-frames.md) — 25 items
+- [Brutalist board-marked béton brut, post-tensioned cantilevers, and structural tectonic honesty](architecture/05-brutalist-board-marked-concrete-post-tensioned-cantilevers-and-tectonic-expression.md) — 25 items
 
 ### Astronomy ()
 
@@ -705,6 +695,7 @@
 - [Sourdough microbial ecology, heterofermentative lactic acid fermentation, and gluten viscoelasticity](baking/02-sourdough-microbiome-kinetics-heterofermentative-lactobacilli-and-dough-rheology.md) — 25 items
 - [Sourdough lactic fermentation kinetics, heterofermentative lactobacilli acidification, and Chopin alveographic dough rheology](baking/03-sourdough-lactic-fermentation-heterofermentative-kinetics-and-gas-cell-alveography.md) — 25 items
 - [High-hydration sourdough dough rheology, gluten viscoelasticity, and open-crumb alveolar aeration](baking/04-high-hydration-dough-rheology-and-open-crumb-alveolation.md) — 25 items
+- [Sourdough lactic acid fermentation, heterofermentative lactobacilli, and open crumb alveolation](baking/05-sourdough-lactic-fermentation-heterofermentative-lactobacilli-and-crumb-alveolation.md) — 25 items
 
 ### Biogeochemistry ()
 
@@ -712,6 +703,7 @@
 - [Hydrogenotrophic methanogenesis, ANME consortia, and subseafloor methane sinks](biogeochemistry/02-methanogenesis-pathways-and-anaerobic-oxidation-of-methane.md) — 25 items
 - [High-nutrient low-chlorophyll (HNLC) ocean dynamics, iron-binding siderophores, and biological carbon pumps](biogeochemistry/03-marine-iron-fertilization-high-nutrient-low-chlorophyll-zones-and-carbon-export.md) — 25 items
 - [Oceanic iron fertilization, biological carbon pump efficiency, and mesopelagic particulate carbon flux](biogeochemistry/04-iron-fertilization-oceanic-biological-pump-and-particulate-organic-carbon-flux.md) — 25 items
+- [Dissimilatory iron reduction, anaerobic redox cascades, and authigenic pyrite precipitation](biogeochemistry/05-microbial-iron-reduction-anaerobic-redox-cascades-and-pyrite-authigenesis.md) — 25 items
 
 ### Blacksmithing ()
 
@@ -719,6 +711,7 @@
 - [Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md) — 25 items
 - [Pattern-welded Damascus steel forge welding, solid-state interstitial carbon diffusion, and ferric chloride acid etch topography](blacksmithing/03-pattern-welded-damascus-interstitial-diffusion-and-etch-contrast-metallurgy.md) — 25 items
 - [Pattern-welded Damascus steel forge-welding, carbon diffusion decarburization, and crucible wootz metallurgy](blacksmithing/04-pattern-welded-damascus-steel-decarburization-and-crucible-wootz.md) — 25 items
+- [Pattern-welded Damascus steel, borax fire welding, and torsion twist billet manipulation](blacksmithing/05-damascus-pattern-welding-fire-welding-fluxes-and-torsion-twist-billets.md) — 25 items
 
 ### Book Arts ()
 
@@ -726,6 +719,7 @@
 - [Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md) — 25 items
 - [Historical manuscript water gilding, rabbit-skin glue gesso bole preparation, and dog-tooth agate burnishing](book-arts/03-gold-leaf-gilding-rabbit-skin-glue-bole-and-agate-burnishing.md) — 25 items
 - [Medieval parchment conservation, collagen hydrothermal denaturation, and fiber leafcasting restoration](book-arts/04-parchment-conservation-collagen-gelatinization-and-leafcasting.md) — 25 items
+- [Medieval limp vellum binding, tacketed gatherings, and calfskin parchment conservation](book-arts/05-medieval-limp-vellum-binding-tacketed-quires-and-parchment-conservation.md) — 25 items
 
 ### Cartography ()
 
@@ -733,6 +727,7 @@
 - [Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md) — 25 items
 - [Topographic hypsometric tinting palettes, Swiss-style analytical shaded relief, and digital elevation surface draping](cartography/03-topographic-hypsometric-tints-shaded-relief-and-digital-elevation-drape.md) — 25 items
 - [Multibeam bathymetric sonar, acoustic backscatter classification, and seafloor geomorphometry](cartography/04-bathymetric-multibeam-backscatter-and-seafloor-geomorphology.md) — 25 items
+- [Conformal Mercator projection, loxodromic rhumb lines, and geodetic areal distortion](cartography/05-rhumb-line-loxodromes-conformal-mercator-projection-and-geodetic-distortion.md) — 25 items
 
 ### Causal Identification ()
 
@@ -740,6 +735,7 @@
 - [Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md) — 25 items
 - [Synthetic control estimators, constrained convex optimization weights, and in-space placebo permutation inference](causal-identification/03-synthetic-control-convex-optimization-and-placebo-permutation-inference.md) — 25 items
 - [Synthetic control methods, convex optimization weights, and staggered adoption difference-in-differences](causal-identification/04-synthetic-control-methods-matrix-completion-and-staggered-rollouts.md) — 25 items
+- [Synthetic control methods, convex donor pool weighting, and matrix completion counterfactual recovery](causal-identification/05-synthetic-controls-donor-pool-optimization-and-matrix-completion.md) — 25 items
 
 ### Ceramics ()
 
@@ -747,6 +743,7 @@
 - [Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md) — 25 items
 - [Celadon iron reduction kinetics, washed wood-ash glaze eutectics, and tensile thermal crazing](ceramics/03-celadon-iron-reduction-kinetics-wood-ash-eutectics-and-crazing-tension.md) — 25 items
 - [Wood-fired anagama kiln aerodynamics, natural fly-ash melt, and flashing vapor coloration](ceramics/04-wood-firing-anagama-kiln-ash-deposition-and-flashing-effects.md) — 25 items
+- [Wood-fired anagama kiln firing, natural fly-ash vitrification, and atmospheric clay flashing](ceramics/05-wood-fired-anagama-kilns-natural-ash-glaze-and-clay-flashing.md) — 25 items
 
 ### Cheesemaking ()
 
@@ -754,6 +751,7 @@
 - [Chymosin enzymatic cleavage, kappa-casein micelle destabilization, and curd syneresis kinetics](cheesemaking/02-chymosin-casein-micelle-destabilization-and-curd-syneresis-rheology.md) — 25 items
 - [Propionic fermentation, eye formation mechanics, and secondary proteolysis flavor peptides](cheesemaking/03-propionic-fermentation-eyes-formation-and-secondary-proteolysis-flavor-peptides.md) — 25 items
 - [Alpine copper vat thermal convection, curd scalding syneresis, and Propionibacterium eye formation](cheesemaking/04-alpine-hard-cheese-copper-vat-thermodynamics-and-propionic-fermentation.md) — 25 items
+- [Chymosin enzymatic coagulation, kappa-casein micelle cleavage, and curd syneresis kinetics](cheesemaking/05-chymosin-casein-micelle-coagulation-and-syneresis-whey-expulsion.md) — 25 items
 
 ### Climate Dynamics ()
 
@@ -761,6 +759,7 @@
 - [Atlantic meridional overturning circulation, freshwater hosing, and bistable tipping points](climate-dynamics/02-atlantic-meridional-overturning-circulation-tipping-dynamics.md) — 25 items
 - [Stratospheric quasi-biennial oscillation, equatorial wave-mean flow interactions, and extratropical teleconnections](climate-dynamics/03-quasi-biennial-oscillation-equatorial-wave-mean-flow-interaction-and-teleconnections.md) — 25 items
 - [Atlantic Meridional Overturning Circulation (AMOC) stability, freshwater hosing tipping points, and North Atlantic Deep Water](climate-dynamics/04-atlantic-meridional-overturning-circulation-amoc-tipping-and-deep-water-formation.md) — 25 items
+- [Atlantic Meridional Overturning Circulation (AMOC), thermohaline bistability, and subpolar gyre tipping](climate-dynamics/05-atlantic-meridional-overturning-circulation-amoc-and-thermohaline-collapse.md) — 25 items
 
 ### Coffee ()
 
@@ -768,6 +767,7 @@
 - [Chlorogenic acid lactonization, Strecker aldehyde degradation, and espresso crema foam stabilization](coffee/02-chlorogenic-acid-lactonization-strecker-degradation-and-espresso-crema-viscosity.md) — 25 items
 - [Specialty coffee organic acid speciation, quinic-to-malic chromatographic ratios, and refractometric extraction yields](coffee/03-specialty-coffee-organic-acid-profiles-quinic-malic-ratios-and-refractometric-tds.md) — 25 items
 - [Anaerobic coffee fermentation maceration, targeted yeast inoculation, and volatile ester synthesis](coffee/04-anaerobic-maceration-yeast-inoculation-and-esters-synthesis.md) — 25 items
+- [Anaerobic coffee maceration, carbonic maceration fermentation, and thermal shock washing](coffee/05-anaerobic-maceration-carbonic-fermentation-and-thermal-shock-processing.md) — 25 items
 
 ### Ecological Restoration ()
 
@@ -775,6 +775,7 @@
 - [Trophic rewilding, apex carnivore reintroduction, and landscape-scale ecological cascades](ecological-restoration/02-trophic-rewilding-and-keystone-species-cascades.md) — 25 items
 - [Serpentine soil edaphic endemism, nickel hyperaccumulation kinetics, and phytomining agro-restoration](ecological-restoration/03-serpentine-soil-edaphic-endemism-and-hyperaccumulator-phytomining.md) — 25 items
 - [Arbuscular mycorrhizal fungal networks, spore inoculation, and post-mining tailing revegetation](ecological-restoration/04-mycorrhizal-fungal-networks-spore-inoculation-and-post-mining-revegetation.md) — 25 items
+- [Facilitative nurse plants, arbuscular mycorrhizal inoculation, and serpentine barren revegetation](ecological-restoration/05-nurse-plants-mycorrhizal-inoculation-and-serpentine-barrens-revegetation.md) — 25 items
 
 ### Ecotoxicology ()
 
@@ -798,6 +799,7 @@
 - [Eusocial caste polyphenism, epigenetic differentiation, and trail pheromone volatilization](entomology/02-eusocial-caste-polyphenism-and-chemical-trail-pheromones.md) — 25 items
 - [Eusocial caste polyphenism, juvenile hormone endocrine titers, and mandibular morphometric allometry](entomology/03-eusocial-caste-polyphenism-juvenile-hormone-titers-and-epigenetic-mandibular-allometry.md) — 25 items
 - [Insect cuticular hydrocarbon profiles, chemical mimicry, and social insect nestmate recognition](entomology/04-insect-cuticular-hydrocarbons-chemical-mimicry-and-nestmate-recognition.md) — 25 items
+- [Eusocial caste polyphenism, stomodeal trophallaxis, and trail pheromone synthesis](entomology/05-eusocial-caste-polyphenism-trophallaxis-and-trail-pheromone-synthesis.md) — 25 items
 
 ### Epidemiology ()
 
@@ -836,6 +838,7 @@
 - [Grape must fermentation kinetics, yeast beta-lyase volatile thiol release, and malolactic biotransformation](food-and-wine/02-must-fermentation-kinetics-volatile-thiol-release-and-malolactic-biotransformation.md) — 25 items
 - [Vintage Port brandy fortification kinetics, polymeric pyranoanthocyanin pigment synthesis, and oxidative pipe aging](food-and-wine/03-vintage-port-fortification-anthocyanin-tannin-pyranoanthocyanin-maturation.md) — 25 items
 - [Sauvignon grape methoxypyrazines, varietal polyfunctional thiols, and aromatic terroir typicity](food-and-wine/04-methoxypyrazines-thiols-and-varietal-terroir-typicity.md) — 25 items
+- [Malolactic fermentation (MLF), Oenococcus oeni kinetics, and diacetyl buttery synthesis](food-and-wine/05-malolactic-fermentation-oenococcus-oeni-and-diacetyl-buttery-notes.md) — 25 items
 
 ### Forensic Science ()
 
@@ -843,6 +846,7 @@
 - [Mitochondrial hypervariable sequencing, forensic palynology, and trace elemental geolocation](forensic-science/02-mitochondrial-dna-lineage-and-forensic-palynology.md) — 25 items
 - [Forensic STR allele drop-out, capillary electrophoresis stutter ratios, and continuous probabilistic genotyping](forensic-science/03-str-allele-drop-out-stutter-peak-ratios-and-probabilistic-genotyping.md) — 25 items
 - [Skeletal bone weathering stages, taphonomic traceology, and post-mortem interval estimation](forensic-science/04-bone-weathering-stages-taphonomic-traceology-and-post-mortem-interval.md) — 25 items
+- [Short tandem repeat (STR) multiplexing, capillary electrophoresis, and stochastic allelic drop-out](forensic-science/05-short-tandem-repeat-str-multiplexing-capillary-electrophoresis-and-allelic-dropout.md) — 25 items
 
 ### Genome Regulation ()
 
@@ -850,6 +854,7 @@
 - [Topologically associating domains, loop extrusion mechanics, and transcriptional condensates](genome-regulation/02-three-dimensional-chromatin-architecture-and-phase-separated-condensates.md) — 25 items
 - [Topologically associating domains (TADs), cohesin-driven loop extrusion, and CTCF boundary insulation mechanics](genome-regulation/03-topologically-associating-domains-cohesin-loop-extrusion-and-ctcf-boundary-insulation.md) — 25 items
 - [Phase-separated transcriptional condensates, super-enhancer clustering, and intrinsically disordered domains](genome-regulation/04-phase-separated-transcriptional-condensates-and-super-enhancers.md) — 25 items
+- [R-loop homeostasis, RNase H resolution, and transcription-replication conflict mitigation](genome-regulation/05-r-loop-homeostasis-topoisomerase-activity-and-transcription-replication-conflicts.md) — 25 items
 
 ### Geology ()
 
@@ -857,6 +862,7 @@
 - [Mantle xenolith petrogenesis, eclogite facies metamorphism, and slab fluid metasomatism](geology/02-mantle-xenolith-petrogenesis-and-subduction-zone-metasomatism.md) — 25 items
 - [Deep mantle plume dynamics, primordial helium isotope systematics, and continental flood basalt petrogenesis](geology/03-mantle-plume-geochemistry-helium-isotopic-ratios-and-large-igneous-provinces.md) — 25 items
 - [Eclogite-facies metamorphism, ultra-high-pressure (UHP) coesite inclusions, and deep continental subduction](geology/04-eclogite-facies-metamorphism-ultra-high-pressure-and-coesite-inclusion.md) — 25 items
+- [Granulite facies metamorphism, ultra-high temperature (UHT) petrology, and lower crustal anatexis](geology/05-granulite-facies-metamorphism-ultra-high-temperature-uht-and-crustal-anatexis.md) — 25 items
 
 ### Glaciology ()
 
@@ -864,6 +870,7 @@
 - [Subglacial hydrologic channels, ice shelf buttressing collapse, and marine ice sheet instability](glaciology/02-subglacial-hydrology-ice-shelf-calving-and-grounding-line-retreat.md) — 25 items
 - [Subglacial drainage channelization, basal sliding effective pressure, and marine ice sheet retrograde instability](glaciology/03-subglacial-hydrology-basal-shear-stress-and-marine-ice-sheet-instability.md) — 25 items
 - [Ice shelf buttressing loss, surface meltwater hydrofracture, and marine ice cliff instability (MICI)](glaciology/04-ice-shelf-buttressing-hydrofracture-and-marine-ice-cliff-instability.md) — 25 items
+- [Subglacial hydrologic drainage, distributed linked-cavity networks, and ice-stream stick-slip surging](glaciology/05-subglacial-hydrologic-drainage-cavity-channels-and-ice-sheet-surging.md) — 25 items
 
 ### Glasswork ()
 
@@ -871,6 +878,7 @@
 - [Soda-lime silicate glass rheology, lehr annealing thermal profiles, and devitrification crystallization kinetics](glasswork/02-soda-lime-viscosity-curves-lehr-annealing-and-devitrification-cristobalite.md) — 25 items
 - [Historical stained-glass lead came glazing, linseed putty waterproofing, and potash glass potash leaching corrosion](glasswork/03-came-lead-stained-glass-cementing-and-atmospheric-atmospheric-corrosion-leaching.md) — 25 items
 - [Borosilicate glass lampworking, oxygen-propane torch flame chemistry, and polarimetric strain annealing](glasswork/04-borosilicate-lampworking-punty-shearing-and-annealing-polarimetry.md) — 25 items
+- [Murrine cane cross-sections, glass annealing thermal soak, and borosilicate lampworking](glasswork/05-murrine-canework-annealing-soak-and-borosilicate-lampworking.md) — 25 items
 
 ### Horticulture ()
 
@@ -878,6 +886,7 @@
 - [Shoot apical meristem micropropagation, somaclonal variation, and cryopreservation vitrification](horticulture/02-somaclonal-variation-meristem-micropropagation-and-cryopreservation.md) — 25 items
 - [Pomological scion-rootstock graft compatibility, cambial callus bridge parenchyma, and clonal dwarfing invigoration](horticulture/03-pomological-graft-incompatibility-callus-parenchyma-and-scion-invigoration.md) — 25 items
 - [Deciduous fruit chilling requirement, endodormancy release, and bud break epigenetic markers](horticulture/04-chilling-requirement-dormancy-release-and-endodormancy-epigenetics.md) — 25 items
+- [Graft incompatibility mechanisms, callus bridge parenchyma formation, and vascular reconnection](horticulture/05-graft-incompatibility-callus-bridge-formation-and-vascular-reconnection.md) — 25 items
 
 ### Humanitarian Law ()
 
@@ -885,6 +894,7 @@
 - [Belligerent reprisals prohibition, military necessity proportionality calculus, and the principle of distinction in hybrid armed conflicts](humanitarian-law/02-belligerent-reprisal-proportionality-doctrine-and-distinction-in-hybrid-warfare.md) — 25 items
 - [Command responsibility doctrine, grave breaches universal prosecution, and customary IHL in non-international armed conflicts](humanitarian-law/03-grave-breaches-command-responsibility-and-customary-ihl-non-international-conflicts.md) — 25 items
 - [International humanitarian law proportionality in attack, dual-use targeting, and collateral damage estimation](humanitarian-law/04-proportionality-in-attack-dual-use-targeting-and-collateral-damage.md) — 25 items
+- [Principle of distinction, proportionality assessments, and dual-use civil infrastructure](humanitarian-law/05-distinction-proportionality-precaution-and-dual-use-infrastructure.md) — 25 items
 
 ### Hydrology ()
 
@@ -892,6 +902,7 @@
 - [Karst aquifer conduit networks, speleogenesis, and advective solute transport modeling](hydrology/02-karst-aquifer-conduits-and-solute-transport-modeling.md) — 25 items
 - [Karst aquifer conduit-fissure dual porosity, fluorescent dye breakthrough curve analysis, and epikarst storage dynamics](hydrology/03-karst-hydrogeology-dye-tracing-breakthrough-curves-and-conduit-fissure-flow.md) — 25 items
 - [Riverbed hyporheic exchange flux, transient solute storage, and groundwater residence time distributions](hydrology/04-groundwater-hyporheic-exchange-solute-transport-and-residence-times.md) — 25 items
+- [Hyporheic zone exchange, interstitial water residence time, and streambed nutrient attenuation](hydrology/05-hyporheic-zone-exchange-interstitial-residence-time-and-nutrient-attenuation.md) — 25 items
 
 ### Linguistics ()
 
@@ -899,6 +910,7 @@
 - [C2+ Vocabulary — Morphosyntactic typology and contact change](linguistics/02-morphosyntactic-typology-and-contact-change.md) — 20 items
 - [Ergative-absolutive morphosyntactic alignment, split ergativity, and grammaticalized evidentiality](linguistics/03-ergative-absolutive-alignment-and-grammatical-evidentiality.md) — 25 items
 - [Polysynthetic morphology, productive noun incorporation, and radical head-marking syntax](linguistics/04-polysynthetic-noun-incorporation-head-marking-and-morphological-complexity.md) — 25 items
+- [Morphosyntactic alignment, split ergativity conditioning, and direct-inverse hierarchical marking](linguistics/05-morphosyntactic-alignment-split-ergativity-and-hierarchical-person-marking.md) — 25 items
 
 ### Marine Biology ()
 
@@ -906,6 +918,7 @@
 - [Benthic-pelagic coupling, marine snow flux, and hydrothermal chemosynthetic symbioses](marine-biology/02-benthic-pelagic-coupling-and-deep-sea-chemosynthesis.md) — 25 items
 - [Benthic-pelagic organic matter coupling, hydrothermal vent chemosynthesis, and methane cold-seep endosymbiosis](marine-biology/03-benthic-pelagic-coupling-deep-sea-chemosynthesis-and-cold-seep-microbiology.md) — 25 items
 - [Deep-sea hydrothermal vent chemosynthesis, sulfur-oxidizing endosymbionts, and trophosome biochemistry](marine-biology/04-deep-sea-hydrothermal-vent-chemosynthesis-and-endosymbiosis.md) — 25 items
+- [Hydrothermal vent symbioses, chemolithoautotrophic sulfur oxidation, and Riftia trophosome biology](marine-biology/05-hydrothermal-vent-symbiosis-chemolithoautotrophy-and-trophosome-metabolism.md) — 25 items
 
 ### Maritime Logistics ()
 
@@ -913,6 +926,7 @@
 - [C2+ Vocabulary — Shipping contracts, claims, and sustainability](maritime-logistics/02-shipping-contracts-claims-and-sustainability.md) — 20 items
 - [Charterparty demurrage, laytime calculations, and seaworthiness warranties](maritime-logistics/03-charterparty-demurrage-laytime-calculations-and-seaworthiness-warranties.md) — 25 items
 - [Automated container terminals, automated guided vehicles (AGVs), and dual-cycling quay crane scheduling](maritime-logistics/04-container-terminal-automated-guided-vehicles-and-quay-crane-scheduling.md) — 25 items
+- [Ultra large container vessels (ULCVs), continuous berth allocation, and quay crane scheduling](maritime-logistics/05-ultra-large-container-vessel-berth-allocation-and-quay-crane-scheduling.md) — 25 items
 
 ### Materials ()
 
@@ -920,6 +934,7 @@
 - [Shape memory nitinol metallurgy, thermoelastic martensitic transformation, and superelastic detwinning hysteretic kinetics](materials/02-shape-memory-alloys-martensitic-transformation-and-superelastic-twinning.md) — 25 items
 - [High-entropy alloys, severe plastic deformation, and dislocation pinning](materials/03-high-entropy-alloys-severe-plastic-deformation-and-dislocation-pinning.md) — 25 items
 - [Nitinol shape memory alloys, thermoelastic martensitic transformations, and pseudoelastic hysteresis](materials/04-shape-memory-alloys-martensitic-transformation-and-superelasticity.md) — 25 items
+- [High-entropy alloys (HEAs), core cocktail effect, sluggish diffusion, and severe lattice distortion](materials/05-high-entropy-alloys-sluggish-diffusion-and-severe-lattice-distortion.md) — 25 items
 
 ### Medical Imaging ()
 
@@ -1077,27 +1092,32 @@
 - [C2+ Vocabulary — Tea processing and brewing language](tea/01-tea-processing-and-brewing-language.md) — 20 items
 - [Camellia sinensis polyphenol oxidase kinetics, theaflavin-thearubigin oxidation cascades, and salivary astringency](tea/02-camellia-sinensis-enzymatic-oxidation-theaflavins-and-astringency-polyphenols.md) — 25 items
 - [Wulong tea solar withering, pan-firing enzyme denaturation, and volatile terpene transformation](tea/03-wulong-tea-solar-withering-pan-firing-and-terpene-biotransformation.md) — 25 items
+- [Camellia sinensis terroir, enzymatic solar withering, and theaflavin oxidation chemistry](tea/04-camellia-sinensis-terroir-enzymatic-withering-and-theaflavins-oxidation.md) — 25 items
 
 ### Textiles ()
 
 - [C2+ Vocabulary — Textile weaving, dyeing, and finishing](textiles/01-textile-weaving-dyeing-and-finishing.md) — 20 items
 - [Electronic Jacquard harness shedding, filament yarn viscoelastic creep relaxation, and weave tensile hysteresis](textiles/02-jacquard-shedding-viscoelastic-yarn-creep-and-tensile-hysteresis-rheology.md) — 26 items
 - [Aramid fiber wet-spinning, nematic liquid crystal mesophases, and ballistic impact dissipations](textiles/03-aramid-fiber-wet-spinning-nematic-mesophases-and-ballistic-mechanics.md) — 25 items
+- [Electronic Jacquard loom shedding, warp tension dynamics, and complex brocade weave architectures](textiles/04-jacquard-loom-shedding-warp-tension-and-complex-brocade-weaving.md) — 25 items
 
 ### Urban Planning ()
 
 - [C2+ Vocabulary — Advanced urban planning and land use](urban-planning/01-advanced-urban-planning-and-land-use.md) — 20 items
 - [High-density transit-oriented development, transfer of development rights (TDR), and value capture instruments](urban-planning/02-transit-oriented-development-density-bonuses-and-transfer-of-development-rights.md) — 25 items
 - [Form-based zoning codes, transect-based urbanism, and spatial mismatch mitigation](urban-planning/03-form-based-zoning-codes-transect-urbanism-and-spatial-mismatch.md) — 25 items
+- [Superblock (superilles) perimeter networks, tactical urbanism interventions, and low-traffic neighborhoods (LTNs)](urban-planning/04-superblocks-tactical-urbanism-and-low-traffic-neighborhoods.md) — 25 items
 
 ### Virology ()
 
 - [C2+ Vocabulary — Virus structure, evolution, and assays](virology/01-virus-structure-evolution-and-assays.md) — 20 items
 - [Virology: Infection Dynamics and Phage Biology](virology/02-infection-dynamics-and-phage-biology.md) — 25 items
 - [Viral capsid self-assembly thermodynamics, quasi-equivalence triangulation, and conformational maturation kinetics](virology/03-viral-capsid-self-assembly-thermodynamics-and-maturation-kinetics.md) — 25 items
+- [Viral capsid icosahedral triangulation, cryo-EM envelope glycoprotein reconstruction, and uncoating dynamics](virology/04-viral-capsid-icosahedral-symmetry-and-cryo-em-envelope-reconstruction.md) — 25 items
 
 ### Woodworking ()
 
 - [C2+ Vocabulary — Advanced joinery and lumber behavior](woodworking/01-advanced-joinery-and-lumber-behavior.md) — 20 items
 - [Hardwood anatomical anisotropy, quarter-sawn radial-tangential shrinkage ratios, and proteinaceous hide glue reversibility](woodworking/02-timber-anisotropy-quarter-sawn-radial-shrinkage-and-hide-glue-reversibility.md) — 25 items
 - [Japanese timber framing joinery (kanawa tsugi), seismic resilience, and hand plane dai tuning](woodworking/03-japanese-timber-framing-kanawa-tsugi-and-hand-plane-dai-tuning.md) — 25 items
+- [Hand-planed smoothing finishes, Japanese kanna tuning, and grain tear-out prevention](woodworking/04-hand-planed-smoothing-japanese-kanna-and-wood-grain-tearout-prevention.md) — 25 items

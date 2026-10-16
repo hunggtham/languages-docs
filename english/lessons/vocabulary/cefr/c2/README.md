@@ -123,6 +123,20 @@
 - [C2 Vocabulary 88 — Precision base editing, pegRNA-directed prime editing, and target prime-directed reverse transcription](biomedicine/88-base-editing-prime-editing-and-pegRNA-reverse-transcription.md)
 - [C2 Vocabulary 89 — Spatial transcriptomics barcoding, in situ RNA sequencing, and tumor microenvironment architecture](biomedicine/89-spatial-transcriptomics-in-situ-sequencing-and-tissue-microenvironment.md)
 - [C2 Vocabulary 90 — Gut microbiota short-chain fatty acids, GPR41/43 receptor signaling, and regulatory T-cell epigenetics](biomedicine/90-microbiome-derived-metabolites-scfa-gpr41-43-and-immune-tolerance.md)
+- [C2 Vocabulary 91 — Proteolysis targeting chimeras (PROTACs), chimeric E3 ligase hijacking, and ternary complex kinetics](biomedicine/91-targeted-protein-degradation-protacs-and-ubiquitin-ligase-recruitment.md)
+- [C2 Vocabulary 92 — Matrix-assisted laser desorption ionization (MALDI) imaging spatial lipidomics, and lipid raft microdomains](biomedicine/92-spatial-lipidomics-maldi-imaging-and-membrane-bilayer-heterogeneity.md)
+- [C2 Vocabulary 93 — Single-cell RNA sequencing (scRNA-seq), high-dimensional manifold clustering, and RNA velocity vectors](biomedicine/93-single-cell-transcriptomics-cell-type-clustering-and-rna-velocity.md)
+- [C2 Vocabulary 94 — Cryo-electron microscopy (cryo-EM), single-particle 3D reconstruction, and conformational heterogeneity](biomedicine/94-cryo-electron-microscopy-single-particle-reconstruction-and-conformational-heterogeneity.md)
+- [C2 Vocabulary 95 — In situ sequencing spatial transcriptomics, optical cellular barcoding, and tissue histology integration](biomedicine/95-spatial-transcriptomics-in-situ-sequencing-and-cellular-barcoding.md)
+- [C2 Vocabulary 96 — Catalytically dead Cas9 (dCas9) epigenome editing, targeted DNA methylation, and synthetic chromatin rewiring](biomedicine/96-epigenome-editing-dead-cas9-effectors-and-chromatin-rewiring.md)
+- [C2 Vocabulary 97 — Multiplexed spatial proteomics, CODEX imaging technology, and DNA-barcoded antibody profiling](biomedicine/97-spatial-proteomics-codex-imaging-and-multiplexed-antibody-barcodes.md)
+- [C2 Vocabulary 98 — Camelid single-domain antibodies (nanobodies), VHH paratope architecture, and cryptic epitope access](biomedicine/98-nanobody-therapeutics-vhh-domains-and-camelid-heavy-chain-antibodies.md)
+- [C2 Vocabulary 99 — Prime editing, bipartite pegRNA cassette, and reverse transcriptase Cas9 chimeras](biomedicine/99-prime-editing-peg-rna-and-reverse-transcriptase-cas9-chimeras.md)
+- [C2 Vocabulary 100 — Microfluidic organ-on-a-chip, biomimetic tissue-tissue interfaces, and physiological mechanical actuation](biomedicine/100-organ-on-a-chip-microfluidics-and-biomimetic-tissue-interfaces.md)
+- [C2 Vocabulary 101 — In vivo CAR-T generation, mRNA-loaded lipid nanoparticles, and transient T-cell reprogramming](biomedicine/101-in-vivo-cart-cell-generation-lipid-nanoparticles-and-transient-t-cell-reprogramming.md)
+- [C2 Vocabulary 102 — Cryo-electron tomography (cryo-ET), subtomogram averaging, and in situ cellular ultrastructure](biomedicine/102-cryo-electron-tomography-subtomogram-averaging-and-in-situ-structural-biology.md)
+- [C2 Vocabulary 103 — Spatial transcriptomics, Visium HD resolution, and subcellular RNA sequencing capture](biomedicine/103-spatial-transcriptomics-visium-hd-and-subcellular-rna-capture.md)
+- [C2 Vocabulary 104 — Antibody-drug conjugates (ADCs), cleavable peptidyl linkers, and bystander antitumor killing](biomedicine/104-antibody-drug-conjugates-cleavable-linkers-and-bystander-killing.md)
 
 - [C2 Vocabulary — Proteomics and mass spectrometry](biomedicine/01-proteomics-and-mass-spectrometry.md)
 - [C2 Vocabulary — Single-cell genomics and cell atlases](biomedicine/02-single-cell-genomics-and-cell-atlases.md)
@@ -1402,6 +1416,10 @@
 - [Dialectical ad hominem variants, tu quoque hypocrisy retorts, and circumstantial disqualification](argument/17-ad-hominem-tu-quoque-and-circumstantial-disqualification.md) — 25 items
 - [Causal slippery slope fallacies, continuum sorites paradoxes, and precautionary deliberation](argument/18-slippery-slope-fallacy-causal-sorites-and-precautionary-deliberation.md) — 25 items
 - [Petitio principii, vicious circular reasoning, and epistemic circularity in philosophical debates](argument/19-begging-the-question-circular-reasoning-and-epistemic-circularity.md) — 25 items
+- [Lexical equivocation, semantic drift fallacies, and syntactic amphiboly ambiguity](argument/20-equivocation-semantic-drift-and-amphiboly.md) — 25 items
+- [The Sorites paradox, boundary vagueness, supervaluationism, and epistemicism](argument/21-sorites-paradox-vagueness-and-epistemicism.md) — 25 items
+- [Epistemic peer disagreement, the equal weight view, conciliationism, and steadfastness](argument/22-epistemic-peer-disagreement-conciliationism-and-steadfastness.md) — 25 items
+- [Dialetheism, true contradictions, and paraconsistent Liar paradox resolutions](argument/23-dialetheism-true-contradictions-and-liar-paradox-resolutions.md) — 25 items
 
 ### Biomedicine ()
 
@@ -1501,6 +1519,14 @@
 - [Cryo-electron microscopy (cryo-EM), single-particle 3D reconstruction, and conformational heterogeneity](biomedicine/94-cryo-electron-microscopy-single-particle-reconstruction-and-conformational-heterogeneity.md) — 25 items
 - [In situ sequencing spatial transcriptomics, optical cellular barcoding, and tissue histology integration](biomedicine/95-spatial-transcriptomics-in-situ-sequencing-and-cellular-barcoding.md) — 25 items
 - [Catalytically dead Cas9 (dCas9) epigenome editing, targeted DNA methylation, and synthetic chromatin rewiring](biomedicine/96-epigenome-editing-dead-cas9-effectors-and-chromatin-rewiring.md) — 25 items
+- [Multiplexed spatial proteomics, CODEX imaging technology, and DNA-barcoded antibody profiling](biomedicine/97-spatial-proteomics-codex-imaging-and-multiplexed-antibody-barcodes.md) — 25 items
+- [Camelid single-domain antibodies (nanobodies), VHH paratope architecture, and cryptic epitope access](biomedicine/98-nanobody-therapeutics-vhh-domains-and-camelid-heavy-chain-antibodies.md) — 25 items
+- [Prime editing, bipartite pegRNA cassette, and reverse transcriptase Cas9 chimeras](biomedicine/99-prime-editing-peg-rna-and-reverse-transcriptase-cas9-chimeras.md) — 25 items
+- [Microfluidic organ-on-a-chip, biomimetic tissue-tissue interfaces, and physiological mechanical actuation](biomedicine/100-organ-on-a-chip-microfluidics-and-biomimetic-tissue-interfaces.md) — 25 items
+- [In vivo CAR-T generation, mRNA-loaded lipid nanoparticles, and transient T-cell reprogramming](biomedicine/101-in-vivo-cart-cell-generation-lipid-nanoparticles-and-transient-t-cell-reprogramming.md) — 25 items
+- [Cryo-electron tomography (cryo-ET), subtomogram averaging, and in situ cellular ultrastructure](biomedicine/102-cryo-electron-tomography-subtomogram-averaging-and-in-situ-structural-biology.md) — 25 items
+- [Spatial transcriptomics, Visium HD resolution, and subcellular RNA sequencing capture](biomedicine/103-spatial-transcriptomics-visium-hd-and-subcellular-rna-capture.md) — 25 items
+- [Antibody-drug conjugates (ADCs), cleavable peptidyl linkers, and bystander antitumor killing](biomedicine/104-antibody-drug-conjugates-cleavable-linkers-and-bystander-killing.md) — 25 items
 
 ### Computing ()
 
@@ -1644,6 +1670,14 @@
 - [Probabilistic programming languages (PPL), Hamiltonian Monte Carlo (HMC), and differentiable inference](computing/216-probabilistic-programming-mcmc-sampling-and-differentiable-inference.md) — 25 items
 - [Distributed consensus protocols, Raft leader election, Paxos synod, and Byzantine fault tolerance (BFT)](computing/217-consensus-protocols-raft-paxos-and-byzantine-fault-tolerance.md) — 25 items
 - [Lock-free memory reclamation, hazard pointers, and epoch-based synchronization](computing/218-memory-reclamation-hazard-pointers-and-epoch-based-synchronization.md) — 25 items
+- [Vector databases, approximate nearest neighbors (ANN), and Hierarchical Navigable Small World (HNSW) indexing](computing/219-vector-databases-approximate-nearest-neighbors-and-hnsw-indexing.md) — 25 items
+- [Memory tiering, Compute Express Link (CXL) interconnects, and disaggregated memory pools](computing/220-memory-tiering-cxl-interconnects-and-disaggregated-memory-pools.md) — 25 items
+- [Transformer attention mechanisms, FlashAttention, and KV-cache optimization](computing/221-transformer-attention-mechanisms-flash-attention-and-kv-cache-optimization.md) — 25 items
+- [Non-Volatile Memory Express (NVMe) over Fabrics, RDMA transport, and PCIe Gen 6 PAM-4 signaling](computing/222-non-volatile-memory-express-nvme-over-fabrics-and-pcie-gen6-pam-4.md) — 25 items
+- [Speculative execution microarchitectural side channels, transient execution leaks, and Spectre mitigations](computing/223-speculative-execution-microarchitectural-side-channels-and-spectre-mitigations.md) — 25 items
+- [Raft consensus protocol, log compaction snapshots, and joint consensus cluster membership reconfiguration](computing/224-distributed-consensus-raft-log-compaction-and-joint-consensus-reconfiguration.md) — 25 items
+- [Quantum error correction, surface codes, and magic state distillation protocols](computing/225-quantum-error-correction-surface-codes-and-magic-state-distillation.md) — 25 items
+- [Extended Berkeley Packet Filter (eBPF), Linux kernel programmability, and zero-overhead observability](computing/226-ebpf-linux-kernel-programmability-and-zero-overhead-tracing.md) — 25 items
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md) — 20 items
 - [C2 Vocabulary — Distributed ML training and inference](computing/23-distributed-ml-training-and-inference.md) — 20 items
 - [C2 Vocabulary — Privacy-preserving federated learning](computing/24-privacy-preserving-federated-learning.md) — 20 items
@@ -1744,6 +1778,10 @@
 - [Executive emergency decrees, Schmittian states of exception, and hyper-presidential constitutionalism](governance/17-emergency-decrees-state-of-exception-and-constitutional-hyper-presidentialism.md) — 25 items
 - [Technocratic governance, epistemic democratic legitimacy, and agency regulatory capture](governance/18-technocratic-governance-epistemic-democracy-and-regulatory-capture.md) — 25 items
 - [Fiscal federalism, equalization transfers, flypaper effects, and the subsidiarity principle](governance/19-fiscal-federalism-intergovernmental-transfers-and-subsidiarity.md) — 25 items
+- [Regulatory sandboxes, agile administrative rulemaking, and anticipatory technological governance](governance/20-regulatory-sandboxes-agile-rulemaking-and-anticipatory-regulation.md) — 25 items
+- [Decentralized autonomous organizations (DAOs), smart contract governance, and tokenized voting quorum](governance/21-decentralized-autonomous-organizations-daos-and-algorithmic-governance.md) — 25 items
+- [Sovereign wealth funds (SWFs), Santiago principles transparency, and strategic state capitalism](governance/22-sovereign-wealth-funds-santiago-principles-and-state-capitalism.md) — 25 items
+- [Intergenerational justice, social discount rates, and institutional future generations representation](governance/23-intergenerational-justice-discount-rates-and-future-generations-representation.md) — 25 items
 
 ### Rhetoric ()
 
@@ -1897,6 +1935,10 @@
 - [Pharmacology and drug delivery](rhetoric/97-pharmacology-and-drug-delivery.md) — 20 items
 - [Chemical process engineering and catalysis](rhetoric/98-chemical-process-engineering-and-catalysis.md) — 20 items
 - [Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md) — 20 items
+- [Hyperbaton, syntactic transposition, displaced word order, and poetic inversion](rhetoric/151-hyperbaton-syntactic-transposition-and-poetic-inversion.md) — 25 items
+- [Polysyndeton deliberate conjunctions, asyndeton abrupt omissions, and paratactic coordination](rhetoric/152-polysyndeton-asyndeton-and-paratactic-coordination.md) — 25 items
+- [Catachresis strained metaphors, radical lexical misuse, and semantic abusage](rhetoric/153-catachresis-radical-metaphor-and-semantic-strain.md) — 25 items
+- [Hypallage syntax, transferred epithet displacement, and adjectival semantic dislocation](rhetoric/154-hypallage-transferred-epithet-and-adjectival-dislocation.md) — 25 items
 
 ### Semiconductors ()
 
@@ -2114,3 +2156,7 @@
 - [C2 Vocabulary — Memory-controller scheduling and data integrity](semiconductors/97-memory-controller-scheduling-and-data-integrity.md) — 20 items
 - [C2 Vocabulary — Memory coherence and persistent storage](semiconductors/98-memory-coherence-and-persistent-storage.md) — 20 items
 - [C2 Vocabulary — NVMe I/O control and recovery observability](semiconductors/99-nvme-io-control-and-recovery-observability.md) — 20 items
+- [Spin-orbit torque MRAM (SOT-MRAM), heavy metal Spin Hall effect, and ultrafast non-volatile switching](semiconductors/215-spin-orbit-torque-sot-mram-and-spin-hall-effect-switching.md) — 25 items
+- [Probabilistic computing (p-bits), stochastic magnetic tunnel junctions (s-MTJ), and thermodynamic Ising solvers](semiconductors/216-probabilistic-computing-p-bits-and-stochastic-magnetic-tunnel-junctions.md) — 25 items
+- [Beta-gallium oxide ($\beta\text{-Ga}_2\text{O}_3$), ultra-wide bandgap (UWBG) power devices, and kilovolt power electronics](semiconductors/217-gallium-oxide-ultra-wide-bandgap-and-kilovolt-power-devices.md) — 25 items
+- [Co-packaged optics (CPO), silicon photonics optical engines, and sub-picojoule interconnects](semiconductors/218-co-packaged-optics-cpo-silicon-photonics-and-optical-interconnects.md) — 25 items
