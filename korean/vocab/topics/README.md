@@ -182,6 +182,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [해양 온도차 발전과 염도차 에너지의 언어](./advanced-ocean-thermal-energy-and-salinity-gradient-power/README.md) — `해양 온도차 발전과 압력 지연 삼투 기반 청정 해양 에너지`
 - [위상 절연체와 차세대 스핀트로닉스의 언어](./advanced-topological-insulators-and-spintronics/README.md) — `위상 절연체 표면 상태와 스핀 궤도 토크 기반 저전력 소자`
 - [직접 리튬 추출과 지열 염수 자원화의 언어](./advanced-direct-lithium-extraction-and-geothermal-brine/README.md) — `지열 염수 기반 친환경 직접 리튬 추출과 막 분리 정제`
+- [전계발광 양자점과 차세대 자발광 디스플레이의 언어](./advanced-quantum-dots-and-electroluminescent-displays/README.md) — `전계발광 양자점 디스플레이와 초고색재현 자발광 기술`
+- [미생물 셀룰로오스와 생체 조직 지지체의 언어](./advanced-bacterial-cellulose-and-biomedical-scaffolds/README.md) — `미생물 유래 나노셀룰로오스와 맞춤형 생체 조직 지지체 기술`
+- [고체 냉각과 열량 효과 신소재의 언어](./advanced-solid-state-cooling-and-caloric-materials/README.md) — `무냉매 열량 효과 기반 친환경 고체 냉각 기술`
+- [천연 백색 수소와 지질학적 수소 탐사의 언어](./advanced-geological-hydrogen-and-natural-white-hydrogen/README.md) — `사문암화 반응 기반 천연 백색 수소 지중 매장 탐사 기술`
+- [생체 융합 로봇공학과 생체 구동기의 언어](./advanced-bio-hybrid-robotics-and-living-actuators/README.md) — `살아있는 근육 세포 기반 생체 융합 로봇 액추에이터 기술`
+- [광결정 광섬유와 초연속 스펙트럼의 언어](./advanced-photonic-crystal-fibers-and-supercontinuum-generation/README.md) — `미세구조 광결정 광섬유와 초광대역 초연속 레이저 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

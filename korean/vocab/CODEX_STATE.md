@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,890 new targets across 126 independent topic batches; 6,890 structured headings toward the 10,000 target, leaving 3,110 after this checkpoint.
+- Progress in this checkpoint: 1,980 new targets across 132 independent topic batches; 6,980 structured headings toward the 10,000 target, leaving 3,020 after this checkpoint.
+
+- Topic: `advanced-quantum-dots-and-electroluminescent-displays`
+- File: `01-quantum-dots-and-electroluminescent-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electroluminescent quantum dot displays and QDEL headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean QDEL display passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bacterial-cellulose-and-biomedical-scaffolds`
+- File: `01-bacterial-cellulose-and-biomedical-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bacterial cellulose and biomedical scaffold headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean bacterial cellulose scaffold passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-cooling-and-caloric-materials`
+- File: `01-solid-state-cooling-and-caloric-materials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state cooling and caloric material headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean solid-state cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-geological-hydrogen-and-natural-white-hydrogen`
+- File: `01-geological-hydrogen-and-natural-white-hydrogen.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot natural white hydrogen and geological exploration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean geological white hydrogen passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-hybrid-robotics-and-living-actuators`
+- File: `01-bio-hybrid-robotics-and-living-actuators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-hybrid robotics and living muscle actuator headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean bio-hybrid actuator passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-crystal-fibers-and-supercontinuum-generation`
+- File: `01-photonic-crystal-fibers-and-supercontinuum-generation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic crystal fiber and supercontinuum generation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean photonic crystal fiber passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-superconducting-magnets-and-tokamak-fusion`
 - File: `01-superconducting-magnets-and-tokamak-fusion.md`
