@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,790 new targets across 186 independent topic batches; 7,790 structured headings toward the 10,000 target, leaving 2,210 after this checkpoint.
+- Progress in this checkpoint: 2,880 new targets across 192 independent topic batches; 7,880 structured headings toward the 10,000 target, leaving 2,120 after this checkpoint.
+
+- Topic: `advanced-diamond-semiconductors-and-high-power-electronics`
+- File: `01-diamond-semiconductors-and-high-power-electronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot diamond semiconductors and high-power electronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean diamond semiconductors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-cascade-lasers-and-mid-infrared-spectroscopy`
+- File: `01-quantum-cascade-lasers-and-mid-infrared-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade lasers and mid-infrared spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean quantum cascade lasers passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-superhydrophobic-coatings-and-anti-icing-surfaces`
+- File: `01-superhydrophobic-coatings-and-anti-icing-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot superhydrophobic coatings and anti-icing surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean superhydrophobic coatings passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wearable-thermoelectric-generators-and-body-heat-harvesting`
+- File: `01-wearable-thermoelectric-generators-and-body-heat-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable thermoelectric generators and body heat harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean wearable TEG passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-organic-frameworks-and-atmospheric-water-harvesting`
+- File: `01-metal-organic-frameworks-and-atmospheric-water-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-organic frameworks and atmospheric water harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean MOF water harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-cell-free-protein-synthesis`
+- File: `01-synthetic-biology-cell-free-protein-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cell-free protein synthesis and synthetic biology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean cell-free synthesis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-metasurface-holography-and-light-field-displays`
 - File: `01-metasurface-holography-and-light-field-displays.md`
