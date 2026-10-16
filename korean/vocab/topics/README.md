@@ -480,6 +480,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [사회언어학 및 방언학 언어변이생태계의 언어](./linguistics-sociolinguistics-and-dialectology/README.md) — `사회음운론적 변이형 및 언어위신 공식어변이 기반 등어선 지리언어지도와 소멸위기 토착방언 아카이빙`
 - [촉매화학 및 녹색화학 탄소중립 청정 공정의 언어](./chemistry-catalysis-and-green-chemistry/README.md) — `불균일계 표면흡착 반응속도론 및 원자경제학 기반 CCU 전기화학전환과 단원자 MOF 복합촉매 녹색화학`
 - [수중고고학 및 해양문화유산 보존과학의 언어](./archaeology-underwater-archaeology-and-maritime-heritage/README.md) — `난파선 인양 보존 및 사이드스캔소나 음향탐사 기반 혐기성 갯벌 수침목재 PEG 탈염과 해양 실크로드 복원`
+- [합성바이러스학 및 박테리오파지 치료공학의 언어](./microbiology-synthetic-virology-and-phage-therapy/README.md) — `합성 파지 게놈 리팩토링 및 칵테일 요법 기반 CRISPR 파지 무기화와 항생제 내성 슈퍼박테리아 용균 치료`
+- [행동경제학 및 넛지 이론 선택설계의 언어](./economics-behavioral-economics-and-nudge-theory/README.md) — `제한된 합리성 및 전망이론 손실회피 기반 기본값 옵션 넛지 설계와 심리적 계좌 프레이밍 효과`
+- [구조물 건전성 모니터링 및 스마트 교량공학의 언어](./civil-structural-health-monitoring-and-smart-bridges/README.md) — `FBG 광섬유 센서망 및 모달 파라미터 고유진동수 분석 기반 구조 건전성 실시간 진단과 피로균열 수명 예측`
+- [법의인류학 및 골격생물학 감식의 언어](./anthropology-forensic-anthropology-and-skeletal-biology/README.md) — `골격 생물학적 프로파일 추정 및 두개골 안면복원 기반 치아 방사선 대조와 골절 외상 기전 법의감식`
+- [실리콘 포토닉스 및 광컴퓨팅 집적회로의 언어](./photonics-integrated-silicon-photonics-and-optical-computing/README.md) — `실리콘 도파로 및 마하젠더 광변조기 기반 마이크로링 공진기와 온칩 광인터커넥트 광연산 가속`
+- [해상법 및 해난구조 공동해손 중재의 언어](./law-admiralty-law-and-marine-salvage-arbitration/README.md) — `로이드 표준 해난구조계약 LOF 및 공동해손 요크-앤트워프 규칙 기반 선주 책임제한과 해상중재 판정`
+- [세포농업 및 배양육 조직공학의 언어](./agriculture-cellular-agriculture-and-cultivated-meat/README.md) — `근육줄기세포 대량증식 생물반응기 및 무혈청 배지 기반 3D 다공성 식용지지체와 조직화 배양육 수확`
+- [인지언어학 및 개념적 은유 영상도식의 언어](./linguistics-cognitive-linguistics-and-conceptual-metaphor/README.md) — `개념적 은유 사상 및 영상 도식 체현성 기반 원형 범주화와 프레임 의미론 인지언어 모델링`
+- [미세플라스틱 생분해 및 바이오레메디에이션 환경생태공학의 언어](./environmental-microplastic-biodegradation-and-bioremediation/README.md) — `플라스틱 분해 효소 페타아제 엔지니어링 및 바이오필름 미생물 컨소시엄 기반 생물학적 환경정화와 잔류 독성 평가`
+- [미술품 진위감정 및 과학적 감식학의 언어](./arts-art-authenticity-forensics-and-scientific-connoisseurship/README.md) — `크랙 패턴 및 비파괴 XRF 형광분석 기반 적외선 반사경 밑그림 검출과 미술품 진위 과학감식`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

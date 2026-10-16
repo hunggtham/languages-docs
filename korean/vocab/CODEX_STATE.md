@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,360 new targets across 424 independent topic batches; 11,360 structured headings toward the 15,000 target, leaving 3,640 after this checkpoint.
+- Progress in this checkpoint: 6,510 new targets across 434 independent topic batches; 11,510 structured headings toward the 15,000 target, leaving 3,490 after this checkpoint.
+
+- Topic: `microbiology-synthetic-virology-and-phage-therapy`
+- File: `01-synthetic-virology-and-phage-therapy.md`
+- Coverage: 15 new advanced-native synthetic virology, phage cocktail therapy, CRISPR armed phages, and lytic enzyme engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-and-nudge-theory`
+- File: `01-behavioral-economics-and-nudge-theory.md`
+- Coverage: 15 new advanced-native behavioral economics, bounded rationality, loss aversion, choice architecture nudges, and mental accounting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `civil-structural-health-monitoring-and-smart-bridges`
+- File: `01-structural-health-monitoring-and-smart-bridges.md`
+- Coverage: 15 new advanced-native structural health monitoring, fiber optic FBG sensors, modal parameter identification, and bridge fatigue lifespan prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `anthropology-forensic-anthropology-and-skeletal-biology`
+- File: `01-forensic-anthropology-and-skeletal-biology.md`
+- Coverage: 15 new advanced-native forensic anthropology, biological profile estimation, craniofacial reconstruction, dental radiograph matching, and skeletal trauma analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `photonics-integrated-silicon-photonics-and-optical-computing`
+- File: `01-integrated-silicon-photonics-and-optical-computing.md`
+- Coverage: 15 new advanced-native silicon photonics, Mach-Zehnder optical modulators, microring resonators, on-chip optical interconnects, and photonic AI tensor computing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-admiralty-law-and-marine-salvage-arbitration`
+- File: `01-admiralty-law-and-marine-salvage-arbitration.md`
+- Coverage: 15 new advanced-native admiralty law, Lloyd's Open Form LOF marine salvage, York-Antwerp Rules general average, and maritime arbitration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-cellular-agriculture-and-cultivated-meat`
+- File: `01-cellular-agriculture-and-cultivated-meat.md`
+- Coverage: 15 new advanced-native cellular agriculture, myoblast bioreactor culture, serum-free media, 3D edible scaffolding, and textured cultured meat headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-cognitive-linguistics-and-conceptual-metaphor`
+- File: `01-cognitive-linguistics-and-conceptual-metaphor.md`
+- Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor mappings, image schemas, embodied cognition, and prototype categorization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microplastic-biodegradation-and-bioremediation`
+- File: `01-microplastic-biodegradation-and-bioremediation.md`
+- Coverage: 15 new advanced-native microplastic biodegradation, engineered PETase enzymes, microbial biofilm consortia, bioremediation, and ecotoxicity assessment headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `arts-art-authenticity-forensics-and-scientific-connoisseurship`
+- File: `01-art-authenticity-forensics-and-scientific-connoisseurship.md`
+- Coverage: 15 new advanced-native art authenticity forensics, craquelure pattern analysis, non-destructive XRF spectroscopy, infrared reflectography underdrawing, and dendrochronology headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `astronomy-exoplanets-and-planetary-habitability`
 - File: `01-exoplanets-and-planetary-habitability.md`
