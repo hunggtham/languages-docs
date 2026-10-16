@@ -53,6 +53,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Security Governance And Assurance](./technology/03-security-governance-and-assurance.md)
 - [Cloud Infrastructure And Software Maintenance](./technology/04-cloud-infrastructure-and-software-maintenance.md)
 - [Artificial Intelligence Automation And Data Ethics](./technology/05-artificial-intelligence-automation-and-data-ethics.md)
+- [Cybersecurity Threat Intelligence And Network Defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
 
 ## society
 
@@ -74,12 +75,14 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [News Reporting And Press Operations](./media/01-news-reporting-and-press-operations.md)
 - [Digital Journalism And Mass Communication](./media/02-digital-journalism-and-mass-communication.md)
 - [Digital Platforms Social Media Algorithms And Content Moderation](./media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
+- [Investigative Documentary Broadcast Ethics And Information Integrity](./media/04-investigative-documentary-broadcast-ethics-and-information-integrity.md)
 
 ## environment
 
 - [Environmental Conservation And Climate Action](./environment/01-environmental-conservation-and-climate-action.md)
 - [Renewable Energy And Resource Sustainability](./environment/02-renewable-energy-and-resource-sustainability.md)
 - [Climate Resilience Biodiversity And Conservation Policy](./environment/03-climate-resilience-biodiversity-and-conservation-policy.md)
+- [Industrial Decarbonization Circular Economy And Waste Management](./environment/04-industrial-decarbonization-circular-economy-and-waste-management.md)
 
 ## finance
 
@@ -125,3 +128,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Metropolitan Growth And Municipal Infrastructure](./urban/01-metropolitan-growth-and-municipal-infrastructure.md)
 - [Smart Cities Sustainable Mobility And Urban Zoning](./urban/02-smart-cities-sustainable-mobility-and-urban-zoning.md)
+- [Urban Regeneration Infrastructure Resilience And Civic Placemaking](./urban/03-urban-regeneration-infrastructure-resilience-and-civic-placemaking.md)
