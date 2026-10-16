@@ -320,6 +320,199 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [웨어러블 땀 바이오센서와 미세유체의 언어](./advanced-wearable-sweat-biosensors-and-microfluidics/README.md) — `모세관 유도 미세유체 채널 및 유연 전극 기반 비침습 혈당·젖산·코르티솔 실시간 전기화학 연속 모니터링 기술`
 - [위상 마그노닉스와 스핀파 정보 처리의 언어](./advanced-topological-magnonics-and-spin-waves/README.md) — `스커미온 결정 및 카이랄 스핀파 도파로 기반 열 손실 제로 위상보호 에지 모드 초고속 마그논 논리 연산 기술`
 - [생체분해성 마찰전기 발전기와 에코 전자의 언어](./advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics/README.md) — `천연 고분자 마찰층 및 수용성 다당류 필름 기반 환경 자연분해 단기수명 자가발전 센서 및 에코 전자공학 기술`
+- [홍수 위험과 유역 거버넌스의 언어](./advanced-flood-risk-and-river-basin-governance/README.md) — `홍수 위험을 측정하고 유역의 대응을 조정하다`
+- [리걸테크와 증거 플랫폼의 언어](./advanced-legal-tech-and-evidence-platforms/README.md) — `법률 데이터를 연결하고 절차의 책임을 추적하다`
+- [산림 탄소 회계와 자연 시장의 언어](./advanced-forest-carbon-accounting-and-nature-markets/README.md) — `숲의 탄소와 자연 금융을 읽다`
+- [순환 전자제품과 전자폐기물의 언어](./advanced-circular-electronics-and-e-waste/README.md) — `전자제품의 순환과 회수를 읽다`
+- [우주기상과 위성 회복력의 언어](./advanced-space-weather-and-satellite-resilience/README.md) — `태양 활동과 위성 운영을 읽다`
+- [희귀질환 유전체와 진단 형평성의 언어](./advanced-rare-disease-genomics-and-diagnostic-equity/README.md) — `유전체 진단과 접근 격차를 읽다`
+- [해양 산성화와 블루카본의 언어](./advanced-ocean-acidification-and-blue-carbon/README.md) — `탄산염 화학과 해양 탄소 저장을 읽다`
+- [프라이버시 보존 머신러닝의 언어](./advanced-privacy-preserving-machine-learning/README.md) — `공격과 보호 메커니즘을 읽다`
+- [생태계 복원과 재야생화의 언어](./advanced-ecosystem-restoration-and-rewilding/README.md) — `생태계 회복과 재야생화를 읽다`
+- [리튬 배터리 안전과 재활용의 언어](./advanced-lithium-battery-safety-and-recycling/README.md) — `배터리 진단과 회수 공정을 읽다`
+- [해양 열파와 수산업의 언어](./advanced-marine-heatwaves-and-fisheries/README.md) — `해양 열과 수산 자원 변화를 읽다`
+- [윤리적 AI와 알고리즘 감사의 언어](./advanced-ethical-ai-and-algorithmic-auditing/README.md) — `알고리즘 책임과 감사 절차를 읽다`
+- [식물병리와 식량안보의 언어](./advanced-plant-pathology-and-food-security/README.md) — `식물병 진단과 식량 공급의 회복력을 읽다`
+- [디지털 치료제와 임상 근거의 언어](./advanced-digital-therapeutics-and-clinical-evidence/README.md) — `디지털 치료와 임상 근거를 검증하다`
+- [신경보철 재활의 언어](./advanced-neuroprosthetics-and-rehabilitation/README.md) — `신경보철과 회복 훈련을 읽다`
+- [도시 수인성 병원체 감시의 언어](./advanced-urban-waterborne-pathogen-surveillance/README.md) — `도시 물과 병원체 감시를 읽다`
+- [도시 소음과 환경 건강의 언어](./advanced-urban-noise-and-environmental-health/README.md) — `소음 노출과 건강 영향을 읽다`
+- [양자 소재와 소자 공학의 언어](./advanced-quantum-materials-and-device-engineering/README.md) — `양자 물질과 소자 설계를 읽다`
+- [정밀의료와 바이오마커 검증의 언어](./advanced-precision-medicine-and-biomarker-validation/README.md) — `환자층화와 진단 지표를 읽다`
+- [콘텐츠 조정과 플랫폼 거버넌스의 언어](./advanced-content-moderation-and-platform-governance/README.md) — `온라인 콘텐츠와 집행 원칙을 읽다`
+- [합성생물학과 생물안보의 언어](./advanced-synthetic-biology-and-biosecurity/README.md) — `생물 설계와 안전 경계를 읽다`
+- [도시 식품 체계와 라스트마일 물류의 언어](./advanced-urban-food-systems-and-last-mile-logistics/README.md) — `도시 먹거리와 배송망을 읽다`
+- [행성 지질학과 우주 자원 정책의 언어](./advanced-planetary-geology-and-space-resource-policy/README.md) — `행성 자원과 우주법을 읽다`
+- [농촌 인구와 돌봄 인프라의 언어](./advanced-rural-demography-and-care-infrastructure/README.md) — `지역 소멸과 돌봄 체계를 읽다`
+- [후성유전체와 생애과정 건강의 언어](./advanced-epigenomics-and-lifecourse-health/README.md) — `환경과 생애의 건강 흔적을 읽다`
+- [철도 신호와 자율 운행의 언어](./advanced-railway-signalling-and-autonomous-mobility/README.md) — `열차 제어와 안전 운행을 읽다`
+- [시청각 접근성과 자막의 언어](./advanced-audiovisual-accessibility-and-captioning/README.md) — `콘텐츠 접근성과 자막 설계를 읽다`
+- [해안 공학과 자연 기반 방어의 언어](./advanced-coastal-engineering-and-nature-based-defense/README.md) — `해안 방어와 생태 회복을 읽다`
+- [도시 대기질과 노출 과학의 언어](./advanced-urban-air-quality-and-exposure-science/README.md) — `대기 오염과 노출 격차를 읽다`
+- [시민 기술과 참여예산의 언어](./advanced-civic-technology-and-participatory-budgeting/README.md) — `숙의와 시민 참여를 읽다`
+- [우주 잔해와 궤도 지속가능성의 언어](./advanced-space-debris-and-orbital-sustainability/README.md) — `우주 교통과 잔해 위험을 읽다`
+- [북극 거버넌스와 극지 연구의 언어](./advanced-arctic-governance-and-polar-research/README.md) — `극지 환경과 국제 협력을 읽다`
+- [산불 행동과 생태계 위험의 언어](./advanced-forest-fire-behavior-and-ecosystem-risk/README.md) — `불길의 확산과 산불 뒤 생태를 읽다`
+- [순환 섬유와 패션 지속가능성의 언어](./advanced-circular-textiles-and-fashion-sustainability/README.md) — `의류 생산과 회수의 순환을 읽다`
+- [정밀농업과 센서 거버넌스의 언어](./advanced-precision-agriculture-and-sensor-governance/README.md) — `농업 데이터와 현장 자율성을 읽다`
+- [고분자 순환성과 화학적 재활용의 언어](./advanced-polymer-circularity-and-chemical-recycling/README.md) — `플라스틱 구조와 회수 공정을 읽다`
+- [도시 사면 안정과 산사태 위험의 언어](./advanced-urban-slope-stability-and-landslide-risk/README.md) — `지반 위험과 붕괴 징후를 읽다`
+- [수면 과학과 생체 시계 건강의 언어](./advanced-sleep-science-and-circadian-health/README.md) — `수면 조절과 생체 리듬을 읽다`
+- [도시 교통 접근성과 길찾기의 언어](./advanced-urban-transit-accessibility-and-wayfinding/README.md) — `무장애 이동과 안내 체계를 읽다`
+- [균류 생태와 바이오경제의 언어](./advanced-fungal-ecology-and-bioeconomy/README.md) — `균류 다양성과 바이오리파이너리를 읽다`
+- [도시 건물 개보수와 히트펌프의 언어](./advanced-urban-building-retrofit-and-heat-pumps/README.md) — `건물 효율과 열 전환을 읽다`
+- [법률 문서 자동화와 사법 접근성의 언어](./advanced-legal-document-automation-and-access-to-justice/README.md) — `법률 업무와 권리 접근을 읽다`
+- [도시 미기후와 녹색 지붕의 언어](./advanced-urban-microclimate-and-green-roofs/README.md) — `열섬과 건물 표면의 기후를 읽다`
+- [희토류 분리와 재료 회수의 언어](./advanced-rare-earth-separation-and-materials-recovery/README.md) — `분리 화학과 자원 회수를 읽다`
+- [도시 지표수와 홍수 모델링의 언어](./advanced-urban-surface-water-flood-modelling/README.md) — `강우 유출과 침수 위험을 읽다`
+- [희귀질환 치료 개발의 언어](./advanced-rare-disease-therapeutic-development/README.md) — `임상 개발과 환자 근거를 읽다`
+- [도시 폐열 회수와 지역 에너지의 언어](./advanced-urban-waste-heat-recovery-and-district-energy/README.md) — `폐기물 열과 지역난방을 읽다`
+- [신경면역 상호작용과 정신신경면역학의 언어](./advanced-neuroimmune-interface-and-psychoneuroimmunology/README.md) — `뇌와 면역의 연결을 읽다`
+- [디지털 신원과 검증 가능한 자격증명의 언어](./advanced-digital-identity-and-verifiable-credentials/README.md) — `신원 증명과 데이터 신뢰를 읽다`
+- [도시 수관과 생태계 서비스의 언어](./advanced-urban-tree-canopy-and-ecosystem-services/README.md) — `도시 나무와 생태 연결을 읽다`
+- [지속가능항공유와 항공교통의 언어](./advanced-sustainable-aviation-fuels-and-air-traffic/README.md) — `항공 탈탄소화와 운항 회복을 읽다`
+- [공동체 에너지 저장과 수요반응의 언어](./advanced-community-energy-storage-and-demand-response/README.md) — `분산 전력과 시민 프로슈머를 읽다`
+- [장수 바이오마커와 노화과학의 언어](./advanced-longevity-biomarkers-and-geroscience/README.md) — `노화 기전과 개입 근거를 읽다`
+- [도시 음식물 폐기물과 혐기성 소화의 언어](./advanced-urban-food-waste-and-anaerobic-digestion/README.md) — `음식물 자원화와 바이오가스를 읽다`
+- [공중보건 하수와 항생제 내성의 언어](./advanced-public-health-wastewater-antimicrobial-resistance/README.md) — `환경 내성 감시와 보건을 읽다`
+- [양자 네트워크와 보안 통신의 언어](./advanced-quantum-networking-and-secure-communications/README.md) — `얽힘 분배와 양자 보안을 읽다`
+- [도시 야간경제와 공공공간 안전의 언어](./advanced-urban-nighttime-economy-and-public-space-safety/README.md) — `야간 활동과 보행 안전을 읽다`
+- [미생물 전기화학과 바이오에너지의 언어](./advanced-microbial-electrochemistry-and-bioenergy/README.md) — `미생물 전자전달과 전력 생산을 읽다`
+- [도시 물민감 설계와 스펀지 시티의 언어](./advanced-urban-water-sensitive-design-and-sponge-city/README.md) — `빗물 관리와 물순환 회복을 읽다`
+- [AI 윤리와 인간 증강의 언어](./advanced-ai-ethics-and-human-augmentation/README.md) — `신경권리와 증강 동의를 읽다`
+- [히트펌프와 전력망 유연성의 언어](./advanced-heat-pump-grid-integration-and-flexibility/README.md) — `열 수요와 전력망 연계를 읽다`
+- [해초 복원과 해양 생태계 서비스의 언어](./advanced-marine-seagrass-restoration-and-ecosystem-services/README.md) — `잘피장과 탄소 격리를 읽다`
+- [도시 폭염 건강과 냉방 거점의 언어](./advanced-urban-heat-health-and-cooling-centers/README.md) — `열 안전망과 냉방 접근을 읽다`
+- [원격탐사와 지구 관측의 언어](./advanced-remote-sensing-and-earth-observation/README.md) — `위성 자료와 변화 탐지를 읽다`
+- [도시 열저장과 상변화 물질의 언어](./advanced-urban-thermal-storage-and-phase-change-materials/README.md) — `축열 기술과 피크부하를 읽다`
+- [해양 플라스틱 오염과 미세파편의 언어](./advanced-marine-plastic-pollution-and-microdebris/README.md) — `미세플라스틱과 먹이망 이동을 읽다`
+- [도시 수분매개자 네트워크와 생물다양성의 언어](./advanced-urban-pollinator-networks-and-biodiversity/README.md) — `도시 꽃가루 매개와 생태 연결을 읽다`
+- [빙하 수문학과 빙권 변화의 언어](./advanced-glacier-hydrology-and-cryosphere-change/README.md) — `빙하 유출과 극지 변화를 읽다`
+- [로봇 물류와 창고 자동화의 언어](./advanced-robotic-logistics-and-warehouse-automation/README.md) — `물류 로봇과 운영 병목을 읽다`
+- [민속식물학과 전통지식의 언어](./advanced-ethnobotany-and-traditional-knowledge/README.md) — `생물문화다양성과 이익공유를 읽다`
+- [도시 센서 네트워크와 IoT 거버넌스의 언어](./advanced-urban-sensor-networks-and-iot-governance/README.md) — `센서 보안과 데이터 책임을 읽다`
+- [지속가능 수산업과 혼획 저감의 언어](./advanced-sustainable-fisheries-and-bycatch-reduction/README.md) — `어업 관리와 생태 회복을 읽다`
+- [도시 데이터센터와 물·에너지 발자국의 언어](./advanced-urban-data-centers-and-water-energy-footprint/README.md) — `디지털 인프라와 자원 수요를 읽다`
+- [맹그로브 복원과 블루카본의 언어](./advanced-mangrove-restoration-and-blue-carbon/README.md) — `연안 복원과 탄소 저장을 읽다`
+- [도시 물순환과 중수도의 언어](./advanced-urban-circular-water-and-greywater/README.md) — `잡배수와 재이용수의 순환을 읽다`
+- [생물다양성 유전체와 보전의 언어](./advanced-biodiversity-genomics-and-conservation/README.md) — `유전체 자료와 보전 결정을 읽다`
+- [도시 회복력과 사회적 취약성의 언어](./advanced-urban-resilience-and-social-vulnerability/README.md) — `재난 노출과 지역 회복을 읽다`
+- [토양 미생물군과 탄소 격리의 언어](./advanced-soil-microbiome-and-carbon-sequestration/README.md) — `토양 생태와 탄소 저장을 읽다`
+- [도시 태양 차양과 건물 물리의 언어](./advanced-urban-solar-shading-and-building-physics/README.md) — `일사와 냉방 피크를 읽다`
+- [담수 생태와 하천 복원의 언어](./advanced-freshwater-ecology-and-river-restoration/README.md) — `하천 연결성과 복원을 읽다`
+- [재난 위험 소통과 조기경보의 언어](./advanced-disaster-risk-communication-and-early-warning/README.md) — `경보와 대피 행동을 읽다`
+- [플랫폼 노동과 노동시장 전환의 언어](./advanced-platform-work-and-labor-market-transition/README.md) — `앱 노동과 전환 소득을 읽다`
+- [소재 여권과 순환 조달의 언어](./advanced-material-passports-and-circular-procurement/README.md) — `제품 정보와 회수 의무를 읽다`
+- [고령 돌봄 기술과 지역사회 정착의 언어](./advanced-eldercare-technology-and-ageing-in-place/README.md) — `자립생활과 돌봄 기술을 읽다`
+- [문화유산 디지털화와 반환의 언어](./advanced-cultural-heritage-digitization-and-repatriation/README.md) — `유산 데이터와 반환 협상을 읽다`
+- [공정한 주거 금융과 이주 방지의 언어](./advanced-equitable-housing-finance-and-displacement-prevention/README.md) — `주거 부담과 강제 이주를 읽다`
+- [정신건강 위기 대응과 지역사회 돌봄의 언어](./advanced-mental-health-crisis-response-and-community-care/README.md) — `위기 개입과 회복 연계를 읽다`
+- [도시 임대차 규제와 세입자 보호의 언어](./advanced-urban-rental-regulation-and-tenant-protection/README.md) — `계약 갱신과 퇴거 분쟁을 읽다`
+- [계획 이주와 기후 정의의 언어](./advanced-planned-relocation-and-climate-justice/README.md) — `안전한 이동과 권리 보장을 읽다`
+- [식품 알레르기 정책과 위해 소통의 언어](./advanced-food-allergy-policy-and-risk-communication/README.md) — `알레르겐 관리와 응급 대응을 읽다`
+- [사이버 보안 인력과 역량의 언어](./advanced-cybersecurity-workforce-and-skills/README.md) — `보안 직무와 실전 교육을 읽다`
+- [공급망 인권 실사의 언어](./advanced-supply-chain-human-rights-due-diligence/README.md) — `책임 조달과 노동자 구제를 읽다`
+- [공공도서관 전환과 디지털 포용의 언어](./advanced-public-library-transformation-and-digital-inclusion/README.md) — `지식 접근과 디지털 격차를 읽다`
+- [기후보험과 재난 재정의 언어](./advanced-climate-insurance-and-disaster-finance/README.md) — `위험 이전과 신속 지급을 읽다`
+- [도시 빗물 집수와 물요금 형평성의 언어](./advanced-urban-rainwater-harvesting-and-water-affordability/README.md) — `빗물 재이용과 물접근권을 읽다`
+- [생체자원은행 거버넌스와 유전체 동의의 언어](./advanced-biobank-governance-and-genomic-consent/README.md) — `연구 동의와 자료 책임을 읽다`
+- [사용후배터리 재사용과 전력망 순환성의 언어](./advanced-battery-reuse-and-grid-storage-circularity/README.md) — `이차사용과 자원 회수를 읽다`
+- [의료 데이터 상호운용성과 환자 프라이버시의 언어](./advanced-healthcare-data-interoperability-and-patient-privacy/README.md) — `진료 데이터와 동의 관리를 읽다`
+- [신경다양성 접근성과 직장 조정의 언어](./advanced-neurodivergent-accessibility-and-workplace-accommodation/README.md) — `업무 명료성과 감각 접근을 읽다`
+- [재생농업과 토양 탄소의 언어](./advanced-regenerative-agriculture-and-soil-carbon/README.md) — `농생태와 탄소 보상을 읽다`
+- [해양 공간계획과 블루이코노미의 언어](./advanced-marine-spatial-planning-and-blue-economy/README.md) — `해양 이용 조정과 연안 회복을 읽다`
+- [학교 먹거리 체계와 아동 영양의 언어](./advanced-school-food-systems-and-child-nutrition/README.md) — `급식 공공성과 영양 격차를 읽다`
+- [야생동물 생태통로 거버넌스와 연결성의 언어](./advanced-wildlife-corridor-governance-and-connectivity/README.md) — `경관 연결과 주민 수용을 읽다`
+- [오염 책임과 환경 정화의 언어](./advanced-pollution-liability-and-environmental-remediation/README.md) — `정화 명령과 환경책임을 읽다`
+- [공동체 토지신탁과 주거 안정의 언어](./advanced-community-land-trusts-and-housing-stability/README.md) — `영구 부담가능성과 주민 자치를 읽다`
+- [순환 건설자재와 해체 설계의 언어](./advanced-circular-construction-materials-and-deconstruction/README.md) — `재사용 등급과 내재탄소를 읽다`
+- [도시 기후 피난처와 열 형평성의 언어](./advanced-urban-climate-refuges-and-heat-equity/README.md) — `냉방 접근과 폭염 취약을 읽다`
+- [윤리적 야생동물 관광과 보전 금융의 언어](./advanced-ethical-wildlife-tourism-and-conservation-finance/README.md) — `관광 윤리와 보전 투자를 읽다`
+- [공동체 광대역과 디지털 주권의 언어](./advanced-community-broadband-and-digital-sovereignty/README.md) — `망 공공성과 연결권을 읽다`
+- [해양 탄소 제거 거버넌스의 언어](./advanced-ocean-carbon-removal-governance/README.md) — `탄소 제거와 해양 책임을 읽다`
+- [도시 화물 물류와 연석 관리의 언어](./advanced-urban-freight-and-curb-management/README.md) — `하역 공간과 무배출 배송을 읽다`
+- [언어경관과 다언어 공공서비스의 언어](./advanced-linguistic-landscape-and-multilingual-public-services/README.md) — `언어권리와 행정 통역을 읽다`
+- [공공 디지털 기반시설과 상호운용성의 언어](./advanced-digital-public-infrastructure-and-interoperability/README.md) — `데이터 표준과 서비스 연계를 읽다`
+- [기후 회복력형 의료시설의 언어](./advanced-climate-resilient-healthcare-facilities/README.md) — `비상 전력과 필수의료 연속성을 읽다`
+- [열 회복력형 학교와 아동 건강의 언어](./advanced-heat-resilient-schools-and-child-health/README.md) — `교실 열환경과 건강 형평을 읽다`
+- [산업공생과 자원 교환의 언어](./advanced-industrial-symbiosis-and-resource-exchange/README.md) — `생태산업단지와 에너지 연계를 읽다`
+- [공공공간 설계와 사회적 결속의 언어](./advanced-public-space-design-and-social-cohesion/README.md) — `장소애착과 공간 포용을 읽다`
+- [행성건강과 원헬스 거버넌스의 언어](./advanced-planetary-health-and-one-health-governance/README.md) — `생태계 건강과 공동 위험을 읽다`
+- [재난 대피 물류와 임시거주시설 관리의 언어](./advanced-disaster-evacuation-logistics-and-shelter-management/README.md) — `대피 동선과 구호 우선순위를 읽다`
+- [문화유산 기후 적응과 위험 관리의 언어](./advanced-cultural-heritage-climate-adaptation-and-risk/README.md) — `유산 보존과 기후 위험을 읽다`
+- [순환 식품 포장과 재사용 체계의 언어](./advanced-circular-food-packaging-and-reuse-systems/README.md) — `회수망과 위생 검증을 읽다`
+- [노동 이주와 송금 거버넌스의 언어](./advanced-labor-migration-and-remittance-governance/README.md) — `송금 회랑과 귀환 재통합을 읽다`
+- [주거 에너지 공동체와 지역 유연성의 언어](./advanced-residential-energy-communities-and-local-flexibility/README.md) — `동적요금과 주민 수익공유를 읽다`
+- [허위정보 회복력과 위기 소통의 언어](./advanced-misinformation-resilience-and-crisis-communication/README.md) — `선제 반박과 신뢰 앵커를 읽다`
+- [생물다양성 상쇄와 자연긍정 금융의 언어](./advanced-biodiversity-offsets-and-nature-positive-finance/README.md) — `완화 위계와 자연위험을 읽다`
+- [병원 폐기물 관리와 순환성의 언어](./advanced-hospital-waste-management-and-circularity/README.md) — `감염성 폐기물과 자원순환을 읽다`
+- [디지털 시대의 법률 지원과 자기 대리의 언어](./advanced-legal-aid-digital-access-and-self-representation/README.md) — `법률 접근권과 자기 대리를 읽다`
+- [농촌 광대역망과 원격의료의 언어](./advanced-rural-broadband-and-telehealth/README.md) — `연결 격차와 원격의료를 읽다`
+- [지역사회 조정과 회복적 정의의 언어](./advanced-community-mediation-and-restorative-justice/README.md) — `갈등 조정과 책임 회복을 읽다`
+- [디지털 형식 노후화와 보존의 언어](./advanced-digital-format-obsolescence-and-preservation/README.md) — `기록의 장기 보존을 읽다`
+- [도시 심야 대중교통과 귀가 안전의 언어](./advanced-urban-night-transit-and-safety/README.md) — `막차 이후의 이동과 안전을 읽다`
+- [생태계 복원 모니터링과 적응형 거버넌스의 언어](./advanced-ecosystem-restoration-monitoring-and-adaptive-governance/README.md) — `복원 성과와 적응 관리를 읽다`
+- [법률 번역과 언어 접근의 언어](./advanced-legal-translation-and-language-access/README.md) — `법률 이해와 통역 책임을 읽다`
+- [도시 지하수와 관리형 대수층 함양의 언어](./advanced-urban-groundwater-and-managed-aquifer-recharge/README.md) — `지하 저장과 물 회복력을 읽다`
+- [공공부문 데이터 공유와 신뢰의 언어](./advanced-public-sector-data-sharing-and-trust/README.md) — `기관 간 데이터 책임을 읽다`
+- [수리 경제와 수리권의 언어](./advanced-circular-repair-economy-and-right-to-repair/README.md) — `제품 수명과 수리 접근을 읽다`
+- [지방재정과 기후예산의 언어](./advanced-local-government-finance-and-climate-budgeting/README.md) — `지역 재정과 기후 성과를 읽다`
+- [하수 영양염 회수와 비료 자원화의 언어](./advanced-wastewater-nutrient-recovery-and-resource-reuse/README.md) — `하수 자원과 순환 비료를 읽다`
+- [작업 열안전과 노동자 보호의 언어](./advanced-occupational-heat-safety-and-worker-protection/README.md) — `열위험과 작업자 보호를 읽다`
+- [장애 포용 교통과 보편적 설계의 언어](./advanced-disability-inclusive-transport-and-universal-design/README.md) — `모두의 이동과 접근성을 읽다`
+- [도시 식품 접근성과 건강한 소매 환경의 언어](./advanced-urban-food-access-and-healthy-retail/README.md) — `건강한 선택의 도시 조건을 읽다`
+- [고령자 계속거주 주택과 주거 개조의 언어](./advanced-aging-in-place-housing-and-home-modification/README.md) — `안전한 계속거주를 읽다`
+- [직업성 소음과 청력보존의 언어](./advanced-occupational-noise-and-hearing-conservation/README.md) — `소음 노출과 청력 보호를 읽다`
+- [지역사회 건강요원과 일차의료 outreach의 언어](./advanced-community-health-workers-and-primary-care-outreach/README.md) — `현장 보건과 의료 연계를 읽다`
+- [시민 생태관측과 환경감시의 언어](./advanced-citizen-science-and-environmental-monitoring/README.md) — `참여관측과 자료 검증을 읽다`
+- [농촌 이동진료와 건강 형평성의 언어](./advanced-rural-mobile-clinics-and-health-equity/README.md) — `이동진료와 의료 접근을 읽다`
+- [공동체 텃밭과 먹거리 주권의 언어](./advanced-community-gardens-and-food-sovereignty/README.md) — `지역 먹거리 결정과 돌봄을 읽다`
+- [디지털 문해력과 공공서비스 길찾기의 언어](./advanced-digital-literacy-and-public-service-navigation/README.md) — `행정 서비스 탐색과 전환을 읽다`
+- [공동체 재난 대비와 상호부조의 언어](./advanced-community-disaster-preparedness-and-mutual-aid/README.md) — `재난 전 준비와 주민 연대를 읽다`
+- [주거 에너지 빈곤과 개보수 형평성의 언어](./advanced-housing-energy-poverty-and-retrofit-equity/README.md) — `에너지 부담과 공정한 개보수를 읽다`
+- [연안 어민 생계와 기후 적응의 언어](./advanced-coastal-fisher-livelihoods-and-climate-adaptation/README.md) — `어민 생계와 기후 전환을 읽다`
+- [디지털 콘텐츠 접근성과 멀티미디어 설계의 언어](./advanced-digital-content-accessibility-and-multimedia/README.md) — `여러 감각의 콘텐츠 접근을 읽다`
+- [공동체 마이크로그리드와 에너지 민주주의의 언어](./advanced-community-microgrids-and-energy-democracy/README.md) — `주민 에너지 결정과 이익공유를 읽다`
+- [도시 공중화장실과 위생 형평성의 언어](./advanced-urban-public-toilets-and-sanitation-equity/README.md) — `도시 위생과 접근권을 읽다`
+- [농촌 물 협동조합과 기후 회복력의 언어](./advanced-rural-water-cooperatives-and-climate-resilience/README.md) — `공동 물관리와 가뭄 회복을 읽다`
+- [시민 법률 감시와 경찰 책임의 언어](./advanced-community-legal-observation-and-police-accountability/README.md) — `현장 감시와 공권력 책임을 읽다`
+- [공동체 라디오와 지역 정보 회복력의 언어](./advanced-community-radio-and-local-information-resilience/README.md) — `풀뿌리 매체와 정보 연계를 읽다`
+- [농촌 학교 통학과 교육 접근성의 언어](./advanced-rural-school-transport-and-education-access/README.md) — `통학 안전과 교육 기회를 읽다`
+- [소수언어 교육과 언어 유산의 언어](./advanced-minority-language-education-and-heritage/README.md) — `언어 전승과 공동체 교육을 읽다`
+- [농촌 노인 돌봄 협동조합과 고령화의 언어](./advanced-rural-eldercare-cooperatives-and-aging/README.md) — `지역 돌봄과 세대 통합을 읽다`
+- [공익기술과 알고리즘 투명성의 언어](./advanced-public-interest-technology-and-algorithmic-transparency/README.md) — `공공기술과 시민의 이의제기를 읽다`
+- [시민 서비스 개인정보와 동의의 언어](./advanced-civic-service-privacy-and-consent/README.md) — `공공서비스의 정보 권리를 읽다`
+- [협동조합 주거와 공유자산 거버넌스의 언어](./advanced-cooperative-housing-and-commons-governance/README.md) — `주거 공동소유와 자치 규칙을 읽다`
+- [공동체 냉장고와 식품 구조의 언어](./advanced-community-fridges-and-food-rescue/README.md) — `안전한 식품 재분배를 읽다`
+- [도시 쿨루프와 열 정의의 언어](./advanced-urban-cool-roofs-and-thermal-justice/README.md) — `지붕 냉각과 열 형평을 읽다`
+- [농촌 폐기물 수거와 순환성의 언어](./advanced-rural-waste-collection-and-circularity/README.md) — `분산 수거와 자원 회수를 읽다`
+- [전기차 충전 형평성과 계통 유연성의 언어](./advanced-electric-vehicle-charging-equity-and-grid-flexibility/README.md) — `충전 접근과 전력 유연성을 읽다`
+- [농촌 통신 협동조합과 디지털 포용의 언어](./advanced-rural-telecom-cooperatives-and-digital-inclusion/README.md) — `주민 통신망과 접속권을 읽다`
+- [도시 자전거 인프라와 도로 안전의 언어](./advanced-urban-cycling-infrastructure-and-road-safety/README.md) — `일상 자전거 이동과 안전을 읽다`
+- [공동체 산림 돌봄과 산불 예방의 언어](./advanced-community-forest-stewardship-and-wildfire-prevention/README.md) — `산림 공동관리와 예방 감시를 읽다`
+- [시민 기록과 디지털 기억의 언어](./advanced-civic-archives-and-digital-memory/README.md) — `시민 기록과 공동 기억을 읽다`
+- [도시 식품시장과 가격 안정의 언어](./advanced-urban-food-markets-and-price-stability/README.md) — `시장 가격과 투명한 거래를 읽다`
+- [도시 야간경제와 안전의 언어](./advanced-urban-night-economy-and-safety/README.md) — `밤의 상권과 귀갓길 안전을 읽다`
+- [지역 에너지 협동조합과 에너지 빈곤의 언어](./advanced-community-energy-cooperatives-and-energy-poverty/README.md) — `공동 발전과 에너지 부담을 읽다`
+- [도시 수변 공공공간과 안전의 언어](./advanced-urban-waterfront-public-space-and-safety/README.md) — `물가의 공공공간과 안전을 읽다`
+- [공동체 재난자원봉사와 대피소 운영의 언어](./advanced-community-disaster-volunteer-coordination-and-shelter/README.md) — `재난 대응과 회복을 조정하다`
+- [도시 폭염 대피소와 냉각 운영의 언어](./advanced-urban-heatwave-night-shelters-and-cooling/README.md) — `폭염 속 야간 대피와 냉각을 읽다`
+- [공동체 건강 길찾기와 돌봄 조정의 언어](./advanced-community-health-navigation-and-care-coordination/README.md) — `지역 의료 접근과 돌봄 연계를 읽다`
+- [도시 공공도서관 접근과 디지털 문해력의 언어](./advanced-urban-public-library-access-and-digital-literacy/README.md) — `도서관 접근과 정보 문해를 읽다`
+- [공동체 먹거리 협동조합과 영양 접근의 언어](./advanced-community-food-cooperative-and-nutrition-access/README.md) — `먹거리 협동과 영양 권리를 읽다`
+- [도시 폐품수집인과 순환적 포용의 언어](./advanced-urban-waste-pickers-and-circular-inclusion/README.md) — `비공식 수거와 순환적 포용을 읽다`
+- [공동체 물 감시와 누수 저감의 언어](./advanced-community-water-monitoring-and-leak-reduction/README.md) — `주민 수질 감시와 물 손실을 읽다`
+- [지역사회 노인 돌봄과 사회적 연결의 언어](./advanced-community-eldercare-day-services-and-social-connection/README.md) — `낮 돌봄과 고립 예방을 읽다`
+- [도시 공동체 텃밭과 식량 회복력의 언어](./advanced-urban-community-gardens-and-food-resilience/README.md) — `공동체 재배와 식량 회복력을 읽다`
+- [도시 수어 접근과 공공서비스의 언어](./advanced-urban-sign-language-access-and-public-services/README.md) — `의사소통권과 서비스 접근을 읽다`
+- [공동체 수리카페와 수리할 권리의 언어](./advanced-community-repair-cafes-and-right-to-repair/README.md) — `수리 기술과 제품 수명을 읽다`
+- [도시 대기질 시민센서와 경보의 언어](./advanced-urban-air-quality-citizen-sensors-and-alerts/README.md) — `센서 자료와 건강 경보를 읽다`
+- [공동체 이주민 환대와 언어 접근의 언어](./advanced-community-migrant-welcome-and-language-access/README.md) — `환대센터와 통번역 접근을 읽다`
+- [도시 대피 경로 접근과 길찾기의 언어](./advanced-urban-evacuation-route-access-and-wayfinding/README.md) — `대피 동선과 무장애 길찾기를 읽다`
+- [공동체 학교급식과 아침식사망의 언어](./advanced-community-school-meal-and-breakfast-networks/README.md) — `아동 영양과 급식 공백을 읽다`
+- [도시 그늘 형평성과 수목 돌봄의 언어](./advanced-urban-shade-equity-and-tree-care/README.md) — `그늘 접근과 오래 사는 나무를 읽다`
+- [공동체 원격의료 길찾기와 기기 대여의 언어](./advanced-community-telehealth-navigation-and-device-loans/README.md) — `디지털 진료 접근을 읽다`
+
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
