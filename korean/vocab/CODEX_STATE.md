@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,430 new targets across 162 independent topic batches; 7,430 structured headings toward the 10,000 target, leaving 2,570 after this checkpoint.
+- Progress in this checkpoint: 2,520 new targets across 168 independent topic batches; 7,520 structured headings toward the 10,000 target, leaving 2,480 after this checkpoint.
+
+- Topic: `advanced-metamaterial-cloaking-and-transformation-optics`
+- File: `01-metamaterial-cloaking-and-transformation-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial cloaking and transformation optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean metamaterial cloaking passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-brain-computer-interfaces-and-neural-implants`
+- File: `01-brain-computer-interfaces-and-neural-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot brain-computer interfaces and neural implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean neural implants passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-quantum-dot-displays-and-color-filters`
+- File: `01-perovskite-quantum-dot-displays-and-color-filters.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite quantum dot displays and color filters headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean perovskite QD display passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-graphene-aerogels-and-electrochemical-desalination`
+- File: `01-graphene-aerogels-and-electrochemical-desalination.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot graphene aerogels and capacitive desalination headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean graphene aerogel desalination passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-oxide-electrolysis-and-green-syngas`
+- File: `01-solid-oxide-electrolysis-and-green-syngas.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid oxide electrolysis and green syngas headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean solid oxide electrolysis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanofluidic-osmotic-power-and-blue-energy`
+- File: `01-nanofluidic-osmotic-power-and-blue-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanofluidic osmotic power and blue energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 128-eojeol Korean nanofluidic osmotic power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-perovskite-tandem-solar-cells-and-silicon-integration`
 - File: `01-perovskite-tandem-solar-cells-and-silicon-integration.md`
