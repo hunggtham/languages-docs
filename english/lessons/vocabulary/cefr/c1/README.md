@@ -1068,3 +1068,699 @@
 
 - [C1 Vocabulary 01 — Organizational dynamics and career paths](work/01-organizational-dynamics-and-career.md)
 - [C1 Vocabulary 02 — Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md)
+
+
+## Lessons (414 lessons, 8495 items)
+
+### Agriculture ()
+
+- [Agriculture and land stewardship](agriculture/01-agriculture-and-land-stewardship.md) — 15 items
+- [Controlled environment agriculture, vertical hydroponics, and precision nutrient dosing](agriculture/02-controlled-environment-agriculture-aeroponics-and-nutrient-film-technique.md) — 25 items
+
+### Ai Reliability ()
+
+- [Model evaluation and safety](ai-reliability/01-model-evaluation-and-safety.md) — 15 items
+- [Adversarial robustness, red-teaming, and safety alignment](ai-reliability/02-adversarial-robustness-and-safety-alignment.md) — 25 items
+- [Retrieval-augmented generation, epistemic confidence calibration, and hallucination reduction](ai-reliability/03-hallucination-mitigation-retrieval-augmented-generation-and-groundedness.md) — 25 items
+
+### Analysis ()
+
+- [Interpretation, nuance, and evidence](analysis/01-interpretation-and-nuance.md) — 15 items
+- [Structural equation modeling, latent constructs, and confirmatory factor analysis](analysis/02-structural-equation-modeling-latent-variables-and-confirmatory-factor-analysis.md) — 25 items
+
+### Anthropology ()
+
+- [Culture, kinship, and ethnography](anthropology/01-culture-kinship-and-ethnography.md) — 15 items
+- [Ethnocentrism, stratification, and belief systems](anthropology/02-ethnocentrism-stratification-and-belief-systems.md) — 25 items
+- [Ethnographic reflexivity, thick description, and multispecies coexistence](anthropology/03-ethnographic-reflexivity-and-multispecies-coexistence.md) — 25 items
+- [Sensory ethnography, phenomenology of embodiment, and affective material cultures](anthropology/04-sensory-ethnography-embodied-knowledge-and-material-culture.md) — 25 items
+
+### Archaeology ()
+
+- [Archaeological methods and human origins](archaeology/01-archaeological-methods-and-human-origins.md) — 15 items
+- [Airborne LiDAR surveying, subsurface geophysics, and landscape archaeology stratigraphy](archaeology/02-remote-sensing-lidar-surveying-and-landscape-stratigraphy.md) — 25 items
+
+### Architecture ()
+
+- [Architecture and built form](architecture/01-architecture-and-built-form.md) — 15 items
+- [Design elements and urban spaces](architecture/02-design-elements-and-urban-spaces.md) — 25 items
+- [Vernacular design, thermal mass, and climate-responsive facades](architecture/03-vernacular-design-and-climate-responsive-facades.md) — 25 items
+- [Biophilic urban design, regenerative envelopes, and passive thermal mass dynamics](architecture/04-biophilic-urbanism-passive-cooling-and-thermal-mass-engineering.md) — 25 items
+
+### Arts ()
+
+- [Arts, performance, and visual culture](arts/01-arts-performance-and-visual-culture.md) — 15 items
+- [Art critique and visual analysis](arts/02-art-critique-and-visual-analysis.md) — 25 items
+- [Institutional critique, relational aesthetics, and participatory public art](arts/03-institutional-critique-relational-aesthetics-and-ephemeral-installations.md) — 25 items
+
+### Astronomy ()
+
+- [Astronomy and cosmology](astronomy/01-astronomy-and-cosmology.md) — 15 items
+- [Stellar phenomena and space exploration](astronomy/02-stellar-phenomena-and-space-exploration.md) — 25 items
+- [Exoplanet atmospheric characterization, transmission spectroscopy, and biosignature indicators](astronomy/03-exoplanetary-atmospheres-transit-spectroscopy-and-biosignature-gases.md) — 25 items
+
+### Behavioral Economics ()
+
+- [Decisions and choice architecture](behavioral-economics/01-decisions-and-choice-architecture.md) — 15 items
+- [Biases, social preferences, and self-control](behavioral-economics/02-biases-social-preferences-and-self-control.md) — 20 items
+- [Frictions, social norms, and policy interventions](behavioral-economics/03-frictions-social-norms-and-policy-interventions.md) — 20 items
+- [Behavioral finance and market anomalies](behavioral-economics/04-behavioral-finance-and-market-anomalies.md) — 20 items
+- [Behavioral macroeconomics and household expectations](behavioral-economics/05-behavioral-macroeconomics-and-household-expectations.md) — 20 items
+- [Behavioral public finance and compliance](behavioral-economics/06-behavioral-public-finance-and-compliance.md) — 20 items
+- [Behavioral labor and workplace decisions](behavioral-economics/07-behavioral-labor-and-workplace-decisions.md) — 20 items
+- [Behavioral health insurance and care decisions](behavioral-economics/08-behavioral-health-insurance-and-care-decisions.md) — 20 items
+- [Behavioral environmental decisions and climate action](behavioral-economics/09-behavioral-environmental-decisions-and-climate-action.md) — 20 items
+- [Behavioral political economy and voting](behavioral-economics/10-behavioral-political-economy-and-voting.md) — 20 items
+- [Behavioral education and learning decisions](behavioral-economics/11-behavioral-education-and-learning-decisions.md) — 20 items
+- [Retirement, household finance, and aging decisions](behavioral-economics/12-retirement-household-finance-and-aging-decisions.md) — 20 items
+- [Organizational behavior and management decisions](behavioral-economics/13-organizational-behavior-and-management-decisions.md) — 20 items
+- [Behavioral evidence and experiment design](behavioral-economics/14-behavioral-evidence-and-experiment-design.md) — 20 items
+- [Behavioral law and institutional legitimacy](behavioral-economics/15-behavioral-law-and-institutional-legitimacy.md) — 20 items
+- [Behavioral urban mobility and public space](behavioral-economics/16-behavioral-urban-mobility-and-public-space.md) — 20 items
+- [Behavioral digital platforms and attention](behavioral-economics/17-behavioral-digital-platforms-and-attention.md) — 20 items
+- [Behavioral food, health, and nutrition choices](behavioral-economics/18-behavioral-food-health-and-nutrition-choices.md) — 20 items
+- [Behavioral climate adaptation and disaster preparedness](behavioral-economics/19-behavioral-climate-adaptation-and-disaster-preparedness.md) — 20 items
+- [Behavioral energy and household resource choices](behavioral-economics/20-behavioral-energy-and-household-resource-choices.md) — 20 items
+- [Behavioral time, work, and recovery](behavioral-economics/21-behavioral-time-work-and-recovery.md) — 20 items
+- [Behavioral migration and belonging](behavioral-economics/22-behavioral-migration-and-belonging.md) — 20 items
+- [Behavioral innovation and scientific discovery](behavioral-economics/23-behavioral-innovation-and-scientific-discovery.md) — 20 items
+- [Behavioral culture, identity, and participation](behavioral-economics/24-behavioral-culture-identity-and-participation.md) — 20 items
+- [Behavioral communication and negotiation](behavioral-economics/25-behavioral-communication-and-negotiation.md) — 20 items
+- [Behavioral citizen services and administrative choice](behavioral-economics/26-behavioral-citizen-services-and-administrative-choice.md) — 20 items
+- [Behavioral sport and performance](behavioral-economics/27-behavioral-sport-and-performance.md) — 20 items
+- [Behavioral households, relationships, and care](behavioral-economics/28-behavioral-households-relationships-and-care.md) — 20 items
+- [Behavioral security and digital risk](behavioral-economics/29-behavioral-security-and-digital-risk.md) — 20 items
+- [Behavioral housing and neighborhood choice](behavioral-economics/30-behavioral-housing-and-neighborhood-choice.md) — 20 items
+- [Behavioral travel and tourism choices](behavioral-economics/31-behavioral-travel-and-tourism-choices.md) — 20 items
+- [Behavioral logistics and supply choices](behavioral-economics/32-behavioral-logistics-and-supply-choices.md) — 20 items
+- [Behavioral investing and financial planning](behavioral-economics/33-behavioral-investing-and-financial-planning.md) — 20 items
+- [Behavioral media and entertainment choice](behavioral-economics/34-behavioral-media-and-entertainment-choice.md) — 20 items
+- [Behavioral hiring and career decisions](behavioral-economics/35-behavioral-hiring-and-career-decisions.md) — 20 items
+- [Behavioral leadership and team governance](behavioral-economics/36-behavioral-leadership-and-team-governance.md) — 20 items
+- [Behavioral pricing and consumer choice](behavioral-economics/37-behavioral-pricing-and-consumer-choice.md) — 20 items
+- [Behavioral patient care and health-service choice](behavioral-economics/38-behavioral-patient-care-and-health-service-choice.md) — 20 items
+- [Behavioral language learning and multilingual choice](behavioral-economics/39-behavioral-language-learning-and-multilingual-choice.md) — 20 items
+- [Behavioral climate finance and policy choice](behavioral-economics/40-behavioral-climate-finance-and-policy-choice.md) — 20 items
+- [Behavioral child development and learning choice](behavioral-economics/41-behavioral-child-development-and-learning-choice.md) — 20 items
+- [Behavioral work technology and automation](behavioral-economics/42-behavioral-work-technology-and-automation.md) — 20 items
+- [Behavioral civic participation and elections](behavioral-economics/43-behavioral-civic-participation-and-elections.md) — 20 items
+- [Behavioral science communication and public trust](behavioral-economics/44-behavioral-science-communication-and-public-trust.md) — 20 items
+- [Behavioral Science and Institutional Legitimacy](behavioral-economics/45-behavioral-science-and-institutional-legitimacy.md) — 20 items
+- [Behavioral Public Services and Administrative Experience](behavioral-economics/46-behavioral-public-services-and-administrative-experience.md) — 20 items
+- [Behavioral Crisis Response and Collective Resilience](behavioral-economics/47-behavioral-crisis-response-and-collective-resilience.md) — 20 items
+- [Behavioral Policy Evaluation and Program Learning](behavioral-economics/48-behavioral-policy-evaluation-and-program-learning.md) — 20 items
+- [Behavioral Workplace Wellbeing and Organizational Change](behavioral-economics/49-behavioral-workplace-wellbeing-and-organizational-change.md) — 20 items
+- [Behavioral Negotiation and Conflict Repair](behavioral-economics/50-behavioral-negotiation-and-conflict-repair.md) — 20 items
+- [Behavioral Digital Attention and Platform Design](behavioral-economics/51-behavioral-digital-attention-and-platform-design.md) — 20 items
+- [Behavioral Knowledge Sharing and Epistemic Trust](behavioral-economics/52-behavioral-knowledge-sharing-and-epistemic-trust.md) — 20 items
+- [Behavioral Fiscal Compliance and Public Value](behavioral-economics/53-behavioral-fiscal-compliance-and-public-value.md) — 20 items
+- [Behavioral Environmental Stewardship and Sustainable Habits](behavioral-economics/54-behavioral-environmental-stewardship-and-sustainable-habits.md) — 20 items
+- [Behavioral Health Decisions and Treatment Adherence](behavioral-economics/55-behavioral-health-decisions-and-treatment-adherence.md) — 20 items
+- [Behavioral Aging, Caregiving, and Intergenerational Decisions](behavioral-economics/56-behavioral-aging-caregiving-and-intergenerational-decisions.md) — 20 items
+- [Behavioral Migration, Belonging, and Identity](behavioral-economics/57-behavioral-migration-belonging-and-identity.md) — 20 items
+- [Behavioral Learning, Assessment, and Educational Motivation](behavioral-economics/58-behavioral-learning-assessment-and-educational-motivation.md) — 20 items
+- [Behavioral Leadership, Governance, and Team Accountability](behavioral-economics/59-behavioral-leadership-governance-and-team-accountability.md) — 20 items
+- [Behavioral Economic Inequality and Household Decisions](behavioral-economics/60-behavioral-economic-inequality-and-household-decisions.md) — 20 items
+- [Behavioral Inflation Expectations and Household Finance](behavioral-economics/61-behavioral-inflation-expectations-and-household-finance.md) — 20 items
+- [Behavioral Entrepreneurship and Startup Decisions](behavioral-economics/62-behavioral-entrepreneurship-and-startup-decisions.md) — 25 items
+
+### Biology ()
+
+- [Biology and genetics](biology/01-biology-and-genetics.md) — 15 items
+- [Epigenetic drift, cellular senescence secretomes, and telomeric attrition](biology/02-epigenetic-drift-cellular-senescence-and-telomere-dynamics.md) — 25 items
+
+### Business ()
+
+- [Business strategy and operations](business/01-business-strategy-and-operations.md) — 15 items
+- [Platform ecosystem orchestration, two-sided market dynamics, and multi-homing costs](business/02-platform-orchestration-two-sided-markets-and-network-effects.md) — 25 items
+
+### Change ()
+
+- [Resilience, adaptation, and change](change/01-resilience-and-adaptation.md) — 15 items
+- [Punctuated equilibrium, institutional isomorphism, and sociological paradigm shifts](change/02-punctuated-equilibrium-institutional-isomorphism-and-paradigm-shifts.md) — 25 items
+
+### Chemistry ()
+
+- [Chemistry and reactions](chemistry/01-chemistry-and-reactions.md) — 15 items
+- [Organocatalysis, asymmetric synthesis, and green atom economy](chemistry/02-organocatalysis-green-synthesis-and-atom-economy.md) — 25 items
+- [Supramolecular coordination cages, non-covalent self-assembly, and host-guest cavity kinetics](chemistry/03-supramolecular-coordination-cages-and-host-guest-encapsulation.md) — 25 items
+
+### Cinema ()
+
+- [Cinema and film language](cinema/01-cinema-and-film-language.md) — 15 items
+- [Auteur theory, non-linear cinematic narratives, and diegetic sound design](cinema/02-auteur-theory-non-linear-narrative-and-diegetic-sound.md) — 25 items
+- [Slow cinema aesthetics, durational temporality, and the contemplative visual gaze](cinema/03-slow-cinema-temporality-spatial-realism-and-contemplative-gaze.md) — 25 items
+
+### Cloud Architecture ()
+
+- [Deployment, resilience, and operations](cloud-architecture/01-deployment-resilience-and-operations.md) — 15 items
+- [Serverless orchestration, event-driven mesh, and distributed circuit breakers](cloud-architecture/02-serverless-orchestration-and-event-driven-mesh.md) — 25 items
+- [Distributed state machine consensus, Raft log replication, and split-brain fencing](cloud-architecture/03-distributed-consensus-raft-log-replication-and-split-brain-prevention.md) — 25 items
+
+### Communication ()
+
+- [Diplomatic and persuasive communication](communication/01-diplomatic-and-persuasive-communication.md) — 15 items
+- [Critical discourse analysis, ideological news framing, and sociolinguistic hegemony](communication/02-critical-discourse-analysis-ideological-framing-and-hegemonic-rhetoric.md) — 25 items
+
+### Comparative Politics ()
+
+- [Regimes and democratic change](comparative-politics/01-regimes-and-democratic-change.md) — 15 items
+- [Electoral authoritarianism, executive aggrandizement, and democratic backsliding](comparative-politics/02-electoral-authoritarianism-and-democratic-backsliding.md) — 25 items
+- [Hybrid regime institutionalization, political clientelism, and subnational authoritarian enclaves](comparative-politics/03-hybrid-regimes-clientelism-and-subnational-authoritarianism.md) — 25 items
+
+### Computer Science ()
+
+- [Computing concepts and systems](computer-science/01-computing-concepts-and-systems.md) — 15 items
+- [Computational complexity, NP-completeness, and randomized approximation](computer-science/02-computational-complexity-and-probabilistic-algorithms.md) — 25 items
+
+### Constitutional Law ()
+
+- [Constitutional structure and review](constitutional-law/01-constitutional-structure-and-review.md) — 15 items
+- [Constitutional judicial review, proportionality doctrine, and rights balancing](constitutional-law/02-judicial-review-proportionality-and-rights-balancing.md) — 25 items
+
+### Corporate Governance ()
+
+- [Boards, ownership, and accountability](corporate-governance/01-boards-ownership-and-accountability.md) — 15 items
+- [Institutional stewardship codes, proxy advisory influence, and activist shareholder campaigns](corporate-governance/02-stewardship-codes-proxy-voting-advisories-and-shareholder-activism.md) — 25 items
+
+### Criminal Justice ()
+
+- [Crime, evidence, and sentencing](criminal-justice/01-crime-evidence-and-sentencing.md) — 15 items
+- [Restorative justice conferencing, victim-offender reconciliation, and recidivism mitigation](criminal-justice/02-restorative-justice-conferencing-recidivism-reduction-and-victim-reparation.md) — 25 items
+
+### Cryptography ()
+
+- [Cryptography and secure communication](cryptography/01-cryptography-and-secure-communication.md) — 15 items
+- [Zero-knowledge proofs, post-quantum cryptography, and homomorphic encryption](cryptography/02-zero-knowledge-proofs-and-homomorphic-encryption.md) — 25 items
+
+### Culture ()
+
+- [Cultural criticism and representation](culture/01-cultural-criticism-and-representation.md) — 15 items
+- [Post-structuralist semiotics, cultural hegemony, and subcultural appropriation](culture/02-post-structuralist-semiotics-and-cultural-hegemony.md) — 25 items
+
+### Cybersecurity ()
+
+- [Threats, defense, and testing](cybersecurity/01-threats-defense-and-testing.md) — 15 items
+- [Zero trust architecture, continuous attestation, and identity federation](cybersecurity/02-zero-trust-architecture-and-identity-federation.md) — 25 items
+
+### Data Governance ()
+
+- [Stewardship, privacy, and accountability](data-governance/01-stewardship-privacy-and-accountability.md) — 15 items
+- [Data sovereignty, cross-border flows, and jurisdictional privacy regimes](data-governance/02-data-sovereignty-cross-border-flows-and-privacy-regimes.md) — 25 items
+
+### Data Science ()
+
+- [Data science and model validation](data-science/01-data-science-and-model-validation.md) — 15 items
+- [Algorithmic fairness, explainable machine learning, and concept drift](data-science/02-algorithmic-fairness-explainable-ai-and-feature-drift.md) — 25 items
+
+### Database Systems ()
+
+- [Transactions, storage, and analytics](database-systems/01-transactions-storage-and-analytics.md) — 15 items
+- [Distributed consensus protocols, ACID-to-BASE transitions, and horizontal sharding](database-systems/02-distributed-consensus-acid-guarantees-and-sharding.md) — 25 items
+
+### Demography ()
+
+- [Population change and transition](demography/01-population-change-and-transition.md) — 15 items
+- [Sub-replacement fertility, demographic shrinkage, and intergenerational transfers](demography/02-sub-replacement-fertility-and-intergenerational-transfers.md) — 25 items
+
+### Diplomacy ()
+
+- [Diplomatic strategy and negotiation](diplomacy/01-diplomatic-strategy-and-negotiation.md) — 15 items
+- [Track-two diplomacy, secondary sanctions architecture, and diplomatic backchannels](diplomacy/02-track-two-diplomacy-sanctions-architecture-and-backchannels.md) — 25 items
+
+### Distributed Systems ()
+
+- [Consistency, failures, and resilience](distributed-systems/01-consistency-failures-and-resilience.md) — 15 items
+- [Byzantine fault tolerance, gossip protocols, and vector clock causal ordering](distributed-systems/02-byzantine-fault-tolerance-gossip-protocols-and-vector-clocks.md) — 25 items
+
+### Ecology ()
+
+- [Ecology and species interactions](ecology/01-ecology-and-species-interactions.md) — 15 items
+- [Metapopulation dynamics, trophic downgrading, and ecotone edge effects](ecology/02-metapopulation-dynamics-trophic-downgrading-and-ecotones.md) — 25 items
+
+### Econometrics ()
+
+- [Causal inference and data structure](econometrics/01-causal-inference-and-data-structure.md) — 15 items
+- [Evaluation design and estimands](econometrics/02-evaluation-design-and-estimands.md) — 20 items
+- [Experimental design and policy evaluation](econometrics/02-experimental-design-and-policy-evaluation.md) — 20 items
+- [Specification diagnostics and panel estimators](econometrics/03-specification-diagnostics-and-panel-estimators.md) — 20 items
+- [Time-series dynamics and forecasting](econometrics/04-time-series-dynamics-and-forecasting.md) — 20 items
+- [Survey sampling and weighted inference](econometrics/05-survey-sampling-and-weighted-inference.md) — 20 items
+- [Volatility and risk forecasting](econometrics/06-volatility-and-risk-forecasting.md) — 20 items
+- [Spatial econometrics and geographic dependence](econometrics/07-spatial-econometrics-and-geographic-dependence.md) — 20 items
+- [Matching and weighted causal estimation](econometrics/08-matching-and-weighted-causal-estimation.md) — 20 items
+- [Heterogeneous and mediated treatment effects](econometrics/09-heterogeneous-and-mediated-treatment-effects.md) — 20 items
+- [Sensitivity and robustness analysis](econometrics/10-sensitivity-and-robustness-analysis.md) — 20 items
+- [Survival and time-to-event analysis](econometrics/11-survival-and-time-to-event-analysis.md) — 20 items
+- [Monte Carlo and estimator diagnostics](econometrics/12-monte-carlo-and-estimator-diagnostics.md) — 20 items
+- [Discrete choice and limited dependent variables](econometrics/13-discrete-choice-and-limited-dependent-variables.md) — 20 items
+- [Nonparametric and semiparametric estimation](econometrics/14-nonparametric-and-semiparametric-estimation.md) — 20 items
+- [Threshold and regime-switching models](econometrics/15-threshold-and-regime-switching-models.md) — 20 items
+- [Errors in variables and misclassification](econometrics/16-errors-in-variables-and-misclassification.md) — 20 items
+- [Count models and event rates](econometrics/17-count-models-and-event-rates.md) — 20 items
+- [Instrumental variables and weak identification](econometrics/18-instrumental-variables-and-weak-identification.md) — 20 items
+- [GMM and moment-based estimation](econometrics/19-gmm-and-moment-based-estimation.md) — 20 items
+- [Policy learning and causal decision rules](econometrics/20-policy-learning-and-causal-decision-rules.md) — 20 items
+- [Quantile and distributional effects](econometrics/21-quantile-and-distributional-effects.md) — 20 items
+- [Network econometrics and peer effects](econometrics/22-network-econometrics-and-peer-effects.md) — 20 items
+- [Dynamic panels and system GMM](econometrics/23-dynamic-panels-and-system-gmm.md) — 20 items
+- [Forecast evaluation and predictive distributions](econometrics/24-forecast-evaluation-and-predictive-distributions.md) — 20 items
+- [Risk backtesting and systemic risk](econometrics/25-risk-backtesting-and-systemic-risk.md) — 20 items
+- [Asset pricing and portfolio econometrics](econometrics/26-asset-pricing-and-portfolio-econometrics.md) — 20 items
+- [State-space and mixed-frequency forecasting](econometrics/27-state-space-and-mixed-frequency-forecasting.md) — 20 items
+- [Environmental and energy policy econometrics](econometrics/28-environmental-and-energy-policy-econometrics.md) — 20 items
+- [Labor-market econometrics and wage dynamics](econometrics/29-labor-market-econometrics-and-wage-dynamics.md) — 20 items
+- [Firm productivity and industrial dynamics](econometrics/30-firm-productivity-and-industrial-dynamics.md) — 20 items
+- [Taxation and fiscal behavior](econometrics/31-taxation-and-fiscal-behavior.md) — 20 items
+- [Sovereign debt and fiscal sustainability](econometrics/32-sovereign-debt-and-fiscal-sustainability.md) — 20 items
+- [Monetary-policy transmission and identification](econometrics/33-monetary-policy-transmission-and-identification.md) — 20 items
+- [International macro and exchange rates](econometrics/34-international-macro-and-exchange-rates.md) — 20 items
+- [Trade policy and trade elasticities](econometrics/35-trade-policy-and-trade-elasticities.md) — 20 items
+- [Development and household policy evaluation](econometrics/36-development-and-household-policy-evaluation.md) — 20 items
+- [Education economics and skill formation](econometrics/37-education-economics-and-skill-formation.md) — 20 items
+- [Urban and regional economics](econometrics/38-urban-and-regional-economics.md) — 20 items
+- [Political economy and institutional performance](econometrics/39-political-economy-and-institutional-performance.md) — 20 items
+- [Industrial organization and market structure](econometrics/40-industrial-organization-and-market-structure.md) — 20 items
+- [Competition policy and merger remedies](econometrics/41-competition-policy-and-merger-remedies.md) — 20 items
+- [Auction econometrics and demand estimation](econometrics/42-auction-econometrics-and-demand-estimation.md) — 20 items
+- [Dynamic discrete choice and structural decisions](econometrics/43-dynamic-discrete-choice-and-structural-decisions.md) — 20 items
+- [Bayesian computation and posterior diagnostics](econometrics/44-bayesian-computation-and-posterior-diagnostics.md) — 20 items
+- [Bayesian causal decisions and treatment uncertainty](econometrics/45-bayesian-causal-decisions-and-treatment-uncertainty.md) — 20 items
+- [Bayesian state-space forecasting and regime uncertainty](econometrics/46-bayesian-state-space-forecasting-and-regime-uncertainty.md) — 20 items
+- [Hierarchical panel models and group variation](econometrics/47-hierarchical-panel-models-and-group-variation.md) — 20 items
+- [Panel attrition and missingness processes](econometrics/48-panel-attrition-and-missingness-processes.md) — 20 items
+- [Transportability and generalization of effects](econometrics/49-transportability-and-generalization-of-effects.md) — 20 items
+- [Causal machine learning and heterogeneous effects](econometrics/50-causal-machine-learning-and-heterogeneous-effects.md) — 20 items
+- [Mediation and principal stratification](econometrics/51-mediation-and-principal-stratification.md) — 20 items
+- [Proxy variables and measurement error](econometrics/52-proxy-variables-and-measurement-error.md) — 20 items
+- [Interference, spillovers, and network exposure](econometrics/53-interference-spillovers-and-network-exposure.md) — 20 items
+- [Continuous treatment and dose-response analysis](econometrics/54-continuous-treatment-and-dose-response.md) — 20 items
+- [Causal survival and competing risks](econometrics/55-causal-survival-and-competing-risks.md) — 20 items
+- [Identification and asymptotic inference](econometrics/56-identification-and-asymptotic-inference.md) — 20 items
+- [Bayesian nonparametric models and processes](econometrics/57-bayesian-nonparametric-models-and-processes.md) — 20 items
+- [Network formation and strategic links](econometrics/58-network-formation-and-strategic-links.md) — 20 items
+- [Synthetic control and counterfactual panels](econometrics/59-synthetic-control-and-counterfactual-panels.md) — 20 items
+- [Event studies and staggered adoption](econometrics/60-event-studies-and-staggered-adoption.md) — 20 items
+
+### Economy ()
+
+- [Economic policy and household pressure](economy/01-economic-policy-and-household-pressure.md) — 15 items
+- [Monetary transmission channels, yield curve inversion, and dynamic fiscal multipliers](economy/02-monetary-transmission-yield-curve-inversion-and-fiscal-multipliers.md) — 25 items
+
+### Education ()
+
+- [Advanced learning and assessment](education/01-advanced-learning-and-assessment.md) — 15 items
+- [Epistemic cognition development, scaffolded inquiry learning, and metacognitive calibration](education/02-epistemic-cognition-scaffolded-inquiry-and-metacognitive-calibration.md) — 25 items
+
+### Electoral Politics ()
+
+- [Elections and representation](electoral-politics/01-elections-and-representation.md) — 15 items
+- [Partisan gerrymandering metrics, geometric compactness tests, and redistricting jurisprudence](electoral-politics/02-gerrymandering-compactness-metrics-and-redistricting-jurisprudence.md) — 25 items
+
+### Energy ()
+
+- [Energy grids and transition](energy/01-energy-grids-and-transition.md) — 15 items
+- [Grid-scale battery storage, sub-second frequency regulation, and capacity market dynamics](energy/02-grid-scale-battery-storage-frequency-regulation-and-capacity-markets.md) — 25 items
+
+### Engineering ()
+
+- [Engineering materials and reliability](engineering/01-engineering-materials-and-reliability.md) — 15 items
+- [Additive manufacturing metallurgy, laser powder bed fusion, and microstructural anisotropy](engineering/02-additive-manufacturing-powder-bed-fusion-and-microstructural-anisotropy.md) — 25 items
+
+### Environment ()
+
+- [Biodiversity and environmental stewardship](environment/01-biodiversity-and-environmental-stewardship.md) — 15 items
+- [Coastal blue carbon ecosystems, mangrove peat preservation, and anoxic sediment carbon burial](environment/02-blue-carbon-coastal-wetlands-and-biogeochemical-sediment-sequestration.md) — 25 items
+
+### Ethics ()
+
+- [C1 Vocabulary — Ethical decision-making](ethics/01-ethical-decision-making.md) — 20 items
+- [Neo-Aristotelian virtue ethics, practical wisdom (phronesis), and ethical particularism](ethics/02-virtue-ethics-phronesis-and-moral-particularism.md) — 25 items
+
+### Finance ()
+
+- [Financial risk and investment](finance/01-financial-risk-and-investment.md) — 15 items
+- [C1 Vocabulary — Financial regulation and consumer protection](finance/02-financial-regulation-and-consumer-protection.md) — 20 items
+
+### Food ()
+
+- [Food systems and nutrition](food/01-food-systems-and-nutrition.md) — 15 items
+- [Regenerative agroecosystems, rhizosphere microbiomes, and global food security](food/02-regenerative-agriculture-soil-microbiome-and-food-security.md) — 25 items
+
+### Formal Methods ()
+
+- [Verification, logic, and testing](formal-methods/01-verification-logic-and-testing.md) — 15 items
+- [Automated model checking, linear temporal logic (LTL), and state space explosion mitigations](formal-methods/02-model-checking-temporal-logic-and-state-space-explosion.md) — 25 items
+
+### Game Theory ()
+
+- [Strategy and interdependence](game-theory/01-strategy-and-interdependence.md) — 15 items
+- [Information, equilibria, and mechanism design](game-theory/02-information-equilibria-and-mechanism-design.md) — 20 items
+- [Bargaining, matching, and coalitions](game-theory/03-bargaining-matching-and-coalitions.md) — 20 items
+- [Learning dynamics and equilibrium selection](game-theory/04-learning-dynamics-and-equilibrium-selection.md) — 20 items
+- [Social choice and voting mechanisms](game-theory/05-social-choice-and-voting-mechanisms.md) — 20 items
+- [Implementation and incentive mechanisms](game-theory/06-implementation-and-incentive-mechanisms.md) — 20 items
+- [Coordination, congestion, and network games](game-theory/07-coordination-congestion-and-network-games.md) — 20 items
+- [Information aggregation and prediction markets](game-theory/08-information-aggregation-and-prediction-markets.md) — 20 items
+- [Repeated games and relational contracts](game-theory/09-repeated-games-and-relational-contracts.md) — 20 items
+- [Experimental game theory and strategic behavior](game-theory/10-experimental-game-theory-and-strategic-behavior.md) — 20 items
+- [Robust mechanisms and uncertain information](game-theory/11-robust-mechanisms-and-uncertain-information.md) — 20 items
+- [Fair division and market allocation](game-theory/12-fair-division-and-market-allocation.md) — 20 items
+
+### Genomics ()
+
+- [Genomics and inheritance](genomics/01-genomics-and-inheritance.md) — 15 items
+- [Precision CRISPR base editing, prime editing reverse transcription, and off-target mitigation](genomics/02-crispr-cas-base-editing-and-prime-editing-precision.md) — 25 items
+
+### Geography ()
+
+- [Geography and spatial patterns](geography/01-geography-and-spatial-patterns.md) — 15 items
+- [Planetary urbanization dynamics, spatial justice, and peri-urban metabolic rifts](geography/02-planetary-urbanization-spatial-justice-and-peri-urban-expansion.md) — 25 items
+
+### Geology ()
+
+- [Geology and Earth processes](geology/01-geology-and-earth-processes.md) — 15 items
+- [Subduction zone metamorphism, slab dehydration fluid fluxing, and volcanic arc petrogenesis](geology/02-subduction-zone-metamorphism-fluid-fluxing-and-arc-magmatism.md) — 25 items
+
+### Geopolitics ()
+
+- [Geopolitics and international order](geopolitics/01-geopolitics-and-international-order.md) — 15 items
+- [Geo-economic statecraft, maritime chokepoint vulnerability, and strategic supply chain reshoring](geopolitics/02-geoeconomic-statecraft-chokepoint-weaponization-and-supply-chain-reshoring.md) — 25 items
+
+### Health ()
+
+- [Clinical risk and treatment](health/01-clinical-risk-and-treatment.md) — 15 items
+- [Zoonotic spillover interfaces, pathogen emergence dynamics, and One Health surveillance](health/02-epidemiological-triad-zoonotic-spillover-and-one-health-surveillance.md) — 25 items
+
+### Housing ()
+
+- [Housing markets and tenure](housing/01-housing-markets-and-tenure.md) — 15 items
+- [Housing decommodification, community land trusts, and municipal inclusionary zoning mandates](housing/02-social-housing-decommodification-community-land-trusts-and-inclusionary-zoning.md) — 25 items
+
+### Human Rights ()
+
+- [Rights, obligations, and remedies](human-rights/01-rights-obligations-and-remedies.md) — 15 items
+- [Extraterritorial human rights obligations, universal jurisdiction, and transitional justice tribunals](human-rights/02-extraterritorial-obligations-transitional-justice-and-universal-jurisdiction.md) — 25 items
+
+### Hydrology ()
+
+- [Water systems and scarcity](hydrology/01-water-systems-and-scarcity.md) — 15 items
+- [Groundwater overdraft dynamics, managed aquifer recharge, and coastal saline intrusion](hydrology/02-groundwater-depletion-aquifer-recharge-and-saline-intrusion.md) — 25 items
+
+### Immunology ()
+
+- [Immunology and immune defense](immunology/01-immunology-and-immune-defense.md) — 15 items
+- [Adaptive immune repertoires, monoclonal antibody therapies, and hyperinflammatory cytokine storms](immunology/02-adaptive-immunity-monoclonal-antibodies-and-cytokine-storms.md) — 25 items
+
+### Institutions ()
+
+- [Governance, oversight, and accountability](institutions/01-governance-and-accountability.md) — 15 items
+- [Institutional drift dynamics, covert regulatory capture, and bureaucratic organizational inertia](institutions/02-institutional-drift-regulatory-capture-and-bureaucratic-inertia.md) — 25 items
+- [Institutional complementarity, path dependency lock-in, and historical institutionalism](institutions/03-institutional-complementarity-path-dependency-and-historical-institutionalism.md) — 25 items
+
+### International Development ()
+
+- [Poverty, aid, and inclusive growth](international-development/01-poverty-aid-and-inclusive-growth.md) — 15 items
+- [Multilateral development finance, structural adjustment conditionality, and sovereign debt distress](international-development/02-multilateral-aid-conditionality-debt-overhang-and-poverty-traps.md) — 25 items
+- [Official development assistance (ODA) conditionality, debt distress workouts, and South-South cooperation](international-development/03-development-assistance-conditionality-debt-relief-and-south-south-cooperation.md) — 25 items
+
+### Language Acquisition ()
+
+- [Second-language learning](language-acquisition/01-second-language-learning.md) — 15 items
+- [Second language phonological fossilization, syntactic processing constraints, and usage-based acquisition](language-acquisition/02-critical-period-hypothesis-phonological-fossilization-and-l2-syntax.md) — 25 items
+- [L2 phonological acquisition, categorical perception, phonetic drift, and cross-linguistic influence](language-acquisition/03-l2-phonological-acquisition-categorical-perception-and-phonetic-drift.md) — 25 items
+
+### Law ()
+
+- [Legal process and remedies](law/01-legal-process-and-remedies.md) — 15 items
+- [Substantive due process jurisprudence, proportionality review, and judicial deference doctrines](law/02-substantive-due-process-proportionality-review-and-judicial-deference.md) — 25 items
+- [Judicial proportionality test, rights-balancing jurisprudence, and strict scrutiny review](law/03-judicial-proportionality-rights-balancing-and-strict-scrutiny-review.md) — 25 items
+
+### Linguistics ()
+
+- [Language and discourse](linguistics/01-language-and-discourse.md) — 15 items
+- [Diachronic grammaticalization paths, semantic bleaching, and linguistic typological universals](linguistics/02-grammaticalization-paths-semantic-bleaching-and-typological-universals.md) — 25 items
+- [Information structure, topic-focus articulation, prosodic packaging, and conversational implicature](linguistics/03-information-structure-topic-focus-articulation-and-implicature.md) — 25 items
+
+### Media ()
+
+- [Journalism and public trust](media/01-journalism-and-public-trust.md) — 15 items
+- [Media economics and platform attention](media/02-media-economics-and-platform-attention.md) — 20 items
+- [Digital newsroom workflows and reader revenue](media/03-digital-newsroom-workflows-and-reader-revenue.md) — 20 items
+- [Crisis communication and public information](media/04-crisis-communication-and-public-information.md) — 20 items
+- [Media ethics, disclosure, and accountability](media/05-media-ethics-disclosure-and-accountability.md) — 20 items
+- [Digital publishing infrastructure and content portability](media/06-digital-publishing-infrastructure-and-content-portability.md) — 20 items
+- [Audience research and measurement](media/07-audience-research-and-measurement.md) — 20 items
+- [Audio, visual, and interactive journalism](media/08-audio-visual-and-interactive-journalism.md) — 20 items
+- [Journalist security and source privacy](media/09-journalist-security-and-source-privacy.md) — 20 items
+- [Media literacy and public knowledge](media/10-media-literacy-and-public-knowledge.md) — 20 items
+- [Media organizations and community reporting](media/11-media-organizations-and-community-reporting.md) — 20 items
+- [Collaborative investigations and source verification](media/12-collaborative-investigations-and-source-verification.md) — 20 items
+- [Public-service media and governance](media/13-public-service-media-and-governance.md) — 20 items
+- [Media archives and digital preservation](media/14-media-archives-and-digital-preservation.md) — 20 items
+- [Media accessibility and inclusive delivery](media/15-media-accessibility-and-inclusive-delivery.md) — 20 items
+- [Audience participation and community listening](media/16-audience-participation-and-community-listening.md) — 20 items
+- [Reader subscriptions and newsletter lifecycle](media/17-reader-subscriptions-and-newsletter-lifecycle.md) — 20 items
+- [Media product experiments and reader behavior](media/18-media-product-experiments-and-reader-behavior.md) — 20 items
+- [Audience data, privacy, and consent](media/19-audience-data-privacy-and-consent.md) — 20 items
+- [Media law and rights management](media/20-media-law-and-rights-management.md) — 20 items
+
+### Medicine ()
+
+- [Pharmacology and clinical care](medicine/01-pharmacology-and-clinical-care.md) — 15 items
+- [Antimicrobial resistance mechanisms, beta-lactamase kinetics, and nosocomial pathogen containment](medicine/02-antibiotic-resistance-beta-lactamase-and-nosocomial-infections.md) — 25 items
+- [Precision oncology, targeted tyrosine kinase inhibitors, and acquired resistance mechanisms](medicine/03-precision-oncology-tyrosine-kinase-inhibitors-and-acquired-resistance.md) — 25 items
+
+### Music ()
+
+- [Music theory and performance](music/01-music-theory-and-performance.md) — 15 items
+- [Psychoacoustic perception, timbre spectral centroids, and auditory scene analysis](music/02-psychoacoustics-timbre-spectral-centroid-and-auditory-scene-analysis.md) — 25 items
+- [Spatial audio acoustic diffusion, ambisonics binaural decoding, and architectural psychoacoustics](music/03-spatial-audio-ambisonics-and-architectural-psychoacoustics.md) — 25 items
+
+### Neuroscience ()
+
+- [Neuroscience and the brain](neuroscience/01-neuroscience-and-the-brain.md) — 15 items
+- [Optogenetic actuator opsins, cell-type-specific photostimulation, and circuit-level behavioral dissection](neuroscience/02-optogenetics-channelrhodopsin-and-neural-circuit-interrogation.md) — 25 items
+- [Neural manifold geometry, low-dimensional population dynamics, and state-space neural trajectories](neuroscience/03-neural-manifold-geometry-and-state-space-population-dynamics.md) — 25 items
+
+### Oceanography ()
+
+- [Oceanography and marine systems](oceanography/01-oceanography-and-marine-systems.md) — 15 items
+- [Abyssal thermohaline overturning, deep-water formation, and ocean ventilation timescales](oceanography/02-abyssal-circulation-thermohaline-conveyor-and-deep-ocean-ventilation.md) — 25 items
+- [Deep ocean benthic boundary layers, benthic nepheloid layers, and abyssal sediment transport](oceanography/03-benthic-boundary-layers-nepheloid-zones-and-abyssal-sedimentation.md) — 25 items
+
+### Paleontology ()
+
+- [Fossil record and evolution](paleontology/01-fossil-record-and-evolution.md) — 15 items
+- [Taphonomic decay pathways, Konservat-Lagerstätten preservation, and fossil diagenetic mineralization](paleontology/02-taphonomic-processes-exceptional-lagerstatten-and-fossil-diagenesis.md) — 25 items
+- [Morphometric geometric landmark analysis, phylogenetic comparative methods, and evolutionary disparity trends](paleontology/03-morphometric-geometric-landmarks-and-evolutionary-disparity.md) — 25 items
+
+### Peace And Conflict ()
+
+- [Peacebuilding and post-conflict recovery](peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md) — 15 items
+- [Disarmament, demobilization, and reintegration (DDR) frameworks, and ceasefire verification mechanisms](peace-and-conflict/02-disarmament-demobilization-and-reintegration-and-ceasefire-verification.md) — 25 items
+- [Transitional justice mechanisms, truth and reconciliation commissions, and restorative post-conflict jurisprudence](peace-and-conflict/03-transitional-justice-truth-commissions-and-post-conflict-reconciliation.md) — 25 items
+
+### Philosophy ()
+
+- [Philosophy and reasoning](philosophy/01-philosophy-and-reasoning.md) — 15 items
+- [C1 Vocabulary — Core philosophical concepts](philosophy/02-core-philosophical-concepts.md) — 25 items
+- [Moral particularism, neo-Aristotelian virtue ethics, and practical wisdom (phronesis)](philosophy/03-moral-particularism-virtue-ethics-and-phronesis.md) — 25 items
+
+### Phonetics ()
+
+- [Phonetics and pronunciation](phonetics/01-phonetics-and-pronunciation.md) — 15 items
+- [Acoustic formant trajectories, voice onset time (VOT) boundaries, and coarticulatory assimilation](phonetics/02-acoustic-formants-voice-onset-time-and-coarticulation-dynamics.md) — 25 items
+- [Acoustic phonetics, spectral tilt measurements, and glottal voice source dynamics](phonetics/03-acoustic-phonetics-spectral-tilt-and-voice-source-dynamics.md) — 25 items
+
+### Politics ()
+
+- [Political landscape](politics/01-political-landscape.md) — 25 items
+- [Authoritarian regime consolidation, democratic backsliding mechanics, and autocratic legalism](politics/02-authoritarian-consolidation-democratic-backsliding-and-autocratic-legalism.md) — 25 items
+- [Consociational democracy, segmental autonomy, and power-sharing grand coalitions](politics/03-consociational-democracy-power-sharing-and-segmented-pluralism.md) — 25 items
+
+### Programming Languages ()
+
+- [Types, runtime, and semantics](programming-languages/01-types-runtime-and-semantics.md) — 15 items
+- [Memory safety guarantees, borrow checking mechanics, and affine linear type systems](programming-languages/02-memory-safety-borrow-checker-and-affine-type-systems.md) — 25 items
+- [Algebraic data types (ADTs), structural pattern matching, and monadic effect composition](programming-languages/03-algebraic-data-types-pattern-matching-and-monadic-composition.md) — 25 items
+
+### Project Management ()
+
+- [Planning, delivery, and control](project-management/01-planning-delivery-and-control.md) — 15 items
+- [Earned value management (EVM), critical path schedule network analysis, and project slippage mitigation](project-management/02-earned-value-management-critical-path-and-schedule-slippage.md) — 25 items
+- [Critical chain project management (CCPM), resource contention, and buffer consumption dynamics](project-management/03-critical-chain-project-management-and-buffer-consumption.md) — 25 items
+
+### Psychiatry ()
+
+- [Psychiatry and mental health](psychiatry/01-psychiatry-and-mental-health.md) — 15 items
+- [Synaptic neurotransmitter reuptake kinetics, transdiagnostic endophenotypes, and psychopharmacological titration](psychiatry/02-neurotransmitter-reuptake-transdiagnostic-endophenotypes-and-psychopharmacology.md) — 25 items
+- [Treatment-resistant depression, NMDA-antagonist esketamine, and rapid cortical synaptogenesis](psychiatry/03-treatment-resistant-depression-esketamine-and-rapid-synaptogenesis.md) — 25 items
+
+### Psychology ()
+
+- [Emotion and self-regulation](psychology/01-emotion-and-self-regulation.md) — 15 items
+- [C1 Vocabulary — Cognitive habits and motivation](psychology/02-cognitive-habits-and-motivation.md) — 20 items
+- [C1 Vocabulary — Memory retrieval and forgetting](psychology/03-memory-retrieval-and-forgetting.md) — 20 items
+- [C1 Vocabulary — Social cognition and interpersonal judgment](psychology/04-social-cognition-and-interpersonal-judgment.md) — 20 items
+- [C1 Vocabulary — Social influence and group decisions](psychology/05-social-influence-and-group-decisions.md) — 20 items
+- [C1 Vocabulary — Emotion and moral judgment](psychology/06-emotion-and-moral-judgment.md) — 20 items
+- [C1 Vocabulary — Personality measurement and individual differences](psychology/07-personality-measurement-and-individual-differences.md) — 20 items
+- [Embodied cognition theory, sensorimotor coupling, and ecological affordance perception](psychology/08-embodied-cognition-sensorimotor-coupling-and-affordance-perception.md) — 25 items
+
+### Psychometrics ()
+
+- [C1 Vocabulary — Scale development and test quality](psychometrics/01-scale-development-and-test-quality.md) — 20 items
+- [C1 Vocabulary — Clinical test interpretation and decision thresholds](psychometrics/02-clinical-test-interpretation-and-decision-thresholds.md) — 20 items
+- [C1 Vocabulary — Fairness, equating, and assessment access](psychometrics/03-fairness-equating-and-assessment-access.md) — 20 items
+- [C1 Vocabulary — Longitudinal change and missing data](psychometrics/04-longitudinal-change-and-missing-data.md) — 20 items
+- [C1 Vocabulary — Adaptive testing and diagnostic classification](psychometrics/05-adaptive-testing-and-diagnostic-classification.md) — 20 items
+- [C1 Vocabulary — Bayesian assessment and decision uncertainty](psychometrics/06-bayesian-assessment-and-decision-uncertainty.md) — 20 items
+- [C1 Vocabulary — Survey sampling and response bias](psychometrics/07-survey-sampling-and-response-bias.md) — 20 items
+- [C1 Vocabulary — Score scaling and performance standards](psychometrics/08-score-scaling-and-performance-standards.md) — 20 items
+- [C1 Vocabulary — Multivariate profiles and latent groups](psychometrics/09-multivariate-profiles-and-latent-groups.md) — 20 items
+- [C1 Vocabulary — Questionnaire design and cognitive interviewing](psychometrics/10-questionnaire-design-and-cognitive-interviewing.md) — 20 items
+- [C1 Vocabulary — Rater-mediated assessment and scoring consistency](psychometrics/11-rater-mediated-assessment-and-scoring-consistency.md) — 20 items
+- [C1 Vocabulary — Accessibility and assessment accommodations](psychometrics/12-accessibility-and-assessment-accommodations.md) — 20 items
+- [C1 Vocabulary — Ethical score use and assessment consequences](psychometrics/13-ethical-score-use-and-assessment-consequences.md) — 20 items
+- [C1 Vocabulary — Visual score communication and data displays](psychometrics/14-visual-score-communication-and-data-displays.md) — 20 items
+- [C1 Vocabulary — Cross-cultural measurement adaptation](psychometrics/15-cross-cultural-measurement-adaptation.md) — 20 items
+- [C1 Vocabulary — Automated scoring and human review](psychometrics/16-automated-scoring-and-human-review.md) — 20 items
+- [C1 Vocabulary — Reliability generalization and reproducibility](psychometrics/17-reliability-generalization-and-reproducibility.md) — 20 items
+- [C1 Vocabulary — Simulation-based validation and diagnostic checks](psychometrics/18-simulation-based-validation-and-diagnostic-checks.md) — 20 items
+- [C1 Vocabulary — Score linking and equating methods](psychometrics/19-score-linking-and-equating-methods.md) — 20 items
+- [C1 Vocabulary — Norm development and score interpretation](psychometrics/20-norm-development-and-score-interpretation.md) — 20 items
+- [C1 Vocabulary — Diagnostic invariance and model fit](psychometrics/21-diagnostic-invariance-and-model-fit.md) — 20 items
+- [C1 Vocabulary — Evidence-centered design and validity arguments](psychometrics/22-evidence-centered-design-and-validity-arguments.md) — 20 items
+- [C1 Vocabulary — Standard setting and generalizability decisions](psychometrics/23-standard-setting-and-generalizability-decisions.md) — 20 items
+- [C1 Vocabulary — Score precision and individual interpretation](psychometrics/24-score-precision-and-individual-interpretation.md) — 20 items
+- [C1 Vocabulary — Score use and responsible decisions](psychometrics/25-score-use-and-responsible-decisions.md) — 20 items
+- [C1 Vocabulary — Multilevel measurement and clustered data](psychometrics/26-multilevel-measurement-and-clustered-data.md) — 20 items
+- [C1 Vocabulary — Causal inference and score effects](psychometrics/27-causal-inference-and-score-effects.md) — 20 items
+- [C1 Vocabulary — Response process and content validity](psychometrics/28-response-process-and-content-validity.md) — 20 items
+- [C1 Vocabulary — Missing data and longitudinal robustness](psychometrics/29-missing-data-and-longitudinal-robustness.md) — 20 items
+- [C1 Vocabulary — Robust resampling and sensitivity checks](psychometrics/30-robust-resampling-and-sensitivity-checks.md) — 20 items
+- [C1 Vocabulary — Cross-language survey adaptation](psychometrics/31-cross-language-survey-adaptation.md) — 20 items
+- [C1 Vocabulary — Bayesian hierarchical assessment](psychometrics/32-bayesian-hierarchical-assessment.md) — 20 items
+- [C1 Vocabulary — Item response curves and information](psychometrics/33-item-response-curves-and-information.md) — 20 items
+
+### Public Administration ()
+
+- [Administration and policy delivery](public-administration/01-administration-and-policy-delivery.md) — 15 items
+- [New public governance frameworks, citizen service co-production, and relational public contracting](public-administration/02-new-public-governance-co-production-and-collaborative-contracting.md) — 25 items
+- [Digital public infrastructure (DPI), open government data mandates, and civic technology ecosystems](public-administration/03-digital-public-infrastructure-open-government-data-and-civic-tech.md) — 25 items
+
+### Public Finance ()
+
+- [Fiscal and monetary policy](public-finance/01-fiscal-and-monetary-policy.md) — 15 items
+- [Countercyclical fiscal multipliers, sovereign debt sustainability ceilings, and automatic stabilizer mechanics](public-finance/02-fiscal-multipliers-debt-sustainability-and-automatic-stabilizers.md) — 25 items
+- [Sovereign debt sustainability analysis, restructuring haircuts, and collective action clauses (CACs)](public-finance/03-sovereign-debt-sustainability-haircuts-and-collective-action-clauses.md) — 25 items
+
+### Public Health ()
+
+- [Public health and population risk](public-health/01-public-health-and-population-risk.md) — 15 items
+- [Syndemic disease interaction frameworks, structural social determinants, and digital contact tracing protocols](public-health/02-syndemic-frameworks-social-determinants-and-epidemic-contact-tracing.md) — 25 items
+- [Antimicrobial stewardship programs, One Health paradigm, and zoonotic pathogen surveillance](public-health/03-antimicrobial-stewardship-one-health-and-zoonotic-surveillance.md) — 25 items
+
+### Quality Management ()
+
+- [Process improvement and control](quality-management/01-process-improvement-and-control.md) — 15 items
+- [Statistical process control (SPC), Six Sigma DMAIC methodology, and failure mode and effects analysis (FMEA)](quality-management/02-statistical-process-control-six-sigma-and-failure-mode-effects-analysis.md) — 25 items
+- [Lean Six Sigma DMAIC methodology, statistical variance reduction, and Ishikawa root cause analysis](quality-management/03-lean-six-sigma-dmaic-and-root-cause-ishikawa.md) — 25 items
+
+### Quantum Computing ()
+
+- [Quantum computing and information](quantum-computing/01-quantum-computing-and-information.md) — 15 items
+- [Superconducting qubit coherence times, Bloch sphere state vectors, and randomized benchmarking gate fidelity](quantum-computing/02-qubit-coherence-times-bloch-sphere-and-quantum-gate-fidelity.md) — 25 items
+- [Quantum error correction, planar surface codes, and fault-tolerant threshold theorems](quantum-computing/03-quantum-error-correction-surface-codes-and-fault-tolerant-thresholds.md) — 25 items
+
+### Religion ()
+
+- [Religion and public life](religion/01-religion-and-public-life.md) — 15 items
+- [Comparative hermeneutics, textual exegesis, and interreligious dialogue](religion/02-comparative-hermeneutics-textual-exegesis-and-interreligious-dialogue.md) — 25 items
+- [Classical secularization thesis, post-secular public spheres, and theological pluralism](religion/03-secularization-thesis-post-secularism-and-religious-pluralism.md) — 25 items
+
+### Research ()
+
+- [Research quality and uncertainty](research/01-research-quality-and-uncertainty.md) — 15 items
+- [Longitudinal cohorts, propensity score matching, and attrition bias controls](research/02-longitudinal-cohorts-propensity-score-matching-and-attrition-controls.md) — 25 items
+- [Mixed-methods research design, convergent triangulation, and grounded theory coding paradigms](research/03-mixed-methods-triangulation-and-grounded-theory-coding.md) — 25 items
+
+### Risk Governance ()
+
+- [Resilience and climate risk](risk-governance/01-resilience-and-climate-risk.md) — 15 items
+- [Catastrophic risk modeling, extreme value theory, and resilience engineering](risk-governance/02-catastrophic-risk-modeling-extreme-value-theory-and-resilience-engineering.md) — 25 items
+- [Tail-risk distribution modeling, extreme value theory (EVT), and Black Swan mitigation frameworks](risk-governance/03-tail-risk-extreme-value-theory-and-black-swan-mitigation.md) — 25 items
+
+### Robotics ()
+
+- [Robotics and autonomous machines](robotics/01-robotics-and-autonomous-machines.md) — 15 items
+- [Inverse kinematics, motion planning algorithms, and simultaneous localization and mapping (SLAM)](robotics/02-inverse-kinematics-motion-planning-and-simultaneous-localization-and-mapping.md) — 25 items
+- [Robotic tactile sensing skins, proprioceptive actuation, and dexterous multi-fingered manipulation](robotics/03-tactile-sensing-proprioceptive-actuation-and-dexterous-manipulation.md) — 25 items
+
+### Science ()
+
+- [Climate systems and transition](science/01-climate-systems-and-transition.md) — 15 items
+- [Planetary boundary tipping points, Earth system feedbacks, and cryosphere destabilization](science/02-planetary-boundary-tipping-points-and-earth-system-feedbacks.md) — 25 items
+- [Cryosphere permafrost thaw, thermokarst methane emissions, and positive climate feedbacks](science/03-cryosphere-thaw-permafrost-methane-and-carbon-feedback.md) — 25 items
+
+### Seismology ()
+
+- [Earthquakes and seismic risk](seismology/01-earthquakes-and-seismic-risk.md) — 15 items
+- [Fault rupture dynamics, paleoseismic trenching, and moment magnitude scaling](seismology/02-fault-rupture-dynamics-paleoseismology-and-moment-magnitude-scaling.md) — 25 items
+- [Episodic tremor and slip (ETS), subduction zone slow-slip events, and megathrust stress loading](seismology/03-slow-slip-events-non-volcanic-tremor-and-subduction-episodic-slip.md) — 25 items
+
+### Society ()
+
+- [Migration and social cohesion](society/01-migration-and-social-cohesion.md) — 15 items
+- [Transnational migration, diaspora remittances, and immigrant integration policy](society/02-transnational-migration-diaspora-remittances-and-integration-policy.md) — 25 items
+- [Intersectional inequality matrices, structural marginalization, and intergenerational social mobility](society/03-intersectional-inequality-structural-marginalization-and-social-mobility.md) — 25 items
+
+### Sociolinguistics ()
+
+- [Language use and variation](sociolinguistics/01-language-use-and-variation.md) — 15 items
+- [Diglossia, language revitalization, and sociophonetic variation](sociolinguistics/02-diglossia-language-revitalization-and-sociophonetic-variation.md) — 25 items
+- [Urban linguistic landscapes, multilingual signage contestation, and linguistic imperialism](sociolinguistics/03-linguistic-landscapes-multilingual-signage-and-linguistic-imperialism.md) — 25 items
+
+### Statistics ()
+
+- [Statistical reasoning and evidence](statistics/01-statistical-reasoning-and-evidence.md) — 15 items
+- [Bayesian hierarchical modeling, Markov chain Monte Carlo, and credible intervals](statistics/02-bayesian-hierarchical-modeling-markov-chain-monte-carlo-and-credible-intervals.md) — 25 items
+- [Causal directed acyclic graphs (DAGs), d-separation criteria, and do-calculus backdoor adjustment](statistics/03-causal-directed-acyclic-graphs-d-separation-and-backdoor-criterion.md) — 25 items
+
+### Supply Chain ()
+
+- [Resilience, inventory, and sourcing](supply-chain/01-resilience-inventory-and-sourcing.md) — 15 items
+- [Supply chain digital twins, bullwhip effect dampening, and multi-tier visibility](supply-chain/02-supply-chain-digital-twins-bullwhip-effect-and-multi-tier-visibility.md) — 25 items
+- [Geopolitical nearshoring, friendshoring trade alliances, and resilient multi-sourcing supply networks](supply-chain/03-nearshoring-friendshoring-and-resilient-multi-sourcing.md) — 25 items
+
+### Technology ()
+
+- [Digital systems and constraints](technology/01-digital-systems-and-constraints.md) — 15 items
+- [Distributed ledger protocols, sharding scalability, and smart contract formal verification](technology/02-distributed-ledger-protocols-sharding-and-smart-contract-verification.md) — 25 items
+- [WebAssembly (Wasm) bytecode, WASI system interfaces, and microsecond edge runtime sandboxing](technology/03-webassembly-wasi-runtimes-and-edge-cloud-sandboxing.md) — 25 items
+
+### Transport ()
+
+- [Transport networks and mobility](transport/01-transport-networks-and-mobility.md) — 15 items
+- [Intermodal freight corridors, dynamic berth scheduling, and port hinterland logistics](transport/02-intermodal-freight-corridors-berth-scheduling-and-hinterland-logistics.md) — 25 items
+
+### Urban ()
+
+- [Urban design and livability](urban/01-urban-design-and-livability.md) — 15 items
+- [Tactical urbanism, superblock pedestrianization, and 15-minute city accessibility](urban/02-tactical-urbanism-superblock-pedestrianization-and-15-minute-cities.md) — 25 items
+
+### Volcanology ()
+
+- [Volcanoes and eruption hazards](volcanology/01-volcanoes-and-eruption-hazards.md) — 15 items
+- [Pyroclastic density currents, magmatic degassing kinetics, and volcanic hazard zonation](volcanology/02-pyroclastic-density-currents-degassing-kinetics-and-hazard-zonation.md) — 25 items
+
+### Weather ()
+
+- [Weather systems and forecasting](weather/01-weather-systems-and-forecasting.md) — 15 items
+- [Numerical weather prediction, atmospheric rivers, and ensemble forecasting](weather/02-numerical-weather-prediction-atmospheric-rivers-and-ensemble-forecasting.md) — 25 items
+
+### Work ()
+
+- [Organizational dynamics and career paths](work/01-organizational-dynamics-and-career.md) — 15 items
+- [Algorithmic management, gig worker collective bargaining, and workplace surveillance audits](work/02-algorithmic-management-gig-worker-collective-bargaining-and-surveillance.md) — 25 items

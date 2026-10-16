@@ -1377,3 +1377,724 @@
 - [C2 Vocabulary 206 — Atomic layer etching (ALE), self-limiting surface modification reactions, and sub-nanometer directional removal](semiconductors/206-atomic-layer-etching-self-limiting-surface-reactions-and-monolayer-precision.md)
 - [C2 Vocabulary 207 — High-mobility 2D semiconductors, contact resistance reduction, and Fermi-level depinning](semiconductors/207-high-mobility-two-dimensional-semiconductors-contact-resistance-and-fermi-level-depinning.md)
 - [C2 Vocabulary 208 — Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md)
+
+
+## Lessons (700 lessons, 14642 items)
+
+### Argument ()
+
+- [Nuance, evidence, and argument](argument/01-nuance-evidence-and-argument.md) — 15 items
+- [Dialectical inquiry, discursive dissonance, and counter-hegemonic critique](argument/02-dialectical-inquiry-and-counter-hegemonic-discourse.md) — 25 items
+- [Epistemic injustice, eristic sophistry, and presuppositional disputation](argument/03-epistemic-injustice-eristic-dialectic-and-presuppositional-inquiry.md) — 25 items
+- [Kantian antinomies, transcendental dialectic, and the logic of philosophical aporia](argument/04-aporia-dialectic-transcendental-critique-and-antinomies.md) — 25 items
+- [Apophatic negation, radical incommensurability, and the dialectical paralogisms of reason](argument/05-apophatic-negation-incommensurability-and-the-paralogisms-of-reason.md) — 25 items
+- [Dialetheic contradiction, paraconsistent logic calculi, and self-referential semantic antinomies](argument/06-dialetheism-paraconsistent-logic-and-semantic-paradoxes.md) — 25 items
+- [Epistemic peer disagreement, the uniqueness thesis, and permissive Bayesian rationality](argument/07-epistemic-peer-disagreement-uniqueness-thesis-and-permissive-rationality.md) — 25 items
+- [The Agrippan trilemma, infinitist justification chains, and epistemic foundationalism](argument/08-infinitism-foundationalism-and-the-agrippan-trilemma.md) — 25 items
+- [Epistemic injustice dynamics, testimonial credibility deficits, and structural hermeneutical lacunae](argument/09-epistemic-injustice-testimonial-hermeneutical-marginalization.md) — 25 items
+- [Epistemic rule-circularity, self-vindicating cognitive faculties, and non-doxastic foundational justification](argument/10-epistemic-circularity-rule-circularity-and-doxastic-justification.md) — 25 items
+- [Defeasible reasoning, non-monotonic logic, and epistemic undercutters](argument/11-defeasible-reasoning-non-monotonic-logic-and-epistemic-undercutters.md) — 25 items
+- [Epistemic contextualism, semantic ascent, and invariantist skepticism](argument/12-epistemic-contextualism-semantic-ascent-and-invariantist-skepticism.md) — 25 items
+- [Transversal rationality, communicative action validity claims, and hermeneutic reconstruction](argument/13-transversal-rationality-communicative-action-and-hermeneutic-reconstruction.md) — 25 items
+- [Epistemic injustice, testimonial credibility deflation, and hermeneutical silencing](argument/14-epistemic-injustice-testimonial-injustice-and-hermeneutical-silencing.md) — 25 items
+- [Dialectical stalemate, Socratic aporia, paraconsistent logic, and antinomy reconciliation](argument/15-dialectical-stalemate-aporia-and-paraconsistent-reconciliation.md) — 25 items
+- [Kantian transcendental arguments, conditions of possibility, and anti-skeptical retortion](argument/16-transcendental-arguments-conditions-of-possibility-and-skeptical-refutation.md) — 25 items
+- [Dialectical ad hominem variants, tu quoque hypocrisy retorts, and circumstantial disqualification](argument/17-ad-hominem-tu-quoque-and-circumstantial-disqualification.md) — 25 items
+
+### Biomedicine ()
+
+- [C2 Vocabulary — Proteomics and mass spectrometry](biomedicine/01-proteomics-and-mass-spectrometry.md) — 20 items
+- [C2 Vocabulary — Single-cell genomics and cell atlases](biomedicine/02-single-cell-genomics-and-cell-atlases.md) — 20 items
+- [C2 Vocabulary — Genome editing and CRISPR systems](biomedicine/03-genome-editing-and-crispr-systems.md) — 20 items
+- [C2 Vocabulary — Spatial transcriptomics and tissue mapping](biomedicine/04-spatial-transcriptomics-and-tissue-mapping.md) — 20 items
+- [C2 Vocabulary — Epigenomics and chromatin regulation](biomedicine/05-epigenomics-and-chromatin-regulation.md) — 20 items
+- [C2 Vocabulary — Cancer immunotherapy and cell engineering](biomedicine/06-cancer-immunotherapy-and-cell-engineering.md) — 20 items
+- [C2 Vocabulary — Metabolomics and metabolic flux](biomedicine/07-metabolomics-and-metabolic-flux.md) — 20 items
+- [C2 Vocabulary — Microbiome and metagenomics](biomedicine/08-microbiome-and-metagenomics.md) — 20 items
+- [C2 Vocabulary — Flow cytometry and cell sorting](biomedicine/09-flow-cytometry-and-cell-sorting.md) — 20 items
+- [C2 Vocabulary — Liquid biopsy and circulating tumor DNA](biomedicine/10-liquid-biopsy-and-circulating-tumor-dna.md) — 20 items
+- [C2 Vocabulary — Cryo-EM and structural biology](biomedicine/11-cryo-em-and-structural-biology.md) — 20 items
+- [C2 Vocabulary — Glycomics and glycobiology](biomedicine/12-glycomics-and-glycobiology.md) — 20 items
+- [C2 Vocabulary — Organoid and disease modeling](biomedicine/13-organoid-and-disease-modeling.md) — 20 items
+- [C2 Vocabulary — Gene-therapy vectors and delivery](biomedicine/14-gene-therapy-vectors-and-delivery.md) — 20 items
+- [C2 Vocabulary — Biomarkers and clinical-trial design](biomedicine/15-biomarkers-and-clinical-trial-design.md) — 20 items
+- [C2 Vocabulary — Cell-therapy manufacturing and release](biomedicine/16-cell-therapy-manufacturing-and-release.md) — 20 items
+- [C2 Vocabulary — Systems pharmacokinetics and dose modeling](biomedicine/17-systems-pharmacokinetics-and-dose-modeling.md) — 20 items
+- [C2 Vocabulary — Mechanistic dose modeling and virtual patients](biomedicine/18-mechanistic-dose-modeling-and-virtual-patients.md) — 20 items
+- [C2 Vocabulary — Quantitative medical imaging and radiomics](biomedicine/19-quantitative-medical-imaging-and-radiomics.md) — 20 items
+- [C2 Vocabulary — Digital pathology and computational histology](biomedicine/20-digital-pathology-and-computational-histology.md) — 20 items
+- [C2 Vocabulary — Clinical data interoperability and standards](biomedicine/21-clinical-data-interoperability-and-standards.md) — 20 items
+- [C2 Vocabulary — Medical-device lifecycle and surveillance](biomedicine/22-medical-device-lifecycle-and-surveillance.md) — 20 items
+- [C2 Vocabulary — Variant interpretation and genetic counseling](biomedicine/23-variant-interpretation-and-genetic-counseling.md) — 20 items
+- [C2 Vocabulary — Health economics and outcomes research](biomedicine/24-health-economics-and-outcomes-research.md) — 20 items
+- [C2 Vocabulary — Metabolic phenotyping and clinical nutrition](biomedicine/25-metabolic-phenotyping-and-clinical-nutrition.md) — 20 items
+- [C2 Vocabulary — Sleep medicine and circadian physiology](biomedicine/26-sleep-medicine-and-circadian-physiology.md) — 20 items
+- [C2 Vocabulary — Rehabilitation science and gait analysis](biomedicine/27-rehabilitation-science-and-gait-analysis.md) — 20 items
+- [C2 Vocabulary — Digital therapeutics and behavioral intervention](biomedicine/28-digital-therapeutics-and-behavioral-intervention.md) — 20 items
+- [C2 Vocabulary — Pain science and chronic-pain rehabilitation](biomedicine/29-pain-science-and-chronic-pain-rehabilitation.md) — 20 items
+- [C2 Vocabulary — Transplant immunology and organ allocation](biomedicine/30-transplant-immunology-and-organ-allocation.md) — 20 items
+- [C2 Vocabulary — Antimicrobial pharmacology and resistance ecology](biomedicine/31-antimicrobial-pharmacology-and-resistance-ecology.md) — 20 items
+- [C2 Vocabulary — Phage therapy and pathogen ecology](biomedicine/32-phage-therapy-and-pathogen-ecology.md) — 20 items
+- [C2 Vocabulary — Clinical neuroimmunology and neuroinflammation](biomedicine/33-clinical-neuroimmunology-and-neuroinflammation.md) — 20 items
+- [C2 Vocabulary — Clinical pharmacogenomics and drug–gene interactions](biomedicine/34-clinical-pharmacogenomics-and-drug-gene-interactions.md) — 20 items
+- [C2 Vocabulary — Clinical-trial safety and data oversight](biomedicine/35-clinical-trial-safety-and-data-oversight.md) — 20 items
+- [C2 Vocabulary — Digital biomarkers and endpoint adjudication](biomedicine/36-digital-biomarkers-and-endpoint-adjudication.md) — 20 items
+- [C2 Vocabulary — Microbiome therapeutics and live biotherapeutics](biomedicine/37-microbiome-therapeutics-and-live-biotherapeutics.md) — 20 items
+- [C2 Vocabulary — Pharmacovigilance and signal detection](biomedicine/38-pharmacovigilance-and-signal-detection.md) — 20 items
+- [C2 Vocabulary — Renal biomarkers and drug-induced nephrotoxicity](biomedicine/39-renal-biomarkers-and-drug-induced-nephrotoxicity.md) — 20 items
+- [C2 Vocabulary — Hepatotoxicity and drug-induced liver injury](biomedicine/40-hepatotoxicity-and-drug-induced-liver-injury.md) — 20 items
+- [C2 Vocabulary — Pulmonary toxicity and drug-induced interstitial lung disease](biomedicine/41-pulmonary-toxicity-and-drug-induced-interstitial-lung-disease.md) — 20 items
+- [C2 Vocabulary — Cutaneous drug toxicity and severe skin reactions](biomedicine/42-cutaneous-drug-toxicity-and-severe-skin-reactions.md) — 20 items
+- [C2 Vocabulary — Neurotoxicity and neurobehavioral safety](biomedicine/43-neurotoxicity-and-neurobehavioral-safety.md) — 20 items
+- [C2 Vocabulary — Ocular toxicity and retinal safety](biomedicine/44-ocular-toxicity-and-retinal-safety.md) — 20 items
+- [C2 Vocabulary — Immunogenicity and anti-drug antibody assessment](biomedicine/45-immunogenicity-and-anti-drug-antibody-assessment.md) — 20 items
+- [C2 Vocabulary — Bioanalytical assay validation and matrix effects](biomedicine/46-bioanalytical-assay-validation-and-matrix-effects.md) — 20 items
+- [C2 Vocabulary — Clinical event adjudication and endpoint governance](biomedicine/47-clinical-event-adjudication-and-endpoint-governance.md) — 20 items
+- [C2 Vocabulary — Exposure–response and pharmacometric dose optimization](biomedicine/48-exposure-response-and-pharmacometric-dose-optimization.md) — 20 items
+- [C2 Vocabulary — Antimicrobial susceptibility and resistance surveillance](biomedicine/49-antimicrobial-susceptibility-and-resistance-surveillance.md) — 20 items
+- [C2 Vocabulary — Digital pathology validation and image-analysis quality](biomedicine/50-digital-pathology-validation-and-image-analysis-quality.md) — 20 items
+- [C2 Vocabulary — Implant biocompatibility and device safety](biomedicine/51-implant-biocompatibility-and-device-safety.md) — 20 items
+- [C2 Vocabulary — Metabolic support and nutrition therapy](biomedicine/52-metabolic-support-and-nutrition-therapy.md) — 20 items
+- [C2 Vocabulary — Gene-therapy biodistribution and shedding](biomedicine/53-gene-therapy-biodistribution-and-shedding.md) — 20 items
+- [C2 Vocabulary — Rare-disease natural history and endpoints](biomedicine/54-rare-disease-natural-history-and-endpoints.md) — 20 items
+- [C2 Vocabulary — Rehabilitation outcomes and functional recovery](biomedicine/55-rehabilitation-outcomes-and-functional-recovery.md) — 20 items
+- [C2 Vocabulary — Remote monitoring and connected care](biomedicine/56-remote-monitoring-and-connected-care.md) — 20 items
+- [C2 Vocabulary — Neuroimaging connectivity and network mapping](biomedicine/57-neuroimaging-connectivity-and-network-mapping.md) — 20 items
+- [C2 Vocabulary — Neurodegenerative biomarkers and clinical endpoints](biomedicine/58-neurodegenerative-biomarkers-and-clinical-endpoints.md) — 20 items
+- [C2 Vocabulary — Cancer biomarkers and immunotherapy response](biomedicine/59-cancer-biomarkers-and-immunotherapy-response.md) — 20 items
+- [C2 Vocabulary — Estimand design and real-world evidence](biomedicine/60-estimand-design-and-real-world-evidence.md) — 20 items
+- [C2 Vocabulary — Nanomedicine and Targeted Drug Delivery](biomedicine/61-nanomedicine-and-targeted-delivery.md) — 25 items
+- [Epigenetic reprogramming, Yamanaka factors, and cellular rejuvenation](biomedicine/62-epigenetic-reprogramming-and-cellular-rejuvenation.md) — 25 items
+- [Single-cell transcriptomics, spatial proteomics, and cellular heterogeneities](biomedicine/63-single-cell-transcriptomics-and-spatial-proteomics.md) — 25 items
+- [Chimeric antigen receptor T-cell exhaustion and immunosuppressive tumor microenvironment](biomedicine/64-chimeric-antigen-receptor-t-cell-exhaustion-and-tumor-microenvironment.md) — 25 items
+- [Optogenetic neural circuit interrogation and photoswitchable ligand neuropharmacology](biomedicine/65-optogenetic-neural-circuits-and-synaptic-optopharmacology.md) — 25 items
+- [Induced pluripotent stem cell reprogramming, organoid morphogenesis, and lineage bifurcation](biomedicine/66-induced-pluripotent-stem-cells-organoid-morphogenesis-and-asymmetric-division.md) — 25 items
+- [Epigenetic aging clocks, DNA methylation entropy, and partial reprogramming rejuvenation](biomedicine/67-epigenetic-clocks-dna-methylation-entropy-and-cellular-rejuvenation.md) — 25 items
+- [Targeted protein degradation, PROTAC bifunctional degraders, and molecular glue complexes](biomedicine/68-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md) — 25 items
+- [Ribosomal profiling, translatomic dynamics, and non-canonical microprotein translation](biomedicine/69-ribosome-profiling-translatomics-and-non-canonical-open-reading-frames.md) — 25 items
+- [Mitochondrial heteroplasmy thresholds, PINK1-Parkin mitophagy kinetics, and retrograde signaling](biomedicine/70-mitochondrial-heteroplasmy-mitophagy-kinetics-and-metabolic-reprogramming.md) — 25 items
+- [Chemogenetic designer receptors (DREADDs), targeted pharmacogenetic actuation, and neural circuit manipulation](biomedicine/71-chemogenetics-designer-receptors-and-neural-circuit-dissection.md) — 25 items
+- [Spatial transcriptomics, multiplexed in situ RNA sequencing, and cellular microenvironment cartography](biomedicine/72-spatial-transcriptomics-in-situ-sequencing-and-tissue-microenvironment-cartography.md) — 25 items
+- [Circulating tumor DNA (ctDNA) dynamics, ultra-deep error-corrected sequencing, and minimal residual disease tracking](biomedicine/73-liquid-biopsy-circulating-tumor-dna-and-minimal-residual-disease.md) — 25 items
+- [Tumor-associated tertiary lymphoid structures (TLS), germinal center B-cell maturation, and checkpoint response predictive biomarkers](biomedicine/74-tertiary-lymphoid-structures-tumor-infiltrating-b-cells-and-immunotherapy-responsiveness.md) — 25 items
+- [Imaging mass cytometry, multiplexed ion beam imaging (MIBI), and subcellular proteomic topography](biomedicine/75-spatial-proteomics-mass-cytometry-and-multiplexed-ion-beam-imaging.md) — 25 items
+- [Mitochondrial fission-fusion equilibrium, Drp1 GTPase oligomerization, and cristae remodeling](biomedicine/76-mitochondrial-dynamics-fission-fusion-balance-and-metabolic-senescence.md) — 25 items
+- [Single-cell ATAC-seq epigenomics, hyperactive Tn5 transposase tagging, and regulome accessibility landscapes](biomedicine/77-single-cell-epigenomics-scatac-seq-and-chromatin-accessibility-landscapes.md) — 25 items
+- [Targeted proteasomal degradation, PROTAC heterobifunctional chimeras, and molecular glue degraders](biomedicine/78-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md) — 25 items
+- [High-diversity cellular barcoding, clonal hematopoiesis of indeterminate potential (CHIP), and somatic lineage tracing](biomedicine/79-cellular-barcoding-clonal-hematopoiesis-and-lineage-tracing.md) — 25 items
+- [Presynaptic SNARE pin-zippering, synaptotagmin-1 calcium sensor triggering, and vesicle kiss-and-run recycling](biomedicine/80-synaptic-vesicle-exocytosis-snare-complex-and-synaptotagmin-calcium-sensing.md) — 25 items
+- [Spatial transcriptomics, in situ sequencing, and cellular niche profiling](biomedicine/81-spatial-transcriptomics-in-situ-sequencing-and-cellular-niche-profiling.md) — 25 items
+- [Optogenetic neural silencing, halorhodopsin chloride pumps, and behavioral circuit dissection](biomedicine/82-optogenetic-neural-silencing-halorhodopsin-and-behavioral-circuit-dissection.md) — 25 items
+- [Liquid biopsy cell-free DNA methylation, tissue-of-origin deconvolution, and early oncogenesis detection](biomedicine/83-liquid-biopsy-cell-free-dna-methylation-and-tissue-of-origin-deconvolution.md) — 25 items
+- [Targeted covalent inhibitors, cysteinyl kinetic selectivity, and allosteric proteasomal glues](biomedicine/84-targeted-covalent-inhibitors-cysteinyl-kinetic-selectivity-and-proteasomal-glues.md) — 25 items
+- [Synthetic chimeric antigen receptor (CAR) T-cell signaling domain engineering and tonic signaling mitigation](biomedicine/85-car-t-cell-signaling-domain-engineering-and-tonic-signaling-mitigation.md) — 25 items
+- [Structural biology cryo-electron tomography, subtomogram averaging, and in situ macromolecular crowding](biomedicine/86-structural-cryo-electron-tomography-and-subtomogram-averaging-in-situ.md) — 25 items
+- [Brain organoid intelligence, bio-computational neural microtissues, and closed-loop electrophysiology](biomedicine/87-organoid-intelligence-neural-microtissues-and-electrophysiological-computation.md) — 25 items
+- [Precision base editing, pegRNA-directed prime editing, and target prime-directed reverse transcription](biomedicine/88-base-editing-prime-editing-and-pegRNA-reverse-transcription.md) — 25 items
+- [Spatial transcriptomics barcoding, in situ RNA sequencing, and tumor microenvironment architecture](biomedicine/89-spatial-transcriptomics-in-situ-sequencing-and-tissue-microenvironment.md) — 25 items
+- [Gut microbiota short-chain fatty acids, GPR41/43 receptor signaling, and regulatory T-cell epigenetics](biomedicine/90-microbiome-derived-metabolites-scfa-gpr41-43-and-immune-tolerance.md) — 25 items
+- [Proteolysis targeting chimeras (PROTACs), chimeric E3 ligase hijacking, and ternary complex kinetics](biomedicine/91-targeted-protein-degradation-protacs-and-ubiquitin-ligase-recruitment.md) — 25 items
+- [Matrix-assisted laser desorption ionization (MALDI) imaging spatial lipidomics, and lipid raft microdomains](biomedicine/92-spatial-lipidomics-maldi-imaging-and-membrane-bilayer-heterogeneity.md) — 25 items
+
+### Computing ()
+
+- [C2 Vocabulary — Distributed systems and consensus](computing/01-distributed-systems-and-consensus.md) — 20 items
+- [C2 Vocabulary — Compilers and runtime systems](computing/02-compilers-and-runtime-systems.md) — 20 items
+- [C2 Vocabulary — Database internals and query optimization](computing/03-database-internals-and-query-optimization.md) — 20 items
+- [C2 Vocabulary — Memory models and concurrent systems](computing/04-memory-models-and-concurrent-systems.md) — 20 items
+- [C2 Vocabulary — Observability and performance diagnostics](computing/05-observability-and-performance-diagnostics.md) — 20 items
+- [C2 Vocabulary — Network transport and congestion control](computing/06-network-transport-and-congestion-control.md) — 20 items
+- [C2 Vocabulary — Filesystems and storage I/O](computing/07-filesystems-and-storage-io.md) — 20 items
+- [C2 Vocabulary — Container orchestration and service mesh](computing/08-container-orchestration-and-service-mesh.md) — 20 items
+- [C2 Vocabulary — Virtualization and hypervisor systems](computing/09-virtualization-and-hypervisor-systems.md) — 20 items
+- [C2 Vocabulary — GPU architecture and parallel computing](computing/10-gpu-architecture-and-parallel-computing.md) — 20 items
+- [C2 Vocabulary — Software supply-chain provenance](computing/100-software-supply-chain-provenance.md) — 20 items
+- [C2 Vocabulary — Offline-first sync and reconciliation](computing/101-offline-first-sync-and-reconciliation.md) — 20 items
+- [C2 Vocabulary — Edge computing and serverless delivery](computing/102-edge-computing-and-serverless-delivery.md) — 20 items
+- [C2 Vocabulary — GPU kernel performance](computing/103-gpu-kernel-performance.md) — 20 items
+- [C2 Vocabulary — Data lakehouse and open table formats](computing/104-data-lakehouse-and-open-table-formats.md) — 20 items
+- [C2 Vocabulary — Data governance and privacy controls](computing/105-data-governance-and-privacy-controls.md) — 20 items
+- [C2 Vocabulary — Data quality engineering and assurance](computing/106-data-quality-engineering-and-assurance.md) — 20 items
+- [C2 Vocabulary — Data interoperability and integration](computing/107-data-interoperability-and-integration.md) — 20 items
+- [C2 Vocabulary — Reliability and incident response](computing/108-reliability-and-incident-response.md) — 20 items
+- [C2 Vocabulary — Event-driven data delivery](computing/109-event-driven-data-delivery.md) — 20 items
+- [C2 Vocabulary — CPU microarchitecture and speculative execution](computing/11-cpu-microarchitecture-and-speculative-execution.md) — 20 items
+- [C2 Vocabulary — Resource scheduling and orchestration](computing/110-resource-scheduling-and-orchestration.md) — 20 items
+- [C2 Vocabulary — Observability telemetry and signal design](computing/111-observability-telemetry-and-signal-design.md) — 20 items
+- [C2 Vocabulary — Configuration and progressive rollout](computing/112-configuration-and-progressive-rollout.md) — 20 items
+- [C2 Vocabulary — Cryptographic key lifecycle and trust](computing/113-cryptographic-key-lifecycle-and-trust.md) — 20 items
+- [C2 Vocabulary — Privacy-preserving analytics](computing/114-privacy-preserving-analytics.md) — 20 items
+- [C2 Vocabulary — Model deployment and evaluation governance](computing/115-model-deployment-and-evaluation-governance.md) — 20 items
+- [C2 Vocabulary — Schema evolution and contract compatibility](computing/116-schema-evolution-and-contract-compatibility.md) — 20 items
+- [C2 Vocabulary — Data encoding and transfer efficiency](computing/117-data-encoding-and-transfer-efficiency.md) — 20 items
+- [C2 Vocabulary — Distributed storage repair and durability](computing/118-distributed-storage-repair-and-durability.md) — 20 items
+- [C2 Vocabulary — Network congestion and transport behavior](computing/119-network-congestion-and-transport-behavior.md) — 20 items
+- [C2 Vocabulary — Memory allocation and garbage collection](computing/12-memory-allocation-and-garbage-collection.md) — 20 items
+- [C2 Vocabulary — Distributed time and clock semantics](computing/120-distributed-time-and-clock-semantics.md) — 20 items
+- [C2 Vocabulary — Query planning and index strategy](computing/121-query-planning-and-index-strategy.md) — 20 items
+- [C2 Vocabulary — Transaction isolation and recovery semantics](computing/122-transaction-isolation-and-recovery-semantics.md) — 20 items
+- [C2 Vocabulary — Authorization policy evaluation](computing/123-authorization-policy-evaluation.md) — 20 items
+- [C2 Vocabulary — Software dependency supply-chain controls](computing/124-software-dependency-supply-chain-controls.md) — 20 items
+- [C2 Vocabulary — Service-level objectives and alert policy](computing/125-service-level-objectives-and-alert-policy.md) — 20 items
+- [C2 Vocabulary — Archival storage and retention lifecycle](computing/126-archival-storage-and-retention-lifecycle.md) — 20 items
+- [C2 Vocabulary — Federated query and data-source coordination](computing/127-federated-query-and-data-source-coordination.md) — 20 items
+- [C2 Vocabulary — Durable workflow and saga orchestration](computing/128-durable-workflow-and-saga-orchestration.md) — 20 items
+- [C2 Vocabulary — Geospatial data systems](computing/129-geospatial-data-systems.md) — 20 items
+- [C2 Vocabulary — RDMA and high-performance networking](computing/13-rdma-and-high-performance-networking.md) — 20 items
+- [C2 Vocabulary — Time-series analytics and forecasting](computing/130-time-series-analytics-and-forecasting.md) — 20 items
+- [C2 Vocabulary — Search retrieval and ranking](computing/131-search-retrieval-and-ranking.md) — 20 items
+- [C2 Vocabulary — Graph data systems](computing/132-graph-data-systems.md) — 20 items
+- [C2 Vocabulary — Streaming windows and state semantics](computing/133-streaming-windows-and-state-semantics.md) — 20 items
+- [C2 Vocabulary — API gateway traffic management](computing/134-api-gateway-traffic-management.md) — 20 items
+- [C2 Vocabulary — Service discovery and membership](computing/135-service-discovery-and-membership.md) — 20 items
+- [C2 Vocabulary — Coordination primitives and consensus state](computing/136-coordination-primitives-and-consensus-state.md) — 20 items
+- [C2 Vocabulary — Message queue operations](computing/137-message-queue-operations.md) — 20 items
+- [C2 Vocabulary — Distributed filesystem metadata and consistency](computing/138-distributed-filesystem-metadata-and-consistency.md) — 20 items
+- [C2 Vocabulary — Document ingestion and content processing](computing/139-document-ingestion-and-content-processing.md) — 20 items
+- [C2 Vocabulary — Distributed object storage and erasure coding](computing/14-distributed-object-storage-and-erasure-coding.md) — 20 items
+- [C2 Vocabulary — Accelerator memory and collective execution](computing/140-accelerator-memory-and-collective-execution.md) — 20 items
+- [C2 Vocabulary — Container runtime and workload scheduling](computing/141-container-runtime-and-workload-scheduling.md) — 20 items
+- [C2 Vocabulary — Change data capture and replication apply](computing/142-change-data-capture-and-replication-apply.md) — 20 items
+- [C2 Vocabulary — Security audit evidence and log integrity](computing/143-security-audit-evidence-and-log-integrity.md) — 20 items
+- [C2 Vocabulary — Compiler front ends and static analysis](computing/144-compiler-front-ends-and-static-analysis.md) — 20 items
+- [C2 Vocabulary — Compiled artifacts and runtime linking](computing/145-compiled-artifacts-and-runtime-linking.md) — 20 items
+- [C2 Vocabulary — Runtime concurrency and memory semantics](computing/146-runtime-concurrency-and-memory-semantics.md) — 20 items
+- [C2 Vocabulary — JIT optimization and runtime representation](computing/147-jit-optimization-and-runtime-representation.md) — 20 items
+- [C2 Vocabulary — Process memory and kernel I/O](computing/148-process-memory-and-kernel-io.md) — 20 items
+- [C2 Vocabulary — Operating-system I/O and service supervision](computing/149-os-io-and-service-supervision.md) — 20 items
+- [C2 Vocabulary — Confidential computing and trusted execution](computing/15-confidential-computing-and-trusted-execution.md) — 20 items
+- [C2 Vocabulary — Network protocol lifecycle](computing/150-network-protocol-lifecycle.md) — 20 items
+- [C2 Vocabulary — Resilience, consistency, and recovery](computing/151-resilience-consistency-and-recovery.md) — 20 items
+- [C2 Vocabulary — Analytical storage and stream delivery](computing/152-analytical-storage-and-stream-delivery.md) — 20 items
+- [C2 Vocabulary — Privacy, security, and forensic operations](computing/153-privacy-security-and-forensic-operations.md) — 20 items
+- [C2 Vocabulary — Testing, verification, and failure analysis](computing/154-testing-verification-and-failure-analysis.md) — 20 items
+- [C2 Vocabulary — Release engineering and operational readiness](computing/155-release-engineering-and-operational-readiness.md) — 20 items
+- [C2 Vocabulary — Observability and incident operations](computing/156-observability-and-incident-operations.md) — 20 items
+- [C2 Vocabulary — Configuration, experimentation, and policy rollout](computing/157-configuration-experimentation-and-policy-rollout.md) — 20 items
+- [C2 Vocabulary — Backup, restore, and disaster recovery](computing/158-backup-restore-and-disaster-recovery.md) — 20 items
+- [C2 Vocabulary — Machine-learning training and evaluation lifecycle](computing/159-ml-training-and-evaluation-lifecycle.md) — 20 items
+- [C2 Vocabulary — Scheduling and resource allocation](computing/16-scheduling-and-resource-allocation.md) — 20 items
+- [C2 Vocabulary — LLM serving and structured generation](computing/160-llm-serving-and-structured-generation.md) — 20 items
+- [C2 Vocabulary — Retrieval, grounding, and context engineering](computing/161-retrieval-grounding-and-context-engineering.md) — 20 items
+- [C2 Vocabulary — AI evaluation, safety, and governance](computing/162-ai-evaluation-safety-and-governance.md) — 20 items
+- [C2 Vocabulary — Production AI governance and accountability](computing/163-production-ai-governance-and-accountability.md) — 20 items
+- [C2 Vocabulary — Data quality and observability](computing/164-data-quality-and-observability.md) — 20 items
+- [C2 Vocabulary — Query execution and storage internals](computing/165-query-execution-and-storage-internals.md) — 20 items
+- [C2 Vocabulary — Distributed replication and partitioning](computing/166-distributed-replication-and-partitioning.md) — 20 items
+- [C2 Vocabulary — Edge delivery and traffic steering](computing/167-edge-delivery-and-traffic-steering.md) — 20 items
+- [C2 Vocabulary — Network overlays, routing, and validation](computing/168-network-overlay-routing-and-validation.md) — 20 items
+- [C2 Vocabulary — Network telemetry and flow analysis](computing/169-network-telemetry-and-flow-analysis.md) — 20 items
+- [C2 Vocabulary — Data compression and encoding](computing/17-data-compression-and-encoding.md) — 20 items
+- [C2 Vocabulary — Mobile-network architecture and radio resources](computing/170-mobile-network-architecture-and-radio-resources.md) — 20 items
+- [C2 Vocabulary — Satellite networking and link engineering](computing/171-satellite-networking-and-link-engineering.md) — 20 items
+- [C2 Vocabulary — Robotics control and motion planning](computing/172-robotics-control-and-motion-planning.md) — 20 items
+- [C2 Vocabulary — Embedded real-time systems and firmware](computing/173-embedded-real-time-and-firmware.md) — 20 items
+- [C2 Vocabulary — Embedded diagnostics, power states, and fault containment](computing/174-embedded-diagnostics-power-and-fault-containment.md) — 20 items
+- [C2 Vocabulary — Secure firmware, device identity, and update trust](computing/175-secure-firmware-identity-and-update.md) — 20 items
+- [C2 Vocabulary — Hardware bring-up, validation, and production diagnostics](computing/176-hardware-bring-up-test-and-production.md) — 20 items
+- [C2 Vocabulary — Memory reliability, reclamation, and safety](computing/177-memory-reliability-and-memory-safety.md) — 20 items
+- [C2 Vocabulary — Embedded device buses and signal integrity](computing/178-embedded-device-buses-and-signal-integrity.md) — 20 items
+- [C2 Vocabulary — Embedded time synchronization and sampling](computing/179-embedded-time-synchronization-and-sampling.md) — 20 items
+- [C2 Vocabulary — Serverless function runtimes](computing/18-serverless-function-runtimes.md) — 21 items
+- [C2 Vocabulary — Embedded power, thermal, and battery management](computing/180-embedded-power-thermal-and-battery-management.md) — 20 items
+- [C2 Vocabulary — Embedded telemetry, tracing, and profiling](computing/181-embedded-telemetry-and-profiling.md) — 20 items
+- [C2 Vocabulary — Digital signal processing and filtering](computing/182-digital-signal-processing-and-filtering.md) — 25 items
+- [C2 Vocabulary — Computer graphics and rendering](computing/183-computer-graphics-and-rendering.md) — 25 items
+- [Formal verification, temporal logic, and distributed consensus protocols](computing/184-formal-verification-of-distributed-consensus-protocols.md) — 25 items
+- [Neuromorphic spiking neural architectures, event-driven circuits, and synaptic plasticity](computing/185-neuromorphic-spiking-neural-architectures-and-synaptic-plasticity.md) — 25 items
+- [Probabilistic data structures, streaming sketches, and sublinear cardinality estimation](computing/186-probabilistic-data-structures-and-streaming-cardinality-estimation.md) — 25 items
+- [Formal verification, dependent type theories, and mechanized proof assistants](computing/187-formal-verification-dependent-types-and-interactive-theorem-proving.md) — 25 items
+- [Zero-copy network architectures, io_uring asynchronous ring buffers, and kernel bypass](computing/188-zero-copy-kernel-bypass-io-uring-and-memory-mapped-telemetry.md) — 25 items
+- [Lock-free concurrency primitives, epoch-based memory reclamation, and transactional memory](computing/189-lock-free-synchronization-memory-reclamation-and-hardware-transactional-memory.md) — 25 items
+- [C2 Vocabulary — Edge computing and workload placement](computing/19-edge-computing-and-workload-placement.md) — 20 items
+- [Polyhedral loop transformations, static single assignment invariants, and compiler autotuning](computing/190-compilation-passes-polyhedral-loop-optimization-and-ssa-form.md) — 25 items
+- [Asynchronous coroutine runtimes, work-stealing scheduling heuristics, and cooperative cancellation](computing/191-asynchronous-coroutine-runtimes-work-stealing-schedulers-and-cancellation-tokens.md) — 25 items
+- [Formally verified microkernels, zero-copy synchronous IPC, and capability-based access control](computing/192-verified-microkernels-formal-ipc-mechanisms-and-capability-based-security.md) — 25 items
+- [Compiler intermediate representations, static single assignment (SSA) invariants, and flow-sensitive alias analysis](computing/193-compilation-passes-static-single-assignment-and-alias-analysis.md) — 25 items
+- [Homotopy type theory, higher inductive types, and the Voevodsky univalence axiom](computing/194-type-theory-homotopy-type-theory-and-univalence-axiom.md) — 25 items
+- [Lock-free concurrent data structures, safe memory reclamation, and hazard pointer protection schemes](computing/195-lock-free-data-structures-memory-reclamation-and-hazard-pointers.md) — 25 items
+- [Girardian linear logic, proof nets geometric correctness, and resource-bounded cut-elimination](computing/196-linear-logic-proof-nets-and-computational-resource-boundedness.md) — 25 items
+- [Binary session types, linear pi-calculus duality, and distributed protocol conformance](computing/197-session-types-linear-pi-calculus-and-distributed-protocol-conformance.md) — 25 items
+- [Persistent homology filtrations, topological data analysis, and persistence barcode invariants](computing/198-persistent-homology-topological-data-analysis-and-barcodes.md) — 25 items
+- [Actor model message-passing concurrency, mailbox saturation heuristics, and hierarchical supervision trees](computing/199-actor-model-concurrency-mailbox-scheduling-and-supervision-trees.md) — 25 items
+- [C2 Vocabulary — Event-driven architecture and messaging](computing/20-event-driven-architecture-and-messaging.md) — 20 items
+- [Programming language formal semantics, big-step versus small-step reductions, and Hoare-triple axiomatic verification](computing/200-formal-semantics-operational-denotational-and-axiomatic-hoare-triples.md) — 25 items
+- [Hardware transactional memory (HTM), cache coherence transaction tracking, and speculative lock elision](computing/201-hardware-transactional-memory-cache-coherence-and-speculative-lock-elision.md) — 28 items
+- [Static abstract interpretation, Galois connection adjunctions, and widening operator fixpoint acceleration](computing/202-abstract-interpretation-galois-connections-and-widening-operators.md) — 28 items
+- [Zero-knowledge succinct arguments (zk-SNARKs), arithmetic circuits, and polynomial commitments](computing/203-zero-knowledge-succinct-arguments-arithmetic-circuits-and-polynomial-commitments.md) — 25 items
+- [Concurrency separation logic, concurrent abstract predicates, and linearizability proofs](computing/204-concurrency-separation-logic-concurrent-abstract-predicates-and-linearizability.md) — 25 items
+- [Quantum error-correcting surface codes, stabilizer measurements, and fault-tolerant logical qubits](computing/205-quantum-error-correcting-surface-codes-and-fault-tolerant-logical-qubits.md) — 25 items
+- [Homomorphic encryption bootstrapping, Ring-LWE cryptography, and private computation circuits](computing/206-homomorphic-encryption-bootstrapping-rlwe-and-private-computation-circuits.md) — 25 items
+- [Verifiable credential decentralized identity schemas, zero-knowledge selective disclosure, and cryptographic revocation](computing/207-decentralized-identity-verifiable-credentials-and-zero-knowledge-disclosure.md) — 25 items
+- [Capability Hardware Enhanced RISC Instructions (CHERI), tagged memory words, and spatial memory safety](computing/208-capability-hardware-cheri-architecture-and-spatial-memory-safety.md) — 25 items
+- [Formal microarchitectural verification, speculative execution transients, and hardware Trojan detection](computing/209-formal-microarchitectural-verification-speculative-execution-and-hardware-trojans.md) — 25 items
+- [C2 Vocabulary — Programmable networking and function offload](computing/21-programmable-networking-and-function-offload.md) — 20 items
+- [Fully homomorphic encryption (FHE), torus FHE bootstrapping, and lattice ciphertext noise management](computing/210-fully-homomorphic-encryption-bootstrapping-and-lattice-cryptography.md) — 25 items
+- [Asynchronous Byzantine Fault Tolerance (aBFT), directed acyclic graph (DAG) consensus, and decoupled data availability](computing/211-asynchronous-byzantine-fault-tolerance-dag-consensus-and-narwhal-bullshark.md) — 25 items
+- [Denotational formal semantics, monadic parser combinators, and coinductive corecursive types](computing/212-formal-semantics-monadic-parsers-and-denotational-coinductive-types.md) — 25 items
+- [Zero-knowledge rollups, zkEVM state validity proofs, and recursive Plonkish arithmetization](computing/213-zero-knowledge-rollups-zk-evm-and-succinct-recursive-plonkish-arguments.md) — 25 items
+- [Type-level metaprogramming, Martin-Löf dependent types, and Curry-Howard propositional logic](computing/214-type-level-metaprogramming-dependent-types-and-curry-howard-correspondence.md) — 25 items
+- [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md) — 20 items
+- [C2 Vocabulary — Distributed ML training and inference](computing/23-distributed-ml-training-and-inference.md) — 20 items
+- [C2 Vocabulary — Privacy-preserving federated learning](computing/24-privacy-preserving-federated-learning.md) — 20 items
+- [C2 Vocabulary — AI compiler and graph optimization](computing/25-ai-compiler-and-graph-optimization.md) — 20 items
+- [C2 Vocabulary — Model evaluation and uncertainty](computing/26-model-evaluation-and-uncertainty.md) — 20 items
+- [C2 Vocabulary — Data curation and active learning](computing/27-data-curation-and-active-learning.md) — 20 items
+- [C2 Vocabulary — Reproducible builds and supply-chain integrity](computing/28-reproducible-builds-and-supply-chain-integrity.md) — 20 items
+- [C2 Vocabulary — ML observability and deployment lifecycle](computing/29-ml-observability-and-deployment-lifecycle.md) — 20 items
+- [C2 Vocabulary — Carbon-aware data-center operations](computing/30-carbon-aware-data-center-operations.md) — 20 items
+- [C2 Vocabulary — Model compression and efficient inference](computing/31-model-compression-and-efficient-inference.md) — 20 items
+- [C2 Vocabulary — Confidential inference and enclave security](computing/32-confidential-inference-and-enclave-security.md) — 20 items
+- [C2 Vocabulary — Workload identity and zero-trust authorization](computing/33-workload-identity-and-zero-trust-authorization.md) — 20 items
+- [C2 Vocabulary — eBPF and kernel observability](computing/34-ebpf-and-kernel-observability.md) — 20 items
+- [C2 Vocabulary — Formal methods and type-theoretic verification](computing/35-formal-methods-and-type-theoretic-verification.md) — 20 items
+- [C2 Vocabulary — Stream processing and event-time semantics](computing/36-stream-processing-and-event-time-semantics.md) — 20 items
+- [C2 Vocabulary — CRDTs and causal consistency](computing/37-crdts-and-causal-consistency.md) — 20 items
+- [C2 Vocabulary — Database recovery and logging](computing/38-database-recovery-and-logging.md) — 20 items
+- [C2 Vocabulary — Lock-free concurrency and memory reclamation](computing/39-lock-free-concurrency-and-memory-reclamation.md) — 20 items
+- [C2 Vocabulary — GPU kernel optimization and accelerator performance](computing/40-gpu-kernel-optimization-and-accelerator-performance.md) — 20 items
+- [C2 Vocabulary — Post-quantum cryptography and migration](computing/41-post-quantum-cryptography-and-migration.md) — 20 items
+- [C2 Vocabulary — Measured boot and remote attestation](computing/42-measured-boot-and-remote-attestation.md) — 20 items
+- [C2 Vocabulary — Serializability and distributed transactions](computing/43-serializability-and-distributed-transactions.md) — 20 items
+- [C2 Vocabulary — Homomorphic encryption and private computation](computing/44-homomorphic-encryption-and-private-computation.md) — 20 items
+- [C2 Vocabulary — Vector search and approximate nearest neighbors](computing/45-vector-search-and-approximate-nearest-neighbors.md) — 20 items
+- [C2 Vocabulary — Polyhedral optimization and auto-vectorization](computing/46-polyhedral-optimization-and-auto-vectorization.md) — 20 items
+- [C2 Vocabulary — Change data capture and event consistency](computing/47-change-data-capture-and-event-consistency.md) — 20 items
+- [C2 Vocabulary — Durable workflows and task orchestration](computing/48-durable-workflows-and-task-orchestration.md) — 20 items
+- [C2 Vocabulary — Policy-as-code and authorization semantics](computing/49-policy-as-code-and-authorization-semantics.md) — 20 items
+- [C2 Vocabulary — Disaggregated memory fabrics and composable infrastructure](computing/50-disaggregated-memory-fabrics-and-composable-infrastructure.md) — 20 items
+- [C2 Vocabulary — Distributed time synchronization and clock integrity](computing/51-distributed-time-synchronization-and-clock-integrity.md) — 20 items
+- [C2 Vocabulary — Capability security and authority containment](computing/52-capability-security-and-authority-containment.md) — 20 items
+- [C2 Vocabulary — Compiler fuzzing and differential testing](computing/53-compiler-fuzzing-and-differential-testing.md) — 20 items
+- [C2 Vocabulary — Storage integrity and self-healing](computing/54-storage-integrity-and-self-healing.md) — 20 items
+- [C2 Vocabulary — Time-series storage and query engines](computing/55-time-series-storage-and-query-engines.md) — 20 items
+- [C2 Vocabulary — Stream-processing state and delivery semantics](computing/56-stream-processing-state-and-delivery-semantics.md) — 20 items
+- [C2 Vocabulary — Schema compatibility and contract evolution](computing/57-schema-compatibility-and-contract-evolution.md) — 20 items
+- [C2 Vocabulary — Rate limiting and quota semantics](computing/58-rate-limiting-and-quota-semantics.md) — 20 items
+- [C2 Vocabulary — Trace causality and observability economics](computing/59-trace-causality-and-observability-economics.md) — 20 items
+- [C2 Vocabulary — Security incident response and forensic reconstruction](computing/60-security-incident-response-and-forensic-reconstruction.md) — 20 items
+- [C2 Vocabulary — Differential-privacy accounting and utility](computing/61-differential-privacy-accounting-and-utility.md) — 20 items
+- [C2 Vocabulary — Keyless signing and provenance attestations](computing/62-keyless-signing-and-provenance-attestations.md) — 20 items
+- [C2 Vocabulary — Chaos engineering and resilience experiments](computing/63-chaos-engineering-and-resilience-experiments.md) — 20 items
+- [C2 Vocabulary — Cost-based query optimization and plan stability](computing/64-cost-based-query-optimization-and-plan-stability.md) — 20 items
+- [C2 Vocabulary — Distributed cache consistency and invalidation](computing/65-distributed-cache-consistency-and-invalidation.md) — 20 items
+- [C2 Vocabulary — Quantum networking and entanglement distribution](computing/66-quantum-networking-and-entanglement-distribution.md) — 20 items
+- [C2 Vocabulary — Quantum error correction and fault tolerance](computing/67-quantum-error-correction-and-fault-tolerance.md) — 20 items
+- [C2 Vocabulary — Quantum algorithms and variational optimization](computing/68-quantum-algorithms-and-variational-optimization.md) — 20 items
+- [C2 Vocabulary — Quantum compilation and hardware control](computing/69-quantum-compilation-and-hardware-control.md) — 20 items
+- [C2 Vocabulary — Quantum hardware benchmarking and calibration](computing/70-quantum-hardware-benchmarking-and-calibration.md) — 20 items
+- [C2 Vocabulary — Quantum sensing and metrology](computing/71-quantum-sensing-and-metrology.md) — 20 items
+- [C2 Vocabulary — Quantum machine learning and data encoding](computing/72-quantum-machine-learning-and-data-encoding.md) — 20 items
+- [C2 Vocabulary — Quantum cryptography and key distribution](computing/73-quantum-cryptography-and-key-distribution.md) — 20 items
+- [C2 Vocabulary — Post-quantum cryptography migration](computing/74-post-quantum-cryptography-migration.md) — 20 items
+- [C2 Vocabulary — Formal verification of cryptographic protocols](computing/75-formal-verification-of-cryptographic-protocols.md) — 20 items
+- [C2 Vocabulary — Confidential computing and hardware attestation](computing/76-confidential-computing-and-hardware-attestation.md) — 20 items
+- [C2 Vocabulary — Verified compilation and program semantics](computing/77-verified-compilation-and-program-semantics.md) — 20 items
+- [C2 Vocabulary — Zero-knowledge proof systems](computing/78-zero-knowledge-proof-systems.md) — 20 items
+- [C2 Vocabulary — Differential-privacy accounting and amplification](computing/79-differential-privacy-accounting-and-amplification.md) — 20 items
+- [C2 Vocabulary — Adversarial learning and robustness](computing/80-adversarial-learning-and-robustness.md) — 20 items
+- [C2 Vocabulary — Federated learning systems](computing/81-federated-learning-systems.md) — 20 items
+- [C2 Vocabulary — Graph representation and geometric learning](computing/82-graph-representation-and-geometric-learning.md) — 20 items
+- [C2 Vocabulary — Reinforcement learning and offline policy](computing/83-reinforcement-learning-and-offline-policy.md) — 20 items
+- [C2 Vocabulary — Multimodal alignment and grounding](computing/84-multimodal-alignment-and-grounding.md) — 20 items
+- [C2 Vocabulary — Causal representation learning](computing/85-causal-representation-learning.md) — 16 items
+- [C2 Vocabulary — Generative modeling and diffusion](computing/86-generative-modeling-and-diffusion.md) — 20 items
+- [C2 Vocabulary — Robotics perception and motion planning](computing/87-robotics-perception-and-motion-planning.md) — 20 items
+- [C2 Vocabulary — Observability and distributed tracing](computing/88-observability-and-distributed-tracing.md) — 20 items
+- [C2 Vocabulary — Bioinformatics and sequence analysis](computing/89-bioinformatics-sequence-analysis.md) — 20 items
+- [C2 Vocabulary — Database storage engines and recovery](computing/90-database-storage-engines-and-recovery.md) — 20 items
+- [C2 Vocabulary — Network transport and congestion](computing/91-network-transport-and-congestion.md) — 20 items
+- [C2 Vocabulary — Runtime memory and JIT internals](computing/92-runtime-memory-and-jit-internals.md) — 20 items
+- [C2 Vocabulary — Language-model inference and serving](computing/93-language-model-inference-and-serving.md) — 20 items
+- [C2 Vocabulary — Web performance and rendering](computing/94-web-performance-and-rendering.md) — 20 items
+- [C2 Vocabulary — Web security and browser isolation](computing/95-web-security-and-browser-isolation.md) — 20 items
+- [C2 Vocabulary — Distributed consensus and replication](computing/96-distributed-consensus-and-replication.md) — 20 items
+- [C2 Vocabulary — Query optimization and execution](computing/97-query-optimization-and-execution.md) — 20 items
+- [C2 Vocabulary — Stream processing and time semantics](computing/98-stream-processing-and-time-semantics.md) — 20 items
+- [C2 Vocabulary — Resilient APIs and service contracts](computing/99-resilient-api-and-service-contracts.md) — 20 items
+
+### Governance ()
+
+- [Public authority and institutional accountability](governance/01-public-authority-and-accountability.md) — 20 items
+- [Polycentric systems, nested enterprises, and institutional commons](governance/02-polycentric-systems-and-institutional-commons.md) — 25 items
+- [Polycentric federalism, jurisdictional arbitrage, and the principle of subsidiarity](governance/03-polycentric-federalism-regulatory-arbitrage-and-subsidiarity.md) — 25 items
+- [Deliberative minipublics, democratic sortition, and epistemic governance](governance/04-deliberative-minipublics-sortition-and-epistemic-democracy.md) — 25 items
+- [Epistemic technocracy, polycentric commoning, and systemic regulatory arbitrage](governance/05-epistemic-technocracy-polycentric-commoning-and-regulatory-capture.md) — 25 items
+- [Institutional subsidiarity, overlapping jurisdictional redundancy, and polycentric common-pool governance](governance/06-subsidiarity-jurisdictional-redundancy-and-polycentric-common-pool-institutions.md) — 25 items
+- [Deliberative minipublics, democratic sortition, and epistemic procedural legitimacy](governance/07-deliberative-minipublics-sortition-and-epistemic-democratic-legitimacy.md) — 25 items
+- [Epistemic democratic theory, Condorcet jury mathematics, and cognitive diversity pooling](governance/08-epistemic-democracy-condorcet-jury-theorem-and-deliberative-pluralism.md) — 25 items
+- [Panarchy theory, adaptive ecological governance, and cross-scale systemic resilience cascades](governance/09-panarchy-adaptive-governance-and-socio-ecological-resilience-cascades.md) — 25 items
+- [Adversarial legalism, administrative rulemaking ossification, and the judicialization of public policy](governance/10-adversarial-legalism-regulatory-ossification-and-judicialized-governance.md) — 25 items
+- [Polycentric governance, common-pool resources, and institutional crafting](governance/11-polycentric-governance-common-pool-resources-and-institutional-crafting.md) — 25 items
+- [Transnational regulatory networks, soft law harmonization, and peer surveillance](governance/12-transnational-regulatory-networks-soft-law-and-peer-surveillance.md) — 25 items
+- [Extraterritorial regulatory overreach, secondary sanctions, and sovereign jurisdictional friction](governance/13-extraterritorial-regulatory-overreach-secondary-sanctions-and-sovereignty.md) — 25 items
+- [Epistemic technocracy, algorithmic administrative adjudication, and bureaucratic black-box opacity](governance/14-epistemic-technocracy-algorithmic-adjudication-and-administrative-opacity.md) — 25 items
+- [Sovereign wealth fund stewardship, Santiago Principles compliance, and geopolitical fiduciary neutrality](governance/15-sovereign-wealth-stewardship-santiago-principles-and-fiduciary-neutrality.md) — 25 items
+- [Administrative regulatory capture, the revolving door phenomenon, and epistemic arbitrage in rulemaking](governance/16-regulatory-capture-revolving-door-and-epistemic-arbitrage.md) — 25 items
+- [Executive emergency decrees, Schmittian states of exception, and hyper-presidential constitutionalism](governance/17-emergency-decrees-state-of-exception-and-constitutional-hyper-presidentialism.md) — 25 items
+
+### Rhetoric ()
+
+- [Rhetorical stance and intellectual style](rhetoric/01-rhetorical-stance-and-intellectual-style.md) — 20 items
+- [Epistemic precision and argumentative method](rhetoric/02-epistemic-precision-and-argumentative-method.md) — 20 items
+- [C2 Vocabulary — Rhetorical devices and interpretation](rhetoric/03-rhetorical-devices-and-interpretation.md) — 20 items
+- [C2 Vocabulary — Critical exchange and counterargument](rhetoric/04-critical-exchange-and-counterargument.md) — 20 items
+- [C2 Vocabulary — Narrative structure and voice](rhetoric/05-narrative-structure-and-voice.md) — 20 items
+- [Emphasis, contrast, and counterargument](rhetoric/06-emphasis-contrast-and-counterargument.md) — 20 items
+- [C2 Vocabulary — Discourse, ideology, and persuasion](rhetoric/07-discourse-ideology-and-persuasion.md) — 20 items
+- [C2 Vocabulary — Pragmatics and conversational meaning](rhetoric/08-pragmatics-and-conversational-meaning.md) — 20 items
+- [Language, meaning, and pragmatic force](rhetoric/09-language-meaning-and-pragmatic-force.md) — 20 items
+- [C2 Vocabulary — Method and evidence evaluation](rhetoric/10-method-and-evidence-evaluation.md) — 20 items
+- [Optics and photonics](rhetoric/100-optics-and-photonics.md) — 20 items
+- [Computational neuroscience and neural coding](rhetoric/101-computational-neuroscience-and-neural-coding.md) — 20 items
+- [Climate economics and carbon markets](rhetoric/102-climate-economics-and-carbon-markets.md) — 20 items
+- [Quantum computing and error correction](rhetoric/103-quantum-computing-and-error-correction.md) — 20 items
+- [Molecular biophysics and cellular mechanisms](rhetoric/104-molecular-biophysics-and-cellular-mechanisms.md) — 20 items
+- [Advanced materials and metamaterials](rhetoric/105-advanced-materials-and-metamaterials.md) — 20 items
+- [Polar glaciology and sea ice](rhetoric/106-polar-glaciology-and-sea-ice.md) — 20 items
+- [Causal inference and evidence design](rhetoric/107-causal-inference-and-evidence-design.md) — 20 items
+- [Digital forensics and incident response](rhetoric/108-digital-forensics-and-incident-response.md) — 20 items
+- [Multimessenger astrophysics and precision cosmology](rhetoric/109-multimessenger-astrophysics-and-precision-cosmology.md) — 20 items
+- [C2 Vocabulary — Language variation and power](rhetoric/11-language-variation-and-power.md) — 20 items
+- [Hydrothermal vent geochemistry](rhetoric/110-hydrothermal-vent-geochemistry.md) — 20 items
+- [Synthetic biology and gene circuits](rhetoric/111-synthetic-biology-and-gene-circuits.md) — 20 items
+- [Electronic market structure and execution](rhetoric/112-electronic-market-structure-and-execution.md) — 20 items
+- [Planetary geology and astrobiology](rhetoric/113-planetary-geology-and-astrobiology.md) — 20 items
+- [Sustainable architecture and building physics](rhetoric/114-sustainable-architecture-and-building-physics.md) — 20 items
+- [Ecological networks and resilience](rhetoric/115-ecological-networks-and-resilience.md) — 20 items
+- [Archaeogenomics and ancient DNA](rhetoric/116-archaeogenomics-and-ancient-dna.md) — 20 items
+- [Foundation models and language technology](rhetoric/117-foundation-models-and-language-technology.md) — 20 items
+- [River-basin hydrology and channel dynamics](rhetoric/118-river-basin-hydrology-and-channel-dynamics.md) — 20 items
+- [Marine animal physiology and adaptation](rhetoric/119-marine-animal-physiology-and-adaptation.md) — 20 items
+- [Theoretical language and interpretive frameworks](rhetoric/12-theoretical-language-and-interpretive-frameworks.md) — 20 items
+- [Network science and collective behavior](rhetoric/120-network-science-and-collective-behavior.md) — 20 items
+- [Atmospheric aerosol chemistry](rhetoric/121-atmospheric-aerosol-chemistry.md) — 20 items
+- [Remote sensing and geospatial analysis](rhetoric/122-remote-sensing-and-geospatial-analysis.md) — 20 items
+- [Particle detectors and event reconstruction](rhetoric/123-particle-detectors-and-event-reconstruction.md) — 20 items
+- [Microbiome ecology and host interactions](rhetoric/124-microbiome-ecology-and-host-interactions.md) — 20 items
+- [Geometric deep learning and graph models](rhetoric/125-geometric-deep-learning-and-graph-models.md) — 20 items
+- [Bayesian computation and probabilistic modeling](rhetoric/126-bayesian-computation-and-probabilistic-modeling.md) — 20 items
+- [Distributed systems and consistency](rhetoric/127-distributed-systems-and-consistency.md) — 20 items
+- [Comparative constitutional adjudication](rhetoric/128-comparative-constitutional-adjudication.md) — 20 items
+- [Financial econometrics and volatility](rhetoric/129-financial-econometrics-and-volatility.md) — 20 items
+- [C2 Vocabulary — Memory, history, and narrative](rhetoric/13-memory-history-and-narrative.md) — 20 items
+- [Acoustics and auditory perception](rhetoric/130-acoustics-and-auditory-perception.md) — 20 items
+- [Sensory science and flavor chemistry](rhetoric/131-sensory-science-and-flavor-chemistry.md) — 20 items
+- [Seismology and earthquake hazards](rhetoric/132-seismology-and-earthquake-hazards.md) — 20 items
+- [Hermeneutic phenomenology, apophatic discourse, and ineffability](rhetoric/133-hermeneutic-phenomenology-and-apophatic-theology.md) — 25 items
+- [Deconstructionist tropes, paralipomenon tactics, and discursive subversion](rhetoric/134-deconstructionist-tropes-and-paralipomenon-tactics.md) — 25 items
+- [Semiotic aporia, radical catachresis, and allegorical hermeneutics](rhetoric/135-semiotic-aporia-catachresis-and-allegorical-exegesis.md) — 25 items
+- [Hermeneutic polysemy, allegorical typology, and parabasis in rhetorical discourse](rhetoric/136-allegory-parables-and-hermeneutic-polysemy.md) — 25 items
+- [Mannerist paronomasia, radical catachrestic displacement, and discursive hyperbaton](rhetoric/137-paronomasia-catachresis-and-mannerist-discursive-stratagems.md) — 25 items
+- [Chiastic balance, rigorous antimetabolic inversion, and dialectical mirror structures in classical polemics](rhetoric/138-chiasmus-antimetabole-and-symmetrical-inversion-in-classical-polemics.md) — 25 items
+- [Classical hendiadys, poetic hypallage, and syntactic-semantic transference in polemical eloquence](rhetoric/139-hendiadys-hypallage-and-discursive-syntactic-transference.md) — 25 items
+- [C2 Vocabulary — Ethical and political reasoning](rhetoric/14-ethical-and-political-reasoning.md) — 20 items
+- [Foreseeing oratorical prolepsis, strategic hypophoric interrogation, and dialectical pre-emption](rhetoric/140-prolepsis-hypophora-and-anticipatory-refutation-in-classical-forensics.md) — 25 items
+- [Feigned aporetic irresolution, expressive anacoluthic rupture, and deliberate syntactic dislocation](rhetoric/141-aporia-anacoluthon-and-syntactic-disruption-in-dramatic-discourse.md) — 25 items
+- [Passionate epizeuxis iteration, strategic diacopic repetition, and affective semantic amplification](rhetoric/142-epizeuxis-diacope-and-affective-lexical-iteration-in-dramatic-polemics.md) — 29 items
+- [Polyptoton, paregmenon, and inflectional root iteration in polemical prose](rhetoric/143-polyptoton-paregmenon-and-inflectional-root-iteration-in-polemical-prose.md) — 25 items
+- [Antiphrasis, ironical catachresis, and rhetorical dissimulation in satirical polemics](rhetoric/144-antiphrasis-ironical-catachresis-and-satirical-dissimulation.md) — 25 items
+- [Meiosis, hyperbolic minimization, sarcastic understatement, and polemical deflation](rhetoric/145-meiosis-hyperbolic-minimization-and-sarcastic-understatement.md) — 25 items
+- [Paralipsis, apophasis, praeteritio, and the forensic mechanics of clandestine assertion](rhetoric/146-paralipsis-apophasis-and-clandestine-assertion.md) — 25 items
+- [Polysyndetic accumulation, asyndetic urgency, syntactic pacing, and oratorical breath control](rhetoric/147-polysyndeton-asyndeton-and-syntactic-cadence.md) — 25 items
+- [Chiasmus, antimetabole, inverted parallel syntax, and reversible aphoristic balance](rhetoric/148-chiasmus-antimetabole-and-criss-cross-reversal.md) — 25 items
+- [Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md) — 20 items
+- [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md) — 20 items
+- [Measurement, evidence, and analytical granularity](rhetoric/17-measurement-evidence-and-analytical-granularity.md) — 20 items
+- [C2 Vocabulary — Epistemology and scientific models](rhetoric/18-epistemology-and-scientific-models.md) — 20 items
+- [Advanced rhetorical devices](rhetoric/19-advanced-rhetorical-devices.md) — 20 items
+- [C2 Vocabulary — Semantic relations and language change](rhetoric/20-semantic-relations-and-language-change.md) — 20 items
+- [C2 Vocabulary — Formal legal and administrative language](rhetoric/21-formal-legal-and-administrative-language.md) — 20 items
+- [Social cognition and interpretive bias](rhetoric/22-social-cognition-and-interpretive-bias.md) — 20 items
+- [Tone, conflict, and public persuasion](rhetoric/23-tone-conflict-and-public-persuasion.md) — 20 items
+- [C2 Vocabulary — Figurative language and conceptual framing](rhetoric/24-figurative-language-and-conceptual-framing.md) — 20 items
+- [C2 Vocabulary — Language, identity, and social meaning](rhetoric/25-language-identity-and-social-meaning.md) — 20 items
+- [Standards, workload, and practical judgment](rhetoric/26-standards-workload-and-practical-judgment.md) — 20 items
+- [C2 Vocabulary — Voice, prosody, and public speaking](rhetoric/27-voice-prosody-and-public-speaking.md) — 20 items
+- [Media ecosystems and information disorder](rhetoric/28-media-ecosystems-and-information-disorder.md) — 20 items
+- [Affect and emotional stance](rhetoric/29-affect-and-emotional-stance.md) — 20 items
+- [Humor, irony, and satirical form](rhetoric/30-humor-irony-and-satirical-form.md) — 20 items
+- [Deliberation and argument diagnostics](rhetoric/31-deliberation-and-argument-diagnostics.md) — 20 items
+- [Scholarly interpretation and textual form](rhetoric/32-scholarly-interpretation-and-textual-form.md) — 20 items
+- [Research integrity and scholarly practice](rhetoric/33-research-integrity-and-scholarly-practice.md) — 20 items
+- [Research design and statistical inference](rhetoric/34-research-design-and-statistical-inference.md) — 20 items
+- [Translation and cross-cultural mediation](rhetoric/35-translation-and-cross-cultural-mediation.md) — 20 items
+- [Technology governance and systemic risk](rhetoric/36-technology-governance-and-systemic-risk.md) — 20 items
+- [Regulatory drafting and institutional law](rhetoric/37-regulatory-drafting-and-institutional-law.md) — 20 items
+- [Urban planning and the built environment](rhetoric/38-urban-planning-and-built-environment.md) — 20 items
+- [Climate discourse and ecological transition](rhetoric/39-climate-discourse-and-ecological-transition.md) — 20 items
+- [Political economy and financial logic](rhetoric/40-political-economy-and-financial-logic.md) — 20 items
+- [Public health and epidemiological risk](rhetoric/41-public-health-and-epidemiological-risk.md) — 20 items
+- [Ecology and conservation science](rhetoric/42-ecology-and-conservation-science.md) — 20 items
+- [Pedagogy, assessment, and learning design](rhetoric/43-pedagogy-assessment-and-learning-design.md) — 20 items
+- [Media law and intellectual property](rhetoric/44-media-law-and-intellectual-property.md) — 20 items
+- [Corpus linguistics and language structure](rhetoric/45-corpus-linguistics-and-language-structure.md) — 20 items
+- [Materials science and engineering](rhetoric/46-materials-science-and-engineering.md) — 20 items
+- [Ethical reasoning and moral responsibility](rhetoric/47-ethical-reasoning-and-moral-responsibility.md) — 20 items
+- [Music, sound, and cultural analysis](rhetoric/48-music-sound-and-cultural-analysis.md) — 20 items
+- [Cryptography and privacy engineering](rhetoric/49-cryptography-and-privacy-engineering.md) — 20 items
+- [Earth systems and geology](rhetoric/50-earth-systems-and-geology.md) — 20 items
+- [Molecular chemistry and analysis](rhetoric/51-molecular-chemistry-and-analysis.md) — 20 items
+- [Astrophysics and cosmic observation](rhetoric/52-astrophysics-and-cosmic-observation.md) — 20 items
+- [Algorithms and computational theory](rhetoric/53-algorithms-and-computational-theory.md) — 20 items
+- [Probability and statistical processes](rhetoric/54-probability-and-statistical-processes.md) — 20 items
+- [Forensic science and investigation](rhetoric/55-forensic-science-and-investigation.md) — 20 items
+- [Structural and geotechnical engineering](rhetoric/56-structural-and-geotechnical-engineering.md) — 20 items
+- [Industrial process engineering](rhetoric/57-industrial-process-engineering.md) — 20 items
+- [Oceanography and marine systems](rhetoric/58-oceanography-and-marine-systems.md) — 20 items
+- [Plant physiology and ecology](rhetoric/59-plant-physiology-and-ecology.md) — 20 items
+- [Cognitive science and neuroscience](rhetoric/60-cognitive-science-and-neuroscience.md) — 20 items
+- [Evolution, genetics, and heredity](rhetoric/61-evolution-genetics-and-heredity.md) — 20 items
+- [Behavioral economics and decision theory](rhetoric/62-behavioral-economics-and-decision-theory.md) — 20 items
+- [Design theory and spatial experience](rhetoric/63-design-theory-and-spatial-experience.md) — 20 items
+- [Genomics and molecular microbiology](rhetoric/64-genomics-and-molecular-microbiology.md) — 20 items
+- [State power and political regimes](rhetoric/65-state-power-and-political-regimes.md) — 20 items
+- [Agricultural science and food sovereignty](rhetoric/66-agricultural-science-and-food-sovereignty.md) — 20 items
+- [Soil science and water management](rhetoric/67-soil-science-and-water-management.md) — 20 items
+- [Dynamic meteorology and atmospheric physics](rhetoric/68-dynamic-meteorology-and-atmospheric-physics.md) — 20 items
+- [Remote sensing and Earth observation](rhetoric/69-remote-sensing-and-earth-observation.md) — 20 items
+- [Particle physics and nuclear processes](rhetoric/70-particle-physics-and-nuclear-processes.md) — 20 items
+- [Quantum measurement and information](rhetoric/71-quantum-measurement-and-information.md) — 20 items
+- [Archaeology and heritage science](rhetoric/72-archaeology-and-heritage-science.md) — 20 items
+- [Aerospace engineering and orbital mechanics](rhetoric/73-aerospace-engineering-and-orbital-mechanics.md) — 20 items
+- [Medical imaging and diagnostic reasoning](rhetoric/74-medical-imaging-and-diagnostic-reasoning.md) — 20 items
+- [Aviation safety and flight dynamics](rhetoric/75-aviation-safety-and-flight-dynamics.md) — 20 items
+- [Language typology and contact](rhetoric/76-language-typology-and-contact.md) — 20 items
+- [Space weather and solar physics](rhetoric/77-space-weather-and-solar-physics.md) — 20 items
+- [Renewable energy and grid integration](rhetoric/78-renewable-energy-and-grid-integration.md) — 20 items
+- [Coastal engineering and shoreline dynamics](rhetoric/79-coastal-engineering-and-shoreline-dynamics.md) — 20 items
+- [Food microbiology and fermentation](rhetoric/80-food-microbiology-and-fermentation.md) — 20 items
+- [Financial derivatives and market microstructure](rhetoric/81-financial-derivatives-and-market-microstructure.md) — 20 items
+- [Tissue engineering and regenerative medicine](rhetoric/82-tissue-engineering-and-regenerative-medicine.md) — 20 items
+- [Phonetics and speech science](rhetoric/83-phonetics-and-speech-science.md) — 20 items
+- [Wildfire ecology and landscape management](rhetoric/84-wildfire-ecology-and-landscape-management.md) — 20 items
+- [Courtroom procedure and evidence](rhetoric/85-courtroom-procedure-and-evidence.md) — 20 items
+- [Immunology and vaccine science](rhetoric/86-immunology-and-vaccine-science.md) — 20 items
+- [Strategic security and conflict management](rhetoric/87-strategic-security-and-conflict-management.md) — 20 items
+- [Endocrine signaling and homeostasis](rhetoric/88-endocrine-signaling-and-homeostasis.md) — 20 items
+- [Formal logic and proof theory](rhetoric/89-formal-logic-and-proof-theory.md) — 20 items
+- [Volcanology and geohazards](rhetoric/90-volcanology-and-geohazards.md) — 20 items
+- [Battery electrochemistry and energy storage](rhetoric/91-battery-electrochemistry-and-energy-storage.md) — 20 items
+- [Ocean carbon cycle and deoxygenation](rhetoric/92-ocean-carbon-cycle-and-deoxygenation.md) — 20 items
+- [Urban stormwater engineering](rhetoric/93-urban-stormwater-engineering.md) — 20 items
+- [Data visualization and visual analytics](rhetoric/94-data-visualization-and-visual-analytics.md) — 20 items
+- [Railway engineering and signaling](rhetoric/95-railway-engineering-and-signaling.md) — 20 items
+- [Industrial robotics and control](rhetoric/96-industrial-robotics-and-control.md) — 20 items
+- [Pharmacology and drug delivery](rhetoric/97-pharmacology-and-drug-delivery.md) — 20 items
+- [Chemical process engineering and catalysis](rhetoric/98-chemical-process-engineering-and-catalysis.md) — 20 items
+- [Satellite communications and radio networks](rhetoric/99-satellite-communications-and-radio-networks.md) — 20 items
+
+### Semiconductors ()
+
+- [C2 Vocabulary — Semiconductor fabrication and lithography](semiconductors/01-semiconductor-fabrication-and-lithography.md) — 20 items
+- [C2 Vocabulary — Advanced packaging and chiplets](semiconductors/02-advanced-packaging-and-chiplets.md) — 20 items
+- [C2 Vocabulary — Transistor scaling and device physics](semiconductors/03-transistor-scaling-and-device-physics.md) — 20 items
+- [C2 Vocabulary — Semiconductor memory and nonvolatile storage](semiconductors/04-semiconductor-memory-and-nonvolatile-storage.md) — 20 items
+- [C2 Vocabulary — Wide-bandgap power semiconductors](semiconductors/05-wide-bandgap-power-semiconductors.md) — 20 items
+- [C2 Vocabulary — Analog, mixed-signal, and data conversion](semiconductors/06-analog-mixed-signal-and-data-conversion.md) — 20 items
+- [C2 Vocabulary — RF and millimeter-wave integrated circuits](semiconductors/07-rf-and-millimeter-wave-integrated-circuits.md) — 20 items
+- [C2 Vocabulary — CMOS image sensors and pixel readout](semiconductors/08-cmos-image-sensors-and-pixel-readout.md) — 20 items
+- [C2 Vocabulary — Neuromorphic and quantum devices](semiconductors/09-neuromorphic-and-quantum-devices.md) — 20 items
+- [C2 Vocabulary — Semiconductor reliability and failure analysis](semiconductors/10-semiconductor-reliability-and-failure-analysis.md) — 20 items
+- [C2 Vocabulary — Secure firmware lifecycle and rolling updates](semiconductors/100-secure-firmware-lifecycle-and-rolling-updates.md) — 20 items
+- [C2 Vocabulary — Data-converter linearity and sampling diagnostics](semiconductors/101-data-converter-linearity-and-sampling-diagnostics.md) — 20 items
+- [C2 Vocabulary — Sensor-interface calibration and fault diagnostics](semiconductors/102-sensor-interface-calibration-and-fault-diagnostics.md) — 20 items
+- [C2 Vocabulary — RF receiver linearity and noise control](semiconductors/103-rf-receiver-linearity-and-noise-control.md) — 20 items
+- [C2 Vocabulary — RF power-amplifier efficiency and linearity](semiconductors/104-rf-power-amplifier-efficiency-and-linearity.md) — 20 items
+- [C2 Vocabulary — RF filters and antenna-array calibration](semiconductors/105-rf-filters-and-antenna-array-calibration.md) — 20 items
+- [C2 Vocabulary — SerDes link training and jitter tolerance](semiconductors/106-serdes-link-training-and-jitter-tolerance.md) — 20 items
+- [C2 Vocabulary — Coherent optical links and fiber impairments](semiconductors/107-coherent-optical-links-and-fiber-impairments.md) — 20 items
+- [C2 Vocabulary — Photonic components and resonator control](semiconductors/108-photonic-components-and-resonator-control.md) — 20 items
+- [C2 Vocabulary — Photon detection and quantum timing diagnostics](semiconductors/109-photon-detection-and-quantum-timing-diagnostics.md) — 20 items
+- [C2 Vocabulary — Semiconductor reliability and thermal qualification](semiconductors/11-semiconductor-reliability-and-thermal-qualification.md) — 20 items
+- [C2 Vocabulary — Precision-clock interrogation and stability diagnostics](semiconductors/110-precision-clock-interrogation-and-stability-diagnostics.md) — 20 items
+- [C2 Vocabulary — Time transfer and clock-comparison uncertainty](semiconductors/111-time-transfer-and-clock-comparison-uncertainty.md) — 20 items
+- [C2 Vocabulary — Frequency dissemination and network timing errors](semiconductors/112-frequency-dissemination-and-network-timing-errors.md) — 20 items
+- [C2 Vocabulary — Clock crossing and power-domain integrity](semiconductors/113-clock-crossing-and-power-domain-integrity.md) — 20 items
+- [C2 Vocabulary — Formal hardware verification and coverage evidence](semiconductors/114-formal-hardware-verification-and-coverage-evidence.md) — 20 items
+- [C2 Vocabulary — Hardware security and tamper resistance](semiconductors/115-hardware-security-and-tamper-resistance.md) — 20 items
+- [C2 Vocabulary — Scan test and design-for-test diagnostics](semiconductors/116-scan-test-and-design-for-test-diagnostics.md) — 20 items
+- [C2 Vocabulary — Virtual metrology and process-health control](semiconductors/117-virtual-metrology-and-process-health-control.md) — 20 items
+- [C2 Vocabulary — Process analytics and adaptive model monitoring](semiconductors/118-process-analytics-and-adaptive-model-monitoring.md) — 20 items
+- [C2 Vocabulary — Edge-AI accelerator mapping and quantization](semiconductors/119-edge-ai-accelerator-mapping-and-quantization.md) — 20 items
+- [C2 Vocabulary — Semiconductor process control and metrology](semiconductors/12-semiconductor-process-control-and-metrology.md) — 20 items
+- [C2 Vocabulary — Robotics sensing and motion-planning hardware](semiconductors/120-robotics-sensing-and-motion-planning-hardware.md) — 20 items
+- [C2 Vocabulary — Robotic contact control and constrained planning](semiconductors/121-robotic-contact-control-and-constrained-planning.md) — 20 items
+- [C2 Vocabulary — Robotic trajectory optimization and dynamic feasibility](semiconductors/122-robotic-trajectory-optimization-and-dynamic-feasibility.md) — 20 items
+- [C2 Vocabulary — Robotic system identification and uncertainty-aware control](semiconductors/123-robotic-system-identification-and-uncertainty-aware-control.md) — 20 items
+- [C2 Vocabulary — Robotic reachability and runtime safety](semiconductors/124-robotic-reachability-and-runtime-safety.md) — 20 items
+- [C2 Vocabulary — Robotic fault tolerance and health-aware planning](semiconductors/125-robotic-fault-tolerance-and-health-aware-planning.md) — 20 items
+- [C2 Vocabulary — Robotic task planning and multi-robot coordination](semiconductors/126-robotic-task-planning-and-multi-robot-coordination.md) — 20 items
+- [C2 Vocabulary — Human–robot collaboration and shared autonomy](semiconductors/127-human-robot-collaboration-and-shared-autonomy.md) — 20 items
+- [C2 Vocabulary — Robotic skill learning and policy transfer](semiconductors/128-robotic-skill-learning-and-policy-transfer.md) — 20 items
+- [C2 Vocabulary — Robotic active perception and scene understanding](semiconductors/129-robotic-active-perception-and-scene-understanding.md) — 20 items
+- [C2 Vocabulary — Silicon photonics and optical interconnects](semiconductors/13-silicon-photonics-and-optical-interconnects.md) — 20 items
+- [C2 Vocabulary — Robot language grounding and instruction following](semiconductors/130-robot-language-grounding-and-instruction-following.md) — 20 items
+- [C2 Vocabulary — Robot real-time hardware and control architecture](semiconductors/131-robot-real-time-hardware-and-control-architecture.md) — 20 items
+- [C2 Vocabulary — Robot energy and thermal-aware planning](semiconductors/132-robot-energy-and-thermal-aware-planning.md) — 20 items
+- [C2 Vocabulary — Robot cybersecurity and secure operations](semiconductors/133-robot-cybersecurity-and-secure-operations.md) — 20 items
+- [C2 Vocabulary — Robot safety cases and operational governance](semiconductors/134-robot-safety-cases-and-operational-governance.md) — 20 items
+- [C2 Vocabulary — Robot fleet operations and observability](semiconductors/135-robot-fleet-operations-and-observability.md) — 20 items
+- [C2 Vocabulary — Robot digital twins and simulation validation](semiconductors/136-robot-digital-twins-and-simulation-validation.md) — 20 items
+- [C2 Vocabulary — Robot testing and verification practice](semiconductors/137-robot-testing-and-verification-practice.md) — 20 items
+- [C2 Vocabulary — Warehouse robotics and order fulfillment](semiconductors/138-warehouse-robotics-and-order-fulfillment.md) — 20 items
+- [C2 Vocabulary — Medical robotics and clinical workflow integration](semiconductors/139-medical-robotics-and-clinical-workflow-integration.md) — 20 items
+- [C2 Vocabulary — Semiconductor sustainability and circular manufacturing](semiconductors/14-semiconductor-sustainability-and-circular-manufacturing.md) — 20 items
+- [C2 Vocabulary — Agricultural robotics and precision field operations](semiconductors/140-agricultural-robotics-and-precision-field-operations.md) — 20 items
+- [C2 Vocabulary — Underwater robotics and marine navigation](semiconductors/141-underwater-robotics-and-marine-navigation.md) — 20 items
+- [C2 Vocabulary — Aerial robotics and drone autonomy](semiconductors/142-aerial-robotics-and-drone-autonomy.md) — 20 items
+- [C2 Vocabulary — Space robotics and orbital servicing](semiconductors/143-space-robotics-and-orbital-servicing.md) — 20 items
+- [C2 Vocabulary — Construction robotics and worksite automation](semiconductors/144-construction-robotics-and-worksite-automation.md) — 20 items
+- [C2 Vocabulary — Disaster-response robotics and rescue navigation](semiconductors/145-disaster-response-robotics-and-rescue-navigation.md) — 20 items
+- [C2 Vocabulary — Energy-infrastructure robotics and asset inspection](semiconductors/146-energy-infrastructure-robotics-and-asset-inspection.md) — 20 items
+- [C2 Vocabulary — Environmental-monitoring robotics and climate sensing](semiconductors/147-environmental-monitoring-robotics-and-climate-sensing.md) — 20 items
+- [C2 Vocabulary — Mining robotics and geological survey](semiconductors/148-mining-robotics-and-geological-survey.md) — 20 items
+- [C2 Vocabulary — Waste, recycling robotics, and material recovery](semiconductors/149-waste-recycling-robotics-and-material-recovery.md) — 20 items
+- [C2 Vocabulary — Design for test and silicon validation](semiconductors/15-design-for-test-and-silicon-validation.md) — 20 items
+- [C2 Vocabulary — Food-processing robotics and packaging quality](semiconductors/150-food-processing-robotics-and-packaging-quality.md) — 20 items
+- [C2 Vocabulary — Transit robotics and rail operations](semiconductors/151-transit-robotics-and-rail-operations.md) — 20 items
+- [C2 Vocabulary — Healthcare logistics and laboratory robotics](semiconductors/152-healthcare-logistics-and-laboratory-robotics.md) — 20 items
+- [C2 Vocabulary — Educational and social robotics](semiconductors/153-educational-and-social-robotics.md) — 20 items
+- [C2 Vocabulary — Port automation and maritime logistics robotics](semiconductors/154-port-automation-and-maritime-logistics-robotics.md) — 20 items
+- [C2 Vocabulary — Heritage conservation and museum robotics](semiconductors/155-heritage-conservation-and-museum-robotics.md) — 20 items
+- [C2 Vocabulary — Sports robotics and athletic performance analysis](semiconductors/156-sports-robotics-and-athletic-performance-analysis.md) — 20 items
+- [C2 Vocabulary — Live event production and stage automation robotics](semiconductors/157-live-event-production-and-stage-automation-robotics.md) — 20 items
+- [C2 Vocabulary — Retail store robotics and customer fulfillment](semiconductors/158-retail-store-robotics-and-customer-fulfillment.md) — 20 items
+- [C2 Vocabulary — Airport operations and ground-support robotics](semiconductors/159-airport-operations-and-ground-support-robotics.md) — 20 items
+- [C2 Vocabulary — Compact modeling and physical-design signoff](semiconductors/16-compact-modeling-and-physical-design-signoff.md) — 20 items
+- [C2 Vocabulary — Film and broadcast production robotics](semiconductors/160-film-and-broadcast-production-robotics.md) — 20 items
+- [C2 Vocabulary — Smart-building inspection and facility robotics](semiconductors/161-smart-building-inspection-and-facility-robotics.md) — 20 items
+- [C2 Vocabulary — Hospitality and hotel operations robotics](semiconductors/162-hospitality-and-hotel-operations-robotics.md) — 20 items
+- [C2 Vocabulary — Pharmaceutical manufacturing and sterile-processing robotics](semiconductors/163-pharmaceutical-manufacturing-and-sterile-processing-robotics.md) — 20 items
+- [C2 Vocabulary — Water treatment and utility-infrastructure robotics](semiconductors/164-water-treatment-and-utility-infrastructure-robotics.md) — 20 items
+- [C2 Vocabulary — Banking-branch and cash-operations robotics](semiconductors/165-banking-branch-and-cash-operations-robotics.md) — 20 items
+- [C2 Vocabulary — Battery manufacturing and energy-storage robotics](semiconductors/166-battery-manufacturing-and-energy-storage-robotics.md) — 20 items
+- [C2 Vocabulary — Data-center infrastructure and operations robotics](semiconductors/167-data-center-infrastructure-and-operations-robotics.md) — 20 items
+- [C2 Vocabulary — Chemical-plant process safety robotics](semiconductors/168-chemical-plant-process-safety-robotics.md) — 20 items
+- [C2 Vocabulary — Wildfire and forest-response robotics](semiconductors/169-wildfire-and-forest-response-robotics.md) — 20 items
+- [C2 Vocabulary — Hardware verification and emulation](semiconductors/17-hardware-verification-and-emulation.md) — 20 items
+- [C2 Vocabulary — Livestock, aquaculture, and animal-care robotics](semiconductors/170-livestock-aquaculture-and-animal-care-robotics.md) — 20 items
+- [C2 Vocabulary — Precision crop and agricultural robotics](semiconductors/171-precision-crop-and-agricultural-robotics.md) — 20 items
+- [C2 Vocabulary — Road and highway maintenance robotics](semiconductors/172-road-and-highway-maintenance-robotics.md) — 20 items
+- [C2 Vocabulary — Railway and metro infrastructure robotics](semiconductors/173-railway-and-metro-infrastructure-robotics.md) — 20 items
+- [C2 Vocabulary — Offshore renewable and marine-infrastructure robotics](semiconductors/174-offshore-renewable-and-marine-infrastructure-robotics.md) — 20 items
+- [C2 Vocabulary — Nuclear-facility and radiation-safe robotics](semiconductors/175-nuclear-facility-and-radiation-safe-robotics.md) — 20 items
+- [C2 Vocabulary — Launch and spaceport operations robotics](semiconductors/176-launch-and-spaceport-operations-robotics.md) — 20 items
+- [C2 Vocabulary — Medical-device manufacturing and reprocessing robotics](semiconductors/177-medical-device-manufacturing-and-reprocessing-robotics.md) — 20 items
+- [C2 Vocabulary — Additive and composite manufacturing robotics](semiconductors/178-additive-and-composite-manufacturing-robotics.md) — 20 items
+- [C2 Vocabulary — Telecom field and network-infrastructure robotics](semiconductors/179-telecom-field-and-network-infrastructure-robotics.md) — 20 items
+- [C2 Vocabulary — Low-power design intent and power domains](semiconductors/18-low-power-design-intent-and-power-domains.md) — 20 items
+- [C2 Vocabulary — Smart-grid inspection and restoration robotics](semiconductors/180-smart-grid-inspection-and-restoration-robotics.md) — 20 items
+- [C2 Vocabulary — Cold-chain logistics and perishable-goods robotics](semiconductors/181-cold-chain-logistics-and-perishable-goods-robotics.md) — 20 items
+- [C2 Vocabulary — Postal mail automation and parcel robotics](semiconductors/182-postal-mail-automation-and-parcel-robotics.md) — 20 items
+- [C2 Vocabulary — Library, archive digitization, and preservation robotics](semiconductors/183-library-archive-digitization-and-preservation-robotics.md) — 20 items
+- [C2 Vocabulary — Weather and climate observation robotics](semiconductors/184-weather-and-climate-observation-robotics.md) — 20 items
+- [C2 Vocabulary — Laboratory automation and scientific-sample robotics](semiconductors/185-laboratory-automation-and-scientific-sample-robotics.md) — 20 items
+- [C2 Vocabulary — Construction and structural-inspection robotics](semiconductors/186-construction-and-structural-inspection-robotics.md) — 20 items
+- [C2 Vocabulary — Mining and mineral-processing robotics](semiconductors/187-mining-and-mineral-processing-robotics.md) — 20 items
+- [C2 Vocabulary — Commercial kitchen and restaurant-service robotics](semiconductors/188-commercial-kitchen-and-restaurant-service-robotics.md) — 20 items
+- [C2 Vocabulary — Court, legal records, and secure-facility robotics](semiconductors/189-court-legal-records-and-secure-facility-robotics.md) — 20 items
+- [C2 Vocabulary — Chiplet interconnect and die-to-die links](semiconductors/19-chiplet-interconnect-and-die-to-die-links.md) — 20 items
+- [C2 Vocabulary — Insurance claims and property-risk robotics](semiconductors/190-insurance-claims-and-property-risk-robotics.md) — 20 items
+- [C2 Vocabulary — Cybersecurity operations and secure-facility robotics](semiconductors/191-cybersecurity-operations-and-secure-facility-robotics.md) — 20 items
+- [C2 Vocabulary — Office-facility and workplace-service robotics](semiconductors/192-office-facility-and-workplace-service-robotics.md) — 20 items
+- [C2 Vocabulary — Electronics repair and refurbishment robotics](semiconductors/193-electronics-repair-and-refurbishment-robotics.md) — 20 items
+- [C2 Vocabulary — Music-instrument and studio-service robotics](semiconductors/194-music-instrument-and-studio-service-robotics.md) — 20 items
+- [C2 Vocabulary — Home-appliance and domestic-service robotics](semiconductors/195-home-appliance-and-domestic-service-robotics.md) — 20 items
+- [C2 Vocabulary — Aquarium and aquatic-conservation robotics](semiconductors/196-aquarium-and-aquatic-conservation-robotics.md) — 13 items
+- [High-mobility 2D transition metal dichalcogenides and van der Waals interfaces](semiconductors/197-high-mobility-two-dimensional-semiconductors-and-dielectric-interfaces.md) — 25 items
+- [Backside power delivery networks, buried power rails, and nano-through-silicon vias](semiconductors/198-back-end-power-delivery-networks-and-buried-power-rails.md) — 25 items
+- [High-k metal gate reliability, negative bias temperature instability, and hot carrier degradation](semiconductors/199-high-k-metal-gate-reliability-bias-temperature-instability-and-hot-carrier-degradation.md) — 25 items
+- [C2 Vocabulary — Design-for-test and silicon validation](semiconductors/20-design-for-test-and-silicon-validation.md) — 20 items
+- [Cryogenic CMOS electronics, sub-Kelvin thermal dissipation, and quantum qubit readout interfaces](semiconductors/200-cryogenic-cmos-quantum-readout-electronics-and-sub-kelvin-dissipation.md) — 25 items
+- [Ferroelectric field-effect transistors, polarization switching dynamics, and stabilized negative capacitance](semiconductors/201-ferroelectric-field-effect-transistors-polarization-switching-and-negative-capacitance.md) — 25 items
+- [Monolayer transition metal dichalcogenides, valley pseudospin polarization, and valleytronic computing](semiconductors/202-two-dimensional-transition-metal-dichalcogenides-and-valleytronics.md) — 25 items
+- [Spin-orbit torque MRAM, Dzyaloshinskii-Moriya interfacial interaction, and chiral domain wall motion](semiconductors/203-spin-orbit-torque-magnetic-random-access-memory-and-chiral-domain-walls.md) — 25 items
+- [Gate-all-around (GAA) nanosheet FETs, inner spacer cavity engineering, and sub-3nm electrostatic channel control](semiconductors/204-gate-all-around-nanosheet-field-effect-transistors-and-sub-3nm-scaling.md) — 25 items
+- [Backside power delivery networks (BSPDN), buried power rail metallurgy, and nano-through-silicon-via integration](semiconductors/205-backside-power-delivery-networks-buried-power-rails-and-through-silicon-vias.md) — 25 items
+- [Atomic layer etching (ALE), self-limiting surface modification reactions, and sub-nanometer directional removal](semiconductors/206-atomic-layer-etching-self-limiting-surface-reactions-and-monolayer-precision.md) — 27 items
+- [High-mobility 2D semiconductors, contact resistance reduction, and Fermi-level depinning](semiconductors/207-high-mobility-two-dimensional-semiconductors-contact-resistance-and-fermi-level-depinning.md) — 25 items
+- [Monolithic 3D integrated circuits (M3D), inter-tier via density, and thermal dissipation coupling](semiconductors/208-monolithic-3d-integrated-circuits-inter-tier-vias-and-thermal-dissipation.md) — 25 items
+- [Cryogenic CMOS quantum processor interfaces, sub-Kelvin thermal budgeting, and spin qubit readout](semiconductors/209-cryogenic-cmos-quantum-readout-and-sub-kelvin-thermal-budgeting.md) — 25 items
+- [C2 Vocabulary — Power integrity and high-speed signal analysis](semiconductors/21-power-integrity-and-high-speed-signal-analysis.md) — 20 items
+- [Piezoelectric MEMS, scandium-doped aluminum nitride (ScAlN), and 5G bulk acoustic wave filters](semiconductors/210-piezoelectric-mems-scandium-doped-aln-and-5g-bulk-acoustic-filters.md) — 25 items
+- [Beta-gallium oxide (β-Ga2O3) semiconductors, ultra-wide bandgap physics, and kilovolt-class power switches](semiconductors/211-gallium-oxide-ultra-wide-bandgap-and-kilovolt-power-switches.md) — 25 items
+- [Spin-transfer torque MRAM (STT-MRAM), magnetic tunnel junctions (MTJ), and perpendicular magnetic anisotropy](semiconductors/212-spin-transfer-torque-mram-magnetic-tunnel-junctions-and-perpendicular-anisotropy.md) — 25 items
+- [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md) — 20 items
+- [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md) — 20 items
+- [C2 Vocabulary — Gate-oxide reliability and bias-temperature instability](semiconductors/24-gate-oxide-reliability-and-bias-temperature-instability.md) — 20 items
+- [C2 Vocabulary — Backend interconnect and via reliability](semiconductors/25-backend-interconnect-and-via-reliability.md) — 20 items
+- [C2 Vocabulary — 3D integration and TSV reliability](semiconductors/26-3d-integration-and-tsv-reliability.md) — 20 items
+- [C2 Vocabulary — Stacked-memory controller reliability](semiconductors/27-stacked-memory-controller-reliability.md) — 20 items
+- [C2 Vocabulary — Photonic interposers and co-packaged optics](semiconductors/28-photonic-interposers-and-co-packaged-optics.md) — 20 items
+- [C2 Vocabulary — Neuromorphic in-memory computing reliability](semiconductors/29-neuromorphic-in-memory-computing-reliability.md) — 20 items
+- [C2 Vocabulary — Emerging memory switching and qualification](semiconductors/30-emerging-memory-switching-and-qualification.md) — 20 items
+- [C2 Vocabulary — Power-device ruggedness and switching failures](semiconductors/31-power-device-ruggedness-and-switching-failures.md) — 20 items
+- [C2 Vocabulary — Advanced packaging and heterogeneous integration](semiconductors/32-advanced-packaging-and-heterogeneous-integration.md) — 20 items
+- [C2 Vocabulary — Lithography, etch, deposition, and dopant control](semiconductors/33-lithography-etch-and-dopant-process-control.md) — 20 items
+- [C2 Vocabulary — Process control and wafer metrology](semiconductors/34-process-control-and-wafer-metrology.md) — 20 items
+- [C2 Vocabulary — Device aging, variability, and radiation reliability](semiconductors/35-device-aging-variability-and-radiation-reliability.md) — 20 items
+- [C2 Vocabulary — Radiation hardening and space qualification](semiconductors/36-radiation-hardening-and-space-qualification.md) — 20 items
+- [C2 Vocabulary — Semiconductor failure analysis and microscopy](semiconductors/37-semiconductor-failure-analysis-and-microscopy.md) — 20 items
+- [C2 Vocabulary — Semiconductor yield and test control](semiconductors/38-semiconductor-yield-and-test-control.md) — 20 items
+- [C2 Vocabulary — Semiconductor test flow and package screening](semiconductors/39-semiconductor-test-flow-and-package-screening.md) — 20 items
+- [C2 Vocabulary — Memory programming, retention, and read margin](semiconductors/40-memory-programming-and-read-margin.md) — 20 items
+- [C2 Vocabulary — Memory controllers, ECC, and data reliability](semiconductors/41-memory-controller-ecc-and-data-reliability.md) — 20 items
+- [C2 Vocabulary — Semiconductor probing and package mechanics](semiconductors/42-semiconductor-probing-and-package-mechanics.md) — 20 items
+- [C2 Vocabulary — Package assembly and board reliability](semiconductors/43-package-assembly-and-board-reliability.md) — 20 items
+- [C2 Vocabulary — Power, thermal, and isolation design](semiconductors/44-power-thermal-and-isolation-design.md) — 20 items
+- [C2 Vocabulary — Power switching and gate-drive design](semiconductors/45-power-switching-and-gate-drive.md) — 20 items
+- [C2 Vocabulary — Power-converter topologies and control](semiconductors/46-power-converter-topologies-and-control.md) — 20 items
+- [C2 Vocabulary — Motor control and inverter modulation](semiconductors/47-motor-control-and-inverter-modulation.md) — 20 items
+- [C2 Vocabulary — Renewable inverters and energy storage](semiconductors/48-renewable-inverters-and-energy-storage.md) — 20 items
+- [C2 Vocabulary — Grid power quality and harmonic control](semiconductors/49-grid-power-quality-and-harmonic-control.md) — 20 items
+- [C2 Vocabulary — Grid protection and switchgear reliability](semiconductors/50-grid-protection-and-switchgear-reliability.md) — 20 items
+- [C2 Vocabulary — Grid stability and wide-area control](semiconductors/51-grid-stability-and-wide-area-control.md) — 20 items
+- [C2 Vocabulary — Power-system dynamics and transmission limits](semiconductors/52-power-system-dynamics-and-transmission-limits.md) — 20 items
+- [C2 Vocabulary — Photonic integration and optical-link engineering](semiconductors/53-photonic-integration-and-optical-link-engineering.md) — 20 items
+- [C2 Vocabulary — Photonic link noise and wavelength control](semiconductors/54-photonic-link-noise-and-wavelength-control.md) — 20 items
+- [C2 Vocabulary — Quantum and nonlinear photonics](semiconductors/55-quantum-and-nonlinear-photonics.md) — 20 items
+- [C2 Vocabulary — Advanced quantum and nonlinear waveguides](semiconductors/56-advanced-quantum-and-nonlinear-waveguides.md) — 20 items
+- [C2 Vocabulary — Nonlinear materials and optical combs](semiconductors/57-nonlinear-materials-and-optical-combs.md) — 20 items
+- [C2 Vocabulary — Optical combs and ultrafast metrology](semiconductors/58-optical-combs-and-ultrafast-metrology.md) — 20 items
+- [C2 Vocabulary — Frequency-comb stabilization and pulse diagnostics](semiconductors/59-frequency-comb-stabilization-and-pulse-diagnostics.md) — 20 items
+- [C2 Vocabulary — Frequency-reference metrology and servo control](semiconductors/60-frequency-reference-and-pulse-quality.md) — 20 items
+- [C2 Vocabulary — Ultrastable lasers and control loops](semiconductors/61-ultrastable-lasers-and-control-loops.md) — 20 items
+- [C2 Vocabulary — Environmental stability and optical noise](semiconductors/62-environmental-stability-and-optical-noise.md) — 20 items
+- [C2 Vocabulary — Atomic-clock shifts and interrogation](semiconductors/63-atomic-clock-shifts-and-interrogation.md) — 20 items
+- [C2 Vocabulary — Atomic-clock noise and state control](semiconductors/64-atomic-clock-noise-and-state-control.md) — 20 items
+- [C2 Vocabulary — Clock comparison and relativistic geodesy](semiconductors/65-clock-comparison-and-relativistic-geodesy.md) — 20 items
+- [C2 Vocabulary — Time-transfer links and clock networks](semiconductors/66-time-transfer-links-and-clock-networks.md) — 20 items
+- [C2 Vocabulary — Time scales and clock steering](semiconductors/67-time-scales-and-clock-steering.md) — 20 items
+- [C2 Vocabulary — Precision spectroscopy and linewidths](semiconductors/68-precision-spectroscopy-and-linewidths.md) — 20 items
+- [C2 Vocabulary — Atomic transitions and state lifetimes](semiconductors/69-atomic-transitions-and-state-lifetimes.md) — 20 items
+- [C2 Vocabulary — Laser cooling and atomic traps](semiconductors/70-laser-cooling-and-atomic-traps.md) — 20 items
+- [C2 Vocabulary — Optical traps and tweezer arrays](semiconductors/71-optical-traps-and-tweezer-arrays.md) — 20 items
+- [C2 Vocabulary — Rydberg interactions and neutral-atom control](semiconductors/72-rydberg-interactions-and-neutral-atom-control.md) — 20 items
+- [C2 Vocabulary — Neutral-atom gate fidelity and transport](semiconductors/73-neutral-atom-gate-fidelity-and-transport.md) — 20 items
+- [C2 Vocabulary — Quantum simulation and many-body dynamics](semiconductors/74-quantum-simulation-and-many-body-dynamics.md) — 20 items
+- [C2 Vocabulary — Criticality and nonequilibrium quantum dynamics](semiconductors/75-criticality-and-nonequilibrium-quantum-dynamics.md) — 20 items
+- [C2 Vocabulary — Topological band theory and protected states](semiconductors/76-topological-band-theory-and-protected-states.md) — 20 items
+- [C2 Vocabulary — Anyon physics and topological error correction](semiconductors/77-anyon-physics-and-topological-error-correction.md) — 20 items
+- [C2 Vocabulary — Quantum error codes and decoders](semiconductors/78-quantum-error-codes-and-decoders.md) — 20 items
+- [C2 Vocabulary — Fault-tolerant syndrome processing](semiconductors/79-fault-tolerant-syndrome-processing.md) — 20 items
+- [C2 Vocabulary — Correlated noise and error mitigation](semiconductors/80-correlated-noise-and-error-mitigation.md) — 20 items
+- [C2 Vocabulary — Quantum-device characterization](semiconductors/81-quantum-device-characterization.md) — 20 items
+- [C2 Vocabulary — Process representations and calibration metrics](semiconductors/82-process-representations-and-calibration-metrics.md) — 20 items
+- [C2 Vocabulary — System identification and active calibration](semiconductors/83-system-identification-and-active-calibration.md) — 20 items
+- [C2 Vocabulary — Probabilistic model selection and measurement diagnostics](semiconductors/84-probabilistic-model-selection-and-measurement-diagnostics.md) — 20 items
+- [C2 Vocabulary — Metrology readout and cross-instrument validation](semiconductors/85-metrology-readout-and-cross-instrument-validation.md) — 20 items
+- [C2 Vocabulary — Failure analysis and reliability screening](semiconductors/86-failure-analysis-and-reliability-screening.md) — 20 items
+- [C2 Vocabulary — Reliability statistics and life modeling](semiconductors/87-reliability-statistics-and-life-modeling.md) — 20 items
+- [C2 Vocabulary — Qualification and field reliability models](semiconductors/88-qualification-and-field-reliability-models.md) — 20 items
+- [C2 Vocabulary — Electrothermal behavior and cooling paths](semiconductors/89-electrothermal-behavior-and-cooling-paths.md) — 20 items
+- [C2 Vocabulary — Power integrity and transient control](semiconductors/90-power-integrity-and-transient-control.md) — 20 items
+- [C2 Vocabulary — High-speed link integrity and EMC](semiconductors/91-high-speed-link-integrity-and-emc.md) — 20 items
+- [C2 Vocabulary — Process window and defectivity control](semiconductors/92-process-window-and-defectivity-control.md) — 20 items
+- [C2 Vocabulary — Yield engineering and process control](semiconductors/93-yield-engineering-and-process-control.md) — 20 items
+- [C2 Vocabulary — Advanced packaging and chiplet integration](semiconductors/94-advanced-packaging-and-chiplet-integration.md) — 20 items
+- [C2 Vocabulary — Package qualification and interconnect fatigue](semiconductors/95-package-qualification-and-interconnect-fatigue.md) — 20 items
+- [C2 Vocabulary — Memory retention and ECC diagnostics](semiconductors/96-memory-retention-and-ecc-diagnostics.md) — 20 items
+- [C2 Vocabulary — Memory-controller scheduling and data integrity](semiconductors/97-memory-controller-scheduling-and-data-integrity.md) — 20 items
+- [C2 Vocabulary — Memory coherence and persistent storage](semiconductors/98-memory-coherence-and-persistent-storage.md) — 20 items
+- [C2 Vocabulary — NVMe I/O control and recovery observability](semiconductors/99-nvme-io-control-and-recovery-observability.md) — 20 items
