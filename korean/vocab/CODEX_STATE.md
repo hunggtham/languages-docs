@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,910 new targets across 394 independent topic batches; 10,910 structured headings toward the 15,000 target, leaving 4,090 after this checkpoint.
+- Progress in this checkpoint: 6,060 new targets across 404 independent topic batches; 11,060 structured headings toward the 15,000 target, leaving 3,940 after this checkpoint.
+
+- Topic: `neuroscience-brain-computer-interface-and-neural-implants`
+- File: `01-brain-computer-interface-and-neural-implants.md`
+- Coverage: 15 new advanced-native brain-computer interface, neural prosthetics, and neuromorphic engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-precision-farming-and-smart-greenhouse`
+- File: `01-precision-farming-and-smart-greenhouse.md`
+- Coverage: 15 new advanced-native precision agriculture, smart greenhouse biotechnology, and agri-tech headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-existentialism-and-phenomenology`
+- File: `01-existentialism-and-phenomenology.md`
+- Coverage: 15 new advanced-native existentialism, phenomenological reduction, and embodied ontology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `oceanography-deep-sea-exploration-and-hydrothermal-vents`
+- File: `01-deep-sea-exploration-and-hydrothermal-vents.md`
+- Coverage: 15 new advanced-native deep-sea exploration, hydrothermal vents, and oceanographic geosciences headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `urban-transit-oriented-development-and-smart-mobility`
+- File: `01-transit-oriented-development-and-smart-mobility.md`
+- Coverage: 15 new advanced-native transit-oriented development (TOD), smart mobility MaaS, and UAM vertiport headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sports-sports-biomechanics-and-exercise-physiology`
+- File: `01-sports-biomechanics-and-exercise-physiology.md`
+- Coverage: 15 new advanced-native sports biomechanics, exercise physiology, and sports science analytics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-battery-recycling-and-urban-mining`
+- File: `01-battery-recycling-and-urban-mining.md`
+- Coverage: 15 new advanced-native EV battery recycling, urban mining, and circular hydrometallurgy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-corpus-linguistics-and-lexicography`
+- File: `01-corpus-linguistics-and-lexicography.md`
+- Coverage: 15 new advanced-native corpus linguistics, computational lexicography, and LLM language resources headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `theology-religious-sociology-and-secularization`
+- File: `01-religious-sociology-and-secularization.md`
+- Coverage: 15 new advanced-native sociology of religion, secularization discourse, and civil religion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-admiralty-law-and-maritime-insurance`
+- File: `01-admiralty-law-and-maritime-insurance.md`
+- Coverage: 15 new advanced-native admiralty law, maritime insurance, and international shipping carriage headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `medicine-organ-transplantation-and-immunosuppression`
 - File: `01-organ-transplantation-and-immunosuppression.md`

@@ -450,6 +450,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [사이버보안 및 제로트러스트 아키텍처의 공학적 언어](./technology-cyber-security-and-zero-trust-architecture/README.md) — `제로트러스트 ZTNA 및 양자내성암호 격자보안 기반 SBOM 공급망 추적과 EDR 이상행위 탐지대응`
 - [박물관학 및 전시 큐레이션 디자인의 예술적 언어](./arts-museum-curation-and-exhibition-design/README.md) — `상설전시 스토리텔링 및 프로비넌스 출처조사 기반 몰입형 미디어아트와 유네스코 문화재 환수`
 - [행동재무학 및 시장 이상현상의 금융경제학적 언어](./economics-behavioral-finance-and-market-anomalies/README.md) — `전망이론 가치함수 및 군집행동 비이성적 과열 기반 처분효과 심리적 회계와 호가창 유동성 착시`
+- [뇌-컴퓨터 인터페이스 및 신경보철학의 뇌과학적 언어](./neuroscience-brain-computer-interface-and-neural-implants/README.md) — `침습형 BCI 전극 및 머신러닝 디코딩 기반 광유전학 신경회로 제어와 인공망막 신경보철 시각복원`
+- [정밀농업 및 스마트 온실 생명공학의 언어](./agriculture-precision-farming-and-smart-greenhouse/README.md) — `스마트온실 복합환경제어 및 다중분광 드론 원격탐사 기반 순환식 수경재배와 로봇 자동수확 선별`
+- [실존주의 및 현상학 철학의 언어](./philosophy-existentialism-and-phenomenology/README.md) — `실존적 불안과 피투성 극복 기반 현상학적 환원 에포케와 본래적 실존 자기결정 결단 및 신체현상학`
+- [심해 탐사 및 열수분출공 해양과학의 언어](./oceanography-deep-sea-exploration-and-hydrothermal-vents/README.md) — `심해 열수분출공 화학합성 생태계 및 ROV 무인잠수정 탐사 기반 망간단괴 채광과 해저 지형 매핑`
+- [대중교통 지향 도시개발 및 스마트 모빌리티의 언어](./urban-transit-oriented-development-and-smart-mobility/README.md) — `대중교통지향형 TOD 복합환승 및 MaaS 통합 플랫폼 기반 UAM 버티포트와 자율주행 대중교통 셔틀`
+- [운동역학 및 운동생리학 스포츠과학의 언어](./sports-sports-biomechanics-and-exercise-physiology/README.md) — `지면반발력 동작분석 및 VO2 max 젖산역치 측정 기반 표면근전도 평가와 전방십자인대 재활 프로토콜`
+- [배터리 재활용 및 도시광산 순환경제의 언어](./materials-battery-recycling-and-urban-mining/README.md) — `사용후 배터리 잔존가치 진단 및 습식제련 금속회수 기반 블랙매스 정제와 배터리여권 탄소발자국 추적`
+- [말뭉치 언어학 및 코퍼스 사전학의 언어](./linguistics-corpus-linguistics-and-lexicography/README.md) — `대규모 말뭉치 형태통계 분석 및 코퍼스 연어 네트워크 기반 의존구문 파싱과 사전편찬 용례 정의`
+- [종교사회학 및 세속화 담론의 종교학적 언어](./theology-religious-sociology-and-secularization/README.md) — `세속화 명제 및 종교다원주의 공존담론 기반 시민종교 사회통합 의례와 탈제도화 개인맞춤형 영성`
+- [해사법 및 해상보험 법학의 언어](./law-admiralty-law-and-maritime-insurance/README.md) — `해상운송인 항해과실 면책특약 및 요크앤트워프 공동해손 분손정산 기반 선박우선특권과 IMO 안전환경규범`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
