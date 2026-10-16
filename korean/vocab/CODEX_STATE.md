@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,310 new targets across 354 independent topic batches; 10,310 structured headings toward the 15,000 target, leaving 4,690 after this checkpoint.
+- Progress in this checkpoint: 5,460 new targets across 364 independent topic batches; 10,460 structured headings toward the 15,000 target, leaving 4,540 after this checkpoint.
+
+- Topic: `astronomy-space-exploration-and-satellite-technology`
+- File: `01-space-exploration-and-satellite-technology.md`
+- Coverage: 15 new advanced-native astronomy, space exploration, and satellite aerospace headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-oceanography-and-deep-sea-exploration`
+- File: `01-oceanography-and-deep-sea-exploration.md`
+- Coverage: 15 new advanced-native marine science, oceanography, and deep-sea exploration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-social-stratification-and-inequality`
+- File: `01-social-stratification-and-inequality.md`
+- Coverage: 15 new advanced-native sociology, social stratification, and inequality headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `journalism-investigative-reporting-and-media-bias`
+- File: `01-investigative-reporting-and-media-bias.md`
+- Coverage: 15 new advanced-native investigative journalism, media ethics, and framing bias headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `literature-literary-theory-and-narratology`
+- File: `01-literary-theory-and-narratology.md`
+- Coverage: 15 new advanced-native literary theory, narratology, and structural criticism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cognitive-neuroscience-and-brain-plasticity`
+- File: `01-cognitive-neuroscience-and-brain-plasticity.md`
+- Coverage: 15 new advanced-native cognitive neuroscience and brain plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `energy-smart-grid-and-renewable-integration`
+- File: `01-smart-grid-and-renewable-integration.md`
+- Coverage: 15 new advanced-native smart grid and renewable energy integration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-criminal-procedure-and-forensic-evidence`
+- File: `01-criminal-procedure-and-forensic-evidence.md`
+- Coverage: 15 new advanced-native criminal procedure, forensic evidence, and judicial trial headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-and-choice-architecture`
+- File: `01-behavioral-economics-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral economics, heuristics, and nudge choice architecture headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-smart-farming-and-food-security`
+- File: `01-smart-farming-and-food-security.md`
+- Coverage: 15 new advanced-native smart farming, precision agriculture, and global food security headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `linguistics-sociolinguistics-and-language-contact`
 - File: `01-sociolinguistics-and-language-contact.md`

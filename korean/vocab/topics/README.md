@@ -410,6 +410,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [문화인류학 및 민족지 현장 연구의 언어](./anthropology-cultural-relativism-and-ethnography/README.md) — `문화상대주의 및 참여관찰 민족지 현장연구 기반 상징·의례 심층기술과 문화변용 정체성 재구성`
 - [공중 보건 및 역학 감시 감염병 대응의 언어](./medicine-public-health-and-epidemiological-surveillance/README.md) — `역학조사 감염경로 추적 및 집단면역 형성 기반 원헬스 감염병 위기경보와 공중보건 인프라 확충`
 - [전략적 리더십 및 기업 지속가능경영의 언어](./management-strategic-leadership-and-corporate-sustainability/README.md) — `이사회 지속가능경영 책임 및 ESG 평가 기반 애자일 조직 전환과 이해관계자 자본주의 실천 전략`
+- [우주 탐사 및 인공위성 우주 공학의 언어](./astronomy-space-exploration-and-satellite-technology/README.md) — `우주 발사체 궤도 진입 및 심우주 원격 탐사망 기반 저궤도 군집위성과 합성개구레이더 우주공학`
+- [해양학 및 심해 탐사 지구과학의 언어](./marine-oceanography-and-deep-sea-exploration/README.md) — `심해 유인잠수정 열수분출공 탐사 및 열염순환 해양물리학 기반 해양 산성화 모니터링 체계`
+- [사회 계층화 및 불평등 구조 분석의 언어](./sociology-social-stratification-and-inequality/README.md) — `문화자본 계급 재생산 및 소득 양극화 지니계수 분석 기반 사회적 이동성과 교차성 불평등 연구`
+- [탐사 저널리즘 및 미디어 프레이밍 비평의 언어](./journalism-investigative-reporting-and-media-bias/README.md) — `권력 감시 탐사보도 및 내부고발자 보호 기반 미디어 프레이밍과 확증 편향 팩트체크 저널리즘`
+- [문학 이론 및 서사학 텍스트 비평의 언어](./literature-literary-theory-and-narratology/README.md) — `서사학 초점화 분석 및 상호텍스트성 기호학 비평 기반 탈구축주의 해체 비평과 독자반응비평 이론`
+- [인지 신경과학 및 뇌 가소성 융합 연구의 언어](./cognitive-neuroscience-and-brain-plasticity/README.md) — `뇌 신경가소성 시냅스 가소성 및 fMRI 기능적 신경망 분석 기반 뇌-컴퓨터 인터페이스 융합 연구`
+- [스마트 그리드 및 재생에너지 계통 연계의 언어](./energy-smart-grid-and-renewable-integration/README.md) — `신재생에너지 간헐성 극복 ESS 배터리 연계 및 양방향 스마트 계량기 기반 마이크로그리드 분산 전원`
+- [형사 소송 및 법과학 증거주의 사법 절차의 언어](./law-criminal-procedure-and-forensic-evidence/README.md) — `무죄추정의 원칙 및 영장주의 위법수집증거배제법칙 기반 디지털 포렌식 증거능력 탄핵 심리`
+- [행동경제학 및 선택 설계학 공공 정책의 언어](./economics-behavioral-economics-and-choice-architecture/README.md) — `제한된 합리성 휴리스틱 및 넛지 선택 설계 기반 손실 회피 편향 극복과 공공 정책 행동 분석`
+- [스마트 팜 및 미래 식량 안보 농업 공학의 언어](./agriculture-smart-farming-and-food-security/README.md) — `스마트 팜 복합 환경 제어 및 식물공장 수직 농업 기반 기후변화 대응 곡물 비축 식량 안보`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
