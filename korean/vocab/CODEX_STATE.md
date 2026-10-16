@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,240 new targets across 216 independent topic batches; 8,240 structured headings toward the 10,000 target, leaving 1,760 after this checkpoint.
+- Progress in this checkpoint: 3,330 new targets across 222 independent topic batches; 8,330 structured headings toward the 10,000 target, leaving 1,670 after this checkpoint.
+
+- Topic: `advanced-topological-superconductors-and-majorana-zero-modes`
+- File: `01-topological-superconductors-and-majorana-zero-modes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological superconductors and Majorana zero modes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean topological superconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-nanogenerators-and-self-powered-wearables`
+- File: `01-piezoelectric-nanogenerators-and-self-powered-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric nanogenerators and self-powered wearables headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean PENG wearables passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-optically-pumped-magnetometers-and-meg`
+- File: `01-optically-pumped-magnetometers-and-meg.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optically pumped magnetometers and MEG headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean OPM MEG passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-inspired-antifouling-and-zwitterionic-surfaces`
+- File: `01-bio-inspired-antifouling-and-zwitterionic-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-inspired antifouling and zwitterionic surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean antifouling surfaces passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-indoor-photovoltaics-and-iot-energy`
+- File: `01-perovskite-indoor-photovoltaics-and-iot-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot indoor perovskite photovoltaics and IoT energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean indoor perovskite passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-hydrogel-actuators-and-soft-robotics`
+- File: `01-programmable-hydrogel-actuators-and-soft-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable hydrogel actuators and soft robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean hydrogel actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-solid-state-refrigeration-and-elastocaloric-cooling`
 - File: `01-solid-state-refrigeration-and-elastocaloric-cooling.md`

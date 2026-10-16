@@ -272,6 +272,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [전기화학적 이산화탄소 전환과 합성 연료의 언어](./advanced-electrochemical-carbon-dioxide-reduction-and-e-fuels/README.md) — `구리 직렬 촉매 및 기체확산전극 기반 온실가스 전기분해 C2+ 다탄소 화합물 e-퓨얼 합성 기술`
 - [DNA 오리가미와 나노 분자 기계의 언어](./advanced-dna-origami-and-nanoscale-molecular-machines/README.md) — `스캐폴드 자기조립 및 논리게이트 분자 컴퓨팅 기반 표적 약물 방출 지능형 나노로봇 기술`
 - [자기공명 무선 전력 전송과 메타물질 결합의 언어](./advanced-wireless-power-transfer-and-metamaterial-coupling/README.md) — `메타물질 집속 슬래브 및 소멸파 증폭 기반 주행 중 동적 무선충전 차세대 무선 에너지 인프라 기술`
+- [위상 초전도체와 마요라나 제로 모드의 언어](./advanced-topological-superconductors-and-majorana-zero-modes/README.md) — `위상 초전도체 소자 및 마요라나 제로 모드 검출 기반 비아벨 브레이딩 결함허용 양자컴퓨팅 기술`
+- [압전 나노발전기와 자가발전 웨어러블의 언어](./advanced-piezoelectric-nanogenerators-and-self-powered-wearables/README.md) — `무연 압전 세라믹 및 인체 생체에너지 수확 기반 무배터리 자가발전 스마트 헬스케어 웨어러블 기술`
+- [광학 펌핑 자력계와 뇌자도 계측의 언어](./advanced-optically-pumped-magnetometers-and-meg/README.md) — `루비듐 원자 증기셀 및 상온 무냉매 헤드셋 기반 초고감도 뇌자도 계측 비침습 신경인터페이스 기술`
+- [생체모방 방오 코팅과 양쪽성 이온 표면의 언어](./advanced-bio-inspired-antifouling-and-zwitterionic-surfaces/README.md) — `상어 피부 미세리블렛 및 양쪽성 이온 고분자 브러시 기반 친환경 무독성 선박 방오 및 연비 절감 기술`
+- [실내광 페로브스카이트 태양전지와 IoT 독립 전원의 언어](./advanced-perovskite-indoor-photovoltaics-and-iot-energy/README.md) — `저조도 실내광 에너지 수확 및 무연 이중 페로브스카이트 기반 배터리 없는 IoT 무선 독립 전원 기술`
+- [프로그래머블 하이드로겔 구동기와 수중 소프트 로보틱스의 언어](./advanced-programmable-hydrogel-actuators-and-soft-robotics/README.md) — `비등방성 팽윤 수축 및 4D 프린팅 자극감응형 고분자 네트워크 기반 차세대 수중 소프트 액추에이터 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
