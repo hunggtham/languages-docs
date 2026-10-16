@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,410 new targets across 294 independent topic batches; 9,410 structured headings toward the 10,000 target, leaving 590 after this checkpoint.
+- Progress in this checkpoint: 4,500 new targets across 300 independent topic batches; 9,500 structured headings toward the 10,000 target, leaving 500 after this checkpoint.
+
+- Topic: `advanced-metamaterial-superlens-and-sub-diffraction-imaging`
+- File: `01-metamaterial-superlens-and-sub-diffraction-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial superlens and sub-diffraction imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-microneedle-arrays-and-transdermal-drug-delivery`
+- File: `01-microneedle-arrays-and-transdermal-drug-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microneedle arrays and transdermal drug delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-olfactory-systems-and-electronic-noses`
+- File: `01-neuromorphic-olfactory-systems-and-electronic-noses.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic olfactory systems and electronic noses headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-hybrid-triboelectric-piezoelectric-wind-energy-harvesters`
+- File: `01-hybrid-triboelectric-piezoelectric-wind-energy-harvesters.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hybrid triboelectric-piezoelectric wind energy harvesters headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-transition-metal-dichalcogenide-phototransistors`
+- File: `01-transition-metal-dichalcogenide-phototransistors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot transition metal dichalcogenide phototransistors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-marine-antifouling-coatings`
+- File: `01-biomimetic-marine-antifouling-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic marine antifouling coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-metasurface-vortex-beam-generators-and-oam-multiplexing`
 - File: `01-metasurface-vortex-beam-generators-and-oam-multiplexing.md`

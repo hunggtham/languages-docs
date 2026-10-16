@@ -350,6 +350,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [압전광전기화학 복합 수전해 기술의 언어](./advanced-piezoelectric-photoelectrochemical-water-splitting/README.md) — `초음파 유도 압전 분극 및 광촉매 나노선 이종접합 기반 전자-정공 재결합 억제 친환경 무탄소 그린 수소 생산 기술`
 - [탄소 나노튜브 시냅스 트랜지스터와 신경 인터페이스의 언어](./advanced-carbon-nanotube-synaptic-transistors-and-neural-interfaces/README.md) — `생체 신경세포 직접 전기접합 및 다중게이트 이온젤 기반 초저전력 인공 시냅스 가소성 제어 생체전자 인터페이스 기술`
 - [나노다공성 에어로겔 초단열 및 우주선 열차폐 기술의 언어](./advanced-aerogel-thermal-superinsulation-and-spacecraft-heat-shields/README.md) — `크누센 효과 가스 열전도 차단 및 세라믹 섬유 보강 에어로겔 블랭킷 기반 대기권 재진입 우주선 초고온 열차폐 복합재 기술`
+- [메타물질 슈퍼렌즈와 서브회절 결상 기술의 언어](./advanced-metamaterial-superlens-and-sub-diffraction-imaging/README.md) — `소멸파 증폭 및 음굴절률 나노렌즈 기반 광학 회절 한계 극복 초해상도 근접장 나노 결상 및 바이오 이미징 기술`
+- [첨단 마이크로니들 배열과 경피 약물 전달 기술의 언어](./advanced-microneedle-arrays-and-transdermal-drug-delivery/README.md) — `생체분해성 고분자 및 히알루론산 미세침 기반 피부 각질층 무통 천공 및 스마트 인슐린·백신 서방형 약물 전달 기술`
+- [뉴로모픽 인공후각 시스템 및 전자코 기술의 언어](./advanced-neuromorphic-olfactory-systems-and-electronic-noses/README.md) — `생체모사 나노선 센서 어레이 및 스파이킹 후각신경망 기반 휘발성 유기화합물 온칩 실시간 패턴 인식 기술`
+- [마찰대전·압전 하이브리드 풍력 에너지 수확 기술의 언어](./advanced-hybrid-triboelectric-piezoelectric-wind-energy-harvesters/README.md) — `공력탄성 플러터 및 유연 압전 필름 기반 초저풍속 광대역 미풍 수확 무전원 스마트그리드 환경 센서망 기술`
+- [전이금속 칼코겐화물 광트랜지스터 및 2차원 광전자 소자의 언어](./advanced-transition-metal-dichalcogenide-phototransistors/README.md) — `원자층 이종접합 및 광게이팅 증폭 기반 광대역 초고감도 암전류 억제 차세대 2차원 나노 광전자 소자 기술`
+- [생체 모사 친환경 해양 방오 코팅의 언어](./advanced-biomimetic-marine-antifouling-coatings/README.md) — `상어 피부 미세 리블렛 구조 복제 및 양쪽성 이온 고분자 기반 무독성 해양 생물 부착 차단 유체 마찰 저감 코팅 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
