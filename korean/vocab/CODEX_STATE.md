@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,770 new targets across 318 independent topic batches; 9,770 structured headings toward the 10,000 target, leaving 230 after this checkpoint.
+- Progress in this checkpoint: 4,860 new targets across 324 independent topic batches; 9,860 structured headings toward the 10,000 target, leaving 140 after this checkpoint.
+
+- Topic: `advanced-topological-phononics-and-acoustic-diodes`
+- File: `01-topological-phononics-and-acoustic-diodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological phononics and acoustic diodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-alcohol-metabolite-biosensors`
+- File: `01-wearable-sweat-alcohol-metabolite-biosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat alcohol metabolite biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-visual-attention-processors`
+- File: `01-neuromorphic-visual-attention-processors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic visual attention processors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-biocatalytic-enzyme-reactors`
+- File: `01-piezo-biocatalytic-enzyme-reactors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo biocatalytic enzyme reactors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-exciton-polaritonics`
+- File: `01-topological-exciton-polaritonics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological exciton polaritonics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-photonic-crystal-structural-color`
+- File: `01-biomimetic-photonic-crystal-structural-color.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic photonic crystal structural color headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-floquet-engineering-and-light-matter-interaction`
 - File: `01-floquet-engineering-and-light-matter-interaction.md`

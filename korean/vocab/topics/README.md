@@ -374,6 +374,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [압전 촉매 분리막 및 수류 에너지 수처리 기술의 언어](./advanced-piezocatalytic-membrane-water-purification/README.md) — `수류 기계역학 유도 압전 분극 및 활성산소종 생성 기반 미세플라스틱·난분해성 오염물질 무전원 자가세정 분리막 정수 기술`
 - [마요라나 제로 모드 및 위상 양자 비트 기술의 언어](./advanced-majorana-zero-mode-topological-qubits/README.md) — `초전도체-반도체 나노와이어 헤테로구조 및 비아벨 브레이딩 연산 기반 위상학적 결맞음 보호 결함 허용 양자 비트 기술`
 - [네펜데스 모사 윤활유 함침 다공 표면(SLIPS) 기술의 언어](./advanced-pitcher-plant-slippery-liquid-infused-surfaces/README.md) — `식충식물 포충낭 모사 다공성 나노스폰지 윤활액 고정 기반 초발수·초발유 전방위 액체 미끄럼 자가치유 무잔류 계면 코팅 기술`
+- [위상 포노닉스 및 음향 다이오드 기술의 언어](./advanced-topological-phononics-and-acoustic-diodes/README.md) — `음향 체르넨 수 및 밸리 슈도스핀 모드 제어 기반 비가역적 음파 단방향 수송 결함 면역 음향 다이오드 포노닉스 기술`
+- [웨어러블 땀 알코올 및 대사체 바이오센서 기술의 언어](./advanced-wearable-sweat-alcohol-metabolite-biosensors/README.md) — `알코올 산화효소 기반 바이오연료전지 및 미세유체 채널 연동 실시간 비침습 땀 아세트알데히드·알코올 대사체 모니터링 기술`
+- [뉴로모픽 시각 어텐션 프로세서 및 사카딕 시각 기술의 언어](./advanced-neuromorphic-visual-attention-processors/README.md) — `사카딕 도약 안구운동 및 사건구동 비동기 스파이크 연산 기반 초저전력 선택적 초점 현저성 지도 생성 시각 지능 프로세서 기술`
+- [압전 생체 촉매 및 초음파 효소 반응기 기술의 언어](./advanced-piezo-biocatalytic-enzyme-reactors/README.md) — `초음파 유도 압전 나노입자 표면 전하 제어 및 미세유체 흐름 연동 기계화학적 효소 반응 속도론적 가속 생체 촉매 반응기 기술`
+- [위상 엑시톤-폴라리톤 및 빛-물질 강결합 소자의 언어](./advanced-topological-exciton-polaritonics/README.md) — `빛-물질 강결합 미소공진기 및 스핀-오빗 상호작용 게이지장 기반 무손실 폴라리톤 에지 상태 응축 위상 광양자 회로 기술`
+- [생체 모사 광자 결정 및 가역적 구조색 필름 기술의 언어](./advanced-biomimetic-photonic-crystal-structural-color/README.md) — `모르포나비 날개 미세격자 모사 및 자기조립 콜로이드 나노결정 기반 안료 없는 각도 비의존성 가역적 변색 구조색 광학 필름 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
