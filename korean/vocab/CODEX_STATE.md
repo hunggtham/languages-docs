@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 4,860 new targets across 324 independent topic batches; 9,860 structured headings toward the 10,000 target, leaving 140 after this checkpoint.
+- Progress in this checkpoint: 4,950 new targets across 330 independent topic batches; 9,950 structured headings toward the 10,000 target, leaving 50 after this checkpoint.
+
+- Topic: `advanced-topological-magnon-spintronics`
+- File: `01-topological-magnon-spintronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological magnon spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sweat-heavy-metal-electrochemical-sensors`
+- File: `01-sweat-heavy-metal-electrochemical-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sweat heavy metal electrochemical sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-tactile-proprioception-systems`
+- File: `01-neuromorphic-tactile-proprioception-systems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic tactile proprioception systems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-sonodynamic-antimicrobial-therapy`
+- File: `01-piezo-sonodynamic-antimicrobial-therapy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo sonodynamic antimicrobial therapy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-quantum-dot-lasers`
+- File: `01-topological-quantum-dot-lasers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological quantum dot lasers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-lotus-inspired-superhydrophobic-coatings`
+- File: `01-lotus-inspired-superhydrophobic-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lotus inspired superhydrophobic coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-topological-phononics-and-acoustic-diodes`
 - File: `01-topological-phononics-and-acoustic-diodes.md`
