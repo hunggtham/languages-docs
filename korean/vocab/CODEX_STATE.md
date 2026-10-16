@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,970 new targets across 198 independent topic batches; 7,970 structured headings toward the 10,000 target, leaving 2,030 after this checkpoint.
+- Progress in this checkpoint: 3,060 new targets across 204 independent topic batches; 8,060 structured headings toward the 10,000 target, leaving 1,940 after this checkpoint.
+
+- Topic: `advanced-direct-air-capture-and-solid-amine-sorbents`
+- File: `01-direct-air-capture-and-solid-amine-sorbents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct air capture and solid amine sorbents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean direct air capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-high-entropy-alloys-and-extreme-temperature-materials`
+- File: `01-high-entropy-alloys-and-extreme-temperature-materials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot high-entropy alloys and extreme temperature materials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean high-entropy alloys passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-superabsorbers-and-stealth-coatings`
+- File: `01-metamaterial-superabsorbers-and-stealth-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial superabsorbers and stealth coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean metamaterial stealth passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanomotors-and-targeted-drug-delivery-microrobots`
+- File: `01-nanomotors-and-targeted-drug-delivery-microrobots.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanomotors and targeted drug delivery microrobots headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean nanomotors microrobots passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-organic-electrochemical-transistors-and-bioelectronics`
+- File: `01-organic-electrochemical-transistors-and-bioelectronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot organic electrochemical transistors and bioelectronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean OECT bioelectronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-integrated-circuits-and-optical-computing`
+- File: `01-photonic-integrated-circuits-and-optical-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic integrated circuits and optical computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean photonic computing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-spin-qubits-and-silicon-quantum-dots`
 - File: `01-spin-qubits-and-silicon-quantum-dots.md`
