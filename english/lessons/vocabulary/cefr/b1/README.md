@@ -71,6 +71,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Financial Records And Accounting](./business/06-financial-records-and-accounting.md)
 - [Marketing And Advertising](./business/07-marketing-and-advertising.md)
 - [Wholesale And Inventory Management](./business/08-wholesale-and-inventory-management.md)
+- [Digital Payments E Commerce And Freelancing](./business/09-digital-payments-e-commerce-and-freelancing.md)
 
 ## travel
 
@@ -141,6 +142,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Home Utilities And Maintenance](./services/03-home-utilities-and-maintenance.md)
 - [Moving In And Building Support](./services/04-moving-in-and-building-support.md)
 - [Banking And Financial Services](./services/05-banking-and-financial-services.md)
+- [Personal And Specialty Services](./services/06-personal-and-specialty-services.md)
+- [Customer Support Public Utilities And Home Repairs](./services/07-customer-support-public-utilities-and-home-repairs.md)
 
 ## shopping
 
