@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,440 new targets across 96 independent topic batches; 6,440 structured headings toward the 10,000 target, leaving 3,560 after this checkpoint.
+- Progress in this checkpoint: 1,500 new targets across 100 independent topic batches; 6,500 structured headings toward the 10,000 target, leaving 3,500 after this checkpoint.
+
+- Topic: `advanced-ocean-alkalinity-and-marine-cdr`
+- File: `01-ocean-alkalinity-and-marine-cdr.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean alkalinity and marine CDR headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 126-eojeol Korean marine CDR passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-quantum-computing`
+- File: `01-photonic-quantum-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic quantum computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 127-eojeol Korean photonic quantum passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-batteries-and-solid-electrolytes`
+- File: `01-solid-state-batteries-and-solid-electrolytes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state batteries and solid electrolytes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean solid-state batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-mrna-therapeutics-and-lipid-nanoparticles`
+- File: `01-mrna-therapeutics-and-lipid-nanoparticles.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot mRNA therapeutics and lipid nanoparticles headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean mRNA therapeutics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-brain-computer-interfaces-and-neural-decoding`
 - File: `01-brain-computer-interfaces-and-neural-decoding.md`

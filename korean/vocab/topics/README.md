@@ -152,6 +152,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [페로브스카이트 탠덤 태양전지의 언어](./advanced-perovskite-tandem-solar-cells/README.md) — `페로브스카이트 탠덤 태양전지와 차세대 광전 변환 기술`
 - [산업용 디지털 트윈과 사이버 물리 제조의 언어](./advanced-industrial-digital-twins-and-cyber-physical-systems/README.md) — `산업용 디지털 트윈과 지능형 공정 가상 시운전`
 - [바이오플라스틱과 생분해성 고분자의 언어](./advanced-bioplastics-and-biodegradable-polymers/README.md) — `생분해성 고분자와 바이오매스 플라스틱 순환 경제`
+- [해양 알칼리화와 해양 탄소 제거의 언어](./advanced-ocean-alkalinity-and-marine-cdr/README.md) — `해양 알칼리도 증진과 심해 탄소 격리 기술`
+- [광양자 컴퓨팅과 광자 큐비트의 언어](./advanced-photonic-quantum-computing/README.md) — `집적 광학 회로와 상온 광양자 연산 아키텍처`
+- [전고체 배터리와 고체 전해질의 언어](./advanced-solid-state-batteries-and-solid-electrolytes/README.md) — `고체 전해질 계면 제어와 차세대 전고체 전지 기술`
+- [mRNA 치료제와 지질 나노입자의 언어](./advanced-mrna-therapeutics-and-lipid-nanoparticles/README.md) — `mRNA 백신 플랫폼과 지질 나노입자 표적 약물 전달체`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
