@@ -11,6 +11,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Public Art Street Murals And Civic Monuments](./art/05-public-art-street-murals-and-civic-monuments.md)
 - [Curatorial Ethics Restitution Of Colonial Artifacts And Provenance Research](./art/06-curatorial-ethics-restitution-of-colonial-artifacts-and-provenance-research.md)
 - [Museum Conservation Pigment Spectroscopy And Canvas Restoration](./art/07-museum-conservation-pigment-spectroscopy-and-canvas-restoration.md)
+- [Site Specific Installations Land Art And Environmental Sculpture](./art/08-site-specific-installations-land-art-and-environmental-sculpture.md)
 
 ## business
 
@@ -21,6 +22,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Venture Debt Syndicated Loans And Capital Restructuring](./business/05-venture-debt-syndicated-loans-and-capital-restructuring.md)
 - [Hostile Takeovers Poison Pills And Shareholder Activism](./business/06-hostile-takeovers-poison-pills-and-shareholder-activism.md)
 - [Corporate Turnarounds Distressed Debt And Divestitures](./business/07-corporate-turnarounds-distressed-debt-and-divestitures.md)
+- [Supply Chain Nearshoring Geopolitical Decoupling And Resilience](./business/08-supply-chain-nearshoring-geopolitical-decoupling-and-resilience.md)
 
 ## communication
 
@@ -49,6 +51,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Universal Basic Income Labor Automation And Wealth Taxation](./economics/06-universal-basic-income-labor-automation-and-wealth-taxation.md)
 - [Sovereign Debt Sustainability Debt For Nature Swaps And Multilateral Relief](./economics/07-sovereign-debt-sustainability-debt-for-nature-swaps-and-multilateral-relief.md)
 - [Macroprudential Regulation Systemic Risk And Financial Contagion](./economics/08-macroprudential-regulation-systemic-risk-and-financial-contagion.md)
+- [Central Bank Digital Currencies Payment Systems And Monetary Sovereignty](./economics/09-central-bank-digital-currencies-payment-systems-and-monetary-sovereignty.md)
 
 ## education
 
@@ -78,6 +81,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Peatland Rewetting Carbon Fluxes And Wetland Restoration](./environment/13-peatland-rewetting-carbon-fluxes-and-wetland-restoration.md)
 - [Permafrost Thaw Methane Hydrates And Arctic Feedback Loops](./environment/14-permafrost-thaw-methane-hydrates-and-arctic-feedback-loops.md)
 - [Soil Carbon Sequestration Regenerative Grazing And Biochar](./environment/15-soil-carbon-sequestration-regenerative-grazing-and-biochar.md)
+- [Ocean Alkalinity Enhancement Marine Carbon Removal And Coastal Blue Carbon](./environment/16-ocean-alkalinity-enhancement-marine-carbon-removal-and-coastal-blue-carbon.md)
 
 ## finance
 
@@ -89,6 +93,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Sovereign Green Bonds Carbon Pricing And Climate Finance](./finance/06-sovereign-green-bonds-carbon-pricing-and-climate-finance.md)
 - [Cryptocurrency Derivatives Decentralized Lending And Smart Contract Audits](./finance/07-cryptocurrency-derivatives-decentralized-lending-and-smart-contract-audits.md)
 - [Algorithmic Trading Market Microstructure And Dark Pools](./finance/08-algorithmic-trading-market-microstructure-and-dark-pools.md)
+- [Infrastructure Project Finance Public Private Partnerships And Concession Agreements](./finance/09-infrastructure-project-finance-public-private-partnerships-and-concession-agreements.md)
 
 ## health
 
@@ -99,6 +104,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Genomic Medicine Personalized Therapies And Bioethics](./health/05-genomic-medicine-personalized-therapies-and-bioethics.md)
 - [Antimicrobial Resistance Nosocomial Infections And Antibiotic Stewardship](./health/06-antimicrobial-resistance-nosocomial-infections-and-antibiotic-stewardship.md)
 - [Epidemiological Surveillance Contact Tracing And Quarantine Policy](./health/07-epidemiological-surveillance-contact-tracing-and-quarantine-policy.md)
+- [Occupational Health Industrial Hygiene And Ergonomic Standards](./health/08-occupational-health-industrial-hygiene-and-ergonomic-standards.md)
 
 ## history
 
@@ -114,6 +120,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Cross Border Insolvency Creditor Protection And Asset Tracing](./law/06-cross-border-insolvency-creditor-protection-and-asset-tracing.md)
 - [Intellectual Property Licensing Patent Pools And Royalty Audits](./law/07-intellectual-property-licensing-patent-pools-and-royalty-audits.md)
 - [Antitrust Enforcement Platform Monopolies And Merger Remedies](./law/08-antitrust-enforcement-platform-monopolies-and-merger-remedies.md)
+- [Cross Border Insolvency Chapter 15 Recognition And Creditor Coordination](./law/09-cross-border-insolvency-chapter-15-recognition-and-creditor-coordination.md)
 
 ## media
 
@@ -191,6 +198,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Urban Sprawl Containment Greenbelts And Growth Boundaries](./urban/12-urban-sprawl-containment-greenbelts-and-growth-boundaries.md)
 - [Transit Equity Micromobility Networks And Congestion Pricing](./urban/13-transit-equity-micromobility-networks-and-congestion-pricing.md)
 - [Tactical Urbanism Pop Up Bike Lanes And Pedestrian Plazas](./urban/14-tactical-urbanism-pop-up-bike-lanes-and-pedestrian-plazas.md)
+- [Zero Emission Zones Low Carbon Freight And Last Mile Logistics](./urban/15-zero-emission-zones-low-carbon-freight-and-last-mile-logistics.md)
 
 ## work
 

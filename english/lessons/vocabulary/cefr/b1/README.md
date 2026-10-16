@@ -34,6 +34,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Traditional Crafts Pottery Making And Handicrafts](./culture/08-traditional-crafts-pottery-making-and-handicrafts.md)
 - [Theater Stagecraft Acting Workshops And Puppet Shows](./culture/09-theater-stagecraft-acting-workshops-and-puppet-shows.md)
 - [Film Festivals Independent Cinema And Screenplay Workshops](./culture/10-film-festivals-independent-cinema-and-screenplay-workshops.md)
+- [Cultural Heritage Preservation Historic Monuments And Folklore Archives](./culture/11-cultural-heritage-preservation-historic-monuments-and-folklore-archives.md)
 
 ## education
 
@@ -45,6 +46,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Coursework And Campus Life](./education/06-coursework-and-campus-life.md)
 - [Vocational Apprenticeships Trade Skills And Career Certifications](./education/07-vocational-apprenticeships-trade-skills-and-career-certifications.md)
 - [Online Distance Learning Virtual Classrooms And Digital Literacy](./education/08-online-distance-learning-virtual-classrooms-and-digital-literacy.md)
+- [Science Fairs Stem Competitions And Robotics Clubs](./education/09-science-fairs-stem-competitions-and-robotics-clubs.md)
 
 ## food
 
@@ -57,6 +59,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Farmers Markets Seasonal Produce And Food Preservation](./food/07-farmers-markets-seasonal-produce-and-food-preservation.md)
 - [Artisan Bread Sourdough Fermentation And Local Bakeries](./food/08-artisan-bread-sourdough-fermentation-and-local-bakeries.md)
 - [Specialty Coffee Roasting Single Origin Beans And Brewing Methods](./food/09-specialty-coffee-roasting-single-origin-beans-and-brewing-methods.md)
+- [Fermented Foods Probiotics And Traditional Curing](./food/10-fermented-foods-probiotics-and-traditional-curing.md)
 
 ## health
 
@@ -70,6 +73,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Mental Wellness Stress Relief And Sleep Habits](./health/08-mental-wellness-stress-relief-and-sleep-habits.md)
 - [Physical Therapy Posture Correction And Sports Rehabilitation](./health/09-physical-therapy-posture-correction-and-sports-rehabilitation.md)
 - [Nutrition Counseling Dietary Supplements And Preventive Care](./health/10-nutrition-counseling-dietary-supplements-and-preventive-care.md)
+- [Sleep Hygiene Circadian Rhythms And Stress Reduction](./health/11-sleep-hygiene-circadian-rhythms-and-stress-reduction.md)
 
 ## home
 
@@ -94,6 +98,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Community Hobbies Gardening And Craft Clubs](./leisure/09-community-hobbies-gardening-and-craft-clubs.md)
 - [Board Game Cafes Tabletop Gaming And Hobby Conventions](./leisure/10-board-game-cafes-tabletop-gaming-and-hobby-conventions.md)
 - [Amateur Astronomy Stargazing Clubs And Telescope Observing](./leisure/11-amateur-astronomy-stargazing-clubs-and-telescope-observing.md)
+- [Gardening Clubs Community Allotments And Seed Swaps](./leisure/12-gardening-clubs-community-allotments-and-seed-swaps.md)
 
 ## relationships
 
@@ -140,6 +145,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Local Elections Town Hall Meetings And Civic Petitions](./society/10-local-elections-town-hall-meetings-and-civic-petitions.md)
 - [Public Libraries Digital Archives And Lifelong Learning](./society/11-public-libraries-digital-archives-and-lifelong-learning.md)
 - [Community Gardens Urban Farming And Neighborhood Greening](./society/12-community-gardens-urban-farming-and-neighborhood-greening.md)
+- [Disaster Preparedness Emergency Relief And Volunteer First Aid](./society/13-disaster-preparedness-emergency-relief-and-volunteer-first-aid.md)
 
 ## sport
 
@@ -179,6 +185,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Budget Backpacking Youth Hostels And Travel Safety](./travel/10-budget-backpacking-youth-hostels-and-travel-safety.md)
 - [Ecotourism Lodges Guided Nature Walks And Wildlife Tracking](./travel/11-ecotourism-lodges-guided-nature-walks-and-wildlife-tracking.md)
 - [Wildlife Safaris Conservation Reserves And Sustainable Camping](./travel/12-wildlife-safaris-conservation-reserves-and-sustainable-camping.md)
+- [Scenic Train Journeys Sleeper Cars And Railway Heritage](./travel/13-scenic-train-journeys-sleeper-cars-and-railway-heritage.md)
 
 ## work
 
@@ -191,3 +198,4 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Job Hunting Interviews And Employment Contracts](./work/07-job-hunting-interviews-and-employment-contracts.md)
 - [Remote Collaboration Asynchronous Communication And Digital Nomadism](./work/08-remote-collaboration-asynchronous-communication-and-digital-nomadism.md)
 - [Workplace Diversity Inclusive Hiring And Employee Wellness](./work/09-workplace-diversity-inclusive-hiring-and-employee-wellness.md)
+- [Freelancing Contract Negotiation And Client Invoicing](./work/10-freelancing-contract-negotiation-and-client-invoicing.md)

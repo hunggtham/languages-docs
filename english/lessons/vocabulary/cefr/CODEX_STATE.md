@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 3101 items in 136 topic files; topic-folder numbering resets per folder.
-- B2: 3168 items in 136 topic files; B2 expansion is active beyond the original pilot.
+- B1: 3301 items in 144 topic files; topic-folder numbering resets per folder.
+- B2: 3368 items in 144 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders.
-- Total: 28296 items (authoritative script count after the ninth parallel batch: 16 lessons across B1 and B2; 1,704 remaining to 30,000).
+- Total: 28696 items (authoritative script count after the tenth parallel batch: 16 lessons across B1 and B2; 1,304 remaining to 30,000).
 
 ## Current position
 
