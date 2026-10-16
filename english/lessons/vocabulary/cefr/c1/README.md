@@ -451,26 +451,32 @@
 ## medicine
 
 - [C1 Vocabulary 01 — Pharmacology and clinical care](medicine/01-pharmacology-and-clinical-care.md)
+- [C1 Vocabulary 02 — Antimicrobial resistance mechanisms, beta-lactamase kinetics, and nosocomial pathogen containment](medicine/02-antibiotic-resistance-beta-lactamase-and-nosocomial-infections.md)
 
 ## music
 
 - [C1 Vocabulary 01 — Music theory and performance](music/01-music-theory-and-performance.md)
+- [C1 Vocabulary 02 — Psychoacoustic perception, timbre spectral centroids, and auditory scene analysis](music/02-psychoacoustics-timbre-spectral-centroid-and-auditory-scene-analysis.md)
 
 ## neuroscience
 
 - [C1 Vocabulary 01 — Neuroscience and the brain](neuroscience/01-neuroscience-and-the-brain.md)
+- [C1 Vocabulary 02 — Optogenetic actuator opsins, cell-type-specific photostimulation, and circuit-level behavioral dissection](neuroscience/02-optogenetics-channelrhodopsin-and-neural-circuit-interrogation.md)
 
 ## oceanography
 
 - [C1 Vocabulary 01 — Oceanography and marine systems](oceanography/01-oceanography-and-marine-systems.md)
+- [C1 Vocabulary 02 — Abyssal thermohaline overturning, deep-water formation, and ocean ventilation timescales](oceanography/02-abyssal-circulation-thermohaline-conveyor-and-deep-ocean-ventilation.md)
 
 ## paleontology
 
 - [C1 Vocabulary 01 — Fossil record and evolution](paleontology/01-fossil-record-and-evolution.md)
+- [C1 Vocabulary 02 — Taphonomic decay pathways, Konservat-Lagerstätten preservation, and fossil diagenetic mineralization](paleontology/02-taphonomic-processes-exceptional-lagerstatten-and-fossil-diagenesis.md)
 
 ## peace-and-conflict
 
 - [C1 Vocabulary 01 — Peacebuilding and post-conflict recovery](peace-and-conflict/01-peacebuilding-and-post-conflict-recovery.md)
+- [C1 Vocabulary 02 — Disarmament, demobilization, and reintegration (DDR) frameworks, and ceasefire verification mechanisms](peace-and-conflict/02-disarmament-demobilization-and-reintegration-and-ceasefire-verification.md)
 
 ## philosophy
 
@@ -480,10 +486,12 @@
 ## phonetics
 
 - [C1 Vocabulary 01 — Phonetics and pronunciation](phonetics/01-phonetics-and-pronunciation.md)
+- [C1 Vocabulary 02 — Acoustic formant trajectories, voice onset time (VOT) boundaries, and coarticulatory assimilation](phonetics/02-acoustic-formants-voice-onset-time-and-coarticulation-dynamics.md)
 
 ## politics
 
 - [C1 Vocabulary 01 — Political landscape](politics/01-political-landscape.md)
+- [C1 Vocabulary 02 — Authoritarian regime consolidation, democratic backsliding mechanics, and autocratic legalism](politics/02-authoritarian-consolidation-democratic-backsliding-and-autocratic-legalism.md)
 
 ## programming-languages
 

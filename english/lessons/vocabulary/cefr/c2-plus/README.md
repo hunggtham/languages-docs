@@ -38,6 +38,7 @@
 
 - [C2+ Vocabulary — Bread and pastry fermentation science](baking/01-bread-and-pastry-fermentation-science.md)
 - [C2+ Vocabulary 02 — Sourdough microbial ecology, heterofermentative lactic acid fermentation, and gluten viscoelasticity](baking/02-sourdough-microbiome-kinetics-heterofermentative-lactobacilli-and-dough-rheology.md)
+- [C2+ Vocabulary 03 — Sourdough lactic fermentation kinetics, heterofermentative lactobacilli acidification, and Chopin alveographic dough rheology](baking/03-sourdough-lactic-fermentation-heterofermentative-kinetics-and-gas-cell-alveography.md)
 
 ## biogeochemistry
 
@@ -49,26 +50,31 @@
 
 - [C2+ Vocabulary — Forging and steel heat treatment](blacksmithing/01-forging-and-steel-heat-treatment.md)
 - [C2+ Vocabulary 02 — Martensitic crystal phase transformations, bainitic microstructures, and differential quench tempering](blacksmithing/02-martensitic-phase-transformations-austenite-quench-kinetics-and-differential-tempering.md)
+- [C2+ Vocabulary 03 — Pattern-welded Damascus steel forge welding, solid-state interstitial carbon diffusion, and ferric chloride acid etch topography](blacksmithing/03-pattern-welded-damascus-interstitial-diffusion-and-etch-contrast-metallurgy.md)
 
 ## book-arts
 
 - [C2+ Vocabulary — Bookbinding and manuscript conservation](book-arts/01-bookbinding-and-manuscript-conservation.md)
 - [C2+ Vocabulary 02 — Parchment liming chemistry, vellum collagen hydrolysis, and archival codicological conservation](book-arts/02-parchment-tanning-vellum-hydrolysis-and-historical-bookbinding-conservation.md)
+- [C2+ Vocabulary 03 — Historical manuscript water gilding, rabbit-skin glue gesso bole preparation, and dog-tooth agate burnishing](book-arts/03-gold-leaf-gilding-rabbit-skin-glue-bole-and-agate-burnishing.md)
 
 ## cartography
 
 - [C2+ Vocabulary — Advanced cartography and map projection](cartography/01-advanced-cartography-and-map-projection.md)
 - [C2+ Vocabulary 02 — Geodetic datum ellipsoidal transformations, conformal map projections, and Tissot's indicatrix distortion](cartography/02-geodetic-datum-transformations-conformal-projections-and-tissots-indicatrix.md)
+- [C2+ Vocabulary 03 — Topographic hypsometric tinting palettes, Swiss-style analytical shaded relief, and digital elevation surface draping](cartography/03-topographic-hypsometric-tints-shaded-relief-and-digital-elevation-drape.md)
 
 ## causal-identification
 
 - [C2+ Vocabulary — Advanced causal identification and proximal inference](causal-identification/01-advanced-causal-identification-and-proximal-inference.md)
 - [C2+ Vocabulary 02 — Sharp and fuzzy regression discontinuity designs, running variable manipulation testing, and optimal bandwidth selection](causal-identification/02-regression-discontinuity-designs-running-variables-and-bandwidth-selection.md)
+- [C2+ Vocabulary 03 — Synthetic control estimators, constrained convex optimization weights, and in-space placebo permutation inference](causal-identification/03-synthetic-control-convex-optimization-and-placebo-permutation-inference.md)
 
 ## ceramics
 
 - [C2+ Vocabulary — Studio pottery process and glaze chemistry](ceramics/01-studio-pottery-process-and-glaze-chemistry.md)
 - [C2+ Vocabulary 02 — Eutectic flux phase equilibria, feldspathic porcelain vitrification, and pyrometric cone heat-work kinetics](ceramics/02-eutectic-flux-phase-diagrams-feldspathic-vitrification-and-pyrometric-cones.md)
+- [C2+ Vocabulary 03 — Celadon iron reduction kinetics, washed wood-ash glaze eutectics, and tensile thermal crazing](ceramics/03-celadon-iron-reduction-kinetics-wood-ash-eutectics-and-crazing-tension.md)
 
 ## cheesemaking
 
@@ -350,6 +356,7 @@
 ## urban-planning
 
 - [C2+ Vocabulary — Advanced urban planning and land use](urban-planning/01-advanced-urban-planning-and-land-use.md)
+- [C2+ Vocabulary 02 — High-density transit-oriented development, transfer of development rights (TDR), and value capture instruments](urban-planning/02-transit-oriented-development-density-bonuses-and-transfer-of-development-rights.md)
 
 ## virology
 
@@ -359,4 +366,5 @@
 ## woodworking
 
 - [C2+ Vocabulary — Advanced joinery and lumber behavior](woodworking/01-advanced-joinery-and-lumber-behavior.md)
+- [C2+ Vocabulary 02 — Hardwood anatomical anisotropy, quarter-sawn radial-tangential shrinkage ratios, and proteinaceous hide glue reversibility](woodworking/02-timber-anisotropy-quarter-sawn-radial-shrinkage-and-hide-glue-reversibility.md)
 

@@ -10,6 +10,7 @@
 - [C2 Vocabulary 06 — Dialetheic contradiction, paraconsistent logic calculi, and self-referential semantic antinomies](argument/06-dialetheism-paraconsistent-logic-and-semantic-paradoxes.md)
 - [C2 Vocabulary 07 — Epistemic peer disagreement, the uniqueness thesis, and permissive Bayesian rationality](argument/07-epistemic-peer-disagreement-uniqueness-thesis-and-permissive-rationality.md)
 - [C2 Vocabulary 08 — The Agrippan trilemma, infinitist justification chains, and epistemic foundationalism](argument/08-infinitism-foundationalism-and-the-agrippan-trilemma.md)
+- [C2 Vocabulary 09 — Epistemic injustice dynamics, testimonial credibility deficits, and structural hermeneutical lacunae](argument/09-epistemic-injustice-testimonial-hermeneutical-marginalization.md)
 
 ## biomedicine
 
@@ -89,6 +90,8 @@
 - [C2 Vocabulary 74 — Tumor-associated tertiary lymphoid structures (TLS), germinal center B-cell maturation, and checkpoint response predictive biomarkers](biomedicine/74-tertiary-lymphoid-structures-tumor-infiltrating-b-cells-and-immunotherapy-responsiveness.md)
 - [C2 Vocabulary 75 — Imaging mass cytometry, multiplexed ion beam imaging (MIBI), and subcellular proteomic topography](biomedicine/75-spatial-proteomics-mass-cytometry-and-multiplexed-ion-beam-imaging.md)
 - [C2 Vocabulary 76 — Mitochondrial fission-fusion equilibrium, Drp1 GTPase oligomerization, and cristae remodeling](biomedicine/76-mitochondrial-dynamics-fission-fusion-balance-and-metabolic-senescence.md)
+- [C2 Vocabulary 77 — Single-cell ATAC-seq epigenomics, hyperactive Tn5 transposase tagging, and regulome accessibility landscapes](biomedicine/77-single-cell-epigenomics-scatac-seq-and-chromatin-accessibility-landscapes.md)
+- [C2 Vocabulary 78 — Targeted proteasomal degradation, PROTAC heterobifunctional chimeras, and molecular glue degraders](biomedicine/78-targeted-protein-degradation-proteolysis-targeting-chimeras-and-molecular-glues.md)
 
 ## computing
 
@@ -210,7 +213,9 @@
 - [C2 Vocabulary 196 — Girardian linear logic, proof nets geometric correctness, and resource-bounded cut-elimination](computing/196-linear-logic-proof-nets-and-computational-resource-boundedness.md)
 - [C2 Vocabulary 197 — Binary session types, linear pi-calculus duality, and distributed protocol conformance](computing/197-session-types-linear-pi-calculus-and-distributed-protocol-conformance.md)
 - [C2 Vocabulary 198 — Persistent homology filtrations, topological data analysis, and persistence barcode invariants](computing/198-persistent-homology-topological-data-analysis-and-barcodes.md)
+- [C2 Vocabulary 199 — Actor model message-passing concurrency, mailbox saturation heuristics, and hierarchical supervision trees](computing/199-actor-model-concurrency-mailbox-scheduling-and-supervision-trees.md)
 - [C2 Vocabulary — Event-driven architecture and messaging](computing/20-event-driven-architecture-and-messaging.md)
+- [C2 Vocabulary 200 — Programming language formal semantics, big-step versus small-step reductions, and Hoare-triple axiomatic verification](computing/200-formal-semantics-operational-denotational-and-axiomatic-hoare-triples.md)
 - [C2 Vocabulary — Programmable networking and function offload](computing/21-programmable-networking-and-function-offload.md)
 - [C2 Vocabulary — WebAssembly and portable execution](computing/22-webassembly-and-portable-execution.md)
 - [C2 Vocabulary — Distributed ML training and inference](computing/23-distributed-ml-training-and-inference.md)
@@ -301,6 +306,7 @@
 - [C2 Vocabulary 06 — Institutional subsidiarity, overlapping jurisdictional redundancy, and polycentric common-pool governance](governance/06-subsidiarity-jurisdictional-redundancy-and-polycentric-common-pool-institutions.md)
 - [C2 Vocabulary 07 — Deliberative minipublics, democratic sortition, and epistemic procedural legitimacy](governance/07-deliberative-minipublics-sortition-and-epistemic-democratic-legitimacy.md)
 - [C2 Vocabulary 08 — Epistemic democratic theory, Condorcet jury mathematics, and cognitive diversity pooling](governance/08-epistemic-democracy-condorcet-jury-theorem-and-deliberative-pluralism.md)
+- [C2 Vocabulary 09 — Panarchy theory, adaptive ecological governance, and cross-scale systemic resilience cascades](governance/09-panarchy-adaptive-governance-and-socio-ecological-resilience-cascades.md)
 
 ## rhetoric
 
@@ -359,6 +365,7 @@
 - [C2 Vocabulary 139 — Classical hendiadys, poetic hypallage, and syntactic-semantic transference in polemical eloquence](rhetoric/139-hendiadys-hypallage-and-discursive-syntactic-transference.md)
 - [C2 Vocabulary — Ethical and political reasoning](rhetoric/14-ethical-and-political-reasoning.md)
 - [C2 Vocabulary 140 — Foreseeing oratorical prolepsis, strategic hypophoric interrogation, and dialectical pre-emption](rhetoric/140-prolepsis-hypophora-and-anticipatory-refutation-in-classical-forensics.md)
+- [C2 Vocabulary 141 — Feigned aporetic irresolution, expressive anacoluthic rupture, and deliberate syntactic dislocation](rhetoric/141-aporia-anacoluthon-and-syntactic-disruption-in-dramatic-discourse.md)
 - [C2 Vocabulary 14 — Temporal, causal, and systems reasoning](rhetoric/15-temporal-causal-and-systems-reasoning.md)
 - [C2 Vocabulary — Constitutional reasoning](rhetoric/16-constitutional-reasoning.md)
 - [C2 Vocabulary 16 — Measurement, evidence, and analytical granularity](rhetoric/17-measurement-evidence-and-analytical-granularity.md)
@@ -572,6 +579,7 @@
 - [C2 Vocabulary 202 — Monolayer transition metal dichalcogenides, valley pseudospin polarization, and valleytronic computing](semiconductors/202-two-dimensional-transition-metal-dichalcogenides-and-valleytronics.md)
 - [C2 Vocabulary 203 — Spin-orbit torque MRAM, Dzyaloshinskii-Moriya interfacial interaction, and chiral domain wall motion](semiconductors/203-spin-orbit-torque-magnetic-random-access-memory-and-chiral-domain-walls.md)
 - [C2 Vocabulary 204 — Gate-all-around (GAA) nanosheet FETs, inner spacer cavity engineering, and sub-3nm electrostatic channel control](semiconductors/204-gate-all-around-nanosheet-field-effect-transistors-and-sub-3nm-scaling.md)
+- [C2 Vocabulary 205 — Backside power delivery networks (BSPDN), buried power rail metallurgy, and nano-through-silicon-via integration](semiconductors/205-backside-power-delivery-networks-buried-power-rails-and-through-silicon-vias.md)
 - [C2 Vocabulary — Power integrity and high-speed signal analysis](semiconductors/21-power-integrity-and-high-speed-signal-analysis.md)
 - [C2 Vocabulary — EUV lithography and stochastic process control](semiconductors/22-euv-lithography-and-stochastic-process-control.md)
 - [C2 Vocabulary — Electrothermal design and package thermal behavior](semiconductors/23-electrothermal-design-and-package-thermal-behavior.md)
