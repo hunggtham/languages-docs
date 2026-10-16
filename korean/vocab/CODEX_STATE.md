@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,610 new targets across 174 independent topic batches; 7,610 structured headings toward the 10,000 target, leaving 2,390 after this checkpoint.
+- Progress in this checkpoint: 2,700 new targets across 180 independent topic batches; 7,700 structured headings toward the 10,000 target, leaving 2,300 after this checkpoint.
+
+- Topic: `advanced-metamaterial-supercapacitors-and-pseudocapacitive-storage`
+- File: `01-metamaterial-supercapacitors-and-pseudocapacitive-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercapacitors and pseudocapacitive storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean supercapacitors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-liquid-biopsy-and-circulating-tumor-cell-isolation`
+- File: `01-liquid-biopsy-and-circulating-tumor-cell-isolation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid biopsy and circulating tumor cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean liquid biopsy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-dioxide-mineralization-and-green-concrete`
+- File: `01-carbon-dioxide-mineralization-and-green-concrete.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon mineralization and green concrete headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean carbon mineralization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-single-crystal-radiation-detectors`
+- File: `01-perovskite-single-crystal-radiation-detectors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite single crystal radiation detectors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean radiation detectors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photocatalytic-water-splitting-and-solar-hydrogen`
+- File: `01-photocatalytic-water-splitting-and-solar-hydrogen.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photocatalytic water splitting and solar hydrogen headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean photocatalytic hydrogen passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-metamaterials-and-shape-memory-alloys`
+- File: `01-programmable-metamaterials-and-shape-memory-alloys.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable metamaterials and shape memory alloys headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean programmable metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-magnetic-refrigeration-and-magnetocaloric-alloys`
 - File: `01-magnetic-refrigeration-and-magnetocaloric-alloys.md`

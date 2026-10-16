@@ -230,6 +230,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [금속 공기 전지와 공기 호흡형 양극의 언어](./advanced-metal-air-batteries-and-air-breathing-cathodes/README.md) — `공기 호흡형 가스 확산 양극 및 산소 환원·발생 촉매 기반 초고에너지밀도 금속 공기 전지 기술`
 - [공간 전사체학과 원위치 염기서열 분석의 언어](./advanced-spatially-resolved-transcriptomics-and-in-situ-sequencing/README.md) — `조직 미세환경 단일 세포 공간 바코딩 및 다중 분자 형광 인시추 혼성화 기반 정밀 오믹스 분석 기술`
 - [포노닉 크리스탈과 음향 밴드갭의 언어](./advanced-phononic-crystals-and-acoustic-insulation/README.md) — `주기적 격자 산란 구조 기반 탄성파 밴드갭 형성 및 기계적 소음·진동 완전 차단 기술`
+- [슈퍼커패시터 소재와 의사 커패시턴스의 언어](./advanced-metamaterial-supercapacitors-and-pseudocapacitive-storage/README.md) — `의사 커패시턴스 나노 복합체 전극 기반 초고출력 급속 충전 및 고효율 에너지 저장 기술`
+- [액체 생체 검사와 순환 종양 세포 분리의 언어](./advanced-liquid-biopsy-and-circulating-tumor-cell-isolation/README.md) — `미세유체역학 기반 순환 종양 세포 분리 및 비침습적 혈중 암 유전체 동반 진단 기술`
+- [이산화탄소 광물화와 친환경 그린 콘크리트의 언어](./advanced-carbon-dioxide-mineralization-and-green-concrete/README.md) — `온실가스 영구 광물 탄산화 및 산업 부산물 슬래그 활용 기반 탄소 마이너스 건축 소재 기술`
+- [페로브스카이트 단결정과 차세대 방사선 검출기의 언어](./advanced-perovskite-single-crystal-radiation-detectors/README.md) — `페로브스카이트 단결정 반도체 직접 변환 기반 저선량 고해상도 디지털 방사선 영상 계측 기술`
+- [광촉매 물분해와 태양광 수소 생산의 언어](./advanced-photocatalytic-water-splitting-and-solar-hydrogen/README.md) — `가시광 흡수 반도체 광촉매 및 전하 분리 제어 기반 무탄소 태양광 그린 수소 제조 기술`
+- [프로그래머블 메타물질과 형상기억합금의 언어](./advanced-programmable-metamaterials-and-shape-memory-alloys/README.md) — `형상기억합금 복합체 및 4D 프린팅 기반 가역 변형 지능형 기계 메타 구조 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
