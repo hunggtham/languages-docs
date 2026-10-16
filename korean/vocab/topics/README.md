@@ -56,6 +56,271 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [디지털 권리와 플랫폼 거버넌스의 언어](./advanced-digital-rights-and-platform-governance/README.md) — `데이터 권리와 플랫폼 통제`
 - [식량안보와 농업정책의 언어](./advanced-food-security-and-agricultural-policy/README.md) — `식량 공급과 농촌 전환`
 - [이동권과 교통정책의 고급 언어](./advanced-mobility-and-transport-policy/README.md) — `도시 이동과 교통 전환`
+- [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
+- [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
+- [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
+- [재난 위험과 공동체 회복의 언어](./advanced-disaster-risk-and-resilience/README.md) — `재난 위험을 줄이고 공동체를 회복하다`
+- [종교·영성과 세속사회의 언어](./religion-spirituality-and-secular-society/README.md) — `종교와 세속사회의 경계를 읽다`
+- [한국어 의미 구조와 담화의 언어](./advanced-korean-linguistics-and-discourse/README.md) — `의미를 구성하고 담화 맥락을 읽다`
+- [고고학과 문화유산의 과학 언어](./advanced-archaeological-science-and-heritage/README.md) — `고고학적 증거와 유산의 맥락을 읽다`
+- [시각문화와 미술비평의 언어](./advanced-visual-culture-and-art-criticism/README.md) — `형식과 맥락, 관객의 시선을 읽다`
+- [해양 생태계와 해양 거버넌스의 언어](./advanced-ocean-and-marine-governance/README.md) — `바다의 생태와 공동 관리의 쟁점을 읽다`
+- [음악과 공연의 언어](./advanced-music-and-performance-language/README.md) — `소리와 무대의 수행 방식을 읽다`
+- [천문학과 우주정책의 언어](./advanced-astronomy-and-space-policy/README.md) — `하늘의 관측과 우주정책을 읽다`
+- [생물다양성과 산림보전의 언어](./advanced-biodiversity-and-forest-conservation/README.md) — `생태 연결성과 숲의 회복을 읽다`
+- [대기과학과 극한기상의 언어](./advanced-atmospheric-science-and-extreme-weather/README.md) — `대기의 흐름과 극한기상을 읽다`
+- [기록과 공공기억 보존의 언어](./advanced-archival-science-and-public-memory/README.md) — `진본성과 장기 보존의 쟁점을 읽다`
+- [작물 생리와 기후 회복력의 언어](./advanced-crop-physiology-and-climate-resilience/README.md) — `작물 스트레스와 회복력을 읽다`
+- [편집과 출판 실무의 언어](./advanced-editorial-and-publishing-practice/README.md) — `원고와 책의 생애를 읽다`
+- [항공 안전과 항공교통의 언어](./advanced-aviation-safety-and-air-traffic/README.md) — `비행 흐름과 안전 관리를 읽다`
+- [순환경제와 폐기물 관리의 언어](./advanced-circular-economy-and-waste-management/README.md) — `폐기물 흐름과 자원 회수를 읽다`
+- [지구 시스템과 지질 재해의 언어](./advanced-earth-systems-and-geohazards/README.md) — `지질 재해와 지표 변화를 읽다`
+- [양자컴퓨팅과 암호 전환의 언어](./advanced-quantum-computing-and-cryptographic-transition/README.md) — `양자 기술과 암호 전환을 읽다`
+- [번역과 통역 실무의 고급 언어](./advanced-translation-and-interpreting-practice/README.md) — `번역과 통역의 선택과 책임`
+- [지리공간 분석과 도시 감지의 언어](./advanced-geospatial-and-urban-sensing/README.md) — `공간 패턴과 도시 감지를 읽다`
+- [반도체 제조와 수율의 언어](./advanced-semiconductor-fabrication-and-yield/README.md) — `미세화 공정과 수율을 읽다`
+- [화학 안전과 실험실 실무의 언어](./advanced-chemical-safety-and-laboratory-practice/README.md) — `방법 검증과 실험실 안전을 읽다`
+- [생태독성과 환경위험의 언어](./advanced-ecotoxicology-and-environmental-risk/README.md) — `생태독성과 환경위험을 읽다`
+- [기업지배구조와 주주권리의 언어](./advanced-corporate-governance-and-shareholder-rights/README.md) — `주주권리와 이사회 거버넌스를 읽다`
+- [임상연구와 생명의학 근거의 언어](./advanced-clinical-research-and-biomedical-evidence/README.md) — `임상시험 설계와 약물 반응을 읽다`
+- [자동화와 일의 재설계의 언어](./advanced-automation-and-workplace-redesign/README.md) — `자동화와 숙련의 변화를 읽다`
+- [철도공학과 교통 회복력의 언어](./advanced-railway-engineering-and-transport-resilience/README.md) — `철도 안전과 수송 회복력을 읽다`
+- [우주비행공학과 궤도운영의 언어](./advanced-spaceflight-engineering-and-orbital-operations/README.md) — `궤도운영과 우주임무 설계를 읽다`
+- [로봇공학과 인간-기계 협업의 언어](./advanced-robotics-and-human-machine-collaboration/README.md) — `사람과 로봇의 협업 조건을 읽다`
+- [입헌민주주의와 제도적 통제의 언어](./advanced-constitutional-democracy-and-institutional-checks/README.md) — `헌법해석과 제도적 통제를 읽다`
+- [행동경제학과 의사결정과학의 언어](./advanced-behavioral-economics-and-decision-science/README.md) — `편향과 선택설계를 읽다`
+- [통신망 회복력과 장애조치의 언어](./advanced-telecommunications-network-resilience/README.md) — `끊겨도 이어지는 통신망을 읽다`
+- [연구 설계와 추론의 언어](./advanced-research-design-and-inference/README.md) — `측정과 일반화를 읽다`
+- [토양과 토지 복원의 언어](./advanced-soil-science-and-land-restoration/README.md) — `토양 건강과 토지 복원을 읽다`
+- [인지신경과학과 사회인지의 언어](./advanced-cognitive-neuroscience-and-social-cognition/README.md) — `뇌의 적응과 사회인지의 조건을 읽다`
+- [감염병 감시와 원헬스의 언어](./advanced-infectious-disease-surveillance-and-one-health/README.md) — `감염병 감시와 원헬스 협력을 읽다`
+- [디지털 포렌식과 증거의 언어](./advanced-digital-forensics-and-evidence/README.md) — `디지털 증거와 포렌식 절차를 읽다`
+- [공공조달과 청렴성의 언어](./advanced-public-procurement-and-integrity/README.md) — `조달 절차와 청렴성을 읽다`
+- [에너지 전환과 전력망 유연성의 언어](./advanced-energy-transition-and-grid-flexibility/README.md) — `전력망 유연성과 에너지 전환을 읽다`
+- [바이오공정과 미생물 발효의 언어](./advanced-bioprocessing-and-microbial-fermentation/README.md) — `미생물 발효와 공정 스케일업을 읽다`
+- [공급망 회복력과 산업조달의 언어](./advanced-supply-chain-resilience-and-industrial-procurement/README.md) — `공급망 회복과 산업조달을 읽다`
+- [신경기술과 뇌-컴퓨터 인터페이스의 언어](./advanced-neurotechnology-and-brain-computer-interfaces/README.md) — `신경신호와 재활 인터페이스를 읽다`
+- [보험 위험과 보장 설계의 언어](./advanced-insurance-risk-and-coverage-design/README.md) — `위험을 나누고 보장 범위를 판단하는 말`
+- [심리측정과 학습 근거의 언어](./advanced-psychometric-assessment-and-learning-evidence/README.md) — `평가 설계와 학습 궤적을 읽다`
+- [프라이버시 공학과 데이터 거버넌스의 언어](./advanced-privacy-engineering-and-data-governance/README.md) — `데이터를 보호하고 책임 있게 설계하다`
+- [도시 열과 공중보건의 언어](./advanced-urban-heat-and-public-health/README.md) — `열 노출과 건강 대응을 읽다`
+- [양식업과 수산 거버넌스의 언어](./advanced-aquaculture-and-fisheries-governance/README.md) — `양식 생산과 수산 자원 관리를 읽다`
+- [사이버 보안 사고 대응의 언어](./advanced-cybersecurity-incident-response/README.md) — `침해사고를 탐지하고 대응하다`
+- [치매 돌봄과 노년 서비스의 언어](./advanced-dementia-care-and-aging-services/README.md) — `돌봄 경로와 노년 서비스를 읽다`
+- [교통요금과 도시 이동성의 언어](./advanced-transit-pricing-and-urban-mobility/README.md) — `요금 설계와 도시 이동을 읽다`
+- [해안 적응과 기후 이동의 언어](./advanced-coastal-adaptation-and-climate-migration/README.md) — `해안선 변화와 기후 이동을 읽다`
+- [마이크로바이옴과 대사 건강의 언어](./advanced-microbiome-and-metabolic-health/README.md) — `미생물 생태와 대사 건강의 근거를 읽다`
+- [지열 에너지와 열 탈탄소화의 언어](./advanced-geothermal-energy-and-heat-decarbonization/README.md) — `지열 자원과 열 전환을 읽다`
+- [산불 연기와 공중보건의 언어](./advanced-wildfire-smoke-and-public-health/README.md) — `연기 노출과 건강 대응을 읽다`
+- [핵심광물과 희토류 재활용의 언어](./advanced-critical-minerals-and-rare-earth-recycling/README.md) — `자원 안보와 순환 회수를 읽다`
+- [장기이식과 생명윤리의 언어](./advanced-organ-transplant-and-bioethics/README.md) — `이식 적합성과 생명윤리를 읽다`
+- [원격의료와 디지털 헬스의 언어](./advanced-telemedicine-and-digital-health/README.md) — `원격 진료와 건강 데이터의 흐름을 읽다`
+- [하수 처리와 물 재이용의 언어](./advanced-wastewater-treatment-and-water-reuse/README.md) — `수질 정화와 물 순환을 읽다`
+- [수소 저장과 산업 안전의 언어](./advanced-hydrogen-storage-and-industrial-safety/README.md) — `수소 저장과 공정 안전을 읽다`
+- [로봇수술과 의료기기 안전의 언어](./advanced-robotic-surgery-and-medical-devices/README.md) — `수술 경로와 기기 안전을 읽다`
+- [도시 생물다양성과 녹색 인프라의 언어](./advanced-urban-biodiversity-and-green-infrastructure/README.md) — `도시 생태 연결성과 녹색 기반시설을 읽다`
+- [양자 센싱과 계측의 언어](./advanced-quantum-sensing-and-metrology/README.md) — `정밀 측정과 양자 센서를 읽다`
+- [홍수 위험과 유역 거버넌스](./advanced-flood-risk-and-river-basin-governance/README.md) — `홍수 위험을 측정하고 유역의 대응을 조정하다`
+- [탄소 포집과 지중 저장의 언어](./advanced-carbon-capture-and-geological-storage/README.md) — `탄소를 포집하고 지중에 안전하게 격리하다`
+- [배터리 화학과 에너지 저장 장치 안전의 언어](./advanced-battery-chemistry-and-energy-storage-safety/README.md) — `배터리 열전파를 막고 에너지 저장을 안정화하다`
+- [합성생물학과 대사공학의 언어](./advanced-synthetic-biology-and-metabolic-engineering/README.md) — `미생물 대사경로를 설계하고 세포공장을 최적화하다`
+- [위성 통신과 궤도 군집의 언어](./advanced-satellite-communications-and-orbital-constellations/README.md) — `저궤도 위성 통신과 궤도 군집 운용`
+- [핵융합과 플라스마 공학의 언어](./advanced-nuclear-fusion-and-plasma-engineering/README.md) — `초고온 플라스마 가둠과 핵융합 실증로`
+- [나노소재와 표면공학의 언어](./advanced-nanomaterials-and-surface-engineering/README.md) — `나노구조 제어와 박막 표면 개질`
+- [자율운항선박과 해양로봇의 언어](./advanced-autonomous-vessels-and-maritime-robotics/README.md) — `해상 자율운항과 무인 원격 관제`
+- [약물유전체학과 정밀치료의 언어](./advanced-pharmacogenomics-and-precision-therapeutics/README.md) — `유전체 변이 분석과 맞춤형 약물 요법`
+- [반도체 첨단 패키징과 이종 집적의 언어](./advanced-semiconductor-packaging-and-heterogeneous-integration/README.md) — `칩렛 구조와 첨단 이종 집적 패키징`
+- [자율주행과 센서 융합 인지의 언어](./advanced-autonomous-driving-and-sensor-fusion/README.md) — `다중 센서 융합과 실시간 자율주행 인지·판단`
+- [기후 지구공학과 태양복사 관리의 언어](./advanced-climate-geoengineering-and-albedo-modification/README.md) — `태양복사 관리와 지구공학 거버넌스`
+- [해저 광물 채굴과 저서 생태계 보전의 언어](./advanced-deep-sea-mining-and-benthic-ecosystems/README.md) — `심해 광물 자원과 저서 생태계 보전`
+- [뉴로모픽 컴퓨팅과 스파이킹 신경망의 언어](./advanced-neuromorphic-computing-and-spiking-neural-networks/README.md) — `인간 뇌를 모사하는 초저전력 인공지능 반도체`
+- [항공우주 복합재와 구조건전성의 언어](./advanced-aerospace-composite-materials-and-structural-health/README.md) — `항공기 첨단 복합재와 실시간 구조 진단`
+- [전력망 사이버 복원력과 운영기술 보안의 언어](./advanced-grid-cyber-resilience-and-ot-security/README.md) — `국가 핵심 전력망과 제어시스템 사이버 방어`
+- [재생농업과 토양 탄소 축적의 언어](./advanced-regenerative-agriculture-and-soil-carbon-sequestration/README.md) — `생태계 회복형 농업과 토양 탄소 격리`
+- [양자암호통신과 양자키분배의 언어](./advanced-quantum-cryptography-and-post-quantum-key-exchange/README.md) — `양자 키 분배와 후양자 암호 전환`
+- [정밀 영양과 대사체 프로파일링의 언어](./advanced-personalized-nutrition-and-metabolic-profiling/README.md) — `대사체 분석과 개인 맞춤형 임상 영양 중재`
+- [탄소중립 합성연료와 이퓨얼의 언어](./advanced-carbon-neutral-synthetic-fuels-and-efuels/README.md) — `탄소 재활용 합성연료와 수송 부문 탈탄소화`
+- [인공지능 윤리와 알고리즘 거버넌스의 언어](./advanced-ai-ethics-and-algorithmic-governance/README.md) — `인공지능 거버넌스와 알고리즘 신뢰성 규제`
+- [지능형 전력망과 가상발전소의 언어](./advanced-smart-grid-and-virtual-power-plants/README.md) — `가상발전소와 분산에너지 지능형 전력망 제어`
+- [정밀 발효와 세포 농업의 언어](./advanced-precision-fermentation-and-cellular-agriculture/README.md) — `세포 농업과 미생물 정밀 발효 기반 단백질 혁신`
+- [수소 운송과 액상 유기 수소 운반체의 언어](./advanced-hydrogen-transport-and-organic-carriers/README.md) — `대용량 수소 운송과 수소 캐리어 저장 인프라`
+- [심부 지열 에너지와 지역난방의 언어](./advanced-deep-geothermal-energy-and-district-heating/README.md) — `심부 지열 발전과 지속가능한 지역난방 열망 연계`
+- [재활 로봇공학과 착용형 외골격의 언어](./advanced-rehabilitation-robotics-and-wearable-exoskeletons/README.md) — `착용형 외골격 로봇과 신경근 재활 중재`
+- [우주 추진과 궤도상 서비스의 언어](./advanced-space-propulsion-and-in-orbit-servicing/README.md) — `전기 추진 시스템과 궤도상 위성 서비스 자율 운용`
+- [차세대 디스플레이와 마이크로LED의 언어](./advanced-next-generation-displays-and-microled/README.md) — `마이크로LED와 무기 발광 소자 기반 초고해상도 디스플레이`
+- [뇌-컴퓨터 인터페이스와 신경 디코딩의 언어](./advanced-brain-computer-interfaces-and-neural-decoding/README.md) — `신경 신호 디코딩과 뇌-컴퓨터 인터페이스 제어`
+- [페로브스카이트 탠덤 태양전지의 언어](./advanced-perovskite-tandem-solar-cells/README.md) — `페로브스카이트 탠덤 태양전지와 차세대 광전 변환 기술`
+- [산업용 디지털 트윈과 사이버 물리 제조의 언어](./advanced-industrial-digital-twins-and-cyber-physical-systems/README.md) — `산업용 디지털 트윈과 지능형 공정 가상 시운전`
+- [바이오플라스틱과 생분해성 고분자의 언어](./advanced-bioplastics-and-biodegradable-polymers/README.md) — `생분해성 고분자와 바이오매스 플라스틱 순환 경제`
+- [해양 알칼리화와 해양 탄소 제거의 언어](./advanced-ocean-alkalinity-and-marine-cdr/README.md) — `해양 알칼리도 증진과 심해 탄소 격리 기술`
+- [광양자 컴퓨팅과 광자 큐비트의 언어](./advanced-photonic-quantum-computing/README.md) — `집적 광학 회로와 상온 광양자 연산 아키텍처`
+- [전고체 배터리와 고체 전해질의 언어](./advanced-solid-state-batteries-and-solid-electrolytes/README.md) — `고체 전해질 계면 제어와 차세대 전고체 전지 기술`
+- [mRNA 치료제와 지질 나노입자의 언어](./advanced-mrna-therapeutics-and-lipid-nanoparticles/README.md) — `mRNA 백신 플랫폼과 지질 나노입자 표적 약물 전달체`
+- [소형 모듈 원자로와 4세대 원자력의 언어](./advanced-small-modular-reactors-and-molten-salt/README.md) — `소형 모듈 원자로와 피동형 안전 계통 설계`
+- [와이드 밴드갭 전력반도체의 언어](./advanced-wide-bandgap-power-semiconductors/README.md) — `질화갈륨 및 탄화규소 기반 차세대 전력반도체`
+- [군집 드론과 도심 항공 모빌리티의 언어](./advanced-drone-swarms-and-urban-air-mobility/README.md) — `군집 비행 자율제어와 도심 항공 모빌리티 운항 관제`
+- [수소환원제철과 친환경 철강의 언어](./advanced-green-steel-and-hydrogen-direct-reduction/README.md) — `수소환원제철과 전기로 기반 무탄소 철강 제조`
+- [직접 공기 포집과 고체 흡착제의 언어](./advanced-direct-air-capture-and-solid-sorbents/README.md) — `고체 흡착 기반 직접 공기 포집과 재생 에너지 공정`
+- [생체전자약과 미주신경 자극의 언어](./advanced-bioelectronic-medicine-and-vagus-stimulation/README.md) — `생체전자약과 미주신경 자극 기반 신경면역 조절`
+- [자율무인잠수정과 해저 군집 탐사의 언어](./advanced-autonomous-underwater-vehicles-and-subsea-fleets/README.md) — `자율무인잠수정과 심해 군집 협업 탐사 기술`
+- [메타물질과 변환 광학의 언어](./advanced-metamaterials-and-transformation-optics/README.md) — `인공 메타물질과 변환 광학 기반 파동 제어`
+- [흐름 전지와 장주기 에너지 저장의 언어](./advanced-flow-batteries-and-long-duration-storage/README.md) — `바나듐 흐름 전지와 대용량 장주기 에너지 저장 기술`
+- [이종 장기 이식과 생체 장기 공학의 언어](./advanced-xenotransplantation-and-organ-engineering/README.md) — `유전자 교정 기반 이종 장기 이식과 거부반응 극복`
+- [산업용 초분광 영상과 비파괴 검사의 언어](./advanced-industrial-hyperspectral-imaging-and-quality-control/README.md) — `초분광 영상 기반 비파괴 공정 검사와 분광 데이터 분석`
+- [탄소 광물화와 산업 부산물 순환의 언어](./advanced-carbon-mineralization-and-industrial-waste-upcycling/README.md) — `산업 부산물 기반 탄소 광물화와 친환경 건자재 제조`
+- [원자력 열추진과 심우주 탐사의 언어](./advanced-nuclear-thermal-propulsion-and-deep-space/README.md) — `원자력 열추진 로켓과 심우주 유인 탐사 기술`
+- [전기화학적 탄소 전환과 전해 공학의 언어](./advanced-electrochemical-carbon-utilization-and-co2-electrolysis/README.md) — `이산화탄소 전해 환원과 전기화학적 탄소 순환 플랫폼`
+- [실리콘 포토닉스와 공동 패키징 광학의 언어](./advanced-silicon-photonics-and-co-packaged-optics/README.md) — `실리콘 포토닉스 기반 광전 집적과 공동 패키징 광학 시스템`
+- [합성생물학 바이오센서와 분자 진단의 언어](./advanced-synthetic-biology-biosensors-and-molecular-diagnostics/README.md) — `합성생물학 기반 바이오센서와 유전자 회로 분자 진단`
+- [고체 산화물 연료전지와 고온 수전해의 언어](./advanced-solid-oxide-fuel-cells-and-electrolyzers/README.md) — `고체 산화물 연료전지와 고온 수전해 기반 청정 에너지 변환`
+- [에지 뉴로모픽 인공지능과 인메모리 컴퓨팅의 언어](./advanced-edge-neuromorphic-ai-and-compute-in-memory/README.md) — `프로세싱 인 메모리와 에지 지능형 뉴로모픽 반도체`
+- [첨단 표면 코팅과 트라이볼로지의 언어](./advanced-advanced-surface-coatings-and-tribology/README.md) — `극저마찰 나노 코팅과 극한 환경 내마모 표면 공학`
+- [탄소 섬유 복합재와 자동화 제조 공정의 언어](./advanced-carbon-fiber-composites-and-automated-manufacturing/README.md) — `탄소 섬유 복합재 자동 적층 공정과 친환경 수지 순환 제조`
+- [고온 초전도 자석과 토카막 핵융합의 언어](./advanced-superconducting-magnets-and-tokamak-fusion/README.md) — `고온 초전도 자석과 토카막 플라스마 자기 밀폐 기술`
+- [표적 단백질 분해와 분자 접착제의 언어](./advanced-targeted-protein-degradation-and-molecular-glues/README.md) — `프로탁 및 분자 접착제 기반 표적 단백질 분해 신약 기술`
+- [테라헤르츠 무선 통신과 차세대 네트워크의 언어](./advanced-terahertz-wireless-communications-and-sub-thz/README.md) — `서브 테라헤르츠 대역 무선 통신과 초광대역 빔포밍 인프라`
+- [해양 온도차 발전과 염도차 에너지의 언어](./advanced-ocean-thermal-energy-and-salinity-gradient-power/README.md) — `해양 온도차 발전과 압력 지연 삼투 기반 청정 해양 에너지`
+- [위상 절연체와 차세대 스핀트로닉스의 언어](./advanced-topological-insulators-and-spintronics/README.md) — `위상 절연체 표면 상태와 스핀 궤도 토크 기반 저전력 소자`
+- [직접 리튬 추출과 지열 염수 자원화의 언어](./advanced-direct-lithium-extraction-and-geothermal-brine/README.md) — `지열 염수 기반 친환경 직접 리튬 추출과 막 분리 정제`
+- [전계발광 양자점과 차세대 자발광 디스플레이의 언어](./advanced-quantum-dots-and-electroluminescent-displays/README.md) — `전계발광 양자점 디스플레이와 초고색재현 자발광 기술`
+- [미생물 셀룰로오스와 생체 조직 지지체의 언어](./advanced-bacterial-cellulose-and-biomedical-scaffolds/README.md) — `미생물 유래 나노셀룰로오스와 맞춤형 생체 조직 지지체 기술`
+- [고체 냉각과 열량 효과 신소재의 언어](./advanced-solid-state-cooling-and-caloric-materials/README.md) — `무냉매 열량 효과 기반 친환경 고체 냉각 기술`
+- [천연 백색 수소와 지질학적 수소 탐사의 언어](./advanced-geological-hydrogen-and-natural-white-hydrogen/README.md) — `사문암화 반응 기반 천연 백색 수소 지중 매장 탐사 기술`
+- [생체 융합 로봇공학과 생체 구동기의 언어](./advanced-bio-hybrid-robotics-and-living-actuators/README.md) — `살아있는 근육 세포 기반 생체 융합 로봇 액추에이터 기술`
+- [광결정 광섬유와 초연속 스펙트럼의 언어](./advanced-photonic-crystal-fibers-and-supercontinuum-generation/README.md) — `미세구조 광결정 광섬유와 초광대역 초연속 레이저 기술`
+- [탄소 나노튜브 반도체와 초미세 공정의 언어](./advanced-carbon-nanotube-semiconductors-and-sub-1nm/README.md) — `서브 나노미터 탄소 나노튜브 트랜지스터와 집적회로 기술`
+- [페로브스카이트 광검출기와 단파적외선 센싱의 언어](./advanced-perovskite-photodetectors-and-swir-sensing/README.md) — `초고감도 비독성 페로브스카이트 단파적외선 광센서 기술`
+- [파력 발전과 점흡수식 부이 시스템의 언어](./advanced-ocean-wave-energy-and-point-absorbers/README.md) — `고효율 점흡수식 부이 파랑 에너지 변환 및 발전 기술`
+- [지향적 진화와 맞춤형 효소 단백질 공학의 언어](./advanced-directed-evolution-and-enzyme-engineering/README.md) — `초고속 스크리닝 기반 효소 지향적 진화 및 생체 촉매 기술`
+- [광유전학과 정밀 뇌신경 회로 제어의 언어](./advanced-optogenetics-and-neural-circuit-mapping/README.md) — `빛 반응 단백질 기반 초정밀 광유전학 신경망 매핑 기술`
+- [대기 수분 포집과 금속 유기 골격체의 언어](./advanced-atmospheric-water-harvesting-and-mof/README.md) — `다공성 금속 유기 골격체 기반 초저습도 대기 수분 포집 기술`
+- [액체 금속 전지와 전력망 에너지 저장의 언어](./advanced-liquid-metal-batteries-and-grid-scale-storage/README.md) — `고온 용융염 및 액체 금속 전지 기반 장주기 에너지 저장 기술`
+- [음향 메타물질과 음향 클로킹 기술의 언어](./advanced-acoustic-metamaterials-and-sonic-cloaking/README.md) — `국소 공진형 음향 메타물질과 음파 경로 조작 기술`
+- [프라임 에디팅과 차세대 유전자 교정의 언어](./advanced-crispr-prime-editing-and-genetic-correction/README.md) — `역전사 융합 단백질 기반 초정밀 프라임 유전자 에디팅 기술`
+- [실리콘 음극재와 전고체 전해질 계면의 언어](./advanced-silicon-anodes-and-solid-state-electrolytes/README.md) — `고용량 실리콘 음극과 황화물계 전고체 전해질 계면 안정화 기술`
+- [뉴로모픽 비전 센서와 이벤트 기반 카메라의 언어](./advanced-neuromorphic-vision-sensors-and-event-cameras/README.md) — `비동기 픽셀 신호 기반 초고속 뉴로모픽 이벤트 비전 기술`
+- [우주 태양광 발전과 무선 전력 전송의 언어](./advanced-space-solar-power-and-microwave-wireless-transmission/README.md) — `정지궤도 우주 태양광 발전 및 마이크로웨이브 전력 전송 기술`
+- [극저온 탄소 포집과 승화 분리 기술의 언어](./advanced-cryogenic-carbon-capture-and-sublimation/README.md) — `상변화 기반 극저온 이산화탄소 동결 포집 및 승화 분리 공학`
+- [생체 모사 의수족과 근전도 제어의 언어](./advanced-bionic-prosthetics-and-myoelectric-control/README.md) — `다채널 근전도 및 신경 직접 연계 기반 생체 모사 로봇 의지 기술`
+- [심해 채광 로봇과 망간단괴 채집의 언어](./advanced-deep-sea-mining-robotics-and-nodule-collection/README.md) — `초심해 극한 환경 자율주행 채광 로봇 및 단괴 회수 기술`
+- [미생물 전기합성과 고부가가치 화학물질 생산의 언어](./advanced-microbial-electrosynthesis-and-value-added-chemicals/README.md) — `생물전기화학 기반 이산화탄소 환원 및 유기 화합물 바이오 합성 기술`
+- [다이아몬드 질소 공공 양자 센서의 언어](./advanced-diamond-quantum-sensors-and-nv-centers/README.md) — `상온 질소-공공 센터 기반 초정밀 나노스케일 양자 계측 기술`
+- [초임계 이산화탄소 발전과 터보기계 공학의 언어](./advanced-supercritical-co2-power-cycles-and-turbomachinery/README.md) — `고온 고효율 초임계 이산화탄소 브레이턴 사이클 발전 기술`
+- [초표면 평면 광학 및 메타렌즈의 언어](./advanced-metasurface-flat-optics-and-metalenses/README.md) — `서브 파장 나노 구조 기반 초표면 평면 광학 및 메타렌즈 기술`
+- [반도체 변압기와 스마트 변전소의 언어](./advanced-solid-state-transformers-and-smart-substations/README.md) — `고전압 전력 전자 기반 반도체 변압기 및 스마트 배전망 기술`
+- [압전 에너지 하베스팅과 웨어러블 전원의 언어](./advanced-piezoelectric-energy-harvesting-and-wearables/README.md) — `유연 나노 압전 발전기 기반 자가 발전 및 웨어러블 전원 기술`
+- [RNA 간섭 치료제와 핵산 전달체의 언어](./advanced-rna-interfering-therapeutics-and-sirna-delivery/README.md) — `지질 나노입자 기반 소간섭 RNA 전달 및 표적 유전자 침묵 기술`
+- [초전도 자기부상과 하이퍼루프 튜브의 언어](./advanced-magnetic-levitation-trains-and-hyperloop-tubes/README.md) — `아진공 튜브 기반 초고속 초전도 자기부상 하이퍼루프 기술`
+- [금속 수소화물과 고체 수소 저장의 언어](./advanced-metal-hydride-hydrogen-storage-and-solid-hydrides/README.md) — `상온 저압 고밀도 고체 금속 수소화물 수소 저장 기술`
+- [페로브스카이트 탠덤 태양전지와 실리콘 융합의 언어](./advanced-perovskite-tandem-solar-cells-and-silicon-integration/README.md) — `실리콘 이중접합 기반 페로브스카이트 탠덤 태양전지 고효율 발전 기술`
+- [시냅스 트랜지스터와 뇌 모사 컴퓨팅의 언어](./advanced-synaptic-transistors-and-brain-inspired-computing/README.md) — `생체 시냅스 가소성 모사 기반 초저전력 뉴로모픽 트랜지스터 기술`
+- [하이드로겔 구동기와 소프트 로보틱스의 언어](./advanced-hydrogel-actuators-and-soft-robotics/README.md) — `자극 감응형 고분자 네트워크 기반 지능형 하이드로겔 소프트 액추에이터 기술`
+- [냉각 원자 간섭계와 양자 중력계의 언어](./advanced-cold-atom-interferometry-and-quantum-gravimetry/README.md) — `레이저 포집 원자 물질파 간섭 기반 초정밀 양자 절대 중력 계측 기술`
+- [연속 흐름 화학과 마이크로리액터의 언어](./advanced-continuous-flow-chemistry-and-microreactors/README.md) — `미세 유체 반응기 기반 정밀 연속 흐름 유기 합성 및 열폭주 제어 기술`
+- [열전 발전과 폐열 회수 기술의 언어](./advanced-thermoelectric-generators-and-waste-heat-harvesting/README.md) — `제베크 효과 나노 복합 열전 소재 기반 산업 폐열 회수 발전 기술`
+- [변환 광학과 메타물질 클로킹의 언어](./advanced-metamaterial-cloaking-and-transformation-optics/README.md) — `좌표 변환 기반 메타물질 전자기파 굴절 제어 및 비가시화 클로킹 기술`
+- [뇌 기계 인터페이스와 신경 임플란트의 언어](./advanced-brain-computer-interfaces-and-neural-implants/README.md) — `초미세 유연 신경 전극 기반 피질 다채널 신호 기록 및 양방향 신경 인터페이스 기술`
+- [페로브스카이트 양자점과 차세대 디스플레이의 언어](./advanced-perovskite-quantum-dot-displays-and-color-filters/README.md) — `초고색순도 무카드뮴 페로브스카이트 양자점 기반 자발광 디스플레이 및 색변환 필터 기술`
+- [그래핀 에어로겔과 축전식 탈염의 언어](./advanced-graphene-aerogels-and-electrochemical-desalination/README.md) — `3차원 초다공성 그래핀 에어로겔 전극 기반 고효율 축전식 해수 탈염 기술`
+- [고체 산화물 수전해와 청정 합성가스의 언어](./advanced-solid-oxide-electrolysis-and-green-syngas/README.md) — `고온 수증기 및 이산화탄소 동시 전해 기반 청정 합성가스 고효율 생산 기술`
+- [나노 유체 삼투 발전과 블루 에너지의 언어](./advanced-nanofluidic-osmotic-power-and-blue-energy/README.md) — `2차원 적층 나노 채널 분리막 기반 하구 염도차 블루 에너지 수확 기술`
+- [자기 냉각 기술과 자기열량 합금의 언어](./advanced-magnetic-refrigeration-and-magnetocaloric-alloys/README.md) — `가돌리늄계 자기열량 합금 스핀 엔트로피 기반 친환경 고체 냉동 사이클 기술`
+- [재구성 가능 지능형 표면과 6G 메타 안테나의 언어](./advanced-metamaterial-antennas-and-ris-smart-surfaces/README.md) — `6G 초표면 무선 통신 반사 기반 도심 전파 음영 해소 및 능동·수동 하이브리드 표면 기술`
+- [생체 전자약과 미주신경 자극 치료의 언어](./advanced-bio-electronic-medicines-and-vagus-nerve-stimulation/README.md) — `미주신경 전기 자극 기반 염증 반응 신경 조절 및 체내 이식형 표적 신경 치료 기술`
+- [금속 공기 전지와 공기 호흡형 양극의 언어](./advanced-metal-air-batteries-and-air-breathing-cathodes/README.md) — `공기 호흡형 가스 확산 양극 및 산소 환원·발생 촉매 기반 초고에너지밀도 금속 공기 전지 기술`
+- [공간 전사체학과 원위치 염기서열 분석의 언어](./advanced-spatially-resolved-transcriptomics-and-in-situ-sequencing/README.md) — `조직 미세환경 단일 세포 공간 바코딩 및 다중 분자 형광 인시추 혼성화 기반 정밀 오믹스 분석 기술`
+- [포노닉 크리스탈과 음향 밴드갭의 언어](./advanced-phononic-crystals-and-acoustic-insulation/README.md) — `주기적 격자 산란 구조 기반 탄성파 밴드갭 형성 및 기계적 소음·진동 완전 차단 기술`
+- [슈퍼커패시터 소재와 의사 커패시턴스의 언어](./advanced-metamaterial-supercapacitors-and-pseudocapacitive-storage/README.md) — `의사 커패시턴스 나노 복합체 전극 기반 초고출력 급속 충전 및 고효율 에너지 저장 기술`
+- [액체 생체 검사와 순환 종양 세포 분리의 언어](./advanced-liquid-biopsy-and-circulating-tumor-cell-isolation/README.md) — `미세유체역학 기반 순환 종양 세포 분리 및 비침습적 혈중 암 유전체 동반 진단 기술`
+- [이산화탄소 광물화와 친환경 그린 콘크리트의 언어](./advanced-carbon-dioxide-mineralization-and-green-concrete/README.md) — `온실가스 영구 광물 탄산화 및 산업 부산물 슬래그 활용 기반 탄소 마이너스 건축 소재 기술`
+- [페로브스카이트 단결정과 차세대 방사선 검출기의 언어](./advanced-perovskite-single-crystal-radiation-detectors/README.md) — `페로브스카이트 단결정 반도체 직접 변환 기반 저선량 고해상도 디지털 방사선 영상 계측 기술`
+- [광촉매 물분해와 태양광 수소 생산의 언어](./advanced-photocatalytic-water-splitting-and-solar-hydrogen/README.md) — `가시광 흡수 반도체 광촉매 및 전하 분리 제어 기반 무탄소 태양광 그린 수소 제조 기술`
+- [프로그래머블 메타물질과 형상기억합금의 언어](./advanced-programmable-metamaterials-and-shape-memory-alloys/README.md) — `형상기억합금 복합체 및 4D 프린팅 기반 가역 변형 지능형 기계 메타 구조 기술`
+- [메타표면 홀로그래피와 라이트 필드 디스플레이의 언어](./advanced-metasurface-holography-and-light-field-displays/README.md) — `서브파장 나노 격자 기반 위상 변조 및 광시야각 무안경 3차원 입체 디스플레이 기술`
+- [압전 생체 재료와 조직 재생 공학의 언어](./advanced-piezoelectric-biomaterials-and-tissue-regeneration/README.md) — `생체전기기계적 자극 및 자가발전 생체 스캐폴드 기반 인체 조직 재생 가속화 기술`
+- [리튬황 전지와 폴리설파이드 셔틀 억제의 언어](./advanced-lithium-sulfur-batteries-and-polysulfide-shuttling/README.md) — `폴리설파이드 셔틀 억제 및 다기능성 분리막 계면 엔지니어링 기반 초경량 리튬황 이차전지 기술`
+- [뉴로모픽 비전 센서와 이벤트 기반 카메라의 언어](./advanced-neuromorphic-vision-sensors-and-event-based-cameras/README.md) — `생체 망막 모사 비동기 이벤트 감지 및 스파이킹 신경망 연동 기반 초저전력 머신비전 기술`
+- [미생물 전기화학 시스템과 폐수 자원 회수의 언어](./advanced-microbial-electrochemical-systems-and-resource-recovery/README.md) — `세균 세포외 전자전달 및 전기활성 생물막 기반 폐수 처리 동시 전력·자원 회수 기술`
+- [전기열량 고분자와 고체 냉각 기술의 언어](./advanced-solid-state-cooling-and-electrocaloric-polymers/README.md) — `전기장 유도 엔트로피 변화 기반 무냉매 고효율 고체 냉각 및 반도체 핫스팟 열관리 기술`
+- [다이아몬드 반도체와 초고전력 전자기술의 언어](./advanced-diamond-semiconductors-and-high-power-electronics/README.md) — `초광대역 밴드갭 및 초고열전도도 기반 극한 물성 다이아몬드 전력 반도체 소자 기술`
+- [양자 카스케이드 레이저와 중적외선 분광학의 언어](./advanced-quantum-cascade-lasers-and-mid-infrared-spectroscopy/README.md) — `서브밴드 전이 및 중적외선 분광학 기반 미량 유해 가스 실시간 검출 기술`
+- [초발수 코팅과 결빙 방지 계면 공학의 언어](./advanced-superhydrophobic-coatings-and-anti-icing-surfaces/README.md) — `연잎 효과 나노 마이크로 구조 및 접촉각 극대화 기반 극한 기후 방빙·제빙 계면 기술`
+- [웨어러블 열전 발전과 체온 에너지 수확의 언어](./advanced-wearable-thermoelectric-generators-and-body-heat-harvesting/README.md) — `체온-대기 온도차 발전 및 신축성 열전 복합체 기반 배터리 없는 바이오센서 전원 기술`
+- [금속 유기 골격체와 대기 수분 수확의 언어](./advanced-metal-organic-frameworks-and-atmospheric-water-harvesting/README.md) — `초다공성 결정 구조 및 태양열 탈착 응축 기반 사막 지역 대기 수분 청정 식수 수확 기술`
+- [무세포 단백질 합성과 합성 생명공학의 언어](./advanced-synthetic-biology-cell-free-protein-synthesis/README.md) — `시험관 내 전사·번역 및 에너지 재생 효소 회로 기반 현장 신속 의약품 합성 기술`
+- [실리콘 양자점과 스핀 큐비트 양자 컴퓨팅의 언어](./advanced-spin-qubits-and-silicon-quantum-dots/README.md) — `동위원소 정제 실리콘 기반 단일 전자 스핀 제어 및 고집적 양자 프로세서 기술`
+- [박테리아 나노셀룰로오스와 생체 임플란트의 언어](./advanced-bacterial-cellulose-and-biomedical-implants/README.md) — `미생물 발효 생체고분자 3D 나노섬유망 기반 인공 혈관 및 조직 재생 지지체 기술`
+- [유연 페로브스카이트 태양전지와 웨어러블 전원의 언어](./advanced-flexible-perovskite-photovoltaics-and-wearables/README.md) — `저온 용액 공정 및 롤투롤 기반 초경량 플렉서블 페로브스카이트 자가발전 전원 기술`
+- [마이크로 고체 산화물 연료전지와 초소형 전원의 언어](./advanced-micro-solid-oxide-fuel-cells-and-portable-power/README.md) — `박막 세라믹 기반 탄화수소 직접 산화 및 급속 가열 고출력 초소형 연료전지 스택 기술`
+- [프로그래머블 물질과 클레이트로닉스의 언어](./advanced-programmable-matter-and-claytronics/README.md) — `클레이트로닉스 미세 카툼 및 정전 인력 기반 3차원 동적 형태 재구성 프로그래머블 물질 기술`
+- [카이랄 메타물질과 원편광 이색성 센싱의 언어](./advanced-chiral-metamaterials-and-circular-dichroism-sensing/README.md) — `비대칭 나노 나선 및 원편광 이색성 신호 증폭 기반 거울상 이성질체 초민감 식별 기술`
+- [직접 공기 포집과 고체 아민 흡착 소재의 언어](./advanced-direct-air-capture-and-solid-amine-sorbents/README.md) — `고체 아민 흡착제 및 온도·진공 스윙 재생 기반 대기 중 저농도 이산화탄소 직접 포집 기술`
+- [메타물질 완전 흡수체와 스텔스 외피의 언어](./advanced-metamaterial-superabsorbers-and-stealth-coatings/README.md) — `임피던스 정합 초표면 및 다대역 전파 흡수체 기반 항공우주 레이더·적외선 스텔스 외피 기술`
+- [유기 전기화학 트랜지스터와 바이오 일렉트로닉스의 언어](./advanced-organic-electrochemical-transistors-and-bioelectronics/README.md) — `혼합 이온-전자 전도 고분자 및 초고감도 생체 신호 증폭 기반 체내 삽입형 바이오 전자 소자 기술`
+- [고엔트로피 합금과 극한 온도 구조 재료의 언어](./advanced-high-entropy-alloys-and-extreme-temperature-materials/README.md) — `다원소 등원자비 결정격자 및 고용강화 기반 초고온 크리프·극저온 고인성 극한 구조 합금 기술`
+- [광 집적회로와 광자 컴퓨팅의 언어](./advanced-photonic-integrated-circuits-and-optical-computing/README.md) — `실리콘 포토닉스 도파로 및 마하젠더 간섭계 어레이 기반 빛의 속도 초병렬 인공지능 연산 가속기 기술`
+- [자율 구동 나노모터와 표적 약물 전달 마이크로로봇의 언어](./advanced-nanomotors-and-targeted-drug-delivery-microrobots/README.md) — `생체 연료 자율 추진 및 외부 자기장 정밀 유도 기반 체내 혈관 항해·표적 약물 전달 마이크로로봇 기술`
+- [페로브스카이트 멤리스터와 뉴로모픽 어레이의 언어](./advanced-perovskite-memristors-and-neuromorphic-arrays/README.md) — `할라이드 페로브스카이트 및 아날로그 시냅스 가소성 기반 초저전력 인공지능 뉴로모픽 연산 가속기 기술`
+- [생체모사 구조색과 포토닉 필름의 언어](./advanced-biomimetic-structural-color-and-photonic-films/README.md) — `몰포 나비 미세격자 및 광결정 자기조립 기반 무안료·각도독립적 친환경 구조색 포토닉 코팅 기술`
+- [초임계수 산화 공정과 난분해성 폐기물 무해화의 언어](./advanced-supercritical-water-oxidation-and-waste-treatment/README.md) — `초임계수 고온고압 수열산화 및 자열 반응 에너지 회수 기반 난분해성 독성 폐기물 무해화 기술`
+- [액정 엘라스토머와 소프트 액추에이터의 언어](./advanced-liquid-crystal-elastomers-and-soft-actuators/README.md) — `메소젠 배열 가역 변형 및 광열 비접촉 구동 기반 초고변형률 인공근육 소프트 로보틱스 기술`
+- [음향 메타물질과 음향 라이너의 언어](./advanced-metamaterial-soundproofing-and-acoustic-liners/README.md) — `서브파장 공진 구조 및 음의 굴절률 제어 기반 통기성 초저주파 소음 완전 차단 음향 메타물질 기술`
+- [양자점 전계발광 소자와 QLED 디스플레이의 언어](./advanced-quantum-dots-light-emitting-diodes-and-qled/README.md) — `무카드뮴 콜로이드 양자점 및 무기 전하수송층 기반 초고색순도 자가발광 차세대 QLED 디스플레이 기술`
+- [탄성열량 냉각 기술과 고체 냉동 공학의 언어](./advanced-solid-state-refrigeration-and-elastocaloric-cooling/README.md) — `초탄성 형상기억합금 응력 유도 마르텐사이트 변태 기반 무냉매·온실가스 제로 고체 히트펌프 기술`
+- [마찰대전 나노발전기와 해양 블루 에너지의 언어](./advanced-triboelectric-nanogenerators-and-blue-energy/README.md) — `액체-고체 접촉대전 및 구형 부이 네트워크 기반 파도 운동 극저주파 에너지 수확 해양 전력 기술`
+- [위상 광자학과 후방 산란 억제 도파로의 언어](./advanced-topological-photonics-and-backscattering-immunity/README.md) — `카이랄 가장자리 상태 및 광자 양자홀 효과 기반 결함 무감응 초소형 광집적회로 도파로 기술`
+- [전기화학적 이산화탄소 전환과 합성 연료의 언어](./advanced-electrochemical-carbon-dioxide-reduction-and-e-fuels/README.md) — `구리 직렬 촉매 및 기체확산전극 기반 온실가스 전기분해 C2+ 다탄소 화합물 e-퓨얼 합성 기술`
+- [DNA 오리가미와 나노 분자 기계의 언어](./advanced-dna-origami-and-nanoscale-molecular-machines/README.md) — `스캐폴드 자기조립 및 논리게이트 분자 컴퓨팅 기반 표적 약물 방출 지능형 나노로봇 기술`
+- [자기공명 무선 전력 전송과 메타물질 결합의 언어](./advanced-wireless-power-transfer-and-metamaterial-coupling/README.md) — `메타물질 집속 슬래브 및 소멸파 증폭 기반 주행 중 동적 무선충전 차세대 무선 에너지 인프라 기술`
+- [위상 초전도체와 마요라나 제로 모드의 언어](./advanced-topological-superconductors-and-majorana-zero-modes/README.md) — `위상 초전도체 소자 및 마요라나 제로 모드 검출 기반 비아벨 브레이딩 결함허용 양자컴퓨팅 기술`
+- [압전 나노발전기와 자가발전 웨어러블의 언어](./advanced-piezoelectric-nanogenerators-and-self-powered-wearables/README.md) — `무연 압전 세라믹 및 인체 생체에너지 수확 기반 무배터리 자가발전 스마트 헬스케어 웨어러블 기술`
+- [광학 펌핑 자력계와 뇌자도 계측의 언어](./advanced-optically-pumped-magnetometers-and-meg/README.md) — `루비듐 원자 증기셀 및 상온 무냉매 헤드셋 기반 초고감도 뇌자도 계측 비침습 신경인터페이스 기술`
+- [생체모방 방오 코팅과 양쪽성 이온 표면의 언어](./advanced-bio-inspired-antifouling-and-zwitterionic-surfaces/README.md) — `상어 피부 미세리블렛 및 양쪽성 이온 고분자 브러시 기반 친환경 무독성 선박 방오 및 연비 절감 기술`
+- [실내광 페로브스카이트 태양전지와 IoT 독립 전원의 언어](./advanced-perovskite-indoor-photovoltaics-and-iot-energy/README.md) — `저조도 실내광 에너지 수확 및 무연 이중 페로브스카이트 기반 배터리 없는 IoT 무선 독립 전원 기술`
+- [프로그래머블 하이드로겔 구동기와 수중 소프트 로보틱스의 언어](./advanced-programmable-hydrogel-actuators-and-soft-robotics/README.md) — `비등방성 팽윤 수축 및 4D 프린팅 자극감응형 고분자 네트워크 기반 차세대 수중 소프트 액추에이터 기술`
+- [메타물질 마이크로파 레이돔과 전파 투과의 언어](./advanced-metamaterial-microwave-cloaking-and-radomes/README.md) — `광대역 전파 투과 초표면 및 유전율 경사형 임피던스 정합 기반 스텔스 항공기 마이크로파 레이돔 기술`
+- [리튬 공기 전지와 산화환원 매개체의 언어](./advanced-lithium-air-batteries-and-redox-mediators/README.md) — `가용성 산화환원 매개체 및 산소 투과막 기반 초고에너지밀도 도심항공교통 차세대 리튬공기 전지 기술`
+- [스핀트로닉 테라헤르츠 광원과 초고속 분광학의 언어](./advanced-spintronic-terahertz-emitters-and-spectroscopy/README.md) — `강자성/비자성 금속 이종접합 역스핀홀 효과 기반 초광대역 극초단 펨토초 테라헤르츠 펄스 방사 기술`
+- [자가발전 압전 골재생 스캐폴드의 언어](./advanced-piezoelectric-bone-regeneration-and-scaffolds/README.md) — `보행 기계적 부하 자가발전 신호 및 3D 프린팅 다공성 지지체 기반 생체친화적 골재생 전기자극 기술`
+- [메타표면 편광 제어와 풀 스톡스 이미징의 언어](./advanced-metasurface-polarization-optics-and-imaging/README.md) — `이방성 나노기둥 위상지연 및 단일샷 풀스톡스 편광 검출 기반 자율주행 및 생체조직 이미징 기술`
+- [미생물 연료전지와 환경 바이오센싱의 언어](./advanced-microbial-fuel-cells-and-biosensing/README.md) — `전기활성 박테리아 생물막 및 세포외 전자전달 기반 무전원 수질 독성 감시 하폐수 동시발전 기술`
+- [위상 절연체 스핀트로닉스와 스핀 궤도 토크의 언어](./advanced-topological-insulator-spintronics-and-spin-orbit-torque/README.md) — `스핀운동량 잠금 및 비스무트 셀레나이드 기반 스핀궤도토크 초고속 비휘발성 메모리 스위칭 기술`
+- [표면탄성파 미세유체학과 랩온어칩의 언어](./advanced-surface-acoustic-wave-microfluidics-and-lab-on-a-chip/README.md) — `음향 집게 및 압전 방사력 기반 무접촉 세포 분리 정밀 액적 제어 현장진단 랩온어칩 기술`
+- [반데르발스 이종접합과 모아레 초격자의 언어](./advanced-van-der-waals-heterostructures-and-moiré-superlattices/README.md) — `마법각 트위스트 이중층 그래핀 및 모아레 초격자 상관전자 플랫밴드 기반 차세대 2D 양자 물질 기술`
+- [심해 내압 전자공학과 자율잠수정의 언어](./advanced-deep-ocean-pressure-tolerant-electronics-and-auv/README.md) — `무압력용기 실리콘겔 침전 패키징 및 SiC 전력반도체 기반 심해 열수구 탐사 자율잠수정 기술`
+- [생체 태양전지와 조류 생물에너지의 언어](./advanced-bio-photovoltaics-and-living-algae-energy/README.md) — `광합성 조류 생물막 및 세포외 전자 추출 기반 탄소 네거티브 분산형 바이오 태양광 발전 기술`
+- [테라헤르츠 메타물질 바이오센서와 분자 진단의 언어](./advanced-terahertz-metamaterial-biosensors-and-diagnostics/README.md) — `스플릿링 나노 공진기 및 국소 전자기장 집속 기반 펨토몰 바이러스 라벨프리 초고감도 분자 진단 기술`
+- [위상 음향 메타물질과 포노닉 결정의 언어](./advanced-topological-acoustic-metamaterials-and-phononic-crystals/README.md) — `밸리홀 효과 및 3D 위상 음향 절연체 기반 결함 내성 무손실 음향 도파로 및 초음파 필터 기술`
+- [유연 시냅스 트랜지스터와 전자 피부의 언어](./advanced-flexible-synaptic-transistors-and-e-skin/README.md) — `생체적합성 유기 반도체 및 이온젤 게이트 기반 시냅스 가소성 모사 전자피부 뉴로모픽 인터페이스 기술`
+- [직접 메탄올 연료전지와 휴대용 전원의 언어](./advanced-direct-methanol-fuel-cells-and-micro-power/README.md) — `백금루테늄 촉매 및 메탄올 크로스오버 차단 기반 드론 장기체공 초소형 직접 액체 연료전지 기술`
+- [마이크로 LED 대량 전사와 초고해상도 디스플레이의 언어](./advanced-micro-light-emitting-diode-mass-transfer-and-displays/README.md) — `유체 자가조립 및 레이저 유도 전방 전사 기반 초고밀도 자발광 마이크로 LED 디스플레이 실장 기술`
+- [동위원소 베타전지와 원자력 마이크로 전원의 언어](./advanced-nuclear-battery-and-betavoltaics/README.md) — `탄소-14 및 니켈-63 동위원소 기반 극한환경 우주 및 심해용 초장수명 비충전형 원자력 전지 기술`
+- [플라즈모닉 태양광 수처리 및 해수 담수화의 언어](./advanced-plasmonic-water-purification-and-solar-desalination/README.md) — `국소 표면 플라즈몬 공진열 및 계면 증발 집속 기반 무전원 고효율 해수 담수화 및 수자원 재생 기술`
+- [양자 이상 홀 효과와 무손실 위상 전도의 언어](./advanced-topological-insulator-quantum-anomalous-hall-effect/README.md) — `크롬 및 망간 도핑 자기 위상절연체 기반 무자장 카이랄 에지 채널 및 무손실 스핀 수송 저항 표준 계측 기술`
+- [생체 삽입형 마찰대전 발전기와 무배터리 의료기기의 언어](./advanced-implantable-triboelectric-medical-devices/README.md) — `심장 맥동 및 호흡 운동 기반 체내 역학 에너지 수확 및 생체흡수성 무배터리 이식형 인공심박동기 기술`
+- [프로그래머블 액체 금속과 소프트 머신의 언어](./advanced-programmable-liquid-metal-machines/README.md) — `갈륨-인듐 액체 합금 액적의 전기화학적 계면장력 제어 및 자기장 유도 형상변형 재구성 가능 소프트 로봇 기술`
+- [카이랄 메타물질과 원편광 이색성의 언어](./advanced-chiral-metamaterials-and-circular-dichroism/README.md) — `3차원 나노나선 구조 기반 거대 원편광 이색성 및 단백질 비대칭 거울상이성질체 초고감도 바이오센싱 기술`
+- [초소수성 결빙 방지와 유체 저항 저감의 언어](./advanced-superhydrophobic-anti-icing-and-drag-reduction/README.md) — `계층적 마이크로-나노 돌기 및 공기쿠션 안정화 기반 항공기 날개 결빙 방지 및 고속 선박 마찰저항 극소화 기술`
+- [다이아몬드 질소 공공 양자 자력계의 언어](./advanced-quantum-diamond-nitrogen-vacancy-magnetometry/README.md) — `다이아몬드 NV 결함 기반 상온 단일 전자스핀 공학 및 단일 단백질 비파괴 나노스케일 NMR 양자 계측 기술`
+- [복사 냉각 메타물질과 열 복사 제어의 언어](./advanced-radiative-sky-cooling-and-thermal-metamaterials/README.md) — `대기투명창 열복사 방출 및 태양광 초고반사율 기반 무전원 주야간 복사 냉각 메타물질 박막 및 제로에너지 건축 코팅 기술`
+- [유연 열전 발전기와 체온 에너지 수확의 언어](./advanced-flexible-thermoelectric-generators-and-body-heat/README.md) — `유기-무기 복합 열전재료 및 제베크 계수 극대화 기반 체온 미세전력 수확 무배터리 웨어러블 자가발전 패치 기술`
+- [미생물 전기합성과 탄소순환 생물공학의 언어](./advanced-microbial-electrosynthesis-and-value-added-chemicals/README.md) — `세균 전기생물촉매 전극 및 세포외 전자전달 기반 이산화탄소 전기생물전환 고부가가치 화학물질 생산 플랫폼 기술`
+- [초표면 홀로그래피와 라이트필드 디스플레이의 언어](./advanced-metasurface-holography-and-light-field-displays/README.md) — `서브파장 위상변조 유전체 나노기둥 기반 원편광 다중화 무안경 초고해상도 라이트필드 홀로그래픽 디스플레이 기술`
+- [집속 초음파 표적 미세기포와 약물 전달의 언어](./advanced-ultrasound-targeted-microbubble-drug-delivery/README.md) — `집속 초음파 음향 공진 및 지질 나노기포 공동현상 기반 혈뇌장벽 가역적 개방 정밀 표적 약물 전달 기술`
+- [위상 레이저와 폴라리톤 응축의 언어](./advanced-topological-laser-and-polariton-condensates/README.md) — `엑시톤-폴라리톤 응축 및 카이랄 에지 모드 기반 결함 내성 단일모드 발진 상온 초유체 빛 위상 레이저 집적회로 기술`
+- [뉴로모픽 동적 시각 센서와 이벤트 카메라의 언어](./advanced-neuromorphic-visual-sensors-and-event-cameras/README.md) — `비동기 픽셀 및 마이크로초 시간분해능 기반 모션블러 차단 뉴로모픽 동적 시각 센서 및 온디바이스 엣지 비전 기술`
+- [전고체 이차전지와 고체 전해질의 언어](./advanced-solid-state-electrolytes-and-all-solid-state-batteries/README.md) — `황화물 및 산화물계 고체 전해질막 기반 금속 리튬 수지상 관통 차단 및 온간정수압성형 불연성 전고체 전지 기술`
+- [양자 카스케이드 레이저와 중적외선 가스 분광학의 언어](./advanced-quantum-cascade-laser-and-gas-spectroscopy/README.md) — `중적외선 서브밴드 천이 및 공진기 흡수소멸 분광 기반 온실가스·독성가스 초고감도 실시간 원격 계측 기술`
+- [재구성 가능 지능형 표면과 차세대 전파 통신의 언어](./advanced-programmable-metasurface-reconfigurable-intelligent-surfaces/README.md) — `PIN 다이오드 위상가변 셀 및 능동 빔형성 기반 6G 스마트 무선 환경 구축 및 전파 음영지역 해소 초표면 기술`
+- [나노 광유체학과 단분자 광집게의 언어](./advanced-nano-optofluidics-and-single-molecule-trapping/README.md) — `광자결정 나노광집게 및 나노포어 센싱 기반 무표지 단일 생체분자 포집 및 랩온어칩 초정밀 유전체 분석 기술`
+- [극저온 스핀트로닉스와 양자 제어의 언어](./advanced-cryogenic-spintronics-and-superconducting-qubit-control/README.md) — `조셉슨 접합 및 스핀밸브 자기저항 기반 밀리켈빈 초전도 큐비트 마이크로파 제어 및 극저온 비휘발성 메모리 기술`
+- [스핀트로닉 멤리스터와 뉴로모픽 크로스바의 언어](./advanced-spintronic-memristors-and-neuromorphic-crossbars/README.md) — `스핀토크 유도 자화반전 및 자벽 이동 기반 다중레벨 아날로그 시냅스 가중치 갱신 뉴로모픽 하드웨어 가속기 기술`
+- [금속 유기 골격체와 대기 수분 수확의 언어](./advanced-metal-organic-framework-atmospheric-water-harvesting/README.md) — `결정성 나노기공 수착 및 태양열 구동 탈착 기반 사막 저습도 환경 자율 음용수 생산 무전원 대기 수분 수확 기술`
+- [페로브스카이트 양자점과 마이크로 디스플레이의 언어](./advanced-perovskite-quantum-dot-micro-displays/README.md) — `초고색재현 색변환 필름 및 잉크젯 프린팅 정밀 패터닝 기반 초고해상도 XR 마이크로 디스플레이 양자점 발광 기술`
+- [웨어러블 땀 바이오센서와 미세유체의 언어](./advanced-wearable-sweat-biosensors-and-microfluidics/README.md) — `모세관 유도 미세유체 채널 및 유연 전극 기반 비침습 혈당·젖산·코르티솔 실시간 전기화학 연속 모니터링 기술`
+- [위상 마그노닉스와 스핀파 정보 처리의 언어](./advanced-topological-magnonics-and-spin-waves/README.md) — `스커미온 결정 및 카이랄 스핀파 도파로 기반 열 손실 제로 위상보호 에지 모드 초고속 마그논 논리 연산 기술`
+- [생체분해성 마찰전기 발전기와 에코 전자의 언어](./advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics/README.md) — `천연 고분자 마찰층 및 수용성 다당류 필름 기반 환경 자연분해 단기수명 자가발전 센서 및 에코 전자공학 기술`
+- [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
 - [태도와 평가](./attitude-and-evaluation.md) — `잔인하다`, `과잉하다`, `식상하다`, `부조리`, `단호히`, `극혐하다`, `인위적`

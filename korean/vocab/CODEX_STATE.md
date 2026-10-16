@@ -15,6 +15,1503 @@
 - Source PDFs and dictionaries are reference material only; lesson explanations and passages are original.
 - Lexical audit: 214 nested target headwords retain `advanced_native` or `contemporary_native_hot` metadata; 71 common/support words were removed from target headings but remain available in explanations and passages. The 67 legacy flat headwords are preserved as `legacy_review`.
 
+## 2026-10-09 10,000-word expansion kickoff
+
+- Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
+- Progress in this checkpoint: 3,960 new targets across 264 independent topic batches; 8,960 structured headings toward the 10,000 target, leaving 1,040 after this checkpoint.
+
+- Topic: `advanced-spintronic-memristors-and-neuromorphic-crossbars`
+- File: `01-spintronic-memristors-and-neuromorphic-crossbars.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic memristors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metal-organic-framework-atmospheric-water-harvesting`
+- File: `01-metal-organic-framework-atmospheric-water-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-organic framework water harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-perovskite-quantum-dot-micro-displays`
+- File: `01-perovskite-quantum-dot-micro-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite quantum dot micro displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-biosensors-and-microfluidics`
+- File: `01-wearable-sweat-biosensors-and-microfluidics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-magnonics-and-spin-waves`
+- File: `01-topological-magnonics-and-spin-waves.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological magnonics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics`
+- File: `01-biodegradable-triboelectric-nanogenerators-and-ecoelectronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biodegradable triboelectric nanogenerators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-visual-sensors-and-event-cameras`
+- File: `01-neuromorphic-visual-sensors-and-event-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic visual sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-solid-state-electrolytes-and-all-solid-state-batteries`
+- File: `01-solid-state-electrolytes-and-all-solid-state-batteries.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid state electrolytes and batteries headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-cascade-laser-and-gas-spectroscopy`
+- File: `01-quantum-cascade-laser-and-gas-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade laser and gas spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-programmable-metasurface-reconfigurable-intelligent-surfaces`
+- File: `01-programmable-metasurface-reconfigurable-intelligent-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot reconfigurable intelligent surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-nano-optofluidics-and-single-molecule-trapping`
+- File: `01-nano-optofluidics-and-single-molecule-trapping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nano-optofluidics and single-molecule trapping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-cryogenic-spintronics-and-superconducting-qubit-control`
+- File: `01-cryogenic-spintronics-and-superconducting-qubit-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cryogenic spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-radiative-sky-cooling-and-thermal-metamaterials`
+- File: `01-radiative-sky-cooling-and-thermal-metamaterials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot radiative sky cooling and thermal metamaterials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-thermoelectric-generators-and-body-heat`
+- File: `01-flexible-thermoelectric-generators-and-body-heat.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible thermoelectric generators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-microbial-electrosynthesis-and-value-added-chemicals`
+- File: `01-microbial-electrosynthesis-and-value-added-chemicals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrosynthesis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metasurface-holography-and-light-field-displays`
+- File: `01-metasurface-holography-and-light-field-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface holography and light field displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-ultrasound-targeted-microbubble-drug-delivery`
+- File: `01-ultrasound-targeted-microbubble-drug-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ultrasound targeted microbubble drug delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-laser-and-polariton-condensates`
+- File: `01-topological-laser-and-polariton-condensates.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological laser and polariton condensates headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-insulator-quantum-anomalous-hall-effect`
+- File: `01-topological-insulator-quantum-anomalous-hall-effect.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum anomalous Hall effect headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-implantable-triboelectric-medical-devices`
+- File: `01-implantable-triboelectric-medical-devices.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot implantable triboelectric medical devices headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-programmable-liquid-metal-machines`
+- File: `01-programmable-liquid-metal-machines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable liquid metal machines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-chiral-metamaterials-and-circular-dichroism`
+- File: `01-chiral-metamaterials-and-circular-dichroism.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral metamaterials and circular dichroism headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-superhydrophobic-anti-icing-and-drag-reduction`
+- File: `01-superhydrophobic-anti-icing-and-drag-reduction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot superhydrophobic anti-icing and drag reduction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-diamond-nitrogen-vacancy-magnetometry`
+- File: `01-quantum-diamond-nitrogen-vacancy-magnetometry.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum diamond nitrogen-vacancy magnetometry headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-acoustic-metamaterials-and-phononic-crystals`
+- File: `01-topological-acoustic-metamaterials-and-phononic-crystals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological acoustic metamaterials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean topological acoustics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flexible-synaptic-transistors-and-e-skin`
+- File: `01-flexible-synaptic-transistors-and-e-skin.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible synaptic transistors and e-skin headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean synaptic transistors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-methanol-fuel-cells-and-micro-power`
+- File: `01-direct-methanol-fuel-cells-and-micro-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct methanol fuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 93-eojeol Korean DMFC micro-power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-micro-light-emitting-diode-mass-transfer-and-displays`
+- File: `01-micro-light-emitting-diode-mass-transfer-and-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot micro-LED mass transfer headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean micro-LED mass transfer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nuclear-battery-and-betavoltaics`
+- File: `01-nuclear-battery-and-betavoltaics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear battery and betavoltaics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean betavoltaics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-plasmonic-water-purification-and-solar-desalination`
+- File: `01-plasmonic-water-purification-and-solar-desalination.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot plasmonic water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean plasmonic water purification passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-insulator-spintronics-and-spin-orbit-torque`
+- File: `01-topological-insulator-spintronics-and-spin-orbit-torque.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological insulator spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean topological spintronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-surface-acoustic-wave-microfluidics-and-lab-on-a-chip`
+- File: `01-surface-acoustic-wave-microfluidics-and-lab-on-a-chip.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot surface acoustic wave microfluidics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean acoustofluidics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-van-der-waals-heterostructures-and-moiré-superlattices`
+- File: `01-van-der-waals-heterostructures-and-moiré-superlattices.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot van der Waals heterostructures and moiré superlattices headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean vdW heterostructures passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-ocean-pressure-tolerant-electronics-and-auv`
+- File: `01-deep-ocean-pressure-tolerant-electronics-and-auv.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep ocean pressure-tolerant electronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean deep ocean electronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-photovoltaics-and-living-algae-energy`
+- File: `01-bio-photovoltaics-and-living-algae-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-photovoltaics and living algae energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean bio-photovoltaics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-terahertz-metamaterial-biosensors-and-diagnostics`
+- File: `01-terahertz-metamaterial-biosensors-and-diagnostics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot terahertz metamaterial biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean THz biosensors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-microwave-cloaking-and-radomes`
+- File: `01-metamaterial-microwave-cloaking-and-radomes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial microwave radomes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean microwave radome passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-lithium-air-batteries-and-redox-mediators`
+- File: `01-lithium-air-batteries-and-redox-mediators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lithium-air batteries and redox mediators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean lithium-air battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-spintronic-terahertz-emitters-and-spectroscopy`
+- File: `01-spintronic-terahertz-emitters-and-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic terahertz emitters and spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean spintronic THz passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-bone-regeneration-and-scaffolds`
+- File: `01-piezoelectric-bone-regeneration-and-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric bone regeneration and scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean piezoelectric bone regeneration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metasurface-polarization-optics-and-imaging`
+- File: `01-metasurface-polarization-optics-and-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface polarization optics and imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean metasurface polarization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-fuel-cells-and-biosensing`
+- File: `01-microbial-fuel-cells-and-biosensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial fuel cells and biosensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean microbial fuel cells passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-superconductors-and-majorana-zero-modes`
+- File: `01-topological-superconductors-and-majorana-zero-modes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological superconductors and Majorana zero modes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean topological superconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-nanogenerators-and-self-powered-wearables`
+- File: `01-piezoelectric-nanogenerators-and-self-powered-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric nanogenerators and self-powered wearables headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean PENG wearables passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-optically-pumped-magnetometers-and-meg`
+- File: `01-optically-pumped-magnetometers-and-meg.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optically pumped magnetometers and MEG headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean OPM MEG passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-inspired-antifouling-and-zwitterionic-surfaces`
+- File: `01-bio-inspired-antifouling-and-zwitterionic-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-inspired antifouling and zwitterionic surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean antifouling surfaces passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-indoor-photovoltaics-and-iot-energy`
+- File: `01-perovskite-indoor-photovoltaics-and-iot-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot indoor perovskite photovoltaics and IoT energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean indoor perovskite passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-hydrogel-actuators-and-soft-robotics`
+- File: `01-programmable-hydrogel-actuators-and-soft-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable hydrogel actuators and soft robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean hydrogel actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-refrigeration-and-elastocaloric-cooling`
+- File: `01-solid-state-refrigeration-and-elastocaloric-cooling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot elastocaloric cooling and solid-state refrigeration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean elastocaloric cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-triboelectric-nanogenerators-and-blue-energy`
+- File: `01-triboelectric-nanogenerators-and-blue-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot triboelectric nanogenerators and blue energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean TENG blue energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-photonics-and-backscattering-immunity`
+- File: `01-topological-photonics-and-backscattering-immunity.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological photonics and backscattering immunity headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean topological photonics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-electrochemical-carbon-dioxide-reduction-and-e-fuels`
+- File: `01-electrochemical-carbon-dioxide-reduction-and-e-fuels.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electrochemical CO2 reduction and e-fuels headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean CO2 reduction e-fuels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-dna-origami-and-nanoscale-molecular-machines`
+- File: `01-dna-origami-and-nanoscale-molecular-machines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot DNA origami and nanoscale molecular machines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 93-eojeol Korean DNA origami passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wireless-power-transfer-and-metamaterial-coupling`
+- File: `01-wireless-power-transfer-and-metamaterial-coupling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wireless power transfer and metamaterial coupling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean wireless power transfer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-memristors-and-neuromorphic-arrays`
+- File: `01-perovskite-memristors-and-neuromorphic-arrays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite memristors and neuromorphic arrays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean perovskite memristor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-biomimetic-structural-color-and-photonic-films`
+- File: `01-biomimetic-structural-color-and-photonic-films.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic structural colors and photonic films headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean biomimetic structural color passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-supercritical-water-oxidation-and-waste-treatment`
+- File: `01-supercritical-water-oxidation-and-waste-treatment.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercritical water oxidation and waste treatment headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean SCWO waste treatment passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-liquid-crystal-elastomers-and-soft-actuators`
+- File: `01-liquid-crystal-elastomers-and-soft-actuators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid crystal elastomers and soft actuators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean LCE soft actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-soundproofing-and-acoustic-liners`
+- File: `01-metamaterial-soundproofing-and-acoustic-liners.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic metamaterials and acoustic liners headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean acoustic metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-dots-light-emitting-diodes-and-qled`
+- File: `01-quantum-dots-light-emitting-diodes-and-qled.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum dot light-emitting diodes and QLED headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean QLED displays passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-air-capture-and-solid-amine-sorbents`
+- File: `01-direct-air-capture-and-solid-amine-sorbents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct air capture and solid amine sorbents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean direct air capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-high-entropy-alloys-and-extreme-temperature-materials`
+- File: `01-high-entropy-alloys-and-extreme-temperature-materials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot high-entropy alloys and extreme temperature materials headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean high-entropy alloys passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-superabsorbers-and-stealth-coatings`
+- File: `01-metamaterial-superabsorbers-and-stealth-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial superabsorbers and stealth coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean metamaterial stealth passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanomotors-and-targeted-drug-delivery-microrobots`
+- File: `01-nanomotors-and-targeted-drug-delivery-microrobots.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanomotors and targeted drug delivery microrobots headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean nanomotors microrobots passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-organic-electrochemical-transistors-and-bioelectronics`
+- File: `01-organic-electrochemical-transistors-and-bioelectronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot organic electrochemical transistors and bioelectronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean OECT bioelectronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-integrated-circuits-and-optical-computing`
+- File: `01-photonic-integrated-circuits-and-optical-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic integrated circuits and optical computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean photonic computing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-spin-qubits-and-silicon-quantum-dots`
+- File: `01-spin-qubits-and-silicon-quantum-dots.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spin qubits and silicon quantum dots headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean spin qubits passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bacterial-cellulose-and-biomedical-implants`
+- File: `01-bacterial-cellulose-and-biomedical-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bacterial cellulose and biomedical implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean bacterial cellulose passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flexible-perovskite-photovoltaics-and-wearables`
+- File: `01-flexible-perovskite-photovoltaics-and-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible perovskite photovoltaics and wearables headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean flexible perovskite passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-micro-solid-oxide-fuel-cells-and-portable-power`
+- File: `01-micro-solid-oxide-fuel-cells-and-portable-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot micro-SOFC and portable power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean micro-SOFC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-matter-and-claytronics`
+- File: `01-programmable-matter-and-claytronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable matter and claytronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean programmable matter passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-chiral-metamaterials-and-circular-dichroism-sensing`
+- File: `01-chiral-metamaterials-and-circular-dichroism-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral metamaterials and circular dichroism headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean chiral metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-diamond-semiconductors-and-high-power-electronics`
+- File: `01-diamond-semiconductors-and-high-power-electronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot diamond semiconductors and high-power electronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean diamond semiconductors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-cascade-lasers-and-mid-infrared-spectroscopy`
+- File: `01-quantum-cascade-lasers-and-mid-infrared-spectroscopy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade lasers and mid-infrared spectroscopy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean quantum cascade lasers passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-superhydrophobic-coatings-and-anti-icing-surfaces`
+- File: `01-superhydrophobic-coatings-and-anti-icing-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot superhydrophobic coatings and anti-icing surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean superhydrophobic coatings passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wearable-thermoelectric-generators-and-body-heat-harvesting`
+- File: `01-wearable-thermoelectric-generators-and-body-heat-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable thermoelectric generators and body heat harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean wearable TEG passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-organic-frameworks-and-atmospheric-water-harvesting`
+- File: `01-metal-organic-frameworks-and-atmospheric-water-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-organic frameworks and atmospheric water harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean MOF water harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-cell-free-protein-synthesis`
+- File: `01-synthetic-biology-cell-free-protein-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cell-free protein synthesis and synthetic biology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean cell-free synthesis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metasurface-holography-and-light-field-displays`
+- File: `01-metasurface-holography-and-light-field-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface holography and light field displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean metasurface holography passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-biomaterials-and-tissue-regeneration`
+- File: `01-piezoelectric-biomaterials-and-tissue-regeneration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric biomaterials and tissue regeneration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean piezoelectric biomaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-lithium-sulfur-batteries-and-polysulfide-shuttling`
+- File: `01-lithium-sulfur-batteries-and-polysulfide-shuttling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lithium-sulfur batteries and polysulfide shuttling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean lithium-sulfur batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-vision-sensors-and-event-based-cameras`
+- File: `01-neuromorphic-vision-sensors-and-event-based-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic vision sensors and event-based cameras headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean neuromorphic vision passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-electrochemical-systems-and-resource-recovery`
+- File: `01-microbial-electrochemical-systems-and-resource-recovery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrochemical systems and resource recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean microbial electrochemistry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-cooling-and-electrocaloric-polymers`
+- File: `01-solid-state-cooling-and-electrocaloric-polymers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state cooling and electrocaloric polymers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean electrocaloric cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-supercapacitors-and-pseudocapacitive-storage`
+- File: `01-metamaterial-supercapacitors-and-pseudocapacitive-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercapacitors and pseudocapacitive storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean supercapacitors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-liquid-biopsy-and-circulating-tumor-cell-isolation`
+- File: `01-liquid-biopsy-and-circulating-tumor-cell-isolation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid biopsy and circulating tumor cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 90-eojeol Korean liquid biopsy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-dioxide-mineralization-and-green-concrete`
+- File: `01-carbon-dioxide-mineralization-and-green-concrete.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon mineralization and green concrete headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean carbon mineralization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-single-crystal-radiation-detectors`
+- File: `01-perovskite-single-crystal-radiation-detectors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite single crystal radiation detectors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean radiation detectors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photocatalytic-water-splitting-and-solar-hydrogen`
+- File: `01-photocatalytic-water-splitting-and-solar-hydrogen.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photocatalytic water splitting and solar hydrogen headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean photocatalytic hydrogen passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-programmable-metamaterials-and-shape-memory-alloys`
+- File: `01-programmable-metamaterials-and-shape-memory-alloys.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot programmable metamaterials and shape memory alloys headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean programmable metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-magnetic-refrigeration-and-magnetocaloric-alloys`
+- File: `01-magnetic-refrigeration-and-magnetocaloric-alloys.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot magnetic refrigeration and magnetocaloric alloys headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean magnetic refrigeration passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-antennas-and-ris-smart-surfaces`
+- File: `01-metamaterial-antennas-and-ris-smart-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot RIS smart surfaces and metamaterial antennas headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean RIS smart surfaces passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-electronic-medicines-and-vagus-nerve-stimulation`
+- File: `01-bio-electronic-medicines-and-vagus-nerve-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic medicines and vagus nerve stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean bioelectronic medicines passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-air-batteries-and-air-breathing-cathodes`
+- File: `01-metal-air-batteries-and-air-breathing-cathodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal-air batteries and air-breathing cathodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean metal-air batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-spatially-resolved-transcriptomics-and-in-situ-sequencing`
+- File: `01-spatially-resolved-transcriptomics-and-in-situ-sequencing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spatially resolved transcriptomics and in situ sequencing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean spatial transcriptomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-phononic-crystals-and-acoustic-insulation`
+- File: `01-phononic-crystals-and-acoustic-insulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot phononic crystals and acoustic insulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean phononic crystals passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterial-cloaking-and-transformation-optics`
+- File: `01-metamaterial-cloaking-and-transformation-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial cloaking and transformation optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean metamaterial cloaking passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-brain-computer-interfaces-and-neural-implants`
+- File: `01-brain-computer-interfaces-and-neural-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot brain-computer interfaces and neural implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean neural implants passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-quantum-dot-displays-and-color-filters`
+- File: `01-perovskite-quantum-dot-displays-and-color-filters.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite quantum dot displays and color filters headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean perovskite QD display passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-graphene-aerogels-and-electrochemical-desalination`
+- File: `01-graphene-aerogels-and-electrochemical-desalination.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot graphene aerogels and capacitive desalination headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean graphene aerogel desalination passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-oxide-electrolysis-and-green-syngas`
+- File: `01-solid-oxide-electrolysis-and-green-syngas.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid oxide electrolysis and green syngas headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean solid oxide electrolysis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanofluidic-osmotic-power-and-blue-energy`
+- File: `01-nanofluidic-osmotic-power-and-blue-energy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanofluidic osmotic power and blue energy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 128-eojeol Korean nanofluidic osmotic power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-tandem-solar-cells-and-silicon-integration`
+- File: `01-perovskite-tandem-solar-cells-and-silicon-integration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite tandem solar and silicon integration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean perovskite tandem solar passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synaptic-transistors-and-brain-inspired-computing`
+- File: `01-synaptic-transistors-and-brain-inspired-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synaptic transistors and neuromorphic computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean synaptic transistors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-hydrogel-actuators-and-soft-robotics`
+- File: `01-hydrogel-actuators-and-soft-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogel actuators and soft robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 92-eojeol Korean hydrogel actuators passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-cold-atom-interferometry-and-quantum-gravimetry`
+- File: `01-cold-atom-interferometry-and-quantum-gravimetry.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cold atom interferometry and quantum gravimetry headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean cold atom gravimetry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-continuous-flow-chemistry-and-microreactors`
+- File: `01-continuous-flow-chemistry-and-microreactors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot continuous flow chemistry and microreactors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 100-eojeol Korean continuous flow chemistry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-thermoelectric-generators-and-waste-heat-harvesting`
+- File: `01-thermoelectric-generators-and-waste-heat-harvesting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot thermoelectric generators and waste heat harvesting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean thermoelectric harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metasurface-flat-optics-and-metalenses`
+- File: `01-metasurface-flat-optics-and-metalenses.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface flat optics and metalens headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean metasurface flat optics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-transformers-and-smart-substations`
+- File: `01-solid-state-transformers-and-smart-substations.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state transformer and smart substation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean solid-state transformer passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-energy-harvesting-and-wearables`
+- File: `01-piezoelectric-energy-harvesting-and-wearables.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric energy harvesting and wearable power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean piezoelectric harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-rna-interfering-therapeutics-and-sirna-delivery`
+- File: `01-rna-interfering-therapeutics-and-sirna-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot RNA interference therapeutics and siRNA delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean RNAi therapeutics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-magnetic-levitation-trains-and-hyperloop-tubes`
+- File: `01-magnetic-levitation-trains-and-hyperloop-tubes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot maglev hyperloop tube transportation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean maglev hyperloop passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metal-hydride-hydrogen-storage-and-solid-hydrides`
+- File: `01-metal-hydride-hydrogen-storage-and-solid-hydrides.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metal hydride hydrogen storage and solid hydride headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean metal hydride storage passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-cryogenic-carbon-capture-and-sublimation`
+- File: `01-cryogenic-carbon-capture-and-sublimation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cryogenic carbon capture and sublimation separation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean cryogenic carbon capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bionic-prosthetics-and-myoelectric-control`
+- File: `01-bionic-prosthetics-and-myoelectric-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bionic prosthetics and myoelectric control headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean bionic prosthetics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-sea-mining-robotics-and-nodule-collection`
+- File: `01-deep-sea-mining-robotics-and-nodule-collection.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep-sea mining robotics and nodule collection headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean deep-sea mining passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-electrosynthesis-and-value-added-chemicals`
+- File: `01-microbial-electrosynthesis-and-value-added-chemicals.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrosynthesis and value-added biochemicals headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean microbial electrosynthesis passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-diamond-quantum-sensors-and-nv-centers`
+- File: `01-diamond-quantum-sensors-and-nv-centers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot diamond NV-center quantum sensor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean diamond NV quantum sensor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-supercritical-co2-power-cycles-and-turbomachinery`
+- File: `01-supercritical-co2-power-cycles-and-turbomachinery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot supercritical CO2 power cycles and turbomachinery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean supercritical CO2 power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-liquid-metal-batteries-and-grid-scale-storage`
+- File: `01-liquid-metal-batteries-and-grid-scale-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot liquid metal battery and grid-scale ESS headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean liquid metal battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-acoustic-metamaterials-and-sonic-cloaking`
+- File: `01-acoustic-metamaterials-and-sonic-cloaking.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic metamaterials and sonic cloaking headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 87-eojeol Korean acoustic metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-crispr-prime-editing-and-genetic-correction`
+- File: `01-crispr-prime-editing-and-genetic-correction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot CRISPR prime editing and precise genetic correction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean prime editing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-silicon-anodes-and-solid-state-electrolytes`
+- File: `01-silicon-anodes-and-solid-state-electrolytes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot silicon anode and solid-state electrolyte interface headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean silicon solid-state battery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-vision-sensors-and-event-cameras`
+- File: `01-neuromorphic-vision-sensors-and-event-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic vision sensors and event-based camera headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean neuromorphic vision passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-space-solar-power-and-microwave-wireless-transmission`
+- File: `01-space-solar-power-and-microwave-wireless-transmission.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot space solar power and microwave wireless transmission headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean space solar power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-nanotube-semiconductors-and-sub-1nm`
+- File: `01-carbon-nanotube-semiconductors-and-sub-1nm.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon nanotube semiconductors and sub-1nm gate headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean CNT semiconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-photodetectors-and-swir-sensing`
+- File: `01-perovskite-photodetectors-and-swir-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite photodetectors and short-wave infrared sensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean perovskite SWIR photodetector passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-wave-energy-and-point-absorbers`
+- File: `01-ocean-wave-energy-and-point-absorbers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean wave energy conversion and point absorber buoy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean ocean wave power passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-directed-evolution-and-enzyme-engineering`
+- File: `01-directed-evolution-and-enzyme-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot directed evolution and enzyme protein engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean directed evolution passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-optogenetics-and-neural-circuit-mapping`
+- File: `01-optogenetics-and-neural-circuit-mapping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optogenetics and neural circuit mapping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean optogenetics neural mapping passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-atmospheric-water-harvesting-and-mof`
+- File: `01-atmospheric-water-harvesting-and-mof.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot atmospheric water harvesting and metal-organic frameworks headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 110-eojeol Korean MOF water harvesting passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-dots-and-electroluminescent-displays`
+- File: `01-quantum-dots-and-electroluminescent-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electroluminescent quantum dot displays and QDEL headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean QDEL display passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bacterial-cellulose-and-biomedical-scaffolds`
+- File: `01-bacterial-cellulose-and-biomedical-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bacterial cellulose and biomedical scaffold headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean bacterial cellulose scaffold passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-cooling-and-caloric-materials`
+- File: `01-solid-state-cooling-and-caloric-materials.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state cooling and caloric material headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean solid-state cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-geological-hydrogen-and-natural-white-hydrogen`
+- File: `01-geological-hydrogen-and-natural-white-hydrogen.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot natural white hydrogen and geological exploration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean geological white hydrogen passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bio-hybrid-robotics-and-living-actuators`
+- File: `01-bio-hybrid-robotics-and-living-actuators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bio-hybrid robotics and living muscle actuator headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean bio-hybrid actuator passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-crystal-fibers-and-supercontinuum-generation`
+- File: `01-photonic-crystal-fibers-and-supercontinuum-generation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic crystal fiber and supercontinuum generation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean photonic crystal fiber passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-superconducting-magnets-and-tokamak-fusion`
+- File: `01-superconducting-magnets-and-tokamak-fusion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot high-temperature superconducting magnet and tokamak nuclear fusion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean HTS magnet fusion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-targeted-protein-degradation-and-molecular-glues`
+- File: `01-targeted-protein-degradation-and-molecular-glues.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot targeted protein degradation and molecular glue headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean targeted protein degradation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-terahertz-wireless-communications-and-sub-thz`
+- File: `01-terahertz-wireless-communications-and-sub-thz.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot terahertz wireless communications and sub-THz network headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean terahertz communications passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-thermal-energy-and-salinity-gradient-power`
+- File: `01-ocean-thermal-energy-and-salinity-gradient-power.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean thermal energy conversion and salinity gradient power headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 85-eojeol Korean marine energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-topological-insulators-and-spintronics`
+- File: `01-topological-insulators-and-spintronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological insulator and spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean topological spintronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-lithium-extraction-and-geothermal-brine`
+- File: `01-direct-lithium-extraction-and-geothermal-brine.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct lithium extraction and geothermal brine resource recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean direct lithium extraction passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nuclear-thermal-propulsion-and-deep-space`
+- File: `01-nuclear-thermal-propulsion-and-deep-space.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear thermal propulsion and deep space headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 133-eojeol Korean nuclear propulsion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-electrochemical-carbon-utilization-and-co2-electrolysis`
+- File: `01-electrochemical-carbon-utilization-and-co2-electrolysis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electrochemical CO2 conversion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean electrochemical CO2 passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-silicon-photonics-and-co-packaged-optics`
+- File: `01-silicon-photonics-and-co-packaged-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot silicon photonics and co-packaged optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean silicon photonics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-biosensors-and-molecular-diagnostics`
+- File: `01-synthetic-biology-biosensors-and-molecular-diagnostics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synthetic biology biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean biosensors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-oxide-fuel-cells-and-electrolyzers`
+- File: `01-solid-oxide-fuel-cells-and-electrolyzers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid oxide fuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean SOFC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-edge-neuromorphic-ai-and-compute-in-memory`
+- File: `01-edge-neuromorphic-ai-and-compute-in-memory.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot edge neuromorphic AI and compute-in-memory headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 113-eojeol Korean edge neuromorphic AI passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-advanced-surface-coatings-and-tribology`
+- File: `01-advanced-surface-coatings-and-tribology.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot advanced surface coatings and tribology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean surface coatings passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-fiber-composites-and-automated-manufacturing`
+- File: `01-carbon-fiber-composites-and-automated-manufacturing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon fiber composites headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 130-eojeol Korean carbon fiber composites passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flow-batteries-and-long-duration-storage`
+- File: `01-flow-batteries-and-long-duration-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flow batteries and long duration storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean flow batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-xenotransplantation-and-organ-engineering`
+- File: `01-xenotransplantation-and-organ-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot xenotransplantation and organ engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean xenotransplantation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-industrial-hyperspectral-imaging-and-quality-control`
+- File: `01-industrial-hyperspectral-imaging-and-quality-control.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot industrial hyperspectral imaging and quality control headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean hyperspectral imaging passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-mineralization-and-industrial-waste-upcycling`
+- File: `01-carbon-mineralization-and-industrial-waste-upcycling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon mineralization and industrial waste upcycling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 107-eojeol Korean carbon mineralization passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-direct-air-capture-and-solid-sorbents`
+- File: `01-direct-air-capture-and-solid-sorbents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot direct air capture and solid sorbents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean DAC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bioelectronic-medicine-and-vagus-stimulation`
+- File: `01-bioelectronic-medicine-and-vagus-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic medicine and vagus stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 82-eojeol Korean bioelectronics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-underwater-vehicles-and-subsea-fleets`
+- File: `01-autonomous-underwater-vehicles-and-subsea-fleets.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot AUV and subsea fleets headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean AUV subsea passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-metamaterials-and-transformation-optics`
+- File: `01-metamaterials-and-transformation-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterials and transformation optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 122-eojeol Korean metamaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-small-modular-reactors-and-molten-salt`
+- File: `01-small-modular-reactors-and-molten-salt.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot SMR and molten salt reactor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 136-eojeol Korean SMR passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wide-bandgap-power-semiconductors`
+- File: `01-wide-bandgap-power-semiconductors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wide-bandgap power semiconductor headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 99-eojeol Korean wide-bandgap power semiconductor passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-drone-swarms-and-urban-air-mobility`
+- File: `01-drone-swarms-and-urban-air-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot drone swarms and UAM headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 125-eojeol Korean drone swarms and UAM passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-green-steel-and-hydrogen-direct-reduction`
+- File: `01-green-steel-and-hydrogen-direct-reduction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot green steel and hydrogen direct reduction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 130-eojeol Korean green steel passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ocean-alkalinity-and-marine-cdr`
+- File: `01-ocean-alkalinity-and-marine-cdr.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ocean alkalinity and marine CDR headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 126-eojeol Korean marine CDR passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-photonic-quantum-computing`
+- File: `01-photonic-quantum-computing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic quantum computing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 127-eojeol Korean photonic quantum passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-batteries-and-solid-electrolytes`
+- File: `01-solid-state-batteries-and-solid-electrolytes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state batteries and solid electrolytes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 108-eojeol Korean solid-state batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-mrna-therapeutics-and-lipid-nanoparticles`
+- File: `01-mrna-therapeutics-and-lipid-nanoparticles.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot mRNA therapeutics and lipid nanoparticles headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 91-eojeol Korean mRNA therapeutics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-brain-computer-interfaces-and-neural-decoding`
+- File: `01-brain-computer-interfaces-and-neural-decoding.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot brain-computer interfaces and neural decoding headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 121-eojeol Korean BCI passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-perovskite-tandem-solar-cells`
+- File: `01-perovskite-tandem-solar-cells.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot perovskite tandem solar cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 123-eojeol Korean perovskite solar passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-industrial-digital-twins-and-cyber-physical-systems`
+- File: `01-industrial-digital-twins-and-cyber-physical-systems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot industrial digital twins and cyber-physical systems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean industrial digital twins passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-bioplastics-and-biodegradable-polymers`
+- File: `01-bioplastics-and-biodegradable-polymers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioplastics and biodegradable polymers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 135-eojeol Korean bioplastics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-geothermal-energy-and-district-heating`
+- File: `01-deep-geothermal-energy-and-district-heating.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep geothermal energy and district heating headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 137-eojeol Korean deep geothermal passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-rehabilitation-robotics-and-wearable-exoskeletons`
+- File: `01-rehabilitation-robotics-and-wearable-exoskeletons.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rehabilitation robotics and wearable exoskeletons headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean rehabilitation robotics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-space-propulsion-and-in-orbit-servicing`
+- File: `01-space-propulsion-and-in-orbit-servicing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot space propulsion and in-orbit servicing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean space propulsion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-next-generation-displays-and-microled`
+- File: `01-next-generation-displays-and-microled.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot next-generation displays and microled headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 132-eojeol Korean next-generation displays passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-ai-ethics-and-algorithmic-governance`
+- File: `01-ai-ethics-and-algorithmic-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot AI ethics and algorithmic governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 140-eojeol Korean AI ethics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-smart-grid-and-virtual-power-plants`
+- File: `01-smart-grid-and-virtual-power-plants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot smart grid and virtual power plants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean smart grid passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-precision-fermentation-and-cellular-agriculture`
+- File: `01-precision-fermentation-and-cellular-agriculture.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot precision fermentation and cellular agriculture headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean precision fermentation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-hydrogen-transport-and-organic-carriers`
+- File: `01-hydrogen-transport-and-organic-carriers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogen transport and organic carriers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean hydrogen transport passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-regenerative-agriculture-and-soil-carbon-sequestration`
+- File: `01-regenerative-agriculture-and-soil-carbon-sequestration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot regenerative agriculture and soil carbon sequestration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean regenerative agriculture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-cryptography-and-post-quantum-key-exchange`
+- File: `01-quantum-cryptography-and-post-quantum-key-exchange.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cryptography and post-quantum key exchange headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 120-eojeol Korean quantum cryptography passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-personalized-nutrition-and-metabolic-profiling`
+- File: `01-personalized-nutrition-and-metabolic-profiling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot personalized nutrition and metabolic profiling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean personalized nutrition passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-neutral-synthetic-fuels-and-efuels`
+- File: `01-carbon-neutral-synthetic-fuels-and-efuels.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon-neutral synthetic fuels and e-fuels headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean synthetic fuels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-deep-sea-mining-and-benthic-ecosystems`
+- File: `01-deep-sea-mining-and-benthic-ecosystems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep-sea mining and benthic ecosystems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 107-eojeol Korean deep-sea mining passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-computing-and-spiking-neural-networks`
+- File: `01-neuromorphic-computing-and-spiking-neural-networks.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic-computing and spiking neural network headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean neuromorphic computing passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-aerospace-composite-materials-and-structural-health`
+- File: `01-aerospace-composite-materials-and-structural-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aerospace-composite materials and structural-health monitoring headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean aerospace composites passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-grid-cyber-resilience-and-ot-security`
+- File: `01-grid-cyber-resilience-and-ot-security.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot grid cyber-resilience and OT security headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean grid cyber-resilience passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-pharmacogenomics-and-precision-therapeutics`
+- File: `01-pharmacogenomics-and-precision-therapeutics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot pharmacogenomics and precision-therapeutics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 88-eojeol Korean pharmacogenomics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-semiconductor-packaging-and-heterogeneous-integration`
+- File: `01-semiconductor-packaging-and-heterogeneous-integration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot semiconductor-packaging and heterogeneous-integration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean advanced-packaging passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-driving-and-sensor-fusion`
+- File: `01-autonomous-driving-and-sensor-fusion.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot autonomous-driving and sensor-fusion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean autonomous-driving passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-climate-geoengineering-and-albedo-modification`
+- File: `01-climate-geoengineering-and-albedo-modification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot climate-geoengineering and albedo-modification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 109-eojeol Korean climate-geoengineering passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-satellite-communications-and-orbital-constellations`
+- File: `01-satellite-communications-and-orbital-constellations.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot satellite-communication and orbital-constellation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 132-eojeol Korean satellite-constellation passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nuclear-fusion-and-plasma-engineering`
+- File: `01-nuclear-fusion-and-plasma-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear-fusion and plasma-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean nuclear-fusion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-nanomaterials-and-surface-engineering`
+- File: `01-nanomaterials-and-surface-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanomaterials and surface-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 84-eojeol Korean nanomaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-autonomous-vessels-and-maritime-robotics`
+- File: `01-autonomous-vessels-and-maritime-robotics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot autonomous-vessels and maritime-robotics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 122-eojeol Korean autonomous-vessels passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-flood-risk-and-river-basin-governance`
+- File: `01-flood-risk-and-river-basin-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flood-risk and river-basin governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 117-eojeol Korean flood-risk passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-capture-and-geological-storage`
+- File: `01-carbon-capture-and-geological-storage.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon-capture and geological-storage headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean carbon-capture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-battery-chemistry-and-energy-storage-safety`
+- File: `01-battery-chemistry-and-energy-storage-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot battery-chemistry and energy-storage safety headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean battery-safety passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-and-metabolic-engineering`
+- File: `01-synthetic-biology-and-metabolic-engineering.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synthetic-biology and metabolic-engineering headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 89-eojeol Korean synthetic-biology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-urban-biodiversity-and-green-infrastructure`
+- File: `01-urban-ecological-connectivity-and-green-infrastructure.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-biodiversity and green-infrastructure headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean urban-ecology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-quantum-sensing-and-metrology`
+- File: `01-quantum-sensing-and-metrology.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum-sensing and metrology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean quantum-metrology passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-hydrogen-storage-and-industrial-safety`
+- File: `01-hydrogen-storage-and-process-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogen-storage and industrial-safety headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean hydrogen-safety passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-robotic-surgery-and-medical-devices`
+- File: `01-robotic-surgery-pathways-and-device-safety.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot robotic-surgery and medical-device headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean robotic-surgery passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-telemedicine-and-digital-health`
+- File: `01-telemedicine-and-digital-health-data.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot telemedicine and digital-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 100-eojeol Korean telemedicine passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wastewater-treatment-and-water-reuse`
+- File: `01-wastewater-treatment-and-water-reuse.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wastewater-treatment and water-reuse headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 116-eojeol Korean water-reuse passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-critical-minerals-and-rare-earth-recycling`
+- File: `01-critical-minerals-and-rare-earth-recycling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot critical-minerals and rare-earth-recycling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 113-eojeol Korean critical-minerals passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-organ-transplant-and-bioethics`
+- File: `01-transplant-compatibility-preservation-and-ethics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot organ-transplant and bioethics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 97-eojeol Korean transplant-ethics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-geothermal-energy-and-heat-decarbonization`
+- File: `01-geothermal-resources-and-heat-decarbonization.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot geothermal-energy and heat-decarbonization headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 104-eojeol Korean geothermal-energy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-wildfire-smoke-and-public-health`
+- File: `01-wildfire-smoke-and-public-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wildfire-smoke and public-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 100-eojeol Korean wildfire-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-coastal-adaptation-and-climate-migration`
+- File: `01-coastal-retreat-and-climate-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot coastal-adaptation and climate-migration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 115-eojeol Korean coastal-mobility passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbiome-and-metabolic-health`
+- File: `01-microbiome-and-metabolic-health-evidence.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbiome and metabolic-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 109-eojeol Korean microbiome-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-dementia-care-and-aging-services`
+- File: `01-dementia-care-and-aging-services.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot dementia-care and aging-services headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 112-eojeol Korean aging-services passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-transit-pricing-and-urban-mobility`
+- File: `01-transit-pricing-and-urban-mobility.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot transit-pricing and urban-mobility headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 106-eojeol Korean mobility-policy passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-aquaculture-and-fisheries-governance`
+- File: `01-aquaculture-production-and-fisheries-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aquaculture-production and fisheries-governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 103-eojeol Korean aquaculture passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-cybersecurity-incident-response`
+- File: `01-incident-detection-and-response.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cybersecurity incident-response headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean cybersecurity passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-privacy-engineering-and-data-governance`
+- File: `01-privacy-engineering-and-data-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot privacy-engineering and data-governance headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 105-eojeol Korean privacy and data-governance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-urban-heat-and-public-health`
+- File: `01-urban-heat-exposure-and-health-response.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot urban-heat and public-health headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 138-eojeol Korean urban-health passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-insurance-risk-and-coverage-design`
+- File: `01-risk-pooling-and-coverage-design.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot insurance-risk and coverage-design headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean insurance passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-psychometric-assessment-and-learning-evidence`
+- File: `01-assessment-design-and-learning-trajectories.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot psychometric-assessment and learning-evidence headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 95-eojeol Korean assessment passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `sports-and-competition-culture`
+- File: `01-league-design-and-match-reading.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot headwords about league design, match analysis, sports integrity, and critical sponsorship discourse across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis metadata blocks and source-lane contexts, exact heading deduplication against the 5,001-heading corpus, 15/15 passage target coverage in a 116-eojeol passage, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-mental-health-and-neurodiversity`
+- File: `01-sensory-regulation-and-neurodiversity.md`
+- Coverage: 15 new targets (12 `advanced_native`, 3 `contemporary_native_hot`) spanning `news_formal`, `native_spoken`, and `slang_online` contexts in one `target_set` passage.
+- Validation: 15 lexical-basis metadata blocks, all required entry sections, 15/15 passage target coverage in a 106-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-water-security-and-climate-resilience`
+- File: `01-water-security-and-climate-resilience.md`
+- Coverage: 15 new `advanced_native` environmental-policy and climate-resilience headwords in the `news_formal` lane in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 90-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-disaster-risk-and-resilience`
+- File: `01-disaster-risk-and-recovery.md`
+- Coverage: 15 new `advanced_native` disaster-risk and recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 110-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `religion-spirituality-and-secular-society`
+- File: `01-religion-spirituality-and-secular-society.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot targets about secularization, pluralism, religious freedom, and public religious discourse across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 103-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-korean-linguistics-and-discourse`
+- File: `01-meaning-structure-and-discourse-context.md`
+- Coverage: 15 new advanced-native linguistics and discourse headwords in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 129-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-archaeological-science-and-heritage`
+- File: `01-archaeological-evidence-and-heritage-context.md`
+- Coverage: 15 new advanced-native archaeology, heritage, and conservation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 104-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-astronomy-and-space-policy`
+- File: `01-celestial-observation-and-space-policy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot astronomy and space-policy targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 112-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-biodiversity-and-forest-conservation`
+- File: `01-forest-connectivity-and-ecosystem-recovery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biodiversity and forest-conservation targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 84-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-atmospheric-science-and-extreme-weather`
+- File: `01-atmospheric-flow-and-extreme-weather.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot atmospheric-science and extreme-weather targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 100-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-archival-science-and-public-memory`
+- File: `01-authenticity-and-long-term-preservation.md`
+- Coverage: 15 new advanced-native archival-science and public-memory targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 89-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-crop-physiology-and-climate-resilience`
+- File: `01-crop-stress-and-resilience.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot crop-physiology and climate-resilience targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 106-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-editorial-and-publishing-practice`
+- File: `01-editorial-work-and-book-lifecycle.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot editorial and publishing-practice targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 118-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-aviation-safety-and-air-traffic`
+- File: `01-flight-flow-and-safety-management.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aviation-flow and safety-management targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 97-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-circular-economy-and-waste-management`
+- File: `01-waste-flows-and-resource-recovery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot circular-economy and waste-management targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 126-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-earth-systems-and-geohazards`
+- File: `01-geological-hazards-and-surface-change.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot earth-systems and geohazard targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 85-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-quantum-computing-and-cryptographic-transition`
+- File: `01-quantum-computing-and-cryptographic-transition.md`
+- Coverage: 15 new advanced-native quantum-computing and cryptographic-transition targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 94-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-geospatial-and-urban-sensing`
+- File: `01-geospatial-analysis-and-urban-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot geospatial-analysis and urban-sensing targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 85-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-translation-and-interpreting-practice`
+- File: `01-translation-and-interpreting-choices.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot translation and interpreting-practice targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 132-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-semiconductor-fabrication-and-yield`
+- File: `01-semiconductor-scaling-and-yield.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot semiconductor-fabrication and yield targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 86-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-chemical-safety-and-laboratory-practice`
+- File: `01-method-validation-and-laboratory-safety.md`
+- Coverage: 15 new advanced-native chemical-analysis and laboratory-safety targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 143-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-ecotoxicology-and-environmental-risk`
+- File: `01-ecotoxicity-and-environmental-risk.md`
+- Coverage: 15 new advanced-native ecotoxicology and environmental-risk targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 89-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-corporate-governance-and-shareholder-rights`
+- File: `01-shareholder-rights-and-board-governance.md`
+- Coverage: 15 new advanced-native corporate-governance and shareholder-rights targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections plus Vietnamese example translations, 15/15 passage target coverage in a 110-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-clinical-research-and-biomedical-evidence`
+- File: `01-clinical-trial-design-and-drug-response.md`
+- Coverage: 15 new advanced-native clinical-trial and biomedical-evidence targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 105-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-robotics-and-human-machine-collaboration`
+- File: `01-human-robot-collaboration-and-control.md`
+- Coverage: 15 new advanced-native robotics and human-machine-collaboration targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 127-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-constitutional-democracy-and-institutional-checks`
+- File: `01-constitutional-interpretation-and-institutional-checks.md`
+- Coverage: 15 new advanced-native constitutional-democracy and institutional-checks targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-behavioral-economics-and-decision-science`
+- File: `01-biases-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral-economics and decision-science targets in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 116-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-digital-forensics-and-evidence`
+- File: `01-digital-evidence-and-forensic-procedure.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot digital-forensics and evidence-procedure targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 117-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-public-procurement-and-integrity`
+- File: `01-procurement-procedure-and-integrity.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot public-procurement and integrity targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 96-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-energy-transition-and-grid-flexibility`
+- File: `01-grid-flexibility-and-energy-transition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot energy-transition and grid-flexibility targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-bioprocessing-and-microbial-fermentation`
+- File: `01-microbial-fermentation-and-process-scale-up.md`
+- Coverage: 15 advanced-native/contemporary-native-hot bioprocessing and microbial-fermentation targets across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 80-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-supply-chain-resilience-and-industrial-procurement`
+- File: `01-supply-chain-resilience-and-industrial-procurement.md`
+- Coverage: 15 advanced-native/contemporary-native-hot supply-chain and industrial-procurement targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in an 82-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-neurotechnology-and-brain-computer-interfaces`
+- File: `01-neural-signals-and-rehabilitation-interfaces.md`
+- Coverage: 15 advanced-native/contemporary-native-hot neurotechnology and brain-computer-interface targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 119-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-telecommunications-network-resilience`
+- File: `01-network-resilience-and-failover.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot telecommunications-resilience targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 115-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-research-design-and-inference`
+- File: `01-measurement-and-generalization.md`
+- Coverage: 15 new advanced-native research-design and inference targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 116-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-soil-science-and-land-restoration`
+- File: `01-soil-health-and-land-restoration.md`
+- Coverage: 15 new advanced-native soil-science and land-restoration targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 124-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-cognitive-neuroscience-and-social-cognition`
+- File: `01-brain-adaptation-and-social-cognition.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cognitive-neuroscience and social-cognition targets across the configured source lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 120-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-infectious-disease-surveillance-and-one-health`
+- File: `01-infectious-disease-surveillance-and-one-health.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot infectious-disease-surveillance and One Health targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 116-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-automation-and-workplace-redesign`
+- File: `01-automation-skill-and-accountability.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot automation and workplace-redesign targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 121-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-railway-engineering-and-transport-resilience`
+- File: `01-railway-safety-and-transport-resilience.md`
+- Coverage: 15 new advanced-native railway-engineering and transport-resilience targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 108-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-spaceflight-engineering-and-orbital-operations`
+- File: `01-orbital-operations-and-space-mission-design.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spaceflight-engineering and orbital-operations targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 105-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-visual-culture-and-art-criticism`
+- File: `01-form-and-context-and-reception.md`
+- Coverage: 15 new advanced-native visual-culture and art-criticism headwords in the `news_formal` lane in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 127-eojeol passage (including natural inflected variants), global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-ocean-and-marine-governance`
+- File: `01-marine-ecosystems-and-ocean-governance.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot marine-ecosystem, fisheries, infrastructure, and ocean-governance targets across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 102-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
+- Topic: `advanced-music-and-performance-language`
+- File: `01-sound-stage-and-performance-language.md`
+- Coverage: 15 new targets (14 `advanced_native`, 1 `contemporary_native_hot`) spanning music, performance, and stage discourse across `news_formal`, `native_spoken`, and `slang_online` lanes in one `target_set` passage.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, 15/15 passage target coverage in a 104-eojeol passage, global heading deduplication, topic README link, and folder-local numbering all pass; `git diff --check` passes.
+
 ## Completed checkpoint
 
 - Topic: `relationships-and-emotional-recovery`
