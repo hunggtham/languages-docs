@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,960 new targets across 264 independent topic batches; 8,960 structured headings toward the 10,000 target, leaving 1,040 after this checkpoint.
+- Progress in this checkpoint: 4,050 new targets across 270 independent topic batches; 9,050 structured headings toward the 10,000 target, leaving 950 after this checkpoint.
+
+- Topic: `advanced-quantum-dot-infrared-photodetectors-and-thermal-imaging`
+- File: `01-quantum-dot-infrared-photodetectors-and-thermal-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot colloidal quantum dot infrared photodetectors and thermal imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sonodynamic-therapy-and-acoustic-cavitation`
+- File: `01-sonodynamic-therapy-and-acoustic-cavitation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sonodynamic therapy and acoustic cavitation tumor treatment headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-photonic-crystal-surface-emitting-lasers-and-lidar`
+- File: `01-photonic-crystal-surface-emitting-lasers-and-lidar.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic crystal surface emitting lasers and LiDAR headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-electrochemical-triboelectric-hybrid-patches`
+- File: `01-wearable-electrochemical-triboelectric-hybrid-patches.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable electrochemical triboelectric hybrid bio patches headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-spintronic-terahertz-metamaterial-modulators`
+- File: `01-spintronic-terahertz-metamaterial-modulators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic terahertz metamaterial modulators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-synthetic-biology-cell-free-protein-synthesis`
+- File: `01-synthetic-biology-cell-free-protein-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cell-free protein synthesis platform and on-demand biomanufacturing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-spintronic-memristors-and-neuromorphic-crossbars`
 - File: `01-spintronic-memristors-and-neuromorphic-crossbars.md`

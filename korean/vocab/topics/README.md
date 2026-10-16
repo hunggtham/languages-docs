@@ -320,6 +320,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [웨어러블 땀 바이오센서와 미세유체의 언어](./advanced-wearable-sweat-biosensors-and-microfluidics/README.md) — `모세관 유도 미세유체 채널 및 유연 전극 기반 비침습 혈당·젖산·코르티솔 실시간 전기화학 연속 모니터링 기술`
 - [위상 마그노닉스와 스핀파 정보 처리의 언어](./advanced-topological-magnonics-and-spin-waves/README.md) — `스커미온 결정 및 카이랄 스핀파 도파로 기반 열 손실 제로 위상보호 에지 모드 초고속 마그논 논리 연산 기술`
 - [생체분해성 마찰전기 발전기와 에코 전자의 언어](./advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics/README.md) — `천연 고분자 마찰층 및 수용성 다당류 필름 기반 환경 자연분해 단기수명 자가발전 센서 및 에코 전자공학 기술`
+- [콜로이드 양자점 적외선 광검출기 및 열화상의 언어](./advanced-quantum-dot-infrared-photodetectors-and-thermal-imaging/README.md) — `용액 공정 기반 양자점 박막 및 쇼트키 접합 기반 비냉각 고해상도 열화상 초점면 어레이 차세대 적외선 광센서 기술`
+- [소노다이내믹 요법 및 음향 공동현상의 언어](./advanced-sonodynamic-therapy-and-acoustic-cavitation/README.md) — `저강도 집속 초음파 및 생체적합성 음향감각제 기반 국소 활성산소종 방출 및 심부 종양 비침습적 정밀 타격 치료 기술`
+- [광자 결정 표면 발광 레이저 및 라이다의 언어](./advanced-photonic-crystal-surface-emitting-lasers-and-lidar/README.md) — `2차원 밴드에지 공진 및 온칩 위상 제어 기반 초협소 빔 발산각 고출력 단일모드 자율주행 반도체 라이다 광원 기술`
+- [웨어러블 마찰대전·전기화학 하이브리드 바이오 패치의 언어](./advanced-wearable-electrochemical-triboelectric-hybrid-patches/README.md) — `신체 역학 에너지 수확 및 땀 미세유체 분석 융합 기반 무전원 자가충전 연속 바이오마커 실시간 모니터링 기술`
+- [스핀트로닉 테라헤르츠 메타물질 변조기의 언어](./advanced-spintronic-terahertz-metamaterial-modulators/README.md) — `광유도 초고속 스핀전류 펄스 및 능동 메타표면 기반 차세대 6G 무선통신 초광대역 테라헤르츠 빔 제어 기술`
+- [무세포 단백질 생합성 플랫폼과 온디맨드 바이오제조의 언어](./advanced-synthetic-biology-cell-free-protein-synthesis/README.md) — `세포막 비의존성 시험관 전사-번역 공정 및 인공 유전자 회로 기반 현장 맞춤형 바이오의약품 초고속 분산 제조 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
