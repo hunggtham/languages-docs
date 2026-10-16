@@ -7,12 +7,14 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Decisions Collaboration And Results](./decisions/01-decisions-collaboration-and-results.md)
 - [Decision Quality And Implementation](./decisions/02-decision-quality-and-implementation.md)
 - [Decision Making Process](./decisions/03-decision-making-process.md)
+- [Strategic Prioritization Stakeholder Alignment And Resource Allocation](./decisions/04-strategic-prioritization-stakeholder-alignment-and-resource-allocation.md)
 
 ## risk
 
 - [Risk Assessment And Preparedness](./risk/01-risk-assessment-and-preparedness.md)
 - [Risk Governance And Response](./risk/02-risk-governance-and-response.md)
 - [Risk Monitoring And Continuity](./risk/03-risk-monitoring-and-continuity.md)
+- [Enterprise Risk Management Supply Chain Vulnerability And Cyber Resilience](./risk/04-enterprise-risk-management-supply-chain-vulnerability-and-cyber-resilience.md)
 
 ## work
 
@@ -82,6 +84,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Personal Finance And Capital Management](./finance/01-personal-finance-and-capital-management.md)
 - [Banking Operations Credit Risk And Financial Regulation](./finance/02-banking-operations-credit-risk-and-financial-regulation.md)
+- [Investment Vehicles Portfolio Diversification And Wealth Preservation](./finance/03-investment-vehicles-portfolio-diversification-and-wealth-preservation.md)
 
 ## economics
 
@@ -96,6 +99,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Courtroom Proceedings And Legal Disputes](./law/01-courtroom-proceedings-and-legal-disputes.md)
 - [Intellectual Property Corporate Liability And Contract Enforcement](./law/02-intellectual-property-corporate-liability-and-contract-enforcement.md)
+- [International Trade Law Antitrust Regulation And Corporate Governance](./law/03-international-trade-law-antitrust-regulation-and-corporate-governance.md)
 
 ## psychology
 
