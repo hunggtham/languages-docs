@@ -27,12 +27,12 @@ The durable generation goal is defined in `/prompt/vocabulary_goal/GOAL.md`. Rea
 
 - A1: 12 topic files covering source lessons `01`–`20`, 400 items; core A1 pass complete.
 - A2: 49 topic files covering source lessons `01`–`81` plus the new expansion batches, 1501 items; topic-folder numbering resets per folder.
-- B1: 2226 items in 101 topic files; topic-folder numbering resets per folder.
-- B2: 2018 items in 89 topic files; B2 expansion is active beyond the original pilot.
+- B1: 2276 items in 103 topic files; topic-folder numbering resets per folder.
+- B2: 2118 items in 93 topic files; B2 expansion is active beyond the original pilot.
 - C1: 5325 items in 287 topic files; topic-folder numbering resets per folder.
 - C2: 11480 items in 574 topic files, including rhetoric plus the newer `computing`, `semiconductors`, and `biomedicine` topic lessons.
 - C2+: 3296 items in 144 lesson files across 52 topic folders; expansion is active in `food-and-wine`, `ceramics`, `textiles`, `horticulture`, `coffee`, `woodworking`, `book-arts`, `stagecraft`, `baking`, `spirits`, `cheesemaking`, `tea`, `glasswork`, `blacksmithing`, `perfumery`, `cartography`, `astronomy`, `geology`, `linguistics`, `architecture`, `music-theory`, `marine-biology`, `entomology`, `archaeobotany`, `ecological-restoration`, `mycology`, `virology`, `materials`, `atmospheric-science`, `hydrology`, `soil-science`, `glaciology`, `plant-physiology`, `neuroscience`, `planetary-geology`, `causal-identification`, `genome-regulation`, `climate-dynamics`, `biogeochemistry`, `quantum-materials`, `statistical-learning`, `ecotoxicology`, `remote-sensing`, `forensic-science`, `medical-imaging`, `urban-planning`, `energy-systems`, `maritime-logistics`, `epidemiology`, `agroecology`, `humanitarian-law`, and `philosophy-of-science` (continued locally).
-- Total: 26246 items (authoritative script count after the parallel subagents batch: B1 business/09, services/07, B2 urban/04, environment/05, media/05, technology/07; 3,754 remaining to 30,000).
+- Total: 26396 items (authoritative script count after the second parallel batch: B1 transport/08, travel/08, B2 urban/05, environment/06, media/06, technology/08; 3,604 remaining to 30,000).
 
 ## Current position
 
@@ -40,7 +40,7 @@ Status: `READY_FOR_30K`
 
 Current level: `B2`
 
-Next lesson: continue B2 with coherent topics (e.g., `b2/art/05`, `b2/business/04`, `b2/economics/05`, `b2/finance/05`, `b2/health/05`) or further B1 (`b1/transport/08`, `b1/travel/08`). The 20,000-item count is a verified checkpoint; milestone 26,000 has been crossed (26,246/30,000, 3,754 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
+Next lesson: continue B2 with coherent topics (e.g., `b2/art/05`, `b2/business/04`, `b2/economics/05`, `b2/finance/05`, `b2/health/05`) or further B1 (`b1/food/06`, `b1/work/07`). The 20,000-item count is a verified checkpoint; milestone 26,000 has been crossed (26,396/30,000, 3,604 remaining); continue until the 30,000-item target. Repository contents and `python3 scripts/vocab-progress.py` remain authoritative. Reuse a topic folder only when a future lesson belongs naturally to that network; otherwise create a new topic folder and start it at `01`.
 
 Before choosing the exact lesson topic and words:
 
@@ -1128,3 +1128,4 @@ At the end of every checkpoint update current level, last completed lesson, next
 - Latest B2 expansion added `b2/health/04-digital-health-therapeutics-telemedicine-systems-and-patient-data-ethics.md` with 25 digital health therapeutics, telemedicine systems, and patient data ethics items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest B2 expansion added `b2/art/04-art-market-valuation-auction-economics-and-cultural-heritage-restitution.md` with 25 art market valuation, auction economics, and cultural heritage restitution items; the lesson includes a contextual network introduction and two integrated review passages with Vietnamese translations. It passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
 - Latest parallel expansion added `b1/business/09-digital-payments-e-commerce-and-freelancing.md`, `b1/services/07-customer-support-public-utilities-and-home-repairs.md`, `b2/environment/05-carbon-capture-methane-abatement-and-ecological-restoration.md`, `b2/media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md`, `b2/technology/07-quantum-computing-cryptography-and-next-gen-computing.md`, and `b2/urban/04-transit-oriented-development-spatial-equity-and-affordable-housing.md` with 150 items across 6 lessons; each includes contextual network introductions and two integrated review passages with Vietnamese translations. All passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.
+- Latest parallel expansion added `b1/transport/08-rail-transit-subway-navigation-and-commuter-habits.md`, `b1/travel/08-eco-tourism-national-parks-and-wilderness-camping.md`, `b2/environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md`, `b2/media/06-generative-ai-synthetic-media-and-copyright-fair-use.md`, `b2/technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md`, and `b2/urban/05-smart-grids-district-energy-and-climate-neutral-cities.md` with 150 items across 6 lessons; each includes contextual network introductions and two integrated review passages with Vietnamese translations. All passed exact-heading deduplication, review-context coverage, format checks, and `git diff --check`.

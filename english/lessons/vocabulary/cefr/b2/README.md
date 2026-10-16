@@ -59,6 +59,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Artificial Intelligence Automation And Data Ethics](./technology/05-artificial-intelligence-automation-and-data-ethics.md)
 - [Cybersecurity Threat Intelligence And Network Defense](./technology/06-cybersecurity-threat-intelligence-and-network-defense.md)
 - [Quantum Computing Cryptography And Next Gen Computing](./technology/07-quantum-computing-cryptography-and-next-gen-computing.md)
+- [Edge Iot Industrial Robotics And Autonomous Systems](./technology/08-edge-iot-industrial-robotics-and-autonomous-systems.md)
 
 ## society
 
@@ -84,6 +85,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Digital Platforms Social Media Algorithms And Content Moderation](./media/03-digital-platforms-social-media-algorithms-and-content-moderation.md)
 - [Investigative Documentary Broadcast Ethics And Information Integrity](./media/04-investigative-documentary-broadcast-ethics-and-information-integrity.md)
 - [Media Monopolies Algorithmic Curation And Disinformation Countermeasures](./media/05-media-monopolies-algorithmic-curation-and-disinformation-countermeasures.md)
+- [Generative Ai Synthetic Media And Copyright Fair Use](./media/06-generative-ai-synthetic-media-and-copyright-fair-use.md)
 
 ## environment
 
@@ -92,6 +94,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Climate Resilience Biodiversity And Conservation Policy](./environment/03-climate-resilience-biodiversity-and-conservation-policy.md)
 - [Industrial Decarbonization Circular Economy And Waste Management](./environment/04-industrial-decarbonization-circular-economy-and-waste-management.md)
 - [Carbon Capture Methane Abatement And Ecological Restoration](./environment/05-carbon-capture-methane-abatement-and-ecological-restoration.md)
+- [Ocean Conservation Marine Protected Areas And Plastics Abatement](./environment/06-ocean-conservation-marine-protected-areas-and-plastics-abatement.md)
 
 ## finance
 
@@ -146,3 +149,4 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Smart Cities Sustainable Mobility And Urban Zoning](./urban/02-smart-cities-sustainable-mobility-and-urban-zoning.md)
 - [Urban Regeneration Infrastructure Resilience And Civic Placemaking](./urban/03-urban-regeneration-infrastructure-resilience-and-civic-placemaking.md)
 - [Transit Oriented Development Spatial Equity And Affordable Housing](./urban/04-transit-oriented-development-spatial-equity-and-affordable-housing.md)
+- [Smart Grids District Energy And Climate Neutral Cities](./urban/05-smart-grids-district-energy-and-climate-neutral-cities.md)

@@ -51,6 +51,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Air Travel And Airport Procedures](./transport/02-air-travel-and-airport-procedures.md)
 - [Urban Transit And Daily Commuting](./transport/06-urban-transit-and-daily-commuting.md)
 - [Road Trips Vehicle Maintenance And Traffic Safety](./transport/07-road-trips-vehicle-maintenance-and-traffic-safety.md)
+- [Rail Transit Subway Navigation And Commuter Habits](./transport/08-rail-transit-subway-navigation-and-commuter-habits.md)
 
 ## education
 
@@ -82,6 +83,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Road Trips And Rail Journeys](./travel/05-road-trips-and-rail-journeys.md)
 - [Beach Vacations And Cruise Travel](./travel/06-beach-vacations-and-cruise-travel.md)
 - [Hotel Hospitality And Guest Services](./travel/07-hotel-hospitality-and-guest-services.md)
+- [Eco Tourism National Parks And Wilderness Camping](./travel/08-eco-tourism-national-parks-and-wilderness-camping.md)
 
 ## society
 
