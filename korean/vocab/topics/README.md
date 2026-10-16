@@ -236,6 +236,12 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [페로브스카이트 단결정과 차세대 방사선 검출기의 언어](./advanced-perovskite-single-crystal-radiation-detectors/README.md) — `페로브스카이트 단결정 반도체 직접 변환 기반 저선량 고해상도 디지털 방사선 영상 계측 기술`
 - [광촉매 물분해와 태양광 수소 생산의 언어](./advanced-photocatalytic-water-splitting-and-solar-hydrogen/README.md) — `가시광 흡수 반도체 광촉매 및 전하 분리 제어 기반 무탄소 태양광 그린 수소 제조 기술`
 - [프로그래머블 메타물질과 형상기억합금의 언어](./advanced-programmable-metamaterials-and-shape-memory-alloys/README.md) — `형상기억합금 복합체 및 4D 프린팅 기반 가역 변형 지능형 기계 메타 구조 기술`
+- [메타표면 홀로그래피와 라이트 필드 디스플레이의 언어](./advanced-metasurface-holography-and-light-field-displays/README.md) — `서브파장 나노 격자 기반 위상 변조 및 광시야각 무안경 3차원 입체 디스플레이 기술`
+- [압전 생체 재료와 조직 재생 공학의 언어](./advanced-piezoelectric-biomaterials-and-tissue-regeneration/README.md) — `생체전기기계적 자극 및 자가발전 생체 스캐폴드 기반 인체 조직 재생 가속화 기술`
+- [리튬황 전지와 폴리설파이드 셔틀 억제의 언어](./advanced-lithium-sulfur-batteries-and-polysulfide-shuttling/README.md) — `폴리설파이드 셔틀 억제 및 다기능성 분리막 계면 엔지니어링 기반 초경량 리튬황 이차전지 기술`
+- [뉴로모픽 비전 센서와 이벤트 기반 카메라의 언어](./advanced-neuromorphic-vision-sensors-and-event-based-cameras/README.md) — `생체 망막 모사 비동기 이벤트 감지 및 스파이킹 신경망 연동 기반 초저전력 머신비전 기술`
+- [미생물 전기화학 시스템과 폐수 자원 회수의 언어](./advanced-microbial-electrochemical-systems-and-resource-recovery/README.md) — `세균 세포외 전자전달 및 전기활성 생물막 기반 폐수 처리 동시 전력·자원 회수 기술`
+- [전기열량 고분자와 고체 냉각 기술의 언어](./advanced-solid-state-cooling-and-electrocaloric-polymers/README.md) — `전기장 유도 엔트로피 변화 기반 무냉매 고효율 고체 냉각 및 반도체 핫스팟 열관리 기술`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

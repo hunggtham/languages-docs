@@ -18,7 +18,43 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 2,700 new targets across 180 independent topic batches; 7,700 structured headings toward the 10,000 target, leaving 2,300 after this checkpoint.
+- Progress in this checkpoint: 2,790 new targets across 186 independent topic batches; 7,790 structured headings toward the 10,000 target, leaving 2,210 after this checkpoint.
+
+- Topic: `advanced-metasurface-holography-and-light-field-displays`
+- File: `01-metasurface-holography-and-light-field-displays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface holography and light field displays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 86-eojeol Korean metasurface holography passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-piezoelectric-biomaterials-and-tissue-regeneration`
+- File: `01-piezoelectric-biomaterials-and-tissue-regeneration.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric biomaterials and tissue regeneration headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean piezoelectric biomaterials passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-lithium-sulfur-batteries-and-polysulfide-shuttling`
+- File: `01-lithium-sulfur-batteries-and-polysulfide-shuttling.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lithium-sulfur batteries and polysulfide shuttling headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 80-eojeol Korean lithium-sulfur batteries passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-neuromorphic-vision-sensors-and-event-based-cameras`
+- File: `01-neuromorphic-vision-sensors-and-event-based-cameras.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic vision sensors and event-based cameras headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 94-eojeol Korean neuromorphic vision passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-microbial-electrochemical-systems-and-resource-recovery`
+- File: `01-microbial-electrochemical-systems-and-resource-recovery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microbial electrochemical systems and resource recovery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 81-eojeol Korean microbial electrochemistry passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-state-cooling-and-electrocaloric-polymers`
+- File: `01-solid-state-cooling-and-electrocaloric-polymers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid-state cooling and electrocaloric polymers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 83-eojeol Korean electrocaloric cooling passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-metamaterial-supercapacitors-and-pseudocapacitive-storage`
 - File: `01-metamaterial-supercapacitors-and-pseudocapacitive-storage.md`
