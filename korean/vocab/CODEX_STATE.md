@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 5,160 new targets across 344 independent topic batches; 10,160 structured headings toward the 15,000 target, leaving 4,840 after this checkpoint.
+- Progress in this checkpoint: 5,310 new targets across 354 independent topic batches; 10,310 structured headings toward the 15,000 target, leaving 4,690 after this checkpoint.
+
+- Topic: `linguistics-sociolinguistics-and-language-contact`
+- File: `01-sociolinguistics-and-language-contact.md`
+- Coverage: 15 new advanced-native sociolinguistics and language contact headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-ethics-and-moral-responsibility`
+- File: `01-ethics-and-moral-responsibility.md`
+- Coverage: 15 new advanced-native ethics and moral responsibility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `politics-international-relations-and-multilateral-diplomacy`
+- File: `01-international-relations-and-multilateral-diplomacy.md`
+- Coverage: 15 new advanced-native international relations and multilateral diplomacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-fintech-and-algorithmic-trading`
+- File: `01-fintech-and-algorithmic-trading.md`
+- Coverage: 15 new advanced-native fintech and algorithmic trading headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `education-educational-equity-and-digital-learning`
+- File: `01-educational-equity-and-digital-learning.md`
+- Coverage: 15 new advanced-native educational equity and digital learning headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `architecture-urban-regeneration-and-smart-cities`
+- File: `01-urban-regeneration-and-smart-cities.md`
+- Coverage: 15 new advanced-native urban regeneration and smart cities headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-intellectual-property-and-patent-litigation`
+- File: `01-intellectual-property-and-patent-litigation.md`
+- Coverage: 15 new advanced-native intellectual property and patent litigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `anthropology-cultural-relativism-and-ethnography`
+- File: `01-cultural-relativism-and-ethnography.md`
+- Coverage: 15 new advanced-native cultural relativism and ethnography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `medicine-public-health-and-epidemiological-surveillance`
+- File: `01-public-health-and-epidemiological-surveillance.md`
+- Coverage: 15 new advanced-native public health and epidemiological surveillance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `management-strategic-leadership-and-corporate-sustainability`
+- File: `01-strategic-leadership-and-corporate-sustainability.md`
+- Coverage: 15 new advanced-native strategic leadership and corporate sustainability headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `business-corporate-mergers-and-acquisitions`
 - File: `01-corporate-mergers-and-acquisitions.md`

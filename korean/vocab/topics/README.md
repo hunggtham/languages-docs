@@ -400,6 +400,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [데이터 프라이버시 및 사이버 보안 거버넌스의 언어](./technology-data-privacy-and-cybersecurity/README.md) — `제로 트러스트 보안 아키텍처 및 개인정보 자기결정권 보호 기반 다중요소 인증과 침해사고 포렌식 조사 체계`
 - [현대 미술 비평 및 미학 담론의 언어](./culture-contemporary-art-and-aesthetic-criticism/README.md) — `포스트모더니즘 미학 담론 및 장소특정적 설치미술 기반 관계미학적 관객 참여와 시각문화 기호학적 비평`
 - [조직 내 갈등 관리 및 상생 협상 기술의 언어](./workplace-organizational-conflict-and-negotiation/README.md) — `노사상생 단체교섭 및 심리적 안전감 기반 윈윈 상호이익 협상과 갈등 전환 회복적 대화 기술`
+- [사회언어학 및 언어 접촉의 역동성의 언어](./linguistics-sociolinguistics-and-language-contact/README.md) — `사회언어학적 변이 분석 및 언어접촉 차용어 확산 기반 코드스위칭과 다문화 사회 언어생태계 공존 모델`
+- [윤리학 및 도덕적 책임 철학의 언어](./philosophy-ethics-and-moral-responsibility/README.md) — `의무론과 공리주의 및 롤스 정의론 기반 인공지능 윤리 기준과 도덕적 책임 귀속 철학적 성찰`
+- [국제 관계 및 다자 외교 안보 전략의 언어](./politics-international-relations-and-multilateral-diplomacy/README.md) — `다자안보체제 세력균형 및 경제안보 공급망 블록화 대응 중견국 외교와 글로벌 거버넌스 개혁 과제`
+- [핀테크 및 알고리즘 금융 트레이딩의 언어](./finance-fintech-and-algorithmic-trading/README.md) — `알고리즘 초단타 매매 및 블록체인 탈중앙화 금융 기반 양적 포트폴리오 최적화와 사이버 리스크 관리`
+- [교육 형평성 및 디지털 맞춤 학습 혁신의 언어](./education-educational-equity-and-digital-learning/README.md) — `교육격차 해소 및 AI 맞춤 튜터링 기반 에듀테크 교수학습 설계와 포용적 보편적 학습 설계 모델`
+- [도시 재생 및 스마트 시티 건축 공학의 언어](./architecture-urban-regeneration-and-smart-cities/README.md) — `도시재생 뉴딜 및 디지털 트윈 시뮬레이션 기반 보행친화 압축도시와 탄소중립 스마트 인프라 구축`
+- [지식재산권 보호 및 특허 분쟁 소송의 언어](./law-intellectual-property-and-patent-litigation/README.md) — `특허침해 금지 가처분 및 영업비밀 보호 기반 표준필수특허 라이선스와 글로벌 특허소송 대응 절차`
+- [문화인류학 및 민족지 현장 연구의 언어](./anthropology-cultural-relativism-and-ethnography/README.md) — `문화상대주의 및 참여관찰 민족지 현장연구 기반 상징·의례 심층기술과 문화변용 정체성 재구성`
+- [공중 보건 및 역학 감시 감염병 대응의 언어](./medicine-public-health-and-epidemiological-surveillance/README.md) — `역학조사 감염경로 추적 및 집단면역 형성 기반 원헬스 감염병 위기경보와 공중보건 인프라 확충`
+- [전략적 리더십 및 기업 지속가능경영의 언어](./management-strategic-leadership-and-corporate-sustainability/README.md) — `이사회 지속가능경영 책임 및 ESG 평가 기반 애자일 조직 전환과 이해관계자 자본주의 실천 전략`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
