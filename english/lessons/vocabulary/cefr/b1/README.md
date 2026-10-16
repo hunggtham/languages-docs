@@ -98,6 +98,8 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Community Participation And Local Services](./society/04-community-participation-and-local-services.md)
 - [Public Policy And Civic Communication](./society/05-public-policy-and-civic-communication.md)
 - [Community Help And Local Access](./society/06-community-help-and-local-access.md)
+- [Community Action And Social Initiatives](./society/07-community-action-and-social-initiatives.md)
+- [Volunteering Fundraising And Community Service](./society/08-volunteering-fundraising-and-community-service.md)
 
 ## technology
 
@@ -116,6 +118,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Cultural Programs And Public Arts](./culture/03-cultural-programs-and-public-arts.md)
 - [Festivals Traditions And Customs](./culture/04-festivals-traditions-and-customs.md)
 - [Social Etiquette And Cultural Traditions](./culture/05-social-etiquette-and-cultural-traditions.md)
+- [Multicultural Festivals Cross Cultural Customs And Hospitality](./culture/06-multicultural-festivals-cross-cultural-customs-and-hospitality.md)
 
 ## food
 

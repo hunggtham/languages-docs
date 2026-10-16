@@ -100,6 +100,8 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Agroforestry Regenerative Agriculture And Soil Microbiome](./environment/07-agroforestry-regenerative-agriculture-and-soil-microbiome.md)
 - [Climate Tipping Points Cryosphere Loss And Polar Adaptation](./environment/08-climate-tipping-points-cryosphere-loss-and-polar-adaptation.md)
 - [Deep Sea Mining Governance Hydrothermal Vents And Benthic Ecology](./environment/09-deep-sea-mining-governance-hydrothermal-vents-and-benthic-ecology.md)
+- [Nuclear Waste Reprocessing Deep Geological Repositories And Radiation Safety](./environment/10-nuclear-waste-reprocessing-deep-geological-repositories-and-radiation-safety.md)
+- [Biodiversity Offsets Habitat Connectivity And Wildlife Corridors](./environment/11-biodiversity-offsets-habitat-connectivity-and-wildlife-corridors.md)
 
 ## finance
 
@@ -165,3 +167,5 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Waterfront Revitalization Flood Resilience And Civic Commons](./urban/06-waterfront-revitalization-flood-resilience-and-civic-commons.md)
 - [Suburban Retrofit Complete Streets And Transit Equity](./urban/07-suburban-retrofit-complete-streets-and-transit-equity.md)
 - [Circular Construction Embodied Carbon And Mass Timber](./urban/08-circular-construction-embodied-carbon-and-mass-timber.md)
+- [Sponge Cities Permeable Pavements And Biophilic Urbanism](./urban/09-sponge-cities-permeable-pavements-and-biophilic-urbanism.md)
+- [Tactical Urbanism Pop Up Plazas And Pedestrianization](./urban/10-tactical-urbanism-pop-up-plazas-and-pedestrianization.md)
