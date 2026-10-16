@@ -29,6 +29,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Consensus And Negotiation](./communication/03-consensus-and-negotiation.md)
 - [Information Exchange And Media](./communication/04-information-exchange-and-media.md)
 - [Cross Cultural Negotiation Diplomatic Protocol And Corporate Communication](./communication/05-cross-cultural-negotiation-diplomatic-protocol-and-corporate-communication.md)
+- [Crisis Communication Public Relations And Reputation Management](./communication/06-crisis-communication-public-relations-and-reputation-management.md)
 
 ## research
 
@@ -45,6 +46,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Learning Environments And Student Life](./education/05-learning-environments-and-student-life.md)
 - [Higher Education Governance And Academic Milestones](./education/06-higher-education-governance-and-academic-milestones.md)
 - [Vocational Accreditation Curriculum Standards And Educational Equity](./education/07-vocational-accreditation-curriculum-standards-and-educational-equity.md)
+- [Digital Pedagogy Remote Learning And Academic Integrity](./education/08-digital-pedagogy-remote-learning-and-academic-integrity.md)
 
 ## technology
 
@@ -63,6 +65,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [Social Issues And Welfare](./society/04-social-issues-and-welfare.md)
 - [Immigration Diversity And Social Inclusion](./society/05-immigration-diversity-and-social-inclusion.md)
 - [Civil Liberties Grassroots Activism And Social Justice](./society/06-civil-liberties-grassroots-activism-and-social-justice.md)
+- [Demographic Aging Social Care And Intergenerational Equity](./society/07-demographic-aging-social-care-and-intergenerational-equity.md)
 
 ## health
 
@@ -117,6 +120,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Government Institutions And Electoral Politics](./politics/01-government-institutions-and-electoral-politics.md)
 - [International Diplomacy Geopolitics And Treaties](./politics/02-international-diplomacy-geopolitics-and-treaties.md)
+- [Public Policy Analysis Legislative Advocacy And Regulatory Reform](./politics/03-public-policy-analysis-legislative-advocacy-and-regulatory-reform.md)
 
 ## art
 
