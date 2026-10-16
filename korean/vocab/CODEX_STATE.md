@@ -18,7 +18,55 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,680 new targets across 112 independent topic batches; 6,680 structured headings toward the 10,000 target, leaving 3,320 after this checkpoint.
+- Progress in this checkpoint: 1,800 new targets across 120 independent topic batches; 6,800 structured headings toward the 10,000 target, leaving 3,200 after this checkpoint.
+
+- Topic: `advanced-nuclear-thermal-propulsion-and-deep-space`
+- File: `01-nuclear-thermal-propulsion-and-deep-space.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nuclear thermal propulsion and deep space headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 133-eojeol Korean nuclear propulsion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-electrochemical-carbon-utilization-and-co2-electrolysis`
+- File: `01-electrochemical-carbon-utilization-and-co2-electrolysis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot electrochemical CO2 conversion headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 119-eojeol Korean electrochemical CO2 passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-silicon-photonics-and-co-packaged-optics`
+- File: `01-silicon-photonics-and-co-packaged-optics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot silicon photonics and co-packaged optics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 101-eojeol Korean silicon photonics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-synthetic-biology-biosensors-and-molecular-diagnostics`
+- File: `01-synthetic-biology-biosensors-and-molecular-diagnostics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot synthetic biology biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 102-eojeol Korean biosensors passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-solid-oxide-fuel-cells-and-electrolyzers`
+- File: `01-solid-oxide-fuel-cells-and-electrolyzers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot solid oxide fuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 96-eojeol Korean SOFC passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-edge-neuromorphic-ai-and-compute-in-memory`
+- File: `01-edge-neuromorphic-ai-and-compute-in-memory.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot edge neuromorphic AI and compute-in-memory headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 113-eojeol Korean edge neuromorphic AI passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-advanced-surface-coatings-and-tribology`
+- File: `01-advanced-surface-coatings-and-tribology.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot advanced surface coatings and tribology headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean surface coatings passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-carbon-fiber-composites-and-automated-manufacturing`
+- File: `01-carbon-fiber-composites-and-automated-manufacturing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon fiber composites headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 130-eojeol Korean carbon fiber composites passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-flow-batteries-and-long-duration-storage`
 - File: `01-flow-batteries-and-long-duration-storage.md`

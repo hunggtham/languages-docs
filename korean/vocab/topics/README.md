@@ -168,6 +168,14 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [이종 장기 이식과 생체 장기 공학의 언어](./advanced-xenotransplantation-and-organ-engineering/README.md) — `유전자 교정 기반 이종 장기 이식과 거부반응 극복`
 - [산업용 초분광 영상과 비파괴 검사의 언어](./advanced-industrial-hyperspectral-imaging-and-quality-control/README.md) — `초분광 영상 기반 비파괴 공정 검사와 분광 데이터 분석`
 - [탄소 광물화와 산업 부산물 순환의 언어](./advanced-carbon-mineralization-and-industrial-waste-upcycling/README.md) — `산업 부산물 기반 탄소 광물화와 친환경 건자재 제조`
+- [원자력 열추진과 심우주 탐사의 언어](./advanced-nuclear-thermal-propulsion-and-deep-space/README.md) — `원자력 열추진 로켓과 심우주 유인 탐사 기술`
+- [전기화학적 탄소 전환과 전해 공학의 언어](./advanced-electrochemical-carbon-utilization-and-co2-electrolysis/README.md) — `이산화탄소 전해 환원과 전기화학적 탄소 순환 플랫폼`
+- [실리콘 포토닉스와 공동 패키징 광학의 언어](./advanced-silicon-photonics-and-co-packaged-optics/README.md) — `실리콘 포토닉스 기반 광전 집적과 공동 패키징 광학 시스템`
+- [합성생물학 바이오센서와 분자 진단의 언어](./advanced-synthetic-biology-biosensors-and-molecular-diagnostics/README.md) — `합성생물학 기반 바이오센서와 유전자 회로 분자 진단`
+- [고체 산화물 연료전지와 고온 수전해의 언어](./advanced-solid-oxide-fuel-cells-and-electrolyzers/README.md) — `고체 산화물 연료전지와 고온 수전해 기반 청정 에너지 변환`
+- [에지 뉴로모픽 인공지능과 인메모리 컴퓨팅의 언어](./advanced-edge-neuromorphic-ai-and-compute-in-memory/README.md) — `프로세싱 인 메모리와 에지 지능형 뉴로모픽 반도체`
+- [첨단 표면 코팅과 트라이볼로지의 언어](./advanced-advanced-surface-coatings-and-tribology/README.md) — `극저마찰 나노 코팅과 극한 환경 내마모 표면 공학`
+- [탄소 섬유 복합재와 자동화 제조 공정의 언어](./advanced-carbon-fiber-composites-and-automated-manufacturing/README.md) — `탄소 섬유 복합재 자동 적층 공정과 친환경 수지 순환 제조`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
