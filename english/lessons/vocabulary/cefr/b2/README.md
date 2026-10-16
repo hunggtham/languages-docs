@@ -67,6 +67,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Clinical Consultation And Health Management](./health/01-clinical-consultation-and-health-management.md)
 - [Public Health Epidemics And Healthcare Infrastructure](./health/02-public-health-epidemics-and-healthcare-infrastructure.md)
+- [Biomedical Diagnostics Pharmacology And Chronic Disease Management](./health/03-biomedical-diagnostics-pharmacology-and-chronic-disease-management.md)
 
 ## media
 
@@ -90,10 +91,12 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Market Mechanisms And Macroeconomic Indicators](./economics/01-market-mechanisms-and-macroeconomic-indicators.md)
 - [Fiscal Policy Taxation And Public Debt](./economics/02-fiscal-policy-taxation-and-public-debt.md)
+- [Monetary Policy Inflation Dynamics And Central Banking](./economics/03-monetary-policy-inflation-dynamics-and-central-banking.md)
 
 ## business
 
 - [Corporate Strategy Market Competition And Mergers](./business/01-corporate-strategy-market-competition-and-mergers.md)
+- [Supply Chain Logistics Procurement And Inventory Optimization](./business/02-supply-chain-logistics-procurement-and-inventory-optimization.md)
 
 ## law
 
@@ -116,6 +119,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 
 - [Visual Arts Artistic Creation And Gallery Exhibitions](./art/01-visual-arts-artistic-creation-and-gallery-exhibitions.md)
 - [Performing Arts Theater And Cinematic Expression](./art/02-performing-arts-theater-and-cinematic-expression.md)
+- [Curatorial Practice Museum Provenance And Cultural Preservation](./art/03-curatorial-practice-museum-provenance-and-cultural-preservation.md)
 
 ## urban
 
