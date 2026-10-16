@@ -144,6 +144,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [지능형 전력망과 가상발전소의 언어](./advanced-smart-grid-and-virtual-power-plants/README.md) — `가상발전소와 분산에너지 지능형 전력망 제어`
 - [정밀 발효와 세포 농업의 언어](./advanced-precision-fermentation-and-cellular-agriculture/README.md) — `세포 농업과 미생물 정밀 발효 기반 단백질 혁신`
 - [수소 운송과 액상 유기 수소 운반체의 언어](./advanced-hydrogen-transport-and-organic-carriers/README.md) — `대용량 수소 운송과 수소 캐리어 저장 인프라`
+- [심부 지열 에너지와 지역난방의 언어](./advanced-deep-geothermal-energy-and-district-heating/README.md) — `심부 지열 발전과 지속가능한 지역난방 열망 연계`
+- [재활 로봇공학과 착용형 외골격의 언어](./advanced-rehabilitation-robotics-and-wearable-exoskeletons/README.md) — `착용형 외골격 로봇과 신경근 재활 중재`
+- [우주 추진과 궤도상 서비스의 언어](./advanced-space-propulsion-and-in-orbit-servicing/README.md) — `전기 추진 시스템과 궤도상 위성 서비스 자율 운용`
+- [차세대 디스플레이와 마이크로LED의 언어](./advanced-next-generation-displays-and-microled/README.md) — `마이크로LED와 무기 발광 소자 기반 초고해상도 디스플레이`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

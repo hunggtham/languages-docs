@@ -18,7 +18,31 @@
 ## 2026-10-09 10,000-word expansion kickoff
 
 - Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 1,320 new targets across 88 independent topic batches; 6,320 structured headings toward the 10,000 target, leaving 3,680 after this checkpoint.
+- Progress in this checkpoint: 1,380 new targets across 92 independent topic batches; 6,380 structured headings toward the 10,000 target, leaving 3,620 after this checkpoint.
+
+- Topic: `advanced-deep-geothermal-energy-and-district-heating`
+- File: `01-deep-geothermal-energy-and-district-heating.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep geothermal energy and district heating headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 137-eojeol Korean deep geothermal passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-rehabilitation-robotics-and-wearable-exoskeletons`
+- File: `01-rehabilitation-robotics-and-wearable-exoskeletons.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot rehabilitation robotics and wearable exoskeletons headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 111-eojeol Korean rehabilitation robotics passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-space-propulsion-and-in-orbit-servicing`
+- File: `01-space-propulsion-and-in-orbit-servicing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot space propulsion and in-orbit servicing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 114-eojeol Korean space propulsion passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
+
+- Topic: `advanced-next-generation-displays-and-microled`
+- File: `01-next-generation-displays-and-microled.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot next-generation displays and microled headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+- Passage coverage: one coherent 132-eojeol Korean next-generation displays passage with all 15 targets in one `target_set`, plus Vietnamese translation.
+- Validation: 15 lexical-basis/source-lane metadata blocks, all required entry sections, global heading deduplication, topic README link, and `git diff --check` pass.
 
 - Topic: `advanced-ai-ethics-and-algorithmic-governance`
 - File: `01-ai-ethics-and-algorithmic-governance.md`
