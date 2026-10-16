@@ -13,6 +13,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 07 — Museum conservation, pigment spectroscopy, and canvas restoration](./art/07-museum-conservation-pigment-spectroscopy-and-canvas-restoration.md)
 - [B2 Vocabulary 08 — Site-specific installations, land art, and environmental sculpture](./art/08-site-specific-installations-land-art-and-environmental-sculpture.md)
 - [B2 Vocabulary 09 — Digital installations, generative art, and virtual exhibits](./art/09-digital-installations-generative-art-and-virtual-exhibits.md)
+- [B2 Vocabulary 10 — Interactive sound art, acoustic ecology, and soundscape installations](./art/10-interactive-sound-art-acoustic-ecology-and-soundscape-installations.md)
 
 ## business
 
@@ -25,6 +26,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Business: Corporate Turnarounds, Distressed Debt, and Divestitures](./business/07-corporate-turnarounds-distressed-debt-and-divestitures.md)
 - [Supply Chain Nearshoring, Geopolitical Decoupling, and Resilience](./business/08-supply-chain-nearshoring-geopolitical-decoupling-and-resilience.md)
 - [Strategic Joint Ventures, Cross-Border Alliances, and Consortiums](./business/09-strategic-joint-ventures-cross-border-alliances-and-consortiums.md)
+- [Joint Ventures, Technology Licensing, and Foreign Subsidiaries](./business/10-joint-ventures-technology-licensing-and-foreign-subsidiaries.md)
 
 ## communication
 
@@ -55,6 +57,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [08. Macroprudential Regulation, Systemic Risk, and Financial Contagion](./economics/08-macroprudential-regulation-systemic-risk-and-financial-contagion.md)
 - [09. Central Bank Digital Currencies, Payment Systems, and Monetary Sovereignty](./economics/09-central-bank-digital-currencies-payment-systems-and-monetary-sovereignty.md)
 - [10. Sovereign Wealth Funds, Foreign Direct Investment, and Capital Controls](./economics/10-sovereign-wealth-funds-foreign-direct-investment-and-capital-controls.md)
+- [11. Demographic Transition, Dependency Ratios, and Silver Economy](./economics/11-demographic-transition-dependency-ratios-and-silver-economy.md)
 
 ## education
 
@@ -86,6 +89,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 15 — Soil carbon sequestration, regenerative grazing, and biochar](./environment/15-soil-carbon-sequestration-regenerative-grazing-and-biochar.md)
 - [Ocean Alkalinity Enhancement, Marine Carbon Removal, and Coastal Blue Carbon](./environment/16-ocean-alkalinity-enhancement-marine-carbon-removal-and-coastal-blue-carbon.md)
 - [Enhanced Rock Weathering, Carbon Mineralization, and Basalt Spreading](./environment/17-enhanced-rock-weathering-carbon-mineralization-and-basalt-spreading.md)
+- [Mangrove Afforestation, Blue Carbon Credits, and Coastal Bioshields](./environment/18-mangrove-afforestation-blue-carbon-credits-and-coastal-bioshields.md)
 
 ## finance
 
@@ -99,6 +103,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Finance: Algorithmic Trading, Market Microstructure, and Dark Pools](./finance/08-algorithmic-trading-market-microstructure-and-dark-pools.md)
 - [Infrastructure Project Finance, Public-Private Partnerships, and Concession Agreements](./finance/09-infrastructure-project-finance-public-private-partnerships-and-concession-agreements.md)
 - [Private Credit, Syndicated Facilities, and Mezzanine Debt](./finance/10-private-credit-syndicated-facilities-and-mezzanine-debt.md)
+- [Catastrophe Bonds, Insurance-Linked Securities, and Reinsurance Pools](./finance/11-catastrophe-bonds-insurance-linked-securities-and-reinsurance-pools.md)
 
 ## health
 
@@ -111,6 +116,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 07 — Epidemiological surveillance, contact tracing, and quarantine policy](./health/07-epidemiological-surveillance-contact-tracing-and-quarantine-policy.md)
 - [B2 Vocabulary 08 — Occupational health, industrial hygiene, and ergonomic standards](./health/08-occupational-health-industrial-hygiene-and-ergonomic-standards.md)
 - [B2 Vocabulary 09 — Nosocomial infection control, antimicrobial stewardship, and isolation wards](./health/09-nosocomial-infection-control-antimicrobial-stewardship-and-isolation-wards.md)
+- [B2 Vocabulary 10 — Antimicrobial peptides, phage therapy, and novel pathogen diagnostics](./health/10-antimicrobial-peptides-phage-therapy-and-novel-pathogen-diagnostics.md)
 
 ## history
 
@@ -128,6 +134,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [08. Antitrust Enforcement, Platform Monopolies, and Merger Remedies](./law/08-antitrust-enforcement-platform-monopolies-and-merger-remedies.md)
 - [09. Cross-Border Insolvency, Chapter 15 Recognition, and Creditor Coordination](./law/09-cross-border-insolvency-chapter-15-recognition-and-creditor-coordination.md)
 - [10. Multinational Arbitration, Bilateral Investment Treaties, and Forum Selection](./law/10-multinational-arbitration-bilateral-investment-treaties-and-forum-selection.md)
+- [11. Maritime Law, Salvage Rights, and Admiralty Jurisdiction](./law/11-maritime-law-salvage-rights-and-admiralty-jurisdiction.md)
 
 ## media
 
@@ -207,6 +214,7 @@ Files are numbered independently inside each topic folder. B2 lessons use deeper
 - [B2 Vocabulary 14 — Tactical urbanism, pop-up bike lanes, and pedestrian plazas](./urban/14-tactical-urbanism-pop-up-bike-lanes-and-pedestrian-plazas.md)
 - [Zero-Emission Zones, Low-Carbon Freight, and Last-Mile Logistics](./urban/15-zero-emission-zones-low-carbon-freight-and-last-mile-logistics.md)
 - [Sponge City Infrastructure, Rain Gardens, and Urban Floodways](./urban/16-sponge-city-infrastructure-rain-gardens-and-urban-floodways.md)
+- [Pocket Parks, Urban Micro-Forests, and Pocket Green Spaces](./urban/17-pocket-parks-urban-micro-forests-and-pocket-green-spaces.md)
 
 ## work
 

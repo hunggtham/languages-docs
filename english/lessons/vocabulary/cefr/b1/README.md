@@ -36,6 +36,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [B1 Vocabulary — Film festivals, independent cinema, and screenplay workshops](./culture/10-film-festivals-independent-cinema-and-screenplay-workshops.md)
 - [B1 Vocabulary — Cultural heritage preservation, historic monuments, and folklore archives](./culture/11-cultural-heritage-preservation-historic-monuments-and-folklore-archives.md)
 - [Traditional Folk Crafts: Pottery and Textile Weaving](./culture/12-traditional-folk-crafts-pottery-and-textile-weaving.md)
+- [Indigenous Folklore, Mythology, and Oral Traditions](./culture/13-indigenous-folklore-mythology-and-oral-traditions.md)
 
 ## education
 
@@ -49,6 +50,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Online Distance Learning, Virtual Classrooms, and Digital Literacy](./education/08-online-distance-learning-virtual-classrooms-and-digital-literacy.md)
 - [Science Fairs, STEM Competitions, and Robotics Clubs](./education/09-science-fairs-stem-competitions-and-robotics-clubs.md)
 - [Vocational Workshops, Trade Apprenticeships, and Skill Badges](./education/10-vocational-workshops-trade-apprenticeships-and-skill-badges.md)
+- [Creative Writing Workshops, Peer Critiques, and Literary Zines](./education/11-creative-writing-workshops-peer-critiques-and-literary-zines.md)
 
 ## food
 
@@ -63,6 +65,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [B1 Vocabulary — Specialty coffee roasting, single-origin beans, and brewing methods](./food/09-specialty-coffee-roasting-single-origin-beans-and-brewing-methods.md)
 - [B1 Vocabulary — Fermented foods, probiotics, and traditional curing](./food/10-fermented-foods-probiotics-and-traditional-curing.md)
 - [B1 Vocabulary — Home preserves, canning, jams, and fruit drying](./food/11-home-preserves-canning-jams-and-fruit-drying.md)
+- [B1 Vocabulary — Cold brew tea infusions and herbal tisanes](./food/12-cold-brew-tea-infusions-and-herbal-tisanes.md)
 
 ## health
 
@@ -78,6 +81,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Nutrition Counseling, Dietary Supplements, and Preventive Care](./health/10-nutrition-counseling-dietary-supplements-and-preventive-care.md)
 - [Sleep Hygiene, Circadian Rhythms, and Stress Reduction](./health/11-sleep-hygiene-circadian-rhythms-and-stress-reduction.md)
 - [Mindfulness, Meditation, Breathing Exercises, and Mental Calm](./health/12-mindfulness-meditation-breathing-exercises-and-mental-calm.md)
+- [Eye Care, Screen Fatigue, and Vision Protection](./health/13-eye-care-screen-fatigue-and-vision-protection.md)
 
 ## home
 
@@ -104,6 +108,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Amateur Astronomy, Stargazing Clubs, and Telescope Observing](./leisure/11-amateur-astronomy-stargazing-clubs-and-telescope-observing.md)
 - [Gardening Clubs, Community Allotments, and Seed Swaps](./leisure/12-gardening-clubs-community-allotments-and-seed-swaps.md)
 - [DIY Woodworking, Home Crafts, and Maker Spaces](./leisure/13-diy-woodworking-home-crafts-and-maker-spaces.md)
+- [Ceramic Glazing, Pottery Decorating, and Kiln-Firing Clubs](./leisure/14-ceramic-glazing-pottery-decorating-and-kiln-firing-clubs.md)
 
 ## relationships
 
@@ -152,6 +157,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [B1 Vocabulary — Community gardens, urban farming, and neighborhood greening](./society/12-community-gardens-urban-farming-and-neighborhood-greening.md)
 - [B1 Vocabulary — Disaster preparedness, emergency relief, and volunteer first aid](./society/13-disaster-preparedness-emergency-relief-and-volunteer-first-aid.md)
 - [Community Tool Libraries, Repair Cafes, and Mutual Aid](./society/14-community-tool-libraries-repair-cafes-and-mutual-aid.md)
+- [Neighborhood Emergency Shelters, Community Pantries, and Volunteer First Aid](./society/15-neighborhood-emergency-shelters-community-pantries-and-volunteer-first-aid.md)
 
 ## sport
 
@@ -193,6 +199,7 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [B1 Vocabulary — Wildlife safaris, conservation reserves, and sustainable camping](./travel/12-wildlife-safaris-conservation-reserves-and-sustainable-camping.md)
 - [B1 Vocabulary — Scenic train journeys, sleeper cars, and railway heritage](./travel/13-scenic-train-journeys-sleeper-cars-and-railway-heritage.md)
 - [B1 Vocabulary — River cruises, canal barges, and waterway exploration](./travel/14-river-cruises-canal-barges-and-waterway-exploration.md)
+- [B1 Vocabulary — Mountain cable cars, funiculars, and alpine trails](./travel/15-mountain-cable-cars-funiculars-and-alpine-trails.md)
 
 ## work
 
@@ -207,3 +214,4 @@ Files are numbered independently inside each topic folder. New lessons are topic
 - [Workplace Diversity, Inclusive Hiring, and Employee Wellness](./work/09-workplace-diversity-inclusive-hiring-and-employee-wellness.md)
 - [Freelancing, Contract Negotiation, and Client Invoicing](./work/10-freelancing-contract-negotiation-and-client-invoicing.md)
 - [Coworking Spaces, Hot-Desking, and Remote Work Perks](./work/11-coworking-spaces-hot-desking-and-remote-work-perks.md)
+- [Job Shadowing, Internship Rotations, and Workplace Mentoring](./work/12-job-shadowing-internship-rotations-and-workplace-mentoring.md)
