@@ -560,6 +560,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [정치철학 및 숙의 민주주의와 공론장의 언어](./philosophy-political-philosophy-deliberative-democracy/README.md) — `숙의민주주의공론장 및 하버마스의사소통합리성 기반 이상적담화상황조건과 토론참여평등권 정치철학`
 - [환경생태학 및 맹그로브 블루카본과 연안 탄소 격리의 언어](./environmental-mangrove-blue-carbon-and-coastal-sequestration/README.md) — `맹그로브블루카본 및 연안습지탄소격리 기반 무산소퇴적층유기탄소와 조간대염생식물군락 환경생태학`
 - [컴퓨터과학 및 영지식 증명과 zk-SNARKs 암호학의 언어](./computer-science-zero-knowledge-proofs-and-zk-snarks/README.md) — `영지식증명프로토콜 및 간결한비대화형증명 기반 신뢰설정세레머니와 타원곡선페어링연산 컴퓨터과학`
+- [인지언어학 및 개념적 은유와 신체화 인지의 언어](./linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment/README.md) — `개념적은유이론 및 근원영역목표영역 기반 신체화인지가설과 영상도식투사구조 인지언어학`
+- [플랫폼경제학 및 양면시장과 네트워크 효과의 언어](./economics-platform-economics-two-sided-markets-and-network-effects/README.md) — `양면시장플랫폼 및 교차네트워크외부성 기반 가격구조비대칭성과 닭과달걀의딜레마 플랫폼경제학`
+- [후성유전학 및 디엔에이 메틸화와 염색질 리모델링의 언어](./biomedicine-epigenetics-dna-methylation-and-chromatin-remodeling/README.md) — `후성유전학적변형 및 디엔에이메틸화반응 기반 히스톤단백질변형과 염색질리모델링복합체 후성유전학`
+- [로봇공학 및 휴머노이드 보행 제어와 영모멘트점의 언어](./robotics-humanoid-locomotion-zero-moment-point-and-mpc/README.md) — `휴머노이드이족보행 및 영모멘트점제어 기반 선형역진자모델과 모델예측제어알고리즘 로봇공학`
+- [도시사회학 및 거주지 분리와 젠트리피케이션의 언어](./sociology-urban-sociology-spatial-segregation-and-gentrification/README.md) — `공간적거주지분리 및 도시젠트리피케이션 기반 원주민비자발적축출과 지대격차이론분석 도시사회학`
+- [열전재료공학 및 제베크 계수와 열전 성능지수의 언어](./materials-thermoelectric-materials-and-seebeck-figure-of-merit/README.md) — `열전변환효율지표 및 제베크계수측정 기반 전기전도도극대화와 격자열전도도저감 열전재료공학`
+- [환경토양학 및 근권 미생물과 균근 공생 네트워크의 언어](./environmental-soil-microbiology-rhizosphere-and-mycorrhizae/README.md) — `근권미생물군집생태 및 균근균공생네트워크 기반 뿌리분비물질유인과 난용성인산가용화 환경토양학`
+- [국제해양법 및 해양법협약과 배타적 경제수역의 언어](./law-maritime-law-and-unclos-exclusive-economic-zone/README.md) — `유엔해양법협약규범 및 배타적경제수역한계 기반 대륙붕경계획정원칙과 접속수역통제권한 국제해양법`
+- [천체물리학 및 외계행성 대기 분석과 투과 분광학의 언어](./astronomy-exoplanet-atmospheres-transmission-spectroscopy/README.md) — `외계행성대기분석 및 식현상투과분광학 기반 행성대기흡수스펙트럼과 생명체징후지표탐색 천체물리학`
+- [컴퓨터과학 및 차분 프라이버시와 노이즈 메커니즘의 언어](./computer-science-differential-privacy-and-noise-mechanisms/README.md) — `차분프라이버시보장 및 라플라스노이즈메커니즘 기반 가우시안교란알고리즘과 프라이버시예산파라미터 컴퓨터과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

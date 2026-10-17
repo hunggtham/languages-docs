@@ -1,0 +1,28 @@
+# 환경토양학 및 근권 미생물과 균근 공생 네트워크의 언어
+
+- 주제 슬러그: `environmental-soil-microbiology-rhizosphere-and-mycorrhizae`
+- 수록 어휘 수: 15개
+- 학습 수준: B2–C2 (고급 한국어 및 전문 학술/사회 영역)
+- 목표: 토양미생물학 및 농업환경생태학 분야에서 작물 근권 미생물 군집, 균근균 공생 네트워크, 뿌리 분비 물질, 난용성 인산 가용화, 식물생장촉진세균(PGPR)과 토양 유기물 부식화를 다루는 전문 환경 농업 어휘
+
+## 포함 어휘 목록
+
+1. `근권미생물군집생태` — Sinh thái quần xã vi sinh vật vùng rễ Rhizosphere Microbial Ecology (hệ sinh thái vi sinh vật năng động và phức tạp do vi khuẩn, vi nấm, cổ khuẩn và động vật nguyên sinh hình thành tại vùng đất vi mô trong phạm vi vài milimet xung quanh rễ cây - nơi chịu ảnh hưởng trực tiếp từ rễ thực vật)
+2. `균근균공생네트워크` — Mạng lưới cộng sinh nấm rễ Mycorrhizal Symbiotic Network (mạng lưới sinh thái ngầm được ví như mạng internet dưới lòng đất, nơi nấm rễ Mycorrhizae xâm nhập vào bên trong hoặc bên ngoài tế bào rễ thực vật tạo thể cộng sinh và đâm tua mạng sợi nấm chằng chịt khắp lòng đất để vận chuyển chất dinh dưỡng và tín hiệu cảnh báo giữa các cây trồng)
+3. `식물뿌리분비물질` — Chất tiết của rễ thực vật Root Exudates (các chất hóa học dạng dịch tiết gồm đường, axit amin, axit hữu cơ, hợp chất phenolic và chất chuyển hóa thứ cấp do thực vật chủ động bài tiết vào đất qua rễ, chiếm từ 10 đến 40% lượng cacbon hữu cơ quang hợp được)
+4. `토양유기물부식화` — Mùn hóa chất hữu cơ trong đất Humification (quá trình sinh hóa học phát sinh thổ nhưỡng trong đó xác bã động thực vật và lá rụng trải qua sự phân giải, tái tổng hợp và phản ứng ngưng tụ lâu dài bởi vi sinh vật đất để chuyển đổi thành mùn đất Humus - hợp chất polyme cao phân tử ổn định màu nâu đen hoặc đen)
+5. `난용성인산가용화` — Hòa tan phosphat khó tan Phosphate Solubilization (phản ứng chuyển hóa sinh học trong đó vi khuẩn vùng rễ tiết ra các axit hữu cơ phân tử thấp như axit citric, axit oxalic tạo liên kết chelate để hòa tan các muối phosphat bất溶 bị kết tủa chặt chẽ với sắt, nhôm, canxi trong đất thành các ion phosphat hòa tan trong nước mà cây trồng có thể hấp thu được)
+6. `생물학적질소고정균` — Vi khuẩn cố định đạm sinh học Biological Nitrogen-Fixing Bacteria (các vi sinh vật hữu ích như vi khuẩn nốt sần Rhizobium, Azotobacter sử dụng enzyme nitrogenase để chuyển đổi khí nitơ N2 liên kết ba bền vững trong khí quyển thành dạng amoniac NH3 mà thực vật có thể trực tiếp sử dụng để tổng hợp protein)
+7. `식물생장촉진근권세균` — Vi khuẩn vùng rễ thúc đẩy sinh trưởng thực vật Plant Growth-Promoting Rhizobacteria PGPR (nhóm vi khuẩn cư trú tại vùng rễ trực tiếp dẫn xuất sự vươn dài của rễ và tính kháng sâu bệnh của cây trồng thông qua việc tiết hormone thực vật như auxin, cytokinin, sản sinh chất tạo chelate sắt siderophore và phóng thích hợp chất hữu cơ dễ bay hơi VOCs)
+8. `토양미생물다양성지표` — Chỉ số đa dạng vi sinh vật đất Soil Microbial Diversity Index (chỉ số khoa học đánh giá độ lành mạnh và khả năng phục hồi của hệ sinh thái đất bằng cách định lượng độ phong phú Richness và độ đồng đều Evenness của các loài vi sinh vật cũng như tỷ lệ các nhóm gen chức năng trong đất theo chỉ số Shannon hay Chao1)
+9. `토양응집체안정화` — Ổn định hóa khối đoàn lạp đất Soil Aggregate Stabilization (hiện tượng vật lý sinh học trong đó chất glycoprotein mang tên Glomalin do sợi nấm rễ tiết ra và chất nhầy vi khuẩn kết dính các hạt đất mịn lại thành cấu trúc viên đoàn lạp đất bền vững, ngăn chặn sự xói mòn đất do nước mưa và cải thiện độ thông khí, thấm nước)
+10. `토양병원균생물방제` — Phòng trừ sinh học mầm bệnh trong đất Biological Control of Soil-Borne Pathogens (công nghệ phòng trừ sinh học thân thiện với môi trường không cần dùng thuốc diệt nấm hóa học, sử dụng các vi sinh vật đối kháng để ức chế bệnh hại thông qua tiết chất kháng sinh, cạnh tranh không gian dinh dưỡng và ký sinh đối kháng với các mầm bệnh truyền qua đất như nấm Fusarium, vi khuẩn héo xanh gây thối rễ, héo rũ)
+11. `탄소질소비생물격리` — Cô lập sinh học cacbon và nitơ (cơ chế lưu trữ sinh thái thông qua tương tác giữa vi sinh vật đất và thực vật để cố định CO2 và nitơ trong khí quyển thành dạng sinh khối vi sinh vật và phức hợp hữu cơ khó phân giải trong đất, tối ưu hóa tỷ lệ cacbon trên nitơ C/N và cô lập dài hạn)
+12. `항미생물펩타이드생합성` — Sinh tổng hợp peptide kháng vi sinh vật Antimicrobial Peptide Biosynthesis (phản ứng trao đổi chất trong đó các vi khuẩn hữu ích vùng rễ như Bacillus thông qua con đường ribosome hoặc phi ribosome NRPS tự tổng hợp bên trong tế bào các chất ức chế kháng sinh gốc peptide như bacillomycin, iturin, surfactin có khả năng phá hủy màng tế bào của nấm và vi khuẩn gây bệnh)
+13. `식물면역유도프라이밍` — Kích hoạt mồi dẫn xuất miễn dịch thực vật Plant Defense Priming / ISR (cơ chế tăng cường miễn dịch toàn thân dẫn xuất ISR trong đó thực vật sau khi cảm nhận các chất tín hiệu MAMPs do vi sinh vật có ích vùng rễ tiết ra sẽ không kích hoạt biểu hiện quá mức ngay gen phòng vệ mà chuẩn bị sẵn ở trạng thái nhạy cảm mồi Primed State, để khi mầm bệnh thực tế xâm nhập sẽ tung ra phản ứng phòng vệ nhanh hơn và mạnh mẽ hơn gấp nhiều lần)
+14. `토양호흡미생물활성` — Hoạt tính vi sinh vật hô hấp đất Soil Microbial Respiration Activity (chỉ số đánh giá sức sống và tốc độ trao đổi chất sinh hóa tổng thể của quần xã sinh vật đất bằng cách đo lường lượng khí CO2 phóng thích trong quá trình vi khuẩn và vi nấm trong đất phân giải chất hữu cơ và hô hấp bằng phương pháp buồng kín hoặc máy phân tích khí hồng ngoại IRGA)
+15. `건강한토양미생물총` — Hệ vi sinh vật đất khỏe mạnh Healthy Soil Microbiome (tổng thể vi sinh vật lý tưởng trong đó các vi khuẩn hữu ích, xạ khuẩn, nấm rễ, động vật nguyên sinh săn mồi đạt được sự cân bằng thích hợp và tính đa dạng loài cao, giúp ức chế sự sinh sôi mầm bệnh, vận hành trôi chảy chu trình dinh dưỡng và duy trì tối ưu cấu trúc hóa lý của đất)
+
+## 학습 안내
+
+본 단원의 상세 어휘 해설과 연관 독해 지문은 [07-soil-microbiology-and-mycorrhizae.md](./07-soil-microbiology-and-mycorrhizae.md) 파일에서 학습하실 수 있습니다.

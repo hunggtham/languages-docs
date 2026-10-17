@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,560 new targets across 504 independent topic batches; 12,560 structured headings toward the 15,000 target, leaving 2,440 after this checkpoint.
+- Progress in this checkpoint: 7,710 new targets across 514 independent topic batches; 12,710 structured headings toward the 15,000 target, leaving 2,290 after this checkpoint.
+- Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment`
+- File: `01-conceptual-metaphor-and-embodiment.md`
+- Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor theory, embodied cognition hypothesis, image schema projection, and conceptual blending network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-platform-economics-two-sided-markets-and-network-effects`
+- File: `02-two-sided-markets-and-network-effects.md`
+- Coverage: 15 new advanced-native platform economics, two-sided market platforms, cross-side network externalities, asymmetric pricing structures, and winner-take-all dynamics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-epigenetics-dna-methylation-and-chromatin-remodeling`
+- File: `03-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native molecular epigenetics, DNA methylation reactions, histone post-translational modifications, chromatin remodeling complexes, and epigenetic drift headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `robotics-humanoid-locomotion-zero-moment-point-and-mpc`
+- File: `04-humanoid-locomotion-and-zero-moment-point.md`
+- Coverage: 15 new advanced-native robotics, bipedal humanoid locomotion, zero-moment point (ZMP) control, linear inverted pendulum models, and model predictive control algorithms headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-urban-sociology-spatial-segregation-and-gentrification`
+- File: `05-spatial-segregation-and-gentrification.md`
+- Coverage: 15 new advanced-native urban sociology, residential spatial segregation, urban gentrification, involuntary displacement of indigenous residents, and rent-gap theory analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-thermoelectric-materials-and-seebeck-figure-of-merit`
+- File: `06-thermoelectric-materials-and-seebeck-effect.md`
+- Coverage: 15 new advanced-native thermoelectric materials science, Seebeck coefficient measurement, thermoelectric figure-of-merit (ZT), lattice thermal conductivity suppression, and waste heat power generation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-microbiology-rhizosphere-and-mycorrhizae`
+- File: `07-soil-microbiology-and-mycorrhizae.md`
+- Coverage: 15 new advanced-native soil microbiology, rhizosphere microbial community ecology, mycorrhizal symbiotic networks, root exudate attractants, and plant growth-promoting rhizobacteria (PGPR) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-maritime-law-and-unclos-exclusive-economic-zone`
+- File: `08-maritime-law-and-unclos-eez.md`
+- Coverage: 15 new advanced-native international law of the sea, UNCLOS norms, exclusive economic zone (EEZ) limits, continental shelf delimitation principles, and sovereign resource exploration rights headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astronomy-exoplanet-atmospheres-transmission-spectroscopy`
+- File: `09-exoplanet-atmospheres-and-transmission-spectroscopy.md`
+- Coverage: 15 new advanced-native astrophysics, exoplanet atmospheric analysis, transit transmission spectroscopy, planetary atmospheric absorption spectra, and biosignature indicator searches headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-differential-privacy-and-noise-mechanisms`
+- File: `10-differential-privacy-and-noise-mechanisms.md`
+- Coverage: 15 new advanced-native computer science, differential privacy guarantees, Laplace noise mechanisms, Gaussian perturbation algorithms, and privacy budget parameters headwords across `news_formal` in one `target_set` passage.
+
 - Topic: `astronomy-stellar-nucleosynthesis-and-s-process`
 - File: `01-stellar-nucleosynthesis-and-s-process.md`
 - Coverage: 15 new advanced-native astronomy, stellar nucleosynthesis process, slow neutron capture (s-process), asymptotic giant branch (AGB) stars, and galactic chemical evolution headwords across `news_formal` in one `target_set` passage.
