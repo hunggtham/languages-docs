@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,960 new targets across 464 independent topic batches; 11,960 structured headings toward the 15,000 target, leaving 3,040 after this checkpoint.
+- Progress in this checkpoint: 7,110 new targets across 474 independent topic batches; 12,110 structured headings toward the 15,000 target, leaving 2,890 after this checkpoint.
+
+- Topic: `microbiology-virology-viral-replication-and-antiviral-mechanisms`
+- File: `01-viral-replication-and-antiviral-mechanisms.md`
+- Coverage: 15 new advanced-native virology, viral replication cycle, reverse transcriptase inhibitors, envelope formation, and viral uncoating headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-heuristics-and-nudges`
+- File: `01-behavioral-economics-heuristics-and-nudges.md`
+- Coverage: 15 new advanced-native behavioral economics, bounded rationality, prospect theory, loss aversion, anchoring effect, and nudge policy design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-smart-materials-shape-memory-alloys-and-piezoelectrics`
+- File: `01-smart-materials-shape-memory-alloys-and-piezoelectrics.md`
+- Coverage: 15 new advanced-native smart materials, shape memory alloys, martensitic transformation, superelasticity, piezoelectric actuators, and magnetostriction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-education-and-social-reproduction`
+- File: `01-sociology-of-education-and-social-reproduction.md`
+- Coverage: 15 new advanced-native sociology of education, cultural capital theory, social reproduction, habitus formation, symbolic violence, and meritocracy ideology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-distributed-consensus-and-raft-algorithm`
+- File: `01-distributed-consensus-and-raft-algorithm.md`
+- Coverage: 15 new advanced-native distributed consensus algorithms, Raft, leader election protocol, log replication, split-brain phenomenon, and quorum consensus headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `climatology-paleoclimatology-ice-cores-and-orbital-forcing`
+- File: `01-paleoclimatology-ice-cores-and-orbital-forcing.md`
+- Coverage: 15 new advanced-native paleoclimatology, ice core drilling, oxygen isotope ratio, Milankovitch cycles, Heinrich events, and thermohaline collapse headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-regenerative-medicine-tissue-engineering-scaffolds`
+- File: `01-regenerative-medicine-tissue-engineering-scaffolds.md`
+- Coverage: 15 new advanced-native regenerative medicine, tissue engineering scaffolds, biocompatible polymers, 3D bioprinting, dECM, and cell adhesion peptides headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-derivatives-pricing-and-black-scholes-model`
+- File: `01-derivatives-pricing-and-black-scholes-model.md`
+- Coverage: 15 new advanced-native financial engineering, Black-Scholes model, derivatives pricing, implied volatility surface, delta hedging, and put-call parity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-remediation-and-phytoremediation`
+- File: `01-soil-remediation-and-phytoremediation.md`
+- Coverage: 15 new advanced-native soil remediation, phytoremediation, hyperaccumulator plants, soil washing, bioventing, and thermal desorption headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-international-humanitarian-law-and-geneva-conventions`
+- File: `01-international-humanitarian-law-and-geneva-conventions.md`
+- Coverage: 15 new advanced-native international humanitarian law, Geneva Conventions system, proportionality principle, military necessity, and universal jurisdiction headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `linguistics-historical-linguistics-and-phonological-change`
 - File: `01-historical-linguistics-and-phonological-change.md`

@@ -520,6 +520,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [재료공학 및 고엔트로피 합금과 기계적 거동의 언어](./materials-high-entropy-alloys-and-mechanical-behavior/README.md) — `고엔트로피합금 및 극저온파괴인성 기반 격자왜곡효과와 다성분합금설계 재료공학`
 - [정치학 및 권위주의 체제와 체제 이행 이론의 언어](./political-science-authoritarianism-and-regime-transition/README.md) — `권위주의탄력성 및 체제이행이론 기반 선출인단이론과 민주적퇴행 비교정치학`
 - [환경공학 및 하수처리·혐기성 소화와 생물학적 자원화의 언어](./environmental-wastewater-treatment-and-anaerobic-digestion/README.md) — `혐기성소화공정 및 메탄발효효율 기반 상향류슬러지블랭킷과 아나목스탈질 환경공학`
+- [미생물학 및 바이러스학·복제 주기와 항바이러스 기전의 언어](./microbiology-virology-viral-replication-and-antiviral-mechanisms/README.md) — `바이러스복제주기 및 역전사효소억제제 기반 단백질외피형성과 바이러스부착단백질 바이러스학 미생물학`
+- [경제학 및 행동경제학·휴리스틱과 넛지 이론의 언어](./economics-behavioral-economics-heuristics-and-nudges/README.md) — `행동경제학모델 및 제한된합리성 기반 전망이론함수와 손실회피성향 행동경제학 경제학`
+- [재료공학 및 스마트 재료·형상기억합금과 압전 소자의 언어](./materials-smart-materials-shape-memory-alloys-and-piezoelectrics/README.md) — `형상기억합금 및 마르텐사이트변태 기반 초탄성변형거동과 압전효과상수 스마트재료 재료공학`
+- [사회학 및 교육사회학·문화자본과 사회적 재생산 이론의 언어](./sociology-sociology-of-education-and-social-reproduction/README.md) — `문화자본이론 및 사회적재생산 기반 아비투스형성과정과 상징적폭력론 교육사회학 사회학`
+- [컴퓨터과학 및 분산 합의 알고리즘과 Raft의 언어](./computer-science-distributed-consensus-and-raft-algorithm/README.md) — `분산합의알고리즘 및 리더선출프로토콜 기반 로그복제메커니즘과 비잔틴장애허용 분산시스템 컴퓨터과학`
+- [기후학 및 고기후학과 빙하 코어·밀란코비치 주기의 언어](./climatology-paleoclimatology-ice-cores-and-orbital-forcing/README.md) — `빙하코어시추 및 산소동위원소비 기반 밀란코비치주기와 고기후온도복원 고기후학 기후학`
+- [생물의학 및 재생의학·조직공학 지지체와 세포외기질의 언어](./biomedicine-regenerative-medicine-tissue-engineering-scaffolds/README.md) — `조직공학지지체 및 생체적합성고분자 기반 세포외기질모사와 삼차원바이오프린팅 재생의학 생물의학`
+- [금융공학 및 파생상품 가격결정 모형과 그릭스의 언어](./finance-derivatives-pricing-and-black-scholes-model/README.md) — `블랙숄즈모형 및 파생상품가격결정 기반 무위험차익거래와 내재변동성표면 금융공학`
+- [환경공학 및 토양오염 정화와 식물상 정화기술의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `토양오염정화공법 및 식물상정화기술 기반 과축적식물종과 토양세척공정 환경공학`
+- [법학 및 국제인도법과 제네바 협약의 언어](./law-international-humanitarian-law-and-geneva-conventions/README.md) — `국제인도법규범 및 제네바협약체계 기반 비례성의원칙과 군사적필요성원칙 국제법`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
