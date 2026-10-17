@@ -437,3 +437,10 @@ html.dark .os-sync-preview { background: #1c201c; }
   nav { gap: 10px; }
   nav a { font-size: 11px; }
 }
+
+@media (max-width: 560px) {
+  .topbar { flex-wrap: wrap; padding-top: 8px; padding-bottom: 5px; min-height: 76px; height: auto; }
+  .topbar nav { order: 3; width: 100%; height: 30px; justify-content: space-around; }
+  .topbar nav a.active::after { bottom: -7px; }
+  .topbar .topbar-actions { margin-left: auto; }
+}
