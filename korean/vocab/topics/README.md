@@ -540,6 +540,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [인식론 및 정당화된 참된 믿음과 게티어 문제의 언어](./philosophy-epistemology-justified-true-belief-and-gettier-problem/README.md) — `정당화된참된믿음 및 게티어반례분석 기반 인식론적정당성근거와 지식정의조건탐구 철학 인식론`
 - [해양환경학 및 해양 산성화와 산호초 탄산칼슘 석회화의 언어](./environmental-ocean-acidification-and-coral-calcification/README.md) — `해양산성화진행속도 및 탄산칼슘포화도감소 기반 산호골격석회화저해와 아라고나이트포화지평 해양환경학`
 - [도시사회학 및 젠트리피케이션과 원주민 비자발적 이주의 언어](./sociology-urban-sociology-and-gentrification-displacement/README.md) — `도시재개발임대료상승 및 상업적젠트리피케이션 기반 원주민비자발적이주와 장소정체성상실위기 도시사회학`
+- [미생물학 및 장내미생물총과 단쇄지방산 대사의 언어](./microbiology-gut-microbiome-and-short-chain-fatty-acids/README.md) — `장내미생물총불균형 및 단쇄지방산대사체 기반 장상피세포벽장벽과 점막면역반응조절 미생물학`
+- [금융공학 및 알고리즘 트레이딩과 호가창 동역학의 언어](./finance-algorithmic-trading-and-order-book-dynamics/README.md) — `초단타알고리즘매매 및 호가창불균형지표 기반 시장충격비용최소화와 지정가주문체결확률 금융공학`
+- [신소재공학 및 전고체 배터리와 황화물계 고체전해질의 언어](./materials-solid-state-batteries-and-sulfide-electrolytes/README.md) — `전고체이차전지구조 및 황화물계고체전해질 기반 리튬이온전도도향상과 음극계면덴드라이트 신소재공학`
+- [노동사회학 및 플랫폼 노동과 불안정 노동 프리캐리어트의 언어](./sociology-sociology-of-work-and-platform-labor-precarity/README.md) — `알고리즘노무지휘권 및 플랫폼노동불안정성 기반 디지털특수고용직군과 노동과정비인격화 노동사회학`
+- [컴퓨터과학 및 그래프 신경망과 메시지 전달 아키텍처의 언어](./computer-science-graph-neural-networks-and-message-passing/README.md) — `그래프신경망아키텍처 및 노드메시지전달기법 기반 인접행렬정규화처리와 이웃노드정보집약 컴퓨터과학`
+- [기후학 및 몬순 계절풍 순환과 열대 대류 시스템의 언어](./climatology-monsoon-dynamics-and-tropical-convective-systems/README.md) — `몬순계절풍순환체계 및 열대수렴대이동패턴 기반 해륙열용량대비격차와 잠열방출대류불안정 기후학`
+- [생물의학 및 메신저 RNA 백신과 지질나노입자 전달체의 언어](./biomedicine-mrna-vaccines-and-lipid-nanoparticles/README.md) — `메신저알엔에이백신 및 지질나노입자캡슐화 기반 이온화가능지질성분과 엔도솜탈출효율극대화 생물의학`
+- [국제우주법 및 우주조약과 궤도 파편 규제의 언어](./law-space-law-and-outer-space-treaty/README.md) — `우주조약평화적이용 및 우주물체등록의무제 기반 발사국무과실국가책임과 외기권비군사화원칙 국제우주법`
+- [환경생태학 및 미세플라스틱과 해양 생물농축의 언어](./environmental-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱오염실태 및 영양단계별생물농축 기반 풍화파쇄이차입자화와 잔류유기오염물질흡착 환경생태학`
+- [화용론 및 언어행위 이론과 대화 함축의 언어](./linguistics-pragmatics-speech-acts-and-implicatures/README.md) — `화용론적맥락의존성 및 언어행위수행발화 기반 발화수반력의도파악과 그라이스대화함축이론 언어학 화용론`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,260 new targets across 484 independent topic batches; 12,260 structured headings toward the 15,000 target, leaving 2,740 after this checkpoint.
+- Progress in this checkpoint: 7,410 new targets across 494 independent topic batches; 12,410 structured headings toward the 15,000 target, leaving 2,590 after this checkpoint.
+- Topic: `microbiology-gut-microbiome-and-short-chain-fatty-acids`
+- File: `01-gut-microbiome-and-short-chain-fatty-acids.md`
+- Coverage: 15 new advanced-native microbiology, gut microbiome dysbiosis, short-chain fatty acids (SCFA), mucosal immunity regulation, and gut-brain axis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-algorithmic-trading-and-order-book-dynamics`
+- File: `01-algorithmic-trading-and-order-book-dynamics.md`
+- Coverage: 15 new advanced-native financial engineering, high-frequency trading (HFT), order book imbalance, market impact minimization, and flash crash dynamics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-solid-state-batteries-and-sulfide-electrolytes`
+- File: `03-solid-state-batteries-and-sulfide-electrolytes.md`
+- Coverage: 15 new advanced-native materials science, solid-state secondary batteries, sulfide solid electrolytes, lithium dendrite suppression, and isostatic pressing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-work-and-platform-labor-precarity`
+- File: `04-platform-labor-and-precariat.md`
+- Coverage: 15 new advanced-native sociology of work, algorithmic labor direction, gig work precarity, digital precariat class formation, and labor human rights guarantee headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-graph-neural-networks-and-message-passing`
+- File: `05-graph-neural-networks-and-message-passing.md`
+- Coverage: 15 new advanced-native computer science, graph neural network architecture, message passing paradigm, oversmoothing, and molecular property prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `climatology-monsoon-dynamics-and-tropical-convective-systems`
+- File: `06-monsoon-dynamics-and-tropical-convective-systems.md`
+- Coverage: 15 new advanced-native climatology, monsoon circulation system, ITCZ migration, Walker circulation variability, and compound drought-flood risk headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-mrna-vaccines-and-lipid-nanoparticles`
+- File: `07-mrna-vaccines-and-lipid-nanoparticles.md`
+- Coverage: 15 new advanced-native biomedicine, mRNA vaccines, lipid nanoparticle encapsulation, endosomal escape maximization, and rapid platform transition headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-space-law-and-outer-space-treaty`
+- File: `08-space-law-and-outer-space-treaty.md`
+- Coverage: 15 new advanced-native international space law, Outer Space Treaty peaceful uses, launching state strict liability, non-appropriation, and space traffic management headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microplastics-and-trophic-bioaccumulation`
+- File: `09-microplastics-and-trophic-bioaccumulation.md`
+- Coverage: 15 new advanced-native environmental ecology, microplastic contamination, trophic biomagnification, secondary fragmentation, and reduction roadmap headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-pragmatics-speech-acts-and-implicatures`
+- File: `10-speech-acts-and-implicatures.md`
+- Coverage: 15 new advanced-native linguistics, pragmatic context dependency, speech act theory, Gricean conversational implicatures, and face-saving politeness strategies headwords across `news_formal` in one `target_set` passage.
+
 - Topic: `astrophysics-gravitational-waves-and-black-hole-mergers`
 - File: `01-gravitational-waves-and-black-hole-mergers.md`
 - Coverage: 15 new advanced-native astrophysics, gravitational wave back-tracing, binary inspiral, ringdown oscillation, and remnant black hole spin headwords across `news_formal` in one `target_set` passage.
