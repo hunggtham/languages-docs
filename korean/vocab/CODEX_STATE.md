@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,660 new targets across 444 independent topic batches; 11,660 structured headings toward the 15,000 target, leaving 3,340 after this checkpoint.
+- Progress in this checkpoint: 6,810 new targets across 454 independent topic batches; 11,810 structured headings toward the 15,000 target, leaving 3,190 after this checkpoint.
+
+- Topic: `oceanography-deep-sea-hydrothermal-vents-and-chemosynthesis`
+- File: `01-deep-sea-hydrothermal-vents-and-chemosynthesis.md`
+- Coverage: 15 new advanced-native deep-sea hydrothermal vents, chemosynthesis, black smokers, and plume dispersion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-public-finance-sovereign-debt-and-fiscal-rules`
+- File: `01-public-finance-sovereign-debt-and-fiscal-rules.md`
+- Coverage: 15 new advanced-native public finance, sovereign debt ratio, fiscal rules, automatic stabilizers, and fiscal sustainability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-neurodegenerative-protein-aggregation-pathology`
+- File: `01-neurodegenerative-protein-aggregation-pathology.md`
+- Coverage: 15 new advanced-native neurodegenerative pathology, protein misfolding, amyloid-beta, tau tangles, and alpha-synucleinopathy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nanoelectronics-2d-semiconductors-and-field-effect-transistors`
+- File: `01-2d-semiconductors-and-field-effect-transistors.md`
+- Coverage: 15 new advanced-native nanoelectronics, 2D semiconductors, TMDCs, van der Waals heterostructures, and subthreshold swing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-ai-ethics-algorithmic-bias-and-xai`
+- File: `01-ai-ethics-algorithmic-bias-and-xai.md`
+- Coverage: 15 new advanced-native AI ethics, algorithmic bias, fairness metrics, LIME local surrogate models, and SHAP Shapley value headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ecotoxicology-and-persistent-organic-pollutants`
+- File: `01-ecotoxicology-and-persistent-organic-pollutants.md`
+- Coverage: 15 new advanced-native ecotoxicology, persistent organic pollutants POPs, bioaccumulation factors, PFAS, and Stockholm Convention headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-philosophy-of-law-positivism-and-natural-law`
+- File: `01-philosophy-of-law-positivism-and-natural-law.md`
+- Coverage: 15 new advanced-native legal philosophy, legal positivism, natural law theory, Grundnorm basic norm, and Radbruch formula headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `food-engineering-high-pressure-processing-and-non-thermal-sterilization`
+- File: `01-high-pressure-processing-and-non-thermal-sterilization.md`
+- Coverage: 15 new advanced-native food engineering, high pressure processing HPP, microbial inactivation kinetics, PEF, and cold chain distribution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrobiology-extremophiles-and-planetary-exploration`
+- File: `01-extremophiles-and-planetary-exploration.md`
+- Coverage: 15 new advanced-native astrobiology, extremophiles, radioresistant bacteria, Europa subsurface oceans, and lithopanspermia headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-historical-sociology-and-fiscal-military-state`
+- File: `01-historical-sociology-and-fiscal-military-state.md`
+- Coverage: 15 new advanced-native historical sociology, fiscal-military state, monopoly of legitimate violence, standing army, and Peace of Westphalia headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `civil-earthquake-engineering-and-seismic-isolation`
 - File: `01-earthquake-engineering-and-seismic-isolation.md`

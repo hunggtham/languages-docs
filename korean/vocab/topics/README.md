@@ -500,6 +500,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [우주공학 및 위성 궤도역학·자세제어 시스템의 언어](./aerospace-satellite-orbital-mechanics-and-attitude-control/README.md) — `정지궤도 및 호만전이궤도 역학 기반 반작용휠과 성감지기 위성 자세제어 우주공학`
 - [생체모방공학 및 자연영감 나노소재의 언어](./materials-biomimetic-engineering-and-nature-inspired-nanomaterials/README.md) — `연꽃잎효과 및 게코접착력 모사 기반 초발수표면과 홍합접착단백질 생체모방 나노소재`
 - [디지털인문학 및 전산문체론·고문헌 빅데이터의 언어](./humanities-digital-humanities-and-computational-stylometry/README.md) — `말뭉치언어학 및 광학문자인식 기반 고문헌판독과 토픽모델링 저작권감정 전산문체론`
+- [해양학 및 심해 열수구 생태계·화학합성의 언어](./oceanography-deep-sea-hydrothermal-vents-and-chemosynthesis/README.md) — `흑색열수구 및 황화수소산화 화학독립영양 기반 화학삼투압과 열수플룸확산 심해저생태계 해양학`
+- [재정학 및 국가채무·재정준칙과 재정건전성의 언어](./economics-public-finance-sovereign-debt-and-fiscal-rules/README.md) — `국가채무비율 및 통합재정수지 관리재정수지 기반 재정준칙과 구축효과 세출구조조정 재정학`
+- [생물의학 및 신경퇴행성 단백질 응집 병리의 언어](./biomedicine-neurodegenerative-protein-aggregation-pathology/README.md) — `단백질오접힘 및 베타아밀로이드 타우단백질 기반 시누클레인병증과 자가포식작용 신경퇴행질환 생물의학`
+- [나노전자공학 및 2차원 반도체·전계효과 트랜지스터의 언어](./nanoelectronics-2d-semiconductors-and-field-effect-transistors/README.md) — `전이금속칼코겐 및 원자층박막 기반 반데르발스이종접합과 전계효과이동도 나노전자공학`
+- [컴퓨터과학 및 AI 윤리·알고리즘 편향과 설명가능인공지능의 언어](./computer-science-ai-ethics-algorithmic-bias-and-xai/README.md) — `알고리즘편향 완화 및 공정성메트릭 기반 로컬대리모델과 샤플리값분석 설명가능인공지능 컴퓨터과학`
+- [환경생태학 및 환경독성학·잔류성 유기오염물질의 언어](./environmental-ecotoxicology-and-persistent-organic-pollutants/README.md) — `잔류성유기오염물질 생체축적계수 및 먹이사슬생물농축 기반 최소영향관찰농도와 내분비교란 환경생태학`
+- [법학 및 법철학·법실증주의와 자연법론의 언어](./law-philosophy-of-law-positivism-and-natural-law/README.md) — `법실증주의 근본규범 및 승인의규칙 기반 라드브루흐공식과 실질적정의 법철학 법학`
+- [식품공학 및 초고압 살균·비열 살균 가공 기술의 언어](./food-engineering-high-pressure-processing-and-non-thermal-sterilization/README.md) — `초고압비열살균 및 정수압가공 기반 미생물사멸동학과 세포막파열유도 식품공학`
+- [우주생물학 및 극한미생물·행성 탐사의 언어](./astrobiology-extremophiles-and-planetary-exploration/README.md) — `우주생물학탐사 호극성미생물 및 방사선저항균 기반 유로파지하해양과 리소판스페르미아 우주생물학`
+- [역사사회학 및 군사재정국가·국가 형성 이론의 언어](./sociology-historical-sociology-and-fiscal-military-state/README.md) — `군사재정국가 및 폭력의독점 기반 조세징수체계와 베스트팔렌조약 역사사회학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
