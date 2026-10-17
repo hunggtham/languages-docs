@@ -1,4 +1,5 @@
 import type { ContentCatalog, ContentGraph, SearchIndexEntry } from "../types";
+import { parseJourney, type EnglishJourney } from "../features/english-progress/model";
 
 function resolvePublicAsset(path: string): string {
   const relativePath = path.replace(/^\/+/, "");
@@ -58,6 +59,7 @@ export interface ProgressState {
   lastOpenedByLesson: Record<string, string>;
   bookmarksByLesson: Record<string, SectionBookmark[]>;
   readLaterIds: string[];
+  englishJourney?: EnglishJourney;
 }
 
 const EMPTY_PROGRESS: ProgressState = {
@@ -89,6 +91,7 @@ export function readProgressState(): ProgressState {
       lastOpenedByLesson: value.lastOpenedByLesson && typeof value.lastOpenedByLesson === "object" ? value.lastOpenedByLesson : {},
       bookmarksByLesson: value.bookmarksByLesson && typeof value.bookmarksByLesson === "object" ? value.bookmarksByLesson : {},
       readLaterIds: Array.isArray(value.readLaterIds) ? value.readLaterIds.filter((item): item is string => typeof item === "string") : [],
+      englishJourney: parseJourney(value.englishJourney) ?? undefined,
     };
   } catch {
     return EMPTY_PROGRESS;
