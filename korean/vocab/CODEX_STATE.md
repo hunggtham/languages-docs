@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,410 new targets across 494 independent topic batches; 12,410 structured headings toward the 15,000 target, leaving 2,590 after this checkpoint.
+- Progress in this checkpoint: 7,560 new targets across 504 independent topic batches; 12,560 structured headings toward the 15,000 target, leaving 2,440 after this checkpoint.
+- Topic: `astronomy-stellar-nucleosynthesis-and-s-process`
+- File: `01-stellar-nucleosynthesis-and-s-process.md`
+- Coverage: 15 new advanced-native astronomy, stellar nucleosynthesis process, slow neutron capture (s-process), asymptotic giant branch (AGB) stars, and galactic chemical evolution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-investor-biases-and-market-anomalies`
+- File: `02-investor-biases-and-market-anomalies.md`
+- Coverage: 15 new advanced-native behavioral finance, bounded rationality, prospect theory, disposition effect, heuristic bias, momentum anomaly, and panic selling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-engineering-computational-fluid-dynamics-turbulence`
+- File: `03-computational-fluid-dynamics-and-turbulence.md`
+- Coverage: 15 new advanced-native computational fluid dynamics (CFD), Navier-Stokes equations, Reynolds-averaged turbulence modeling, turbulent boundary layer, and large eddy simulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-neural-oscillations-and-brain-rhythms`
+- File: `04-neural-oscillations-and-brain-rhythms.md`
+- Coverage: 15 new advanced-native neuroscience, neural oscillations, gamma phase synchronization, theta-gamma phase-amplitude coupling, and synaptic plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-sociolinguistics-diglossia-and-code-switching`
+- File: `05-diglossia-and-code-switching.md`
+- Coverage: 15 new advanced-native sociolinguistics, diglossic structure, code-switching strategies, high/low linguistic variety functional division, and endangered language preservation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-perovskite-photovoltaics-and-tandem-cells`
+- File: `06-perovskite-photovoltaics-and-tandem-cells.md`
+- Coverage: 15 new advanced-native materials science, perovskite light-absorbing layer, tandem solar cell stacking, carrier recombination suppression, and operational stability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-policy-regulatory-sandbox-and-fintech-governance`
+- File: `07-regulatory-sandbox-and-fintech-governance.md`
+- Coverage: 15 new advanced-native public policy, regulatory sandbox exemptions, provisional licensing, ex-post liability protection, algorithm transparency audits, and digital financial inclusion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-political-philosophy-deliberative-democracy`
+- File: `08-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native political philosophy, deliberative democracy public sphere, Habermas communicative rationality, ideal speech situation conditions, and rational argument persuasion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-mangrove-blue-carbon-and-coastal-sequestration`
+- File: `09-mangrove-blue-carbon-and-coastal-sequestration.md`
+- Coverage: 15 new advanced-native marine ecology, mangrove blue carbon, anoxic sediment carbon sequestration, intertidal halophyte communities, and blue carbon offset credits headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-zero-knowledge-proofs-and-zk-snarks`
+- File: `10-zero-knowledge-proofs-and-zk-snarks.md`
+- Coverage: 15 new advanced-native computer science, zero-knowledge proof protocols, zk-SNARKs succinct non-interactive proofs, elliptic curve pairing, arithmetic circuits, and quantum-resistant ZKP headwords across `news_formal` in one `target_set` passage.
+
 - Topic: `microbiology-gut-microbiome-and-short-chain-fatty-acids`
 - File: `01-gut-microbiome-and-short-chain-fatty-acids.md`
 - Coverage: 15 new advanced-native microbiology, gut microbiome dysbiosis, short-chain fatty acids (SCFA), mucosal immunity regulation, and gut-brain axis headwords across `news_formal` in one `target_set` passage.

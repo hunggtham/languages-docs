@@ -550,6 +550,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [국제우주법 및 우주조약과 궤도 파편 규제의 언어](./law-space-law-and-outer-space-treaty/README.md) — `우주조약평화적이용 및 우주물체등록의무제 기반 발사국무과실국가책임과 외기권비군사화원칙 국제우주법`
 - [환경생태학 및 미세플라스틱과 해양 생물농축의 언어](./environmental-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱오염실태 및 영양단계별생물농축 기반 풍화파쇄이차입자화와 잔류유기오염물질흡착 환경생태학`
 - [화용론 및 언어행위 이론과 대화 함축의 언어](./linguistics-pragmatics-speech-acts-and-implicatures/README.md) — `화용론적맥락의존성 및 언어행위수행발화 기반 발화수반력의도파악과 그라이스대화함축이론 언어학 화용론`
+- [천체물리학 및 항성핵합성과 느린 중성자 포획의 언어](./astronomy-stellar-nucleosynthesis-and-s-process/README.md) — `항성핵합성과정 및 느린중성자포획반응 기반 점근거성가지별진화와 철피크원소풍부도 천체물리학`
+- [행태재무학 및 시장 이례현상과 투자자 편향의 언어](./finance-investor-biases-and-market-anomalies/README.md) — `제한된합리성가설 및 처분효과심리편향 기반 손실회피성향강도와 과잉확신투자행태 행태재무학`
+- [유체역학 및 전산유체역학과 난류 모델링의 언어](./mechanical-engineering-computational-fluid-dynamics-turbulence/README.md) — `전산유체역학해석 및 나비에스토크스방정식 기반 난류경계층유동구조와 레이놀즈응력텐서모델 유체역학`
+- [뇌신경과학 및 신경 진동과 뇌파 동기화의 언어](./neuroscience-neural-oscillations-and-brain-rhythms/README.md) — `뇌파진동동기화 및 감마파위상동조현상 기반 세타감마위상진폭결합과 시냅스연접가소성 뇌신경과학`
+- [사회언어학 및 양층언어현상과 코드 전환의 언어](./linguistics-sociolinguistics-diglossia-and-code-switching/README.md) — `양층언어구조현상 및 담화코드전환전략 기반 상위고급변종언어와 하위구어토착방언 사회언어학`
+- [재료공학 및 페로브스카이트 태양전지와 탠덤 셀의 언어](./materials-perovskite-photovoltaics-and-tandem-cells/README.md) — `페로브스카이트광흡수층 및 탠덤태양전지적층구조 기반 광전변환손실최소화와 전자수송층박막공정 재료공학`
+- [공공정책 및 규제 샌드박스와 핀테크 거버넌스의 언어](./public-policy-regulatory-sandbox-and-fintech-governance/README.md) — `규제샌드박스특례 및 임시허가실증특례 기반 혁신금융서비스지정과 사후책임면책조항 공공정책 핀테크`
+- [정치철학 및 숙의 민주주의와 공론장의 언어](./philosophy-political-philosophy-deliberative-democracy/README.md) — `숙의민주주의공론장 및 하버마스의사소통합리성 기반 이상적담화상황조건과 토론참여평등권 정치철학`
+- [환경생태학 및 맹그로브 블루카본과 연안 탄소 격리의 언어](./environmental-mangrove-blue-carbon-and-coastal-sequestration/README.md) — `맹그로브블루카본 및 연안습지탄소격리 기반 무산소퇴적층유기탄소와 조간대염생식물군락 환경생태학`
+- [컴퓨터과학 및 영지식 증명과 zk-SNARKs 암호학의 언어](./computer-science-zero-knowledge-proofs-and-zk-snarks/README.md) — `영지식증명프로토콜 및 간결한비대화형증명 기반 신뢰설정세레머니와 타원곡선페어링연산 컴퓨터과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
