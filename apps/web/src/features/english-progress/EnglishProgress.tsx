@@ -125,7 +125,7 @@ export default function EnglishProgress({ value, onChange }: Props): ReactElemen
         <input ref={fileInput} type="file" accept=".json,application/json" hidden onChange={e => void importFile(e.target.files?.[0])}/>
         <button type="button" onClick={() => fileInput.current?.click()}>↑ Import dữ liệu</button>
         <button type="button" onClick={exportFile}>↓ Export JSON</button>
-        <a href="#lesson/english-grammar-tense-review-map">Mở bản đồ 12 thì ↗</a>
+        <a href="#lesson/english-grammar-foundations-time">Mở bản đồ 12 thì ↗</a>
       </div>
     </section>
     <p className="ep-sync-note">Dữ liệu nhập trên màn hình được lưu local trong snapshot LanguageLab hiện có. Muốn đồng bộ giữa thiết bị, mở Learning OS → Sync và đăng nhập Supabase nếu đã cấu hình. Repository công khai không lưu nhật ký cá nhân.</p>
