@@ -444,3 +444,7 @@ html.dark .os-sync-preview { background: #1c201c; }
   .topbar nav a.active::after { bottom: -7px; }
   .topbar .topbar-actions { margin-left: auto; }
 }
+
+.ep-add-topic { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.ep-add-topic input { flex: 1 1 205px; min-width: 0; padding: 9px; background: var(--paper); border: 1px solid var(--line); border-radius: 6px; color: var(--ink); font-size: 12px; }
+.ep-add-topic button { padding: 9px 12px; background: var(--paper-deep); color: var(--ink); border-radius: 6px; font-size: 12px; font-weight: 600; }
