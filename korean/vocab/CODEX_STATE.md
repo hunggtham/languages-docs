@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,810 new targets across 454 independent topic batches; 11,810 structured headings toward the 15,000 target, leaving 3,190 after this checkpoint.
+- Progress in this checkpoint: 6,960 new targets across 464 independent topic batches; 11,960 structured headings toward the 15,000 target, leaving 3,040 after this checkpoint.
+
+- Topic: `linguistics-historical-linguistics-and-phonological-change`
+- File: `01-historical-linguistics-and-phonological-change.md`
+- Coverage: 15 new advanced-native historical linguistics, phonological change rules, comparative reconstruction, vowel shift, and Grimm sound shift headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biophysics-cryo-electron-microscopy-and-structural-biology`
+- File: `01-cryo-electron-microscopy-and-structural-biology.md`
+- Coverage: 15 new advanced-native cryo-EM, single-particle analysis, vitreous ice, electron density maps, and structural biology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-industrial-organization-and-antitrust-regulation`
+- File: `01-industrial-organization-and-antitrust-regulation.md`
+- Coverage: 15 new advanced-native industrial organization, antitrust regulation, market power abuse, merger review, predatory pricing, and HHI headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `telecommunications-optical-communication-and-dense-wavelength-multiplexing`
+- File: `01-optical-communication-and-dense-wavelength-multiplexing.md`
+- Coverage: 15 new advanced-native DWDM optical communications, fiber dispersion compensation, EDFA, coherent detection, and eye pattern analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geology-structural-geology-and-plate-boundary-faulting`
+- File: `01-structural-geology-and-plate-boundary-faulting.md`
+- Coverage: 15 new advanced-native structural geology, fault mechanics, strike-slip faults, ductile shear zones, brittle-ductile transition, and paleoseismology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-post-quantum-cryptography-and-lattice-theory`
+- File: `01-post-quantum-cryptography-and-lattice-theory.md`
+- Coverage: 15 new advanced-native post-quantum cryptography, quantum-resistant signatures, Ring-LWE, Shor's algorithm, and shortest vector problem SVP headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-epigenetics-and-chromatin-remodeling`
+- File: `01-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native epigenomics, DNA methylation pattern analysis, histone deacetylation, chromatin remodeling, and pioneer transcription factors headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-high-entropy-alloys-and-mechanical-behavior`
+- File: `01-high-entropy-alloys-and-mechanical-behavior.md`
+- Coverage: 15 new advanced-native high-entropy alloys HEAs, cryogenic fracture toughness, severe lattice distortion, sluggish diffusion, and TWIP plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-science-authoritarianism-and-regime-transition`
+- File: `01-authoritarianism-and-regime-transition.md`
+- Coverage: 15 new advanced-native authoritarian resilience, regime transition theory, selectorate theory, clientelist networks, and democratic backsliding headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-wastewater-treatment-and-anaerobic-digestion`
+- File: `01-wastewater-treatment-and-anaerobic-digestion.md`
+- Coverage: 15 new advanced-native anaerobic digestion, methane fermentation efficiency, UASB, anammox denitrification, and sewage sludge resource recovery headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `oceanography-deep-sea-hydrothermal-vents-and-chemosynthesis`
 - File: `01-deep-sea-hydrothermal-vents-and-chemosynthesis.md`

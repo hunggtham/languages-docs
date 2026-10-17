@@ -510,6 +510,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [식품공학 및 초고압 살균·비열 살균 가공 기술의 언어](./food-engineering-high-pressure-processing-and-non-thermal-sterilization/README.md) — `초고압비열살균 및 정수압가공 기반 미생물사멸동학과 세포막파열유도 식품공학`
 - [우주생물학 및 극한미생물·행성 탐사의 언어](./astrobiology-extremophiles-and-planetary-exploration/README.md) — `우주생물학탐사 호극성미생물 및 방사선저항균 기반 유로파지하해양과 리소판스페르미아 우주생물학`
 - [역사사회학 및 군사재정국가·국가 형성 이론의 언어](./sociology-historical-sociology-and-fiscal-military-state/README.md) — `군사재정국가 및 폭력의독점 기반 조세징수체계와 베스트팔렌조약 역사사회학`
+- [언어학 및 역사비교언어학·음운 변화와 조어 재구의 언어](./linguistics-historical-linguistics-and-phonological-change/README.md) — `음운변화규칙 및 비교재구법 기반 조어재구와 자음추이현상 역사비교언어학 언어학`
+- [생물물리학 및 초저온 전자현미경과 구조생물학의 언어](./biophysics-cryo-electron-microscopy-and-structural-biology/README.md) — `초저온전자현미경 및 단입자분석법 기반 비정질유리빙과 전자밀도지도 생물물리학`
+- [경제학 및 산업조직론과 반독점 규제의 언어](./economics-industrial-organization-and-antitrust-regulation/README.md) — `반독점규제 및 시장지배력남용 기반 기업결합심사와 허핀달허쉬만지수 산업조직론 경제학`
+- [정보통신공학 및 광통신과 고밀도 파장분할다중화의 언어](./telecommunications-optical-communication-and-dense-wavelength-multiplexing/README.md) — `고밀도파장분할다중화 및 광섬유분산보상 기반 어븀첨가광섬유증폭기와 코히런트검출 광통신`
+- [지질학 및 구조지질학과 판경계 단층역학의 언어](./geology-structural-geology-and-plate-boundary-faulting/README.md) — `단층역학해석 및 주향이동단층 기반 연성전단대와 취성연성전이대 구조지질학`
+- [컴퓨터과학 및 양자저항 암호와 격자 이론의 언어](./computer-science-post-quantum-cryptography-and-lattice-theory/README.md) — `양자저항서명 및 환오류동반학습 기반 쇼어알고리즘과 최단벡터문제 양자내성암호학`
+- [생물의학 및 후성유전학·염색질 리모델링의 언어](./biomedicine-epigenetics-and-chromatin-remodeling/README.md) — `후성유전체학 및 메틸화패턴분석 기반 염색질리모델링과 히스톤탈아세틸화 생물의학`
+- [재료공학 및 고엔트로피 합금과 기계적 거동의 언어](./materials-high-entropy-alloys-and-mechanical-behavior/README.md) — `고엔트로피합금 및 극저온파괴인성 기반 격자왜곡효과와 다성분합금설계 재료공학`
+- [정치학 및 권위주의 체제와 체제 이행 이론의 언어](./political-science-authoritarianism-and-regime-transition/README.md) — `권위주의탄력성 및 체제이행이론 기반 선출인단이론과 민주적퇴행 비교정치학`
+- [환경공학 및 하수처리·혐기성 소화와 생물학적 자원화의 언어](./environmental-wastewater-treatment-and-anaerobic-digestion/README.md) — `혐기성소화공정 및 메탄발효효율 기반 상향류슬러지블랭킷과 아나목스탈질 환경공학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
