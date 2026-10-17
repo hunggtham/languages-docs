@@ -26,3 +26,7 @@ Giữ repository private khi lưu ebook/tài liệu có bản quyền. Trước 
 ## Parity với learning-docs
 
 Khi cần kiểm tra và clone các tính năng mới từ Study Library, dùng [prompt/LEARNING_DOCS_PARITY_PROMPT.md](prompt/LEARNING_DOCS_PARITY_PROMPT.md) và skill repo-local [skills/learning-docs-parity/SKILL.md](skills/learning-docs-parity/SKILL.md). Skill này giữ riêng app/namespace/account state của hai web và yêu cầu phân biệt rõ thay đổi đã triển khai local với sync live đã xác minh.
+
+## English Progress
+
+Tiến độ học ngữ pháp và sổ lỗi nằm tại [English Study Tracker](english/study-tracker/README.md) (schema JSON và hướng dẫn ôn tập). Trên website, mở **English Progress** từ thanh điều hướng. Dữ liệu cá nhân được import/export qua JSON và giữ trong snapshot local/Supabase tùy cấu hình, không commit lịch sử học cá nhân lên repo public.
