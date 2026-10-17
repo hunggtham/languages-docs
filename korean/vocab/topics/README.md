@@ -570,6 +570,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [국제해양법 및 해양법협약과 배타적 경제수역의 언어](./law-maritime-law-and-unclos-exclusive-economic-zone/README.md) — `유엔해양법협약규범 및 배타적경제수역한계 기반 대륙붕경계획정원칙과 접속수역통제권한 국제해양법`
 - [천체물리학 및 외계행성 대기 분석과 투과 분광학의 언어](./astronomy-exoplanet-atmospheres-transmission-spectroscopy/README.md) — `외계행성대기분석 및 식현상투과분광학 기반 행성대기흡수스펙트럼과 생명체징후지표탐색 천체물리학`
 - [컴퓨터과학 및 차분 프라이버시와 노이즈 메커니즘의 언어](./computer-science-differential-privacy-and-noise-mechanisms/README.md) — `차분프라이버시보장 및 라플라스노이즈메커니즘 기반 가우시안교란알고리즘과 프라이버시예산파라미터 컴퓨터과학`
+- [생명공학 및 대사공학·합성생물학과 유전자 편집의 언어](./microbiology-synthetic-biology-metabolic-engineering-and-crispr/README.md) — `합성생물학대사공학 및 크리스퍼유전자교정 기반 대사경로최적화와 유전체편집효율 생명공학`
+- [금융공학 및 알고리즘 트레이딩과 시장 미시구조의 언어](./finance-algorithmic-trading-market-microstructure-and-order-book/README.md) — `알고리즘트레이딩전략 및 지정가호가창구조 기반 매도매수호가스프레드와 초단타매매알고리즘 금융공학`
+- [기계공학 및 적층제조와 선택적 레이저 용융의 언어](./mechanical-engineering-additive-manufacturing-and-selective-laser-melting/README.md) — `금속적층제조공정 및 선택적레이저용융 기반 분말베드융합방식과 레이저에너지밀도 기계공학`
+- [신경과학 및 광유전학과 신경 회로 매핑의 언어](./neuroscience-optogenetics-and-neural-circuit-mapping/README.md) — `광유전학신경회로망 및 채널로돕신발현 기반 광유전학적신경자극과 억제성할로돕신단백질 신경과학`
+- [전산언어학 및 의미 파싱과 의존 문법의 언어](./linguistics-computational-linguistics-semantic-parsing-and-dependency-grammar/README.md) — `전산의미파싱기법 및 보편의존문법체계 기반 추상의미표상그래프와 지배소의존소관계 전산언어학`
+- [이차전지공학 및 전고체 배터리와 고체 전해질의 언어](./materials-solid-state-batteries-and-solid-electrolytes/README.md) — `전고체이차전지기술 및 무기물고체전해질 기반 황화물계초이온전도체와 리튬금속음극수지상 이차전지공학`
+- [기후통상정책 및 탄소국경조정제도와 무역 규제의 언어](./public-policy-carbon-border-adjustment-mechanism-and-trade-policy/README.md) — `유럽탄소국경조정규정 및 내재탄소배출량산정 기반 탄소누출방지효과와 배출권거래제연계인증 기후통상정책`
+- [사회인식론 및 증언의 인식론과 지식 전달의 언어](./philosophy-epistemology-social-epistemology-and-testimony/README.md) — `사회인식론정당화 및 증언에의한지식획득 기반 인식적신뢰성기준과 인식적불의개념 사회인식론`
+- [해양환경학 및 해양 산성화와 생물 석회화 역학의 언어](./environmental-ocean-acidification-and-calcification-dynamics/README.md) — `인위적해양산성화가속 및 탄산이온포화수평면 기반 아라고나이트포화도와 해양석회화생물패각 해양환경학`
+- [컴퓨터과학 및 분산 합의 알고리즘과 비잔틴 장애 허용의 언어](./computer-science-distributed-consensus-and-byzantine-fault-tolerance/README.md) — `분산합의프로토콜 및 실용적비잔틴장애허용 기반 상태기계복제모델과 합의쿼럼정족수조건 컴퓨터과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

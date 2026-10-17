@@ -18,7 +18,46 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,710 new targets across 514 independent topic batches; 12,710 structured headings toward the 15,000 target, leaving 2,290 after this checkpoint.
+- Progress in this checkpoint: 7,860 new targets across 524 independent topic batches; 12,860 structured headings toward the 15,000 target, leaving 2,140 after this checkpoint.
+- Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
+- File: `01-metabolic-engineering-and-synthetic-biology.md`
+- Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-algorithmic-trading-market-microstructure-and-order-book`
+- File: `02-market-microstructure-and-order-book.md`
+- Coverage: 15 new advanced-native algorithmic trading, market microstructure, limit order book dynamics, bid-ask spread liquidity, and adverse selection risk headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-engineering-additive-manufacturing-and-selective-laser-melting`
+- File: `03-additive-manufacturing-and-laser-melting.md`
+- Coverage: 15 new advanced-native metal additive manufacturing, selective laser melting (SLM), powder bed fusion, laser volumetric energy density, and residual stress suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-optogenetics-and-neural-circuit-mapping`
+- File: `04-optogenetics-and-neural-circuit-mapping.md`
+- Coverage: 15 new advanced-native systems neuroscience, optogenetics, channelrhodopsin light stimulation, neural circuit functional mapping, and spatial resolution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-linguistics-semantic-parsing-and-dependency-grammar`
+- File: `05-semantic-parsing-and-dependency-grammar.md`
+- Coverage: 15 new advanced-native computational linguistics, semantic parsing, Universal Dependencies (UD), Abstract Meaning Representation (AMR), and predicate-argument structure extraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-solid-state-batteries-and-solid-electrolytes`
+- File: `06-solid-state-batteries-and-solid-electrolytes.md`
+- Coverage: 15 new advanced-native solid-state battery technology, sulfide-based superionic conductors, solid electrolyte interphase resistance, and lithium dendrite suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-policy-carbon-border-adjustment-mechanism-and-trade-policy`
+- File: `07-cbam-and-climate-trade-policy.md`
+- Coverage: 15 new advanced-native climate trade policy, EU CBAM regulation, embedded emissions calculation, carbon leakage prevention, and WTO consistency headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-social-epistemology-and-testimony`
+- File: `08-social-epistemology-and-testimony.md`
+- Coverage: 15 new advanced-native social epistemology, testimony-based knowledge acquisition, epistemic reliability criteria, epistemic injustice, and peer disagreement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ocean-acidification-and-calcification-dynamics`
+- File: `09-ocean-acidification-and-calcification.md`
+- Coverage: 15 new advanced-native marine environmental science, ocean acidification acceleration, carbonate saturation horizon, aragonite saturation state, and calcifying organism shell vulnerability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-distributed-consensus-and-byzantine-fault-tolerance`
+- File: `10-distributed-consensus-and-pbft.md`
+- Coverage: 15 new advanced-native distributed computing, Practical Byzantine Fault Tolerance (PBFT), State Machine Replication (SMR), consensus quorum requirement, and Raft algorithm headwords across `news_formal` in one `target_set` passage.
 - Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment`
 - File: `01-conceptual-metaphor-and-embodiment.md`
 - Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor theory, embodied cognition hypothesis, image schema projection, and conceptual blending network headwords across `news_formal` in one `target_set` passage.
