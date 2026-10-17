@@ -18,7 +18,46 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,110 new targets across 474 independent topic batches; 12,110 structured headings toward the 15,000 target, leaving 2,890 after this checkpoint.
+- Progress in this checkpoint: 7,260 new targets across 484 independent topic batches; 12,260 structured headings toward the 15,000 target, leaving 2,740 after this checkpoint.
+- Topic: `astrophysics-gravitational-waves-and-black-hole-mergers`
+- File: `01-gravitational-waves-and-black-hole-mergers.md`
+- Coverage: 15 new advanced-native astrophysics, gravitational wave back-tracing, binary inspiral, ringdown oscillation, and remnant black hole spin headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-development-economics-and-foreign-aid-effectiveness`
+- File: `01-development-economics-and-foreign-aid-effectiveness.md`
+- Coverage: 15 new advanced-native development economics, poverty trap escape pathway, aid effectiveness evaluation, grant conditionality, and informal economy formalization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `robotics-simultaneous-localization-and-mapping-slam`
+- File: `01-simultaneous-localization-and-mapping-slam.md`
+- Coverage: 15 new advanced-native robotics, SLAM, LiDAR point cloud registration, visual odometry drift, and pose graph optimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-synaptic-plasticity-and-long-term-potentiation`
+- File: `01-synaptic-plasticity-and-long-term-potentiation.md`
+- Coverage: 15 new advanced-native neuroscience, synaptic plasticity regulation, LTP induction mechanism, dendritic spine remodeling, and CaMKII headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-semantics-and-distributional-embeddings`
+- File: `01-computational-semantics-and-distributional-embeddings.md`
+- Coverage: 15 new advanced-native computational linguistics, distributional semantics, word embeddings, latent semantic analysis, and contextualized representations headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `chemical-engineering-membrane-distillation-and-desalination`
+- File: `01-membrane-distillation-and-desalination.md`
+- Coverage: 15 new advanced-native chemical engineering, membrane distillation, hydrophobic porous membranes, vapor pressure gradient, and concentration polarization mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-health-epidemiological-surveillance-and-outbreak-investigation`
+- File: `01-epidemiological-surveillance-and-outbreak-investigation.md`
+- Coverage: 15 new advanced-native public health, epidemiological surveillance systems, R0 estimation, herd immunity thresholds, and genomic surveillance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-justified-true-belief-and-gettier-problem`
+- File: `01-epistemology-justified-true-belief-and-gettier-problem.md`
+- Coverage: 15 new advanced-native epistemology, justified true belief (JTB), Gettier counterexamples, reliabilism, contextualism, and evidentialism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ocean-acidification-and-coral-calcification`
+- File: `01-ocean-acidification-and-coral-calcification.md`
+- Coverage: 15 new advanced-native marine environmental science, ocean acidification rate, coral calcification inhibition, aragonite saturation horizon, and MPA resilience building headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-urban-sociology-and-gentrification-displacement`
+- File: `01-urban-sociology-and-gentrification-displacement.md`
+- Coverage: 15 new advanced-native urban sociology, commercial gentrification, involuntary resident displacement, loss of place identity, and socio-spatial polarization headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `microbiology-virology-viral-replication-and-antiviral-mechanisms`
 - File: `01-viral-replication-and-antiviral-mechanisms.md`

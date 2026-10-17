@@ -530,6 +530,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [금융공학 및 파생상품 가격결정 모형과 그릭스의 언어](./finance-derivatives-pricing-and-black-scholes-model/README.md) — `블랙숄즈모형 및 파생상품가격결정 기반 무위험차익거래와 내재변동성표면 금융공학`
 - [환경공학 및 토양오염 정화와 식물상 정화기술의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `토양오염정화공법 및 식물상정화기술 기반 과축적식물종과 토양세척공정 환경공학`
 - [법학 및 국제인도법과 제네바 협약의 언어](./law-international-humanitarian-law-and-geneva-conventions/README.md) — `국제인도법규범 및 제네바협약체계 기반 비례성의원칙과 군사적필요성원칙 국제법`
+- [천체물리학 및 중력파 관측과 블랙홀 병합의 언어](./astrophysics-gravitational-waves-and-black-hole-mergers/README.md) — `중력파원역추적 및 시공간왜곡파동 기반 간섭계위상변화와 블랙홀사건지평 천체물리학`
+- [개발경제학 및 빈곤의 덫과 공적개발원조 효과성의 언어](./economics-development-economics-and-foreign-aid-effectiveness/README.md) — `빈곤함정탈출경로 및 원조효과성평가 기반 무상원조조건성부여와 지하경제포섭전략 개발경제학`
+- [로봇공학 및 동시적 위치추정 및 지도작성 SLAM과 센서 융합의 언어](./robotics-simultaneous-localization-and-mapping-slam/README.md) — `동시적위치지도작성 및 라이다점군정합 기반 특징점추출추적기와 시각주행계오차누적 로봇공학`
+- [신경과학 및 시냅스 가소성과 장기강화 LTP 분자기전의 언어](./neuroscience-synaptic-plasticity-and-long-term-potentiation/README.md) — `시냅스가소성조절 및 장기강화유도기전 기반 글루탐산수용체활성화와 수상돌기가시재구성 신경과학`
+- [계산언어학 및 분포의미론과 단어 임베딩 벡터공간의 언어](./linguistics-computational-semantics-and-distributional-embeddings/README.md) — `분포가설의미론 및 단어임베딩벡터공간 기반 문맥어출현확률과 코사인유사도계산 계산언어학`
+- [화학공학 및 막증류법과 해수담수화 공정의 언어](./chemical-engineering-membrane-distillation-and-desalination/README.md) — `소수성다공성막 및 증기압구배추진력 기반 농도분극현상완화와 온도분극효과저감 화학공학`
+- [공중보건학 및 역학 감시 체계와 감염병 유행 역학조사의 언어](./public-health-epidemiological-surveillance-and-outbreak-investigation/README.md) — `감염병역학감시체계 및 전파위험동선추적 기반 기초감염재생산지수와 집단면역형성임계치 공중보건학`
+- [인식론 및 정당화된 참된 믿음과 게티어 문제의 언어](./philosophy-epistemology-justified-true-belief-and-gettier-problem/README.md) — `정당화된참된믿음 및 게티어반례분석 기반 인식론적정당성근거와 지식정의조건탐구 철학 인식론`
+- [해양환경학 및 해양 산성화와 산호초 탄산칼슘 석회화의 언어](./environmental-ocean-acidification-and-coral-calcification/README.md) — `해양산성화진행속도 및 탄산칼슘포화도감소 기반 산호골격석회화저해와 아라고나이트포화지평 해양환경학`
+- [도시사회학 및 젠트리피케이션과 원주민 비자발적 이주의 언어](./sociology-urban-sociology-and-gentrification-displacement/README.md) — `도시재개발임대료상승 및 상업적젠트리피케이션 기반 원주민비자발적이주와 장소정체성상실위기 도시사회학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
