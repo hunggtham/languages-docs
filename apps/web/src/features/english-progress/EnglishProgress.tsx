@@ -36,6 +36,7 @@ export default function EnglishProgress({ value, onChange }: Props): ReactElemen
   const [correct, setCorrect] = useState("");
   const [total, setTotal] = useState("");
   const [note, setNote] = useState("");
+  const [newTopic, setNewTopic] = useState("");
   const [errorCategory, setErrorCategory] = useState("Verb forms");
   const [incorrect, setIncorrect] = useState("");
   const [corrected, setCorrected] = useState("");
@@ -78,6 +79,14 @@ export default function EnglishProgress({ value, onChange }: Props): ReactElemen
 
   const updateError = (id: string, status: ReviewStatus) => {
     save({ ...journey, errors: journey.errors.map(e => e.id === id ? { ...e, status } : e) });
+  };
+  const addTopic = (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    const label = newTopic.trim();
+    if (!label || journey.topics.some(t => t.label.toLowerCase() === label.toLowerCase())) return;
+    save({ ...journey, topics: [...journey.topics, { id: safeId(), label, status: "unverified", evidence: "" }] });
+    setNewTopic("");
+    setNotice("Đã thêm chủ đề mới vào bản đồ học tập.");
   };
   const updateTopic = (id: string, status: TopicStatus) => {
     save({ ...journey, topics: journey.topics.map(t => t.id === id ? { ...t, status } : t) });
@@ -162,6 +171,7 @@ export default function EnglishProgress({ value, onChange }: Props): ReactElemen
             </select>
           </div>)}
         </div>
+        <form className="ep-add-topic" onSubmit={addTopic}><input aria-label="Tên chủ đề mới" value={newTopic} onChange={e=>setNewTopic(e.target.value)} placeholder="Thêm chủ đề khác (Vocabulary, IELTS Writing...)" required maxLength={100}/><button type="submit">+ Chủ đề</button></form>
         <p className="ep-footnote">Trạng thái được cập nhật thủ công; “khá vững” chưa đồng nghĩa đã kiểm tra phản xạ nói.</p>
       </section>
       <section className="ep-panel ep-span">
