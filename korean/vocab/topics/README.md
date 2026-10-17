@@ -490,6 +490,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [인지언어학 및 개념적 은유 영상도식의 언어](./linguistics-cognitive-linguistics-and-conceptual-metaphor/README.md) — `개념적 은유 사상 및 영상 도식 체현성 기반 원형 범주화와 프레임 의미론 인지언어 모델링`
 - [미세플라스틱 생분해 및 바이오레메디에이션 환경생태공학의 언어](./environmental-microplastic-biodegradation-and-bioremediation/README.md) — `플라스틱 분해 효소 페타아제 엔지니어링 및 바이오필름 미생물 컨소시엄 기반 생물학적 환경정화와 잔류 독성 평가`
 - [미술품 진위감정 및 과학적 감식학의 언어](./arts-art-authenticity-forensics-and-scientific-connoisseurship/README.md) — `크랙 패턴 및 비파괴 XRF 형광분석 기반 적외선 반사경 밑그림 검출과 미술품 진위 과학감식`
+- [지진공학 및 면진·제진 내진설계의 언어](./civil-earthquake-engineering-and-seismic-isolation/README.md) — `지진동 스펙트럼 및 액상화현상 분석 기반 적층 고무 면진받침과 유압 점성감쇠기 동적해석 내진설계`
+- [재생의학 및 줄기세포 유도만능줄기세포 치료의 언어](./biomedicine-regenerative-medicine-and-ipsc-therapy/README.md) — `야마나카인자 리프로그래밍 및 만능분화능 기반 줄기세포 미세환경 제어와 맞춤형 세포치환 재생의학`
+- [고체역학 및 비파괴검사 음향방출평가의 언어](./mechanical-solid-mechanics-and-acoustic-emission-testing/README.md) — `응력집중계수 및 미소균열 파괴인성 분석 기반 압전센서 탄성파 음향방출 비파괴평가`
+- [행동신경과학 및 신경가소성 기억공고화의 언어](./neuroscience-behavioral-neuroscience-and-memory-consolidation/README.md) — `해마체 장기강화 및 구조적가소성 기반 시냅스소포 신경조절물질과 엔그램세포 기억공고화`
+- [자원경제학 및 핵심광물 공급망 지정학의 언어](./economics-critical-mineral-geopolitics-and-supply-chain/README.md) — `희토류원소 및 전략핵심원자재 기반 자원무기화 대응과 글로벌 가치사슬재편 공급망다변화`
+- [대기화학 및 성층권 오존층·에어로졸 미세물리의 언어](./atmospheric-stratospheric-ozone-and-aerosol-microphysics/README.md) — `염화불화탄소 및 극성층권구름 불균일광화학 기반 오존층파괴와 에어로졸광학두께 대기화학`
+- [비교정치학 및 선거제도 정당체계 동학의 언어](./political-comparative-electoral-systems-and-party-dynamics/README.md) — `비례대표제 및 뒤베르제의법칙 분석 기반 봉쇄조항과 비례성지수 선거제도 비교정치학`
+- [우주공학 및 위성 궤도역학·자세제어 시스템의 언어](./aerospace-satellite-orbital-mechanics-and-attitude-control/README.md) — `정지궤도 및 호만전이궤도 역학 기반 반작용휠과 성감지기 위성 자세제어 우주공학`
+- [생체모방공학 및 자연영감 나노소재의 언어](./materials-biomimetic-engineering-and-nature-inspired-nanomaterials/README.md) — `연꽃잎효과 및 게코접착력 모사 기반 초발수표면과 홍합접착단백질 생체모방 나노소재`
+- [디지털인문학 및 전산문체론·고문헌 빅데이터의 언어](./humanities-digital-humanities-and-computational-stylometry/README.md) — `말뭉치언어학 및 광학문자인식 기반 고문헌판독과 토픽모델링 저작권감정 전산문체론`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

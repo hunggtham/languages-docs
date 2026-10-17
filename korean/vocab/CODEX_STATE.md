@@ -18,7 +18,47 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 6,510 new targets across 434 independent topic batches; 11,510 structured headings toward the 15,000 target, leaving 3,490 after this checkpoint.
+- Progress in this checkpoint: 6,660 new targets across 444 independent topic batches; 11,660 structured headings toward the 15,000 target, leaving 3,340 after this checkpoint.
+
+- Topic: `civil-earthquake-engineering-and-seismic-isolation`
+- File: `01-earthquake-engineering-and-seismic-isolation.md`
+- Coverage: 15 new advanced-native earthquake engineering, seismic isolation bearings, viscous dampers, and dynamic response spectrum headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-regenerative-medicine-and-ipsc-therapy`
+- File: `01-regenerative-medicine-and-ipsc-therapy.md`
+- Coverage: 15 new advanced-native regenerative medicine, Yamanaka factors, iPSC pluripotency, teratoma assay, and cell replacement therapy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-solid-mechanics-and-acoustic-emission-testing`
+- File: `01-solid-mechanics-and-acoustic-emission-testing.md`
+- Coverage: 15 new advanced-native solid mechanics, acoustic emission testing, piezoelectric sensors, TOA defect localization, and fracture surface fractography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-behavioral-neuroscience-and-memory-consolidation`
+- File: `01-behavioral-neuroscience-and-memory-consolidation.md`
+- Coverage: 15 new advanced-native behavioral neuroscience, structural plasticity, long-term potentiation LTP, engram ensembles, and memory consolidation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-critical-mineral-geopolitics-and-supply-chain`
+- File: `01-critical-mineral-geopolitics-and-supply-chain.md`
+- Coverage: 15 new advanced-native critical mineral geopolitics, rare earth elements, resource weaponization, strategic petroleum reserves, and supply chain offtake contracts headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `atmospheric-stratospheric-ozone-and-aerosol-microphysics`
+- File: `01-stratospheric-ozone-and-aerosol-microphysics.md`
+- Coverage: 15 new advanced-native atmospheric chemistry, stratospheric ozone depletion, polar stratospheric clouds PSC, heterogeneous photochemistry, and aerosol optical depth AOD headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-comparative-electoral-systems-and-party-dynamics`
+- File: `01-comparative-electoral-systems-and-party-dynamics.md`
+- Coverage: 15 new advanced-native comparative electoral systems, proportional representation, Duverger's law, electoral thresholds, and coalition government formation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aerospace-satellite-orbital-mechanics-and-attitude-control`
+- File: `01-satellite-orbital-mechanics-and-attitude-control.md`
+- Coverage: 15 new advanced-native satellite orbital mechanics, Hohmann transfer orbits, ADCS attitude control, reaction wheels, star trackers, and deorbiting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-biomimetic-engineering-and-nature-inspired-nanomaterials`
+- File: `01-biomimetic-engineering-and-nature-inspired-nanomaterials.md`
+- Coverage: 15 new advanced-native biomimetic engineering, lotus leaf superhydrophobicity, gecko van der Waals adhesion, structural coloration, and mussel adhesive proteins headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `humanities-digital-humanities-and-computational-stylometry`
+- File: `01-digital-humanities-and-computational-stylometry.md`
+- Coverage: 15 new advanced-native digital humanities, computational stylometry, ancient manuscript deciphering, OCR text mining, and KWIC concordance networks headwords across `news_formal` in one `target_set` passage.
 
 - Topic: `microbiology-synthetic-virology-and-phage-therapy`
 - File: `01-synthetic-virology-and-phage-therapy.md`
