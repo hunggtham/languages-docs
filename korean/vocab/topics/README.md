@@ -146,6 +146,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
 - [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
 - [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
+- [화산학 및 마그마 챔버 동역학과 화산쇄설류의 언어](./volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents/README.md) — `마그마챔버결정분화동역학수치시뮬레이션 및 화산쇄설류고온가스부유입자복합유동해석 기반 칼데라함몰지반침하마그마저류층압력강하와 화산분화지수분출물총량플룸높이산출법 화산지구물리학`
+- [양자암호학 및 장치독립형 양자키분배와 벨 부등식의 언어](./quantum-cryptography-device-independent-qkd-and-bell-inequalities/README.md) — `장치독립형양자키분배비국소성보안성증명 및 벨부등식위반양자얽힘검증루프홀차단기법 기반 양자난수생성기원천적비예측성물리적구현과 사이드채널공격방어단일광자검출기무결성 양자암호학`
+- [진화발생생물학 및 홉스 유전자와 신체 설계 진화의 언어](./evolutionary-developmental-biology-hox-genes-and-body-plan-evolution/README.md) — `진화발생생물학체절형성호메오박스유전자군 및 신체기본설계배아발생공간시간발현패턴조절 기반 유전자조절네트워크전사인자결합부위진화와 형태형성물질농도구배위치정보세포운명결정 진화발생학`
+- [전산연소공학 및 난류 예혼합 화염과 그을음 생성의 언어](./computational-combustion-turbulent-premixed-flames-and-soot-formation/README.md) — `난류예혼합화염미세구조화염편스케일해석 및 그을음입자핵형성성장동역학수치시뮬레이션 기반 대와류모사난류연소반응열방출변동률예측과 다환방향족탄화수소그을음전구체반응메커니즘 전산연소공학`
+- [비교헌법재판 및 비례원칙과 사법자제의 언어](./comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint/README.md) — `비교헌법재판과잉금지원칙목적의정당성심사 및 수단의적합성침해의최소성법익균형성비례심사 기반 사법자제론입법형성의자유민주적정당성존중과 기본권제한법률유보원칙명확성의원칙사법심사 비교헌법재판론`
+- [마찰학 및 경계윤활과 원자수준 마찰마모 기전의 언어](./tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms/README.md) — `경계윤활막흡착분자배열극압첨가제반응층 및 원자간력현미경나노트라이볼로지마찰력측정 기반 미세돌기접촉역학헤르츠접촉압력탄소성변형과 응착마모연삭마모피로마모복합손상기전규명 나노트라이볼로지`
+- [태양물리학 및 코로나 가열과 코로나질량방출의 언어](./heliophysics-solar-corona-heating-and-coronal-mass-ejections/README.md) — `태양코로나가열자기유체역학알렌파소산기전 및 코로나질량방출행성간충격파지자기폭풍유도 기반 자기재결합국소자력선재편성고에너지입자가속과 태양플레어엑스선복사선전리층교란통신장애 태양권물리학`
+- [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
+- [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
+- [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
@@ -710,6 +720,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
 - [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
 - [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
+- [화산학 및 마그마 챔버 동역학과 화산쇄설류의 언어](./volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents/README.md) — `마그마챔버결정분화동역학수치시뮬레이션 및 화산쇄설류고온가스부유입자복합유동해석 기반 칼데라함몰지반침하마그마저류층압력강하와 화산분화지수분출물총량플룸높이산출법 화산지구물리학`
+- [양자암호학 및 장치독립형 양자키분배와 벨 부등식의 언어](./quantum-cryptography-device-independent-qkd-and-bell-inequalities/README.md) — `장치독립형양자키분배비국소성보안성증명 및 벨부등식위반양자얽힘검증루프홀차단기법 기반 양자난수생성기원천적비예측성물리적구현과 사이드채널공격방어단일광자검출기무결성 양자암호학`
+- [진화발생생물학 및 홉스 유전자와 신체 설계 진화의 언어](./evolutionary-developmental-biology-hox-genes-and-body-plan-evolution/README.md) — `진화발생생물학체절형성호메오박스유전자군 및 신체기본설계배아발생공간시간발현패턴조절 기반 유전자조절네트워크전사인자결합부위진화와 형태형성물질농도구배위치정보세포운명결정 진화발생학`
+- [전산연소공학 및 난류 예혼합 화염과 그을음 생성의 언어](./computational-combustion-turbulent-premixed-flames-and-soot-formation/README.md) — `난류예혼합화염미세구조화염편스케일해석 및 그을음입자핵형성성장동역학수치시뮬레이션 기반 대와류모사난류연소반응열방출변동률예측과 다환방향족탄화수소그을음전구체반응메커니즘 전산연소공학`
+- [비교헌법재판 및 비례원칙과 사법자제의 언어](./comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint/README.md) — `비교헌법재판과잉금지원칙목적의정당성심사 및 수단의적합성침해의최소성법익균형성비례심사 기반 사법자제론입법형성의자유민주적정당성존중과 기본권제한법률유보원칙명확성의원칙사법심사 비교헌법재판론`
+- [마찰학 및 경계윤활과 원자수준 마찰마모 기전의 언어](./tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms/README.md) — `경계윤활막흡착분자배열극압첨가제반응층 및 원자간력현미경나노트라이볼로지마찰력측정 기반 미세돌기접촉역학헤르츠접촉압력탄소성변형과 응착마모연삭마모피로마모복합손상기전규명 나노트라이볼로지`
+- [태양물리학 및 코로나 가열과 코로나질량방출의 언어](./heliophysics-solar-corona-heating-and-coronal-mass-ejections/README.md) — `태양코로나가열자기유체역학알렌파소산기전 및 코로나질량방출행성간충격파지자기폭풍유도 기반 자기재결합국소자력선재편성고에너지입자가속과 태양플레어엑스선복사선전리층교란통신장애 태양권물리학`
+- [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
+- [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
+- [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

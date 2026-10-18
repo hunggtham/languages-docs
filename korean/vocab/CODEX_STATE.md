@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,510 new targets across 634 independent topic batches; 14,510 structured headings toward the 15,000 target, leaving 490 after this checkpoint.
+- Progress in this checkpoint: 9,660 new targets across 644 independent topic batches; 14,660 structured headings toward the 15,000 target, leaving 340 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5648,3 +5648,43 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing`
 - File: `10-eddy-resolving-ocean-circulation.md`
 - Coverage: 15 new advanced-native eddy-resolving ocean general circulation models, isopycnal mixing Gent-McWilliams parametrization, submesoscale baroclinic instability, and ocean heat uptake tracking headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents`
+- File: `01-magma-chamber-and-pyroclastic-currents.md`
+- Coverage: 15 new advanced-native magma chamber crystallization differentiation, pyroclastic density current multiphase turbulence, caldera collapse ground subsidence, and DOAS volcanic gas spectroscopy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-cryptography-device-independent-qkd-and-bell-inequalities`
+- File: `02-device-independent-qkd-and-bell-inequalities.md`
+- Coverage: 15 new advanced-native device-independent QKD nonlocality security proofs, Bell inequality violation loophole closing, quantum random number generation, and side-channel attack defense headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-developmental-biology-hox-genes-and-body-plan-evolution`
+- File: `03-evodevo-hox-genes-and-body-plan.md`
+- Coverage: 15 new advanced-native Evo-Devo Hox homeobox segmentation, body plan spatiotemporal expression, gene regulatory network cis-evolution, and morphogen concentration gradient cell fate headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-combustion-turbulent-premixed-flames-and-soot-formation`
+- File: `04-turbulent-premixed-combustion-and-soot.md`
+- Coverage: 15 new advanced-native turbulent premixed flamelet scale modeling, soot particle nucleation and growth dynamics, LES heat release fluctuation, and lean premixed combustor design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint`
+- File: `05-proportionality-principle-and-judicial-restraint.md`
+- Coverage: 15 new advanced-native comparative constitutional adjudication, proportionality principle sub-tests, judicial restraint, clear statement doctrine, and non-conformity decisions headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms`
+- File: `06-boundary-lubrication-and-nanotribology.md`
+- Coverage: 15 new advanced-native boundary lubrication tribofilms, atomic force microscopy nanotribology, Hertzian contact mechanics, adhesive-abrasive-fatigue wear, and diamond-like carbon coatings headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `heliophysics-solar-corona-heating-and-coronal-mass-ejections`
+- File: `07-solar-corona-heating-and-cme.md`
+- Coverage: 15 new advanced-native solar coronal heating Alfvén wave dissipation, coronal mass ejections (CME), magnetic reconnection particle acceleration, and space weather forecasting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion`
+- File: `08-platform-monopoly-and-algorithmic-collusion.md`
+- Coverage: 15 new advanced-native digital platform monopoly abuse, algorithmic collusion tacit coordination, self-preferencing, killer acquisitions, and SSNIP test application limits headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling`
+- File: `09-cavity-optomechanics-and-radiation-cooling.md`
+- Coverage: 15 new advanced-native cavity optomechanics radiation pressure cooling, quantum ground state phonon occupancy, phonon-photon entanglement, and gravitational wave mirror thermal noise suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna`
+- File: `10-hominin-phylogenetics-and-ancient-dna.md`
+- Coverage: 15 new advanced-native hominin fossil phylogenetic numerical analysis, ancient DNA NGS extraction, Neanderthal-Denisovan admixture, habitual bipedalism biomechanics, and encephalization quotient evolution headwords across `news_formal` in one `target_set` passage.
