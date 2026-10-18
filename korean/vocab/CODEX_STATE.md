@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,460 new targets across 564 independent topic batches; 13,460 structured headings toward the 15,000 target, leaving 1,540 after this checkpoint.
+- Progress in this checkpoint: 8,610 new targets across 574 independent topic batches; 13,610 structured headings toward the 15,000 target, leaving 1,390 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5371,3 +5371,43 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `environmental-engineering-carbon-capture-utilization-and-storage-ccus`
 - File: `10-carbon-capture-utilization-and-storage.md`
 - Coverage: 15 new advanced-native carbon capture utilization and storage (CCUS), wet amine absorbent regeneration energy, supercritical CO2 geological storage, and mineral carbonation building materials headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `developmental-biology-morphogen-gradients-and-organogenesis`
+- File: `01-morphogen-gradients-and-organogenesis.md`
+- Coverage: 15 new advanced-native morphogen concentration gradient thresholds, sonic hedgehog signaling, homeobox organogenesis, and spatial embryonic pattern formation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedical-optics-two-photon-microscopy-and-super-resolution-imaging`
+- File: `02-two-photon-and-super-resolution-imaging.md`
+- Coverage: 15 new advanced-native two-photon excitation fluorescence microscopy, deep tissue imaging, structured illumination super-resolution (SIM), and sub-diffraction single-molecule localization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuropharmacology-synaptic-plasticity-and-targeted-neurotherapeutics`
+- File: `03-synaptic-plasticity-and-targeted-neurotherapeutics.md`
+- Coverage: 15 new advanced-native long-term potentiation synaptic plasticity, NMDA receptor allosteric modulators, blood-brain barrier drug delivery, and neurodegenerative therapeutics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `financial-risk-management-basel-accords-and-liquidity-stress-testing`
+- File: `04-basel-accords-and-liquidity-stress-testing.md`
+- Coverage: 15 new advanced-native Basel III capital adequacy ratios, liquidity coverage ratio (LCR), macroprudential stress testing, and counterparty credit risk mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrophysics-cosmological-inflation-and-dark-matter-annihilation`
+- File: `05-cosmological-inflation-and-dark-matter.md`
+- Coverage: 15 new advanced-native cosmological inflation, dark matter annihilation cross-section, CMB temperature anisotropy, and primordial gravitational waves headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-philosophy-deliberative-democracy-and-public-sphere`
+- File: `06-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native deliberative democracy public sphere formation, communicative rationality, discourse ethics, procedural fairness, and citizen juries headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `metallurgical-engineering-high-entropy-alloys-and-grain-boundary-segregation`
+- File: `07-high-entropy-alloys-and-segregation.md`
+- Coverage: 15 new advanced-native high-entropy alloys severe lattice distortion, grain boundary segregation mechanical properties, cryogenic fracture toughness, and hydrogen embrittlement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-neuroscience-neural-decoding-and-brain-machine-interfaces`
+- File: `08-neural-decoding-and-brain-machine-interfaces.md`
+- Coverage: 15 new advanced-native neural decoding motor intention, invasive brain-machine interface electrodes, spike timing synchronization, and closed-loop neural stimulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geopolitics-of-energy-arctic-sea-routes-and-critical-mineral-diplomacy`
+- File: `09-arctic-routes-and-critical-minerals.md`
+- Coverage: 15 new advanced-native Northern Sea Route commercial navigation, Arctic resource sovereignty, critical mineral supply chain diplomacy, and exclusive economic zone headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microbiology-bioremediation-and-microbial-electrochemical-systems`
+- File: `10-bioremediation-and-microbial-electrochemical-systems.md`
+- Coverage: 15 new advanced-native microbial electrochemical systems, extracellular electron transfer, soil bioremediation, and xenobiotic biodegradation headwords across `news_formal` in one `target_set` passage.

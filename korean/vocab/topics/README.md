@@ -76,6 +76,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [계산화학 및 밀도범함수론과 분자동역학 시뮬레이션의 언어](./computational-chemistry-density-functional-theory-and-molecular-dynamics/README.md) — `밀도범함수론전자구조계산 및 분자동역학궤적시뮬레이션 기반 교환상관에너지범함수근사와 포텐셜에너지표면탐색 계산화학`
 - [국제정치학 및 대전략 구상과 역외 균형 전략의 언어](./international-relations-grand-strategy-and-offshore-balancing/README.md) — `국제정치학대전략구상 및 역외균형전략지정학세력 기반 패권안정이론권력전이와 동맹결속력무임승차방지 국제정치학`
 - [환경공학 및 탄소 포집·활용·저장(CCUS) 기술의 언어](./environmental-engineering-carbon-capture-utilization-and-storage-ccus/README.md) — `탄소포집활용저장공학 및 습식아민흡수제재생에너지 기반 초임계이산화탄소지중저장과 광물탄산화건축자재전환 환경공학`
+- [발생생물학 및 형태발생물질 농도 기울기와 기관형성의 언어](./developmental-biology-morphogen-gradients-and-organogenesis/README.md) — `형태발생물질농도기울기 및 소닉헤지호그신호전달 기반 배아발생공간패턴형성과 호메오박스유전자발현 발생생물학`
+- [생체광학 및 이광자 현미경과 초고해상도 이미징의 언어](./biomedical-optics-two-photon-microscopy-and-super-resolution-imaging/README.md) — `이광자여기형광현미경 및 구조조명초고해상도현미경 기반 심부조직비침습이미징과 단일분자위치결정나노기술 생체광학`
+- [신경약리학 및 시냅스 가소성과 표적 신경치료제의 언어](./neuropharmacology-synaptic-plasticity-and-targeted-neurotherapeutics/README.md) — `장기강화시냅스가소성 및 수용체알로스테릭조절제 기반 혈액뇌장벽약물전달체계와 신경퇴행성질환표적치료 신경약리학`
+- [금융위험관리 및 바젤협약과 유동성 스트레스테스트의 언어](./financial-risk-management-basel-accords-and-liquidity-stress-testing/README.md) — `바젤협약자기자본비율 및 유동성커버리지비율측정 기반 거시건전성스트레스테스트와 거래상대방신용위험완화 금융위험관리`
+- [천체물리학 및 우주 인플레이션과 암흑물질 소멸의 언어](./astrophysics-cosmological-inflation-and-dark-matter-annihilation/README.md) — `우주초기급팽창인플레이션 및 암흑물질입자소멸단면적 기반 우주배경복사온도이방성과 원시중력파텐서섭동측정 천체물리학`
+- [정치철학 및 숙의 민주주의와 공론장의 언어](./political-philosophy-deliberative-democracy-and-public-sphere/README.md) — `숙의민주주의공론장형성 및 의사소통합리성상호주관성 기반 공적이성담론윤리학규범과 시민참여합의형성의사결정 정치철학`
+- [금속공학 및 고엔트로피 합금과 결정립계 편석의 언어](./metallurgical-engineering-high-entropy-alloys-and-grain-boundary-segregation/README.md) — `고엔트로피합금격자왜곡 및 결정립계편석기계적물성 기반 전위밀도소성변형메커니즘과 극저온인성파괴저항성평가 금속공학`
+- [계산신경과학 및 신경 신호 해독과 뇌-기계 인터페이스의 언어](./computational-neuroscience-neural-decoding-and-brain-machine-interfaces/README.md) — `신경신호해독운동의도추정 및 뇌기계인터페이스침습형전극 기반 신경스파이크타이밍동기화와 대뇌피질운동영역신경망모델 계산신경과학`
+- [에너지지정학 및 북극항로와 핵심광물 외교의 언어](./geopolitics-of-energy-arctic-sea-routes-and-critical-mineral-diplomacy/README.md) — `북극해빙항로상업적운항 및 북극자원영유권분쟁대응 기반 핵심광물공급망안보외교와 배타적경제수역자원개발권 에너지지정학`
+- [환경미생물학 및 생물학적 정화와 미생물 전기화학 시스템의 언어](./environmental-microbiology-bioremediation-and-microbial-electrochemical-systems/README.md) — `미생물전기화학시스템에너지 및 세포외전자전달메커니즘 기반 토양생물학적정화공정기술과 난분해성오염물질생분해 환경미생물학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
