@@ -65,7 +65,7 @@
       "topicId": "vocab-collocations",
       "category": "Natural Expression",
       "incorrect": "My title job is an engineer.",
-      "corrected": "My job title is engineer. / I work as an engineer.",
+      "corrected": "My job title is \"software engineer\". / I work as an engineer.",
       "explanationVi": "Job title là trật tự đúng của cụm danh từ; cách giới thiệu vai trò tự nhiên là I work as a/an + nghề.",
       "explanationKo": "직함은 job title이라고 하며, 역할 소개에는 I work as ...가 자연스럽습니다."
     },
