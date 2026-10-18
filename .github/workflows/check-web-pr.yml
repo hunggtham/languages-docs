@@ -1,0 +1,26 @@
+name: Check LanguageLab web changes
+on:
+  pull_request:
+    paths:
+      - "apps/web/**"
+      - "english/study-tracker/**"
+      - "scripts/build-content-index.py"
+      - ".github/workflows/check-web-pr.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: npm install --prefix apps/web --no-audit --no-fund
+      - run: python3 scripts/build-content-index.py
+      - run: npm run --prefix apps/web type-check
+      - run: npm run --prefix apps/web build -- --base=/languages-docs/
