@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,010 new targets across 534 independent topic batches; 13,010 structured headings toward the 15,000 target, leaving 1,990 after this checkpoint.
+- Progress in this checkpoint: 8,160 new targets across 544 independent topic batches; 13,160 structured headings toward the 15,000 target, leaving 1,840 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -98,6 +98,46 @@
 - Topic: `materials-graphene-and-transition-metal-dichalcogenides`
 - File: `10-graphene-and-2d-semiconductors.md`
 - Coverage: 15 new advanced-native monolayer graphene, 2D transition metal dichalcogenides (TMDs), van der Waals heterostructures, bandgap engineering, and moiré superlattices headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biochemistry-epigenetics-histone-modification-and-chromatin-remodeling`
+- File: `01-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native histone modification, epigenetic reprogramming, SWI/SNF chromatin remodeling, DNA methylation, and histone acetyltransferase headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aerospace-engineering-hypersonic-aerodynamics-and-scramjet-propulsion`
+- File: `02-hypersonic-aerodynamics-and-scramjet.md`
+- Coverage: 15 new advanced-native hypersonic boundary layer transition, shock wave-boundary layer interaction, scramjet supersonic combustion, and aerothermal thermal protection system headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-science-deliberative-democracy-and-public-sphere`
+- File: `03-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native Habermas public sphere theory, ideal speech situation, communicative rationality, deliberative democratic decision-making, and discursive legitimacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-neuroscience-spiking-neural-networks-and-stdp`
+- File: `04-spiking-neural-networks-and-stdp.md`
+- Coverage: 15 new advanced-native spiking neural networks (SNN), spike-timing-dependent plasticity (STDP), leaky integrate-and-fire (LIF) neuron model, and dynamic synaptic conductance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `international-law-state-immunity-and-universal-jurisdiction`
+- File: `05-state-immunity-and-universal-jurisdiction.md`
+- Coverage: 15 new advanced-native sovereign state jurisdictional immunity, universal jurisdiction principle, jus cogens crimes against humanity, act of state doctrine, and universal jurisdiction complementarity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-geology-hydrothermal-vents-and-chemosynthesis`
+- File: `06-hydrothermal-vents-and-chemosynthesis.md`
+- Coverage: 15 new advanced-native hydrothermal vent architecture, hydrogen sulfide chemosynthetic ecosystem, black smoker polymetallic chimney mineralization, and barophilic autotrophic bacteria headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cybersecurity-zero-trust-architecture-and-microsegmentation`
+- File: `07-zero-trust-and-microsegmentation.md`
+- Coverage: 15 new advanced-native Zero Trust trust verification framework, network microsegmentation, dynamic continuous authentication and authorization, SDP perimeter defense, and blast radius minimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrophysics-gravitational-waves-and-neutron-star-mergers`
+- File: `08-gravitational-waves-and-neutron-star-mergers.md`
+- Coverage: 15 new advanced-native binary neutron star merger, spacetime-distortion gravitational wave observation, kilonova electromagnetic afterglow, multi-messenger astronomy, and r-process nucleosynthesis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-frame-semantics`
+- File: `09-conceptual-metaphor-and-frame-semantics.md`
+- Coverage: 15 new advanced-native conceptual metaphor theory mapping, embodied cognition meaning formation, Fillmore frame semantics structure, conceptual blending mental spaces, and image schemas headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleontology-cambrian-explosion-and-burgess-shale-biota`
+- File: `10-cambrian-explosion-and-burgess-shale.md`
+- Coverage: 15 new advanced-native Cambrian explosion event, Burgess Shale fossil preservation, adaptive radiation of body plans, soft-tissue fossilization, and Anomalocaris anatomy headwords across `news_formal` in one `target_set` passage.
 - Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment`
 - File: `01-conceptual-metaphor-and-embodiment.md`
 - Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor theory, embodied cognition hypothesis, image schema projection, and conceptual blending network headwords across `news_formal` in one `target_set` passage.

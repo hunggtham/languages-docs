@@ -590,6 +590,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [환경빙하학 및 극지 빙상 역학과 해수면 상승 메커니즘의 언어](./environmental-glaciology-ice-sheet-dynamics-and-sea-level-rise/README.md) — `극지빙상질량수지적자 및 해수면상승기여도추정 기반 기저빙하활주속도측정과 해양빙상불안정성가설 환경빙하학`
 - [심리철학 및 기능주의와 다중 실현 가능성 논변의 언어](./philosophy-philosophy-of-mind-functionalism-and-multiple-realizability/README.md) — `기능주의심신이론모형 및 다중실현가능성논변 기반 물리주의심신수반개념과 감각질주관적체험구조 심리철학`
 - [신소재공학 및 그래핀과 전이금속 디칼코게나이드 2차원 반도체의 언어](./materials-graphene-and-transition-metal-dichalcogenides/README.md) — `단원자층그래핀박막 및 전이금속디칼코게나이드 기반 반데르발스이종접합계와 에너지밴드갭엔지니어링 신소재공학`
+- [후성유전학 및 히스톤 변식과 염색질 리모델링 역학의 언어](./biochemistry-epigenetics-histone-modification-and-chromatin-remodeling/README.md) — `히스톤아세틸화조절 및 염색질리모델링복합체 기반 후성유전학적재프로그래밍과 디엔에이메틸화유지 후성유전학`
+- [항공우주공학 및 극초음속 공기역학과 스크램제트 추진의 언어](./aerospace-engineering-hypersonic-aerodynamics-and-scramjet-propulsion/README.md) — `극초음속경계층전이 및 충격파경계층상호작용 기반 스크램제트초음속연소와 공력가열열방호체계 항공우주공학`
+- [정치학 및 숙의 민주주의와 공론장 이론의 언어](./political-science-deliberative-democracy-and-public-sphere/README.md) — `하버마스공론장이론 및 이상적담화상황규범 기반 숙의민주주의의사결정과 소통적합리성실현 정치학`
+- [계산신경과학 및 스파이킹 신경망과 STDP 학습의 언어](./computational-neuroscience-spiking-neural-networks-and-stdp/README.md) — `스파이킹신경망모델 및 스파이크타이밍의존가소성 기반 누적누출발화뉴런과 시냅스전도도동적조절 계산신경과학`
+- [국제법 및 국가면제와 보편적 관할권의 언어](./international-law-state-immunity-and-universal-jurisdiction/README.md) — `주권국가재판관할권면제 및 보편적관할권원칙적용범위 기반 강행규범인도에반한죄와 국가행위이론사법자제 국제법`
+- [해양지질학 및 심해 열수구와 화학합성 생태계의 언어](./marine-geology-hydrothermal-vents-and-chemosynthesis/README.md) — `심해열수분출공구조 및 황화수소화학합성생태계 기반 블랙스모커광화작용과 극한환경독립영양세균 해양지질학`
+- [정보보안 및 제로 트러스트 아키텍처와 마이크로세그멘테이션의 언어](./cybersecurity-zero-trust-architecture-and-microsegmentation/README.md) — `제로트러스트신뢰검증체계 및 네트워크마이크로세그멘테이션 기반 동적지속적인증인가기제와 소프트웨어정의경계방어망 정보보안`
+- [천체물리학 및 중력파 관측과 중성자별 병합의 언어](./astrophysics-gravitational-waves-and-neutron-star-mergers/README.md) — `쌍중성자별충돌병합사건 및 시공간왜곡중력파관측기술 기반 킬로노바전자기파후광방출과 빠른중성자포획핵합성과정 천체물리학`
+- [인지언어학 및 개념적 은유와 프레임 의미론의 언어](./linguistics-cognitive-linguistics-conceptual-metaphor-and-frame-semantics/README.md) — `개념적은유이론사상체계 및 신체화된인지기반의미형성 기반 필모어프레임의미론구조와 개념적혼합이론심적공간 인지언어학`
+- [고생물학 및 캄브리아기 대폭발과 버제스 셰일 생물군의 언어](./paleontology-cambrian-explosion-and-burgess-shale-biota/README.md) — `캄브리아기대폭발사건 및 버제스셰일화석군보존 기반 동물체제적응방산진화와 포식압력생태적군비경쟁 고생물학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
