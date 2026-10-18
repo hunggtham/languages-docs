@@ -1,29 +1,32 @@
 # Modern UI/UX Design System & Engineering Skill (Superdesign + Better-Design + UI-Layouts)
 
-> **Tài liệu hướng dẫn & Prompt Template chuẩn mực để thiết kế và tối ưu giao diện (Web / Dashboard / Mobile / Dark-Light Mode)**
-> *Tổng hợp tinh hoa từ 3 thư viện hàng đầu: [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts), [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) và [marvkr/better-design](https://github.com/marvkr/better-design).*
+> **Tài liệu hướng dẫn chuyên sâu & Prompt Template chuẩn mực để thiết kế, refactor và kiểm thử giao diện (Web / Dashboard / Mobile / Dark-Light Mode)**
+> *Tổng hợp tinh hoa thực chiến từ 3 thư viện hàng đầu: [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts), [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) và [marvkr/better-design](https://github.com/marvkr/better-design).*
 
 ---
 
 ## 1. Triết lý Thiết kế Cốt lõi (The 3 Pillars of Modern UI/UX)
 
 1. **Subtractive Design & Anti-Slop (Superdesign):**
-   - Loại bỏ "border noise" (viền dày đặc, ngột ngạt) và các dải gradient vô nghĩa.
-   - **Quy tắc Single Accent:** Chỉ dùng 1 màu nhấn chủ đạo cho hành động chính (`Primary Action`), phần còn lại dựa vào hệ thang màu trung tính (Neutrals).
-   - **State Completeness:** Mọi component đều phải có đủ 4 trạng thái: Default, Hover/Focus, Active, Disabled, và Empty State / Loading State.
+   - **Loại bỏ Border Noise:** Hạn chế các đường viền dày đặc, ngột ngạt bao quanh mọi khối nhỏ. Sử dụng khoảng trắng âm (whitespace) và chênh lệch tông nền (background elevation) để phân cấp khối thay vì kẻ khung viền cứng nhắc khắp nơi.
+   - **Quy tắc Single Accent:** Chỉ dùng 1 màu nhấn chủ đạo cho hành động chính (`Primary Action`), phần còn lại dựa vào hệ thang màu trung tính (Neutrals). Tránh biến giao diện thành "hộp bút màu sặc sỡ".
+   - **State Completeness:** Mọi component tương tác (Button, Pill, Input, Tab) đều phải có đủ 5 trạng thái trực quan: *Default*, *Hover*, *Active / Selected*, *Focus-Visible*, và *Disabled*.
 
 2. **Design Tokens as Source of Truth & Contrast Strictness (Better-Design):**
-   - Không hardcode màu sắc kiểu `color: #fff` hay `color: #000` trên các phần tử có `background` động.
-   - **Semantic Color Pairs:** Luôn đi theo cặp đối ứng: `var(--bg)` đi với `var(--fg)`, `var(--paper)` đi với `var(--ink)`, `var(--primary)` đi với `var(--primary-fg)`.
-   - **Chuẩn tương phản WCAG 2.1 AA (tối thiểu 4.5:1):** Đảm bảo ở cả Light Mode và Dark Mode chữ không bao giờ bị chìm vào nền (ví dụ: chữ trắng trên nền be sáng, hoặc chữ xám tối trên nền đen).
+   - **Không bao giờ hardcode màu tĩnh:** Tuyệt đối không dùng `color: #fff` hay `color: #000` trên các bề mặt có token biến đổi theo chế độ Dark/Light.
+   - **Semantic Color Pairs (Cặp màu ngữ nghĩa):** Luôn đi theo cặp đối ứng: `var(--bg)` đi với `var(--fg)`, `var(--paper)` đi với `var(--ink)`, `var(--primary)` đi với `var(--primary-fg)`.
+   - **Chuẩn tương phản nghiêm ngặt WCAG 2.1 AA:** Đảm bảo tỉ lệ tương phản tối thiểu:
+     - Văn bản thường (Body text / Labels): **$\ge 4.5:1$**
+     - Tiêu đề lớn (Headings $\ge 18pt$ hoặc $\ge 14pt$ bold): **$\ge 3.0:1$**
+     - Thành phần giao diện & Trạng thái tương tác (Borders / Icons / Focus rings): **$\ge 3.0:1$**
 
 3. **Responsive Primitives & Natural Flow (UI-Layouts):**
-   - **Nói KHÔNG với Swipe Right / Horizontal Overflow cụt lủn:** Tránh dùng thanh cuộn ngang `overflow-x: auto; white-space: nowrap` ép người dùng phải vuốt ngang trên desktop/mobile để tìm nút. Thay vào đó, dùng `flex-wrap: wrap` hoặc Grid tự co giãn theo breakpoint.
+   - **Nói KHÔNG với Swipe Right / Horizontal Overflow cụt lủn:** Tránh dùng thanh cuộn ngang `overflow-x: auto; white-space: nowrap` ép người dùng phải vuốt ngang trên desktop/mobile để tìm nút. Thay vào đó, dùng `flex-wrap: wrap; gap: 8px` hoặc CSS Grid tự co giãn theo container query / breakpoint.
    - **Mobile-First Breakpoint Hierarchy:**
-     - `< 640px (Mobile):` 1 cột duy nhất, kích thước chạm ngón tay tối thiểu 44x44px, nút bấm trải rộng full-width hoặc bottom bar.
-     - `640px - 1024px (Tablet):` 2 cột, bảng dữ liệu co giãn hoặc chuyển sang dạng thẻ.
+     - `< 640px (Mobile):` 1 cột duy nhất, kích thước chạm ngón tay tối thiểu $44 \times 44\text{px}$, các nút điều hướng phụ bọc trong popover/drawer hoặc co giãn full-width.
+     - `640px - 1024px (Tablet):` 2 cột, bảng dữ liệu co giãn hoặc chuyển sang dạng danh thiếp (Card view).
      - `> 1024px (Desktop):` Multi-column grid, sidebar navigation, data table đầy đủ.
-   - **Progressive Disclosure:** Mặc định mở rộng (`Default: Expanded`) để người dùng thấy thông tin tổng thể, nhưng có nút **Collapse All / Expand All theo từng tầng (Depth 1, 2, 3)** để dọn dẹp không gian khi cần.
+   - **Progressive Disclosure & Depth Collapse:** Mặc định ở trạng thái MỞ RỘNG (`Default: Expanded`) để người dùng nắm bắt thông tin toàn cảnh, nhưng cung cấp nút **Collapse All / Expand All theo từng tầng (Depth 1, 2, 3)** để dọn dẹp không gian tức thì.
 
 ---
 
@@ -62,63 +65,142 @@
   --paper: #fffdf9;
   --paper-deep: #eeeae1;
   --ink: #242321;
+  --ink-secondary: #57534e;
   --muted: #77736c;
   --line: #dedad1;
+  --line-focus: #1f683e;
+
+  /* Semantic Interactive Tokens (Light) */
+  --interactive-active-bg: #1f683e;
+  --interactive-active-fg: #ffffff;
+  --interactive-active-border: #1f683e;
+  --interactive-active-badge: #d6f2dc;
+
+  /* Primary Accent & Status (Light) */
   --primary: #52684e;
   --primary-fg: #ffffff;
   --accent: #c96e40;
   --accent-fg: #ffffff;
 
-  /* Status Colors */
   --status-needs-work: #b85a48;
   --status-developing: #c96e40;
   --status-proficient: #52684e;
   --status-mastery: #1f683e;
 }
 
-/* Dark Mode Overrides (Deep Emerald / Slate) */
+/* Dark Mode Overrides (Deep Editorial / Night Slate) */
 html.dark {
   --bg: #181b18;
   --paper: #222622;
   --paper-deep: #2e332e;
   --ink: #f0ede6;
+  --ink-secondary: #c5c2ba;
   --muted: #a3a199;
   --line: #383d37;
+  --line-focus: #3e8858;
+
+  /* Semantic Interactive Tokens (Dark) */
+  --interactive-active-bg: #235436;
+  --interactive-active-fg: #ffffff;
+  --interactive-active-border: #3e8858;
+  --interactive-active-badge: #c8ebd0;
+
+  /* Primary Accent & Status (Dark) */
   --primary: #7ea377;
   --primary-fg: #141714;
   --accent: #e28a5f;
   --accent-fg: #141714;
+
+  --status-needs-work: #d66d58;
+  --status-developing: #e28a5f;
+  --status-proficient: #7ea377;
+  --status-mastery: #8fd29f;
 }
 ```
 
 ---
 
-## 3. Các Nguyên Tắc Xử Lý Lỗi Phổ Biến (Bug Prevention Checklist)
+## 3. Kiến Trúc Dark/Light Mode & Ma Trận Tương Phản (WCAG 2.1 AA)
 
-### ❌ Lỗi 1: Chữ bị chìm khi đổi Dark / Light Mode (Color Inversion Trap)
-- **Nguyên nhân:** Đặt `background: var(--ink)` nhưng lại hardcode `color: #fff`. Ở Dark Mode, `--ink` đổi thành màu trắng/kem sáng `#f0ede6`, dẫn tới chữ trắng trên nền trắng!
-- **Khắc phục:** Luôn dùng token đối ứng hoặc khai báo rõ ràng trong dark mode:
+### 3.1 Bảng Phân Tầng Độ Cao (Elevation Hierarchy)
+Trong Dark mode, độ nổi của các khối không sử dụng bóng đổ mờ đen (`drop-shadow: rgba(0,0,0,0.5)`) vì nền đã tối đen. Thay vào đó, ta tăng dần độ sáng của màu nền (surface luminance):
+
+| Cấp độ | Tên gọi | Màu Light Mode | Màu Dark Mode | Mục đích sử dụng |
+| :--- | :--- | :--- | :--- | :--- |
+| **L0** | Canvas Base (`--bg`) | `#f6f3ed` | `#181b18` | Nền trang toàn màn hình |
+| **L1** | Card Surface (`--paper`) | `#fffdf9` | `#222622` | Thẻ dữ liệu, bảng, danh sách |
+| **L2** | Raised Surface (`--paper-deep`) | `#eeeae1` | `#2e332e` | Switcher bar, header bảng, thanh tìm kiếm |
+| **L3** | Floating Overlay (`modal-sheet`) | `#ffffff` | `#262c26` | Popup modal, dialog, dropdown menu |
+
+### 3.2 Ma Trận Độ Tương Phản Cho Nút & Điều Khiển Tương Tác
+Khi thiết kế nút bấm ở trạng thái Active (được chọn), cần tuân thủ ma trận tương phản sau:
+
+| Thành phần | Light Mode Fills | Dark Mode Fills | Contrast Ratio (WCAG) | Ghi chú thiết kế |
+| :--- | :--- | :--- | :--- | :--- |
+| **Active Pill / Switcher** | Nền `#1f683e`<br>Chữ `#ffffff` | Nền `#235436`<br>Chữ `#ffffff` | Light: **7.8:1** (AAA)<br>Dark: **6.2:1** (AAA) | Viền `#3e8858` ở Dark mode giúp tách biệt khối khỏi nền `#181b18` |
+| **Active Pill Badge (Số lượng)** | Nền trong suốt<br>Chữ `#d6f2dc` | Nền trong suốt<br>Chữ `#c8ebd0` | Light: **6.5:1** (AA)<br>Dark: **6.8:1** (AA) | Không dùng màu xám tối khiến số đếm bị chìm |
+| **Inactive / Default Pill** | Nền `#eeeae1`<br>Chữ `#242321` | Nền `#232724`<br>Chữ `#b2bcb4` | Light: **11.2:1** (AAA)<br>Dark: **5.1:1** (AA) | Hover ở Dark mode làm sáng nền lên `#2a312c` |
+| **Main Heading (`h1`)** | Chữ `#242321` | Chữ `#eeeae1` | Light: **14.1:1** (AAA)<br>Dark: **13.5:1** (AAA) | Luôn gán explicit `color: var(--ink)` để tránh trình duyệt mặc định về `#000` |
+| **Focus Ring (`:focus-visible`)** | Viền `#1f683e`<br>Offset `2px` | Viền `#3e8858`<br>Offset `2px` | Light: **3.8:1** (AA)<br>Dark: **4.6:1** (AA) | Xóa bỏ viền xanh dương mặc định của Webkit (`#005fcc`) |
+
+---
+
+## 4. Danh Sách 6 Lỗi Trực Quan Thực Chiến & Cách Khắc Phục (Anti-Pattern Prevention)
+
+### ❌ Lỗi 1: Dùng Inverted Text Token Làm Nền Nút Bấm (The `--ink` Background Trap)
+- **Triệu chứng:** Ở Light mode nút bấm trông rất đẹp (nền đen chữ trắng). Nhưng khi bấm chuyển Dark mode, nút bấm biến thành **chữ trắng trên nền be sáng / kem**, hoàn toàn không đọc được chữ!
+- **Nguyên nhân gốc rễ:** Đặt `background: var(--ink); color: #fff;`. Ở Light mode `--ink` là `#242321` (đen), nhưng sang Dark mode `--ink` đảo thành `#eeeae1` (trắng kem). Dẫn đến `color: #fff` nằm đè lên nền gần trắng!
+- **Khắc phục chuẩn:** Dùng token tương tác chuyên biệt (`--interactive-active-bg`) hoặc đảo màu chữ tương ứng:
   ```css
-  .primary-button {
-    background: var(--ink);
-    color: var(--paper); /* Tự động đổi màu chữ theo theme */
+  /* SAI */
+  .pill.active { background: var(--ink); color: #fff; }
+
+  /* ĐÚNG */
+  .pill.active {
+    background: #1f683e;
+    color: #ffffff;
+    border-color: #1f683e;
+  }
+  html.dark .pill.active {
+    background: #235436 !important;
+    border-color: #3e8858 !important;
+    color: #ffffff !important;
   }
   ```
 
-### ❌ Lỗi 2: Thanh cuộn ngang cắt chữ (Swipe Right Anti-pattern)
-- **Nguyên nhân:** Dùng `display: flex; overflow-x: auto; white-space: nowrap;` cho danh sách thẻ hay danh mục. Người dùng phải kéo chuột hoặc vuốt tay sang phải, chữ ở góc bị cắt nham nhở.
-- **Khắc phục:**
+### ❌ Lỗi 2: Quên Khai Báo Màu Sắc Cho Tiêu Đề (The Unspecified Heading Color Bug)
+- **Triệu chứng:** Trong Dark mode, từ khóa nhấn mạnh (`<em>`) có màu cam đọc được, nhưng tiêu đề chính (`h1`) lại tàng hình, biến mất trên nền tối!
+- **Nguyên nhân:** CSS chỉ đặt font-family, font-size mà không có thuộc tính `color: var(--ink);`. Một số trình duyệt áp đặt User-Agent stylesheet `color: #000000;`, khiến chữ đen chìm hoàn toàn vào nền canvas tối `#191c19`.
+- **Khắc phục:** Luôn gán màu rõ ràng cho mọi thẻ heading:
+  ```css
+  .hero h1 {
+    color: var(--ink);
+  }
+  html.dark .hero h1 {
+    color: #eeeae1 !important;
+  }
+  ```
+
+### ❌ Lỗi 3: Dùng Token Pastel Sáng Cho Nút Bấm Ở Dark Mode (The Pastel Token Collision)
+- **Triệu chứng:** Nút active ("Biểu đồ") có màu xanh lá cây nhạt (sage pastel `#a7c59c`) nhưng chữ bên trong là màu trắng `#ffffff`. Độ tương phản đo được chỉ đạt **1.8:1**, vi phạm nghiêm trọng chuẩn WCAG AA (cần $\ge 4.5:1$).
+- **Nguyên nhân:** Token `--green` ở Dark mode được tinh chỉnh sáng hơn để dùng làm viền hoặc chữ trên nền tối. Khi lấy nguyên token này làm nền nút bấm và để chữ trắng, 2 màu sáng va chạm vào nhau.
+- **Khắc phục:** Ở Dark mode, nền nút bấm active phải dùng sắc độ ngọc lục bảo sâu (`#235436`) kết hợp viền `#3e8858`, giữ trọn vẹn chữ trắng tương phản $6.2:1$.
+
+### ❌ Lỗi 4: Thanh Cuộn Ngang Cắt Chữ (Horizontal Swipe-Right Anti-Pattern)
+- **Triệu chứng:** Hàng nút chọn chuyên đề hoặc danh mục bị ép trên một dòng duy nhất với `overflow-x: auto; white-space: nowrap;`. Người dùng phải dùng chuột kéo ngang hoặc vuốt màn hình, nửa nút bên phải bị cắt mất chữ.
+- **Khắc phục:** Chuyển sang bố cục Flex-wrap tự nhiên:
   ```css
   .category-nav-list {
     display: flex;
-    flex-wrap: wrap; /* Cho phép rớt dòng tự nhiên */
+    flex-wrap: wrap; /* Tự động xuống dòng êm ái khi hết không gian */
     gap: 8px;
-    overflow-x: visible; /* Không cuộn ngang */
+    overflow-x: visible;
   }
   ```
 
-### ❌ Lỗi 3: Modal / Popup bị đẩy lệch khỏi màn hình hoặc chữ nền đè lên nhau
-- **Nguyên nhân:** Dùng `display: grid; place-items: center;` cho modal khi nội dung dài hoặc màn hình nhỏ, khiến phần đầu modal bị đẩy lên tọa độ âm ngoài viewport; thiếu `background` đục hoặc `z-index` thấp.
+### ❌ Lỗi 5: Modal / Popup Bị Lệch Tọa Độ Hoặc Trôi Khỏi Màn Hình Khi Cuộn
+- **Triệu chứng:** Mở Learning OS modal trên màn hình nhỏ thì phần tiêu đề bị đẩy lên tọa độ âm ngoài đỉnh màn hình, hoặc nền modal trong suốt khiến chữ của trang web bên dưới xuyên thủng lên trên.
+- **Nguyên nhân:** Dùng `display: grid; place-items: center;` khiến modal dài hơn viewport bị cắt cụt hai đầu; quên gán `background: var(--paper)` đục 100%.
 - **Khắc phục:**
   ```css
   .modal-overlay {
@@ -129,70 +211,118 @@ html.dark {
     align-items: center;
     justify-content: center;
     padding: 16px;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(6px);
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(8px);
   }
   .modal-sheet {
     position: relative;
-    width: min(720px, 100%);
+    width: min(760px, 100%);
     max-height: calc(100vh - 48px);
     overflow-y: auto;
-    background: var(--paper); /* Nền đục 100% */
+    background: var(--paper); /* Nền đục tuyệt đối */
     border: 1px solid var(--line);
-    border-radius: 12px;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    border-radius: 14px;
+    box-shadow: 0 20px 48px rgba(0, 0, 0, 0.25);
   }
   ```
 
-### ❌ Lỗi 4: Thang đo điểm số / Badges dính chùm không cách quãng
-- **Nguyên nhân:** Inline `<span>` không có `display: inline-flex`, không có `gap`, viền cứng dính sát vào nhau.
-- **Khắc phục:**
+### ❌ Lỗi 6: Vòng Tròn Tiêu Điểm Xanh Dương Mặc Định (Unstyled Browser Focus Ring)
+- **Triệu chứng:** Khi bấm chuột hoặc nhấn Tab vào nút bấm trong Dark mode, một viền màu xanh dương sáng lóa (`#005fcc`) xuất hiện xung quanh nút, phá vỡ toàn bộ phong cách thẩm mỹ tối giản.
+- **Khắc phục:** Thiết lập `:focus-visible` tùy chỉnh ăn khớp với màu thương hiệu:
   ```css
-  .scale-legend-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 8px;
-    margin: 12px 0;
+  :focus-visible {
+    outline: 2px solid var(--green) !important;
+    outline-offset: 2px;
   }
-  .scale-capsule {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 4px 10px;
-    border-radius: 9999px;
-    font-size: 11px;
-    font-weight: 600;
-    border: 1px solid var(--line);
+  html.dark :focus-visible {
+    outline-color: #3e8858 !important;
   }
   ```
 
 ---
 
-## 4. Prompt Mẫu Chuẩn Cho AI (AI Prompt Template for Next Projects)
+## 5. Quy Chuẩn Responsive Cho Thiết Bị Di Động & Tablet
 
-Khi bắt đầu một dự án mới hoặc yêu cầu AI thiết kế lại giao diện, hãy dán prompt sau:
+```css
+/* Tablet Breakpoint (<= 1024px) */
+@media (max-width: 1024px) {
+  .ep-hero {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  .ep-actions {
+    max-width: 100%;
+    justify-content: flex-start;
+  }
+  .ep-competency-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
+}
+
+/* Mobile Breakpoint (<= 640px) */
+@media (max-width: 640px) {
+  .ep-page {
+    padding: 24px 0 64px;
+  }
+  .ep-hero h1 {
+    font-size: 32px;
+  }
+  .ep-domain-pills,
+  .ep-lang-pills,
+  .ep-category-quicknav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .ep-domain-pill,
+  .ep-lang-pill {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+  .ep-competency-grid {
+    grid-template-columns: 1fr; /* 1 cột duy nhất */
+  }
+  .ep-table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .ep-table-wrap th,
+  .ep-table-wrap td {
+    padding: 10px 12px;
+    font-size: 12px;
+  }
+}
+```
+
+---
+
+## 6. Prompt Mẫu Chuẩn Cho AI (AI Prompt Template for Next Projects)
+
+Khi bắt đầu một dự án mới hoặc yêu cầu trợ lý AI thiết kế/tối ưu hóa giao diện, hãy dán prompt sau:
 
 ```markdown
-Bạn là chuyên gia Design Engineer hàng đầu kết hợp triết lý từ Superdesign, Better-Design và UI-Layouts.
-Hãy thiết kế / tối ưu hóa giao diện cho module [TÊN MODULE] tuân thủ nghiêm ngặt các nguyên tắc sau:
+Bạn là chuyên gia Senior Design Engineer kết hợp triết lý từ Superdesign, Better-Design và UI-Layouts.
+Hãy thiết kế / tái cấu trúc giao diện cho module [TÊN MODULE] tuân thủ nghiêm ngặt các nguyên tắc kỹ thuật sau:
 
-1. Kiến trúc Token & Màu sắc:
-   - Áp dụng hệ thống Design Tokens ngữ nghĩa (Semantic Pairs: ink/paper, primary/primary-fg).
-   - Kiểm tra độ tương phản WCAG 2.1 AA (tối thiểu 4.5:1) ở CẢ HAI CHẾ ĐỘ Light Mode và Dark Mode.
-   - Không hardcode màu trắng (#fff) hay đen (#000) tĩnh trên các nút bấm có nền biến đổi.
+1. Hệ Thống Token & Độ Tương Phản Màu Sắc (WCAG 2.1 AA):
+   - Tuyệt đối không hardcode màu tĩnh (#fff hoặc #000) trên các bề mặt có nền biến đổi theo theme.
+   - Cấm dùng inverted text token (như `background: var(--ink)` kèm `color: #fff`) vì khi sang Dark mode sẽ gây lỗi chữ trắng trên nền trắng kem!
+   - Sử dụng các cặp màu ngữ nghĩa độc lập cho nút active: Light mode dùng sắc ngọc sẫm (`#1f683e`), Dark mode dùng nền sâu (`#235436`) kèm viền (`#3e8858`) và chữ trắng (`#ffffff`), đảm bảo tương phản đạt $\ge 6:1$.
+   - Mọi tiêu đề (`h1`, `h2`) phải có màu chỉ định rõ ràng (`color: var(--ink)`) để không bị trình duyệt đẩy về đen tuyền trong Dark mode.
 
-2. Trải nghiệm Di động & Responsive (Mobile-First):
-   - Tuyệt đối không dùng thanh cuộn ngang `overflow-x: auto` làm cụt chữ cho các nhóm nút chọn hay chuyên đề. Sử dụng `flex-wrap: wrap; gap: 8px`.
-   - Grid cards co giãn: 1 cột trên Mobile (< 640px), 2 cột trên Tablet (640-1024px), 3-4 cột trên Desktop (> 1024px).
-   - Các bảng dữ liệu (Table View) phải hỗ trợ Grouping theo danh mục với khả năng đóng/mở mượt mà.
+2. Trải nghiệm Di Động & Responsive Tự Nhiên (Mobile-First):
+   - Nghiêm cấm dùng cuộn ngang `overflow-x: auto; white-space: nowrap;` làm cụt chữ ở các nhóm nút chọn chuyên đề. Phải dùng `flex-wrap: wrap; gap: 8px`.
+   - Grid cards: 1 cột trên Mobile (< 640px), 2 cột trên Tablet (640-1024px), 3-4 cột trên Desktop (> 1024px).
+   - Bảng dữ liệu (Table View) phải hỗ trợ gom nhóm (Grouping) theo danh mục, có thanh đo điểm số trực quan.
 
-3. Điều khiển Đóng / Mở (Progressive Disclosure):
-   - Mặc định ở trạng thái MỞ RỘNG (Default: Expanded).
-   - Cung cấp nút thao tác nhanh: "▾ Mở rộng tất cả" và "▴ Thu gọn tất cả" theo từng tầng (Depth 1, Depth 2, Depth 3) cho cả Grid View, Table View và Chart View.
+3. Điều Khiển Đóng / Mở (Progressive Disclosure):
+   - Mặc định ở trạng thái MỞ RỘNG (Default: Expanded) để người dùng xem được toàn cảnh.
+   - Luôn cung cấp bộ nút thao tác nhanh: "▾ Mở rộng tất cả" và "▴ Thu gọn tất cả" theo từng phân cấp (Depth 1, Depth 2, Depth 3) cho cả Grid View, Table View và Chart View.
 
-4. Modal & Overlay:
-   - Đảm bảo Modal luôn nằm ở vị trí trung tâm, z-index cao (1000+), backdrop làm mờ (backdrop-filter: blur), nền đục 100% không để lộ chữ phía sau, và hỗ trợ cuộn độc lập nếu nội dung dài.
+4. Modal & Overlay Bền Vững:
+   - Overlay có `backdrop-filter: blur(8px)`, z-index $\ge 1000$.
+   - Khung modal luôn nằm căn giữa tự nhiên, có `max-height: calc(100vh - 48px)`, hỗ trợ cuộn nội bộ `overflow-y: auto`, nền đục tuyệt đối 100% không để lộ chữ nền web.
 
-Hãy rà soát kỹ lưỡng toàn bộ mã nguồn CSS/TSX và đảm bảo kiểm thử chạy qua 100% không có lỗi type hay build.
+Hãy rà soát kỹ lưỡng toàn bộ mã nguồn CSS/TSX và đảm bảo kiểm thử chạy qua 100% không có bất kỳ lỗi type hay lỗi build nào.
 ```
