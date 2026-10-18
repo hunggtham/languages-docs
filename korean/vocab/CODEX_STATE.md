@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,160 new targets across 544 independent topic batches; 13,160 structured headings toward the 15,000 target, leaving 1,840 after this checkpoint.
+- Progress in this checkpoint: 8,310 new targets across 554 independent topic batches; 13,310 structured headings toward the 15,000 target, leaving 1,690 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5293,3 +5293,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 116-eojeol Korean health-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,599 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+- Topic: `microbiology-gut-brain-axis-and-microbiome-metabolomics`
+- File: `01-gut-brain-axis-and-metabolomics.md`
+- Coverage: 15 new advanced-native gut-brain axis, microbiome metabolomics, short-chain fatty acids (SCFA), intestinal permeability barrier, and vagal nerve signaling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-engineering-earthquake-resilient-structures-and-base-isolation`
+- File: `02-earthquake-resilient-structures-and-base-isolation.md`
+- Coverage: 15 new advanced-native earthquake-resilient structures, base isolation bearings, lead rubber bearings (LRB), friction pendulum systems, and seismic superstructure behavior headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-toxicology-pfas-forever-chemicals-and-bioaccumulation`
+- File: `03-pfas-forever-chemicals-and-bioaccumulation.md`
+- Coverage: 15 new advanced-native per- and polyfluoroalkyl substances (PFAS), forever chemicals pollution, bioaccumulation factors (BAF), Stockholm convention persistent organic pollutants, and protein binding bioconcentration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `financial-econometrics-high-frequency-trading-and-order-book-dynamics`
+- File: `04-hft-and-order-book-dynamics.md`
+- Coverage: 15 new advanced-native high-frequency trading (HFT), limit order book (LOB) dynamics, top-of-book depth, order execution probability, and adverse selection risk premium headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-genetics-ancient-dna-and-neanderthal-introgression`
+- File: `05-ancient-dna-and-neanderthal-introgression.md`
+- Coverage: 15 new advanced-native ancient DNA sequencing, Neanderthal genetic introgression, deamination damage pattern analysis, and immune response allele preservation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fluid-mechanics-turbulent-boundary-layers-and-vortex-dynamics`
+- File: `06-turbulent-boundary-layers-and-vortex-dynamics.md`
+- Coverage: 15 new advanced-native viscous fluid governing equations, turbulent boundary layer flow structures, Reynolds stress tensor distribution, and vortex shedding separation control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `development-economics-middle-income-trap-and-structural-transformation`
+- File: `07-middle-income-trap-and-structural-transformation.md`
+- Coverage: 15 new advanced-native middle-income trap escape strategies, industrial structure upgrading, total factor productivity (TFP) innovation, and technology-intensive manufacturing fostering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-phonetics-speech-acoustics-and-vocal-tract-formants`
+- File: `08-speech-acoustics-and-vocal-tract-formants.md`
+- Coverage: 15 new advanced-native acoustic phonetics spectrograms, vocal tract resonant formant frequencies, fundamental frequency measurement, and articulatory constriction acoustic characteristics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optics-metamaterials-negative-refraction-and-optical-cloaking`
+- File: `09-negative-refraction-and-optical-cloaking.md`
+- Coverage: 15 new advanced-native negative index metamaterials, optical cloaking concealment, subwavelength artificial dielectric structures, and simultaneous negativity of permittivity and permeability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-politics-electoral-systems-and-party-fragmentation`
+- File: `10-electoral-systems-and-party-fragmentation.md`
+- Coverage: 15 new advanced-native electoral system proportionality guarantee, Duverger's law two-party system, party system fragmentation index measurement, and mixed-member proportional (MMP) seat allocation headwords across `news_formal` in one `target_set` passage.

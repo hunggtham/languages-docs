@@ -56,6 +56,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [디지털 권리와 플랫폼 거버넌스의 언어](./advanced-digital-rights-and-platform-governance/README.md) — `데이터 권리와 플랫폼 통제`
 - [식량안보와 농업정책의 언어](./advanced-food-security-and-agricultural-policy/README.md) — `식량 공급과 농촌 전환`
 - [이동권과 교통정책의 고급 언어](./advanced-mobility-and-transport-policy/README.md) — `도시 이동과 교통 전환`
+- [미생물학 및 장뇌축 양방향 신호전달과 마이크로바이옴 대사체의 언어](./microbiology-gut-brain-axis-and-microbiome-metabolomics/README.md) — `장내미생물균총불균형 및 미주신경양방향신호전달 기반 단쇄지방산수용체활성화와 장투과성장벽손상기전 미생물학`
+- [구조공학 및 지진 격리 면진 구조와 지진 회복력의 언어](./structural-engineering-earthquake-resilient-structures-and-base-isolation/README.md) — `지진격리면진받침장치 및 납면진받침감쇠성능 기반 마찰진자받침시스템과 지진격리상부구조거동 구조공학`
+- [환경독성학 및 과불화화합물(PFAS) 오염과 생물농축의 언어](./environmental-toxicology-pfas-forever-chemicals-and-bioaccumulation/README.md) — `과불화옥탄술폰산오염 및 잔류성유기오염물질 규제 기반 생물축적계수산출과 단백질결합생체농축 환경독성학`
+- [금융계량학 및 고주파 알고리즘 매매와 호가창 미시구조의 언어](./financial-econometrics-high-frequency-trading-and-order-book-dynamics/README.md) — `고주파알고리즘매매 및 최우선매수매도호가 잔량 기반 지정가주문체결확률과 역선택비용위험프리미엄 금융계량학`
+- [진화유전학 및 고대 DNA 분석과 네안데르탈인 유전자 유입의 언어](./evolutionary-genetics-ancient-dna-and-neanderthal-introgression/README.md) — `고대유전체서열해독 및 네안데르탈인이입유전자 기반 탈아미노화손상패턴분석과 면역반응대립유전자보존 진화유전학`
+- [유체역학 및 난류 경계층과 와류 동역학의 언어](./fluid-mechanics-turbulent-boundary-layers-and-vortex-dynamics/README.md) — `점성유체지배방정식해석 및 난류경계층유동구조 기반 레이놀즈응력텐서분포와 와류흘림박리제어기법 유체역학`
+- [개발경제학 및 중진국 함정과 산업구조 고도화의 언어](./development-economics-middle-income-trap-and-structural-transformation/README.md) — `중진국함정탈출전략 및 산업구조고도화전환 기반 총요소생산성혁신견인과 기술집약형제조업육성 개발경제학`
+- [언어학 및 음향음성학과 성도 포먼트 분석의 언어](./linguistics-phonetics-speech-acoustics-and-vocal-tract-formants/README.md) — `음향음성학스펙트로그램 및 성도공명포먼트주파수 기반 성대진동기본주파수측정과 조음기관협착음향특성 언어학`
+- [광학 및 메타물질과 음의 굴절 및 투명 망토의 언어](./optics-metamaterials-negative-refraction-and-optical-cloaking/README.md) — `음의굴절률메타물질 및 광학투명망토은폐기술 기반 서브파장인공유전체구조와 유전율투자율동시음수화 광학`
+- [비교정치학 및 선거제도와 정당 체계 분절화의 언어](./comparative-politics-electoral-systems-and-party-fragmentation/README.md) — `선거제도비례대표성확보 및 뒤베르제의법칙양당제 기반 정당체계분절화지수측정과 연동형비례대표제의석배분 비교정치학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
