@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,310 new targets across 554 independent topic batches; 13,310 structured headings toward the 15,000 target, leaving 1,690 after this checkpoint.
+- Progress in this checkpoint: 8,460 new targets across 564 independent topic batches; 13,460 structured headings toward the 15,000 target, leaving 1,540 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5332,3 +5332,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `comparative-politics-electoral-systems-and-party-fragmentation`
 - File: `10-electoral-systems-and-party-fragmentation.md`
 - Coverage: 15 new advanced-native electoral system proportionality guarantee, Duverger's law two-party system, party system fragmentation index measurement, and mixed-member proportional (MMP) seat allocation headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-cell-free-protein-synthesis-and-genetic-circuits`
+- File: `01-cell-free-synthesis-and-genetic-circuits.md`
+- Coverage: 15 new advanced-native cell-free protein synthesis (CFPS), riboswitch genetic circuits, synthetic genetic oscillators, and transcription-translation (TX-TL) reaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-geology-plate-tectonics-subduction-zones-and-mantle-plumes`
+- File: `02-subduction-zones-and-mantle-plumes.md`
+- Coverage: 15 new advanced-native plate tectonics subduction mechanisms, mantle plume upwelling, oceanic slab dehydration embrittlement, and megathrust earthquakes headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `epidemiology-infectious-disease-transmission-dynamics-and-sir-models`
+- File: `03-infectious-disease-dynamics-and-sir-models.md`
+- Coverage: 15 new advanced-native infectious disease mathematical models (SIR), basic reproduction number (R0), time-varying effective reproduction number (Rt), and herd immunity threshold headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-sovereign-debt-crisis-and-debt-sustainability`
+- File: `04-sovereign-debt-crisis-and-debt-sustainability.md`
+- Coverage: 15 new advanced-native sovereign debt sustainability analysis (DSA), sovereign bond yield spread credit risk, primary fiscal surplus targets, and debt restructuring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-optics-entangled-photons-and-quantum-teleportation`
+- File: `05-entangled-photons-and-quantum-teleportation.md`
+- Coverage: 15 new advanced-native quantum entangled photon pairs, spontaneous parametric down-conversion (SPDC), Bell-state measurement, and quantum teleportation fidelity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-of-law-legal-consciousness-and-access-to-justice`
+- File: `06-legal-consciousness-and-access-to-justice.md`
+- Coverage: 15 new advanced-native sociology of law legal consciousness, access to justice frameworks, legal empowerment of disadvantaged groups, and legal aid systems headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-science-solid-oxide-fuel-cells-and-mixed-ionic-electronic-conductors`
+- File: `07-sofc-and-mixed-conductors.md`
+- Coverage: 15 new advanced-native solid oxide fuel cells (SOFC), mixed ionic-electronic conductors (MIEC), perovskite oxide cathodes, and triple phase boundary (TPB) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-chemistry-density-functional-theory-and-molecular-dynamics`
+- File: `08-density-functional-theory-and-molecular-dynamics.md`
+- Coverage: 15 new advanced-native density functional theory (DFT), molecular dynamics trajectory simulations, exchange-correlation energy approximations, and potential energy surfaces (PES) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `international-relations-grand-strategy-and-offshore-balancing`
+- File: `09-grand-strategy-and-offshore-balancing.md`
+- Coverage: 15 new advanced-native international relations grand strategy formulation, offshore balancing geopolitical power, hegemonic stability power transitions, and alliance cohesion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-engineering-carbon-capture-utilization-and-storage-ccus`
+- File: `10-carbon-capture-utilization-and-storage.md`
+- Coverage: 15 new advanced-native carbon capture utilization and storage (CCUS), wet amine absorbent regeneration energy, supercritical CO2 geological storage, and mineral carbonation building materials headwords across `news_formal` in one `target_set` passage.

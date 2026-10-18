@@ -66,6 +66,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [언어학 및 음향음성학과 성도 포먼트 분석의 언어](./linguistics-phonetics-speech-acoustics-and-vocal-tract-formants/README.md) — `음향음성학스펙트로그램 및 성도공명포먼트주파수 기반 성대진동기본주파수측정과 조음기관협착음향특성 언어학`
 - [광학 및 메타물질과 음의 굴절 및 투명 망토의 언어](./optics-metamaterials-negative-refraction-and-optical-cloaking/README.md) — `음의굴절률메타물질 및 광학투명망토은폐기술 기반 서브파장인공유전체구조와 유전율투자율동시음수화 광학`
 - [비교정치학 및 선거제도와 정당 체계 분절화의 언어](./comparative-politics-electoral-systems-and-party-fragmentation/README.md) — `선거제도비례대표성확보 및 뒤베르제의법칙양당제 기반 정당체계분절화지수측정과 연동형비례대표제의석배분 비교정치학`
+- [합성생물학 및 무세포 단백질 합성과 유전자 회로의 언어](./synthetic-biology-cell-free-protein-synthesis-and-genetic-circuits/README.md) — `무세포단백질합성시스템 및 리보스위치유전자회로 기반 합성생물학유전자발진기와 세포유리전사번역반응 합성생물학`
+- [구조지질학 및 판구조론과 섭입대 및 맨틀 플룸의 언어](./structural-geology-plate-tectonics-subduction-zones-and-mantle-plumes/README.md) — `판구조론섭입대메커니즘 및 맨틀플룸열점상승류 기반 해구해양지각침강대와 섭입대메가쓰러스트지진 구조지질학`
+- [역학 및 감염병 전파 동역학과 SIR 수리 모델의 언어](./epidemiology-infectious-disease-transmission-dynamics-and-sir-models/README.md) — `감염병전파동역학수리모델 및 기초감염재생산수산출 기반 시간변동재생산수추정과 집단면역임계값방역망 역학`
+- [거시경제학 및 국가부채 위기와 부채 지속가능성의 언어](./macroeconomics-sovereign-debt-crisis-and-debt-sustainability/README.md) — `국가부채지속가능성평가 및 국채스프레드신용위험 기반 기초재정수지흑자목표와 부채구조조정채무재조정 거시경제학`
+- [양자광학 및 얽힘 광자쌍과 양자 원격전송의 언어](./quantum-optics-entangled-photons-and-quantum-teleportation/README.md) — `양자얽힘광자쌍생성기술 및 자발적매개하향변환광학 기반 벨상태측정양자판별과 양자원격전송상태재현 양자광학`
+- [법사회학 및 법의식과 사법 접근성의 언어](./sociology-of-law-legal-consciousness-and-access-to-justice/README.md) — `법사회학일상적법의식 및 사법접근성보장체계 기반 법적권리의식실질화와 공익법률구조지원제도 법사회학`
+- [재료공학 및 고체산화물 연료전지와 혼합 전도성 세라믹의 언어](./materials-science-solid-oxide-fuel-cells-and-mixed-ionic-electronic-conductors/README.md) — `고체산화물연료전지소재 및 혼합이온전자전도체세라믹 기반 페로브스카이트산화물양극과 삼상계면반응활성영역 재료공학`
+- [계산화학 및 밀도범함수론과 분자동역학 시뮬레이션의 언어](./computational-chemistry-density-functional-theory-and-molecular-dynamics/README.md) — `밀도범함수론전자구조계산 및 분자동역학궤적시뮬레이션 기반 교환상관에너지범함수근사와 포텐셜에너지표면탐색 계산화학`
+- [국제정치학 및 대전략 구상과 역외 균형 전략의 언어](./international-relations-grand-strategy-and-offshore-balancing/README.md) — `국제정치학대전략구상 및 역외균형전략지정학세력 기반 패권안정이론권력전이와 동맹결속력무임승차방지 국제정치학`
+- [환경공학 및 탄소 포집·활용·저장(CCUS) 기술의 언어](./environmental-engineering-carbon-capture-utilization-and-storage-ccus/README.md) — `탄소포집활용저장공학 및 습식아민흡수제재생에너지 기반 초임계이산화탄소지중저장과 광물탄산화건축자재전환 환경공학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
