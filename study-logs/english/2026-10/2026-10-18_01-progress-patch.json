@@ -1,0 +1,110 @@
+{
+  "topic_updates": {
+    "verb-patterns": {
+      "evidence": "Phân tích bài Speaking tự tạo ngày 2026-10-18: còn dùng sai 'instead of + V-ing', 'help someone (to) V' và mẫu 'plan / be planning'. Chưa kiểm tra lại sau khi được giảng.",
+      "keyPoints": ["instead of + V-ing", "help + object + (to) V", "plan to V / be planning"]
+    },
+    "prepositions-advanced": {
+      "evidence": "Quan sát lỗi 'communicate someone', 'join with a team'; cần học communicate with / work with / join + object."
+    },
+    "vocab-collocations": {
+      "evidence": "Bài Speaking còn diễn đạt 'translate many' và 'title job'; cần luyện not as much as I used to, job title / work as."
+    },
+    "production": {
+      "evidence": "Bản Speaking gõ đã diễn tả được vấn đề nghề nghiệp nhưng còn nhiều lỗi nối câu và thiếu chi tiết về cách xử lý và bài học rút ra. Chưa có audio; chưa đánh giá phát âm và fluency."
+    }
+  },
+  "new_errors": [
+    {
+      "date": "2026-10-18",
+      "topicId": "verb-patterns",
+      "category": "Verb Patterns",
+      "incorrect": "Instead of translate, I worked on something else.",
+      "corrected": "Instead of translating, I worked on something else.",
+      "explanationVi": "Of là giới từ; sau giới từ diễn tả hoạt động dùng V-ing. Khác với decide/plan + to V.",
+      "explanationKo": "전치사 of 뒤에는 동명사(V-ing)를 사용합니다. decide/plan + to V와 구별하세요."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "verb-patterns",
+      "category": "Verb Patterns",
+      "incorrect": "We are plan to develop the feature.",
+      "corrected": "We plan to develop the feature. / We are planning to develop the feature.",
+      "explanationVi": "Present Simple: we plan. Present Continuous: we are planning. Không có 'are plan' trong trường hợp này.",
+      "explanationKo": "일반 현재는 we plan, 진행형은 we are planning입니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "verb-patterns",
+      "category": "Verb Patterns",
+      "incorrect": "Communicate another team.",
+      "corrected": "Communicate with another team.",
+      "explanationVi": "Communicate với người/đội khác thường đi với giới từ with.",
+      "explanationKo": "상대방과 소통할 때는 communicate with를 사용합니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "verb-patterns",
+      "category": "Verb Patterns",
+      "incorrect": "I joined with the planning team.",
+      "corrected": "I joined the planning team. / I started working with the planning team.",
+      "explanationVi": "Join + tân ngữ khi trở thành thành viên; work with khi cộng tác. Cần chọn câu theo ý định.",
+      "explanationKo": "join a team은 팀에 합류함, work with a team은 협업함을 뜻합니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "verb-patterns",
+      "category": "Verb Patterns",
+      "incorrect": "I haven't joined front-end development yet.",
+      "corrected": "I haven't worked directly on front-end development yet.",
+      "explanationVi": "Join thường nói về gia nhập nhóm; work on một mảng phát triển mô tả kinh nghiệm thực hiện công việc.",
+      "explanationKo": "팀 가입을 뜻하는 join과 개발 업무 경험을 말하는 work on은 의미가 다릅니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "vocab-collocations",
+      "category": "Natural Expression",
+      "incorrect": "My title job is an engineer.",
+      "corrected": "My job title is \"software engineer\". / I work as an engineer.",
+      "explanationVi": "Job title là trật tự đúng của cụm danh từ; cách giới thiệu vai trò tự nhiên là I work as a/an + nghề.",
+      "explanationKo": "직함은 job title이라고 하며, 역할 소개에는 I work as ...가 자연스럽습니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "vocab-collocations",
+      "category": "Natural Expression",
+      "incorrect": "I don't need to translate many.",
+      "corrected": "I don't need to translate as much as I used to.",
+      "explanationVi": "Much nói về lượng hoạt động, many đi với danh từ đếm được số nhiều; used to so sánh với trước.",
+      "explanationKo": "번역 업무량은 much로 표현하고, 과거와의 비교에는 as much as I used to를 사용합니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "articles-determiners",
+      "category": "Articles & Singular/Plural",
+      "incorrect": "All team is using AI.",
+      "corrected": "Both teams are using AI.",
+      "explanationVi": "Khi nói hai đội, dùng both + danh từ số nhiều; chủ ngữ số nhiều đi với are.",
+      "explanationKo": "두 팀은 both teams이며 복수이므로 are를 사용합니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "vocab-collocations",
+      "category": "Word Form",
+      "incorrect": "I stressed because I need to learn more.",
+      "corrected": "I'm stressed because I need to learn more.",
+      "explanationVi": "I stressed có thể là tôi nhấn mạnh; I'm stressed là tôi đang căng thẳng.",
+      "explanationKo": "I stressed는 강조했다는 뜻일 수 있지만 I'm stressed는 스트레스 받는 상태입니다."
+    },
+    {
+      "date": "2026-10-18",
+      "topicId": "articles-determiners",
+      "category": "Articles & Singular/Plural",
+      "incorrect": "I need to learn a lot of thing.",
+      "corrected": "I need to learn a lot of things.",
+      "explanationVi": "Thing đếm được và nhiều hơn một nên dùng things; a lot of work là danh từ không đếm được.",
+      "explanationKo": "셀 수 있는 명사 thing이 여럿이면 things로 복수형을 써야 합니다."
+    }
+  ],
+  "resolved_errors": []
+}
