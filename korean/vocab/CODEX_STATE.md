@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,910 new targets across 594 independent topic batches; 13,910 structured headings toward the 15,000 target, leaving 1,090 after this checkpoint.
+- Progress in this checkpoint: 9,060 new targets across 604 independent topic batches; 14,060 structured headings toward the 15,000 target, leaving 940 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5490,3 +5490,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `environmental-toxicology-microplastics-and-trophic-bioaccumulation`
 - File: `10-microplastics-and-trophic-bioaccumulation.md`
 - Coverage: 15 new advanced-native microplastics trophic bioaccumulation factor, nanoplastics membrane cytotoxicity, POPs carrier vector effect, and marine food web biomagnification headwords across `news_formal` in one `target_set` passage.
+- Topic: `microfluidics-lab-on-a-chip-and-droplet-digital-pcr`
+- File: `01-lab-on-a-chip-and-droplet-digital-pcr.md`
+- Coverage: 15 new advanced-native microfluidics lab-on-a-chip, droplet digital PCR, surface tension capillary pressure, and laminar Reynolds number headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `behavioral-neuroscience-fear-conditioning-and-memory-reconsolidation`
+- File: `02-fear-conditioning-and-memory-reconsolidation.md`
+- Coverage: 15 new advanced-native Pavlovian fear conditioning, basolateral amygdala plasticity, memory reconsolidation, and fear extinction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `photonic-crystals-photonic-bandgap-and-slow-light`
+- File: `03-photonic-bandgap-and-slow-light.md`
+- Coverage: 15 new advanced-native photonic crystals, photonic bandgap, dispersion relation engineering, slow light propagation, and high-Q cavity mode volume headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-dynamic-stochastic-general-equilibrium-and-monetary-policy`
+- File: `04-dsge-modeling-and-monetary-policy.md`
+- Coverage: 15 new advanced-native DSGE macroeconomic modeling, Calvo price stickiness, Taylor rule monetary reaction, and Bayesian MCMC estimation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-robotics-autonomous-rendezvous-and-orbital-servicing`
+- File: `05-autonomous-rendezvous-and-orbital-servicing.md`
+- Coverage: 15 new advanced-native Clohessy-Wiltshire relative orbit equations, autonomous rendezvous proximity operations, non-cooperative target robotic capture, and on-orbit refueling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `epigenetics-histone-code-and-chromatin-accessibility`
+- File: `06-histone-code-and-chromatin-accessibility.md`
+- Coverage: 15 new advanced-native histone tail covalent modifications, ATAC-seq chromatin accessibility, SWI/SNF remodeling complex, and pioneer transcription factor penetration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-combustion-turbulent-premixed-flames-and-detonation`
+- File: `07-turbulent-premixed-flames-and-detonation.md`
+- Coverage: 15 new advanced-native turbulent premixed flame Borghi diagram, rotating detonation engine, Damköhler and Karlovitz numbers, and ZND detonation wave structure headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cyber-physical-systems-formal-verification-and-hybrid-automata`
+- File: `08-formal-verification-and-hybrid-automata.md`
+- Coverage: 15 new advanced-native cyber-physical systems formal verification, hybrid automata reachability analysis, linear temporal logic model checking, and state-space abstraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-geochemistry-acid-mine-drainage-and-heavy-metal-attenuation`
+- File: `09-acid-mine-drainage-and-metal-attenuation.md`
+- Coverage: 15 new advanced-native sulfide mineral oxidation, acid mine drainage (AMD), heavy metal coprecipitation adsorption, and permeable reactive barriers headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-administrative-law-administrative-discretion-and-proportionality`
+- File: `10-administrative-discretion-and-proportionality.md`
+- Coverage: 15 new advanced-native administrative discretion judicial review, proportionality principle, legitimate expectations protection, and administrative procedure prior notice headwords across `news_formal` in one `target_set` passage.

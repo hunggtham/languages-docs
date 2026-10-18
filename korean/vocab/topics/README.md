@@ -106,6 +106,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [발달정신병리학 및 유년기 외상과 후성유전학적 취약성의 언어](./developmental-psychopathology-childhood-trauma-and-epigenetic-vulnerability/README.md) — `발달정신병리학후성유전학적각인 및 유년기부정적경험스트레스취약성 기반 시상하부뇌하수체부신축과각성반응과 디엔에이메틸화유전자발현조절이상 발달정신병리학`
 - [핵융합공학 및 토카막 자기밀폐와 플라즈마 붕괴완화의 언어](./nuclear-fusion-engineering-tokamak-magnetic-confinement-and-plasma-disruption/README.md) — `토카막자기밀폐플라즈마평형제어 및 중수소삼중수소핵융합반응단면적 기반 고인자모드에이치모드경계수송장벽과 플라즈마대규모붕괴완화산탄주입 핵융합공학`
 - [환경독성학 및 미세플라스틱과 영양단계 생물농축의 언어](./environmental-toxicology-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱영양단계생물농축계수 및 나노플라스틱세포막투과생체독성 기반 잔류성유기오염물질흡착매개체역할과 해양먹이사슬상위포식자생물확대 환경독성학`
+- [미세유체역학 및 랩온어칩과 액적 디지털 중합효소연쇄반응의 언어](./microfluidics-lab-on-a-chip-and-droplet-digital-pcr/README.md) — `미세유체역학랩온어칩소자설계 및 액적기반디지털중합효소연쇄반응 기반 미세채널층류레이놀즈수해석과 표면장력모세관압력구동제어 미세유체학`
+- [행동신경과학 및 공포 조건화와 기억 재공고화의 언어](./behavioral-neuroscience-fear-conditioning-and-memory-reconsolidation/README.md) — `파블로프식공포조건화실험모델 및 기저외측편도체시냅스가소성 기반 기억재공고화단백질합성억제와 편도체해마상호작용공포기억 행동신경과학`
+- [광자결정 및 광자 밴드갭과 저속광 기술의 언어](./photonic-crystals-photonic-bandgap-and-slow-light/README.md) — `광자결정주기적유전율나노구조 및 광자밴드갭전자기파차단 기반 저속광도파로군속도지연효과와 고품질계수광공진기모드체적 광자결정`
+- [거시경제학 및 동태적 확률적 일반균형 모형과 통화정책의 언어](./macroeconomics-dynamic-stochastic-general-equilibrium-and-monetary-policy/README.md) — `동태적확률적일반균형모형설계 및 칼보가격경직성필립스곡선 기반 테일러준칙최적통화정책반응과 베이지안마르코프체인몬테카를로추정 거시경제학`
+- [우주로봇공학 및 자율 랑데부·도킹과 궤도상 서비스의 언어](./space-robotics-autonomous-rendezvous-and-orbital-servicing/README.md) — `클로헤시윌트셔방정식상대운동해석 및 자율랑데부도킹근접접근기동제어 기반 비협조표적우주파편로봇팔포획과 궤도상연료보급위성수명연장서비스 우주로봇공학`
+- [후성유전학 및 히스톤 코드와 염색질 접근성의 언어](./epigenetics-histone-code-and-chromatin-accessibility/README.md) — `히스톤꼬리공유결합변형암호해독 및 염색질접근성분석전위효소시퀀싱 기반 염색질리모델링복합체스위스니프와 파이오니어전사인자응축염색질침투 후성유전학`
+- [전산연소공학 및 난류 예혼합 화염과 회전 폭굉 엔진의 언어](./computational-combustion-turbulent-premixed-flames-and-detonation/README.md) — `난류예혼합화염면보르기다이어그램 및 회전폭굉엔진압력상승연소효율 기반 화염편모델상세화학반응속도론과 담쾰러수카를로비츠수연소영역분류 전산연소공학`
+- [사이버물리시스템 및 하이브리드 오토마타와 정형 검증의 언어](./cyber-physical-systems-formal-verification-and-hybrid-automata/README.md) — `사이버물리시스템정형기법검증 및 하이브리드오토마타도달가능성분석 기반 선형시상논리안전성성질모델체킹과 상태공간폭발문제추상화완화기법 사이버물리시스템`
+- [환경지구화학 및 산성광산배수와 중금속 자연저감의 언어](./environmental-geochemistry-acid-mine-drainage-and-heavy-metal-attenuation/README.md) — `황화광물생지화학적산화반응 및 산성광산배수중금속용출기전 기반 철알루미늄수산화물공침흡착과 투수성반응벽체중금속정화기술 환경지구화학`
+- [비교행정법 및 행정재량과 비례원칙의 언어](./comparative-administrative-law-administrative-discretion-and-proportionality/README.md) — `행정재량권한계및일탈남용통제 및 비례원칙적합성필요성상당성 기반 신뢰보호원칙정당한기대보호와 행정절차법사전통지의견청취 비교행정법`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
