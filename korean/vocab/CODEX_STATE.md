@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,060 new targets across 604 independent topic batches; 14,060 structured headings toward the 15,000 target, leaving 940 after this checkpoint.
+- Progress in this checkpoint: 9,210 new targets across 614 independent topic batches; 14,210 structured headings toward the 15,000 target, leaving 790 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5529,3 +5529,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `comparative-administrative-law-administrative-discretion-and-proportionality`
 - File: `10-administrative-discretion-and-proportionality.md`
 - Coverage: 15 new advanced-native administrative discretion judicial review, proportionality principle, legitimate expectations protection, and administrative procedure prior notice headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-metabolic-flux-and-genome-scale-modeling`
+- File: `01-metabolic-flux-and-genome-scale-modeling.md`
+- Coverage: 15 new advanced-native genome-scale metabolic modeling (GEM), flux balance analysis (FBA), 13C metabolic flux analysis (13C-MFA), and metabolic control analysis (MCA) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-geology-paleostress-analysis-and-fault-kinematics`
+- File: `02-paleostress-and-fault-kinematics.md`
+- Coverage: 15 new advanced-native fault slickenlines, paleostress inversion kinematics, Andersonian faulting stress tensor, ductile shear zone mylonite, and pull-apart basin subsidence headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cryogenic-engineering-superconducting-magnets-and-quench-protection`
+- File: `03-superconducting-magnets-and-quench-protection.md`
+- Coverage: 15 new advanced-native superconducting magnet quench detection, closed-loop liquid helium circulation, persistent current switch mode, and dump resistor energy extraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-geophysics-oceanic-crust-and-hydrothermal-vent-dynamics`
+- File: `04-oceanic-crust-and-hydrothermal-vents.md`
+- Coverage: 15 new advanced-native mid-ocean ridge seafloor spreading, hydrothermal vent black smokers, peridotite serpentinization methane synthesis, and axial magma chamber seismic tomography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoanthropology-hominin-evolution-and-ancient-dna-admixture`
+- File: `05-hominin-evolution-and-ancient-dna.md`
+- Coverage: 15 new advanced-native hominin fossil phylogenetic analysis, ancient DNA Neanderthal/Denisovan admixture, cranial capacity encephalization, and Paleolithic lithic typology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aeroacoustics-turbomachinery-noise-and-trailing-edge-scattering`
+- File: `06-turbomachinery-noise-and-trailing-edge-scattering.md`
+- Coverage: 15 new advanced-native Lighthill acoustic analogy, airfoil trailing edge vortex noise scattering, turbofan acoustic liners, and microphone phased array beamforming headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `solid-state-electrochemistry-solid-oxide-fuel-cells-and-mixed-conductors`
+- File: `07-solid-oxide-fuel-cells-and-mixed-conductors.md`
+- Coverage: 15 new advanced-native solid oxide fuel cells (SOFC), triple-phase boundary oxygen reduction, mixed ionic-electronic conductors (MIEC), and electrochemical impedance spectroscopy (EIS) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cognitive-linguistics-conceptual-metaphor-and-embodied-cognition`
+- File: `08-conceptual-metaphor-and-embodied-cognition.md`
+- Coverage: 15 new advanced-native conceptual metaphor theory (CMT), image schemas, embodied cognition, mental spaces conceptual blending, and spatialization metaphors headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `radio-astronomy-very-long-baseline-interferometry-and-pulsar-timing`
+- File: `09-vlbi-and-pulsar-timing-arrays.md`
+- Coverage: 15 new advanced-native very long baseline interferometry (VLBI), black hole event horizon imaging, pulsar timing array nanohertz gravitational waves, and closure phase calibration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-law-emergency-powers-and-derogation`
+- File: `10-emergency-powers-and-derogation.md`
+- Coverage: 15 new advanced-native state emergency powers proportionality review, martial law substantive constitutionality standards, state of exception theory, and ICCPR derogation safeguards headwords across `news_formal` in one `target_set` passage.

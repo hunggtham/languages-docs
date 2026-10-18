@@ -116,6 +116,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [사이버물리시스템 및 하이브리드 오토마타와 정형 검증의 언어](./cyber-physical-systems-formal-verification-and-hybrid-automata/README.md) — `사이버물리시스템정형기법검증 및 하이브리드오토마타도달가능성분석 기반 선형시상논리안전성성질모델체킹과 상태공간폭발문제추상화완화기법 사이버물리시스템`
 - [환경지구화학 및 산성광산배수와 중금속 자연저감의 언어](./environmental-geochemistry-acid-mine-drainage-and-heavy-metal-attenuation/README.md) — `황화광물생지화학적산화반응 및 산성광산배수중금속용출기전 기반 철알루미늄수산화물공침흡착과 투수성반응벽체중금속정화기술 환경지구화학`
 - [비교행정법 및 행정재량과 비례원칙의 언어](./comparative-administrative-law-administrative-discretion-and-proportionality/README.md) — `행정재량권한계및일탈남용통제 및 비례원칙적합성필요성상당성 기반 신뢰보호원칙정당한기대보호와 행정절차법사전통지의견청취 비교행정법`
+- [합성생물학 및 대사 플럭스 분석과 게놈 스케일 모델링의 언어](./synthetic-biology-metabolic-flux-and-genome-scale-modeling/README.md) — `게놈스케일대사모델링플럭스균형해석 및 동위원소표지탄소대사플럭스분석법 기반 단일유전자결실최적경로예측시뮬레이션과 대사경로재설계세포공장생산수율최적화 합성생물학`
+- [구조지질학 및 고응력 역산과 단층 기구학의 언어](./structural-geology-paleostress-analysis-and-fault-kinematics/README.md) — `단층조선고응력역산단층기구학해석 및 앤더슨단층분류단층면마찰응력텐서 기반 연성전단대마일로나이트엽리미세구조와 단층재활성화응력장변화슬립경향성 구조지질학`
+- [극저온공학 및 초전도 자석과 퀜치 보호 시스템의 언어](./cryogenic-engineering-superconducting-magnets-and-quench-protection/README.md) — `초전도자석퀜치검출능동보호시스템 및 액체헬륨극저온냉각폐쇄순환사이클 기반 임계전류밀도자기장임계온도상전이와 자기에너지추출덤프저항열분산기법 극저온공학`
+- [해양지구물리학 및 해양지각 형성과 열수분출공 동역학의 언어](./marine-geophysics-oceanic-crust-and-hydrothermal-vent-dynamics/README.md) — `중앙해령해저확장해양지각형성과정 및 해저열수분출공블랙스모커광화작용 기반 감람암사문암화수소발생메탄합성반응과 축부마그마챔버탄성파토모그래피영상화 해양지구물리학`
+- [고인류학 및 호미닌 진화와 고대 유전체 혼혈의 언어](./paleoanthropology-hominin-evolution-and-ancient-dna-admixture/README.md) — `고인류학호미닌화석골격계통발생분석 및 고대유전체추출네안데르탈인유전자혼혈 기반 데니소바인교잡적응유전자수평전파와 두개골용적확대뇌신경화생체계측학 고인류학`
+- [항공음향학 및 터보팬 제트 소음과 후연 산란의 언어](./aeroacoustics-turbomachinery-noise-and-trailing-edge-scattering/README.md) — `라이트힐음향상사이론제트소음예측모델 및 익형후연소음산란와류간섭공기역학 기반 터보팬엔진음향라이너흡음재설계기술과 위상배열마이크로폰빔포밍소음원시각화 항공음향학`
+- [고체전기화학 및 고체산화물 연료전지와 혼합전도체의 언어](./solid-state-electrochemistry-solid-oxide-fuel-cells-and-mixed-conductors/README.md) — `고체산화물연료전지삼상계면산소환원반응 및 혼합이온전자전도체산소투과분리막소재 기반 전기화학임피던스분광법분극저항분석과 페로브스카이트산화물양극재료촉매활성 고체전기화학`
+- [인지언어학 및 개념적 은유와 체화된 인지의 언어](./cognitive-linguistics-conceptual-metaphor-and-embodied-cognition/README.md) — `개념적은유이론체화된인지도식매핑 및 영상도식신체화경험공간감각추상화 기반 심리적공간개념적혼성이론담화분석과 다의어의미망의미확장범주화원형이론 인지언어학`
+- [전파천문학 및 초장기저 간섭계와 펄서 타이밍 어레이의 언어](./radio-astronomy-very-long-baseline-interferometry-and-pulsar-timing/README.md) — `초장기저간섭계블랙홀사건의지평선영상화 및 펄서타이밍어레이초저주파중력파검출 기반 폐합위상보정기법대기위상요동제거와 전파망원경배열합성개구전파간섭계측 전파천문학`
+- [비교헌법학 및 국가긴급권과 기본권 제한의 언어](./comparative-constitutional-law-emergency-powers-and-derogation/README.md) — `국가긴급권행사기본권제한비례원칙심사 및 헌법상비상계엄선포실질적위헌심사기준 기반 국가위기관리입헌적독재예외상태이론과 국제인권규약비상사태기본권적용유예 비교헌법학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
