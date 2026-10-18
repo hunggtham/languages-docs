@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,660 new targets across 644 independent topic batches; 14,660 structured headings toward the 15,000 target, leaving 340 after this checkpoint.
+- Progress in this checkpoint: 9,810 new targets across 654 independent topic batches; 14,810 structured headings toward the 15,000 target, leaving 190 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5688,3 +5688,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna`
 - File: `10-hominin-phylogenetics-and-ancient-dna.md`
 - Coverage: 15 new advanced-native hominin fossil phylogenetic numerical analysis, ancient DNA NGS extraction, Neanderthal-Denisovan admixture, habitual bipedalism biomechanics, and encephalization quotient evolution headwords across `news_formal` in one `target_set` passage.
+- Topic: `microfluidics-droplet-generation-and-single-cell-rna-sequencing`
+- File: `01-droplet-microfluidics-and-scrna-seq.md`
+- Coverage: 15 new advanced-native droplet microfluidics, single-cell RNA sequencing, picoliter emulsion droplets, barcode beads, and cellular heterogeneity analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `plasmonics-surface-plasmon-resonance-and-metasurfaces`
+- File: `02-surface-plasmon-resonance-and-metasurfaces.md`
+- Coverage: 15 new advanced-native plasmonics, surface plasmon resonance (SPR), localized SPR, optical metasurfaces, and near-field electromagnetic enhancement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-labor-law-platform-workers-and-algorithmic-management`
+- File: `03-platform-workers-and-algorithmic-management.md`
+- Coverage: 15 new advanced-native comparative labor law, platform worker employment status, algorithmic management, expanded supervisory control, and collective bargaining rights headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrochemistry-interstellar-medium-and-prebiotic-molecules`
+- File: `04-astrochemistry-and-prebiotic-molecules.md`
+- Coverage: 15 new advanced-native astrochemistry, interstellar medium (ISM), gas-phase and dust grain surface reactions, prebiotic organic molecules, and radio telescope molecular spectra headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geomorphology-fluvial-braided-rivers-and-sediment-transport`
+- File: `05-fluvial-braided-rivers-and-sediment-transport.md`
+- Coverage: 15 new advanced-native fluvial geomorphology, braided rivers dynamics, sediment transport, Shields threshold shear stress, 2D shallow water models, and riverbed armoring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment`
+- File: `06-car-t-cell-exhaustion-and-tumor-microenvironment.md`
+- Coverage: 15 new advanced-native CAR-T cell immunotherapy, T-cell exhaustion mechanisms, epigenetic reprogramming, immunosuppressive tumor microenvironment (TME), and cytokine release syndrome headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `seismology-fault-zone-rupture-dynamics-and-infrasound-waves`
+- File: `07-fault-zone-rupture-and-infrasound.md`
+- Coverage: 15 new advanced-native fault zone rupture dynamics, seismic wave propagation, frictional melting (pseudotachylyte), infrasound atmospheric coupling, and ionospheric disturbance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository`
+- File: `08-nuclear-decommissioning-and-deep-repository.md`
+- Coverage: 15 new advanced-native comparative energy law, nuclear power plant decommissioning regulations, deep geological repository (DGR) site selection, and intergenerational equity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence`
+- File: `09-acoustic-cavitation-and-sonoluminescence.md`
+- Coverage: 15 new advanced-native nonlinear acoustics, acoustic cavitation, single-bubble sonoluminescence (SBSL), Rayleigh-Plesset equation, HIFU thermal ablation, and sonochemistry headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeometry-synchrotron-radiation-and-ancient-pigment-characterization`
+- File: `10-synchrotron-archaeometry-and-pigments.md`
+- Coverage: 15 new advanced-native archaeometry, synchrotron radiation XRF and XANES, non-destructive micro-Raman spectroscopy, ancient pigment analysis, and cultural heritage digital twins headwords across `news_formal` in one `target_set` passage.

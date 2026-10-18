@@ -156,6 +156,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
 - [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
 - [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
+- [미세유체역학 및 액적 생성과 단일세포 전사체 시퀀싱의 언어](./microfluidics-droplet-generation-and-single-cell-rna-sequencing/README.md) — `미세유체역학액적생성단일세포알엔에이시퀀싱 및 피코리터에멀션액적세포캡슐화바코드비드 기반 단일세포이질성규명전사체지도작성과 고속처리유전체분석단일세포유전자발현 미세유체유전체학`
+- [플라즈모닉스 및 표면 플라즈몬 공명과 메타표면 광학의 언어](./plasmonics-surface-plasmon-resonance-and-metasurfaces/README.md) — `표면플라즈몬공명금속유전체계면전자기파 및 국소표면플라즈몬공명금속나노입자근접장증폭 기반 광학메타표면유효굴절률위상불연속제어와 전자기유도투명성초저손실플라즈모닉도파로 나노광학`
+- [비교노동법 및 플랫폼 노동자와 알고리즘 노무관리의 언어](./comparative-labor-law-platform-workers-and-algorithmic-management/README.md) — `플랫폼종사자근로기준법상근로자성판정기준 및 알고리즘기반인적자원관리자동화노무지휘 기반 종속적자영업자중간범주법적지위부여논의와 배달대행기사특수형태근로종사자산재보험적용 비교노동법`
+- [우주화학 및 성간물질 화학 진화와 생명기원 분자의 언어](./astrochemistry-interstellar-medium-and-prebiotic-molecules/README.md) — `성간물질밀집분자운성간진입자표면반응 및 우주생명기원전구물질아미노산합성경로 기반 다환방향족탄화수소성간적외선방출밴드스펙트럼과 전파망원경회전전이분자선간섭계고분해능관측 우주화학`
+- [하천지형학 및 망상하천 동역학과 유사이송의 언어](./geomorphology-fluvial-braided-rivers-and-sediment-transport/README.md) — `망상하천동역학사주형성분기수로망진화 및 하상소류사이송률쉴즈임계전단응력산출 기반 이차원천수방정식수치모형하상변동예측과 조립질자갈하상장갑화침식저항성평가 하천지형학`
+- [종양면역치료학 및 CAR-T 세포 탈진과 종양미세환경의 언어](./immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment/README.md) — `키메라항원수용체티세포종양표적면역치료 및 만성항원자극티세포탈진면역관문수용체발현 기반 톡스전사인자후성유전학적재프로그래밍고착과 면역억제성종양미세환경골수유래억제세포침윤 종양면역학`
+- [지진학 및 단층대 파쇄 동역학과 초저주파 불가청음의 언어](./seismology-fault-zone-rupture-dynamics-and-infrasound-waves/README.md) — `단층대파쇄동역학지진파전파마찰용융수치해석 및 초저주파불가청음대기음향중력파전리층교란측정 기반 슈도타킬라이트단층암마찰발열동역학적약화기전과 지진단층파열속도천음속파열초음속충격파형성 계산지진학`
+- [비교에너지법 및 원전 해체 규제와 심층처분장의 언어](./comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository/README.md) — `원자력발전소영구정지즉시해체지연해체규제 및 사용후핵연료고준위방사성폐기물심층처분장부지선정 기반 세대간형평성원칙방사성폐기물관리미래세대책임과 다중방벽시스템공학적방벽천연방벽격리안전성 비교에너지환경법`
+- [비선형음향학 및 음향공동현상과 음발광 동역학의 언어](./nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence/README.md) — `비선형음향학음향공동현상단일기포음발광해석 및 레일리플레셋방정식기포반경동역학수치시뮬레이션 기반 초음파집속치료고강도집속초음파열응고괴사유도와 공동기포단열압축초고온초고압플라즈마형성기전 물리음향학`
+- [고고학적 분석과학 및 방사광 가속기와 고대 채색 안료 동정의 언어](./archaeometry-synchrotron-radiation-and-ancient-pigment-characterization/README.md) — `고고분석과학방사광가속기엑스선형광분석법 및 고대채색안료광물조성비파괴마이크로라만분광학 기반 문화재보존과학부식생성물계면화학변질기전규명과 고대청동기납동위원소비분석원산지산지추정법 문화유산과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
@@ -730,6 +740,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
 - [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
 - [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
+- [미세유체역학 및 액적 생성과 단일세포 전사체 시퀀싱의 언어](./microfluidics-droplet-generation-and-single-cell-rna-sequencing/README.md) — `미세유체역학액적생성단일세포알엔에이시퀀싱 및 피코리터에멀션액적세포캡슐화바코드비드 기반 단일세포이질성규명전사체지도작성과 고속처리유전체분석단일세포유전자발현 미세유체유전체학`
+- [플라즈모닉스 및 표면 플라즈몬 공명과 메타표면 광학의 언어](./plasmonics-surface-plasmon-resonance-and-metasurfaces/README.md) — `표면플라즈몬공명금속유전체계면전자기파 및 국소표면플라즈몬공명금속나노입자근접장증폭 기반 광학메타표면유효굴절률위상불연속제어와 전자기유도투명성초저손실플라즈모닉도파로 나노광학`
+- [비교노동법 및 플랫폼 노동자와 알고리즘 노무관리의 언어](./comparative-labor-law-platform-workers-and-algorithmic-management/README.md) — `플랫폼종사자근로기준법상근로자성판정기준 및 알고리즘기반인적자원관리자동화노무지휘 기반 종속적자영업자중간범주법적지위부여논의와 배달대행기사특수형태근로종사자산재보험적용 비교노동법`
+- [우주화학 및 성간물질 화학 진화와 생명기원 분자의 언어](./astrochemistry-interstellar-medium-and-prebiotic-molecules/README.md) — `성간물질밀집분자운성간진입자표면반응 및 우주생명기원전구물질아미노산합성경로 기반 다환방향족탄화수소성간적외선방출밴드스펙트럼과 전파망원경회전전이분자선간섭계고분해능관측 우주화학`
+- [하천지형학 및 망상하천 동역학과 유사이송의 언어](./geomorphology-fluvial-braided-rivers-and-sediment-transport/README.md) — `망상하천동역학사주형성분기수로망진화 및 하상소류사이송률쉴즈임계전단응력산출 기반 이차원천수방정식수치모형하상변동예측과 조립질자갈하상장갑화침식저항성평가 하천지형학`
+- [종양면역치료학 및 CAR-T 세포 탈진과 종양미세환경의 언어](./immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment/README.md) — `키메라항원수용체티세포종양표적면역치료 및 만성항원자극티세포탈진면역관문수용체발현 기반 톡스전사인자후성유전학적재프로그래밍고착과 면역억제성종양미세환경골수유래억제세포침윤 종양면역학`
+- [지진학 및 단층대 파쇄 동역학과 초저주파 불가청음의 언어](./seismology-fault-zone-rupture-dynamics-and-infrasound-waves/README.md) — `단층대파쇄동역학지진파전파마찰용융수치해석 및 초저주파불가청음대기음향중력파전리층교란측정 기반 슈도타킬라이트단층암마찰발열동역학적약화기전과 지진단층파열속도천음속파열초음속충격파형성 계산지진학`
+- [비교에너지법 및 원전 해체 규제와 심층처분장의 언어](./comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository/README.md) — `원자력발전소영구정지즉시해체지연해체규제 및 사용후핵연료고준위방사성폐기물심층처분장부지선정 기반 세대간형평성원칙방사성폐기물관리미래세대책임과 다중방벽시스템공학적방벽천연방벽격리안전성 비교에너지환경법`
+- [비선형음향학 및 음향공동현상과 음발광 동역학의 언어](./nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence/README.md) — `비선형음향학음향공동현상단일기포음발광해석 및 레일리플레셋방정식기포반경동역학수치시뮬레이션 기반 초음파집속치료고강도집속초음파열응고괴사유도와 공동기포단열압축초고온초고압플라즈마형성기전 물리음향학`
+- [고고학적 분석과학 및 방사광 가속기와 고대 채색 안료 동정의 언어](./archaeometry-synchrotron-radiation-and-ancient-pigment-characterization/README.md) — `고고분석과학방사광가속기엑스선형광분석법 및 고대채색안료광물조성비파괴마이크로라만분광학 기반 문화재보존과학부식생성물계면화학변질기전규명과 고대청동기납동위원소비분석원산지산지추정법 문화유산과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
