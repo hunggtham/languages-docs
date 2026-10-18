@@ -190,3 +190,16 @@ Tôi đã hoàn thành các buổi học. Hãy giúp tôi tổng hợp toàn b�
 4. Chạy kiểm tra "npm run type-check && npm run build" tại apps/web để đảm bảo dữ liệu hợp lệ.
 5. Commit thay đổi và merge nhánh study/[YYYY-MM-DD] vào nhánh main, sau đó đẩy lên origin/main.
 ```
+
+
+---
+
+## Cấu hình đang áp dụng — 2026-10-18 (ưu tiên hơn ví dụ cũ)
+
+- Session **linh hoạt theo thời lượng**. Gia sư giảng sâu bản chất, đối chiếu EN/KR/VI; mọi bài điền từ/chọn đáp án khi chấm đều hiển thị **đầy đủ đề + đáp án người học + đáp án được chấp nhận + giải thích**.
+- Không tiếp tục coi tenses là nội dung trung tâm: chuyển sang Sentence Building, Verb Patterns, Prepositions, Collocations, Articles và Speaking; sửa mọi lỗi tense khi phát hiện.
+- Ngày dùng múi giờ **Asia/Seoul**, nhánh `study/YYYY-MM-DD`; **thư mục log theo ngôn ngữ/tháng** là `study-logs/english/YYYY-MM/` và tên tệp `YYYY-MM-DD_NN-topic.md` (hoặc `YYYY-MM-DD_NN-progress-patch.json`).
+- Người học đồng ý **lưu nguyên văn lời giải/bài làm lên GitHub public**. Chỉ đưa dữ liệu mà người học có quyền công bố; tránh secrets và dữ liệu bảo mật của bên thứ ba.
+- Sau mỗi lượt chat có kiến thức/bài làm/phân tích mới, tạo hoặc bổ sung Markdown trên nhánh ngày; bản vá JSON tương ứng phải có cấu trúc `topic_updates`, `new_errors`, `resolved_errors`, và `session` **chỉ khi có số câu và điểm thực tế**. Xác nhận key `topicId` theo `apps/web/src/features/english-progress/model.ts`. Đừng tự gán `score` chỉ từ việc đã đọc lý thuyết.
+- Mục `attempts/errors/competency_update` trong ví dụ template ở trên chỉ là **dữ liệu giả định để minh họa định dạng**, không phải kết quả thực tế của người học. Khi ghi data thật, giữ nguyên bằng chứng và không tự động đánh dấu giải quyết lỗi.
+- Pha tổng hợp JSON/dashboard và merge `main` **chỉ làm sau khi được yêu cầu trong một phiên có quyền GitHub**. Quy trình này không phải một automation chạy ngầm.
