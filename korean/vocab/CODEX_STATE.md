@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,210 new targets across 614 independent topic batches; 14,210 structured headings toward the 15,000 target, leaving 790 after this checkpoint.
+- Progress in this checkpoint: 9,360 new targets across 624 independent topic batches; 14,360 structured headings toward the 15,000 target, leaving 640 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5568,3 +5568,43 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `comparative-constitutional-law-emergency-powers-and-derogation`
 - File: `10-emergency-powers-and-derogation.md`
 - Coverage: 15 new advanced-native state emergency powers proportionality review, martial law substantive constitutionality standards, state of exception theory, and ICCPR derogation safeguards headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `synthetic-biology-cell-free-protein-synthesis-and-dna-origami`
+- File: `01-cell-free-protein-and-dna-origami.md`
+- Coverage: 15 new advanced-native cell-free protein synthesis (CFPS), in vitro transcription-translation (TX-TL), DNA origami self-assembly, and nanorobotic drug delivery headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection`
+- File: `02-mhd-instabilities-and-magnetic-reconnection.md`
+- Coverage: 15 new advanced-native magnetohydrodynamic (MHD) instabilities, tokamak equilibrium Grad-Shafranov, Sweet-Parker/Petschek reconnection, and tearing mode control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-game-theory-cooperation-and-public-goods-games`
+- File: `03-evolutionary-game-theory-and-cooperation.md`
+- Coverage: 15 new advanced-native evolutionary game theory, replicator dynamics of cooperation, public goods free-rider punishment, and Tit-for-Tat ESS headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geodesy-satellite-altimetry-and-global-geoid-modeling`
+- File: `04-satellite-altimetry-and-geoid.md`
+- Coverage: 15 new advanced-native satellite radar altimetry, spherical harmonics gravity field, geoid undulation, GRACE mission mass variations, and ITRF space geodesy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption`
+- File: `05-microglia-activation-and-bbb.md`
+- Coverage: 15 new advanced-native microglia M1/M2 phenotype transition, blood-brain barrier tight junction breakdown, astrocyte aquaporin transport, and autoimmune neuroinflammation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fluid-structure-interaction-vortex-induced-vibrations-and-flutter`
+- File: `06-fluid-structure-interaction-and-flutter.md`
+- Coverage: 15 new advanced-native fluid-structure interaction (FSI), vortex-induced vibrations (VIV), aeroelastic flutter instability, lock-in resonance, and helical strake suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment`
+- File: `07-single-atom-catalysts-and-coordination.md`
+- Coverage: 15 new advanced-native single-atom catalysts (SAC), strong metal-support interaction (SMSI), coordinatively unsaturated active sites, d-band center theory, and XAFS coordination numbers headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-environmental-law-precautionary-principle-and-intergenerational-equity`
+- File: `08-precautionary-principle-and-intergenerational-equity.md`
+- Coverage: 15 new advanced-native precautionary principle under scientific uncertainty, intergenerational equity, polluter pays principle, public trust doctrine, and climate litigation judicial review headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-optics-squeezed-light-and-continuous-variable-entanglement`
+- File: `09-squeezed-light-and-cv-entanglement.md`
+- Coverage: 15 new advanced-native squeezed vacuum states, continuous-variable EPR entanglement, balanced homodyne quantum noise detection, Wigner function negativity, and gravitational wave interferometer sensitivity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction`
+- File: `10-finite-element-bone-biomechanics.md`
+- Coverage: 15 new advanced-native bone biomechanics finite element analysis (FEA), Wolff's law remodeling modeling, lacunar-canalicular fluid shear stress mechanotransduction, and trabecular micro-CT quantification headwords across `news_formal` in one `target_set` passage.

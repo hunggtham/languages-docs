@@ -126,6 +126,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [인지언어학 및 개념적 은유와 체화된 인지의 언어](./cognitive-linguistics-conceptual-metaphor-and-embodied-cognition/README.md) — `개념적은유이론체화된인지도식매핑 및 영상도식신체화경험공간감각추상화 기반 심리적공간개념적혼성이론담화분석과 다의어의미망의미확장범주화원형이론 인지언어학`
 - [전파천문학 및 초장기저 간섭계와 펄서 타이밍 어레이의 언어](./radio-astronomy-very-long-baseline-interferometry-and-pulsar-timing/README.md) — `초장기저간섭계블랙홀사건의지평선영상화 및 펄서타이밍어레이초저주파중력파검출 기반 폐합위상보정기법대기위상요동제거와 전파망원경배열합성개구전파간섭계측 전파천문학`
 - [비교헌법학 및 국가긴급권과 기본권 제한의 언어](./comparative-constitutional-law-emergency-powers-and-derogation/README.md) — `국가긴급권행사기본권제한비례원칙심사 및 헌법상비상계엄선포실질적위헌심사기준 기반 국가위기관리입헌적독재예외상태이론과 국제인권규약비상사태기본권적용유예 비교헌법학`
+- [합성생물학 및 무세포 단백질 합성과 DNA 오리가미의 언어](./synthetic-biology-cell-free-protein-synthesis-and-dna-origami/README.md) — `무세포단백질합성전사번역커플링시스템 및 디엔에이오리가미나노구조자가조립기술 기반 인공나노로봇분자스위치약물전달체계와 시험관내전사번역생체분자회로설계 합성생물학`
+- [플라즈마물리학 및 자기유체역학적 불안정성과 자기재결합의 언어](./plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection/README.md) — `자기유체역학적불안정성토카막플라즈마 및 자기재결합스위트파커펫첵이론모델 기반 자기섬형성티어링모드불안정성제어와 그라드샤프라노프방정식평형상태도출 플라즈마물리학`
+- [진화게임이론 및 협력의 진화와 공공재 게임의 언어](./evolutionary-game-theory-cooperation-and-public-goods-games/README.md) — `진화게임이론협력의진화복제자동역학 및 공공재게임무임승차자처벌기제실험 기반 간접상호성평판시스템도덕적규범확산과 공간구조화네트워크상호성클러스터형성 진화게임이론`
+- [측지학 및 인공위성 고도측정과 지구 지오이드 모델링의 언어](./geodesy-satellite-altimetry-and-global-geoid-modeling/README.md) — `위성고도계측정밀지구지오이드모델링 및 구면조화함수전개지구중력장복원해석 기반 지오이드기복기준타원체수직단차측정과 위성추적위성중력탐사그레이스임무해석 측지학`
+- [신경면역학 및 미세아교세포 활성화와 뇌혈관장벽 붕괴의 언어](./neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption/README.md) — `미세아교세포표현형전이신경염증반응 및 뇌혈관장벽밀착연접단백질무결성붕괴 기반 성상교세포말족아쿠아포린수분수송조절과 염증성사이토카인중추신경계침윤경로 신경면역학`
+- [유체-구조 상호작용 및 와류유도진동과 플러터 해석의 언어](./fluid-structure-interaction-vortex-induced-vibrations-and-flutter/README.md) — `유체구조상호작용와류유도진동공진해석 및 공력탄성학플러터한계속도동적불안정성 기반 후류와류방출주파수락인현상진폭제어와 감쇠비구조동역학모달해석비선형거동 유체구조역학`
+- [불균일촉매학 및 단원자 촉매와 배위 환경 공학의 언어](./heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment/README.md) — `단원자촉매금속지지체강한상호작용설계 및 배위불포화금속활성점원자수준전자구조 기반 디밴드센터이론흡착에너지선형스케일링과 엑스선흡수근원단구조배위수정밀결정법 불균일촉매학`
+- [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
+- [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
+- [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
@@ -670,6 +680,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [천체물리학 및 중력파 관측과 중성자별 병합의 언어](./astrophysics-gravitational-waves-and-neutron-star-mergers/README.md) — `쌍중성자별충돌병합사건 및 시공간왜곡중력파관측기술 기반 킬로노바전자기파후광방출과 빠른중성자포획핵합성과정 천체물리학`
 - [인지언어학 및 개념적 은유와 프레임 의미론의 언어](./linguistics-cognitive-linguistics-conceptual-metaphor-and-frame-semantics/README.md) — `개념적은유이론사상체계 및 신체화된인지기반의미형성 기반 필모어프레임의미론구조와 개념적혼합이론심적공간 인지언어학`
 - [고생물학 및 캄브리아기 대폭발과 버제스 셰일 생물군의 언어](./paleontology-cambrian-explosion-and-burgess-shale-biota/README.md) — `캄브리아기대폭발사건 및 버제스셰일화석군보존 기반 동물체제적응방산진화와 포식압력생태적군비경쟁 고생물학`
+- [합성생물학 및 무세포 단백질 합성과 DNA 오리가미의 언어](./synthetic-biology-cell-free-protein-synthesis-and-dna-origami/README.md) — `무세포단백질합성전사번역커플링시스템 및 디엔에이오리가미나노구조자가조립기술 기반 인공나노로봇분자스위치약물전달체계와 시험관내전사번역생체분자회로설계 합성생물학`
+- [플라즈마물리학 및 자기유체역학적 불안정성과 자기재결합의 언어](./plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection/README.md) — `자기유체역학적불안정성토카막플라즈마 및 자기재결합스위트파커펫첵이론모델 기반 자기섬형성티어링모드불안정성제어와 그라드샤프라노프방정식평형상태도출 플라즈마물리학`
+- [진화게임이론 및 협력의 진화와 공공재 게임의 언어](./evolutionary-game-theory-cooperation-and-public-goods-games/README.md) — `진화게임이론협력의진화복제자동역학 및 공공재게임무임승차자처벌기제실험 기반 간접상호성평판시스템도덕적규범확산과 공간구조화네트워크상호성클러스터형성 진화게임이론`
+- [측지학 및 인공위성 고도측정과 지구 지오이드 모델링의 언어](./geodesy-satellite-altimetry-and-global-geoid-modeling/README.md) — `위성고도계측정밀지구지오이드모델링 및 구면조화함수전개지구중력장복원해석 기반 지오이드기복기준타원체수직단차측정과 위성추적위성중력탐사그레이스임무해석 측지학`
+- [신경면역학 및 미세아교세포 활성화와 뇌혈관장벽 붕괴의 언어](./neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption/README.md) — `미세아교세포표현형전이신경염증반응 및 뇌혈관장벽밀착연접단백질무결성붕괴 기반 성상교세포말족아쿠아포린수분수송조절과 염증성사이토카인중추신경계침윤경로 신경면역학`
+- [유체-구조 상호작용 및 와류유도진동과 플러터 해석의 언어](./fluid-structure-interaction-vortex-induced-vibrations-and-flutter/README.md) — `유체구조상호작용와류유도진동공진해석 및 공력탄성학플러터한계속도동적불안정성 기반 후류와류방출주파수락인현상진폭제어와 감쇠비구조동역학모달해석비선형거동 유체구조역학`
+- [불균일촉매학 및 단원자 촉매와 배위 환경 공학의 언어](./heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment/README.md) — `단원자촉매금속지지체강한상호작용설계 및 배위불포화금속활성점원자수준전자구조 기반 디밴드센터이론흡착에너지선형스케일링과 엑스선흡수근원단구조배위수정밀결정법 불균일촉매학`
+- [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
+- [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
+- [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`
