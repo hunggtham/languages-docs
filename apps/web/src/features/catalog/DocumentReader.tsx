@@ -1,11 +1,46 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactElement } from "react";
 import { fetchDocument, type ReadingStatus, type SectionBookmark } from "../../lib/content";
 import type { LearningDocument } from "../../types";
+import type { ReviewStatus, StudyError } from "../english-progress/model";
 import Markdown, { extractHeadings, type MarkdownHeading } from "../../shared/Markdown";
 
 const statusLabels: Record<ReadingStatus, string> = { unread: "Chưa đọc", reading: "Đang đọc", review: "Cần ôn lại", completed: "Hoàn thành" };
 
-export default function DocumentReader({ document, completed, status, sectionProgress, lastSectionId, bookmarks, readLater, initialSectionId, onBack, onComplete, onStatusChange, onToggleReadLater, onToggleBookmark, onProgress }: { document: LearningDocument; completed: boolean; status: ReadingStatus; sectionProgress: string[]; lastSectionId?: string; bookmarks: SectionBookmark[]; readLater: boolean; initialSectionId?: string; onBack: () => void; onComplete: () => void; onStatusChange: (status: ReadingStatus) => void; onToggleReadLater: () => void; onToggleBookmark: (headingId: string, title: string) => void; onProgress: (sections: string[], lastSectionId: string, percent: number) => void }): ReactElement {
+export default function DocumentReader({
+  document,
+  completed,
+  status,
+  sectionProgress,
+  lastSectionId,
+  bookmarks,
+  readLater,
+  initialSectionId,
+  onBack,
+  onComplete,
+  onStatusChange,
+  onToggleReadLater,
+  onToggleBookmark,
+  onProgress,
+  lessonErrors = [],
+  onUpdateErrorStatus,
+}: {
+  document: LearningDocument;
+  completed: boolean;
+  status: ReadingStatus;
+  sectionProgress: string[];
+  lastSectionId?: string;
+  bookmarks: SectionBookmark[];
+  readLater: boolean;
+  initialSectionId?: string;
+  onBack: () => void;
+  onComplete: () => void;
+  onStatusChange: (status: ReadingStatus) => void;
+  onToggleReadLater: () => void;
+  onToggleBookmark: (headingId: string, title: string) => void;
+  onProgress: (sections: string[], lastSectionId: string, percent: number) => void;
+  lessonErrors?: StudyError[];
+  onUpdateErrorStatus?: (errorId: string, nextStatus: ReviewStatus) => void;
+}): ReactElement {
   const [content, setContent] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [readSections, setReadSections] = useState<string[]>(sectionProgress);
@@ -159,7 +194,113 @@ export default function DocumentReader({ document, completed, status, sectionPro
       <div className="reader-header"><div><span className="eyebrow">{document.track ?? document.skill} · {document.level}</span><h1>{document.title}</h1><p>{document.description}</p></div><div className="reader-header-actions"><select className="reader-status" aria-label="Trạng thái tài liệu" value={status} onChange={(event) => setReaderStatus(event.target.value as ReadingStatus)}>{(Object.keys(statusLabels) as ReadingStatus[]).map((item) => <option key={item} value={item}>{statusLabels[item]}</option>)}</select><button className={`read-later-button ${readLater ? "active" : ""}`} type="button" onClick={onToggleReadLater} aria-pressed={readLater}>{readLater ? "★ Đã lưu đọc sau" : "☆ Đọc sau"}</button><button className="reader-tool-button" type="button" onClick={saveOffline}>{offlineSaved ? "✓ Offline" : "↓ Offline"}</button><button className="reader-tool-button" type="button" onClick={copySource}>{copiedSource ? "✓ Đã copy path" : "⧉ Copy path"}</button><select className="reader-tool-button" aria-label="Tốc độ đọc" value={speechRate} onChange={(event) => setSpeechRate(Number(event.target.value))}><option value={0.8}>0,8×</option><option value={1}>1×</option><option value={1.2}>1,2×</option><option value={1.5}>1,5×</option></select>{voices.length > 0 && <select className="reader-tool-button" aria-label="Giọng đọc" value={speechVoice} onChange={(event) => setSpeechVoice(event.target.value)}><option value="">Auto voice</option>{voices.filter((voice) => /^(en|ko|vi)/i.test(voice.lang)).slice(0, 18).map((voice) => <option key={`${voice.name}-${voice.lang}`} value={voice.name}>{voice.name} · {voice.lang}</option>)}</select>}<button className="reader-tool-button" type="button" onClick={toggleSpeech}>{speaking ? "■ Dừng đọc" : "🔊 Đọc từ đây"}</button><button className={`complete-button ${completed ? "completed" : ""}`} type="button" onClick={onComplete}>{completed ? "✓ Đã hoàn thành" : "Đánh dấu hoàn thành"}</button></div></div>
       <div className="reader-mobile-actions"><button type="button" onClick={() => setDrawerOpen(true)}>☰ Mục lục</button><button type="button" onClick={() => { const heading = activeHeading ? headingById.get(activeHeading) : undefined; if (heading) onToggleBookmark(heading.id, heading.text); }}>{activeHeading && isBookmarked(activeHeading) ? "★ Bookmark" : "☆ Bookmark"}</button></div>
       <div className="reader-layout">
-        <article className="lesson-surface">{error ? <div className="error-box">{error}</div> : content === null ? <div className="loading-state">Đang tải bài học…</div> : <Markdown content={content} />}</article>
+        <article className="lesson-surface">
+          {error ? (
+            <div className="error-box">{error}</div>
+          ) : content === null ? (
+            <div className="loading-state">Đang tải bài học…</div>
+          ) : (
+            <>
+              {lessonErrors.length > 0 && (
+                <section className="pre-lesson-review-box" aria-label="Nhật ký lỗi cần ôn trước khi học">
+                  <div className="pre-lesson-review-header">
+                    <div>
+                      <span className="eyebrow">PRE-LESSON REVIEW · NHẬT KÝ LỖI THEO NGÀY HỌC</span>
+                      <h2>Điểm lại lỗi sai trước khi đọc bài mới</h2>
+                      <p>
+                        Ghi nhận <strong>{lessonErrors.length} lỗi sai</strong> liên kết với chủ đề bài học này. Hãy xem lại câu sai, cách sửa đúng và giải thích trước khi bắt đầu đọc kiến thức mới.
+                      </p>
+                    </div>
+                    <a href="#english-progress" className="pre-lesson-review-link">
+                      Mở Sổ lỗi chi tiết ↗
+                    </a>
+                  </div>
+
+                  <div className="pre-lesson-review-timeline">
+                    {Array.from(
+                      lessonErrors.reduce((acc, err) => {
+                        const d = err.date || "Nhật ký trước đó";
+                        const list = acc.get(d) ?? [];
+                        list.push(err);
+                        acc.set(d, list);
+                        return acc;
+                      }, new Map<string, typeof lessonErrors>()).entries()
+                    ).map(([dateGroup, errs]) => (
+                      <div key={dateGroup} className="pre-lesson-date-group">
+                        <div className="pre-lesson-date-header">
+                          <span className="pre-lesson-date-badge">📅 {dateGroup}</span>
+                          <span className="pre-lesson-date-count">{errs.length} lỗi cần lưu ý</span>
+                        </div>
+                        <div className="pre-lesson-review-list">
+                          {errs.map((err) => (
+                            <article key={err.id} className="pre-lesson-review-card">
+                              <div className="pre-lesson-card-top">
+                                <div className="pre-lesson-card-tags">
+                                  <span className="pre-lesson-tag-category">{err.category}</span>
+                                </div>
+                                {onUpdateErrorStatus && (
+                                  <button
+                                    type="button"
+                                    className={`pre-lesson-status-pill ${err.status}`}
+                                    onClick={() => {
+                                      const next: ReviewStatus =
+                                        err.status === "due"
+                                          ? "practicing"
+                                          : err.status === "practicing"
+                                          ? "stable"
+                                          : "due";
+                                      onUpdateErrorStatus(err.id, next);
+                                    }}
+                                    title="Bấm để đổi nhanh trạng thái: Cần ôn ➔ Đang luyện ➔ Tạm vững"
+                                  >
+                                    {err.status === "stable"
+                                      ? "✓ Tạm vững"
+                                      : err.status === "practicing"
+                                      ? "⏳ Đang luyện"
+                                      : "○ Cần ôn"}
+                                  </button>
+                                )}
+                              </div>
+                              <div className="pre-lesson-diff">
+                                <div className="pre-lesson-diff-row wrong">
+                                  <span className="pre-lesson-diff-label">Câu sai:</span>
+                                  <div className="pre-lesson-sentence-box">
+                                    <s>{err.incorrect}</s>
+                                  </div>
+                                </div>
+                                <div className="pre-lesson-diff-row correct">
+                                  <span className="pre-lesson-diff-label">Câu sửa:</span>
+                                  <div className="pre-lesson-sentence-box">
+                                    <strong>{err.corrected}</strong>
+                                  </div>
+                                </div>
+                              </div>
+                              {err.explanationVi && (
+                                <p className="pre-lesson-expl vi">
+                                  <b>Phân tích:</b> {err.explanationVi}
+                                </p>
+                              )}
+                              {err.explanationKo && (
+                                <p className="pre-lesson-expl ko" lang="ko">
+                                  <b>설명:</b> {err.explanationKo}
+                                </p>
+                              )}
+                            </article>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  <div className="pre-lesson-review-footer">
+                    <span>💡 <em>Mẹo: Đọc kỹ các lỗi trên giúp tạo phản xạ chống sai khi làm bài tập thực hành.</em></span>
+                  </div>
+                </section>
+              )}
+              <Markdown content={content} />
+            </>
+          )}
+        </article>
         <aside className={`reader-aside ${drawerOpen ? "open" : ""}`}><div className="reader-aside-head"><span className="aside-label">READING PROGRESS</span><button type="button" className="aside-close" onClick={() => setDrawerOpen(false)} aria-label="Đóng mục lục">×</button></div><div className="reader-progress-bar" role="progressbar" aria-label="Tiến độ bài học" aria-valuemin={0} aria-valuemax={100} aria-valuenow={progressPercent}><span style={{ width: `${progressPercent}%` }} /></div><strong className="reader-progress-value">{progressPercent}%</strong><p className="reader-progress-copy">{visibleSections.length}/{headings.length || "—"} mục đã đọc. Vị trí gần nhất được tự lưu.</p><div className="aside-rule" /><div className="aside-title-row"><span className="aside-label">MỤC LỤC</span><span className="aside-count">{headings.length}</span></div><nav className="lesson-toc" aria-label="Mục lục bài học">{headings.filter((heading) => heading.level <= 3).map((heading) => <div className={`toc-row ${activeHeading === heading.id ? "active" : ""}`} key={heading.id}><button className={`${readSections.includes(heading.id) ? "read" : ""} toc-level-${heading.level}`} type="button" onClick={() => jumpTo(heading)}><span>{readSections.includes(heading.id) ? "✓" : "○"}</span>{heading.text}</button><button className={`toc-star ${isBookmarked(heading.id) ? "active" : ""}`} type="button" onClick={() => onToggleBookmark(heading.id, heading.text)} aria-label={isBookmarked(heading.id) ? `Bỏ bookmark ${heading.text}` : `Bookmark ${heading.text}`} aria-pressed={isBookmarked(heading.id)}>{isBookmarked(heading.id) ? "★" : "☆"}</button></div>)}</nav><div className="aside-rule" /><div className="aside-title-row"><span className="aside-label">BOOKMARKS</span><span className="aside-count">{bookmarks.length}</span></div><div className="reader-bookmarks">{bookmarks.length ? bookmarks.map((bookmark) => <div className="reader-bookmark-row" key={bookmark.headingId}><button type="button" onClick={() => { const heading = headingById.get(bookmark.headingId); if (heading) jumpTo(heading); }}>{bookmark.title}</button><button type="button" className="bookmark-remove" onClick={() => onToggleBookmark(bookmark.headingId, bookmark.title)} aria-label={`Xóa bookmark ${bookmark.title}`}>×</button></div>) : <p className="reader-bookmark-empty">Bấm ☆ cạnh một section để lưu.</p>}</div><div className="aside-rule" /><span className="aside-label">GỢI Ý HỌC</span><h3>Học một chút, đều đặn</h3><p>Đọc một mục, tự đặt một câu ví dụ rồi nói thành tiếng trước khi chuyển sang bài khác.</p><div className="aside-rule" /><span className="aside-label">NGUỒN</span><code>{document.source}</code></aside>
       </div>
       {drawerOpen && <button className="reader-overlay" type="button" aria-label="Đóng mục lục" onClick={() => setDrawerOpen(false)} />}

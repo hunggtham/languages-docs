@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState, type ReactElement } from "react";
+import { createPortal } from "react-dom";
 import { fetchContentGraph, fetchSearchIndex, type ProgressState, type ReadingStatus } from "../../lib/content";
 import { cloudConfigured, cloudSession, cloudSignIn, cloudSignOut, cloudSignUp, syncSnapshot } from "../../lib/cloudSync";
 import type { ContentGraph, LearningDocument, SearchIndexEntry } from "../../types";
@@ -128,7 +129,8 @@ export default function LearningOS({ documents, progress, onOpen, onToggleReadLa
   return (
     <>
       <button className="learning-os-button" type="button" onClick={() => openTab("read-later")} aria-label="Mở Learning OS">Learning OS</button>
-      {open && <div className="os-modal" role="dialog" aria-modal="true" aria-label="Learning OS">
+      {open && typeof document !== "undefined" && createPortal(
+        <div className="os-modal" role="dialog" aria-modal="true" aria-label="Learning OS">
         <button className="os-backdrop" type="button" aria-label="Đóng Learning OS" onClick={() => setOpen(false)} />
         <section className="os-sheet">
           <header className="os-sheet-head"><div><span className="eyebrow">LEARNING OS</span><h2>Không gian học của bạn</h2></div><button className="os-close" type="button" onClick={() => setOpen(false)} aria-label="Đóng">×</button></header>
@@ -143,7 +145,9 @@ export default function LearningOS({ documents, progress, onOpen, onToggleReadLa
             {tab === "offline" && <section><div className="os-panel-title"><div><span className="aside-label">PWA / OFFLINE</span><h3>Đọc khi mất mạng</h3></div><strong>{navigator.onLine ? "Online" : "Offline"}</strong></div><p className="os-copy">Service worker cache app shell, catalog, search index, graph và những bài học bạn đã mở. Bạn có thể cài LanguageLab như một app riêng.</p><div className="os-sync-actions"><button className="os-action" type="button" onClick={install}>Cài LanguageLab</button><button className="os-action" type="button" onClick={cacheIndexes}>Cache index</button></div><p className="os-empty" aria-live="polite">{offlineMessage || ("serviceWorker" in navigator ? "Service worker được hỗ trợ trên trình duyệt này." : "Trình duyệt không hỗ trợ service worker.")}</p></section>}
           </div>
         </section>
-      </div>}
+      </div>,
+      document.body
+      )}
     </>
   );
 }

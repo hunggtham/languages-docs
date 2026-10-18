@@ -1,5 +1,11 @@
 import type { ContentCatalog, ContentGraph, SearchIndexEntry } from "../types";
-import { parseJourney, type EnglishJourney } from "../features/english-progress/model";
+import {
+  newJourney,
+  parseJourney,
+  type EnglishJourney,
+  type LanguageCode,
+  type LanguageJourney,
+} from "../features/english-progress/model";
 
 function resolvePublicAsset(path: string): string {
   const relativePath = path.replace(/^\/+/, "");
@@ -60,6 +66,8 @@ export interface ProgressState {
   bookmarksByLesson: Record<string, SectionBookmark[]>;
   readLaterIds: string[];
   englishJourney?: EnglishJourney;
+  journeysByLanguage?: Record<string, LanguageJourney>;
+  selectedLanguage?: LanguageCode;
 }
 
 const EMPTY_PROGRESS: ProgressState = {
@@ -71,6 +79,7 @@ const EMPTY_PROGRESS: ProgressState = {
   lastOpenedByLesson: {},
   bookmarksByLesson: {},
   readLaterIds: [],
+  selectedLanguage: "en",
 };
 
 export function readProgressState(): ProgressState {
@@ -78,10 +87,48 @@ export function readProgressState(): ProgressState {
     const raw: unknown = JSON.parse(localStorage.getItem(PROGRESS_KEY) ?? "null");
     // Keep progress created by the first web version readable.
     if (Array.isArray(raw) && raw.every((item) => typeof item === "string")) {
-      return { ...EMPTY_PROGRESS, completedIds: raw };
+      const en = newJourney("en");
+      return {
+        ...EMPTY_PROGRESS,
+        completedIds: raw,
+        englishJourney: en,
+        journeysByLanguage: { en, ko: newJourney("ko") },
+        selectedLanguage: "en",
+      };
     }
-    if (!raw || typeof raw !== "object") return EMPTY_PROGRESS;
+    if (!raw || typeof raw !== "object") {
+      const en = newJourney("en");
+      return {
+        ...EMPTY_PROGRESS,
+        englishJourney: en,
+        journeysByLanguage: { en, ko: newJourney("ko") },
+        selectedLanguage: "en",
+      };
+    }
     const value = raw as Partial<ProgressState>;
+    const enJourney =
+      (value.journeysByLanguage?.en ? parseJourney(value.journeysByLanguage.en, "en") : null) ??
+      parseJourney(value.englishJourney, "en") ??
+      newJourney("en");
+
+    const koJourney =
+      (value.journeysByLanguage?.ko ? parseJourney(value.journeysByLanguage.ko, "ko") : null) ??
+      newJourney("ko");
+
+    const journeysByLanguage: Record<string, LanguageJourney> = {
+      en: enJourney,
+      ko: koJourney,
+      ...(value.journeysByLanguage && typeof value.journeysByLanguage === "object"
+        ? Object.fromEntries(
+            Object.entries(value.journeysByLanguage)
+              .filter(([k]) => k !== "en" && k !== "ko")
+              .map(([k, v]) => [k, parseJourney(v, k as LanguageCode) ?? newJourney(k as LanguageCode)])
+          )
+        : {}),
+    };
+
+    const selectedLanguage: LanguageCode = value.selectedLanguage === "ko" ? "ko" : "en";
+
     return {
       completedIds: Array.isArray(value.completedIds) ? value.completedIds.filter((item): item is string => typeof item === "string") : [],
       sectionsByLesson: value.sectionsByLesson && typeof value.sectionsByLesson === "object" ? value.sectionsByLesson : {},
@@ -91,10 +138,18 @@ export function readProgressState(): ProgressState {
       lastOpenedByLesson: value.lastOpenedByLesson && typeof value.lastOpenedByLesson === "object" ? value.lastOpenedByLesson : {},
       bookmarksByLesson: value.bookmarksByLesson && typeof value.bookmarksByLesson === "object" ? value.bookmarksByLesson : {},
       readLaterIds: Array.isArray(value.readLaterIds) ? value.readLaterIds.filter((item): item is string => typeof item === "string") : [],
-      englishJourney: parseJourney(value.englishJourney) ?? undefined,
+      englishJourney: enJourney,
+      journeysByLanguage,
+      selectedLanguage,
     };
   } catch {
-    return EMPTY_PROGRESS;
+    const en = newJourney("en");
+    return {
+      ...EMPTY_PROGRESS,
+      englishJourney: en,
+      journeysByLanguage: { en, ko: newJourney("ko") },
+      selectedLanguage: "en",
+    };
   }
 }
 
