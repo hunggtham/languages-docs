@@ -136,6 +136,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
 - [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
 - [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
+- [고기후학 및 빙하 코어 프록시와 댄스고르-외슈거 사건의 언어](./paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events/README.md) — `빙하코어안정동위원소고기후프록시복원 및 댄스고르외슈거밀레니엄기후변동주기 기반 하인리히사건빙산유출쇄설성퇴적층과 대서양자오선열염순환티핑포인트 고기후학`
+- [메타물질 및 변환광학과 음향 스텔스 클로킹의 언어](./metamaterials-transformation-optics-and-acoustic-cloaking/README.md) — `음의굴절률메타물질전자기파굴절특성 및 좌표변환광학투명망토설계기하학 기반 음향스텔스메타물질수중음향클로킹과 분할링공진기인공자기공명주파수 메타물질공학`
+- [진화인식론 및 밈 이론과 문화 전달의 언어](./evolutionary-epistemology-meme-theory-and-cultural-transmission/README.md) — `진화인식론시행착오변이선택보존기제 및 밈이론문화적전달단위복제충실도 기반 이중상속이론유전자문화공진화모델과 인지편향휴리스틱진화심리학적기원 진화인식론`
+- [미소중력 유체물리학 및 마랑고니 대류와 모세관 유동의 언어](./microgravity-fluid-physics-marangoni-convection-and-capillary-flow/README.md) — `미소중력환경표면장력구배마랑고니대류 및 모세관액적브리지안정성한계해석 기반 열모세관불안정성임계온도차공진모드와 우주선추진제탱크슬로싱감쇠격벽설계 우주유체역학`
+- [비교기업지배구조 및 이사의 충실의무와 주주행동주의의 언어](./comparative-corporate-governance-fiduciary-duty-and-shareholder-activism/README.md) — `비교기업지배구조이사의충실의무사법심사 및 경영판단원칙선관주의의무면책한계판단기준 기반 주주행동주의사모펀드기업가치제고전략과 주주대표소송이사의회사손해배상책임추궁 비교회사법`
+- [구조물 상태감시 및 압전 센서망과 유도초음파 손상탐지의 언어](./structural-health-monitoring-piezoelectric-sensors-and-guided-waves/README.md) — `스마트구조물상태감시압전센서네트워크 및 램파유도초음파분산곡선손상탐지신호해석 기반 광섬유브래그격자센서변형률분포계측기법과 디지털트윈기반구조동역학피로수명예측해석 스마트계측공학`
+- [우주추진공학 및 홀 효과 추력기와 제논 플라즈마 방전의 언어](./space-propulsion-hall-effect-thrusters-and-xenon-plasma/README.md) — `홀효과추력기제논플라즈마가속추진시스템 및 자기절연채널전자방향드리프트전류제어 기반 할로우캐소드방전열전자방출플라즈마중화와 심우주탐사선저추력궤도천이최적화알고리즘 항공우주추진공학`
+- [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
+- [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
+- [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
@@ -690,6 +700,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
 - [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
 - [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
+- [고기후학 및 빙하 코어 프록시와 댄스고르-외슈거 사건의 언어](./paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events/README.md) — `빙하코어안정동위원소고기후프록시복원 및 댄스고르외슈거밀레니엄기후변동주기 기반 하인리히사건빙산유출쇄설성퇴적층과 대서양자오선열염순환티핑포인트 고기후학`
+- [메타물질 및 변환광학과 음향 스텔스 클로킹의 언어](./metamaterials-transformation-optics-and-acoustic-cloaking/README.md) — `음의굴절률메타물질전자기파굴절특성 및 좌표변환광학투명망토설계기하학 기반 음향스텔스메타물질수중음향클로킹과 분할링공진기인공자기공명주파수 메타물질공학`
+- [진화인식론 및 밈 이론과 문화 전달의 언어](./evolutionary-epistemology-meme-theory-and-cultural-transmission/README.md) — `진화인식론시행착오변이선택보존기제 및 밈이론문화적전달단위복제충실도 기반 이중상속이론유전자문화공진화모델과 인지편향휴리스틱진화심리학적기원 진화인식론`
+- [미소중력 유체물리학 및 마랑고니 대류와 모세관 유동의 언어](./microgravity-fluid-physics-marangoni-convection-and-capillary-flow/README.md) — `미소중력환경표면장력구배마랑고니대류 및 모세관액적브리지안정성한계해석 기반 열모세관불안정성임계온도차공진모드와 우주선추진제탱크슬로싱감쇠격벽설계 우주유체역학`
+- [비교기업지배구조 및 이사의 충실의무와 주주행동주의의 언어](./comparative-corporate-governance-fiduciary-duty-and-shareholder-activism/README.md) — `비교기업지배구조이사의충실의무사법심사 및 경영판단원칙선관주의의무면책한계판단기준 기반 주주행동주의사모펀드기업가치제고전략과 주주대표소송이사의회사손해배상책임추궁 비교회사법`
+- [구조물 상태감시 및 압전 센서망과 유도초음파 손상탐지의 언어](./structural-health-monitoring-piezoelectric-sensors-and-guided-waves/README.md) — `스마트구조물상태감시압전센서네트워크 및 램파유도초음파분산곡선손상탐지신호해석 기반 광섬유브래그격자센서변형률분포계측기법과 디지털트윈기반구조동역학피로수명예측해석 스마트계측공학`
+- [우주추진공학 및 홀 효과 추력기와 제논 플라즈마 방전의 언어](./space-propulsion-hall-effect-thrusters-and-xenon-plasma/README.md) — `홀효과추력기제논플라즈마가속추진시스템 및 자기절연채널전자방향드리프트전류제어 기반 할로우캐소드방전열전자방출플라즈마중화와 심우주탐사선저추력궤도천이최적화알고리즘 항공우주추진공학`
+- [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
+- [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
+- [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,360 new targets across 624 independent topic batches; 14,360 structured headings toward the 15,000 target, leaving 640 after this checkpoint.
+- Progress in this checkpoint: 9,510 new targets across 634 independent topic batches; 14,510 structured headings toward the 15,000 target, leaving 490 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5608,3 +5608,43 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction`
 - File: `10-finite-element-bone-biomechanics.md`
 - Coverage: 15 new advanced-native bone biomechanics finite element analysis (FEA), Wolff's law remodeling modeling, lacunar-canalicular fluid shear stress mechanotransduction, and trabecular micro-CT quantification headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events`
+- File: `01-ice-core-proxies-and-climate-events.md`
+- Coverage: 15 new advanced-native ice core stable water isotope proxies, Dansgaard-Oeschger millennial climate oscillations, Heinrich ice-rafted debris events, and AMOC thermohaline circulation tipping points headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `metamaterials-transformation-optics-and-acoustic-cloaking`
+- File: `02-transformation-optics-and-metamaterials.md`
+- Coverage: 15 new advanced-native negative refractive index metamaterials, transformation optics coordinate transformation, acoustic cloaking anisotropy, and split-ring resonator magnetic resonance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-epistemology-meme-theory-and-cultural-transmission`
+- File: `03-evolutionary-epistemology-and-memetics.md`
+- Coverage: 15 new advanced-native evolutionary epistemology variation-selection-retention, Dawkins memetics cultural transmission fidelity, dual-inheritance gene-culture coevolution, and cognitive bias heuristics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microgravity-fluid-physics-marangoni-convection-and-capillary-flow`
+- File: `04-microgravity-fluids-and-capillary-flow.md`
+- Coverage: 15 new advanced-native microgravity fluid dynamics, Marangoni surface tension driven convection, capillary liquid bridge stability, and spacecraft propellant sloshing suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-corporate-governance-fiduciary-duty-and-shareholder-activism`
+- File: `05-fiduciary-duty-and-shareholder-activism.md`
+- Coverage: 15 new advanced-native comparative corporate governance, directors fiduciary duty, business judgment rule, shareholder activism stewardship code, and multi-derivative litigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-health-monitoring-piezoelectric-sensors-and-guided-waves`
+- File: `06-structural-health-monitoring-guided-waves.md`
+- Coverage: 15 new advanced-native smart structural health monitoring, piezoelectric sensor networks, Lamb wave dispersion damage detection, and digital twin structural fatigue prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-propulsion-hall-effect-thrusters-and-xenon-plasma`
+- File: `07-hall-effect-thrusters-and-space-propulsion.md`
+- Coverage: 15 new advanced-native Hall effect thrusters, xenon plasma acceleration, magnetic shielding channel erosion protection, and deep-space low-thrust orbital transfer optimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-biomedical-ethics-gene-editing-and-reproductive-cloning`
+- File: `08-gene-editing-and-biomedical-ethics.md`
+- Coverage: 15 new advanced-native germline gene editing ethical norms, international ban on reproductive cloning, informed consent, Oviedo convention human genome limits, and preimplantation genetic diagnosis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nonlinear-optics-high-harmonic-generation-and-attosecond-pulses`
+- File: `09-high-harmonic-generation-and-attosecond-physics.md`
+- Coverage: 15 new advanced-native high harmonic generation three-step model, isolated attosecond pulse synthesis, tunnel ionization, and electron quantum wave packet interference headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing`
+- File: `10-eddy-resolving-ocean-circulation.md`
+- Coverage: 15 new advanced-native eddy-resolving ocean general circulation models, isopycnal mixing Gent-McWilliams parametrization, submesoscale baroclinic instability, and ocean heat uptake tracking headwords across `news_formal` in one `target_set` passage.
