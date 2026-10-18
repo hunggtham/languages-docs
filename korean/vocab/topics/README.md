@@ -96,6 +96,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [계산사회과학 및 행위자 기반 모형과 여론 양극화 동학의 언어](./computational-social-science-agent-based-modeling-and-opinion-dynamics/README.md) — `계산사회과학행위자기반모델링 및 여론양극화동학에코체임버효과 기반 복잡계사회네트워크정보확산과 확증편향알고리즘필터버블 계산사회과학`
 - [수문공학 및 지하수 유동 해석과 대수층 지속가능 관리의 언어](./hydrological-engineering-subsurface-water-flow-and-aquifer-management/README.md) — `지하수수문학다르시법칙유동해석 및 대수층투수량계수저류계수산정 기반 지하수위강하원추침하량예측과 해안대수층염수침투방지벽설계 수문공학`
 - [비교헌법학 및 헌법재판소와 위헌법률심사의 언어](./comparative-constitutional-law-constitutional-courts-and-judicial-review/README.md) — `비교헌법학위헌법률심사기준 및 헌법재판소비례원칙과잉금지 기반 합헌적법률해석한계기준정립과 국가기관간권한쟁의심판결정 비교헌법학`
+- [합성생물학 및 유도 진화와 고대 서열 복원의 언어](./synthetic-biology-directed-evolution-and-ancestral-sequence-reconstruction/README.md) — `유도진화무작위돌연변이유발 및 조상단백질서열복원알고리즘 기반 파지디스플레이결합친화도선별과 생체촉매활성부위재설계기술 합성생물학`
+- [실험유체역학 및 입자영상유속계와 난류 경계층의 언어](./experimental-fluid-mechanics-particle-image-velocimetry-and-turbulent-boundary-layers/README.md) — `입자영상유속계이중펄스레이저 및 난류경계층와류구조가시화 기반 레이놀즈응력텐서난류운동에너지와 유동박리제어와류발생기설계 실험유체역학`
+- [신경윤리학 및 인지 증강과 자유의지의 언어](./neuroethics-cognitive-enhancement-and-free-will/README.md) — `신경윤리학인지증강약물규범 및 신경결정론자유의지양립가능성 기반 뇌프라이버시신경데이터자기결정과 인지적자유권자기정체성보호 신경윤리학`
+- [광학메타물질 및 위상 광자학과 카이랄 분자 감지의 언어](./optical-metamaterials-topological-photonics-and-chiral-sensing/README.md) — `위상광자학에지상태비가역도파 및 카이랄메타물질원편광이색성분광 기반 위상절연체후방산란방지광도파로와 생체거울상이성질체초고감도검출 광학메타물질`
+- [계산언어학 및 거대언어모델 정렬과 인간 피드백 강화학습의 언어](./computational-linguistics-large-language-models-and-reinforcement-learning-from-human-feedback/README.md) — `거대언어모델인간피드백강화학습 및 보상모델훈련선호도데이터정렬 기반 환각현상완화지식근거생성검증과 프롬프트엔지니어링문맥내학습 계산언어학`
+- [지진학 및 지진 조기경보와 단층 파쇄 동역학의 언어](./seismology-earthquake-early-warning-and-fault-rupture-dynamics/README.md) — `지진조기경보피파도달지진동추정 및 단층파쇄동역학초전단파쇄전파 기반 지진모멘트텐서역산단층면해석과 지진동감쇄경험식최대지반가속도 지진학`
+- [생무기화학 및 금속단백질 배위결합과 인공 광합성의 언어](./bioinorganic-chemistry-metalloproteins-and-artificial-photosynthesis/README.md) — `망간산소발생복합체광화학물분해 및 금속단백질배위결합전자전달사슬 기반 인공광합성분자촉매물산화반응과 철황단백질클러스터산화환원전위 생무기화학`
+- [발달정신병리학 및 유년기 외상과 후성유전학적 취약성의 언어](./developmental-psychopathology-childhood-trauma-and-epigenetic-vulnerability/README.md) — `발달정신병리학후성유전학적각인 및 유년기부정적경험스트레스취약성 기반 시상하부뇌하수체부신축과각성반응과 디엔에이메틸화유전자발현조절이상 발달정신병리학`
+- [핵융합공학 및 토카막 자기밀폐와 플라즈마 붕괴완화의 언어](./nuclear-fusion-engineering-tokamak-magnetic-confinement-and-plasma-disruption/README.md) — `토카막자기밀폐플라즈마평형제어 및 중수소삼중수소핵융합반응단면적 기반 고인자모드에이치모드경계수송장벽과 플라즈마대규모붕괴완화산탄주입 핵융합공학`
+- [환경독성학 및 미세플라스틱과 영양단계 생물농축의 언어](./environmental-toxicology-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱영양단계생물농축계수 및 나노플라스틱세포막투과생체독성 기반 잔류성유기오염물질흡착매개체역할과 해양먹이사슬상위포식자생물확대 환경독성학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`

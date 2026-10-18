@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,760 new targets across 584 independent topic batches; 13,760 structured headings toward the 15,000 target, leaving 1,240 after this checkpoint.
+- Progress in this checkpoint: 8,910 new targets across 594 independent topic batches; 13,910 structured headings toward the 15,000 target, leaving 1,090 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5451,3 +5451,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `comparative-constitutional-law-constitutional-courts-and-judicial-review`
 - File: `10-constitutional-courts-and-judicial-review.md`
 - Coverage: 15 new advanced-native comparative constitutional judicial review standards, Constitutional Court proportionality principle, competence dispute adjudication, and unconstitutional party dissolution headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-directed-evolution-and-ancestral-sequence-reconstruction`
+- File: `01-directed-evolution-and-ancestral-reconstruction.md`
+- Coverage: 15 new advanced-native directed evolution random mutagenesis, ancestral sequence reconstruction (ASR), phage display selection, and substrate pocket engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `experimental-fluid-mechanics-particle-image-velocimetry-and-turbulent-boundary-layers`
+- File: `02-piv-and-turbulent-boundary-layers.md`
+- Coverage: 15 new advanced-native particle image velocimetry (PIV), turbulent boundary layer vortex visualization, Reynolds stress tensor, and supersonic shock-boundary interaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroethics-cognitive-enhancement-and-free-will`
+- File: `03-cognitive-enhancement-and-free-will.md`
+- Coverage: 15 new advanced-native neuroethics cognitive enhancement norms, neurodeterminism and free will compatibilism, brain privacy rights, and BCI liability attribution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optical-metamaterials-topological-photonics-and-chiral-sensing`
+- File: `04-topological-photonics-and-chiral-sensing.md`
+- Coverage: 15 new advanced-native topological photonics edge state waveguiding, chiral metamaterials circular dichroism, metasurface metalens, and non-Hermitian exceptional point sensing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-linguistics-large-language-models-and-reinforcement-learning-from-human-feedback`
+- File: `05-llm-alignment-and-rlhf.md`
+- Coverage: 15 new advanced-native LLM reinforcement learning from human feedback (RLHF), reward model training, hallucination mitigation, model alignment, and chain-of-thought prompting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `seismology-earthquake-early-warning-and-fault-rupture-dynamics`
+- File: `06-earthquake-early-warning-and-fault-dynamics.md`
+- Coverage: 15 new advanced-native earthquake early warning P-wave estimation, fault rupture dynamics supershear propagation, seismic moment tensor inversion, and active fault paleoseismology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `bioinorganic-chemistry-metalloproteins-and-artificial-photosynthesis`
+- File: `07-metalloproteins-and-artificial-photosynthesis.md`
+- Coverage: 15 new advanced-native manganese oxygen-evolving complex, metalloprotein coordination electron transfer, artificial photosynthesis water oxidation, and EXAFS coordination sphere headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `developmental-psychopathology-childhood-trauma-and-epigenetic-vulnerability`
+- File: `08-childhood-trauma-and-epigenetics.md`
+- Coverage: 15 new advanced-native developmental psychopathology epigenetic imprinting, adverse childhood experiences (ACE), HPA axis hyperarousal, and DNA methylation dysregulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nuclear-fusion-engineering-tokamak-magnetic-confinement-and-plasma-disruption`
+- File: `09-tokamak-plasma-confinement-and-disruptions.md`
+- Coverage: 15 new advanced-native tokamak magnetic confinement equilibrium, D-T fusion cross section, H-mode edge transport barrier, shattered pellet injection, and runaway electron suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-toxicology-microplastics-and-trophic-bioaccumulation`
+- File: `10-microplastics-and-trophic-bioaccumulation.md`
+- Coverage: 15 new advanced-native microplastics trophic bioaccumulation factor, nanoplastics membrane cytotoxicity, POPs carrier vector effect, and marine food web biomagnification headwords across `news_formal` in one `target_set` passage.
