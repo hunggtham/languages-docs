@@ -580,6 +580,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [사회인식론 및 증언의 인식론과 지식 전달의 언어](./philosophy-epistemology-social-epistemology-and-testimony/README.md) — `사회인식론정당화 및 증언에의한지식획득 기반 인식적신뢰성기준과 인식적불의개념 사회인식론`
 - [해양환경학 및 해양 산성화와 생물 석회화 역학의 언어](./environmental-ocean-acidification-and-calcification-dynamics/README.md) — `인위적해양산성화가속 및 탄산이온포화수평면 기반 아라고나이트포화도와 해양석회화생물패각 해양환경학`
 - [컴퓨터과학 및 분산 합의 알고리즘과 비잔틴 장애 허용의 언어](./computer-science-distributed-consensus-and-byzantine-fault-tolerance/README.md) — `분산합의프로토콜 및 실용적비잔틴장애허용 기반 상태기계복제모델과 합의쿼럼정족수조건 컴퓨터과학`
+- [종양면역학 및 키메라 항원 수용체 T세포 치료와 사이토카인 방출 증후군의 언어](./biomedicine-car-t-cell-therapy-and-cytokine-release-syndrome/README.md) — `키메라항원수용체구조 및 자가유래티세포추출 기반 사이토카인방출증후군과 면역효과세포치료제 종양면역학`
+- [미시경제학 및 메커니즘 디자인과 경매 이론의 언어](./economics-mechanism-design-and-auction-theory/README.md) — `진실보고유인메커니즘 및 배분효율성극대화원칙 기반 승자의저주방지전략과 빅리클라크그로브스기제 미시경제학`
+- [양자정보과학 및 양자 오류 정정과 표면 코드의 언어](./quantum-computing-quantum-error-correction-and-surface-codes/README.md) — `양자오류정정부호체계 및 위상수학적표면코드 기반 증후군측정신드롬추출과 결함허용양자연산 양자정보과학`
+- [비교헌법학 및 헌법 해석 방법론과 원본주의 대 살아있는 헌법론의 언어](./law-constitutional-interpretation-originalism-and-living-constitution/README.md) — `원전의도주의원본해석 및 살아있는헌법론적진화 기반 헌법적정당성확보방안과 기본권보호사법심사 비교헌법학`
+- [지구화산학 및 초화산 칼데라 함몰과 마그마 챔버 역학의 언어](./earth-sciences-supervolcano-calderas-and-magma-chamber-dynamics/README.md) — `초화산칼데라함몰구조 및 마그마챔버과압축축적 기반 플리니식분화기둥형성 및 화쇄류밀도전류확산 지구화산학`
+- [인공지능공학 및 인간 피드백 기반 강화학습(RLHF)과 가치 정렬의 언어](./artificial-intelligence-reinforcement-learning-from-human-feedback-rlhf/README.md) — `인간피드백기반강화학습 및 인간선호도보상모델링 기반 근위정책최적화알고리즘과 정렬세금상충관계 인공지능공학`
+- [사회학 및 문화자본 불평등 전수와 아비투스 재생산 이론의 언어](./sociology-cultural-capital-and-habitus-reproduction/README.md) — `문화자본불평등전수 및 체화된아비투스형성과정 기반 제도화된자격인정기제와 상징적폭력은폐메커니즘 사회학`
+- [환경빙하학 및 극지 빙상 역학과 해수면 상승 메커니즘의 언어](./environmental-glaciology-ice-sheet-dynamics-and-sea-level-rise/README.md) — `극지빙상질량수지적자 및 해수면상승기여도추정 기반 기저빙하활주속도측정과 해양빙상불안정성가설 환경빙하학`
+- [심리철학 및 기능주의와 다중 실현 가능성 논변의 언어](./philosophy-philosophy-of-mind-functionalism-and-multiple-realizability/README.md) — `기능주의심신이론모형 및 다중실현가능성논변 기반 물리주의심신수반개념과 감각질주관적체험구조 심리철학`
+- [신소재공학 및 그래핀과 전이금속 디칼코게나이드 2차원 반도체의 언어](./materials-graphene-and-transition-metal-dichalcogenides/README.md) — `단원자층그래핀박막 및 전이금속디칼코게나이드 기반 반데르발스이종접합계와 에너지밴드갭엔지니어링 신소재공학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 
 - [자기 인식과 삶의 관점](./self-awareness-and-life-view.md) — `속세`, `자의식`, `근성`, `삼재`, `울적하다`, `공허감`, `주눅들다`

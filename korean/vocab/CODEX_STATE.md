@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 7,860 new targets across 524 independent topic batches; 12,860 structured headings toward the 15,000 target, leaving 2,140 after this checkpoint.
+- Progress in this checkpoint: 8,010 new targets across 534 independent topic batches; 13,010 structured headings toward the 15,000 target, leaving 1,990 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -58,6 +58,46 @@
 - Topic: `computer-science-distributed-consensus-and-byzantine-fault-tolerance`
 - File: `10-distributed-consensus-and-pbft.md`
 - Coverage: 15 new advanced-native distributed computing, Practical Byzantine Fault Tolerance (PBFT), State Machine Replication (SMR), consensus quorum requirement, and Raft algorithm headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-car-t-cell-therapy-and-cytokine-release-syndrome`
+- File: `01-car-t-cell-therapy-and-crs.md`
+- Coverage: 15 new advanced-native CAR-T cell immunotherapy, chimeric antigen receptor structure, cytokine release syndrome (CRS), neurotoxicity diagnosis, and durable remission headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-mechanism-design-and-auction-theory`
+- File: `02-mechanism-design-and-auction-theory.md`
+- Coverage: 15 new advanced-native mechanism design, incentive compatibility, Vickrey-Clarke-Groves (VCG) mechanism, revelation principle, and winner's curse headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-computing-quantum-error-correction-and-surface-codes`
+- File: `03-quantum-error-correction-and-surface-codes.md`
+- Coverage: 15 new advanced-native quantum error correction (QEC), surface code architecture, stabilizer syndrome extraction, fault-tolerant logical qubit, and threshold theorem headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-constitutional-interpretation-originalism-and-living-constitution`
+- File: `04-constitutional-interpretation-and-living-constitution.md`
+- Coverage: 15 new advanced-native constitutional interpretation methodology, originalism, living constitution doctrine, judicial review, and democratic legitimacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `earth-sciences-supervolcano-calderas-and-magma-chamber-dynamics`
+- File: `05-supervolcano-calderas-and-magma-dynamics.md`
+- Coverage: 15 new advanced-native supervolcano caldera collapse, magma chamber overpressure, rhyolitic high-viscosity magma, Plinian eruption column, and pyroclastic density currents headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `artificial-intelligence-reinforcement-learning-from-human-feedback-rlhf`
+- File: `06-rlhf-and-value-alignment.md`
+- Coverage: 15 new advanced-native reinforcement learning from human feedback (RLHF), reward model training, PPO alignment, reward hacking detection, and hallucination mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-cultural-capital-and-habitus-reproduction`
+- File: `07-cultural-capital-and-habitus-reproduction.md`
+- Coverage: 15 new advanced-native Bourdieu cultural capital theory, embodied habitus formation, institutionalized credentials, symbolic violence concealment, and distinction taste headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-glaciology-ice-sheet-dynamics-and-sea-level-rise`
+- File: `08-glaciology-and-sea-level-rise.md`
+- Coverage: 15 new advanced-native polar ice sheet mass balance deficit, marine ice sheet instability (MISI), basal sliding velocity, ice shelf domino collapse, and grounding line retreat headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-philosophy-of-mind-functionalism-and-multiple-realizability`
+- File: `09-functionalism-and-multiple-realizability.md`
+- Coverage: 15 new advanced-native functionalist mind-body theory, multiple realizability argument, physicalist supervenience, qualia, explanatory gap, and Chinese room argument headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-graphene-and-transition-metal-dichalcogenides`
+- File: `10-graphene-and-2d-semiconductors.md`
+- Coverage: 15 new advanced-native monolayer graphene, 2D transition metal dichalcogenides (TMDs), van der Waals heterostructures, bandgap engineering, and moiré superlattices headwords across `news_formal` in one `target_set` passage.
 - Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment`
 - File: `01-conceptual-metaphor-and-embodiment.md`
 - Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor theory, embodied cognition hypothesis, image schema projection, and conceptual blending network headwords across `news_formal` in one `target_set` passage.
