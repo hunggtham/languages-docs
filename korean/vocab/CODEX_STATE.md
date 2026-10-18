@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 8,610 new targets across 574 independent topic batches; 13,610 structured headings toward the 15,000 target, leaving 1,390 after this checkpoint.
+- Progress in this checkpoint: 8,760 new targets across 584 independent topic batches; 13,760 structured headings toward the 15,000 target, leaving 1,240 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5411,3 +5411,43 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `environmental-microbiology-bioremediation-and-microbial-electrochemical-systems`
 - File: `10-bioremediation-and-microbial-electrochemical-systems.md`
 - Coverage: 15 new advanced-native microbial electrochemical systems, extracellular electron transfer, soil bioremediation, and xenobiotic biodegradation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoclimatology-ice-core-analysis-and-milankovitch-cycles`
+- File: `01-ice-core-analysis-and-milankovitch-cycles.md`
+- Coverage: 15 new advanced-native ice core oxygen isotope ratio, Milankovitch precession cycles, Dansgaard-Oeschger events, and paleoclimate numerical simulations headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-cryptography-quantum-key-distribution-and-post-quantum-security`
+- File: `02-qkd-and-post-quantum-cryptography.md`
+- Coverage: 15 new advanced-native single-photon quantum key distribution, lattice-based post-quantum cryptography, Bell inequality violation, and zero-knowledge proof quantum network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `behavioral-economics-nudge-theory-and-choice-architecture`
+- File: `03-nudge-theory-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral economics choice architecture, default setting nudge, loss aversion asymmetric value function, and pre-commitment mechanisms headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-bioinformatics-alphafold-and-protein-structure-prediction`
+- File: `04-alphafold-and-protein-structure-prediction.md`
+- Coverage: 15 new advanced-native protein 3D structure prediction deep learning, AlphaFold residue contact maps, multiple sequence alignment co-evolution, and cryo-EM model fitting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-propulsion-hall-effect-thrusters-and-electric-propulsion`
+- File: `05-hall-effect-thrusters-and-electric-propulsion.md`
+- Coverage: 15 new advanced-native Hall-effect thruster magnetic shielding, spacecraft electric propulsion plasma acceleration, xenon gas ionization, and thrust vector gimbal systems headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociolinguistics-diglossia-and-linguistic-landscape`
+- File: `06-diglossia-and-linguistic-landscape.md`
+- Coverage: 15 new advanced-native sociolinguistic diglossia, linguistic landscape public signage semiotics, high/low variety functional differentiation, and code-switching strategies headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `surface-chemistry-heterogeneous-catalysis-and-langmuir-hinshelwood-kinetics`
+- File: `07-heterogeneous-catalysis-and-surface-kinetics.md`
+- Coverage: 15 new advanced-native heterogeneous catalysis surface adsorption energy, Langmuir-Hinshelwood kinetics, chemisorption activation energy, and strong metal-support interaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-social-science-agent-based-modeling-and-opinion-dynamics`
+- File: `08-agent-based-modeling-and-opinion-dynamics.md`
+- Coverage: 15 new advanced-native computational social science agent-based modeling (ABM), opinion dynamics echo chambers, complex social network cascades, and collective intelligence headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `hydrological-engineering-subsurface-water-flow-and-aquifer-management`
+- File: `09-subsurface-flow-and-aquifer-management.md`
+- Coverage: 15 new advanced-native groundwater Darcy's law flow analysis, aquifer transmissivity and storativity, coastal saltwater intrusion barriers, and aquifer storage and recovery (ASR) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-law-constitutional-courts-and-judicial-review`
+- File: `10-constitutional-courts-and-judicial-review.md`
+- Coverage: 15 new advanced-native comparative constitutional judicial review standards, Constitutional Court proportionality principle, competence dispute adjudication, and unconstitutional party dissolution headwords across `news_formal` in one `target_set` passage.

@@ -86,6 +86,16 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [계산신경과학 및 신경 신호 해독과 뇌-기계 인터페이스의 언어](./computational-neuroscience-neural-decoding-and-brain-machine-interfaces/README.md) — `신경신호해독운동의도추정 및 뇌기계인터페이스침습형전극 기반 신경스파이크타이밍동기화와 대뇌피질운동영역신경망모델 계산신경과학`
 - [에너지지정학 및 북극항로와 핵심광물 외교의 언어](./geopolitics-of-energy-arctic-sea-routes-and-critical-mineral-diplomacy/README.md) — `북극해빙항로상업적운항 및 북극자원영유권분쟁대응 기반 핵심광물공급망안보외교와 배타적경제수역자원개발권 에너지지정학`
 - [환경미생물학 및 생물학적 정화와 미생물 전기화학 시스템의 언어](./environmental-microbiology-bioremediation-and-microbial-electrochemical-systems/README.md) — `미생물전기화학시스템에너지 및 세포외전자전달메커니즘 기반 토양생물학적정화공정기술과 난분해성오염물질생분해 환경미생물학`
+- [고기후학 및 빙하 코어 분석과 밀란코비치 주기의 언어](./paleoclimatology-ice-core-analysis-and-milankovitch-cycles/README.md) — `빙하코어동위원소분석 및 밀란코비치주기세차운동 기반 고기후복원프록시데이터와 댄스가드외슈거급격온난화 고기후학`
+- [양자암호학 및 양자 키 분배와 양자내성암호의 언어](./quantum-cryptography-quantum-key-distribution-and-post-quantum-security/README.md) — `양자키분배단일광자프로토콜 및 양자도청탐지오류율임계치 기반 양자내성격자기반암호알고리즘과 양자얽힘벨부등식위반검증 양자암호학`
+- [행동경제학 및 넛지 이론과 선택 설계의 언어](./behavioral-economics-nudge-theory-and-choice-architecture/README.md) — `행동경제학선택설계프레임워크 및 기본값설정넛지유도효과 기반 손실회피성향비대칭적가치함수와 휴리스틱체계적인지편향 행동경제학`
+- [구조생물정보학 및 단백질 3차원 구조 예측과 딥러닝 모델의 언어](./structural-bioinformatics-alphafold-and-protein-structure-prediction/README.md) — `단백질삼차원구조예측딥러닝 및 알파폴드잔기간거리접촉지도 기반 다중서열정렬공진화정보추출과 단백질접힘열역학적안정성 구조생물정보학`
+- [우주추진공학 및 홀 효과 추력기와 전기추진 시스템의 언어](./space-propulsion-hall-effect-thrusters-and-electric-propulsion/README.md) — `홀효과추력기자기장차폐기술 및 우주선전기추진플라즈마가속 기반 크세논가스이온화방전효율과 비추력추진제질량소비절감 우주추진공학`
+- [사회언어학 및 양층언어현상과 언어경관의 언어](./sociolinguistics-diglossia-and-linguistic-landscape/README.md) — `사회언어학양층언어사용현상 및 언어경관공공간판시각기호학 기반 상위어하위어상황별기능분화와 담화상황코드스위칭전략 사회언어학`
+- [표면화학 및 불균일 촉매 반응과 랑뮤어-힌셸우드 속도론의 언어](./surface-chemistry-heterogeneous-catalysis-and-langmuir-hinshelwood-kinetics/README.md) — `불균일촉매반응표면흡착에너지 및 랑뮤어힌셸우드반응속도론모델 기반 화학흡착활성화에너지장벽과 촉매활성점원자수준전자구조 표면화학`
+- [계산사회과학 및 행위자 기반 모형과 여론 양극화 동학의 언어](./computational-social-science-agent-based-modeling-and-opinion-dynamics/README.md) — `계산사회과학행위자기반모델링 및 여론양극화동학에코체임버효과 기반 복잡계사회네트워크정보확산과 확증편향알고리즘필터버블 계산사회과학`
+- [수문공학 및 지하수 유동 해석과 대수층 지속가능 관리의 언어](./hydrological-engineering-subsurface-water-flow-and-aquifer-management/README.md) — `지하수수문학다르시법칙유동해석 및 대수층투수량계수저류계수산정 기반 지하수위강하원추침하량예측과 해안대수층염수침투방지벽설계 수문공학`
+- [비교헌법학 및 헌법재판소와 위헌법률심사의 언어](./comparative-constitutional-law-constitutional-courts-and-judicial-review/README.md) — `비교헌법학위헌법률심사기준 및 헌법재판소비례원칙과잉금지 기반 합헌적법률해석한계기준정립과 국가기관간권한쟁의심판결정 비교헌법학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
