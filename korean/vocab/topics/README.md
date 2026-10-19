@@ -761,6 +761,17 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [업무 기술과 조직 관계](./workplace-skill-and-management.md) — `요령`, `부려먹다`, `쪼잔하다`, `건사`, `다루다`, `모색하다`, `치밀하다`, `정교하다`
 - [삶의 전환과 공식 소식](./life-events-and-formal-notices.md) — `조문`, `부고`, `반나절`, `이만`, `맞이하다`, `전성기`, `무사히`
 
+- [우주생물학 및 극한미생물 서식지와 생명지표 탐색의 언어](./astrobiology-extremophiles-and-biosignature-detection/README.md) — `우주생물학극한미생물서식지생명지표탐색연구 및 심해열수공엔셀라두스유로파지하대양서식지모델 기반 우주생물학라만분광학지질지표생체분자검출기술과 행성보호규약우주선생물오염방지무균세척제어 천체생물학`
+- [스핀트로닉스 및 자기터널접합과 스핀궤도토크의 언어](./spintronics-magnetic-tunnel-junctions-and-spin-orbit-torque/README.md) — `스핀트로닉스자기터널접합스핀궤도토크메모리소자연구 및 산화마그네슘터널장벽자기저항비비선형증폭현상 기반 수직자기이방성코발트철붕소박막계면에너지최적화와 위상절연체디락표면상태고효율스핀전류변환기술 나노스핀전자공학`
+- [비교우주법 및 외기권 우주조약과 우주 쓰레기 감축의 언어](./comparative-space-law-outer-space-treaty-and-space-debris-mitigation/README.md) — `비교우주법우주조약우주쓰레기감축국가책임원칙사법심사 및 우주책임협약우주물체발사국절대적손해배상법적의무 기반 기관간우주쓰레기조정위원회기술표준준수가이드라인과 능동적우주쓰레기제거포획폐기사법관할권이전법리 우주항공법학`
+- [전산재료과학 및 밀도범함수론과 밴드 구조 계산의 언어](./computational-materials-science-density-functional-theory-and-band-structure/README.md) — `전산재료과학밀도범함수론전자밴드구조계산수치모델 및 밀도범함수론일반화기울기근사국소밀도근사전자구조 기반 하이브리드범함수하트리포크교환상호작용정밀보정모델과 강상관전자계전이금속산화물원자내쿨롱반발에너지보정 양자응집물질물리학`
+- [뇌신경공학 및 뇌-컴퓨터 인터페이스와 신경 신호 해독의 언어](./neurotechnology-brain-computer-interface-and-neural-decoding/README.md) — `뇌신경공학뇌컴퓨터인터페이스신경신호해독알고리즘 및 피질내미세전극어레이신경스파이크정밀신경신호기록 기반 대뇌피질전위도피질표면비침습적고해상도신호처리기술과 양방향뇌인터페이스신경자극피드백감각복원시스템 뇌의공학`
+- [환경나노독성학 및 제조 나노물질의 수계 생태독성과 거동의 언어](./environmental-nanotechnology-nanomaterial-toxicity-and-ecotoxicology/README.md) — `환경나노독성학제조나노물질수계생태독성평가기법 및 나노입자세포내유입활성산소종생성산화스트레스유도 기반 생체분자코로나형성단백질흡착나노물질표면동역학과 수생생물나노물질생물농축영양단계상향전이계수측정 환경생태독성학`
+- [빙하학 및 빙저 수문계통과 빙상 역학적 안정성의 언어](./glaciology-subglacial-hydrology-and-ice-sheet-stability/README.md) — `빙하학빙저수문계통빙상역학적안정성수치해석모델 및 빙저호수주기적돌발홍수배수빙저윤활기저미끄러짐가속 기반 해양빙상불안정성빙상접지선후퇴임계한계점해석기법과 빙붕하부해양열수송기저용융률위성레이더간섭계측 극지빙하역학`
+- [비교정보법 및 인공지능 알고리즘 설명요구권과 투명성의 언어](./comparative-information-law-right-to-explanation-and-ai-transparency/README.md) — `비교정보법인공지능알고리즘설명요구권사법심사기준 및 블랙박스알고리즘자동화의사결정투명성확보법적의무 기반 영업비밀보호원칙대알고리즘공개청구권상충법익형량과 인공지능편향성알고리즘차별금지공정성영향평가제도 인공지능공법학`
+- [분자바이러스학 및 캡시드 자기조립과 초저온전자현미경 구조의 언어](./molecular-virology-viral-capsid-assembly-and-cryo-em-structure/README.md) — `분자바이러스학바이러스캡시드자기조립동역학해석 및 초저온전자현미경원자해상도삼차원구조재구성기술 기반 이십면체대칭성캡소미어준등가성단백질결합계면규명과 바이러스외피당단백질막융합전이상태구조생물학분석 바이러스구조생물학`
+- [항성천체물리학 및 중심핵 붕괴 초신성과 중성미자 핵합성의 언어](./stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis/README.md) — `항성천체물리학중심핵붕괴초신성중성미자핵합성연구 및 정재강착충격파불안정성삼차원자기유체역학시뮬레이션 기반 중성미자구동풍알프로세스중원소합성원자로경로규명과 중성자별형성양자축퇴압원시중성자별냉각메커니즘 항성진화천체물리학`
+
 ## 생성 원칙
 
 - 각 file dùng title và heading bằng tiếng Hàn; `품사` đặt dưới title của từng mục.

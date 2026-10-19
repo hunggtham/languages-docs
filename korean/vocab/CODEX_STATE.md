@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,810 new targets across 654 independent topic batches; 14,810 structured headings toward the 15,000 target, leaving 190 after this checkpoint.
+- Progress in this checkpoint: 9,960 new targets across 664 independent topic batches; 14,960 structured headings toward the 15,000 target, leaving 40 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5727,3 +5727,42 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `archaeometry-synchrotron-radiation-and-ancient-pigment-characterization`
 - File: `10-synchrotron-archaeometry-and-pigments.md`
 - Coverage: 15 new advanced-native archaeometry, synchrotron radiation XRF and XANES, non-destructive micro-Raman spectroscopy, ancient pigment analysis, and cultural heritage digital twins headwords across `news_formal` in one `target_set` passage.
+- Topic: `astrobiology-extremophiles-and-biosignature-detection`
+- File: `01-extremophiles-and-biosignature-detection.md`
+- Coverage: 15 new advanced-native astrobiology, extremophiles, Enceladus-Europa hydrothermal vents, Raman biosignature detection, and planetary protection protocol headwords across news_formal in one target_set passage.
+
+- Topic: `spintronics-magnetic-tunnel-junctions-and-spin-orbit-torque`
+- File: `02-spin-orbit-torque-and-spintronics.md`
+- Coverage: 15 new advanced-native spintronics, magnetic tunnel junctions (MTJ), spin-orbit torque (SOT), tunnel magnetoresistance (TMR), and perpendicular magnetic anisotropy headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-space-law-outer-space-treaty-and-space-debris-mitigation`
+- File: `03-outer-space-treaty-and-space-debris.md`
+- Coverage: 15 new advanced-native comparative space law, Outer Space Treaty, space debris mitigation guidelines, absolute liability convention, and in-orbit active debris removal headwords across news_formal in one target_set passage.
+
+- Topic: `computational-materials-science-density-functional-theory-and-band-structure`
+- File: `04-dft-and-band-structure-calculation.md`
+- Coverage: 15 new advanced-native computational materials science, density functional theory (DFT), GGA/LDA approximations, hybrid functionals (HSE), and band structure calculation headwords across news_formal in one target_set passage.
+
+- Topic: `neurotechnology-brain-computer-interface-and-neural-decoding`
+- File: `05-bci-neural-decoding-and-telemetry.md`
+- Coverage: 15 new advanced-native neurotechnology, brain-computer interface (BCI), intracortical microelectrode arrays, neural decoding algorithms, and closed-loop neuromodulation headwords across news_formal in one target_set passage.
+
+- Topic: `environmental-nanotechnology-nanomaterial-toxicity-and-ecotoxicology`
+- File: `06-nanomaterial-toxicity-and-ecotoxicology.md`
+- Coverage: 15 new advanced-native environmental nanotechnology, engineered nanomaterials ecotoxicity, ROS oxidative stress, biomolecular corona, and aquatic trophic transfer headwords across news_formal in one target_set passage.
+
+- Topic: `glaciology-subglacial-hydrology-and-ice-sheet-stability`
+- File: `07-subglacial-hydrology-and-ice-sheet.md`
+- Coverage: 15 new advanced-native glaciology, subglacial hydrology, outburst flood drainage, marine ice sheet instability (MISI), and satellite radar interferometry melt rate headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-information-law-right-to-explanation-and-ai-transparency`
+- File: `08-ai-transparency-and-right-to-explanation.md`
+- Coverage: 15 new advanced-native comparative information law, AI right to explanation, black-box algorithmic decision-making, explainable AI (XAI), and trade secrets balancing headwords across news_formal in one target_set passage.
+
+- Topic: `molecular-virology-viral-capsid-assembly-and-cryo-em-structure`
+- File: `09-viral-capsid-and-cryo-em-structure.md`
+- Coverage: 15 new advanced-native molecular virology, viral capsid self-assembly dynamics, cryo-EM atomic resolution reconstruction, and broadly neutralizing antibody epitopes headwords across news_formal in one target_set passage.
+
+- Topic: `stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis`
+- File: `10-supernovae-and-neutrino-nucleosynthesis.md`
+- Coverage: 15 new advanced-native stellar astrophysics, core-collapse supernovae (CCSN), SASI 3D GR-MHD simulations, neutrino-driven wind r-process nucleosynthesis, and multi-messenger astronomy headwords across news_formal in one target_set passage.
