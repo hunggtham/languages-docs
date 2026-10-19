@@ -18,7 +18,7 @@
 ## 2026-10-16 15,000-word expansion kickoff
 
 - Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
-- Progress in this checkpoint: 9,960 new targets across 664 independent topic batches; 14,960 structured headings toward the 15,000 target, leaving 40 after this checkpoint.
+- Progress in this checkpoint: 10,000 new targets across 667 independent topic batches; 15,000 structured headings toward the 15,000 target, leaving 0 after this checkpoint.
 - Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
 - File: `01-metabolic-engineering-and-synthetic-biology.md`
 - Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
@@ -5766,3 +5766,14 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Topic: `stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis`
 - File: `10-supernovae-and-neutrino-nucleosynthesis.md`
 - Coverage: 15 new advanced-native stellar astrophysics, core-collapse supernovae (CCSN), SASI 3D GR-MHD simulations, neutrino-driven wind r-process nucleosynthesis, and multi-messenger astronomy headwords across news_formal in one target_set passage.
+- Topic: `paleoclimatology-speleothem-isotopes-and-orbital-forcing`
+- File: `01-speleothem-isotopes-and-orbital-forcing.md`
+- Coverage: 15 new advanced-native paleoclimatology, speleothem oxygen isotopes, U-Th dating, Milankovitch orbital cycles, and Heinrich events headwords across news_formal in one target_set passage.
+
+- Topic: `quantum-thermodynamics-fluctuation-theorems-and-quantum-heat-engines`
+- File: `02-fluctuation-theorems-and-quantum-heat-engines.md`
+- Coverage: 15 new advanced-native quantum thermodynamics, Jarzynski equality, Crooks fluctuation theorem, quantum Otto engines, and Maxwell's demon information thermodynamics headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-ocean-governance-unclos-and-marine-genetic-resources`
+- File: `03-unclos-and-marine-genetic-resources.md`
+- Coverage: 10 new advanced-native comparative ocean governance, UNCLOS BBNJ agreement, high seas marine genetic resources benefit-sharing, and ITLOS climate change advisory opinion headwords across news_formal in one target_set passage.

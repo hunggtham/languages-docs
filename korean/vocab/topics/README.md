@@ -772,6 +772,10 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [분자바이러스학 및 캡시드 자기조립과 초저온전자현미경 구조의 언어](./molecular-virology-viral-capsid-assembly-and-cryo-em-structure/README.md) — `분자바이러스학바이러스캡시드자기조립동역학해석 및 초저온전자현미경원자해상도삼차원구조재구성기술 기반 이십면체대칭성캡소미어준등가성단백질결합계면규명과 바이러스외피당단백질막융합전이상태구조생물학분석 바이러스구조생물학`
 - [항성천체물리학 및 중심핵 붕괴 초신성과 중성미자 핵합성의 언어](./stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis/README.md) — `항성천체물리학중심핵붕괴초신성중성미자핵합성연구 및 정재강착충격파불안정성삼차원자기유체역학시뮬레이션 기반 중성미자구동풍알프로세스중원소합성원자로경로규명과 중성자별형성양자축퇴압원시중성자별냉각메커니즘 항성진화천체물리학`
 
+- [고기후학 및 동굴생성물 동위원소와 궤도 강제력의 언어](./paleoclimatology-speleothem-isotopes-and-orbital-forcing/README.md) — `고기후학동굴생성물산소동위원소궤도강제력변동복원 및 석순우라늄토륨방사성연대측정열이온화질량분석기술 기반 밀란코비치주기지구자전축기울기세차운동일사량변화와 동아시아몬순강수량변동성동굴석순산소동위원소기록 고환경동위원소지화학`
+- [양자열역학 및 요동 정리와 양자 열기관의 언어](./quantum-thermodynamics-fluctuation-theorems-and-quantum-heat-engines/README.md) — `양자열역학야르친스키항등식크룩스요동정리실험검증 및 비평형양자계자유에너지차이측정양자일분포함수도출 기반 양자결맞음기반오토열기관열역학적효율출력밀도최적화와 린드블라드마스터방정식개방양자계엔트로피생성률계산 미시양자열역학`
+- [비교해양거버넌스 및 유엔해양법협약과 해양유전자원의 언어](./comparative-ocean-governance-unclos-and-marine-genetic-resources/README.md) — `유엔해양법협약국가관할권이원지역해양생물다양성협정 및 공해상해양유전자원접근및이익공유디지털염기서열정보 기반 인류공동유산원칙공해자유원칙상충법익형량사법심사기준과 국제해저기구심해저광물자원개발환경영향평가규제체계 국제해양환경법`
+
 ## 생성 원칙
 
 - 각 file dùng title và heading bằng tiếng Hàn; `품사` đặt dưới title của từng mục.
