@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** tốc độ tăng trưởng tiềm năng.
 
-**뉘앙스와 사용법:** 올해 실제 성장률과 달리 노동·자본·생산성의 구조적 능력을 추정하는 지표다.
+**뉘앙스와 사용법:** Khác với tốc độ tăng trưởng thực tế năm nay, đây là chỉ số ước tính năng lực cơ cấu lao động, vốn và năng suất.
 
-**재사용 가능한 콜로케이션·청크:** `잠재성장률 하락`, `잠재성장률 제고`, `잠재성장률 추정치`.
+**재사용 가능한 콜로케이션·청크:** `잠재성장률 하락`, `잠재성장률 제고`, `잠재성장률 추정치`. — `Tốc độ tăng trưởng tiềm năng giảm`, `Tốc độ tăng trưởng tiềm năng được cải thiện`, `Tốc độ tăng trưởng tiềm năng ước tính`.
 
-**자주 쓰는 문형과 성분:** `연구기관이 잠재성장률을 전망하다`; 생산성·인구·투자와 결합한다.
+**자주 쓰는 문형과 성분:** `연구기관이 잠재성장률을 전망하다`, `Viện nghiên cứu dự đoán tốc độ tăng trưởng tiềm năng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 거시경제·재정·인구정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về chính sách kinh tế vĩ mô, tài chính và dân số.
 
 **예문:** 출생률 하락이 계속되면 노동 공급 감소로 잠재성장률도 낮아질 수 있다.
 
-**어휘 연결:** `경제성장률`은 실제 기간의 결과이고, `잠재성장률`은 구조적으로 지속 가능한 성장 능력이다.
+**Dịch:** Nếu tỷ lệ sinh tiếp tục giảm, tốc độ tăng trưởng tiềm năng cũng có thể giảm do nguồn cung lao động giảm.
 
-**영어 참고:** *potential growth rate* — 물가 불안을 크게 높이지 않고 지속할 수 있는 장기 성장률이다.
+**어휘 연결:** `경제성장률`은 실제 기간의 결과이고, `잠재성장률`은 구조적으로 지속 가능한 성장 능력이다. — 'Tốc độ tăng trưởng kinh tế' là kết quả của giai đoạn thực tế và 'tốc độ tăng trưởng tiềm năng' là khả năng tăng trưởng bền vững về mặt cấu trúc.
+
+**영어 참고:** *potential growth rate* — Đây là tốc độ tăng trưởng dài hạn có thể được duy trì mà không làm tăng đáng kể sự bất ổn về giá.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** tiền lương thực tế.
 
-**뉘앙스와 사용법:** 월급 액수가 올랐는지보다 노동자의 구매력이 개선됐는지를 판단하는 지표다.
+**뉘앙스와 사용법:** Đây là chỉ số xác định sức mua của người lao động có được cải thiện hay không chứ không phải lương tháng có tăng hay không.
 
-**재사용 가능한 콜로케이션·청크:** `실질임금 하락`, `실질임금 상승률`, `실질임금 정체`.
+**재사용 가능한 콜로케이션·청크:** `실질임금 하락`, `실질임금 상승률`, `실질임금 정체`. — 'Giảm lương thực tế', 'Tốc độ tăng trưởng tiền lương thực tế', 'Tiền lương trì trệ thực tế'.
 
-**자주 쓰는 문형과 성분:** `물가가 실질임금을 잠식하다`; 소비·구매력·임금협상과 결합한다.
+**자주 쓰는 문형과 성분:** `물가가 실질임금을 잠식하다`, `Giá cả đang ăn vào tiền lương thực tế` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제통계·노동시장·가계소득 보도의 핵심어다.
+**사회적 관계·주제별 register:** Từ khóa trong thống kê kinh tế, thị trường lao động và báo cáo thu nhập hộ gia đình.
 
 **예문:** 명목 임금이 올라도 식료품과 주거비가 더 오르면 실질임금은 줄어들 수 있다.
 
-**어휘 연결:** `명목임금`은 계약서상의 금액이고, `실질임금`은 물가를 고려한 실제 생활 여력이다.
+**Dịch:** Ngay cả khi tiền lương danh nghĩa tăng, tiền lương thực tế có thể giảm nếu chi phí thực phẩm và nhà ở tăng thêm.
 
-**영어 참고:** *real wages* — 물가 변동을 반영한 노동자의 실제 임금 가치다.
+**어휘 연결:** `명목임금`은 계약서상의 금액이고, `실질임금`은 물가를 고려한 실제 생활 여력이다. — 'Mức lương danh nghĩa' là số tiền được quy định trong hợp đồng và 'mức lương thực tế' là khả năng sống thực tế khi xét đến giá cả.
+
+**영어 참고:** *real wages* — Đây là giá trị lương thực tế của công nhân phản ánh sự thay đổi về giá.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** nén chênh lệch tiền lương.
 
-**뉘앙스와 사용법:** 저임금 개선의 결과일 수도 있지만 숙련과 책임에 대한 보상이 약해지는 문제로도 분석된다.
+**뉘앙스와 사용법:** Đây có thể là kết quả của việc cải thiện mức lương thấp, nhưng nó cũng được phân tích là vấn đề làm suy yếu chế độ đãi ngộ cho kỹ năng và trách nhiệm.
 
-**재사용 가능한 콜로케이션·청크:** `임금압축 현상`, `임금압축 완화`, `상하위 임금압축`.
+**재사용 가능한 콜로케이션·청크:** `임금압축 현상`, `임금압축 완화`, `상하위 임금압축`. — `Hiện tượng nén tiền lương`, `Dễ dàng nén tiền lương`, `Ép nén tiền lương ở trên và dưới`.
 
-**자주 쓰는 문형과 성분:** `호봉제가 임금압축을 낳다`; 최저임금·숙련·승진과 결합한다.
+**자주 쓰는 문형과 성분:** `호봉제가 임금압축을 낳다`, `Hệ thống trả lương tạo ra sự nén lương` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동경제·인사제도·임금체계 개편의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ kinh tế lao động, hệ thống nhân sự và cải cách hệ thống tiền lương.
 
 **예문:** 초임이 빠르게 오르는데 중간 경력자의 임금이 그대로면 조직 안에서 임금압축 불만이 커질 수 있다.
 
-**어휘 연결:** `임금격차`는 차이의 크기이고, `임금압축`은 그 차이가 좁아지는 구조적 현상이다.
+**Dịch:** Nếu mức lương khởi điểm tăng nhanh nhưng mức lương của người lao động ở độ tuổi trung niên vẫn giữ nguyên thì sự không hài lòng với việc bị nén lương có thể tăng lên trong tổ chức.
 
-**영어 참고:** *wage compression* — 숙련이나 직급 간 임금 차이가 줄어드는 현상이다.
+**어휘 연결:** `임금격차`는 차이의 크기이고, `임금압축`은 그 차이가 좁아지는 구조적 현상이다. — 'Khoảng cách tiền lương' là quy mô của sự khác biệt và 'sự nén tiền lương' là một hiện tượng cấu trúc giúp thu hẹp khoảng cách.
+
+**영어 참고:** *wage compression* — Đây là hiện tượng trong đó khoảng cách về lương giữa kỹ năng và vị trí ngày càng giảm.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** chất lượng việc làm.
 
-**뉘앙스와 사용법:** 취업자 수가 늘어도 불안정하고 저임금이면 고용의 질이 낮다고 평가한다.
+**뉘앙스와 사용법:** Ngay cả khi số lượng người có việc làm tăng lên, nếu tiền lương không ổn định và thấp thì chất lượng việc làm được đánh giá là thấp.
 
-**재사용 가능한 콜로케이션·청크:** `고용의 질 개선`, `고용의 질 지표`, `고용의 질 악화`.
+**재사용 가능한 콜로케이션·청크:** `고용의 질 개선`, `고용의 질 지표`, `고용의 질 악화`. — `Cải thiện chất lượng việc làm`, `Chỉ số chất lượng việc làm`, `Suy giảm chất lượng việc làm`.
 
-**자주 쓰는 문형과 성분:** `정책이 고용의 질을 높이다`; 정규직·사회보험·임금과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 고용의 질을 높이다`, `Chính sách nâng cao chất lượng việc làm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동정책·통계·기업 책임의 추상 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ cấp cao trừu tượng về chính sách lao động, số liệu thống kê và trách nhiệm của doanh nghiệp.
 
 **예문:** 청년 취업자 수만 발표하기보다 고용의 질과 장기 근속 가능성도 함께 공개해야 한다.
 
-**어휘 연결:** `고용률`은 일자리의 양이고, `고용의 질`은 그 일자리가 삶을 얼마나 안정시키는지 본다.
+**Dịch:** Thay vì chỉ công bố số lượng người trẻ được tuyển dụng, chất lượng việc làm và khả năng làm việc lâu dài cũng nên được công bố.
 
-**영어 참고:** *job quality* — 임금·안정성·권리·발전 가능성을 포함한 일자리의 수준이다.
+**어휘 연결:** `고용률`은 일자리의 양이고, `고용의 질`은 그 일자리가 삶을 얼마나 안정시키는지 본다. — ‘Tỷ lệ việc làm’ là số lượng việc làm và ‘chất lượng việc làm’ phản ánh mức độ ổn định của công việc trong cuộc sống.
+
+**영어 참고:** *job quality* — Mức độ công việc bao gồm tiền lương, sự ổn định, quyền lợi và tiềm năng phát triển.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** tính lưu động của lao động.
 
-**뉘앙스와 사용법:** 자유로운 이직만이 아니라 자격 인정, 주거 비용, 재교육, 채용 정보 같은 조건을 함께 분석한다.
+**뉘앙스와 사용법:** Ngoài việc thay đổi công việc miễn phí, các điều kiện như công nhận bằng cấp, chi phí nhà ở, đào tạo lại và thông tin việc làm cũng được phân tích.
 
-**재사용 가능한 콜로케이션·청크:** `노동이동성 제고`, `노동이동성 저하`, `지역 간 노동이동성`.
+**재사용 가능한 콜로케이션·청크:** `노동이동성 제고`, `노동이동성 저하`, `지역 간 노동이동성`. — `Cải thiện khả năng di chuyển lao động`, `Suy giảm khả năng di chuyển lao động`, `Di chuyển lao động giữa các vùng`.
 
-**자주 쓰는 문형과 성분:** `주거비가 노동이동성을 낮추다`; 전직·숙련·지역 격차와 결합한다.
+**자주 쓰는 문형과 성분:** `주거비가 노동이동성을 낮추다`, `Chi phí nhà ở làm giảm tính di chuyển của lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동경제·산업전환·인력정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ về kinh tế lao động, chuyển đổi công nghiệp và chính sách nguồn nhân lực.
 
 **예문:** 노동이동성이 낮으면 성장 산업에 인력이 부족해도 다른 지역의 노동자가 쉽게 이동하지 못한다.
 
-**어휘 연결:** `이직률`은 실제로 직장을 바꾼 비율이고, `노동이동성`은 이동이 가능한 구조적 여건이다.
+**Dịch:** Nếu khả năng di chuyển lao động thấp, người lao động từ các vùng khác không thể dễ dàng di chuyển ngay cả khi thiếu nhân lực trong một ngành đang phát triển.
 
-**영어 참고:** *labor mobility* — 노동자가 직업·지역·산업 사이를 이동할 수 있는 정도다.
+**어휘 연결:** `이직률`은 실제로 직장을 바꾼 비율이고, `노동이동성`은 이동이 가능한 구조적 여건이다. — 'Tỷ lệ luân chuyển' là tỷ lệ người dân thực sự thay đổi công việc và 'sự di chuyển lao động' là các điều kiện cơ cấu cho phép di chuyển.
+
+**영어 참고:** *labor mobility* — Mức độ mà người lao động có thể di chuyển giữa các ngành nghề, khu vực và ngành.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** sự lệch pha kỹ năng.
 
-**뉘앙스와 사용법:** 사람이 부족한지뿐 아니라 과잉 학력, 직무 전환 실패, 지역별 기술 수요 차이까지 포함한다.
+**뉘앙스와 사용법:** Điều này không chỉ bao gồm liệu có thiếu người hay không mà còn bao gồm trình độ học vấn quá cao, khả năng chuyển đổi công việc và sự khác biệt về nhu cầu kỹ năng theo khu vực.
 
-**재사용 가능한 콜로케이션·청크:** `숙련 미스매치 해소`, `숙련 미스매치 심화`, `산업별 숙련 미스매치`.
+**재사용 가능한 콜로케이션·청크:** `숙련 미스매치 해소`, `숙련 미스매치 심화`, `산업별 숙련 미스매치`. — 'Giải quyết sự không phù hợp về kỹ năng', 'Tăng cường sự không phù hợp về kỹ năng', 'Kỹ năng không phù hợp theo ngành'.
 
-**자주 쓰는 문형과 성분:** `교육과 현장의 숙련 미스매치가 커지다`; 채용·재교육·자동화와 결합한다.
+**자주 쓰는 문형과 성분:** `교육과 현장의 숙련 미스매치가 커지다`, `Sự không phù hợp giữa trình độ học vấn và kỹ năng thực địa ngày càng gia tăng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 직업교육·산업정책·고용 분석의 고급 차용어다.
+**사회적 관계·주제별 register:** Đây là từ mượn nâng cao dành cho giáo dục nghề nghiệp, chính sách công nghiệp và phân tích việc làm.
 
 **예문:** 대학 졸업자 수가 많아도 숙련 미스매치가 크면 기업은 현장 인력을 구하기 어렵다.
 
-**어휘 연결:** `인력 부족`은 사람 수의 문제이고, `숙련 미스매치`는 필요한 능력과 보유 능력의 불일치다.
+**Dịch:** Ngay cả khi có số lượng lớn sinh viên tốt nghiệp đại học, nếu kỹ năng không phù hợp nhiều, các công ty khó tìm được nhân sự tại chỗ.
 
-**영어 참고:** *skills mismatch* — 노동자의 기술과 일자리 요구가 맞지 않는 현상이다.
+**어휘 연결:** `인력 부족`은 사람 수의 문제이고, `숙련 미스매치`는 필요한 능력과 보유 능력의 불일치다. — 'Thiếu hụt nhân lực' là vấn đề về số lượng người và 'kỹ năng không phù hợp' là sự không phù hợp giữa khả năng cần thiết và khả năng sở hữu.
+
+**영어 참고:** *skills mismatch* — Đây là hiện tượng kỹ năng của người lao động và nhu cầu công việc không phù hợp.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** vốn nhân lực.
 
-**뉘앙스와 사용법:** 개인의 자산을 말하면서도 교육과 건강에 대한 공공투자가 경제 전체의 성장 기반이라는 의미를 갖는다.
+**뉘앙스와 사용법:** Mặc dù đề cập đến tài sản cá nhân nhưng nó cũng có nghĩa là đầu tư công vào giáo dục và y tế là cơ sở cho sự tăng trưởng của toàn bộ nền kinh tế.
 
-**재사용 가능한 콜로케이션·청크:** `인적자본 축적`, `인적자본 투자`, `인적자본 격차`.
+**재사용 가능한 콜로케이션·청크:** `인적자본 축적`, `인적자본 투자`, `인적자본 격차`. — `Tích lũy vốn con người`, `Đầu tư vốn con người`, `Khoảng cách vốn con người`.
 
-**자주 쓰는 문형과 성분:** `교육이 인적자본을 키우다`; 숙련·생산성·평생학습과 결합한다.
+**자주 쓰는 문형과 성분:** `교육이 인적자본을 키우다`, `Giáo dục phát triển vốn con người` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제성장·교육·노동생산성의 추상 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ cấp cao trừu tượng về tăng trưởng kinh tế, giáo dục và năng suất lao động.
 
 **예문:** 인적자본 투자가 줄면 단기 고용보다 장기 생산성과 혁신 역량이 먼저 약해질 수 있다.
 
-**어휘 연결:** `인력`은 사람의 수나 구성이고, `인적자본`은 사람에게 축적된 능력의 경제적 가치를 강조한다.
+**Dịch:** Nếu đầu tư vốn nhân lực giảm, năng suất dài hạn và năng lực đổi mới có thể suy yếu trước khi có việc làm ngắn hạn.
 
-**영어 참고:** *human capital* — 지식·기술·건강 등 사람에게 축적된 생산 능력이다.
+**어휘 연결:** `인력`은 사람의 수나 구성이고, `인적자본`은 사람에게 축적된 능력의 경제적 가치를 강조한다. — 'Nhân lực' là số lượng hoặc thành phần con người và 'vốn con người' nhấn mạnh giá trị kinh tế của những khả năng được tích lũy trong con người.
+
+**영어 참고:** *human capital* — Đây là năng lực sản xuất được tích lũy trong con người, bao gồm kiến ​​thức, công nghệ và sức khỏe.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** đào tạo chuyển đổi nghề/kỹ năng.
 
-**뉘앙스와 사용법:** 단순한 자격증 취득이 아니라 실제 채용 수요와 연결된 직무 전환을 목표로 한다.
+**뉘앙스와 사용법:** Mục tiêu không chỉ đơn giản là đạt được chứng chỉ mà còn là chuyển đổi công việc gắn liền với nhu cầu tuyển dụng thực tế.
 
-**재사용 가능한 콜로케이션·청크:** `산업전환 전환교육`, `전환교육 프로그램`, `전환교육 참여`.
+**재사용 가능한 콜로케이션·청크:** `산업전환 전환교육`, `전환교육 프로그램`, `전환교육 참여`. — `Giáo dục chuyển đổi chuyển đổi công nghiệp`, `Chương trình giáo dục chuyển tiếp`, `Tham gia vào giáo dục chuyển đổi`.
 
-**자주 쓰는 문형과 성분:** `정부가 전환교육을 지원하다`; 자동화·재취업·직업훈련과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 전환교육을 지원하다`, `Chính phủ hỗ trợ giáo dục chuyển tiếp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동시장 전환·평생교육·산업정책의 정책어다.
+**사회적 관계·주제별 register:** Từ chính sách về chuyển đổi thị trường lao động, giáo dục suốt đời và chính sách công nghiệp.
 
 **예문:** 전환교육이 성공하려면 수료 인원보다 실제 취업과 임금 변화를 추적해야 한다.
 
-**어휘 연결:** `재교육`은 다시 배우는 넓은 표현이고, `전환교육`은 산업이나 직무 이동을 위한 목적을 분명히 한다.
+**Dịch:** Để đào tạo chuyển tiếp thành công, những thay đổi về việc làm và tiền lương thực tế phải được theo dõi thay vì số lượng sinh viên tốt nghiệp.
 
-**영어 참고:** *transition training* — 산업 변화에 맞춰 새로운 직무 능력을 익히는 교육이다.
+**어휘 연결:** `재교육`은 다시 배우는 넓은 표현이고, `전환교육`은 산업이나 직무 이동을 위한 목적을 분명히 한다. — 'Giáo dục lại' là một cách diễn đạt rộng để học lại và 'giáo dục chuyển đổi' chỉ rõ mục đích của việc chuyển sang một ngành hoặc công việc.
+
+**영어 참고:** *transition training* — Đây là chương trình đào tạo để học các kỹ năng công việc mới phù hợp với những thay đổi của ngành.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** tái thiết kế công việc.
 
-**뉘앙스와 사용법:** 사람을 줄이는 구조조정과 달리 자동화가 맡을 일과 사람이 판단할 일을 나누어 일의 질을 바꾸는 접근이다.
+**뉘앙스와 사용법:** Không giống như tái cơ cấu làm giảm số lượng người, đây là cách tiếp cận làm thay đổi chất lượng công việc bằng cách phân chia các nhiệm vụ được tự động hóa xử lý và các nhiệm vụ do con người đánh giá.
 
-**재사용 가능한 콜로케이션·청크:** `직무 재설계 추진`, `직무 재설계 모델`, `현장 중심 직무 재설계`.
+**재사용 가능한 콜로케이션·청크:** `직무 재설계 추진`, `직무 재설계 모델`, `현장 중심 직무 재설계`. — `Thúc đẩy thiết kế lại công việc`, `Mô hình thiết kế lại công việc`, `Thiết kế lại công việc lấy lĩnh vực làm trung tâm`.
 
-**자주 쓰는 문형과 성분:** `기업이 직무를 재설계하다`; AI·자동화·직원 참여와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 직무를 재설계하다`, `Công ty thiết kế lại công việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 조직혁신·노동생산성·인사 전략의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao chỉ sự đổi mới tổ chức, năng suất lao động và chiến lược nhân sự.
 
 **예문:** 직무 재설계는 자동화로 사라지는 업무와 새로 필요한 판단 업무를 함께 분석해야 한다.
 
-**어휘 연결:** `업무 분장`은 현재 역할을 나누는 일이고, `직무 재설계`는 변화에 맞춰 역할 자체를 다시 만든다.
+**Dịch:** Thiết kế lại công việc sẽ phân tích các nhiệm vụ biến mất do tự động hóa và các nhiệm vụ phán đoán mới được yêu cầu.
 
-**영어 참고:** *job redesign* — 업무의 내용·권한·협업 구조를 새롭게 설계하는 일이다.
+**어휘 연결:** `업무 분장`은 현재 역할을 나누는 일이고, `직무 재설계`는 변화에 맞춰 역할 자체를 다시 만든다. — 'Phân chia nhiệm vụ' đang phân chia vai trò hiện tại và 'thiết kế lại công việc' đang tự tạo lại vai trò đó theo sự thay đổi.
+
+**영어 참고:** *job redesign* — Đó là về việc thiết kế lại nội dung, quyền hạn và cấu trúc cộng tác của công việc.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** suy giảm nguồn cung lao động.
 
-**뉘앙스와 사용법:** 단순한 취업자 감소와 달리 생산가능인구, 여성·고령자 참여, 노동시간을 함께 고려한다.
+**뉘앙스와 사용법:** Không giống như sự suy giảm đơn giản về số người có việc làm, dân số trong độ tuổi lao động, sự tham gia của phụ nữ và người già và giờ làm việc cũng được xem xét.
 
-**재사용 가능한 콜로케이션·청크:** `노동공급 감소에 대응`, `노동공급 감소 전망`, `구조적 노동공급 감소`.
+**재사용 가능한 콜로케이션·청크:** `노동공급 감소에 대응`, `노동공급 감소 전망`, `구조적 노동공급 감소`. — ‘Phản ứng với sự suy giảm nguồn cung lao động’, ‘Triển vọng suy giảm nguồn cung lao động’, ‘Suy giảm cơ cấu nguồn cung lao động’.
 
-**자주 쓰는 문형과 성분:** `인구 감소가 노동공급을 줄이다`; 자동화·이민·고령고용과 결합한다.
+**자주 쓰는 문형과 성분:** `인구 감소가 노동공급을 줄이다`, `Giảm dân số làm giảm nguồn cung lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 인구경제·재정·산업전략의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về kinh tế dân số, tài chính và chiến lược công nghiệp.
 
 **예문:** 노동공급 감소가 예상되면 기업은 채용 경쟁보다 자동화와 숙련 유지에 투자해야 한다.
 
-**어휘 연결:** `인력 부족`은 특정 시점의 채용 어려움이고, `노동공급 감소`는 인구와 참여율의 장기 구조 변화다.
+**Dịch:** Nếu dự kiến ​​nguồn cung lao động sẽ giảm, các công ty nên đầu tư vào tự động hóa và duy trì kỹ năng thay vì cạnh tranh tuyển dụng.
 
-**영어 참고:** *decline in labor supply* — 일할 수 있고 일하려는 사람의 규모가 줄어드는 현상이다.
+**어휘 연결:** `인력 부족`은 특정 시점의 채용 어려움이고, `노동공급 감소`는 인구와 참여율의 장기 구조 변화다. — 'Thiếu hụt nhân lực' là khó khăn trong việc tuyển dụng tại một thời điểm cụ thể và 'giảm nguồn cung lao động' là sự thay đổi cơ cấu dài hạn về dân số và tỷ lệ tham gia.
+
+**영어 참고:** *decline in labor supply* — Đây là hiện tượng số người có thể và sẵn sàng làm việc ngày càng giảm.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** việc làm người cao tuổi.
 
-**뉘앙스와 사용법:** 정년 연장만이 아니라 건강 상태, 일자리의 질, 연령 차별, 연금과의 관계를 함께 다룬다.
+**뉘앙스와 사용법:** Nó không chỉ đề cập đến việc gia hạn tuổi nghỉ hưu mà còn bao gồm mối quan hệ giữa tình trạng sức khỏe, chất lượng công việc, phân biệt tuổi tác và lương hưu.
 
-**재사용 가능한 콜로케이션·청크:** `고령고용 확대`, `고령고용의 질`, `고령고용 정책`.
+**재사용 가능한 콜로케이션·청크:** `고령고용 확대`, `고령고용의 질`, `고령고용 정책`. — `Mở rộng việc làm cho người cao tuổi`, `Chất lượng việc làm cho người cao tuổi`, `Chính sách việc làm cho người cao tuổi`.
 
-**자주 쓰는 문형과 성분:** `기업이 고령고용을 늘리다`; 정년·연금·직무 재설계와 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 고령고용을 늘리다`, `Các công ty tăng cường việc làm cho người cao tuổi` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 고령사회·노동정책·연금 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo về xã hội già hóa, chính sách lao động và lương hưu.
 
 **예문:** 고령고용을 확대하려면 단순 반복 업무보다 경험을 활용할 수 있는 직무를 설계해야 한다.
 
-**어휘 연결:** `노인 일자리`는 복지 사업까지 포함하고, `고령고용`은 노동시장 참여와 제도 설계를 분석한다.
+**Dịch:** Để mở rộng việc làm cho người lớn tuổi, phải thiết kế những công việc có thể tận dụng kinh nghiệm thay vì những công việc lặp đi lặp lại đơn giản.
 
-**영어 참고:** *older-worker employment* — 고령자의 노동시장 참여와 고용 정책이다.
+**어휘 연결:** `노인 일자리`는 복지 사업까지 포함하고, `고령고용`은 노동시장 참여와 제도 설계를 분석한다. — 'Việc làm cấp cao' bao gồm các dự án phúc lợi và 'việc làm người cao tuổi' phân tích sự tham gia thị trường lao động và thiết kế hệ thống.
+
+**영어 참고:** *older-worker employment* — Chính sách việc làm và tham gia thị trường lao động của người cao tuổi.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** sự rỗng hóa công nghiệp.
 
-**뉘앙스와 사용법:** 공장 하나의 이전보다 협력업체·인력·기술·상권이 연쇄적으로 사라지는 구조적 변화를 강조한다.
+**뉘앙스와 사용법:** Thay vì di dời một nhà máy duy nhất, nó nhấn mạnh đến sự thay đổi cơ cấu trong đó các đối tác, nguồn nhân lực, công nghệ và khu vực thương mại lần lượt biến mất.
 
-**재사용 가능한 콜로케이션·청크:** `산업공동화 우려`, `지역 산업공동화`, `산업공동화 방지`.
+**재사용 가능한 콜로케이션·청크:** `산업공동화 우려`, `지역 산업공동화`, `산업공동화 방지`. — 'Mối quan ngại về việc gộp chung công nghiệp', 'Hợp tác công nghiệp theo khu vực', 'Ngăn chặn việc gộp chung công nghiệp'.
 
-**자주 쓰는 문형과 성분:** `생산기지 이전이 산업공동화를 부르다`; 해외 이전·지역경제·일자리와 결합한다.
+**자주 쓰는 문형과 성분:** `생산기지 이전이 산업공동화를 부르다`, `Di dời cơ sở sản xuất dẫn đến công nghiệp hóa` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 산업정책·지역경제·공급망 보도의 추상 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ cấp cao trừu tượng về chính sách công nghiệp, nền kinh tế khu vực và báo cáo chuỗi cung ứng.
 
 **예문:** 핵심 공정이 해외로만 이전되면 지역의 산업공동화와 숙련 단절이 동시에 진행될 수 있다.
 
-**어휘 연결:** `탈산업화`는 산업 비중의 장기 하락이고, `산업공동화`는 특정 지역이나 생태계가 비어 가는 효과를 강조한다.
+**Dịch:** Nếu các quy trình cốt lõi chỉ được chuyển giao ra nước ngoài thì quá trình công nghiệp hóa khu vực và sự mất kết nối kỹ năng có thể xảy ra đồng thời.
 
-**영어 참고:** *industrial hollowing-out* — 생산·기업·일자리가 빠져 산업 기반이 약해지는 현상이다.
+**어휘 연결:** `탈산업화`는 산업 비중의 장기 하락이고, `산업공동화`는 특정 지역이나 생태계가 비어 가는 효과를 강조한다. — 'Khử công nghiệp hóa' là sự suy giảm dài hạn về tỷ trọng của các ngành công nghiệp và 'công nghiệp hóa' nhấn mạnh tác động của việc làm trống một khu vực hoặc hệ sinh thái cụ thể.
+
+**영어 참고:** *industrial hollowing-out* — Đây là hiện tượng cơ sở công nghiệp bị suy yếu do mất sản xuất, công ty và việc làm.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** năng suất lao động.
 
-**뉘앙스와 사용법:** 노동 강도를 높이는 것과 다르며 기술·자본·조직·숙련이 산출에 기여하는 정도를 함께 본다.
+**뉘앙스와 사용법:** Nó khác với cường độ lao động ngày càng tăng và cũng xem xét mức độ mà công nghệ, vốn, tổ chức và kỹ năng đóng góp vào sản lượng.
 
-**재사용 가능한 콜로케이션·청크:** `노동생산성 제고`, `노동생산성 둔화`, `시간당 노동생산성`.
+**재사용 가능한 콜로케이션·청크:** `노동생산성 제고`, `노동생산성 둔화`, `시간당 노동생산성`. — `Nâng cao năng suất lao động`, `Giảm tốc độ năng suất lao động`, `Năng suất lao động mỗi giờ`.
 
-**자주 쓰는 문형과 성분:** `기업이 노동생산성을 높이다`; 자동화·숙련·근로시간과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 노동생산성을 높이다`, `Các công ty tăng năng suất lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 거시경제·산업경쟁력·임금정책의 핵심어다.
+**사회적 관계·주제별 register:** Từ khóa trong kinh tế vĩ mô, năng lực cạnh tranh công nghiệp và chính sách tiền lương.
 
 **예문:** 노동생산성을 높이려면 근로시간을 늘리기보다 기술 투자와 직무 재설계를 병행해야 한다.
 
-**어휘 연결:** `생산량`은 결과의 규모이고, `노동생산성`은 투입된 노동 대비 산출의 효율이다.
+**Dịch:** Để tăng năng suất lao động, nên kết hợp đầu tư công nghệ và thiết kế lại công việc thay vì tăng giờ làm.
 
-**영어 참고:** *labor productivity* — 노동 투입 한 단위가 만들어 내는 산출이나 부가가치다.
+**어휘 연결:** `생산량`은 결과의 규모이고, `노동생산성`은 투입된 노동 대비 산출의 효율이다. — ‘Khối lượng sản xuất’ là thang đo của kết quả và ‘năng suất lao động’ là hiệu quả của đầu ra so với đầu vào lao động.
+
+**영어 참고:** *labor productivity* — Đây là sản lượng hoặc giá trị gia tăng được tạo ra bởi một đơn vị lao động đầu vào.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** người làm N nghề.
 
-**뉘앙스와 사용법:** 경제적 필요와 자기계발·자산 형성을 모두 포함하며, 현재 뉴스·메신저·직장 대화에서 활발하게 쓰인다.
+**뉘앙스와 사용법:** Bao gồm cả nhu cầu kinh tế, phát triển bản thân và hình thành tài sản và hiện đang được sử dụng tích cực trong tin tức, trình nhắn tin và cuộc trò chuyện tại nơi làm việc.
 
-**재사용 가능한 콜로케이션·청크:** `N잡러가 되다`, `N잡러 생활`, `N잡러 부업`.
+**재사용 가능한 콜로케이션·청크:** `N잡러가 되다`, `N잡러 생활`, `N잡러 부업`. — ‘Trở thành N-jobber’, ‘Cuộc sống của một N-jobber’, ‘Công việc phụ của N-jobber’.
 
-**자주 쓰는 문형과 성분:** `직장인이 N잡러로 활동하다`; 부업·플랫폼·소득과 결합한다.
+**자주 쓰는 문형과 성분:** `직장인이 N잡러로 활동하다`, `Nhân viên văn phòng làm việc như N-jobbers` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 경제 기사·커뮤니티·직장 대화의 contemporary 비격식 표현이다.
+**사회적 관계·주제별 register:** Cách diễn đạt không chính thức đương đại dành cho các bài viết về kinh tế, cộng đồng và cuộc trò chuyện tại nơi làm việc.
 
 **예문:** 물가와 주거비가 오르면서 퇴근 후 부업을 하는 N잡러가 늘고 있어.
 
-**어휘 연결:** `겸업`은 제도·근로계약의 공식어이고, `N잡러`는 여러 소득원을 가진 사람의 생활방식과 정체성을 강조한다.
+**Dịch:** Khi lạm phát và chi phí nhà ở tăng lên, số lượng người làm công việc thứ hai sau giờ làm việc ngày càng tăng.
 
-**영어 참고:** *multi-jobber/portfolio worker* — 여러 일과 소득원을 병행하는 사람이다.
+**어휘 연결:** `겸업`은 제도·근로계약의 공식어이고, `N잡러`는 여러 소득원을 가진 사람의 생활방식과 정체성을 강조한다. — 'Việc làm đồng thời' là thuật ngữ chính thức cho hệ thống và hợp đồng lao động, còn 'N-jobber' nhấn mạnh lối sống và bản sắc của những người có nhiều nguồn thu nhập.
+
+**영어 참고:** *multi-jobber/portfolio worker* — Người kết hợp nhiều công việc và nguồn thu nhập.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** cuộc sống “thần thánh”, sống kỷ luật và năng suất.
 
-**뉘앙스와 사용법:** 자기관리의 성취감을 표현하지만, 생산성과 자기계발을 끊임없이 증명해야 한다는 압박을 비꼬는 데도 쓰인다.
+**뉘앙스와 사용법:** Nó thể hiện cảm giác đạt được thành tựu thông qua việc tự quản lý, nhưng cũng được dùng để chế nhạo áp lực phải không ngừng chứng tỏ năng suất và sự phát triển bản thân.
 
-**재사용 가능한 콜로케이션·청크:** `갓생 루틴`, `갓생 살기`, `갓생 브이로그`.
+**재사용 가능한 콜로케이션·청크:** `갓생 루틴`, `갓생 살기`, `갓생 브이로그`. — 'Thói quen của sinh viên năm nhất', 'Cuộc sống của sinh viên năm nhất', 'Vlog của sinh viên năm nhất'.
 
-**자주 쓰는 문형과 성분:** `요즘 갓생을 살다`; 루틴·공부·운동·부업과 결합한다.
+**자주 쓰는 문형과 성분:** `요즘 갓생을 살다`, `Sống như sinh viên năm nhất ngày nay` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** SNS·메신저·청년 문화 기사에서 현재적으로 쓰이는 신조어다.
+**사회적 관계·주제별 register:** Một từ mới hiện đang được sử dụng trong các bài viết về SNS, Messenger và văn hóa giới trẻ.
 
 **예문:** 아침 운동과 자격증 공부를 꾸준히 하는 친구를 보며 나도 갓생을 살아 보려고 했어.
 
-**어휘 연결:** `자기계발`은 활동 분야이고, `갓생`은 그 활동을 생활 전체의 규율과 정체성으로 묶는 표현이다.
+**Dịch:** Thấy bạn tôi đều đặn tập thể dục buổi sáng và học để lấy chứng chỉ, tôi cũng cố gắng sống một cuộc sống mới.
 
-**영어 참고:** *a disciplined, optimized life* — 자기관리와 생산성을 극대화하려는 생활방식을 가볍게 부르는 말이다.
+**어휘 연결:** `자기계발`은 활동 분야이고, `갓생`은 그 활동을 생활 전체의 규율과 정체성으로 묶는 표현이다. — `Phát triển bản thân` là một lĩnh vực hoạt động và `cuộc sống mới` là một biểu hiện gắn kết hoạt động đó với kỷ luật và bản sắc của toàn bộ cuộc sống.
+
+**영어 참고:** *a disciplined, optimized life* — Đây là thuật ngữ thông thường chỉ lối sống tìm cách tối đa hóa khả năng tự quản lý và năng suất.
 
 <!-- passage_word_count: 101 Korean eojeol; target_set: 잠재성장률, 실질임금, 임금압축, 고용의 질, 노동이동성, 숙련 미스매치, 인적자본, 전환교육, 직무 재설계, 노동공급 감소, 고령고용, 산업공동화, 노동생산성, N잡러, 갓생 -->
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** biến chứng.
 
-**뉘앙스와 사용법:** 단순한 증상이나 불편함보다 의학적으로 관리해야 할 추가 문제를 뜻한다. 원인 질환과 결과 질환의 관계가 중요하다.
+**뉘앙스와 사용법:** Điều này đề cập đến các vấn đề bổ sung cần được quản lý về mặt y tế thay vì các triệu chứng hoặc cảm giác khó chịu đơn giản. Mối quan hệ giữa nguyên nhân gây bệnh và bệnh phát sinh là rất quan trọng.
 
-**재사용 가능한 콜로케이션·청크:** `합병증이 생기다`, `합병증을 예방하다`, `합병증 위험`, `수술 후 합병증`.
+**재사용 가능한 콜로케이션·청크:** `합병증이 생기다`, `합병증을 예방하다`, `합병증 위험`, `수술 후 합병증`. — `Tạo biến chứng`, `Ngăn ngừa biến chứng`, `Nguy cơ biến chứng`, `Biến chứng sau phẫu thuật`.
 
-**자주 쓰는 문형과 성분:** `N의 합병증`; `합병증이 발생하다/나타나다`; 질병·수술·치료가 수식어가 된다.
+**자주 쓰는 문형과 성분:** `N의 합병증`, `합병증이 발생하다/나타나다`, `phức tạp của N`, `Biến chứng xảy ra/xuất hiện` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·뉴스·건강 안내의 전문어다. 가벼운 부작용을 모두 합병증이라고 부르면 부정확하다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ dành cho thông tin y tế, tin tức và sức khỏe. Sẽ không chính xác nếu gọi tất cả các tác dụng phụ nhẹ là biến chứng.
 
 **예문:** 의사는 회복이 늦어지면 추가 합병증이 없는지 검사하겠다고 설명했다.
 
-**어휘 연결:** `부작용`은 약물이나 치료의 원치 않는 반응, `후유증`은 사건 뒤 오래 남는 영향, `합병증`은 질병 과정에 덧붙은 의학적 문제다.
+**Dịch:** Bác sĩ giải thích rằng nếu quá trình hồi phục bị trì hoãn, họ sẽ kiểm tra xem liệu có bất kỳ biến chứng nào nữa không.
 
-**영어 참고:** *complication*, *comorbidity*, *sequela* — *complication*은 치료·질병 중 새로 생긴 문제, *comorbidity*는 함께 있는 질환, *sequela*는 뒤에 남은 후유증이다.
+**어휘 연결:** `부작용`은 약물이나 치료의 원치 않는 반응, `후유증`은 사건 뒤 오래 남는 영향, `합병증`은 질병 과정에 덧붙은 의학적 문제다. — 'Tác dụng phụ' là những phản ứng không mong muốn đối với thuốc hoặc phương pháp điều trị, 'hậu quả' là những tác dụng kéo dài sau sự kiện và 'biến chứng' là các vấn đề y tế được thêm vào quá trình phát bệnh.
+
+**영어 참고:** *complication*, *comorbidity*, *sequela* — *biến chứng* là vấn đề mới phát sinh trong quá trình điều trị/bệnh, *bệnh đi kèm* là bệnh xảy ra đồng thời và *di chứng* là hậu quả để lại.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** thuốc tẩy giun, thuốc diệt ký sinh trùng.
 
-**뉘앙스와 사용법:** 과거의 정기 복용 관습과 현재의 의학적 처방을 구분해야 한다. 증상과 지역·노출 위험에 따라 필요성이 달라진다.
+**뉘앙스와 사용법:** Phải phân biệt giữa thực hành dùng thuốc thông thường trước đây và đơn thuốc y tế hiện tại. Nhu cầu thay đổi tùy theo triệu chứng, khu vực và nguy cơ phơi nhiễm.
 
-**재사용 가능한 콜로케이션·청크:** `구충제를 복용하다`, `구충제 처방`, `기생충 검사`, `구충제의 부작용`.
+**재사용 가능한 콜로케이션·청크:** `구충제를 복용하다`, `구충제 처방`, `기생충 검사`, `구충제의 부작용`. — 'Dùng thuốc trị giun sán', 'Đơn thuốc trị giun sán', 'Xét nghiệm ký sinh trùng', 'Tác dụng phụ của thuốc trị giun sán'.
 
-**자주 쓰는 문형과 성분:** `구충제를 먹다/복용하다`; `구충제를 처방받다`; 의사·약사와 상담하는 상황에 쓴다.
+**자주 쓰는 문형과 성분:** `구충제를 먹다/복용하다`, `구충제를 처방받다`, `ăn/uống thuốc chống côn trùng`, `Được kê đơn thuốc tẩy giun` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 보건·약국·의료 상담의 실용어다. 민간요법처럼 무조건 복용하라는 맥락은 피해야 한다.
+**사회적 관계·주제별 register:** Ngôn ngữ thực hành về sức khỏe, dược phẩm và tư vấn y tế. Nên tránh bối cảnh coi nó như một phương thuốc dân gian vô điều kiện.
 
 **예문:** 해외여행 뒤에는 증상이 없어도 구충제를 바로 먹기보다 의료진에게 먼저 문의했다.
 
-**어휘 연결:** `약`은 넓은 일반어, `구충제`는 기생충을 대상으로 하는 특정 약, `항생제`는 세균 감염에 쓰는 약으로 서로 다르다.
+**Dịch:** Sau khi đi du lịch nước ngoài, ngay cả khi không có triệu chứng, tôi đã hỏi ý kiến ​​nhân viên y tế trước thay vì dùng thuốc tẩy giun sán ngay.
 
-**영어 참고:** *dewormer*, *anthelmintic*, *parasite treatment* — *dewormer*는 일상어, *anthelmintic*은 의학 용어, *parasite treatment*는 치료 전반을 말한다.
+**어휘 연결:** `약`은 넓은 일반어, `구충제`는 기생충을 대상으로 하는 특정 약, `항생제`는 세균 감염에 쓰는 약으로 서로 다르다. — 'Thuốc' là một từ tổng quát, 'thuốc trị giun sán' là một loại thuốc cụ thể nhắm vào ký sinh trùng và 'kháng sinh' là một loại thuốc dùng để điều trị nhiễm trùng do vi khuẩn.
+
+**영어 참고:** *dewormer*, *anthelmintic*, *parasite treatment* — *thuốc tẩy giun* dùng để chỉ các từ hàng ngày, *thuốc tẩy giun* dùng để chỉ các thuật ngữ y tế và *điều trị ký sinh trùng* dùng để chỉ việc điều trị nói chung.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** viêm xoang.
 
-**뉘앙스와 사용법:** 일상에서 널리 쓰는 표현이며, 의료 문맥에서는 `부비동염`이 더 정확한 진단명일 수 있다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt được sử dụng rộng rãi trong cuộc sống hàng ngày và trong ngữ cảnh y tế, 'viêm xoang' có thể là một chẩn đoán chính xác hơn.
 
-**재사용 가능한 콜로케이션·청크:** `축농증 증상`, `축농증이 심하다`, `축농증 치료`, `축농증으로 코가 막히다`.
+**재사용 가능한 콜로케이션·청크:** `축농증 증상`, `축농증이 심하다`, `축농증 치료`, `축농증으로 코가 막히다`. — `triệu chứng viêm xoang`, `viêm xoang nặng`, `điều trị viêm xoang`, `mũi của tôi bị nghẹt do viêm xoang`.
 
-**자주 쓰는 문형과 성분:** `축농증이 생기다/있다`; `축농증을 치료하다`; 코막힘·두통·콧물과 함께 설명한다.
+**자주 쓰는 문형과 성분:** `축농증이 생기다/있다`, `축농증을 치료하다`, `Tôi bị/bị viêm xoang`, `Điều trị viêm xoang` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상 건강 대화와 병원 상담에서 모두 쓰인다. 자가 진단보다 전문 검사를 우선해야 한다.
+**사회적 관계·주제별 register:** Được sử dụng trong cả các cuộc trò chuyện về sức khỏe hàng ngày và tư vấn tại bệnh viện. Kiểm tra chuyên môn nên được ưu tiên hơn việc tự chẩn đoán.
 
 **예문:** 환절기마다 축농증이 심해져서 코 세척과 진료를 병행하고 있다.
 
-**어휘 연결:** `비염`은 코 점막의 염증, `감기`는 바이러스성 호흡기 질환, `축농증`은 부비동의 염증과 분비물 정체를 가리킨다.
+**Dịch:** Bệnh viêm xoang của tôi trở nên trầm trọng hơn mỗi mùa nên tôi đang được rửa mũi và điều trị cùng một lúc.
 
-**영어 참고:** *sinusitis*, *sinus infection*, *chronic rhinosinusitis* — *sinusitis*가 일반적인 의학어이고, *chronic rhinosinusitis*는 만성 상태를 구체화한다.
+**어휘 연결:** `비염`은 코 점막의 염증, `감기`는 바이러스성 호흡기 질환, `축농증`은 부비동의 염증과 분비물 정체를 가리킨다. — 'Viêm mũi' đề cập đến tình trạng viêm niêm mạc mũi, 'cảm lạnh' đề cập đến bệnh hô hấp do vi-rút và 'viêm xoang' đề cập đến tình trạng viêm và ứ đọng dịch tiết trong xoang cạnh mũi.
+
+**영어 참고:** *sinusitis*, *sinus infection*, *chronic rhinosinusitis* — *viêm xoang* là thuật ngữ y học tổng quát và *viêm mũi xoang mãn tính* chỉ định một tình trạng mãn tính.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** dạng khô, phương pháp khô.
 
-**뉘앙스와 사용법:** `건식 사우나`, `건식 세안`처럼 방법을 구분하는 말이며, 음식·피부·공정에도 쓴다. 반대말은 `습식`이다.
+**뉘앙스와 사용법:** Một từ dùng để phân biệt các phương pháp, chẳng hạn như 'xông hơi khô' và 'rửa mặt khô' và cũng được sử dụng cho thực phẩm, da và quy trình. Ngược lại là 'ướt'.
 
-**재사용 가능한 콜로케이션·청크:** `건식 사우나`, `건식 청소`, `건식 공정`, `건식 피부`.
+**재사용 가능한 콜로케이션·청크:** `건식 사우나`, `건식 청소`, `건식 공정`, `건식 피부`. — `xông hơi khô`, `giặt khô`, `quy trình khô`, `da khô`.
 
-**자주 쓰는 문형과 성분:** `건식 + 명사`; 수분·물·증기를 적게 쓰는 방식이나 상태를 설명한다.
+**자주 쓰는 문형과 성분:** `건식 + 명사`, `khô + danh từ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 미용·건강·제조·청소의 실무어다.
+**사회적 관계·주제별 register:** Ngôn ngữ thực tế về sắc đẹp, sức khỏe, sản xuất và vệ sinh.
 
 **예문:** 피부가 건식이라서 뜨거운 건식 사우나는 오래 하지 않는 편이 좋다.
 
-**어휘 연결:** `마르다`는 수분이 없는 상태, `건조하다`는 공기·피부의 수분 부족, `건식`은 물을 적게 쓰는 방식의 분류어다.
+**Dịch:** Vì tôi có làn da khô nên tốt nhất không nên ở trong phòng tắm hơi khô nóng trong thời gian dài.
 
-**영어 참고:** *dry*, *dry method*, *dry-type* — *dry*는 상태·방법 모두 가능하고, *dry method*는 공정 방식, *dry-type*은 유형 구분이다.
+**어휘 연결:** `마르다`는 수분이 없는 상태, `건조하다`는 공기·피부의 수분 부족, `건식`은 물을 적게 쓰는 방식의 분류어다. — 'Khô' là trạng thái không có độ ẩm, 'khô' là thuật ngữ phân loại chỉ tình trạng thiếu độ ẩm trong không khí và da, và 'khô' là thuật ngữ phân loại cho một phương pháp sử dụng ít nước hơn.
+
+**영어 참고:** *dry*, *dry method*, *dry-type* — *khô* có sẵn cho cả trạng thái và phương pháp, *phương pháp khô* là phương pháp xử lý và *loại khô* là phân loại loại.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** xương mu.
 
-**뉘앙스와 사용법:** 해부학적 위치를 설명하는 전문어다. 통증을 말할 때는 정확한 부위와 원인을 함께 확인해야 한다.
+**뉘앙스와 사용법:** Thuật ngữ kỹ thuật mô tả vị trí giải phẫu. Khi nói về cơn đau, phải xác định chính xác vùng và nguyên nhân.
 
-**재사용 가능한 콜로케이션·청크:** `치골 통증`, `치골 부위`, `치골 결합`, `치골을 다치다`.
+**재사용 가능한 콜로케이션·청크:** `치골 통증`, `치골 부위`, `치골 결합`, `치골을 다치다`. — `Đau xương mu`, `Vùng mu`, `Giao cảm ở mu`, `Tổn thương xương mu`.
 
-**자주 쓰는 문형과 성분:** `치골이 아프다`; `치골 부위에 통증이 있다`; 운동·임신·골반 손상 문맥에서 쓰인다.
+**자주 쓰는 문형과 성분:** `치골이 아프다`, `치골 부위에 통증이 있다`, `Xương mu đau`, `Đau vùng mu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 의료·운동 재활의 전문어다. 일상에서는 위치를 풀어 설명할 수 있다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật dành cho phục hồi chức năng y tế và tập thể dục. Trong cuộc sống hàng ngày, địa điểm có thể được giải thích.
 
 **예문:** 달리기 뒤 치골 부위에 통증이 계속되면 운동을 멈추고 진료를 받아야 한다.
 
-**어휘 연결:** `골반`은 넓은 뼈 구조, `치골`은 골반 앞쪽의 특정 부위, `사타구니`는 신체 표면과 주변 근육을 포함하는 일상어다.
+**Dịch:** Nếu cơn đau vẫn tiếp tục ở vùng xương mu sau khi chạy, hãy ngừng tập thể dục và tìm kiếm sự chăm sóc y tế.
 
-**영어 참고:** *pubic bone*, *pubic symphysis*, *groin* — *pubic bone*은 뼈, *pubic symphysis*는 좌우 뼈의 결합부, *groin*은 주변 부위의 일상어다.
+**어휘 연결:** `골반`은 넓은 뼈 구조, `치골`은 골반 앞쪽의 특정 부위, `사타구니`는 신체 표면과 주변 근육을 포함하는 일상어다. — 'Xương chậu' là một cấu trúc xương rộng, 'xương mu' là một khu vực cụ thể ở phía trước xương chậu và 'háng' là một từ thông dụng bao gồm bề mặt cơ thể và các cơ xung quanh.
+
+**영어 참고:** *pubic bone*, *pubic symphysis*, *groin* — *xương mu* là xương, *khớp mu* là điểm nối của xương trái và xương phải, và *háng* là từ thông dụng để chỉ khu vực xung quanh.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** run rẩy, chân tay bủn rủn.
 
-**뉘앙스와 사용법:** `떨다`보다 몸을 지탱하기 어려운 힘 빠짐과 반복적인 흔들림이 생생하다. 추위·공포·피로에 모두 쓴다.
+**뉘앙스와 사용법:** Tình trạng mất sức và rung lắc lặp đi lặp lại khiến cơ thể khó chống đỡ còn rõ ràng hơn là 'run rẩy'. Nó được sử dụng cho cảm lạnh, sợ hãi và mệt mỏi.
 
-**재사용 가능한 콜로케이션·청크:** `다리가 후들거리다`, `무릎이 후들거리다`, `후들거리는 손`, `힘이 풀려 후들거리다`.
+**재사용 가능한 콜로케이션·청크:** `다리가 후들거리다`, `무릎이 후들거리다`, `후들거리는 손`, `힘이 풀려 후들거리다`. — ‘Chân run’, ‘Đầu gối run’, ‘Tay run’, ‘Lảo đảo vì mất sức’.
 
-**자주 쓰는 문형과 성분:** `N이/가 후들거리다`; 다리·무릎·손·몸이 주어로 온다.
+**자주 쓰는 문형과 성분:** `N이/가 후들거리다`, `N đang rung chuyển` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이고 감각적인 묘사다. 의료 기록에는 `떨림`, `근력 저하`처럼 객관적으로 쓴다.
+**사회적 관계·주제별 register:** Đó là một mô tả thông tục và gợi cảm. Trong hồ sơ y tế, nó được viết một cách khách quan, chẳng hạn như 'run' và 'sức mạnh cơ bắp giảm'.
 
 **예문:** 높은 곳에서 내려온 뒤 긴장이 풀리자 다리가 후들거렸다.
 
-**어휘 연결:** `떨리다`는 일반적인 흔들림, `후들거리다`는 힘이 빠져 지탱하기 어려움, `덜덜 떨다`는 크고 눈에 띄는 떨림을 강조한다.
+**Dịch:** Sau khi từ trên cao đi xuống, chân tôi run rẩy khi thả lỏng.
 
-**영어 참고:** *tremble*, *shake*, *feel weak in the knees* — *tremble*은 떨림, *shake*는 더 큰 흔들림, *feel weak in the knees*는 공포·감동으로 힘이 빠짐을 말한다.
+**어휘 연결:** `떨리다`는 일반적인 흔들림, `후들거리다`는 힘이 빠져 지탱하기 어려움, `덜덜 떨다`는 크고 눈에 띄는 떨림을 강조한다. — 'run rẩy' nhấn mạnh sự rung lắc chung, 'run rẩy' nhấn mạnh sự yếu đuối và khó giữ vững, còn 'run rẩy' nhấn mạnh những rung chuyển lớn và dễ nhận thấy.
+
+**영어 참고:** *tremble*, *shake*, *feel weak in the knees* — *run rẩy* là run rẩy, *lắc* là rung lắc nhiều hơn và *cảm thấy yếu ở đầu gối* là mất sức do sợ hãi hoặc cảm xúc.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** đập thình thịch; phập phồng.
 
-**뉘앙스와 사용법:** 내부의 움직임이 겉으로 느껴질 정도로 크고 반복적인 모습을 표현한다. `가슴이 벌렁거리다`, `콧방울이 벌렁거리다`가 대표적이다.
+**뉘앙스와 사용법:** Thể hiện diện mạo lớn và lặp đi lặp lại để có thể cảm nhận được chuyển động bên trong ở bên ngoài. Các ví dụ tiêu biểu bao gồm ‘ngực rung’ và ‘mũi rung’.
 
-**재사용 가능한 콜로케이션·청크:** `가슴이 벌렁거리다`, `심장이 벌렁거리다`, `콧방울을 벌렁거리다`, `벌렁거리는 숨`.
+**재사용 가능한 콜로케이션·청크:** `가슴이 벌렁거리다`, `심장이 벌렁거리다`, `콧방울을 벌렁거리다`, `벌렁거리는 숨`. — ‘Ngực rung động’, ‘Tim rung động’, ‘Mũi rung rung’, ‘Hơi thở rung động’.
 
-**자주 쓰는 문형과 성분:** `N이/가 벌렁거리다`; 가슴·심장·콧방울·숨이 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이/가 벌렁거리다`, `N rung rinh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어·문학적 묘사에서 자연스럽다. 객관적 심박 기록에는 `심박수가 증가하다`가 적합하다.
+**사회적 관계·주제별 register:** Tự nhiên trong mô tả văn nói và văn học. ‘Nhịp tim tăng’ là thích hợp để ghi lại nhịp tim một cách khách quan.
 
 **예문:** 결승선을 통과하자 심장이 벌렁거렸지만 기분은 상쾌했다.
 
-**어휘 연결:** `두근거리다`는 기대·설렘의 감정, `벌렁거리다`는 실제로 크고 빠르게 뛰는 신체 움직임, `쿵쾅거리다`는 소리와 강도를 더 크게 표현한다.
+**Dịch:** Khi vượt qua vạch đích, tim tôi đập thình thịch nhưng tôi cảm thấy sảng khoái.
 
-**영어 참고:** *pound*, *throb*, *heave* — *pound*는 심장이 세게 뜀, *throb*은 맥박처럼 욱신거림, *heave*는 가슴이나 숨이 크게 움직임이다.
+**어휘 연결:** `두근거리다`는 기대·설렘의 감정, `벌렁거리다`는 실제로 크고 빠르게 뛰는 신체 움직임, `쿵쾅거리다`는 소리와 강도를 더 크게 표현한다. — 'Throb' thể hiện cảm giác mong đợi và phấn khích, 'nhảy' thực sự thể hiện chuyển động cơ thể lớn và nhanh, còn 'đập mạnh' thể hiện âm thanh và cường độ to hơn.
+
+**영어 참고:** *pound*, *throb*, *heave* — * pound* có nghĩa là tim đang đập mạnh, *throb* có nghĩa là cảm giác đập mạnh như mạch đập, *heave* có nghĩa là ngực hoặc hơi thở chuyển động mạnh.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** phấp phới, phần phật.
 
-**뉘앙스와 사용법:** `펄럭이다`, `펄럭거리다`의 어근처럼 쓰이며 깃발·옷자락·종이에 잘 어울린다.
+**뉘앙스와 사용법:** Nó được sử dụng làm từ gốc cho 'rung rinh' và 'rung rinh' và rất phù hợp với cờ, đường viền và giấy.
 
-**재사용 가능한 콜로케이션·청크:** `깃발이 펄럭이다`, `옷자락이 펄럭이다`, `펄럭이는 종이`, `바람에 펄럭거리다`.
+**재사용 가능한 콜로케이션·청크:** `깃발이 펄럭이다`, `옷자락이 펄럭이다`, `펄럭이는 종이`, `바람에 펄럭거리다`. — `lá cờ tung bay`, `viền áo tung bay`, `giấy tung bay`, `phất phơ trong gió`.
 
-**자주 쓰는 문형과 성분:** `N이 펄럭이다/거리다`; 바람에 움직이는 얇고 넓은 물체가 주어다.
+**자주 쓰는 문형과 성분:** `N이 펄럭이다/거리다`, `N rung/rung` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 묘사와 문학, 뉴스 화면 설명에서 자연스럽다.
+**사회적 관계·주제별 register:** Tự nhiên trong mô tả, văn học và mô tả màn hình tin tức.
 
 **예문:** 운동장 한가운데 태극기가 차가운 바람에 힘차게 펄럭였다.
 
-**어휘 연결:** `흔들리다`는 넓은 움직임, `나부끼다`는 천·깃발이 바람에 흔들리는 문어적 표현, `펄럭이다`는 가볍게 접혔다 펴지는 소리를 함께 암시한다.
+**Dịch:** Taegeukgi giữa sân chơi rung rinh mạnh mẽ trong gió lạnh.
 
-**영어 참고:** *flutter*, *flap*, *wave* — *flutter*는 가볍고 빠른 흔들림, *flap*은 날개나 천의 반복 운동, *wave*는 넓게 흔들림이다.
+**어휘 연결:** `흔들리다`는 넓은 움직임, `나부끼다`는 천·깃발이 바람에 흔들리는 문어적 표현, `펄럭이다`는 가볍게 접혔다 펴지는 소리를 함께 암시한다. — ‘Lắc lư’ ngụ ý một chuyển động rộng, ‘rung rinh’ là cách diễn đạt văn học của tấm vải hoặc lá cờ rung rinh trong gió, và ‘rung rinh’ ngụ ý âm thanh được gấp và mở nhẹ.
+
+**영어 참고:** *flutter*, *flap*, *wave* — *rung rinh* là rung lắc nhẹ và nhanh, *vỗ* là chuyển động lặp đi lặp lại của cánh hoặc vải và *sóng* là rung lắc rộng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** bật nhảy, nhảy phắt lên.
 
-**뉘앙스와 사용법:** 짧고 경쾌한 도약을 생생하게 표현한다. `팔짝 뛰다`, `팔짝팔짝 뛰다`처럼 반복형도 흔하다.
+**뉘앙스와 사용법:** Thể hiện một cách sống động bước nhảy ngắn và vui vẻ. Các hình thức lặp đi lặp lại như 'nhảy lên' và 'nhảy lên' cũng rất phổ biến.
 
-**재사용 가능한 콜로케이션·청크:** `팔짝 뛰다`, `팔짝팔짝 뛰다`, `놀라서 팔짝 뛰다`, `기뻐서 팔짝 뛰다`.
+**재사용 가능한 콜로케이션·청크:** `팔짝 뛰다`, `팔짝팔짝 뛰다`, `놀라서 팔짝 뛰다`, `기뻐서 팔짝 뛰다`. — ‘Nhảy lên’, ‘Nhảy lên’, ‘Nhảy lên vì ngạc nhiên’, ‘Nhảy lên trong niềm vui’.
 
-**자주 쓰는 문형과 성분:** `팔짝 + 뛰다`; 사람·개구리·작은 물체의 순간적인 도약에 쓴다.
+**자주 쓰는 문형과 성분:** `팔짝 + 뛰다`, `sờ nắn + nhảy` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이고 생동감 있는 표현이다.
+**사회적 관계·주제별 register:** Đó là một cách diễn đạt thông tục và sinh động.
 
 **예문:** 아이는 선물을 보자 기뻐서 팔짝 뛰었다.
 
-**어휘 연결:** `뛰다`는 넓은 동작, `껑충 뛰다`는 높고 크게 도약함, `팔짝 뛰다`는 갑작스럽고 가벼운 반응을 강조한다.
+**Dịch:** Bé nhảy cẫng lên vui sướng khi nhìn thấy món quà.
 
-**영어 참고:** *jump*, *hop*, *leap up* — *jump*는 일반적인 점프, *hop*은 짧고 가벼운 도약, *leap up*은 갑자기 크게 뛰어오름이다.
+**어휘 연결:** `뛰다`는 넓은 동작, `껑충 뛰다`는 높고 크게 도약함, `팔짝 뛰다`는 갑작스럽고 가벼운 반응을 강조한다. — 'Nhảy' nhấn mạnh chuyển động rộng, 'nhảy' nhấn mạnh bước nhảy cao và lớn, và 'nhảy' nhấn mạnh phản ứng đột ngột và nhẹ.
+
+**영어 참고:** *jump*, *hop*, *leap up* — *nhảy* là bước nhảy chung, *nhảy* là bước nhảy ngắn và nhẹ và *nhảy lên* là bước nhảy lớn đột ngột.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** nặng trĩu, nặng và chắc; sâu sắc, nghiêm trọng.
 
-**뉘앙스와 사용법:** 물리적 무게와 심리적 무게를 모두 표현한다. `묵직한 책임`, `묵직한 울림`처럼 긍정적인 깊이도 가능하다.
+**뉘앙스와 사용법:** Thể hiện sức nặng cả về thể chất và tâm lý. Chiều sâu tích cực cũng có thể xảy ra, chẳng hạn như ‘trách nhiệm nặng nề’ và ‘cộng hưởng nặng nề’.
 
-**재사용 가능한 콜로케이션·청크:** `묵직한 가방`, `묵직한 한마디`, `묵직한 울림`, `마음이 묵직하다`.
+**재사용 가능한 콜로케이션·청크:** `묵직한 가방`, `묵직한 한마디`, `묵직한 울림`, `마음이 묵직하다`. — ‘Túi nặng’, ‘Lời nói nặng nề’, ‘Âm thanh nặng nề’, ‘Trái tim nặng nề’.
 
-**자주 쓰는 문형과 성분:** `N이/가 묵직하다`; 물건·목소리·책임·감정·메시지가 주어가 된다.
+**자주 쓰는 문형과 성분:** `N이/가 묵직하다`, `N nặng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 일상·리뷰·에세이에서 널리 쓰인다. 문맥에 따라 무겁고 답답하다는 부정적 의미도 있다.
+**사회적 관계·주제별 register:** Được sử dụng rộng rãi trong cuộc sống hàng ngày, các bài đánh giá, bài luận. Tùy thuộc vào ngữ cảnh, nó cũng có thể mang hàm ý tiêu cực là nặng nề và bực bội.
 
 **예문:** 짧은 연설이었지만 공동체의 미래를 생각하게 하는 묵직한 울림이 있었다.
 
-**어휘 연결:** `무겁다`는 실제 무게와 분위기, `진중하다`는 태도와 말의 신중함, `묵직하다`는 감각적 무게와 깊은 인상을 동시에 준다.
+**Dịch:** Đó là một bài phát biểu ngắn nhưng có tác động nặng nề khiến chúng tôi phải suy nghĩ về tương lai của cộng đồng.
 
-**영어 참고:** *heavy*, *weighty*, *substantial* — *heavy*는 넓은 무거움, *weighty*는 중요하고 진지함, *substantial*은 내용과 무게가 충분함을 뜻한다.
+**어휘 연결:** `무겁다`는 실제 무게와 분위기, `진중하다`는 태도와 말의 신중함, `묵직하다`는 감각적 무게와 깊은 인상을 동시에 준다. — 'Nặng' mang lại sức nặng và bầu không khí thực tế, 'nghiêm túc' mang lại thái độ và sự thận trọng trong lời nói, còn 'nặng' mang lại sức nặng cảm giác và ấn tượng sâu sắc.
+
+**영어 참고:** *heavy*, *weighty*, *substantial* — *nặng* có nghĩa là rộng và nặng, *có trọng lượng* có nghĩa là quan trọng và nghiêm túc và *đáng kể* có nghĩa là đủ nội dung và trọng lượng.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** khô khốc; chật vật, căng thẳng.
 
-**뉘앙스와 사용법:** 음식·공기·살림·삶의 감각에 모두 쓴다. `팍팍한 삶`, `공기가 팍팍하다`처럼 실제 촉감에서 추상적 어려움으로 확장된다.
+**뉘앙스와 사용법:** Dùng cho thực phẩm, không khí, sinh hoạt và cảm giác sống. Giống như 'cuộc sống khắc nghiệt' và 'không khí dày đặc', nó mở rộng từ những cảm giác xúc giác thực tế đến những khó khăn trừu tượng.
 
-**재사용 가능한 콜로케이션·청크:** `팍팍한 살림`, `삶이 팍팍하다`, `공기가 팍팍하다`, `빵이 팍팍하다`.
+**재사용 가능한 콜로케이션·청크:** `팍팍한 살림`, `삶이 팍팍하다`, `공기가 팍팍하다`, `빵이 팍팍하다`. — `sống khó khăn`, `cuộc sống chật hẹp`, `không khí chật hẹp`, `bánh mì chật hẹp`.
 
-**자주 쓰는 문형과 성분:** `N이 팍팍하다`; 생활·분위기·음식·공기의 상태를 평가한다.
+**자주 쓰는 문형과 성분:** `N이 팍팍하다`, `N chặt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 구어적이고 감각적인 표현이다. 공식 경제 보고서에는 `생활이 어려워지다`가 적절하다.
+**사회적 관계·주제별 register:** Đó là một cách diễn đạt thông tục và gợi cảm. Trong báo cáo kinh tế chính thức, ‘cuộc sống trở nên khó khăn’ là phù hợp.
 
 **예문:** 물가가 오르면서 서민들의 살림살이가 점점 팍팍해졌다.
 
-**어휘 연결:** `건조하다`는 수분 부족, `빡빡하다`는 여유와 공간 부족, `팍팍하다`는 촉감과 생활의 고단함을 함께 전달한다.
+**Dịch:** Khi giá cả tăng cao, sinh kế của người dân bình thường ngày càng trở nên khó khăn.
 
-**영어 참고:** *dry and tough*, *harsh*, *tight* — 음식은 *dry and tough*, 삶은 *harsh* 또는 *tight*가 자연스럽다.
+**어휘 연결:** `건조하다`는 수분 부족, `빡빡하다`는 여유와 공간 부족, `팍팍하다`는 촉감과 생활의 고단함을 함께 전달한다. — 'Khô' truyền tải sự thiếu độ ẩm, 'chặt chẽ' truyền tải sự thiếu không gian và không gian, và 'chặt chẽ' truyền tải cảm giác chạm vào và những khó khăn trong cuộc sống.
+
+**영어 참고:** *dry and tough*, *harsh*, *tight* — Thức ăn tự nhiên *khô và dai*, luộc *cứng* hoặc *cứng*.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** gió lạnh buốt; lời nói/hiện thực khắc nghiệt.
 
-**뉘앙스와 사용법:** 실제 겨울바람과 비유적인 비판·경제 상황을 모두 표현한다. 차갑고 날카로운 감각이 핵심이다.
+**뉘앙스와 사용법:** Thể hiện cả những cơn gió mùa đông thực tế lẫn những lời chỉ trích tượng hình và tình hình kinh tế. Một giác quan lạnh lùng và nhạy bén chính là chìa khóa.
 
-**재사용 가능한 콜로케이션·청크:** `매서운 칼바람`, `칼바람을 맞다`, `구조조정 칼바람`, `칼바람 같은 현실`.
+**재사용 가능한 콜로케이션·청크:** `매서운 칼바람`, `칼바람을 맞다`, `구조조정 칼바람`, `칼바람 같은 현실`. — ‘Gió đắng’, ‘Bị gió giật’, ‘Vụ nổ tái cơ cấu’, ‘Thực tế như gió giật’.
 
-**자주 쓰는 문형과 성분:** `N이 불다`; `칼바람을 맞다`; 날씨·고용·시장·비판의 상황과 결합한다.
+**자주 쓰는 문형과 성분:** `N이 불다`, `칼바람을 맞다`, `N đòn`, `Bị gió giật` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 뉴스·칼럼·문학적 묘사에서 자주 쓰인다.
+**사회적 관계·주제별 register:** Thường được sử dụng trong tin tức, chuyên mục và mô tả văn học.
 
 **예문:** 겨울 칼바람이 불자 사람들은 목도리로 얼굴을 단단히 감쌌다.
 
-**어휘 연결:** `강풍`은 바람의 세기를 객관적으로 말하고, `한파`는 기온 하락 현상, `칼바람`은 피부를 베는 듯한 체감과 비유적 냉혹함을 강조한다.
+**Dịch:** Khi gió mùa đông thổi qua, người ta quấn chặt mặt bằng khăn quàng cổ.
 
-**영어 참고:** *biting wind*, *icy blast*, *harsh climate* — *biting wind*는 살을 에는 바람, *icy blast*는 갑작스러운 찬바람, *harsh climate*은 비유적 환경에도 쓴다.
+**어휘 연결:** `강풍`은 바람의 세기를 객관적으로 말하고, `한파`는 기온 하락 현상, `칼바람`은 피부를 베는 듯한 체감과 비유적 냉혹함을 강조한다. — 'Gió mạnh' ám chỉ một cách khách quan sức mạnh của gió, 'sóng lạnh' ám chỉ sự giảm nhiệt độ và 'gió cắt' nhấn mạnh cảm giác cắt da và ẩn dụ lạnh lẽo.
+
+**영어 참고:** *biting wind*, *icy blast*, *harsh climate* — *gió buốt* là gió buốt, *băng giá* là gió lạnh đột ngột và *khí hậu khắc nghiệt* cũng được sử dụng trong môi trường tượng hình.
 
 ---
 
@@ -313,27 +337,33 @@
 
 **베트남어 뜻:** đấu tay đôi, vật lộn, đối kháng.
 
-**뉘앙스와 사용법:** `싸움`보다 스포츠·훈련·액션 장면의 기술적 성격이 강하다. 실제 폭력과 경기 규칙이 있는 격투를 구분해야 한다.
+**뉘앙스와 사용법:** Bản chất kỹ thuật của các cảnh thể thao, huấn luyện và hành động mạnh hơn bản chất 'đánh nhau'. Phải phân biệt giữa bạo lực thực tế và đánh nhau theo quy tắc của trò chơi.
 
-**재사용 가능한 콜로케이션·청크:** `격투 경기`, `격투 기술`, `격투 스포츠`, `격투 장면`.
+**재사용 가능한 콜로케이션·청크:** `격투 경기`, `격투 기술`, `격투 스포츠`, `격투 장면`. — `Trò chơi chiến đấu`, `Kỹ thuật chiến đấu`, `Thể thao chiến đấu`, `Cảnh chiến đấu`.
 
-**자주 쓰는 문형과 성분:** `격투를 벌이다`; `격투를 배우다`; 선수·체육관·경기·액션 영화와 결합한다.
+**자주 쓰는 문형과 성분:** `격투를 벌이다`, `격투를 배우다`, `chiến đấu`, `Học cách chiến đấu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 스포츠·방송·영화·안전 교육의 중립적 표현이다.
+**사회적 관계·주제별 register:** Thể hiện trung lập về thể thao, phát sóng, phim ảnh và giáo dục an toàn.
 
 **예문:** 영화의 격투 장면은 화려했지만 실제로 따라 하면 크게 다칠 수 있다.
 
-**어휘 연결:** `싸움`은 폭력과 다툼 전반, `대련`은 훈련을 위한 겨루기, `격투`는 몸을 맞대는 경기·전투의 기술적 장면을 강조한다.
+**Dịch:** Những cảnh đánh nhau trong phim rất hào nhoáng nhưng nếu theo dõi ngoài đời có thể bạn sẽ bị thương nặng.
 
-**영어 참고:** *combat*, *hand-to-hand fighting*, *martial arts* — *combat*은 전투·대결, *hand-to-hand fighting*은 직접 몸싸움, *martial arts*는 훈련된 무술 체계를 말한다.
+**어휘 연결:** `싸움`은 폭력과 다툼 전반, `대련`은 훈련을 위한 겨루기, `격투`는 몸을 맞대는 경기·전투의 기술적 장면을 강조한다. — 'Chiến đấu' nhấn mạnh vào bạo lực và đánh nhau nói chung, 'đấu kiếm' nhấn mạnh vào đấu tập để huấn luyện và 'chiến đấu' nhấn mạnh vào các cảnh kỹ thuật của các trận đấu và trận chiến tay đôi.
+
+**영어 참고:** *combat*, *hand-to-hand fighting*, *martial arts* — *chiến đấu* ám chỉ chiến đấu/đối đầu, *chiến đấu tay đôi* ám chỉ chiến đấu vật lý trực tiếp và *võ thuật* ám chỉ một hệ thống võ thuật được huấn luyện.
 
 ## 읽기 지문 — 몸의 신호를 놓치지 않기
 
 ---
 
-<!-- passage_word_count: 69 Korean eojeol; target_set: 합병증, 구충제, 축농증, 건식, 치골, 후들거리다, 벌렁거리다, 펄럭, 팔짝, 묵직하다, 팍팍, 칼바람, 격투 -->
+<!-- passage_word_count: 111 Korean eojeol; target_set: 합병증, 구충제, 축농증, 건식, 치골, 후들거리다, 벌렁거리다, 펄럭, 팔짝, 묵직하다, 팍팍, 칼바람, 격투 -->
 
 겨울 체육관에서 건강 강좌가 열리자 참가자들은 축농증과 합병증을 어떻게 구분하는지 물었다. 강사는 구충제도 무조건 복용하지 말고 검사와 상담을 먼저 받아야 한다고 설명했다. 건식 사우나 뒤에는 몸의 수분을 보충하고, 치골이나 귓불에 이상한 통증이 생기면 운동을 멈춰야 했다. 창문에는 물방울이 맺혔고, 밖에서는 칼바람에 깃발이 펄럭였다. 긴장한 초보자는 다리가 후들거리고 심장이 벌렁거리기도 했지만, 아이들은 매트 위에서 팔짝 뛰며 웃었다. 코치의 묵직한 조언처럼, 공기가 팍팍한 날일수록 무리한 격투보다 몸의 신호를 읽는 일이 먼저였다.
+
+
+
+몸의 신호를 읽고 움직임을 조절하다에 관한 논의에서는 합병증 및 구충제 사이의 관계를 단순한 수치가 아니라 누가 비용과 위험을 부담하는지까지 함께 살펴야 한다. 현장에서는 축농증, 건식, 치골 및 관련 자료를 통해 이용자와 공동체의 경험 변화를 확인해야 한다.
 
 ### 베트남어 번역
 

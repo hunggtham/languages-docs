@@ -20,4 +20,4 @@ Script sẽ tạo:
 - `content/english/{grammar,vocabulary,writing,corrections}/`: bản Markdown chuẩn hóa theo nhóm để các ứng dụng khác có thể dùng lại.
 - `apps/web/public/lesson/*.md`: bản Markdown được public và web fetch theo nhu cầu.
 
-Khi thêm tài liệu mới, cập nhật `DOCUMENTS` trong script rồi chạy lại lệnh trên. Không đưa API key hoặc ebook/audio thô vào `public/`.
+Khi thêm tài liệu mới, cập nhật `DOCUMENTS` trong script rồi kiểm tra `git status`, allowed paths và diff trước/sau khi chạy lại lệnh trên. Generator chỉ được copy source và tạo metadata/cấu trúc; không được tự viết, dịch, paraphrase hoặc chèn prose học tập. Không đưa API key, secret, private note hoặc ebook/audio thô vào `public/`.

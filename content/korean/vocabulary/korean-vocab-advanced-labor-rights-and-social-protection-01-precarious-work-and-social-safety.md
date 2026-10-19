@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** mạng lưới an sinh xã hội.
 
-**뉘앙스와 사용법:** 하나의 복지 사업이 아니라 고용보험·연금·의료·현금 지원이 서로 연결된 구조를 말한다.
+**뉘앙스와 사용법:** Đây không phải là một dự án phúc lợi đơn lẻ mà là một cấu trúc trong đó bảo hiểm việc làm, lương hưu, chăm sóc y tế và hỗ trợ tiền mặt được kết nối với nhau.
 
-**재사용 가능한 콜로케이션·청크:** `사회안전망을 강화하다`, `사회안전망의 사각지대`, `촘촘한 사회안전망`.
+**재사용 가능한 콜로케이션·청크:** `사회안전망을 강화하다`, `사회안전망의 사각지대`, `촘촘한 사회안전망`. — ‘Tăng cường mạng lưới an toàn xã hội’, ‘Những điểm mù trong mạng lưới an toàn xã hội’, ‘Mạng lưới an toàn xã hội dày đặc’.
 
-**자주 쓰는 문형과 성분:** `정책이 N의 사회안전망을 보완하다`; 위기·실업·빈곤·복지와 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 N의 사회안전망을 보완하다`, `Chính sách bổ sung cho mạng lưới an toàn xã hội của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지·경제·재난 정책의 고급어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ nâng cao về chính sách phúc lợi, kinh tế và thiên tai.
 
 **예문:** 플랫폼 노동자의 증가에 맞춰 기존 사회안전망을 다시 설계해야 한다.
 
-**어휘 연결:** `복지`는 지원과 서비스 전반이고, `사회안전망`은 사회적 위험을 막는 제도적 연결망에 초점이 있다.
+**Dịch:** Mạng lưới an toàn xã hội hiện tại phải được thiết kế lại để đáp ứng sự gia tăng số lượng nhân viên nền tảng.
 
-**영어 참고:** *social safety net* — 위기와 소득 상실에서 시민을 보호하는 제도 체계다.
+**어휘 연결:** `복지`는 지원과 서비스 전반이고, `사회안전망`은 사회적 위험을 막는 제도적 연결망에 초점이 있다. — 'Phúc lợi' là hỗ trợ và dịch vụ tổng thể, còn 'mạng lưới an toàn xã hội' tập trung vào mạng lưới thể chế ngăn ngừa rủi ro xã hội.
+
+**영어 참고:** *social safety net* — Đây là một hệ thống thể chế bảo vệ công dân khỏi khủng hoảng và mất thu nhập.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** bù đắp thu nhập.
 
-**뉘앙스와 사용법:** 소득을 영구적으로 높이는 정책보다 특정 위험 기간의 손실을 메우는 데 초점이 있다.
+**뉘앙스와 사용법:** Trọng tâm là bù đắp tổn thất trong các giai đoạn rủi ro cụ thể thay vì các chính sách tăng thu nhập vĩnh viễn.
 
-**재사용 가능한 콜로케이션·청크:** `소득보전 수당`, `소득보전 방안`, `소득을 보전하다`.
+**재사용 가능한 콜로케이션·청크:** `소득보전 수당`, `소득보전 방안`, `소득을 보전하다`. — `Trợ cấp bảo toàn thu nhập`, `Kế hoạch bảo toàn thu nhập`, `Bảo toàn thu nhập`.
 
-**자주 쓰는 문형과 성분:** `정부가 N의 소득을 보전하다`; 실업·재난·농가·돌봄과 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 N의 소득을 보전하다`, `Chính phủ bảo toàn thu nhập của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지·조세·노동 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho các chính sách phúc lợi, thuế và lao động.
 
 **예문:** 휴업한 소상공인에게 한시적 소득보전 대책이 필요하다는 의견이 나왔다.
 
-**어휘 연결:** `소득 지원`은 넓은 정책이고, `소득보전`은 기존 수입의 감소분을 메운다는 목적이 분명하다.
+**Dịch:** Đã có ý kiến ​​cho rằng các biện pháp bảo toàn thu nhập tạm thời là cần thiết đối với các chủ doanh nghiệp nhỏ đã đóng cửa doanh nghiệp của họ.
 
-**영어 참고:** *income replacement*, *income support* — 소득 상실분을 보충해 생활을 유지하게 한다.
+**어휘 연결:** `소득 지원`은 넓은 정책이고, `소득보전`은 기존 수입의 감소분을 메운다는 목적이 분명하다. — 'Hỗ trợ thu nhập' là một chính sách rộng và 'bảo toàn thu nhập' có mục đích rõ ràng là bù đắp cho sự sụt giảm thu nhập hiện tại.
+
+**영어 참고:** *income replacement*, *income support* — Bổ sung thu nhập bị mất để duy trì sinh kế.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** bảo đảm mức sống cơ bản.
 
-**뉘앙스와 사용법:** 단순한 생활비 지원이 아니라 최저 생활을 권리로 보장하고 자립을 돕는 제도적 언어다.
+**뉘앙스와 사용법:** Nó không chỉ đơn giản là hỗ trợ chi phí sinh hoạt mà còn là ngôn ngữ thể chế đảm bảo mức sống tối thiểu như một quyền và giúp ích cho sự độc lập.
 
-**재사용 가능한 콜로케이션·청크:** `기초생활보장 수급자`, `기초생활보장 제도`, `보장 기준`.
+**재사용 가능한 콜로케이션·청크:** `기초생활보장 수급자`, `기초생활보장 제도`, `보장 기준`. — 'Người nhận an ninh sinh kế cơ bản', 'Hệ thống an ninh sinh kế cơ bản', 'Tiêu chuẩn đảm bảo'.
 
-**자주 쓰는 문형과 성분:** `국가가 N에게 기초생활보장을 제공하다`; 수급·소득 기준·복지와 결합한다.
+**자주 쓰는 문형과 성분:** `국가가 N에게 기초생활보장을 제공하다`, `Nhà nước cung cấp an ninh cuộc sống cơ bản cho N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지 행정·정책·사회 기사에서 쓰는 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức được sử dụng trong các bài viết về quản lý phúc lợi, chính sách và xã hội.
 
 **예문:** 복지 사각지대에 놓인 가구가 기초생활보장을 신청할 수 있도록 안내를 강화했다.
 
-**어휘 연결:** `빈곤 지원`은 일반적 표현이고, `기초생활보장`은 법과 급여 체계를 갖춘 공공부조 제도다.
+**Dịch:** Hướng dẫn đã được tăng cường để các hộ gia đình ở điểm mù phúc lợi có thể đăng ký bảo đảm sinh kế cơ bản.
 
-**영어 참고:** *basic livelihood security*, *minimum income guarantee* — 최저 생활을 공적으로 보장하는 제도다.
+**어휘 연결:** `빈곤 지원`은 일반적 표현이고, `기초생활보장`은 법과 급여 체계를 갖춘 공공부조 제도다. — 'Hỗ trợ nghèo' là một cách diễn đạt chung và 'an ninh sinh kế cơ bản' là một hệ thống hỗ trợ công cộng có luật pháp và hệ thống phúc lợi.
+
+**영어 참고:** *basic livelihood security*, *minimum income guarantee* — Đây là một hệ thống công khai đảm bảo mức sống tối thiểu.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** nghèo dù có việc làm.
 
-**뉘앙스와 사용법:** 실업자 중심의 빈곤 개념으로 설명되지 않는 저임금·단시간·불안정 노동 문제를 드러낸다.
+**뉘앙스와 사용법:** Tiết lộ các vấn đề về lương thấp, thời gian làm việc ngắn và lao động không ổn định không thể giải thích được bằng khái niệm nghèo đói tập trung vào người thất nghiệp.
 
-**재사용 가능한 콜로케이션·청크:** `근로빈곤층`, `근로빈곤 문제`, `근로빈곤을 완화하다`.
+**재사용 가능한 콜로케이션·청크:** `근로빈곤층`, `근로빈곤 문제`, `근로빈곤을 완화하다`. — `Người lao động nghèo`, `Vấn đề người có việc làm nhưng vẫn nghèo`, `Xóa bỏ tình trạng nghèo khi có việc làm`.
 
-**자주 쓰는 문형과 성분:** `저임금 일자리가 근로빈곤을 심화하다`; 최저임금·주거·복지와 결합한다.
+**자주 쓰는 문형과 성분:** `저임금 일자리가 근로빈곤을 심화하다`, `Việc làm lương thấp làm trầm trọng thêm tình trạng nghèo của người lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동경제·복지·사회 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về kinh tế lao động, phúc lợi và chính sách xã hội.
 
 **예문:** 고용률이 올라도 근로빈곤층의 생활이 나아졌다고 단정하기는 어렵다.
 
-**어휘 연결:** `실업`은 일자리가 없는 상태이고, `근로빈곤`은 일하고도 기본 생활을 유지하기 어려운 상태다.
+**Dịch:** Ngay cả khi tỷ lệ việc làm tăng lên, khó có thể kết luận rằng cuộc sống của người lao động nghèo đã được cải thiện.
 
-**영어 참고:** *working poverty*, *working poor* — 취업 중이지만 빈곤선 아래에 머무는 현상이다.
+**어휘 연결:** `실업`은 일자리가 없는 상태이고, `근로빈곤`은 일하고도 기본 생활을 유지하기 어려운 상태다. — ‘Thất nghiệp’ là tình trạng không có việc làm, và ‘việc làm nghèo’ là tình trạng khó khăn trong việc duy trì cuộc sống cơ bản ngay cả khi đang làm việc.
+
+**영어 참고:** *working poverty*, *working poor* — Đây là hiện tượng trong đó mọi người có việc làm nhưng vẫn ở dưới mức nghèo.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** hình thức lao động đặc thù, lao động giả độc lập.
 
-**뉘앙스와 사용법:** 보험·배차·수수료·업무 지휘 때문에 근로자성이 논쟁이 된다. 보험설계사·택배기사·학습지 교사 등이 사례로 거론된다.
+**뉘앙스와 사용법:** Tình trạng của người lao động đang gây tranh cãi do bảo hiểm, điều phối, hoa hồng và chỉ đạo công việc. Các nhà lập kế hoạch bảo hiểm, tài xế chuyển phát nhanh và giáo viên dạy bài tập được đề cập làm ví dụ.
 
-**재사용 가능한 콜로케이션·청크:** `특수고용 노동자`, `특수고용의 근로자성`, `특수고용 산재보험`.
+**재사용 가능한 콜로케이션·청크:** `특수고용 노동자`, `특수고용의 근로자성`, `특수고용 산재보험`. — `Người lao động được tuyển dụng đặc biệt`, `Tính chất công nhân của việc làm đặc biệt`, `Bảo hiểm tai nạn lao động trong việc làm đặc biệt`.
 
-**자주 쓰는 문형과 성분:** `N이 특수고용 형태로 일하다`; 플랫폼·위탁계약·산재와 결합한다.
+**자주 쓰는 문형과 성분:** `N이 특수고용 형태로 일하다`, `N làm việc theo hình thức việc làm đặc biệt` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·사회보험·정책 기사에 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong các điều khoản về luật lao động, bảo hiểm xã hội và chính sách.
 
 **예문:** 특수고용 노동자도 산재보험의 보호를 받을 수 있도록 기준이 바뀌었다.
 
-**어휘 연결:** `프리랜서`는 독립 계약을 넓게 말하고, `특수고용`은 실질적인 지휘·종속 관계와 보호 공백을 분석한다.
+**Dịch:** Các tiêu chuẩn đã thay đổi để những người lao động được tuyển dụng đặc biệt cũng có thể nhận được sự bảo vệ từ bảo hiểm tai nạn lao động.
 
-**영어 참고:** *dependent contractor*, *economically dependent self-employed* — 형식상 독립이지만 특정 기업에 경제적으로 의존한다.
+**어휘 연결:** `프리랜서`는 독립 계약을 넓게 말하고, `특수고용`은 실질적인 지휘·종속 관계와 보호 공백을 분석한다. — 'Làm việc tự do' nói rộng rãi là các hợp đồng độc lập và 'việc làm đặc biệt' phân tích các mối quan hệ chỉ huy/cấp dưới thực tế và các khoảng trống bảo vệ.
+
+**영어 참고:** *dependent contractor*, *economically dependent self-employed* — Độc lập về mặt chính thức nhưng phụ thuộc về mặt kinh tế vào một công ty cụ thể.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** ba quyền cơ bản của người lao động.
 
-**뉘앙스와 사용법:** 노동조합 활동을 지지하거나 제한하는 법·정책 논쟁에서 집단적 권리의 묶음으로 쓰인다.
+**뉘앙스와 사용법:** Được sử dụng như một tập hợp các quyền tập thể trong các cuộc tranh luận về chính sách và pháp lý nhằm hỗ trợ hoặc hạn chế các hoạt động công đoàn.
 
-**재사용 가능한 콜로케이션·청크:** `노동3권을 보장하다`, `노동3권 침해`, `노동3권의 실효성`.
+**재사용 가능한 콜로케이션·청크:** `노동3권을 보장하다`, `노동3권 침해`, `노동3권의 실효성`. — ‘Đảm bảo ba quyền lao động’, ‘vi phạm ba quyền lao động’, ‘hiệu lực của ba quyền lao động’.
 
-**자주 쓰는 문형과 성분:** `법이 노동3권을 보호하다`; 단결·교섭·파업과 결합한다.
+**자주 쓰는 문형과 성분:** `법이 노동3권을 보호하다`, `Pháp luật bảo vệ ba quyền lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·노동법·노사 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật để báo cáo về Hiến pháp, luật lao động và quản lý lao động.
 
 **예문:** 하청 노동자에게도 노동3권이 실질적으로 보장돼야 한다는 판결이 나왔다.
 
-**어휘 연결:** `노동권`은 넓은 권리 묶음이고, `노동3권`은 단결권·단체교섭권·단체행동권을 특정한다.
+**Dịch:** Phán quyết đã được đưa ra rằng ba quyền lao động phải được đảm bảo cơ bản cho người lao động hợp đồng phụ.
 
-**영어 참고:** *three labor rights*, *collective labor rights* — 노동자의 결사·교섭·행동 권리를 묶어 말한다.
+**어휘 연결:** `노동권`은 넓은 권리 묶음이고, `노동3권`은 단결권·단체교섭권·단체행동권을 특정한다. — 'Quyền lao động' là một tập hợp các quyền rộng rãi và 'ba quyền lao động' chỉ rõ quyền tổ chức, quyền thương lượng tập thể và quyền hành động tập thể.
+
+**영어 참고:** *three labor rights*, *collective labor rights* — Điều này đề cập đến quyền của người lao động được lập hội, đàm phán và hành động.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** quyền liên kết, quyền thành lập công đoàn.
 
-**뉘앙스와 사용법:** 노조에 가입할 자유뿐 아니라 사용자의 방해 없이 집단을 조직할 수 있는 권리까지 포함한다.
+**뉘앙스와 사용법:** Bao gồm không chỉ quyền tự do tham gia công đoàn mà còn có quyền tổ chức các nhóm mà không có sự can thiệp của người sử dụng lao động.
 
-**재사용 가능한 콜로케이션·청크:** `단결권을 보장하다`, `단결권 침해`, `단결권 행사`.
+**재사용 가능한 콜로케이션·청크:** `단결권을 보장하다`, `단결권 침해`, `단결권 행사`. — ‘Đảm bảo quyền tổ chức’, ‘Vi phạm quyền tổ chức’, ‘Thực hiện quyền tổ chức’.
 
-**자주 쓰는 문형과 성분:** `노동자가 단결권을 행사하다`; 노동조합·해고·교섭과 결합한다.
+**자주 쓰는 문형과 성분:** `노동자가 단결권을 행사하다`, `Người lao động thực hiện quyền tổ chức` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·헌법·국제노동기구 담화의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho luật lao động, hiến pháp và diễn ngôn của Tổ chức Lao động Quốc tế.
 
 **예문:** 노조 가입을 이유로 불이익을 주는 것은 단결권 침해에 해당할 수 있다.
 
-**어휘 연결:** `결사의 자유`는 모든 집단에 적용되는 넓은 기본권이고, `단결권`은 노동관계에서 집단을 조직할 권리다.
+**Dịch:** Việc gây bất lợi cho những người tham gia công đoàn có thể cấu thành hành vi vi phạm quyền tổ chức của họ.
 
-**영어 참고:** *right to organize*, *freedom of association* — 노동자가 조직을 만들고 가입할 권리다.
+**어휘 연결:** `결사의 자유`는 모든 집단에 적용되는 넓은 기본권이고, `단결권`은 노동관계에서 집단을 조직할 권리다. — 'Tự do hiệp hội' là một quyền cơ bản rộng rãi áp dụng cho tất cả các nhóm và 'quyền tổ chức' là quyền tổ chức các nhóm trong quan hệ lao động.
+
+**영어 참고:** *right to organize*, *freedom of association* — Quyền thành lập và gia nhập tổ chức của người lao động.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** quyền thương lượng tập thể.
 
-**뉘앙스와 사용법:** 사용자가 반드시 노조 요구를 모두 받아들여야 한다는 뜻은 아니지만, 성실하게 협상에 응할 의무와 연결된다.
+**뉘앙스와 사용법:** Điều này không có nghĩa là người sử dụng lao động nhất thiết phải chấp nhận tất cả các yêu cầu của công đoàn, nhưng nó gắn liền với nghĩa vụ thương lượng một cách thiện chí.
 
-**재사용 가능한 콜로케이션·청크:** `단체교섭권을 행사하다`, `단체교섭권 보장`, `교섭 거부`.
+**재사용 가능한 콜로케이션·청크:** `단체교섭권을 행사하다`, `단체교섭권 보장`, `교섭 거부`. — `Thực hiện quyền thương lượng tập thể`, `Đảm bảo quyền thương lượng tập thể`, `Từ chối thương lượng`.
 
-**자주 쓰는 문형과 성분:** `노조가 단체교섭권을 바탕으로 협상하다`; 단체협약·임금·노사와 결합한다.
+**자주 쓰는 문형과 성분:** `노조가 단체교섭권을 바탕으로 협상하다`, `Công đoàn thương lượng dựa trên quyền thương lượng tập thể` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동법·노사정책·판결 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ để báo cáo về luật lao động, chính sách quản lý lao động và các phán quyết.
 
 **예문:** 회사가 교섭 자체를 거부하면 단체교섭권 침해가 문제 될 수 있다.
 
-**어휘 연결:** `협상`은 일반적인 대화이고, `단체교섭권`은 노동조합이 집단적으로 협상할 법적 권리다.
+**Dịch:** Nếu công ty từ chối thương lượng thì việc vi phạm quyền thương lượng tập thể có thể trở thành vấn đề.
 
-**영어 참고:** *right to collective bargaining* — 노동조건을 집단적으로 협상할 권리다.
+**어휘 연결:** `협상`은 일반적인 대화이고, `단체교섭권`은 노동조합이 집단적으로 협상할 법적 권리다. — 'Thương lượng' là cuộc trò chuyện chung và 'quyền thương lượng tập thể' là quyền hợp pháp của liên đoàn lao động để thương lượng tập thể.
+
+**영어 참고:** *right to collective bargaining* — Quyền thương lượng tập thể các điều kiện làm việc.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** quyền hành động tập thể, quyền đình công.
 
-**뉘앙스와 사용법:** 무제한적인 행동 자유가 아니라 법률상 절차와 공공서비스 제한 등 여러 조건 속에서 인정된다.
+**뉘앙스와 사용법:** Đó không phải là quyền tự do hành động không giới hạn nhưng được công nhận theo nhiều điều kiện khác nhau như thủ tục pháp lý và các hạn chế đối với dịch vụ công.
 
-**재사용 가능한 콜로케이션·청크:** `단체행동권을 행사하다`, `단체행동권 제한`, `쟁의행위`.
+**재사용 가능한 콜로케이션·청크:** `단체행동권을 행사하다`, `단체행동권 제한`, `쟁의행위`. — `Thực hiện quyền hành động tập thể`, `Hạn chế về quyền hành động tập thể`, `Hành động công nghiệp`.
 
-**자주 쓰는 문형과 성분:** `노조가 단체행동권을 행사하다`; 파업·쟁의·필수업무와 결합한다.
+**자주 쓰는 문형과 성분:** `노조가 단체행동권을 행사하다`, `Công đoàn thực hiện quyền hành động tập thể` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 헌법·노동법·노사 뉴스의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về hiến pháp, luật lao động và tin tức quản lý lao động.
 
 **예문:** 공공서비스의 연속성과 노동자의 단체행동권 사이에서 조정이 필요하다.
 
-**어휘 연결:** `파업`은 구체적인 행동이고, `단체행동권`은 그런 행동을 가능하게 하는 권리의 근거다.
+**Dịch:** Cần có sự phối hợp giữa tính liên tục của các dịch vụ công và quyền hành động tập thể của người lao động.
 
-**영어 참고:** *right to strike*, *right to collective action* — 노동자가 집단 행동으로 요구를 제기할 권리다.
+**어휘 연결:** `파업`은 구체적인 행동이고, `단체행동권`은 그런 행동을 가능하게 하는 권리의 근거다. — 'Đình công' là một hành động cụ thể và 'quyền hành động tập thể' là cơ sở của quyền khiến hành động đó có thể thực hiện được.
+
+**영어 참고:** *right to strike*, *right to collective action* — Quyền của người lao động đưa ra yêu cầu thông qua hành động tập thể.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** bồi thường tai nạn lao động.
 
-**뉘앙스와 사용법:** 개인의 불운을 보상하는 데서 그치지 않고 업무 관련성과 사용자의 예방 책임을 함께 따진다.
+**뉘앙스와 사용법:** Thay vì chỉ đền bù cho sự bất hạnh cá nhân, nó còn xem xét mức độ phù hợp với công việc và trách nhiệm phòng ngừa của người dùng.
 
-**재사용 가능한 콜로케이션·청크:** `산업재해보상보험`, `산업재해보상을 신청하다`, `업무상 재해`.
+**재사용 가능한 콜로케이션·청크:** `산업재해보상보험`, `산업재해보상을 신청하다`, `업무상 재해`. — `Bảo hiểm bồi thường tai nạn công nghiệp`, `Đơn xin bồi thường tai nạn công nghiệp`, `Tai nạn nghề nghiệp`.
 
-**자주 쓰는 문형과 성분:** `근로자가 산업재해보상을 받다`; 산재·인과성·보험과 결합한다.
+**자주 쓰는 문형과 성분:** `근로자가 산업재해보상을 받다`, `Người lao động nhận tiền bồi thường tai nạn lao động` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동·보험·법률 보도의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ để báo cáo về lao động, bảo hiểm và pháp luật.
 
 **예문:** 업무상 질병으로 인정받아야 산업재해보상 절차를 진행할 수 있다.
 
-**어휘 연결:** `손해배상`은 가해자의 책임을 묻는 민사 보상이고, `산업재해보상`은 사회보험을 통한 신속한 보호 체계다.
+**Dịch:** Thủ tục bồi thường tai nạn lao động chỉ có thể tiến hành nếu bệnh được công nhận là bệnh nghề nghiệp.
 
-**영어 참고:** *workers’ compensation* — 업무상 부상과 질병에 대해 치료와 급여를 제공한다.
+**어휘 연결:** `손해배상`은 가해자의 책임을 묻는 민사 보상이고, `산업재해보상`은 사회보험을 통한 신속한 보호 체계다. — 'Bồi thường thiệt hại' là bồi thường dân sự quy trách nhiệm cho thủ phạm và 'Bồi thường tai nạn công nghiệp' là một hệ thống bảo vệ nhanh chóng thông qua bảo hiểm xã hội.
+
+**영어 참고:** *workers’ compensation* — Cung cấp phương pháp điều trị và phúc lợi cho các thương tích và bệnh tật liên quan đến công việc.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** bắt nạt/quấy nhiễu nơi làm việc.
 
-**뉘앙스와 사용법:** 한국의 직장문화·법률·온라인 상담에서 현재 활발히 쓰이는 contemporary 표현이다. 단순한 불쾌감보다 반복적 권력 남용과 업무 환경의 악화를 문제 삼는다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt hiện đại hiện đang được sử dụng tích cực trong văn hóa, luật pháp và tư vấn trực tuyến tại nơi làm việc của Hàn Quốc. Thay vì cảm giác khó chịu đơn giản, vấn đề là sự lạm dụng quyền lực nhiều lần và môi trường làm việc tồi tệ hơn.
 
-**재사용 가능한 콜로케이션·청크:** `직장내 괴롭힘 신고`, `직장내 괴롭힘 조사`, `괴롭힘을 예방하다`.
+**재사용 가능한 콜로케이션·청크:** `직장내 괴롭힘 신고`, `직장내 괴롭힘 조사`, `괴롭힘을 예방하다`. — `Báo cáo bắt nạt tại nơi làm việc`, `Điều tra hành vi bắt nạt tại nơi làm việc`, `Ngăn chặn bắt nạt`.
 
-**자주 쓰는 문형과 성분:** `상사가 부하 직원에게 직장내 괴롭힘을 하다`; 폭언·따돌림·업무 배제와 결합한다.
+**자주 쓰는 문형과 성분:** `상사가 부하 직원에게 직장내 괴롭힘을 하다`, `Người giám sát quấy rối cấp dưới tại nơi làm việc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 직장 대화·노동 뉴스·온라인 커뮤니티에서 현재 사용된다.
+**사회적 관계·주제별 register:** Hiện được sử dụng trong các cuộc trò chuyện tại nơi làm việc, tin tức lao động và cộng đồng trực tuyến.
 
 **예문:** 회사는 직장내 괴롭힘 신고가 들어오자 독립적인 조사 절차를 시작했다.
 
-**어휘 연결:** `갈등`은 관계 충돌 전반이고, `직장내 괴롭힘`은 우위와 업무 환경 악화를 포함하는 법·정책 용어다.
+**Dịch:** Công ty đã khởi xướng một quy trình điều tra độc lập sau khi có báo cáo về hành vi quấy rối ở nơi làm việc.
 
-**영어 참고:** *workplace harassment*, *workplace bullying* — 직장 내 권력 남용과 반복적 괴롭힘을 뜻한다.
+**어휘 연결:** `갈등`은 관계 충돌 전반이고, `직장내 괴롭힘`은 우위와 업무 환경 악화를 포함하는 법·정책 용어다. — 'Xung đột' đề cập đến xung đột trong mối quan hệ nói chung và 'bắt nạt tại nơi làm việc' là thuật ngữ pháp lý và chính sách bao gồm sự thống trị và suy thoái môi trường làm việc.
+
+**영어 참고:** *workplace harassment*, *workplace bullying* — Điều này đề cập đến việc lạm dụng quyền lực và quấy rối nhiều lần tại nơi làm việc.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** lao động cảm xúc.
 
-**뉘앙스와 사용법:** 친절함을 개인 성격이 아니라 조직이 요구하는 노동 과정으로 분석하며 소진과 건강 문제를 함께 다룬다.
+**뉘앙스와 사용법:** Lòng tốt được phân tích như một quá trình lao động được yêu cầu bởi một tổ chức chứ không phải là một đặc điểm cá nhân, đồng thời các vấn đề về kiệt sức và sức khỏe được giải quyết cùng nhau.
 
-**재사용 가능한 콜로케이션·청크:** `감정노동자`, `감정노동의 강도`, `감정노동 보호 매뉴얼`.
+**재사용 가능한 콜로케이션·청크:** `감정노동자`, `감정노동의 강도`, `감정노동 보호 매뉴얼`. — `Người lao động tình cảm`, `Cường độ lao động tình cảm`, `Sổ tay bảo vệ lao động tình cảm`.
 
-**자주 쓰는 문형과 성분:** `서비스직이 감정노동을 수행하다`; 고객 응대·폭언·소진과 결합한다.
+**자주 쓰는 문형과 성분:** `서비스직이 감정노동을 수행하다`, `Nhân viên dịch vụ thực hiện lao động tình cảm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 노동·서비스·보건 기사에 쓰는 고급어다.
+**사회적 관계·주제별 register:** Từ nâng cao được sử dụng trong các bài viết về lao động, dịch vụ và sức khỏe.
 
 **예문:** 고객 폭언을 막지 못하면 감정노동자의 건강이 심각하게 손상될 수 있다.
 
-**어휘 연결:** `친절`은 태도이고, `감정노동`은 그 태도를 생산하도록 요구받는 업무 구조를 뜻한다.
+**Dịch:** Nếu không ngăn chặn được việc lạm dụng bằng lời nói của khách hàng, sức khỏe của những người lao động có cảm xúc có thể bị tổn hại nghiêm trọng.
 
-**영어 참고:** *emotional labor* — 업무상 감정을 관리하고 표현하는 노동이다.
+**어휘 연결:** `친절`은 태도이고, `감정노동`은 그 태도를 생산하도록 요구받는 업무 구조를 뜻한다. — 'Tử tế' là một thái độ và 'lao động tinh thần' đề cập đến cấu trúc công việc cần thiết để tạo ra thái độ đó.
+
+**영어 참고:** *emotional labor* — Đây là lao động quản lý và thể hiện cảm xúc trong công việc.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** lao động chăm sóc.
 
-**뉘앙스와 사용법:** 가정 안에서 무급으로 이뤄지는 일과 시설·방문 서비스의 유급 노동을 모두 포함한다. 성별 분업과 저평가 문제가 뒤따른다.
+**뉘앙스와 사용법:** Bao gồm cả công việc không được trả lương tại nhà và công việc được trả lương tại các cơ sở và dịch vụ thăm quan. Tiếp theo là các vấn đề về phân công lao động theo giới và đánh giá thấp.
 
-**재사용 가능한 콜로케이션·청크:** `돌봄노동의 사회화`, `돌봄노동자 처우`, `돌봄노동의 가치`.
+**재사용 가능한 콜로케이션·청크:** `돌봄노동의 사회화`, `돌봄노동자 처우`, `돌봄노동의 가치`. — `Xã hội hóa lao động chăm sóc`, `Điều trị nhân viên chăm sóc`, `Giá trị của lao động chăm sóc`.
 
-**자주 쓰는 문형과 성분:** `사회가 돌봄노동을 분담하다`; 가족·복지·여성·고령화와 결합한다.
+**자주 쓰는 문형과 성분:** `사회가 돌봄노동을 분담하다`, `Xã hội chia sẻ công việc chăm sóc` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지·젠더·노동 정책의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao về các chính sách phúc lợi, giới tính và lao động.
 
 **예문:** 고령화가 빨라질수록 돌봄노동의 가치를 임금과 제도에 반영해야 한다.
 
-**어휘 연결:** `간병`은 환자 돌봄의 한 영역이고, `돌봄노동`은 가정·시장·공공서비스의 돌봄 활동 전체를 분석한다.
+**Dịch:** Khi tình trạng lão hóa tăng nhanh, giá trị của công việc chăm sóc phải được phản ánh trong tiền lương và hệ thống.
 
-**영어 참고:** *care work*, *care labor* — 사람의 생활과 관계를 유지하는 유·무급 노동이다.
+**어휘 연결:** `간병`은 환자 돌봄의 한 영역이고, `돌봄노동`은 가정·시장·공공서비스의 돌봄 활동 전체를 분석한다. — 'Điều dưỡng' là lĩnh vực chăm sóc bệnh nhân và 'lao động chăm sóc' phân tích tất cả các hoạt động chăm sóc tại nhà, chợ và các dịch vụ công.
+
+**영어 참고:** *care work*, *care labor* — Công việc được trả lương và không được trả lương giúp duy trì cuộc sống và các mối quan hệ của mọi người.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** lao động thiết yếu.
 
-**뉘앙스와 사용법:** 의료·돌봄·물류·청소처럼 사회에 꼭 필요하지만 처우와 안전이 취약한 노동을 재평가하는 정책어다.
+**뉘앙스와 사용법:** Đây là từ chính sách đánh giá lại lao động thiết yếu cho xã hội nhưng được điều trị và an toàn kém, chẳng hạn như chăm sóc y tế, chăm sóc, hậu cần và dọn dẹp.
 
-**재사용 가능한 콜로케이션·청크:** `필수노동자 보호`, `필수노동의 가치`, `필수노동자 지원`.
+**재사용 가능한 콜로케이션·청크:** `필수노동자 보호`, `필수노동의 가치`, `필수노동자 지원`. — `Bảo vệ người lao động thiết yếu`, `Giá trị của lao động thiết yếu`, `Hỗ trợ cho người lao động thiết yếu`.
 
-**자주 쓰는 문형과 성분:** `사회가 필수노동을 유지하다`; 감염병·재난·돌봄·물류와 결합한다.
+**자주 쓰는 문형과 성분:** `사회가 필수노동을 유지하다`, `Xã hội duy trì lao động thiết yếu` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 재난·노동·복지 정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các chính sách về thảm họa, lao động và phúc lợi.
 
 **예문:** 감염병 시기에는 필수노동자의 안전 장비와 휴식권을 먼저 보장해야 한다.
 
-**어휘 연결:** `중요한 일`은 주관적 평가이고, `필수노동`은 사회 기능의 연속성과 노동자의 보호를 함께 논의하는 정책 개념이다.
+**Dịch:** Trong thời kỳ dịch bệnh truyền nhiễm, trước hết phải đảm bảo trang bị an toàn và quyền nghỉ ngơi cho những người lao động thiết yếu.
 
-**영어 참고:** *essential work*, *essential workers* — 위기에도 사회 기능을 유지하는 데 필요한 노동이다.
+**어휘 연결:** `중요한 일`은 주관적 평가이고, `필수노동`은 사회 기능의 연속성과 노동자의 보호를 함께 논의하는 정책 개념이다. — 'Công việc quan trọng' là đánh giá chủ quan và 'công việc thiết yếu' là một khái niệm chính sách thảo luận về cả tính liên tục của các chức năng xã hội và việc bảo vệ người lao động.
+
+**영어 참고:** *essential work*, *essential workers* — Đây là lao động cần thiết để duy trì các chức năng xã hội ngay cả trong thời kỳ khủng hoảng.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** khoảng trống bảo hiểm việc làm.
 
-**뉘앙스와 사용법:** 제도가 존재해도 특수고용·플랫폼·단시간 노동자가 실제로 접근하지 못하는 구조적 공백을 가리킨다.
+**뉘앙스와 사용법:** Điều này đề cập đến khoảng cách về cấu trúc mà những người lao động làm việc đặc biệt, nền tảng và bán thời gian thực sự không thể truy cập ngay cả khi hệ thống tồn tại.
 
-**재사용 가능한 콜로케이션·청크:** `고용보험 사각지대를 줄이다`, `사각지대 해소`, `보험 적용 확대`.
+**재사용 가능한 콜로케이션·청크:** `고용보험 사각지대를 줄이다`, `사각지대 해소`, `보험 적용 확대`. — 'Giảm điểm mù trong bảo hiểm việc làm', 'Giải quyết điểm mù', 'Mở rộng phạm vi bảo hiểm'.
 
-**자주 쓰는 문형과 성분:** `정책이 N의 고용보험 사각지대를 메우다`; 실업·플랫폼·비정규직과 결합한다.
+**자주 쓰는 문형과 성분:** `정책이 N의 고용보험 사각지대를 메우다`, `Chính sách lấp đầy những điểm mù trong bảo hiểm việc làm của N` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 복지·노동·사회보험 기사에 쓰는 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ được sử dụng trong các bài viết về phúc lợi, lao động và bảo hiểm xã hội.
 
 **예문:** 소득 신고가 불규칙한 노동자는 고용보험 사각지대에 남기 쉽다.
 
-**어휘 연결:** `미가입자`는 보험에 들지 않은 개인이고, `고용보험 사각지대`는 제도의 자격·행정 구조가 만든 집단적 공백이다.
+**Dịch:** Người lao động báo cáo thu nhập không thường xuyên có thể sẽ không được bảo hiểm việc làm.
 
-**영어 참고:** *employment insurance coverage gap*, *protection gap* — 제도 밖에 남아 실업 보호를 받지 못하는 영역이다.
+**어휘 연결:** `미가입자`는 보험에 들지 않은 개인이고, `고용보험 사각지대`는 제도의 자격·행정 구조가 만든 집단적 공백이다. — 'Không có bảo hiểm' là cá nhân không được bảo hiểm và 'điểm mù bảo hiểm việc làm' là khoảng cách chung được tạo ra bởi trình độ chuyên môn và cơ cấu hành chính của hệ thống.
+
+**영어 참고:** *employment insurance coverage gap*, *protection gap* — Đây là khu vực nằm ngoài hệ thống và không nhận được bảo vệ thất nghiệp.
 
 <!-- passage_word_count: 103 Korean eojeol; target_set: 사회안전망, 소득보전, 기초생활보장, 근로빈곤, 특수고용, 노동3권, 단결권, 단체교섭권, 단체행동권, 산업재해보상, 직장내 괴롭힘, 감정노동, 돌봄노동, 필수노동, 고용보험 사각지대 -->
 

@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** quản lý nhu cầu giao thông.
 
-**뉘앙스와 사용법:** 공급 확대의 반대말이 아니라 통행 수요를 분산해 혼잡·배출·공간 점유를 함께 낮추는 접근이다.
+**뉘앙스와 사용법:** Nó không trái ngược với việc mở rộng nguồn cung mà là một cách tiếp cận giúp giảm tắc nghẽn, khí thải và chiếm dụng không gian bằng cách phân phối nhu cầu đi lại.
 
-**재사용 가능한 콜로케이션·청크:** `교통수요관리 정책`, `교통수요관리 방안`, `교통수요관리 강화`.
+**재사용 가능한 콜로케이션·청크:** `교통수요관리 정책`, `교통수요관리 방안`, `교통수요관리 강화`. — `Chính sách quản lý nhu cầu vận tải`, `Kế hoạch quản lý nhu cầu vận tải`, `Tăng cường quản lý nhu cầu vận tải`.
 
-**자주 쓰는 문형과 성분:** `지자체가 교통수요관리를 추진하다`; 혼잡통행료·주차요금·재택근무와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 교통수요관리를 추진하다`, `Chính quyền địa phương thúc đẩy quản lý nhu cầu giao thông` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시계획·기후·교통경제의 고급 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách nâng cao trong quy hoạch đô thị, khí hậu và kinh tế vận tải.
 
 **예문:** 도심 재개발은 도로 확장보다 교통수요관리와 대중교통 개선을 먼저 검토해야 한다.
 
-**어휘 연결:** `교통체증 해소`가 결과를 말한다면, `교통수요관리`는 통행 패턴을 바꾸는 정책 수단을 가리킨다.
+**Dịch:** Tái phát triển đô thị nên xem xét việc quản lý nhu cầu giao thông và cải thiện giao thông công cộng trước khi mở rộng đường.
 
-**영어 참고:** *transport demand management* — 이동 수요와 통행 방식을 정책적으로 조정하는 접근이다.
+**어휘 연결:** `교통체증 해소`가 결과를 말한다면, `교통수요관리`는 통행 패턴을 바꾸는 정책 수단을 가리킨다. — Nếu 'giảm tắc nghẽn giao thông' đề cập đến kết quả thì 'quản lý nhu cầu giao thông' đề cập đến các biện pháp chính sách nhằm thay đổi mô hình giao thông.
+
+**영어 참고:** *transport demand management* — Đây là cách tiếp cận nhằm điều chỉnh nhu cầu đi lại và phương thức đi lại thông qua chính sách.
 
 ---
 
@@ -38,19 +40,21 @@
 
 **베트남어 뜻:** phí ùn tắc giao thông.
 
-**뉘앙스와 사용법:** 단순한 수입 확보보다 혼잡의 사회적 비용을 가격에 반영해 통행을 분산한다는 논리로 쓰인다.
+**뉘앙스와 사용법:** Nó được sử dụng với logic phân phối lưu lượng truy cập bằng cách phản ánh chi phí xã hội của tắc nghẽn trong giá thay vì chỉ đơn giản là đảm bảo thu nhập.
 
-**재사용 가능한 콜로케이션·청크:** `혼잡통행료 도입`, `혼잡통행료 부과`, `혼잡통행료 형평성`.
+**재사용 가능한 콜로케이션·청크:** `혼잡통행료 도입`, `혼잡통행료 부과`, `혼잡통행료 형평성`. — ‘Giới thiệu về phí tắc nghẽn’, ‘Áp dụng phí tắc nghẽn’, ‘Công bằng về phí tắc nghẽn’.
 
-**자주 쓰는 문형과 성분:** `정부가 혼잡통행료를 부과하다`; 도심·차량 진입·교통수요관리와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 혼잡통행료를 부과하다`, `Chính phủ áp dụng phí tắc nghẽn` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 조세·교통·환경 정책의 공식어이며 형평성 논쟁을 동반한다.
+**사회적 관계·주제별 register:** Đây là ngôn ngữ chính thức của các chính sách thuế, giao thông và môi trường và đi kèm với các lập luận về công bằng.
 
 **예문:** 혼잡통행료를 도입하려면 저소득 통행자와 대체 교통수단에 대한 보완책이 필요하다.
 
-**어휘 연결:** `도로 통행료`는 시설 이용료이고, `혼잡통행료`는 특정 시간과 장소의 외부비용을 줄이기 위한 가격이다.
+**Dịch:** Việc áp dụng thu phí tắc nghẽn yêu cầu các biện pháp bổ sung dành cho hành khách có thu nhập thấp và các phương thức vận chuyển thay thế.
 
-**영어 참고:** *congestion charge* — 혼잡 구역 진입에 부과하는 교통 수요 조절 비용이다.
+**어휘 연결:** `도로 통행료`는 시설 이용료이고, `혼잡통행료`는 특정 시간과 장소의 외부비용을 줄이기 위한 가격이다. — 'Phí đường bộ' là phí sử dụng cơ sở vật chất và 'phí tắc nghẽn' là mức giá để giảm chi phí bên ngoài tại một thời gian và địa điểm cụ thể.
+
+**영어 참고:** *congestion charge* — Đây là chi phí kiểm soát nhu cầu giao thông được tính khi đi vào khu vực tắc nghẽn.
 
 ---
 
@@ -63,19 +67,21 @@
 
 **베트남어 뜻:** trở ngại khi chuyển tuyến.
 
-**뉘앙스와 사용법:** 실제 대기 시간뿐 아니라 복잡한 동선, 불확실한 배차, 계단 이동처럼 체감되는 불편을 포함한다.
+**뉘앙스와 사용법:** Không chỉ bao gồm thời gian chờ đợi thực tế mà còn bao gồm những bất tiện có thể nhận thấy như tuyến đường phức tạp, điều phối không chắc chắn và di chuyển lên cầu thang.
 
-**재사용 가능한 콜로케이션·청크:** `환승저항을 낮추다`, `환승저항 분석`, `환승저항이 크다`.
+**재사용 가능한 콜로케이션·청크:** `환승저항을 낮추다`, `환승저항 분석`, `환승저항이 크다`. — 'Giảm mức kháng cự chuyển', 'Phân tích mức kháng cự chuyển', 'Khả năng kháng chuyển cao'.
 
-**자주 쓰는 문형과 성분:** `환승저항이 이용률을 떨어뜨리다`; 환승거리·대기시간·접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `환승저항이 이용률을 떨어뜨리다`, `Trở kháng chuyển giao làm giảm tỷ lệ sử dụng` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교통공학·대중교통 설계·이용자 경험 연구의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ kỹ thuật cho kỹ thuật vận tải, thiết kế giao thông công cộng và nghiên cứu trải nghiệm người dùng.
 
 **예문:** 환승저항을 줄이려면 노선도보다 실제 보행 동선과 승강장 간 거리를 먼저 개선해야 한다.
 
-**어휘 연결:** `환승 불편`은 일상적인 표현이고, `환승저항`은 그 불편을 수요 예측과 설계 지표로 개념화한다.
+**Dịch:** Để giảm lực cản chuyển tuyến, trước tiên, khoảng cách giữa các tuyến đường dành cho người đi bộ thực tế và sân ga phải được cải thiện, thay vì bản đồ tuyến đường.
 
-**영어 참고:** *transfer penalty* — 환승에서 발생하는 추가적인 시간과 불편의 비용이다.
+**어휘 연결:** `환승 불편`은 일상적인 표현이고, `환승저항`은 그 불편을 수요 예측과 설계 지표로 개념화한다. — 'Sự bất tiện trong việc chuyển giao' là một biểu hiện hàng ngày và 'sự phản đối trong việc chuyển giao' khái niệm hóa sự bất tiện đó như một chỉ báo thiết kế và dự báo nhu cầu.
+
+**영어 참고:** *transfer penalty* — Đây là chi phí về thời gian bổ sung và sự bất tiện phát sinh trong quá trình chuyển.
 
 ---
 
@@ -88,19 +94,21 @@
 
 **베트남어 뜻:** hệ thống chuyển tuyến tích hợp.
 
-**뉘앙스와 사용법:** 노선을 연결하는 데 그치지 않고 결제·운영기관·데이터 표준을 함께 통합한다는 뜻이다.
+**뉘앙스와 사용법:** Điều này có nghĩa là không chỉ kết nối các tuyến đường mà còn tích hợp thanh toán, tổ chức điều hành và tiêu chuẩn dữ liệu.
 
-**재사용 가능한 콜로케이션·청크:** `통합환승체계 구축`, `통합환승체계 개편`, `통합환승체계의 형평성`.
+**재사용 가능한 콜로케이션·청크:** `통합환승체계 구축`, `통합환승체계 개편`, `통합환승체계의 형평성`. — 'Thiết lập hệ thống chuyển giao tích hợp', 'Tổ chức lại hệ thống chuyển giao tích hợp', 'Công bằng của hệ thống chuyển giao tích hợp'.
 
-**자주 쓰는 문형과 성분:** `지자체들이 통합환승체계를 마련하다`; 환승할인·결제·데이터와 결합한다.
+**자주 쓰는 문형과 성분:** `지자체들이 통합환승체계를 마련하다`, `Chính quyền địa phương chuẩn bị hệ thống chuyển giao tích hợp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 광역교통·스마트시티·공공서비스 행정의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho giao thông đô thị, thành phố thông minh và quản lý dịch vụ công.
 
 **예문:** 통합환승체계가 작동하려면 서로 다른 운영기관이 요금과 데이터를 공동 관리해야 한다.
 
-**어휘 연결:** `환승센터`는 공간 거점이고, `통합환승체계`는 공간·요금·정보 운영을 포괄하는 제도다.
+**Dịch:** Để hệ thống chuyển tuyến tích hợp hoạt động, các cơ quan điều hành khác nhau phải cùng nhau quản lý giá vé và dữ liệu.
 
-**영어 참고:** *integrated transfer system* — 여러 교통수단의 환승 운영을 하나로 연결한 체계다.
+**어휘 연결:** `환승센터`는 공간 거점이고, `통합환승체계`는 공간·요금·정보 운영을 포괄하는 제도다. — 'Trung tâm trung chuyển' là cơ sở không gian và 'hệ thống trung chuyển tích hợp' là hệ thống bao gồm các hoạt động về không gian, giá vé và thông tin.
+
+**영어 참고:** *integrated transfer system* — Là hệ thống kết nối hoạt động vận chuyển của nhiều phương thức vận tải khác nhau thành một.
 
 ---
 
@@ -113,19 +121,21 @@
 
 **베트남어 뜻:** hệ thống xe buýt nhanh trục chính.
 
-**뉘앙스와 사용법:** 단순한 버스 노선이 아니라 도로 공간 재배분과 도시 간선망 설계를 포함한다.
+**뉘앙스와 사용법:** Nó không chỉ là tuyến xe buýt mà còn bao gồm việc phân bổ lại không gian đường bộ và thiết kế mạng lưới trục đô thị.
 
-**재사용 가능한 콜로케이션·청크:** `간선급행버스체계 구축`, `간선급행버스체계 전용차로`, `간선급행버스체계 정시성`.
+**재사용 가능한 콜로케이션·청크:** `간선급행버스체계 구축`, `간선급행버스체계 전용차로`, `간선급행버스체계 정시성`. — `Thiết lập hệ thống xe buýt nhanh trục', `Làn đường dành riêng cho hệ thống xe buýt nhanh trục', `Sự đúng giờ của hệ thống xe buýt trục chính'.
 
-**자주 쓰는 문형과 성분:** `도시가 간선급행버스체계를 도입하다`; 전용차로·환승·통근과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 간선급행버스체계를 도입하다`, `Thành phố giới thiệu hệ thống xe buýt nhanh` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교통 인프라·대중교통 투자·도시권 정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ chỉ cơ sở hạ tầng giao thông, đầu tư giao thông công cộng và chính sách khu vực đô thị.
 
 **예문:** 간선급행버스체계는 철도보다 빠르게 구축할 수 있지만 전용차로를 둘러싼 공간 갈등이 발생한다.
 
-**어휘 연결:** `급행버스`는 운행 방식이고, `간선급행버스체계`는 전용 인프라와 정류장까지 갖춘 네트워크다.
+**Dịch:** Hệ thống xe buýt tốc hành chính có thể được xây dựng nhanh hơn đường sắt, nhưng nảy sinh xung đột về không gian xung quanh các làn đường dành riêng.
 
-**영어 참고:** *bus rapid transit system* — 전용 인프라로 버스의 속도와 정시성을 높이는 체계다.
+**어휘 연결:** `급행버스`는 운행 방식이고, `간선급행버스체계`는 전용 인프라와 정류장까지 갖춘 네트워크다. — 'Xe buýt tốc hành' là một phương thức hoạt động và 'hệ thống xe buýt tốc hành trung kế' là mạng được trang bị cơ sở hạ tầng và điểm dừng chuyên dụng.
+
+**영어 참고:** *bus rapid transit system* — Đây là hệ thống giúp tăng tốc độ và sự đúng giờ của xe buýt với cơ sở hạ tầng chuyên dụng.
 
 ---
 
@@ -138,19 +148,21 @@
 
 **베트남어 뜻:** xe buýt sàn thấp.
 
-**뉘앙스와 사용법:** 차량 사양을 말하지만 실제로는 교통약자의 독립적인 승하차와 접근성 보장과 연결된다.
+**뉘앙스와 사용법:** Đề cập đến các thông số kỹ thuật của phương tiện, nhưng thực tế liên quan đến việc đảm bảo việc lên xuống xe độc ​​lập cũng như khả năng tiếp cận đối với các phương tiện giao thông dễ bị tổn thương.
 
-**재사용 가능한 콜로케이션·청크:** `저상버스 도입률`, `저상버스 운행`, `저상버스 승강장`.
+**재사용 가능한 콜로케이션·청크:** `저상버스 도입률`, `저상버스 운행`, `저상버스 승강장`. — `Tỷ lệ giới thiệu xe buýt sàn thấp`, `Hoạt động xe buýt sàn thấp`, `Sân xe buýt sàn thấp`.
 
-**자주 쓰는 문형과 성분:** `노선에 저상버스를 투입하다`; 교통약자·휠체어·접근성과 결합한다.
+**자주 쓰는 문형과 성분:** `노선에 저상버스를 투입하다`, `Giới thiệu tuyến xe buýt sàn thấp` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 교통복지·장애권·대중교통 조달의 실무어다.
+**사회적 관계·주제별 register:** Ngôn ngữ thực hành về phúc lợi giao thông, quyền của người khuyết tật và mua sắm giao thông công cộng.
 
 **예문:** 저상버스 비율만 높여도 승강장과 보도의 높이 차이가 크면 접근성이 보장되지 않는다.
 
-**어휘 연결:** `무장애 교통`은 원칙과 환경 전체를 말하고, `저상버스`는 그 원칙을 구현하는 차량이다.
+**Dịch:** Ngay cả khi tăng tỷ lệ xe buýt sàn thấp, khả năng tiếp cận vẫn không được đảm bảo nếu chênh lệch độ cao giữa sân ga và vỉa hè lớn.
 
-**영어 참고:** *low-floor bus* — 바닥을 낮춰 승하차 접근성을 높인 버스다.
+**어휘 연결:** `무장애 교통`은 원칙과 환경 전체를 말하고, `저상버스`는 그 원칙을 구현하는 차량이다. — 'Giao thông không rào cản' đề cập đến toàn bộ nguyên tắc và môi trường, và 'xe buýt sàn thấp' là phương tiện thể hiện nguyên tắc đó.
+
+**영어 참고:** *low-floor bus* — Đây là xe buýt có tầng thấp hơn để cải thiện khả năng tiếp cận lên và xuống xe.
 
 ---
 
@@ -163,19 +175,21 @@
 
 **베트남어 뜻:** logistics phục vụ đời sống hằng ngày.
 
-**뉘앙스와 사용법:** 국가 간 화물보다 집 앞 배송, 도심 물류 공간, 노동 조건과 생활 편의를 함께 다룬다.
+**뉘앙스와 사용법:** Thay vì vận chuyển hàng hóa xuyên biên giới, nó đề cập đến giao hàng tận nơi, không gian hậu cần đô thị, điều kiện làm việc và sự thuận tiện trong cuộc sống.
 
-**재사용 가능한 콜로케이션·청크:** `생활물류 서비스`, `생활물류 인프라`, `생활물류 종사자`.
+**재사용 가능한 콜로케이션·청크:** `생활물류 서비스`, `생활물류 인프라`, `생활물류 종사자`. — 'Dịch vụ hậu cần cuộc sống', 'Cơ sở hạ tầng hậu cần cuộc sống', 'Nhân viên hậu cần cuộc sống'.
 
-**자주 쓰는 문형과 성분:** `도시가 생활물류를 관리하다`; 택배·배달·공동배송과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 생활물류를 관리하다`, `Thành phố quản lý hậu cần hàng ngày` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 유통·도시계획·플랫폼 노동 보도의 정책어다.
+**사회적 관계·주제별 register:** Đây là từ chính sách để báo cáo về phân phối, quy hoạch đô thị và lao động nền tảng.
 
 **예문:** 생활물류가 늘수록 주거지의 배송 차량과 노동자 휴게 공간을 함께 설계해야 한다.
 
-**어휘 연결:** `물류`가 산업 전반을 가리킨다면, `생활물류`는 주민의 일상과 접점이 큰 마지막 구간을 강조한다.
+**Dịch:** Khi dịch vụ hậu cần hàng ngày tăng lên, các phương tiện giao hàng tại khu dân cư và khu vực nghỉ ngơi của công nhân phải được thiết kế cùng nhau.
 
-**영어 참고:** *last-mile consumer logistics* — 소비자의 일상에 닿는 배송과 생활 물류다.
+**어휘 연결:** `물류`가 산업 전반을 가리킨다면, `생활물류`는 주민의 일상과 접점이 큰 마지막 구간을 강조한다. — Nếu 'hậu cần' đề cập đến toàn bộ ngành, thì 'hậu cần sinh hoạt' nhấn mạnh phần cuối cùng có liên hệ nhiều nhất với cuộc sống hàng ngày của cư dân.
+
+**영어 참고:** *last-mile consumer logistics* — Giao hàng và hậu cần hàng ngày liên quan đến cuộc sống hàng ngày của người tiêu dùng.
 
 ---
 
@@ -188,19 +202,21 @@
 
 **베트남어 뜻:** chặng cuối.
 
-**뉘앙스와 사용법:** 거리는 짧아도 배송비·보행 환경·환승 불편이 집중되어 전체 서비스 품질을 좌우하는 구간으로 본다.
+**뉘앙스와 사용법:** Mặc dù khoảng cách ngắn nhưng nó được coi là phần quyết định chất lượng dịch vụ tổng thể vì tập trung chi phí giao hàng, môi trường đi bộ và những bất tiện khi di chuyển.
 
-**재사용 가능한 콜로케이션·청크:** `라스트마일 배송`, `라스트마일 혁신`, `라스트마일 비용`.
+**재사용 가능한 콜로케이션·청크:** `라스트마일 배송`, `라스트마일 혁신`, `라스트마일 비용`. — `Giao hàng chặng cuối`, `Đổi mới chặng cuối`, `Chi phí chặng cuối`.
 
-**자주 쓰는 문형과 성분:** `기업이 라스트마일을 최적화하다`; 물류거점·도보·소형 배송수단과 결합한다.
+**자주 쓰는 문형과 성분:** `기업이 라스트마일을 최적화하다`, `Công ty tối ưu hóa chặng cuối` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 유통·플랫폼·도시 물류 기사에서 굳어진 전문 차용어다.
+**사회적 관계·주제별 register:** Đây là từ mượn chuyên ngành đã được củng cố trong các bài viết về phân phối, nền tảng và hậu cần đô thị.
 
 **예문:** 라스트마일 비용을 낮추려면 동네 단위 공동배송과 보관함을 함께 운영해야 한다.
 
-**어휘 연결:** `배송`은 행위 전체이고, `라스트마일`은 최종 목적지 주변의 비용과 운영 문제를 특정한다.
+**Dịch:** Để giảm chi phí chặng cuối, việc phân phối và lưu trữ chung phải được vận hành ở cấp vùng lân cận.
 
-**영어 참고:** *last mile* — 물류나 이동에서 최종 목적지까지의 마지막 구간이다.
+**어휘 연결:** `배송`은 행위 전체이고, `라스트마일`은 최종 목적지 주변의 비용과 운영 문제를 특정한다. — 'Giao hàng' là toàn bộ hoạt động và 'dặm cuối' chỉ định chi phí và các vấn đề vận hành xung quanh điểm đến cuối cùng.
+
+**영어 참고:** *last mile* — Đây là phần cuối cùng từ hậu cần hoặc vận chuyển đến đích cuối cùng.
 
 ---
 
@@ -213,19 +229,21 @@
 
 **베트남어 뜻:** đầu mối logistics.
 
-**뉘앙스와 사용법:** 대형 시설의 입지뿐 아니라 도심 소음·교통량·노동 환경과 지역 수용성을 함께 논의한다.
+**뉘앙스와 사용법:** Chúng tôi không chỉ thảo luận về vị trí của các cơ sở lớn mà còn cả tiếng ồn đô thị, lưu lượng giao thông, môi trường lao động và khả năng chấp nhận của khu vực.
 
-**재사용 가능한 콜로케이션·청크:** `도심 물류거점`, `물류거점 조성`, `물류거점 분산`.
+**재사용 가능한 콜로케이션·청크:** `도심 물류거점`, `물류거점 조성`, `물류거점 분산`. — ‘Căn cứ hậu cần đô thị’, ‘Tạo cơ sở hậu cần’, ‘Phân tán các căn cứ hậu cần’.
 
-**자주 쓰는 문형과 성분:** `지자체가 물류거점을 분산하다`; 공동배송·택배·교통혼잡과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 물류거점을 분산하다`, `Chính quyền địa phương phân tán các cơ sở hậu cần` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 국토계획·유통·산업입지 정책의 공식어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính thức cho các chính sách quy hoạch, phân bổ đất đai và địa điểm công nghiệp quốc gia.
 
 **예문:** 물류거점을 주거지 가까이에 둘 때는 배송 편의뿐 아니라 소음과 안전 대책을 공개해야 한다.
 
-**어휘 연결:** `창고`는 보관 기능에 초점을 두고, `물류거점`은 집하·분류·운송 연결 기능까지 포함한다.
+**Dịch:** Khi cơ sở hậu cần được đặt gần nơi cư trú, các biện pháp về tiếng ồn và an toàn cũng như sự thuận tiện trong giao hàng phải được công bố.
 
-**영어 참고:** *logistics hub* — 화물을 집결·분류하고 운송망을 연결하는 거점이다.
+**어휘 연결:** `창고`는 보관 기능에 초점을 두고, `물류거점`은 집하·분류·운송 연결 기능까지 포함한다. — ‘Kho’ tập trung vào chức năng lưu trữ và ‘cơ sở hậu cần’ bao gồm các chức năng thu thập, phân loại và kết nối vận chuyển.
+
+**영어 참고:** *logistics hub* — Là căn cứ thu gom, phân loại hàng hóa và kết nối mạng lưới giao thông.
 
 ---
 
@@ -238,19 +256,21 @@
 
 **베트남어 뜻:** micromobility, phương tiện di chuyển cự ly ngắn.
 
-**뉘앙스와 사용법:** 자동차의 대체재로 기대되지만 보도 점유, 안전, 배터리 회수와 같은 외부효과도 함께 다룬다.
+**뉘앙스와 사용법:** Nó được kỳ vọng sẽ là sự thay thế cho ô tô nhưng nó cũng giải quyết các tác động bên ngoài như chiếm dụng vỉa hè, an toàn và phục hồi pin.
 
-**재사용 가능한 콜로케이션·청크:** `마이크로모빌리티 서비스`, `마이크로모빌리티 규제`, `마이크로모빌리티 생태계`.
+**재사용 가능한 콜로케이션·청크:** `마이크로모빌리티 서비스`, `마이크로모빌리티 규제`, `마이크로모빌리티 생태계`. — `Dịch vụ di động vi mô`, `quy định về di động vi mô`, `hệ sinh thái di động vi mô`.
 
-**자주 쓰는 문형과 성분:** `도시가 마이크로모빌리티를 관리하다`; 공유킥보드·자전거·라스트마일과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 마이크로모빌리티를 관리하다`, `Thành phố quản lý khả năng di chuyển vi mô` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 스마트시티·스타트업·교통안전 보도의 고급 차용어다.
+**사회적 관계·주제별 register:** Đây là từ mượn cấp cao để báo cáo về thành phố thông minh, công ty khởi nghiệp và an toàn giao thông.
 
 **예문:** 마이크로모빌리티를 활성화하려면 보행자와 이용자 모두의 안전 기준을 세밀하게 나눠야 한다.
 
-**어휘 연결:** `개인형 이동장치`는 법·행정상의 분류이고, `마이크로모빌리티`는 서비스와 산업 생태계까지 포함한다.
+**Dịch:** Để kích hoạt tính di động vi mô, các tiêu chuẩn an toàn cho cả người đi bộ và người sử dụng phải được phân chia chi tiết.
 
-**영어 참고:** *micromobility* — 짧은 거리 이동에 쓰이는 소형·경량 이동수단과 서비스다.
+**어휘 연결:** `개인형 이동장치`는 법·행정상의 분류이고, `마이크로모빌리티`는 서비스와 산업 생태계까지 포함한다. — 'Thiết bị di chuyển cá nhân' là một phân loại hành chính và pháp lý, và 'khả năng di chuyển vi mô' bao gồm các dịch vụ và hệ sinh thái công nghiệp.
+
+**영어 참고:** *micromobility* — Các phương tiện và dịch vụ vận chuyển nhỏ, nhẹ được sử dụng để di chuyển quãng đường ngắn.
 
 ---
 
@@ -263,19 +283,21 @@
 
 **베트남어 뜻:** tái thiết kế thu hẹp mặt đường cho xe.
 
-**뉘앙스와 사용법:** 도로를 단순히 축소한다는 뜻보다 자동차 중심 공간을 사람 중심 공간으로 재배분한다는 정책적 의미가 크다.
+**뉘앙스와 사용법:** Thay vì chỉ giảm đường, ý nghĩa chính sách của việc phân bổ lại không gian lấy ô tô làm trung tâm cho không gian lấy con người làm trung tâm sẽ lớn hơn.
 
-**재사용 가능한 콜로케이션·청크:** `도로 다이어트 사업`, `도로 다이어트 효과`, `도로 다이어트 논란`.
+**재사용 가능한 콜로케이션·청크:** `도로 다이어트 사업`, `도로 다이어트 효과`, `도로 다이어트 논란`. — 'Kinh doanh ăn kiêng trên đường', 'Hiệu ứng ăn kiêng trên đường', 'Tranh cãi về chế độ ăn kiêng trên đường'.
 
-**자주 쓰는 문형과 성분:** `지자체가 도로 다이어트를 시행하다`; 보행권·자전거·교통혼잡과 결합한다.
+**자주 쓰는 문형과 성분:** `지자체가 도로 다이어트를 시행하다`, `Chính quyền địa phương thực hiện chế độ ăn kiêng trên đường` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시재생·교통안전·기후정책의 전문어다.
+**사회적 관계·주제별 register:** Đây là thuật ngữ về tái tạo đô thị, an toàn giao thông và chính sách khí hậu.
 
 **예문:** 도로 다이어트는 보행 공간을 넓히지만 주변 교통량이 어디로 이동하는지도 함께 검증해야 한다.
 
-**어휘 연결:** `차로 축소`는 물리적 조치를 말하고, `도로 다이어트`는 그 조치를 도시 공간 재편의 전략으로 설명한다.
+**Dịch:** Chế độ ăn uống trên đường sẽ mở rộng không gian đi bộ nhưng cũng phải được xác minh nơi giao thông xung quanh di chuyển.
 
-**영어 참고:** *road diet* — 차량 공간을 줄여 보행·자전거·대중교통 공간을 늘리는 설계다.
+**어휘 연결:** `차로 축소`는 물리적 조치를 말하고, `도로 다이어트`는 그 조치를 도시 공간 재편의 전략으로 설명한다. — 'Giảm làn đường' đề cập đến các biện pháp vật lý và 'giảm đường' mô tả các biện pháp này như một chiến lược để tổ chức lại không gian đô thị.
+
+**영어 참고:** *road diet* — Đây là thiết kế giúp giảm không gian phương tiện và tăng không gian cho người đi bộ, xe đạp và phương tiện giao thông công cộng.
 
 ---
 
@@ -288,19 +310,21 @@
 
 **베트남어 뜻:** thành phố thân thiện với người đi bộ.
 
-**뉘앙스와 사용법:** 보도 정비만이 아니라 토지 이용, 상점 접근성, 그늘, 휴식, 장애 접근성을 함께 평가한다.
+**뉘앙스와 사용법:** Đánh giá không chỉ việc bảo trì vỉa hè mà còn cả việc sử dụng đất, khả năng tiếp cận cửa hàng, bóng mát, chỗ nghỉ ngơi và khả năng tiếp cận dành cho người khuyết tật.
 
-**재사용 가능한 콜로케이션·청크:** `보행친화도시 조성`, `보행친화도시 지표`, `보행친화도시 정책`.
+**재사용 가능한 콜로케이션·청크:** `보행친화도시 조성`, `보행친화도시 지표`, `보행친화도시 정책`. — ‘Tạo dựng thành phố thân thiện với người đi bộ’, ‘Chỉ số thành phố thân thiện với người đi bộ’, ‘Chính sách thành phố thân thiện với người đi bộ’.
 
-**자주 쓰는 문형과 성분:** `도시가 보행친화도시로 전환하다`; 생활권·거리·안전과 결합한다.
+**자주 쓰는 문형과 성분:** `도시가 보행친화도시로 전환하다`, `Thành phố chuyển đổi thành thành phố thân thiện với người đi bộ` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 도시재생·공중보건·기후 적응의 정책어다.
+**사회적 관계·주제별 register:** Ngôn ngữ chính sách tái tạo đô thị, y tế công cộng và thích ứng với khí hậu.
 
 **예문:** 보행친화도시는 걷기 좋은 길만 만드는 것이 아니라 목적지가 가까운 생활권을 만드는 데서 시작한다.
 
-**어휘 연결:** `보행자 우선도로`는 특정 공간이고, `보행친화도시`는 도시 전체의 설계 원칙이다.
+**Dịch:** Thành phố thân thiện với người đi bộ không chỉ bắt đầu bằng việc tạo ra những con đường tốt để đi bộ mà còn tạo ra một khu vực sinh hoạt có điểm đến gần với điểm đến.
 
-**영어 참고:** *walkable city* — 걷기와 일상 접근성이 도시 설계의 중심인 도시다.
+**어휘 연결:** `보행자 우선도로`는 특정 공간이고, `보행친화도시`는 도시 전체의 설계 원칙이다. — 'Đường ưu tiên dành cho người đi bộ' là một không gian cụ thể và 'thành phố thân thiện với người đi bộ' là nguyên tắc thiết kế cho toàn bộ thành phố.
+
+**영어 참고:** *walkable city* — Đây là thành phố nơi việc đi bộ và khả năng tiếp cận hàng ngày là trọng tâm của thiết kế đô thị.
 
 ---
 
@@ -313,19 +337,21 @@
 
 **베트남어 뜻:** khử carbon trong lĩnh vực vận tải.
 
-**뉘앙스와 사용법:** 전기차 보급 하나만을 뜻하지 않고 수요 감축, 연료 전환, 철도 분담, 물류 효율을 함께 본다.
+**뉘앙스와 사용법:** Nó không chỉ có nghĩa là phân phối xe điện mà còn xem xét việc giảm nhu cầu, chuyển đổi nhiên liệu, chia sẻ đường sắt và hiệu quả hậu cần.
 
-**재사용 가능한 콜로케이션·청크:** `수송부문 탈탄소화 로드맵`, `수송부문 탈탄소화 목표`, `탈탄소화 전환 비용`.
+**재사용 가능한 콜로케이션·청크:** `수송부문 탈탄소화 로드맵`, `수송부문 탈탄소화 목표`, `탈탄소화 전환 비용`. — `Lộ trình khử cacbon trong ngành giao thông vận tải`, `Mục tiêu khử cacbon trong ngành giao thông vận tải`, `Chi phí chuyển đổi quá trình khử cacbon`.
 
-**자주 쓰는 문형과 성분:** `정부가 수송부문 탈탄소화를 앞당기다`; 전기화·철도·연료와 결합한다.
+**자주 쓰는 문형과 성분:** `정부가 수송부문 탈탄소화를 앞당기다`, `Chính phủ đẩy nhanh quá trình khử cacbon trong ngành giao thông vận tải` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 기후정책·산업전환·국제협약 보도의 고급어다.
+**사회적 관계·주제별 register:** Thuật ngữ nâng cao để báo cáo về chính sách khí hậu, chuyển đổi công nghiệp và các hiệp định quốc tế.
 
 **예문:** 수송부문 탈탄소화는 차량 교체만으로 달성되지 않으며 이동 수요와 도시 구조도 바꿔야 한다.
 
-**어휘 연결:** `친환경 교통`은 넓은 홍보 표현이고, `수송부문 탈탄소화`는 배출 감축 경로와 산업 전환을 분석하는 말이다.
+**Dịch:** Không thể đạt được quá trình khử cacbon trong ngành giao thông chỉ bằng việc thay thế phương tiện; nhu cầu đi lại và cơ cấu đô thị cũng phải thay đổi.
 
-**영어 참고:** *transport-sector decarbonization* — 운송 전반의 온실가스 배출을 구조적으로 줄이는 전환이다.
+**어휘 연결:** `친환경 교통`은 넓은 홍보 표현이고, `수송부문 탈탄소화`는 배출 감축 경로와 산업 전환을 분석하는 말이다. — 'Giao thông xanh' là một cách diễn đạt quảng cáo rộng rãi và 'khử cacbon trong ngành giao thông vận tải' là thuật ngữ phân tích các lộ trình giảm phát thải và chuyển đổi công nghiệp.
+
+**영어 참고:** *transport-sector decarbonization* — Đây là quá trình chuyển đổi sang giảm phát thải khí nhà kính một cách có cấu trúc trong suốt quá trình vận chuyển.
 
 ---
 
@@ -338,19 +364,21 @@
 
 **베트남어 뜻:** người chủ yếu đi bộ/đi phương tiện công cộng.
 
-**뉘앙스와 사용법:** 자기 정체성을 가볍게 표현하거나 여행·주거 선택을 설명할 때 쓰며, 공식 문서에는 어울리지 않는다.
+**뉘앙스와 사용법:** Được sử dụng để thể hiện một cách nhẹ nhàng danh tính của một người hoặc giải thích các lựa chọn về việc đi lại và nhà ở và không phù hợp với các tài liệu chính thức.
 
-**재사용 가능한 콜로케이션·청크:** `뚜벅이 여행`, `뚜벅이 코스`, `뚜벅이에게 좋은 동네`.
+**재사용 가능한 콜로케이션·청크:** `뚜벅이 여행`, `뚜벅이 코스`, `뚜벅이에게 좋은 동네`. — 'Đi du lịch để đi bộ', 'Đi du lịch để đi bộ', 'Khu phố tốt để đi bộ'.
 
-**자주 쓰는 문형과 성분:** `나는 뚜벅이라서 지하철역 가까운 곳을 찾다`; 여행·주거·약속 장소와 결합한다.
+**자주 쓰는 문형과 성분:** `나는 뚜벅이라서 지하철역 가까운 곳을 찾다`, `Tôi là người chạy bộ nên tôi tìm một địa điểm gần ga tàu điện ngầm` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 메신저·여행 후기·일상 대화에서 현재도 활발한 비격식 표현이다.
+**사회적 관계·주제별 register:** Đó là cách diễn đạt thân mật vẫn còn hoạt động trong các trình nhắn tin, đánh giá du lịch và cuộc trò chuyện hàng ngày.
 
 **예문:** 나는 뚜벅이라서 환승이 편하고 늦게까지 대중교통이 다니는 동네를 선호해.
 
-**어휘 연결:** `보행자`는 행정·안전 분류이고, `뚜벅이`는 자동차 없이 사는 생활방식과 말하는 사람의 태도까지 드러낸다.
+**Dịch:** Tôi là người hay đi bộ nên tôi thích khu vực lân cận nơi việc di chuyển dễ dàng và phương tiện giao thông công cộng chạy đến tận khuya.
 
-**영어 참고:** *car-free commuter/walker* — 차 없이 걷거나 대중교통을 이용하는 사람을 친근하게 부르는 말이다.
+**어휘 연결:** `보행자`는 행정·안전 분류이고, `뚜벅이`는 자동차 없이 사는 생활방식과 말하는 사람의 태도까지 드러낸다. — 'Người đi bộ' là phân loại hành chính/an toàn và 'ttubeok' tiết lộ lối sống không có ô tô và thậm chí cả thái độ của người nói.
+
+**영어 참고:** *car-free commuter/walker* — Thuật ngữ thân thiện dành cho người đi bộ hoặc sử dụng phương tiện giao thông công cộng mà không có ô tô.
 
 ---
 
@@ -363,19 +391,21 @@
 
 **베트남어 뜻:** nhóm người chủ yếu dùng xe riêng.
 
-**뉘앙스와 사용법:** 차량 소유와 생활 패턴을 가볍게 분류하는 현재의 온라인·생활 기사 표현이며, 중립적일 수도 비판적일 수도 있다.
+**뉘앙스와 사용법:** Đây là cách diễn đạt bài viết về phong cách sống và trực tuyến hiện tại, phân loại nhẹ quyền sở hữu phương tiện và các kiểu sống và có thể trung lập hoặc phê phán.
 
-**재사용 가능한 콜로케이션·청크:** `자차족의 출퇴근`, `자차족을 위한 주차`, `자차족 증가`.
+**재사용 가능한 콜로케이션·청크:** `자차족의 출퇴근`, `자차족을 위한 주차`, `자차족 증가`. — 'Đi lại cho những người sở hữu ô tô riêng', 'Bãi đậu xe cho những người sở hữu ô tô riêng', 'Tăng số lượng những người sở hữu ô tô riêng'.
 
-**자주 쓰는 문형과 성분:** `자차족은 환승보다 주차 조건을 먼저 보다`; 주거·통근·유가와 결합한다.
+**자주 쓰는 문형과 성분:** `자차족은 환승보다 주차 조건을 먼저 보다`, `Những người sở hữu ô tô riêng sẽ xem xét điều kiện đỗ xe trước khi chuyển tuyến` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 커뮤니티·부동산·자동차 기사와 일상 대화에서 쓰이는 contemporary 표현이다.
+**사회적 관계·주제별 register:** Một cách diễn đạt hiện đại được sử dụng trong các cuộc trò chuyện hàng ngày với các kỹ sư cộng đồng, bất động sản và ô tô.
 
 **예문:** 자차족이 많은 지역에서는 대중교통을 늘려도 주차 문제와 통행 수요가 쉽게 줄지 않는다.
 
-**어휘 연결:** `운전자`는 특정 행위자를 뜻하고, `자차족`은 자동차 중심의 소비·이동 생활양식을 강조한다.
+**Dịch:** Ở những khu vực có nhiều người sở hữu ô tô riêng, vấn đề đỗ xe và nhu cầu đi lại không dễ dàng giảm ngay cả khi phương tiện giao thông công cộng tăng lên.
 
-**영어 참고:** *car-dependent crowd* — 자가용을 중심으로 생활하는 사람들을 가리키는 비격식 표현이다.
+**어휘 연결:** `운전자`는 특정 행위자를 뜻하고, `자차족`은 자동차 중심의 소비·이동 생활양식을 강조한다. — 'Người lái xe' đề cập đến một tác nhân cụ thể và 'chủ sở hữu ô tô' nhấn mạnh lối sống di chuyển và tiêu dùng lấy ô tô làm trung tâm.
+
+**영어 참고:** *car-dependent crowd* — Đây là cách diễn đạt thân mật đề cập đến những người sống xung quanh ô tô của họ.
 
 <!-- passage_word_count: 100 Korean eojeol; target_set: 교통수요관리, 혼잡통행료, 환승저항, 통합환승체계, 간선급행버스체계, 저상버스, 생활물류, 라스트마일, 물류거점, 마이크로모빌리티, 도로 다이어트, 보행친화도시, 수송부문 탈탄소화, 뚜벅이, 자차족 -->
 

@@ -10,5 +10,8 @@
 - Chỉ note British English khi khác đáng kể với American English.
 - Korean linking đặt ở cuối và chỉ dùng khi giúp ghi nhớ hoặc phân biệt nghĩa.
 - Ví dụ phải tự nhiên, ưu tiên cách dùng thực tế trong contemporary American English.
+- Không bịa IPA, CEFR placement, frequency, collocation, register, nghĩa hoặc bản dịch; mục chưa kiểm chứng phải đánh dấu `UNVERIFIED`/`NEEDS_SOURCE`.
+- Không copy hoặc paraphrase nhẹ định nghĩa, ví dụ, bản dịch hay giải thích từ word list/dictionary; nguồn chỉ dùng để cross-check.
+- Không tạo lại cùng một headword+sense, collocation hoặc teaching context chỉ để tăng số lượng.
 
 Task vocabulary = `COMMON_PROMPT` + `VOCAB_PROMPT` + yêu cầu cụ thể hiện tại.

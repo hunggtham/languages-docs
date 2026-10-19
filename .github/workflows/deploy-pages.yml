@@ -68,6 +68,9 @@ jobs:
         run: python3 scripts/build-content-index.py
 
       - name: Build Vite site
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
         run: npm run --prefix apps/web build -- --base=/languages-docs/
 
       - name: Configure GitHub Pages

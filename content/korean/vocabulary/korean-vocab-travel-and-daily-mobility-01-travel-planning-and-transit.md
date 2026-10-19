@@ -13,19 +13,21 @@
 
 **베트남어 뜻:** hành trình.
 
-**뉘앙스와 사용법:** 단순한 이동보다 여행의 흐름과 경험을 넓게 바라보는 말이다. 여행 계획서나 회고에서 특히 자연스럽다.
+**뉘앙스와 사용법:** Điều này đề cập đến cái nhìn rộng hơn về dòng chảy và trải nghiệm du lịch thay vì di chuyển đơn giản. Điều này đặc biệt tự nhiên trong kế hoạch du lịch và hồi ký.
 
-**재사용 가능한 콜로케이션·청크:** `긴 여정`, `여정을 시작하다`, `여정이 이어지다`, `여정의 일부`.
+**재사용 가능한 콜로케이션·청크:** `긴 여정`, `여정을 시작하다`, `여정이 이어지다`, `여정의 일부`. — `Hành trình dài`, `Bắt đầu hành trình`, `Hành trình tiếp tục`, `Một phần của hành trình`.
 
-**자주 쓰는 문형과 성분:** `N을/를 여정으로 삼다`; 출발지·목적지·경유지와 결합한다.
+**자주 쓰는 문형과 성분:** `N을/를 여정으로 삼다`, `Lấy N làm một cuộc hành trình` — Mẫu câu cho biết chủ thể, trợ từ, đối tượng và thành phần thường đi cùng mục từ.
 
-**사회적 관계·주제별 register:** 여행기·안내문·일상 회고에서 중립적이며 `여행`보다 문어적이다.
+**사회적 관계·주제별 register:** Nó mang tính trung lập trong các câu chuyện du lịch, hướng dẫn và hồi ký cuộc sống hàng ngày và mang tính văn học hơn là 'du lịch'.
 
 **예문:** 이번 여정은 여러 도시를 천천히 둘러보는 방식으로 짰다.
 
-**어휘 연결:** `여행`은 활동 자체, `여정`은 이동의 전체 과정, `경로`는 실제로 지나가는 길이나 방법을 강조한다.
+**Dịch:** Hành trình này được thiết kế để tham quan chậm một số thành phố.
 
-**영어 참고:** *journey*, *itinerary*, *trip* — *journey*는 과정의 느낌, *itinerary*는 계획표, *trip*은 여행 자체에 가깝다.
+**어휘 연결:** `여행`은 활동 자체, `여정`은 이동의 전체 과정, `경로`는 실제로 지나가는 길이나 방법을 강조한다. — 'Du lịch' nhấn mạnh bản thân hoạt động, 'hành trình' nhấn mạnh toàn bộ quá trình di chuyển và 'tuyến đường' nhấn mạnh con đường hoặc phương pháp đi qua thực tế.
+
+**영어 참고:** *journey*, *itinerary*, *trip* — *hành trình* gần với cảm giác về quá trình hơn, *hành trình* là lịch trình và *chuyến đi* gần với chính chuyến đi hơn.
 
 ---
 
