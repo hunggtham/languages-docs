@@ -15,10 +15,1128 @@
 - Source PDFs and dictionaries are reference material only; lesson explanations and passages are original.
 - Lexical audit: 214 nested target headwords retain `advanced_native` or `contemporary_native_hot` metadata; 71 common/support words were removed from target headings but remain available in explanations and passages. The 67 legacy flat headwords are preserved as `legacy_review`.
 
-## 2026-10-09 10,000-word expansion kickoff
+## 2026-10-16 15,000-word expansion kickoff
 
-- Baseline: the `2026-10-06 five-thousand-vocabulary checkpoint` on `origin/main` is the verified starting point. This isolated branch continues from that 5,000-heading corpus; the next target is 10,000 validated structured headings.
-- Progress in this checkpoint: 3,960 new targets across 264 independent topic batches; 8,960 structured headings toward the 10,000 target, leaving 1,040 after this checkpoint.
+- Baseline: the `2026-10-16 10,010-vocabulary checkpoint` on `codex/korean-10k` achieved the 10,000-word milestone. Continuing expansion toward 15,000 structured headwords across B2~C2 societal, intellectual, professional, and cultural Korean domains under the shared common prompt.
+- Progress in this checkpoint: 10,000 new targets across 667 independent topic batches; 15,000 structured headings toward the 15,000 target, leaving 0 after this checkpoint.
+- Topic: `microbiology-synthetic-biology-metabolic-engineering-and-crispr`
+- File: `01-metabolic-engineering-and-synthetic-biology.md`
+- Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, CRISPR gene editing, microbial cell factories, and flux balance analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-algorithmic-trading-market-microstructure-and-order-book`
+- File: `02-market-microstructure-and-order-book.md`
+- Coverage: 15 new advanced-native algorithmic trading, market microstructure, limit order book dynamics, bid-ask spread liquidity, and adverse selection risk headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-engineering-additive-manufacturing-and-selective-laser-melting`
+- File: `03-additive-manufacturing-and-laser-melting.md`
+- Coverage: 15 new advanced-native metal additive manufacturing, selective laser melting (SLM), powder bed fusion, laser volumetric energy density, and residual stress suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-optogenetics-and-neural-circuit-mapping`
+- File: `04-optogenetics-and-neural-circuit-mapping.md`
+- Coverage: 15 new advanced-native systems neuroscience, optogenetics, channelrhodopsin light stimulation, neural circuit functional mapping, and spatial resolution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-linguistics-semantic-parsing-and-dependency-grammar`
+- File: `05-semantic-parsing-and-dependency-grammar.md`
+- Coverage: 15 new advanced-native computational linguistics, semantic parsing, Universal Dependencies (UD), Abstract Meaning Representation (AMR), and predicate-argument structure extraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-solid-state-batteries-and-solid-electrolytes`
+- File: `06-solid-state-batteries-and-solid-electrolytes.md`
+- Coverage: 15 new advanced-native solid-state battery technology, sulfide-based superionic conductors, solid electrolyte interphase resistance, and lithium dendrite suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-policy-carbon-border-adjustment-mechanism-and-trade-policy`
+- File: `07-cbam-and-climate-trade-policy.md`
+- Coverage: 15 new advanced-native climate trade policy, EU CBAM regulation, embedded emissions calculation, carbon leakage prevention, and WTO consistency headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-social-epistemology-and-testimony`
+- File: `08-social-epistemology-and-testimony.md`
+- Coverage: 15 new advanced-native social epistemology, testimony-based knowledge acquisition, epistemic reliability criteria, epistemic injustice, and peer disagreement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ocean-acidification-and-calcification-dynamics`
+- File: `09-ocean-acidification-and-calcification.md`
+- Coverage: 15 new advanced-native marine environmental science, ocean acidification acceleration, carbonate saturation horizon, aragonite saturation state, and calcifying organism shell vulnerability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-distributed-consensus-and-byzantine-fault-tolerance`
+- File: `10-distributed-consensus-and-pbft.md`
+- Coverage: 15 new advanced-native distributed computing, Practical Byzantine Fault Tolerance (PBFT), State Machine Replication (SMR), consensus quorum requirement, and Raft algorithm headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-car-t-cell-therapy-and-cytokine-release-syndrome`
+- File: `01-car-t-cell-therapy-and-crs.md`
+- Coverage: 15 new advanced-native CAR-T cell immunotherapy, chimeric antigen receptor structure, cytokine release syndrome (CRS), neurotoxicity diagnosis, and durable remission headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-mechanism-design-and-auction-theory`
+- File: `02-mechanism-design-and-auction-theory.md`
+- Coverage: 15 new advanced-native mechanism design, incentive compatibility, Vickrey-Clarke-Groves (VCG) mechanism, revelation principle, and winner's curse headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-computing-quantum-error-correction-and-surface-codes`
+- File: `03-quantum-error-correction-and-surface-codes.md`
+- Coverage: 15 new advanced-native quantum error correction (QEC), surface code architecture, stabilizer syndrome extraction, fault-tolerant logical qubit, and threshold theorem headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-constitutional-interpretation-originalism-and-living-constitution`
+- File: `04-constitutional-interpretation-and-living-constitution.md`
+- Coverage: 15 new advanced-native constitutional interpretation methodology, originalism, living constitution doctrine, judicial review, and democratic legitimacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `earth-sciences-supervolcano-calderas-and-magma-chamber-dynamics`
+- File: `05-supervolcano-calderas-and-magma-dynamics.md`
+- Coverage: 15 new advanced-native supervolcano caldera collapse, magma chamber overpressure, rhyolitic high-viscosity magma, Plinian eruption column, and pyroclastic density currents headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `artificial-intelligence-reinforcement-learning-from-human-feedback-rlhf`
+- File: `06-rlhf-and-value-alignment.md`
+- Coverage: 15 new advanced-native reinforcement learning from human feedback (RLHF), reward model training, PPO alignment, reward hacking detection, and hallucination mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-cultural-capital-and-habitus-reproduction`
+- File: `07-cultural-capital-and-habitus-reproduction.md`
+- Coverage: 15 new advanced-native Bourdieu cultural capital theory, embodied habitus formation, institutionalized credentials, symbolic violence concealment, and distinction taste headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-glaciology-ice-sheet-dynamics-and-sea-level-rise`
+- File: `08-glaciology-and-sea-level-rise.md`
+- Coverage: 15 new advanced-native polar ice sheet mass balance deficit, marine ice sheet instability (MISI), basal sliding velocity, ice shelf domino collapse, and grounding line retreat headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-philosophy-of-mind-functionalism-and-multiple-realizability`
+- File: `09-functionalism-and-multiple-realizability.md`
+- Coverage: 15 new advanced-native functionalist mind-body theory, multiple realizability argument, physicalist supervenience, qualia, explanatory gap, and Chinese room argument headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-graphene-and-transition-metal-dichalcogenides`
+- File: `10-graphene-and-2d-semiconductors.md`
+- Coverage: 15 new advanced-native monolayer graphene, 2D transition metal dichalcogenides (TMDs), van der Waals heterostructures, bandgap engineering, and moiré superlattices headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biochemistry-epigenetics-histone-modification-and-chromatin-remodeling`
+- File: `01-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native histone modification, epigenetic reprogramming, SWI/SNF chromatin remodeling, DNA methylation, and histone acetyltransferase headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aerospace-engineering-hypersonic-aerodynamics-and-scramjet-propulsion`
+- File: `02-hypersonic-aerodynamics-and-scramjet.md`
+- Coverage: 15 new advanced-native hypersonic boundary layer transition, shock wave-boundary layer interaction, scramjet supersonic combustion, and aerothermal thermal protection system headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-science-deliberative-democracy-and-public-sphere`
+- File: `03-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native Habermas public sphere theory, ideal speech situation, communicative rationality, deliberative democratic decision-making, and discursive legitimacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-neuroscience-spiking-neural-networks-and-stdp`
+- File: `04-spiking-neural-networks-and-stdp.md`
+- Coverage: 15 new advanced-native spiking neural networks (SNN), spike-timing-dependent plasticity (STDP), leaky integrate-and-fire (LIF) neuron model, and dynamic synaptic conductance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `international-law-state-immunity-and-universal-jurisdiction`
+- File: `05-state-immunity-and-universal-jurisdiction.md`
+- Coverage: 15 new advanced-native sovereign state jurisdictional immunity, universal jurisdiction principle, jus cogens crimes against humanity, act of state doctrine, and universal jurisdiction complementarity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-geology-hydrothermal-vents-and-chemosynthesis`
+- File: `06-hydrothermal-vents-and-chemosynthesis.md`
+- Coverage: 15 new advanced-native hydrothermal vent architecture, hydrogen sulfide chemosynthetic ecosystem, black smoker polymetallic chimney mineralization, and barophilic autotrophic bacteria headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cybersecurity-zero-trust-architecture-and-microsegmentation`
+- File: `07-zero-trust-and-microsegmentation.md`
+- Coverage: 15 new advanced-native Zero Trust trust verification framework, network microsegmentation, dynamic continuous authentication and authorization, SDP perimeter defense, and blast radius minimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrophysics-gravitational-waves-and-neutron-star-mergers`
+- File: `08-gravitational-waves-and-neutron-star-mergers.md`
+- Coverage: 15 new advanced-native binary neutron star merger, spacetime-distortion gravitational wave observation, kilonova electromagnetic afterglow, multi-messenger astronomy, and r-process nucleosynthesis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-frame-semantics`
+- File: `09-conceptual-metaphor-and-frame-semantics.md`
+- Coverage: 15 new advanced-native conceptual metaphor theory mapping, embodied cognition meaning formation, Fillmore frame semantics structure, conceptual blending mental spaces, and image schemas headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleontology-cambrian-explosion-and-burgess-shale-biota`
+- File: `10-cambrian-explosion-and-burgess-shale.md`
+- Coverage: 15 new advanced-native Cambrian explosion event, Burgess Shale fossil preservation, adaptive radiation of body plans, soft-tissue fossilization, and Anomalocaris anatomy headwords across `news_formal` in one `target_set` passage.
+- Topic: `linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment`
+- File: `01-conceptual-metaphor-and-embodiment.md`
+- Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor theory, embodied cognition hypothesis, image schema projection, and conceptual blending network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-platform-economics-two-sided-markets-and-network-effects`
+- File: `02-two-sided-markets-and-network-effects.md`
+- Coverage: 15 new advanced-native platform economics, two-sided market platforms, cross-side network externalities, asymmetric pricing structures, and winner-take-all dynamics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-epigenetics-dna-methylation-and-chromatin-remodeling`
+- File: `03-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native molecular epigenetics, DNA methylation reactions, histone post-translational modifications, chromatin remodeling complexes, and epigenetic drift headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `robotics-humanoid-locomotion-zero-moment-point-and-mpc`
+- File: `04-humanoid-locomotion-and-zero-moment-point.md`
+- Coverage: 15 new advanced-native robotics, bipedal humanoid locomotion, zero-moment point (ZMP) control, linear inverted pendulum models, and model predictive control algorithms headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-urban-sociology-spatial-segregation-and-gentrification`
+- File: `05-spatial-segregation-and-gentrification.md`
+- Coverage: 15 new advanced-native urban sociology, residential spatial segregation, urban gentrification, involuntary displacement of indigenous residents, and rent-gap theory analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-thermoelectric-materials-and-seebeck-figure-of-merit`
+- File: `06-thermoelectric-materials-and-seebeck-effect.md`
+- Coverage: 15 new advanced-native thermoelectric materials science, Seebeck coefficient measurement, thermoelectric figure-of-merit (ZT), lattice thermal conductivity suppression, and waste heat power generation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-microbiology-rhizosphere-and-mycorrhizae`
+- File: `07-soil-microbiology-and-mycorrhizae.md`
+- Coverage: 15 new advanced-native soil microbiology, rhizosphere microbial community ecology, mycorrhizal symbiotic networks, root exudate attractants, and plant growth-promoting rhizobacteria (PGPR) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-maritime-law-and-unclos-exclusive-economic-zone`
+- File: `08-maritime-law-and-unclos-eez.md`
+- Coverage: 15 new advanced-native international law of the sea, UNCLOS norms, exclusive economic zone (EEZ) limits, continental shelf delimitation principles, and sovereign resource exploration rights headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astronomy-exoplanet-atmospheres-transmission-spectroscopy`
+- File: `09-exoplanet-atmospheres-and-transmission-spectroscopy.md`
+- Coverage: 15 new advanced-native astrophysics, exoplanet atmospheric analysis, transit transmission spectroscopy, planetary atmospheric absorption spectra, and biosignature indicator searches headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-differential-privacy-and-noise-mechanisms`
+- File: `10-differential-privacy-and-noise-mechanisms.md`
+- Coverage: 15 new advanced-native computer science, differential privacy guarantees, Laplace noise mechanisms, Gaussian perturbation algorithms, and privacy budget parameters headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astronomy-stellar-nucleosynthesis-and-s-process`
+- File: `01-stellar-nucleosynthesis-and-s-process.md`
+- Coverage: 15 new advanced-native astronomy, stellar nucleosynthesis process, slow neutron capture (s-process), asymptotic giant branch (AGB) stars, and galactic chemical evolution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-investor-biases-and-market-anomalies`
+- File: `02-investor-biases-and-market-anomalies.md`
+- Coverage: 15 new advanced-native behavioral finance, bounded rationality, prospect theory, disposition effect, heuristic bias, momentum anomaly, and panic selling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-engineering-computational-fluid-dynamics-turbulence`
+- File: `03-computational-fluid-dynamics-and-turbulence.md`
+- Coverage: 15 new advanced-native computational fluid dynamics (CFD), Navier-Stokes equations, Reynolds-averaged turbulence modeling, turbulent boundary layer, and large eddy simulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-neural-oscillations-and-brain-rhythms`
+- File: `04-neural-oscillations-and-brain-rhythms.md`
+- Coverage: 15 new advanced-native neuroscience, neural oscillations, gamma phase synchronization, theta-gamma phase-amplitude coupling, and synaptic plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-sociolinguistics-diglossia-and-code-switching`
+- File: `05-diglossia-and-code-switching.md`
+- Coverage: 15 new advanced-native sociolinguistics, diglossic structure, code-switching strategies, high/low linguistic variety functional division, and endangered language preservation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-perovskite-photovoltaics-and-tandem-cells`
+- File: `06-perovskite-photovoltaics-and-tandem-cells.md`
+- Coverage: 15 new advanced-native materials science, perovskite light-absorbing layer, tandem solar cell stacking, carrier recombination suppression, and operational stability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-policy-regulatory-sandbox-and-fintech-governance`
+- File: `07-regulatory-sandbox-and-fintech-governance.md`
+- Coverage: 15 new advanced-native public policy, regulatory sandbox exemptions, provisional licensing, ex-post liability protection, algorithm transparency audits, and digital financial inclusion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-political-philosophy-deliberative-democracy`
+- File: `08-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native political philosophy, deliberative democracy public sphere, Habermas communicative rationality, ideal speech situation conditions, and rational argument persuasion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-mangrove-blue-carbon-and-coastal-sequestration`
+- File: `09-mangrove-blue-carbon-and-coastal-sequestration.md`
+- Coverage: 15 new advanced-native marine ecology, mangrove blue carbon, anoxic sediment carbon sequestration, intertidal halophyte communities, and blue carbon offset credits headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-zero-knowledge-proofs-and-zk-snarks`
+- File: `10-zero-knowledge-proofs-and-zk-snarks.md`
+- Coverage: 15 new advanced-native computer science, zero-knowledge proof protocols, zk-SNARKs succinct non-interactive proofs, elliptic curve pairing, arithmetic circuits, and quantum-resistant ZKP headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microbiology-gut-microbiome-and-short-chain-fatty-acids`
+- File: `01-gut-microbiome-and-short-chain-fatty-acids.md`
+- Coverage: 15 new advanced-native microbiology, gut microbiome dysbiosis, short-chain fatty acids (SCFA), mucosal immunity regulation, and gut-brain axis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-algorithmic-trading-and-order-book-dynamics`
+- File: `01-algorithmic-trading-and-order-book-dynamics.md`
+- Coverage: 15 new advanced-native financial engineering, high-frequency trading (HFT), order book imbalance, market impact minimization, and flash crash dynamics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-solid-state-batteries-and-sulfide-electrolytes`
+- File: `03-solid-state-batteries-and-sulfide-electrolytes.md`
+- Coverage: 15 new advanced-native materials science, solid-state secondary batteries, sulfide solid electrolytes, lithium dendrite suppression, and isostatic pressing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-work-and-platform-labor-precarity`
+- File: `04-platform-labor-and-precariat.md`
+- Coverage: 15 new advanced-native sociology of work, algorithmic labor direction, gig work precarity, digital precariat class formation, and labor human rights guarantee headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-graph-neural-networks-and-message-passing`
+- File: `05-graph-neural-networks-and-message-passing.md`
+- Coverage: 15 new advanced-native computer science, graph neural network architecture, message passing paradigm, oversmoothing, and molecular property prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `climatology-monsoon-dynamics-and-tropical-convective-systems`
+- File: `06-monsoon-dynamics-and-tropical-convective-systems.md`
+- Coverage: 15 new advanced-native climatology, monsoon circulation system, ITCZ migration, Walker circulation variability, and compound drought-flood risk headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-mrna-vaccines-and-lipid-nanoparticles`
+- File: `07-mrna-vaccines-and-lipid-nanoparticles.md`
+- Coverage: 15 new advanced-native biomedicine, mRNA vaccines, lipid nanoparticle encapsulation, endosomal escape maximization, and rapid platform transition headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-space-law-and-outer-space-treaty`
+- File: `08-space-law-and-outer-space-treaty.md`
+- Coverage: 15 new advanced-native international space law, Outer Space Treaty peaceful uses, launching state strict liability, non-appropriation, and space traffic management headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microplastics-and-trophic-bioaccumulation`
+- File: `09-microplastics-and-trophic-bioaccumulation.md`
+- Coverage: 15 new advanced-native environmental ecology, microplastic contamination, trophic biomagnification, secondary fragmentation, and reduction roadmap headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-pragmatics-speech-acts-and-implicatures`
+- File: `10-speech-acts-and-implicatures.md`
+- Coverage: 15 new advanced-native linguistics, pragmatic context dependency, speech act theory, Gricean conversational implicatures, and face-saving politeness strategies headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrophysics-gravitational-waves-and-black-hole-mergers`
+- File: `01-gravitational-waves-and-black-hole-mergers.md`
+- Coverage: 15 new advanced-native astrophysics, gravitational wave back-tracing, binary inspiral, ringdown oscillation, and remnant black hole spin headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-development-economics-and-foreign-aid-effectiveness`
+- File: `01-development-economics-and-foreign-aid-effectiveness.md`
+- Coverage: 15 new advanced-native development economics, poverty trap escape pathway, aid effectiveness evaluation, grant conditionality, and informal economy formalization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `robotics-simultaneous-localization-and-mapping-slam`
+- File: `01-simultaneous-localization-and-mapping-slam.md`
+- Coverage: 15 new advanced-native robotics, SLAM, LiDAR point cloud registration, visual odometry drift, and pose graph optimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-synaptic-plasticity-and-long-term-potentiation`
+- File: `01-synaptic-plasticity-and-long-term-potentiation.md`
+- Coverage: 15 new advanced-native neuroscience, synaptic plasticity regulation, LTP induction mechanism, dendritic spine remodeling, and CaMKII headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-semantics-and-distributional-embeddings`
+- File: `01-computational-semantics-and-distributional-embeddings.md`
+- Coverage: 15 new advanced-native computational linguistics, distributional semantics, word embeddings, latent semantic analysis, and contextualized representations headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `chemical-engineering-membrane-distillation-and-desalination`
+- File: `01-membrane-distillation-and-desalination.md`
+- Coverage: 15 new advanced-native chemical engineering, membrane distillation, hydrophobic porous membranes, vapor pressure gradient, and concentration polarization mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-health-epidemiological-surveillance-and-outbreak-investigation`
+- File: `01-epidemiological-surveillance-and-outbreak-investigation.md`
+- Coverage: 15 new advanced-native public health, epidemiological surveillance systems, R0 estimation, herd immunity thresholds, and genomic surveillance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-justified-true-belief-and-gettier-problem`
+- File: `01-epistemology-justified-true-belief-and-gettier-problem.md`
+- Coverage: 15 new advanced-native epistemology, justified true belief (JTB), Gettier counterexamples, reliabilism, contextualism, and evidentialism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ocean-acidification-and-coral-calcification`
+- File: `01-ocean-acidification-and-coral-calcification.md`
+- Coverage: 15 new advanced-native marine environmental science, ocean acidification rate, coral calcification inhibition, aragonite saturation horizon, and MPA resilience building headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-urban-sociology-and-gentrification-displacement`
+- File: `01-urban-sociology-and-gentrification-displacement.md`
+- Coverage: 15 new advanced-native urban sociology, commercial gentrification, involuntary resident displacement, loss of place identity, and socio-spatial polarization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microbiology-virology-viral-replication-and-antiviral-mechanisms`
+- File: `01-viral-replication-and-antiviral-mechanisms.md`
+- Coverage: 15 new advanced-native virology, viral replication cycle, reverse transcriptase inhibitors, envelope formation, and viral uncoating headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-heuristics-and-nudges`
+- File: `01-behavioral-economics-heuristics-and-nudges.md`
+- Coverage: 15 new advanced-native behavioral economics, bounded rationality, prospect theory, loss aversion, anchoring effect, and nudge policy design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-smart-materials-shape-memory-alloys-and-piezoelectrics`
+- File: `01-smart-materials-shape-memory-alloys-and-piezoelectrics.md`
+- Coverage: 15 new advanced-native smart materials, shape memory alloys, martensitic transformation, superelasticity, piezoelectric actuators, and magnetostriction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-education-and-social-reproduction`
+- File: `01-sociology-of-education-and-social-reproduction.md`
+- Coverage: 15 new advanced-native sociology of education, cultural capital theory, social reproduction, habitus formation, symbolic violence, and meritocracy ideology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-distributed-consensus-and-raft-algorithm`
+- File: `01-distributed-consensus-and-raft-algorithm.md`
+- Coverage: 15 new advanced-native distributed consensus algorithms, Raft, leader election protocol, log replication, split-brain phenomenon, and quorum consensus headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `climatology-paleoclimatology-ice-cores-and-orbital-forcing`
+- File: `01-paleoclimatology-ice-cores-and-orbital-forcing.md`
+- Coverage: 15 new advanced-native paleoclimatology, ice core drilling, oxygen isotope ratio, Milankovitch cycles, Heinrich events, and thermohaline collapse headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-regenerative-medicine-tissue-engineering-scaffolds`
+- File: `01-regenerative-medicine-tissue-engineering-scaffolds.md`
+- Coverage: 15 new advanced-native regenerative medicine, tissue engineering scaffolds, biocompatible polymers, 3D bioprinting, dECM, and cell adhesion peptides headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-derivatives-pricing-and-black-scholes-model`
+- File: `01-derivatives-pricing-and-black-scholes-model.md`
+- Coverage: 15 new advanced-native financial engineering, Black-Scholes model, derivatives pricing, implied volatility surface, delta hedging, and put-call parity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-remediation-and-phytoremediation`
+- File: `01-soil-remediation-and-phytoremediation.md`
+- Coverage: 15 new advanced-native soil remediation, phytoremediation, hyperaccumulator plants, soil washing, bioventing, and thermal desorption headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-international-humanitarian-law-and-geneva-conventions`
+- File: `01-international-humanitarian-law-and-geneva-conventions.md`
+- Coverage: 15 new advanced-native international humanitarian law, Geneva Conventions system, proportionality principle, military necessity, and universal jurisdiction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-historical-linguistics-and-phonological-change`
+- File: `01-historical-linguistics-and-phonological-change.md`
+- Coverage: 15 new advanced-native historical linguistics, phonological change rules, comparative reconstruction, vowel shift, and Grimm sound shift headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biophysics-cryo-electron-microscopy-and-structural-biology`
+- File: `01-cryo-electron-microscopy-and-structural-biology.md`
+- Coverage: 15 new advanced-native cryo-EM, single-particle analysis, vitreous ice, electron density maps, and structural biology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-industrial-organization-and-antitrust-regulation`
+- File: `01-industrial-organization-and-antitrust-regulation.md`
+- Coverage: 15 new advanced-native industrial organization, antitrust regulation, market power abuse, merger review, predatory pricing, and HHI headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `telecommunications-optical-communication-and-dense-wavelength-multiplexing`
+- File: `01-optical-communication-and-dense-wavelength-multiplexing.md`
+- Coverage: 15 new advanced-native DWDM optical communications, fiber dispersion compensation, EDFA, coherent detection, and eye pattern analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geology-structural-geology-and-plate-boundary-faulting`
+- File: `01-structural-geology-and-plate-boundary-faulting.md`
+- Coverage: 15 new advanced-native structural geology, fault mechanics, strike-slip faults, ductile shear zones, brittle-ductile transition, and paleoseismology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-post-quantum-cryptography-and-lattice-theory`
+- File: `01-post-quantum-cryptography-and-lattice-theory.md`
+- Coverage: 15 new advanced-native post-quantum cryptography, quantum-resistant signatures, Ring-LWE, Shor's algorithm, and shortest vector problem SVP headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-epigenetics-and-chromatin-remodeling`
+- File: `01-epigenetics-and-chromatin-remodeling.md`
+- Coverage: 15 new advanced-native epigenomics, DNA methylation pattern analysis, histone deacetylation, chromatin remodeling, and pioneer transcription factors headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-high-entropy-alloys-and-mechanical-behavior`
+- File: `01-high-entropy-alloys-and-mechanical-behavior.md`
+- Coverage: 15 new advanced-native high-entropy alloys HEAs, cryogenic fracture toughness, severe lattice distortion, sluggish diffusion, and TWIP plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-science-authoritarianism-and-regime-transition`
+- File: `01-authoritarianism-and-regime-transition.md`
+- Coverage: 15 new advanced-native authoritarian resilience, regime transition theory, selectorate theory, clientelist networks, and democratic backsliding headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-wastewater-treatment-and-anaerobic-digestion`
+- File: `01-wastewater-treatment-and-anaerobic-digestion.md`
+- Coverage: 15 new advanced-native anaerobic digestion, methane fermentation efficiency, UASB, anammox denitrification, and sewage sludge resource recovery headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `oceanography-deep-sea-hydrothermal-vents-and-chemosynthesis`
+- File: `01-deep-sea-hydrothermal-vents-and-chemosynthesis.md`
+- Coverage: 15 new advanced-native deep-sea hydrothermal vents, chemosynthesis, black smokers, and plume dispersion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-public-finance-sovereign-debt-and-fiscal-rules`
+- File: `01-public-finance-sovereign-debt-and-fiscal-rules.md`
+- Coverage: 15 new advanced-native public finance, sovereign debt ratio, fiscal rules, automatic stabilizers, and fiscal sustainability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-neurodegenerative-protein-aggregation-pathology`
+- File: `01-neurodegenerative-protein-aggregation-pathology.md`
+- Coverage: 15 new advanced-native neurodegenerative pathology, protein misfolding, amyloid-beta, tau tangles, and alpha-synucleinopathy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nanoelectronics-2d-semiconductors-and-field-effect-transistors`
+- File: `01-2d-semiconductors-and-field-effect-transistors.md`
+- Coverage: 15 new advanced-native nanoelectronics, 2D semiconductors, TMDCs, van der Waals heterostructures, and subthreshold swing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computer-science-ai-ethics-algorithmic-bias-and-xai`
+- File: `01-ai-ethics-algorithmic-bias-and-xai.md`
+- Coverage: 15 new advanced-native AI ethics, algorithmic bias, fairness metrics, LIME local surrogate models, and SHAP Shapley value headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-ecotoxicology-and-persistent-organic-pollutants`
+- File: `01-ecotoxicology-and-persistent-organic-pollutants.md`
+- Coverage: 15 new advanced-native ecotoxicology, persistent organic pollutants POPs, bioaccumulation factors, PFAS, and Stockholm Convention headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-philosophy-of-law-positivism-and-natural-law`
+- File: `01-philosophy-of-law-positivism-and-natural-law.md`
+- Coverage: 15 new advanced-native legal philosophy, legal positivism, natural law theory, Grundnorm basic norm, and Radbruch formula headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `food-engineering-high-pressure-processing-and-non-thermal-sterilization`
+- File: `01-high-pressure-processing-and-non-thermal-sterilization.md`
+- Coverage: 15 new advanced-native food engineering, high pressure processing HPP, microbial inactivation kinetics, PEF, and cold chain distribution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrobiology-extremophiles-and-planetary-exploration`
+- File: `01-extremophiles-and-planetary-exploration.md`
+- Coverage: 15 new advanced-native astrobiology, extremophiles, radioresistant bacteria, Europa subsurface oceans, and lithopanspermia headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-historical-sociology-and-fiscal-military-state`
+- File: `01-historical-sociology-and-fiscal-military-state.md`
+- Coverage: 15 new advanced-native historical sociology, fiscal-military state, monopoly of legitimate violence, standing army, and Peace of Westphalia headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `civil-earthquake-engineering-and-seismic-isolation`
+- File: `01-earthquake-engineering-and-seismic-isolation.md`
+- Coverage: 15 new advanced-native earthquake engineering, seismic isolation bearings, viscous dampers, and dynamic response spectrum headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedicine-regenerative-medicine-and-ipsc-therapy`
+- File: `01-regenerative-medicine-and-ipsc-therapy.md`
+- Coverage: 15 new advanced-native regenerative medicine, Yamanaka factors, iPSC pluripotency, teratoma assay, and cell replacement therapy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-solid-mechanics-and-acoustic-emission-testing`
+- File: `01-solid-mechanics-and-acoustic-emission-testing.md`
+- Coverage: 15 new advanced-native solid mechanics, acoustic emission testing, piezoelectric sensors, TOA defect localization, and fracture surface fractography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-behavioral-neuroscience-and-memory-consolidation`
+- File: `01-behavioral-neuroscience-and-memory-consolidation.md`
+- Coverage: 15 new advanced-native behavioral neuroscience, structural plasticity, long-term potentiation LTP, engram ensembles, and memory consolidation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-critical-mineral-geopolitics-and-supply-chain`
+- File: `01-critical-mineral-geopolitics-and-supply-chain.md`
+- Coverage: 15 new advanced-native critical mineral geopolitics, rare earth elements, resource weaponization, strategic petroleum reserves, and supply chain offtake contracts headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `atmospheric-stratospheric-ozone-and-aerosol-microphysics`
+- File: `01-stratospheric-ozone-and-aerosol-microphysics.md`
+- Coverage: 15 new advanced-native atmospheric chemistry, stratospheric ozone depletion, polar stratospheric clouds PSC, heterogeneous photochemistry, and aerosol optical depth AOD headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-comparative-electoral-systems-and-party-dynamics`
+- File: `01-comparative-electoral-systems-and-party-dynamics.md`
+- Coverage: 15 new advanced-native comparative electoral systems, proportional representation, Duverger's law, electoral thresholds, and coalition government formation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aerospace-satellite-orbital-mechanics-and-attitude-control`
+- File: `01-satellite-orbital-mechanics-and-attitude-control.md`
+- Coverage: 15 new advanced-native satellite orbital mechanics, Hohmann transfer orbits, ADCS attitude control, reaction wheels, star trackers, and deorbiting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-biomimetic-engineering-and-nature-inspired-nanomaterials`
+- File: `01-biomimetic-engineering-and-nature-inspired-nanomaterials.md`
+- Coverage: 15 new advanced-native biomimetic engineering, lotus leaf superhydrophobicity, gecko van der Waals adhesion, structural coloration, and mussel adhesive proteins headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `humanities-digital-humanities-and-computational-stylometry`
+- File: `01-digital-humanities-and-computational-stylometry.md`
+- Coverage: 15 new advanced-native digital humanities, computational stylometry, ancient manuscript deciphering, OCR text mining, and KWIC concordance networks headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microbiology-synthetic-virology-and-phage-therapy`
+- File: `01-synthetic-virology-and-phage-therapy.md`
+- Coverage: 15 new advanced-native synthetic virology, phage cocktail therapy, CRISPR armed phages, and lytic enzyme engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-and-nudge-theory`
+- File: `01-behavioral-economics-and-nudge-theory.md`
+- Coverage: 15 new advanced-native behavioral economics, bounded rationality, loss aversion, choice architecture nudges, and mental accounting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `civil-structural-health-monitoring-and-smart-bridges`
+- File: `01-structural-health-monitoring-and-smart-bridges.md`
+- Coverage: 15 new advanced-native structural health monitoring, fiber optic FBG sensors, modal parameter identification, and bridge fatigue lifespan prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `anthropology-forensic-anthropology-and-skeletal-biology`
+- File: `01-forensic-anthropology-and-skeletal-biology.md`
+- Coverage: 15 new advanced-native forensic anthropology, biological profile estimation, craniofacial reconstruction, dental radiograph matching, and skeletal trauma analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `photonics-integrated-silicon-photonics-and-optical-computing`
+- File: `01-integrated-silicon-photonics-and-optical-computing.md`
+- Coverage: 15 new advanced-native silicon photonics, Mach-Zehnder optical modulators, microring resonators, on-chip optical interconnects, and photonic AI tensor computing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-admiralty-law-and-marine-salvage-arbitration`
+- File: `01-admiralty-law-and-marine-salvage-arbitration.md`
+- Coverage: 15 new advanced-native admiralty law, Lloyd's Open Form LOF marine salvage, York-Antwerp Rules general average, and maritime arbitration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-cellular-agriculture-and-cultivated-meat`
+- File: `01-cellular-agriculture-and-cultivated-meat.md`
+- Coverage: 15 new advanced-native cellular agriculture, myoblast bioreactor culture, serum-free media, 3D edible scaffolding, and textured cultured meat headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-cognitive-linguistics-and-conceptual-metaphor`
+- File: `01-cognitive-linguistics-and-conceptual-metaphor.md`
+- Coverage: 15 new advanced-native cognitive linguistics, conceptual metaphor mappings, image schemas, embodied cognition, and prototype categorization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microplastic-biodegradation-and-bioremediation`
+- File: `01-microplastic-biodegradation-and-bioremediation.md`
+- Coverage: 15 new advanced-native microplastic biodegradation, engineered PETase enzymes, microbial biofilm consortia, bioremediation, and ecotoxicity assessment headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `arts-art-authenticity-forensics-and-scientific-connoisseurship`
+- File: `01-art-authenticity-forensics-and-scientific-connoisseurship.md`
+- Coverage: 15 new advanced-native art authenticity forensics, craquelure pattern analysis, non-destructive XRF spectroscopy, infrared reflectography underdrawing, and dendrochronology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astronomy-exoplanets-and-planetary-habitability`
+- File: `01-exoplanets-and-planetary-habitability.md`
+- Coverage: 15 new advanced-native exoplanet transit photometry, radial velocity, and planetary habitability biomarker headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `public-health-epidemiology-and-disease-surveillance`
+- File: `01-epidemiology-and-disease-surveillance.md`
+- Coverage: 15 new advanced-native epidemiology, basic reproduction number R0, wastewater virus surveillance, and One Health headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `mechanical-tribology-and-lubrication-engineering`
+- File: `01-tribology-and-lubrication-engineering.md`
+- Coverage: 15 new advanced-native tribology, elastohydrodynamic lubrication, tribofilms, and superlubricity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-education-and-social-mobility`
+- File: `01-sociology-of-education-and-social-mobility.md`
+- Coverage: 15 new advanced-native sociology of education, habitus cultural capital, meritocracy myth, and social mobility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-quantum-cryptography-and-post-quantum-security`
+- File: `01-quantum-cryptography-and-post-quantum-security.md`
+- Coverage: 15 new advanced-native quantum key distribution BB84, post-quantum lattice cryptography, and quantum repeaters headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `meteorology-synoptic-forecasting-and-extreme-weather`
+- File: `01-synoptic-forecasting-and-extreme-weather.md`
+- Coverage: 15 new advanced-native synoptic meteorology, ensemble NWP modeling, explosive cyclogenesis, and atmospheric blocking headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-aquaponics-and-recirculating-aquaculture`
+- File: `01-aquaponics-and-recirculating-aquaculture.md`
+- Coverage: 15 new advanced-native aquaponics, RAS culture water purification, nitrification biofiltration, and smart fish farming headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-sociolinguistics-and-dialectology`
+- File: `01-sociolinguistics-and-dialectology.md`
+- Coverage: 15 new advanced-native sociolinguistic variation, linguistic prestige, isogloss dialect mapping, and endangered dialect archiving headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `chemistry-catalysis-and-green-chemistry`
+- File: `01-catalysis-and-green-chemistry.md`
+- Coverage: 15 new advanced-native heterogeneous catalysis, atom economy, CCU electrochemical conversion, and single-atom MOF catalysts headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeology-underwater-archaeology-and-maritime-heritage`
+- File: `01-underwater-archaeology-and-maritime-heritage.md`
+- Coverage: 15 new advanced-native underwater archaeology, shipwreck salvage, side-scan sonar, waterlogged wood PEG desalination, and Maritime Silk Road headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microbiology-virology-and-viral-pathogenesis`
+- File: `01-virology-and-viral-pathogenesis.md`
+- Coverage: 15 new advanced-native virology, viral pathogenesis, and antiviral immunology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-development-economics-and-poverty-alleviation`
+- File: `01-development-economics-and-poverty-alleviation.md`
+- Coverage: 15 new advanced-native development economics, conditional cash transfer, and poverty alleviation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `architecture-acoustic-design-and-concert-hall-engineering`
+- File: `01-acoustic-design-and-concert-hall-engineering.md`
+- Coverage: 15 new advanced-native architectural acoustics, concert hall RT60 design, and sound diffuser headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-sociology-of-disaster-and-community-resilience`
+- File: `01-sociology-of-disaster-and-community-resilience.md`
+- Coverage: 15 new advanced-native sociology of disaster, community resilience, and post-disaster recovery headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optics-laser-spectroscopy-and-photonic-materials`
+- File: `01-laser-spectroscopy-and-photonic-materials.md`
+- Coverage: 15 new advanced-native laser spectroscopy, photonic crystals, and silicon photonics IC headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-space-law-and-outer-space-treaties`
+- File: `01-space-law-and-outer-space-treaties.md`
+- Coverage: 15 new advanced-native international space law, outer space treaties, and space traffic governance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-apiculture-and-pollinator-biodiversity`
+- File: `01-apiculture-and-pollinator-biodiversity.md`
+- Coverage: 15 new advanced-native apiculture, pollinator biodiversity, and smart beehive IoT monitoring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-psycholinguistics-and-language-acquisition`
+- File: `01-psycholinguistics-and-language-acquisition.md`
+- Coverage: 15 new advanced-native psycholinguistics, first language acquisition CPH, and cognitive neuroscience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-soil-remediation-and-phytoremediation`
+- File: `01-soil-remediation-and-phytoremediation.md`
+- Coverage: 15 new advanced-native soil remediation, phytoremediation hyperaccumulators, and in-situ bioventing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fine-arts-color-theory-and-pigment-chemistry`
+- File: `01-color-theory-and-pigment-chemistry.md`
+- Coverage: 15 new advanced-native color theory, pigment chemistry, and art conservation science headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroscience-brain-computer-interface-and-neural-implants`
+- File: `01-brain-computer-interface-and-neural-implants.md`
+- Coverage: 15 new advanced-native brain-computer interface, neural prosthetics, and neuromorphic engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-precision-farming-and-smart-greenhouse`
+- File: `01-precision-farming-and-smart-greenhouse.md`
+- Coverage: 15 new advanced-native precision agriculture, smart greenhouse biotechnology, and agri-tech headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-existentialism-and-phenomenology`
+- File: `01-existentialism-and-phenomenology.md`
+- Coverage: 15 new advanced-native existentialism, phenomenological reduction, and embodied ontology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `oceanography-deep-sea-exploration-and-hydrothermal-vents`
+- File: `01-deep-sea-exploration-and-hydrothermal-vents.md`
+- Coverage: 15 new advanced-native deep-sea exploration, hydrothermal vents, and oceanographic geosciences headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `urban-transit-oriented-development-and-smart-mobility`
+- File: `01-transit-oriented-development-and-smart-mobility.md`
+- Coverage: 15 new advanced-native transit-oriented development (TOD), smart mobility MaaS, and UAM vertiport headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sports-sports-biomechanics-and-exercise-physiology`
+- File: `01-sports-biomechanics-and-exercise-physiology.md`
+- Coverage: 15 new advanced-native sports biomechanics, exercise physiology, and sports science analytics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-battery-recycling-and-urban-mining`
+- File: `01-battery-recycling-and-urban-mining.md`
+- Coverage: 15 new advanced-native EV battery recycling, urban mining, and circular hydrometallurgy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-corpus-linguistics-and-lexicography`
+- File: `01-corpus-linguistics-and-lexicography.md`
+- Coverage: 15 new advanced-native corpus linguistics, computational lexicography, and LLM language resources headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `theology-religious-sociology-and-secularization`
+- File: `01-religious-sociology-and-secularization.md`
+- Coverage: 15 new advanced-native sociology of religion, secularization discourse, and civil religion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-admiralty-law-and-maritime-insurance`
+- File: `01-admiralty-law-and-maritime-insurance.md`
+- Coverage: 15 new advanced-native admiralty law, maritime insurance, and international shipping carriage headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `medicine-organ-transplantation-and-immunosuppression`
+- File: `01-organ-transplantation-and-immunosuppression.md`
+- Coverage: 15 new advanced-native organ transplantation, immunosuppression, and graft immunology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-dialectology-and-linguistic-geography`
+- File: `01-dialectology-and-linguistic-geography.md`
+- Coverage: 15 new advanced-native dialectology, linguistic geography, and geolinguistics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geology-plate-tectonics-and-seismic-engineering`
+- File: `01-plate-tectonics-and-seismic-engineering.md`
+- Coverage: 15 new advanced-native plate tectonics, seismic engineering, and earthquake disaster prevention headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-aging-society-and-long-term-care`
+- File: `01-aging-society-and-long-term-care.md`
+- Coverage: 15 new advanced-native super-aged society, long-term care welfare, and integrated community care headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `media-computational-journalism-and-data-investigation`
+- File: `01-computational-journalism-and-data-investigation.md`
+- Coverage: 15 new advanced-native computational journalism, open-source intelligence (OSINT), and data investigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-patent-litigation-and-intellectual-property-trials`
+- File: `01-patent-litigation-and-intellectual-property-trials.md`
+- Coverage: 15 new advanced-native patent litigation, intellectual property judicial trials, and FRAND licensing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-forest-ecology-and-wildfire-restoration`
+- File: `01-forest-ecology-and-wildfire-restoration.md`
+- Coverage: 15 new advanced-native forest ecology, wildfire restoration engineering, and silvicultural resilience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `technology-cyber-security-and-zero-trust-architecture`
+- File: `01-cyber-security-and-zero-trust-architecture.md`
+- Coverage: 15 new advanced-native zero trust network architecture, post-quantum cryptography, and cyber resilience headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `arts-museum-curation-and-exhibition-design`
+- File: `01-museum-curation-and-exhibition-design.md`
+- Coverage: 15 new advanced-native museology, exhibition curation, and scenographic heritage design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-finance-and-market-anomalies`
+- File: `01-behavioral-finance-and-market-anomalies.md`
+- Coverage: 15 new advanced-native behavioral finance, market anomalies, and neurofinance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aerospace-satellite-communication-and-6g`
+- File: `01-satellite-communication-and-6g.md`
+- Coverage: 15 new advanced-native aerospace, 6G LEO satellite communications, and space network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedical-synthetic-biology-and-metabolic-engineering`
+- File: `01-synthetic-biology-and-metabolic-engineering.md`
+- Coverage: 15 new advanced-native synthetic biology, metabolic pathway engineering, and biomanufacturing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeology-underwater-excavation-and-conservation-science`
+- File: `01-underwater-excavation-and-conservation-science.md`
+- Coverage: 15 new advanced-native underwater archaeology, maritime heritage salvage, and conservation science headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-asset-management-and-quantitative-investing`
+- File: `01-asset-management-and-quantitative-investing.md`
+- Coverage: 15 new advanced-native quantitative asset management, factor investing, and risk parity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-administrative-litigation-and-state-compensation`
+- File: `01-administrative-litigation-and-state-compensation.md`
+- Coverage: 15 new advanced-native administrative litigation, state tort liability, and procedural justice headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `urban-smart-water-grid-and-flood-control`
+- File: `01-smart-water-grid-and-flood-control.md`
+- Coverage: 15 new advanced-native smart water grid, urban flood prevention, and sustainable hydrology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `education-special-education-and-assistive-technology`
+- File: `01-special-education-and-assistive-technology.md`
+- Coverage: 15 new advanced-native special education, inclusive pedagogy, and assistive technology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-nanomaterials-and-quantum-dots`
+- File: `01-nanomaterials-and-quantum-dots.md`
+- Coverage: 15 new advanced-native quantum dot optoelectronics, nanomaterial synthesis, and atomic characterization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-digital-divide-and-platform-labor`
+- File: `01-digital-divide-and-platform-labor.md`
+- Coverage: 15 new advanced-native digital divide, platform labor subordination, and gig economy sociology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `theology-comparative-religion-and-interfaith-dialogue`
+- File: `01-comparative-religion-and-interfaith-dialogue.md`
+- Coverage: 15 new advanced-native comparative religion, phenomenology of the sacred, and interfaith peace discourse headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `robotics-humanoid-and-autonomous-systems`
+- File: `01-humanoid-and-autonomous-systems.md`
+- Coverage: 15 new advanced-native robotics, humanoid locomotion, and autonomous control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `meteorology-extreme-weather-and-disaster-prevention`
+- File: `01-extreme-weather-and-disaster-prevention.md`
+- Coverage: 15 new advanced-native meteorology, extreme weather forecasting, and disaster management headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-computational-linguistics-and-nlp`
+- File: `01-computational-linguistics-and-nlp.md`
+- Coverage: 15 new advanced-native computational linguistics, NLP, and generative AI headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `medicine-telemedicine-and-digital-healthcare`
+- File: `01-telemedicine-and-digital-healthcare.md`
+- Coverage: 15 new advanced-native telemedicine, digital healthcare, and bioethics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-venture-capital-and-startup-ecosystem`
+- File: `01-venture-capital-and-startup-ecosystem.md`
+- Coverage: 15 new advanced-native venture capital, startup valuation, and equity financing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-epistemology-and-philosophy-of-science`
+- File: `01-epistemology-and-philosophy-of-science.md`
+- Coverage: 15 new advanced-native epistemology and philosophy of science headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `transportation-autonomous-driving-and-mobility-service`
+- File: `01-autonomous-driving-and-mobility-service.md`
+- Coverage: 15 new advanced-native autonomous driving, V2X connected infrastructure, and smart mobility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-international-trade-and-tariff-disputes`
+- File: `01-international-trade-and-tariff-disputes.md`
+- Coverage: 15 new advanced-native international trade law, WTO dispute settlement, and tariff conflict headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-marine-plastic-and-ecosystem-preservation`
+- File: `01-marine-plastic-and-ecosystem-preservation.md`
+- Coverage: 15 new advanced-native marine plastic pollution, blue carbon sinks, and marine biology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `music-musicology-and-acoustic-aesthetics`
+- File: `01-musicology-and-acoustic-aesthetics.md`
+- Coverage: 15 new advanced-native musicology, acoustic aesthetics, and sound design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astronomy-space-exploration-and-satellite-technology`
+- File: `01-space-exploration-and-satellite-technology.md`
+- Coverage: 15 new advanced-native astronomy, space exploration, and satellite aerospace headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-oceanography-and-deep-sea-exploration`
+- File: `01-oceanography-and-deep-sea-exploration.md`
+- Coverage: 15 new advanced-native marine science, oceanography, and deep-sea exploration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-social-stratification-and-inequality`
+- File: `01-social-stratification-and-inequality.md`
+- Coverage: 15 new advanced-native sociology, social stratification, and inequality headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `journalism-investigative-reporting-and-media-bias`
+- File: `01-investigative-reporting-and-media-bias.md`
+- Coverage: 15 new advanced-native investigative journalism, media ethics, and framing bias headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `literature-literary-theory-and-narratology`
+- File: `01-literary-theory-and-narratology.md`
+- Coverage: 15 new advanced-native literary theory, narratology, and structural criticism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cognitive-neuroscience-and-brain-plasticity`
+- File: `01-cognitive-neuroscience-and-brain-plasticity.md`
+- Coverage: 15 new advanced-native cognitive neuroscience and brain plasticity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `energy-smart-grid-and-renewable-integration`
+- File: `01-smart-grid-and-renewable-integration.md`
+- Coverage: 15 new advanced-native smart grid and renewable energy integration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-criminal-procedure-and-forensic-evidence`
+- File: `01-criminal-procedure-and-forensic-evidence.md`
+- Coverage: 15 new advanced-native criminal procedure, forensic evidence, and judicial trial headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `economics-behavioral-economics-and-choice-architecture`
+- File: `01-behavioral-economics-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral economics, heuristics, and nudge choice architecture headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `agriculture-smart-farming-and-food-security`
+- File: `01-smart-farming-and-food-security.md`
+- Coverage: 15 new advanced-native smart farming, precision agriculture, and global food security headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-sociolinguistics-and-language-contact`
+- File: `01-sociolinguistics-and-language-contact.md`
+- Coverage: 15 new advanced-native sociolinguistics and language contact headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `philosophy-ethics-and-moral-responsibility`
+- File: `01-ethics-and-moral-responsibility.md`
+- Coverage: 15 new advanced-native ethics and moral responsibility headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `politics-international-relations-and-multilateral-diplomacy`
+- File: `01-international-relations-and-multilateral-diplomacy.md`
+- Coverage: 15 new advanced-native international relations and multilateral diplomacy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `finance-fintech-and-algorithmic-trading`
+- File: `01-fintech-and-algorithmic-trading.md`
+- Coverage: 15 new advanced-native fintech and algorithmic trading headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `education-educational-equity-and-digital-learning`
+- File: `01-educational-equity-and-digital-learning.md`
+- Coverage: 15 new advanced-native educational equity and digital learning headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `architecture-urban-regeneration-and-smart-cities`
+- File: `01-urban-regeneration-and-smart-cities.md`
+- Coverage: 15 new advanced-native urban regeneration and smart cities headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-intellectual-property-and-patent-litigation`
+- File: `01-intellectual-property-and-patent-litigation.md`
+- Coverage: 15 new advanced-native intellectual property and patent litigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `anthropology-cultural-relativism-and-ethnography`
+- File: `01-cultural-relativism-and-ethnography.md`
+- Coverage: 15 new advanced-native cultural relativism and ethnography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `medicine-public-health-and-epidemiological-surveillance`
+- File: `01-public-health-and-epidemiological-surveillance.md`
+- Coverage: 15 new advanced-native public health and epidemiological surveillance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `management-strategic-leadership-and-corporate-sustainability`
+- File: `01-strategic-leadership-and-corporate-sustainability.md`
+- Coverage: 15 new advanced-native strategic leadership and corporate sustainability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `business-corporate-mergers-and-acquisitions`
+- File: `01-corporate-mergers-and-acquisitions.md`
+- Coverage: 15 new advanced-native corporate mergers and acquisitions headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `media-journalism-ethics-and-press-freedom`
+- File: `01-journalism-ethics-and-press-freedom.md`
+- Coverage: 15 new advanced-native journalism ethics and press freedom headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `law-civil-litigation-and-contract-breach`
+- File: `01-civil-litigation-and-contract-breach.md`
+- Coverage: 15 new advanced-native civil litigation and contract breach headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-monetary-policy-and-inflation`
+- File: `01-monetary-policy-and-inflation.md`
+- Coverage: 15 new advanced-native monetary policy and inflation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `psychology-cognitive-bias-and-decision-making`
+- File: `01-cognitive-bias-and-decision-making.md`
+- Coverage: 15 new advanced-native cognitive bias and decision making headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environment-carbon-neutrality-and-circular-economy`
+- File: `01-carbon-neutrality-and-circular-economy.md`
+- Coverage: 15 new advanced-native carbon neutrality and circular economy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-demographic-aging-and-welfare-state`
+- File: `01-demographic-aging-and-welfare-state.md`
+- Coverage: 15 new advanced-native demographic aging and welfare state headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `technology-data-privacy-and-cybersecurity`
+- File: `01-data-privacy-and-cybersecurity.md`
+- Coverage: 15 new advanced-native data privacy and cybersecurity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `culture-contemporary-art-and-aesthetic-criticism`
+- File: `01-contemporary-art-and-aesthetic-criticism.md`
+- Coverage: 15 new advanced-native contemporary art and aesthetic criticism headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `workplace-organizational-conflict-and-negotiation`
+- File: `01-organizational-conflict-and-negotiation.md`
+- Coverage: 15 new advanced-native organizational conflict and negotiation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-microrna-sensors`
+- File: `01-wearable-sweat-microrna-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat microrna sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-proprioceptive-electronic-skin-prosthetics`
+- File: `01-proprioceptive-electronic-skin-prosthetics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot proprioceptive electronic skin prosthetics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-bone-tissue-regeneration-scaffolds`
+- File: `01-piezo-bone-tissue-regeneration-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo bone tissue regeneration scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-shark-skin-riblet-drag-reduction-surfaces`
+- File: `01-shark-skin-riblet-drag-reduction-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot shark skin riblet drag reduction surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-magnon-spintronics`
+- File: `01-topological-magnon-spintronics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological magnon spintronics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sweat-heavy-metal-electrochemical-sensors`
+- File: `01-sweat-heavy-metal-electrochemical-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sweat heavy metal electrochemical sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-tactile-proprioception-systems`
+- File: `01-neuromorphic-tactile-proprioception-systems.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic tactile proprioception systems headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-sonodynamic-antimicrobial-therapy`
+- File: `01-piezo-sonodynamic-antimicrobial-therapy.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo sonodynamic antimicrobial therapy headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-quantum-dot-lasers`
+- File: `01-topological-quantum-dot-lasers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological quantum dot lasers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-lotus-inspired-superhydrophobic-coatings`
+- File: `01-lotus-inspired-superhydrophobic-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot lotus inspired superhydrophobic coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-phononics-and-acoustic-diodes`
+- File: `01-topological-phononics-and-acoustic-diodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological phononics and acoustic diodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-alcohol-metabolite-biosensors`
+- File: `01-wearable-sweat-alcohol-metabolite-biosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat alcohol metabolite biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-visual-attention-processors`
+- File: `01-neuromorphic-visual-attention-processors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic visual attention processors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-biocatalytic-enzyme-reactors`
+- File: `01-piezo-biocatalytic-enzyme-reactors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo biocatalytic enzyme reactors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-exciton-polaritonics`
+- File: `01-topological-exciton-polaritonics.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological exciton polaritonics headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-photonic-crystal-structural-color`
+- File: `01-biomimetic-photonic-crystal-structural-color.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic photonic crystal structural color headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-floquet-engineering-and-light-matter-interaction`
+- File: `01-floquet-engineering-and-light-matter-interaction.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot floquet engineering and light matter interaction headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-therapeutic-drug-monitoring`
+- File: `01-wearable-sweat-therapeutic-drug-monitoring.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat therapeutic drug monitoring headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-event-based-vision-sensors`
+- File: `01-neuromorphic-event-based-vision-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic event based vision sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezocatalytic-membrane-water-purification`
+- File: `01-piezocatalytic-membrane-water-purification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezocatalytic membrane water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-majorana-zero-mode-topological-qubits`
+- File: `01-majorana-zero-mode-topological-qubits.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot majorana zero mode topological qubits headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-pitcher-plant-slippery-liquid-infused-surfaces`
+- File: `01-pitcher-plant-slippery-liquid-infused-surfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot pitcher plant slippery liquid infused surfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metamaterial-perfect-absorbers-and-stealth`
+- File: `01-metamaterial-perfect-absorbers-and-stealth.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial perfect absorbers and stealth headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sweat-iontophoresis-and-reverse-iontophoresis`
+- File: `01-sweat-iontophoresis-and-reverse-iontophoresis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sweat iontophoresis and reverse iontophoresis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-memristive-dendritic-computing-and-spiking-neural-networks`
+- File: `01-memristive-dendritic-computing-and-spiking-neural-networks.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot memristive dendritic computing and spiking neural networks headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-lead-free-pacemakers`
+- File: `01-piezoelectric-lead-free-pacemakers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric lead-free pacemakers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-valleytronics-and-berry-curvature`
+- File: `01-topological-valleytronics-and-berry-curvature.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological valleytronics and Berry curvature headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-gecko-inspired-switchable-dry-adhesives`
+- File: `01-gecko-inspired-switchable-dry-adhesives.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot gecko-inspired switchable dry adhesives headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-acoustic-black-holes-and-structural-vibration-damping`
+- File: `01-acoustic-black-holes-and-structural-vibration-damping.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot acoustic black holes and structural vibration damping headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-cortisol-immunosensors`
+- File: `01-wearable-sweat-cortisol-immunosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat cortisol immunosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-retinal-implants-and-photodiode-arrays`
+- File: `01-neuromorphic-retinal-implants-and-photodiode-arrays.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic retinal implants and photodiode arrays headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezo-sonochemical-nanomaterial-synthesis`
+- File: `01-piezo-sonochemical-nanomaterial-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezo-sonochemical nanomaterial synthesis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-chiral-perovskite-spintronics-and-circular-polarization`
+- File: `01-chiral-perovskite-spintronics-and-circular-polarization.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot chiral perovskite spintronics and circular polarization headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-spider-silk-super-fibers`
+- File: `01-biomimetic-spider-silk-super-fibers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic spider silk super-fibers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metamaterial-superlens-and-sub-diffraction-imaging`
+- File: `01-metamaterial-superlens-and-sub-diffraction-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial superlens and sub-diffraction imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-microneedle-arrays-and-transdermal-drug-delivery`
+- File: `01-microneedle-arrays-and-transdermal-drug-delivery.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microneedle arrays and transdermal drug delivery headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-olfactory-systems-and-electronic-noses`
+- File: `01-neuromorphic-olfactory-systems-and-electronic-noses.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic olfactory systems and electronic noses headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-hybrid-triboelectric-piezoelectric-wind-energy-harvesters`
+- File: `01-hybrid-triboelectric-piezoelectric-wind-energy-harvesters.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hybrid triboelectric-piezoelectric wind energy harvesters headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-transition-metal-dichalcogenide-phototransistors`
+- File: `01-transition-metal-dichalcogenide-phototransistors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot transition metal dichalcogenide phototransistors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-biomimetic-marine-antifouling-coatings`
+- File: `01-biomimetic-marine-antifouling-coatings.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot biomimetic marine antifouling coatings headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metasurface-vortex-beam-generators-and-oam-multiplexing`
+- File: `01-metasurface-vortex-beam-generators-and-oam-multiplexing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metasurface vortex beam generators and OAM multiplexing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-sweat-lactate-and-glucose-biofuel-cells`
+- File: `01-wearable-sweat-lactate-and-glucose-biofuel-cells.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable sweat lactate and glucose biofuel cells headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-auditory-frontends-and-cochlea-chips`
+- File: `01-neuromorphic-auditory-frontends-and-cochlea-chips.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic auditory frontends and cochlea chips headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-photoelectrochemical-water-splitting`
+- File: `01-piezoelectric-photoelectrochemical-water-splitting.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric photoelectrochemical water splitting headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-carbon-nanotube-synaptic-transistors-and-neural-interfaces`
+- File: `01-carbon-nanotube-synaptic-transistors-and-neural-interfaces.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon nanotube synaptic transistors and neural interfaces headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-aerogel-thermal-superinsulation-and-spacecraft-heat-shields`
+- File: `01-aerogel-thermal-superinsulation-and-spacecraft-heat-shields.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot aerogel thermal superinsulation and spacecraft heat shields headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-metamaterial-microwave-cloaking-and-radar-stealth`
+- File: `01-metamaterial-microwave-cloaking-and-radar-stealth.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot metamaterial microwave cloaking and radar stealth headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-nanogenerator-acoustic-implants`
+- File: `01-piezoelectric-nanogenerator-acoustic-implants.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric nanogenerator acoustic implants headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-optogenetic-neural-probes-and-deep-brain-stimulation`
+- File: `01-optogenetic-neural-probes-and-deep-brain-stimulation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot optogenetic neural probes and deep brain stimulation headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-hydrogel-actuators-and-biomimetic-swimmers`
+- File: `01-hydrogel-actuators-and-biomimetic-swimmers.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot hydrogel actuators and biomimetic swimmers headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-cascade-detectors-and-thermal-sensing`
+- File: `01-quantum-cascade-detectors-and-thermal-sensing.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum cascade detectors and thermal sensing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-bioelectronic-electronic-tongues-and-taste-sensors`
+- File: `01-bioelectronic-electronic-tongues-and-taste-sensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot bioelectronic electronic tongues and taste sensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-microfluidic-organoid-chips-and-drug-screening`
+- File: `01-microfluidic-organoid-chips-and-drug-screening.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot microfluidic organoid-on-a-chip and drug screening headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-spin-hall-insulators-and-edge-states`
+- File: `01-quantum-spin-hall-insulators-and-edge-states.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot quantum spin Hall insulators and dissipationless edge transport headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-perovskite-photovoltaics-and-roll-to-roll`
+- File: `01-flexible-perovskite-photovoltaics-and-roll-to-roll.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible perovskite photovoltaics and roll-to-roll continuous printing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-ultrasensitive-surface-plasmon-resonance-biosensors`
+- File: `01-ultrasensitive-surface-plasmon-resonance-biosensors.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot ultrasensitive surface plasmon resonance biosensors headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-bone-regeneration-scaffolds`
+- File: `01-piezoelectric-bone-regeneration-scaffolds.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric bone regeneration scaffolds headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-deep-ultraviolet-algan-laser-diodes`
+- File: `01-deep-ultraviolet-algan-laser-diodes.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot deep ultraviolet AlGaN laser diodes headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-neuromorphic-tactile-sensors-and-electronic-afferents`
+- File: `01-neuromorphic-tactile-sensors-and-electronic-afferents.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot neuromorphic tactile sensors and biomimetic artificial afferents headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-carbon-quantum-dots-and-green-photocatalysis`
+- File: `01-carbon-quantum-dots-and-green-photocatalysis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot carbon quantum dots and green photocatalysis headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-topological-photonic-crystals-and-optical-delay-lines`
+- File: `01-topological-photonic-crystals-and-optical-delay-lines.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot topological photonic crystals and optical delay lines headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-piezoelectric-catalysis-and-ultrasonic-water-purification`
+- File: `01-piezoelectric-catalysis-and-ultrasonic-water-purification.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot piezoelectric catalysis and ultrasonic water purification headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-flexible-synaptic-memristive-arrays-for-edge-ai`
+- File: `01-flexible-synaptic-memristive-arrays-for-edge-ai.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot flexible synaptic memristive arrays and edge AI headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-nanoporous-carbon-supercapacitors-and-ionic-liquids`
+- File: `01-nanoporous-carbon-supercapacitors-and-ionic-liquids.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot nanoporous carbon supercapacitors and ionic liquids headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-quantum-dot-infrared-photodetectors-and-thermal-imaging`
+- File: `01-quantum-dot-infrared-photodetectors-and-thermal-imaging.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot colloidal quantum dot infrared photodetectors and thermal imaging headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-sonodynamic-therapy-and-acoustic-cavitation`
+- File: `01-sonodynamic-therapy-and-acoustic-cavitation.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot sonodynamic therapy and acoustic cavitation tumor treatment headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-photonic-crystal-surface-emitting-lasers-and-lidar`
+- File: `01-photonic-crystal-surface-emitting-lasers-and-lidar.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot photonic crystal surface emitting lasers and LiDAR headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-wearable-electrochemical-triboelectric-hybrid-patches`
+- File: `01-wearable-electrochemical-triboelectric-hybrid-patches.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot wearable electrochemical triboelectric hybrid bio patches headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-spintronic-terahertz-metamaterial-modulators`
+- File: `01-spintronic-terahertz-metamaterial-modulators.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot spintronic terahertz metamaterial modulators headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
+
+- Topic: `advanced-synthetic-biology-cell-free-protein-synthesis`
+- File: `01-synthetic-biology-cell-free-protein-synthesis.md`
+- Coverage: 15 new advanced-native/contemporary-native-hot cell-free protein synthesis platform and on-demand biomanufacturing headwords across `news_formal` and `native_spoken` lanes in one `target_set` passage.
 
 - Topic: `advanced-spintronic-memristors-and-neuromorphic-crossbars`
 - File: `01-spintronic-memristors-and-neuromorphic-crossbars.md`
@@ -4175,3 +5293,487 @@ Potential next topics include high-register media and cultural criticism, anothe
 - Passage coverage: one coherent 116-eojeol Korean health-policy passage with all 12 targets in one `target_set`, plus Vietnamese translation.
 - Validation: 12 entry metadata comments, all required entry sections, Korean-only learner-facing headings, exact global heading uniqueness (3,599 structured entries expected after commit, 0 duplicates), README link, and `git diff --check` passed.
 - Resume: continue with a distinct current-affairs or native-spoken/slang topic; preserve this file as local `05` checkpoint.
+- Topic: `microbiology-gut-brain-axis-and-microbiome-metabolomics`
+- File: `01-gut-brain-axis-and-metabolomics.md`
+- Coverage: 15 new advanced-native gut-brain axis, microbiome metabolomics, short-chain fatty acids (SCFA), intestinal permeability barrier, and vagal nerve signaling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-engineering-earthquake-resilient-structures-and-base-isolation`
+- File: `02-earthquake-resilient-structures-and-base-isolation.md`
+- Coverage: 15 new advanced-native earthquake-resilient structures, base isolation bearings, lead rubber bearings (LRB), friction pendulum systems, and seismic superstructure behavior headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-toxicology-pfas-forever-chemicals-and-bioaccumulation`
+- File: `03-pfas-forever-chemicals-and-bioaccumulation.md`
+- Coverage: 15 new advanced-native per- and polyfluoroalkyl substances (PFAS), forever chemicals pollution, bioaccumulation factors (BAF), Stockholm convention persistent organic pollutants, and protein binding bioconcentration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `financial-econometrics-high-frequency-trading-and-order-book-dynamics`
+- File: `04-hft-and-order-book-dynamics.md`
+- Coverage: 15 new advanced-native high-frequency trading (HFT), limit order book (LOB) dynamics, top-of-book depth, order execution probability, and adverse selection risk premium headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-genetics-ancient-dna-and-neanderthal-introgression`
+- File: `05-ancient-dna-and-neanderthal-introgression.md`
+- Coverage: 15 new advanced-native ancient DNA sequencing, Neanderthal genetic introgression, deamination damage pattern analysis, and immune response allele preservation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fluid-mechanics-turbulent-boundary-layers-and-vortex-dynamics`
+- File: `06-turbulent-boundary-layers-and-vortex-dynamics.md`
+- Coverage: 15 new advanced-native viscous fluid governing equations, turbulent boundary layer flow structures, Reynolds stress tensor distribution, and vortex shedding separation control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `development-economics-middle-income-trap-and-structural-transformation`
+- File: `07-middle-income-trap-and-structural-transformation.md`
+- Coverage: 15 new advanced-native middle-income trap escape strategies, industrial structure upgrading, total factor productivity (TFP) innovation, and technology-intensive manufacturing fostering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `linguistics-phonetics-speech-acoustics-and-vocal-tract-formants`
+- File: `08-speech-acoustics-and-vocal-tract-formants.md`
+- Coverage: 15 new advanced-native acoustic phonetics spectrograms, vocal tract resonant formant frequencies, fundamental frequency measurement, and articulatory constriction acoustic characteristics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optics-metamaterials-negative-refraction-and-optical-cloaking`
+- File: `09-negative-refraction-and-optical-cloaking.md`
+- Coverage: 15 new advanced-native negative index metamaterials, optical cloaking concealment, subwavelength artificial dielectric structures, and simultaneous negativity of permittivity and permeability headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-politics-electoral-systems-and-party-fragmentation`
+- File: `10-electoral-systems-and-party-fragmentation.md`
+- Coverage: 15 new advanced-native electoral system proportionality guarantee, Duverger's law two-party system, party system fragmentation index measurement, and mixed-member proportional (MMP) seat allocation headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-cell-free-protein-synthesis-and-genetic-circuits`
+- File: `01-cell-free-synthesis-and-genetic-circuits.md`
+- Coverage: 15 new advanced-native cell-free protein synthesis (CFPS), riboswitch genetic circuits, synthetic genetic oscillators, and transcription-translation (TX-TL) reaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-geology-plate-tectonics-subduction-zones-and-mantle-plumes`
+- File: `02-subduction-zones-and-mantle-plumes.md`
+- Coverage: 15 new advanced-native plate tectonics subduction mechanisms, mantle plume upwelling, oceanic slab dehydration embrittlement, and megathrust earthquakes headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `epidemiology-infectious-disease-transmission-dynamics-and-sir-models`
+- File: `03-infectious-disease-dynamics-and-sir-models.md`
+- Coverage: 15 new advanced-native infectious disease mathematical models (SIR), basic reproduction number (R0), time-varying effective reproduction number (Rt), and herd immunity threshold headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-sovereign-debt-crisis-and-debt-sustainability`
+- File: `04-sovereign-debt-crisis-and-debt-sustainability.md`
+- Coverage: 15 new advanced-native sovereign debt sustainability analysis (DSA), sovereign bond yield spread credit risk, primary fiscal surplus targets, and debt restructuring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-optics-entangled-photons-and-quantum-teleportation`
+- File: `05-entangled-photons-and-quantum-teleportation.md`
+- Coverage: 15 new advanced-native quantum entangled photon pairs, spontaneous parametric down-conversion (SPDC), Bell-state measurement, and quantum teleportation fidelity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociology-of-law-legal-consciousness-and-access-to-justice`
+- File: `06-legal-consciousness-and-access-to-justice.md`
+- Coverage: 15 new advanced-native sociology of law legal consciousness, access to justice frameworks, legal empowerment of disadvantaged groups, and legal aid systems headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `materials-science-solid-oxide-fuel-cells-and-mixed-ionic-electronic-conductors`
+- File: `07-sofc-and-mixed-conductors.md`
+- Coverage: 15 new advanced-native solid oxide fuel cells (SOFC), mixed ionic-electronic conductors (MIEC), perovskite oxide cathodes, and triple phase boundary (TPB) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-chemistry-density-functional-theory-and-molecular-dynamics`
+- File: `08-density-functional-theory-and-molecular-dynamics.md`
+- Coverage: 15 new advanced-native density functional theory (DFT), molecular dynamics trajectory simulations, exchange-correlation energy approximations, and potential energy surfaces (PES) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `international-relations-grand-strategy-and-offshore-balancing`
+- File: `09-grand-strategy-and-offshore-balancing.md`
+- Coverage: 15 new advanced-native international relations grand strategy formulation, offshore balancing geopolitical power, hegemonic stability power transitions, and alliance cohesion headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-engineering-carbon-capture-utilization-and-storage-ccus`
+- File: `10-carbon-capture-utilization-and-storage.md`
+- Coverage: 15 new advanced-native carbon capture utilization and storage (CCUS), wet amine absorbent regeneration energy, supercritical CO2 geological storage, and mineral carbonation building materials headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `developmental-biology-morphogen-gradients-and-organogenesis`
+- File: `01-morphogen-gradients-and-organogenesis.md`
+- Coverage: 15 new advanced-native morphogen concentration gradient thresholds, sonic hedgehog signaling, homeobox organogenesis, and spatial embryonic pattern formation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `biomedical-optics-two-photon-microscopy-and-super-resolution-imaging`
+- File: `02-two-photon-and-super-resolution-imaging.md`
+- Coverage: 15 new advanced-native two-photon excitation fluorescence microscopy, deep tissue imaging, structured illumination super-resolution (SIM), and sub-diffraction single-molecule localization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuropharmacology-synaptic-plasticity-and-targeted-neurotherapeutics`
+- File: `03-synaptic-plasticity-and-targeted-neurotherapeutics.md`
+- Coverage: 15 new advanced-native long-term potentiation synaptic plasticity, NMDA receptor allosteric modulators, blood-brain barrier drug delivery, and neurodegenerative therapeutics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `financial-risk-management-basel-accords-and-liquidity-stress-testing`
+- File: `04-basel-accords-and-liquidity-stress-testing.md`
+- Coverage: 15 new advanced-native Basel III capital adequacy ratios, liquidity coverage ratio (LCR), macroprudential stress testing, and counterparty credit risk mitigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrophysics-cosmological-inflation-and-dark-matter-annihilation`
+- File: `05-cosmological-inflation-and-dark-matter.md`
+- Coverage: 15 new advanced-native cosmological inflation, dark matter annihilation cross-section, CMB temperature anisotropy, and primordial gravitational waves headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `political-philosophy-deliberative-democracy-and-public-sphere`
+- File: `06-deliberative-democracy-and-public-sphere.md`
+- Coverage: 15 new advanced-native deliberative democracy public sphere formation, communicative rationality, discourse ethics, procedural fairness, and citizen juries headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `metallurgical-engineering-high-entropy-alloys-and-grain-boundary-segregation`
+- File: `07-high-entropy-alloys-and-segregation.md`
+- Coverage: 15 new advanced-native high-entropy alloys severe lattice distortion, grain boundary segregation mechanical properties, cryogenic fracture toughness, and hydrogen embrittlement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-neuroscience-neural-decoding-and-brain-machine-interfaces`
+- File: `08-neural-decoding-and-brain-machine-interfaces.md`
+- Coverage: 15 new advanced-native neural decoding motor intention, invasive brain-machine interface electrodes, spike timing synchronization, and closed-loop neural stimulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geopolitics-of-energy-arctic-sea-routes-and-critical-mineral-diplomacy`
+- File: `09-arctic-routes-and-critical-minerals.md`
+- Coverage: 15 new advanced-native Northern Sea Route commercial navigation, Arctic resource sovereignty, critical mineral supply chain diplomacy, and exclusive economic zone headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-microbiology-bioremediation-and-microbial-electrochemical-systems`
+- File: `10-bioremediation-and-microbial-electrochemical-systems.md`
+- Coverage: 15 new advanced-native microbial electrochemical systems, extracellular electron transfer, soil bioremediation, and xenobiotic biodegradation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoclimatology-ice-core-analysis-and-milankovitch-cycles`
+- File: `01-ice-core-analysis-and-milankovitch-cycles.md`
+- Coverage: 15 new advanced-native ice core oxygen isotope ratio, Milankovitch precession cycles, Dansgaard-Oeschger events, and paleoclimate numerical simulations headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-cryptography-quantum-key-distribution-and-post-quantum-security`
+- File: `02-qkd-and-post-quantum-cryptography.md`
+- Coverage: 15 new advanced-native single-photon quantum key distribution, lattice-based post-quantum cryptography, Bell inequality violation, and zero-knowledge proof quantum network headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `behavioral-economics-nudge-theory-and-choice-architecture`
+- File: `03-nudge-theory-and-choice-architecture.md`
+- Coverage: 15 new advanced-native behavioral economics choice architecture, default setting nudge, loss aversion asymmetric value function, and pre-commitment mechanisms headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-bioinformatics-alphafold-and-protein-structure-prediction`
+- File: `04-alphafold-and-protein-structure-prediction.md`
+- Coverage: 15 new advanced-native protein 3D structure prediction deep learning, AlphaFold residue contact maps, multiple sequence alignment co-evolution, and cryo-EM model fitting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-propulsion-hall-effect-thrusters-and-electric-propulsion`
+- File: `05-hall-effect-thrusters-and-electric-propulsion.md`
+- Coverage: 15 new advanced-native Hall-effect thruster magnetic shielding, spacecraft electric propulsion plasma acceleration, xenon gas ionization, and thrust vector gimbal systems headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `sociolinguistics-diglossia-and-linguistic-landscape`
+- File: `06-diglossia-and-linguistic-landscape.md`
+- Coverage: 15 new advanced-native sociolinguistic diglossia, linguistic landscape public signage semiotics, high/low variety functional differentiation, and code-switching strategies headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `surface-chemistry-heterogeneous-catalysis-and-langmuir-hinshelwood-kinetics`
+- File: `07-heterogeneous-catalysis-and-surface-kinetics.md`
+- Coverage: 15 new advanced-native heterogeneous catalysis surface adsorption energy, Langmuir-Hinshelwood kinetics, chemisorption activation energy, and strong metal-support interaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-social-science-agent-based-modeling-and-opinion-dynamics`
+- File: `08-agent-based-modeling-and-opinion-dynamics.md`
+- Coverage: 15 new advanced-native computational social science agent-based modeling (ABM), opinion dynamics echo chambers, complex social network cascades, and collective intelligence headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `hydrological-engineering-subsurface-water-flow-and-aquifer-management`
+- File: `09-subsurface-flow-and-aquifer-management.md`
+- Coverage: 15 new advanced-native groundwater Darcy's law flow analysis, aquifer transmissivity and storativity, coastal saltwater intrusion barriers, and aquifer storage and recovery (ASR) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-law-constitutional-courts-and-judicial-review`
+- File: `10-constitutional-courts-and-judicial-review.md`
+- Coverage: 15 new advanced-native comparative constitutional judicial review standards, Constitutional Court proportionality principle, competence dispute adjudication, and unconstitutional party dissolution headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-directed-evolution-and-ancestral-sequence-reconstruction`
+- File: `01-directed-evolution-and-ancestral-reconstruction.md`
+- Coverage: 15 new advanced-native directed evolution random mutagenesis, ancestral sequence reconstruction (ASR), phage display selection, and substrate pocket engineering headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `experimental-fluid-mechanics-particle-image-velocimetry-and-turbulent-boundary-layers`
+- File: `02-piv-and-turbulent-boundary-layers.md`
+- Coverage: 15 new advanced-native particle image velocimetry (PIV), turbulent boundary layer vortex visualization, Reynolds stress tensor, and supersonic shock-boundary interaction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroethics-cognitive-enhancement-and-free-will`
+- File: `03-cognitive-enhancement-and-free-will.md`
+- Coverage: 15 new advanced-native neuroethics cognitive enhancement norms, neurodeterminism and free will compatibilism, brain privacy rights, and BCI liability attribution headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optical-metamaterials-topological-photonics-and-chiral-sensing`
+- File: `04-topological-photonics-and-chiral-sensing.md`
+- Coverage: 15 new advanced-native topological photonics edge state waveguiding, chiral metamaterials circular dichroism, metasurface metalens, and non-Hermitian exceptional point sensing headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-linguistics-large-language-models-and-reinforcement-learning-from-human-feedback`
+- File: `05-llm-alignment-and-rlhf.md`
+- Coverage: 15 new advanced-native LLM reinforcement learning from human feedback (RLHF), reward model training, hallucination mitigation, model alignment, and chain-of-thought prompting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `seismology-earthquake-early-warning-and-fault-rupture-dynamics`
+- File: `06-earthquake-early-warning-and-fault-dynamics.md`
+- Coverage: 15 new advanced-native earthquake early warning P-wave estimation, fault rupture dynamics supershear propagation, seismic moment tensor inversion, and active fault paleoseismology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `bioinorganic-chemistry-metalloproteins-and-artificial-photosynthesis`
+- File: `07-metalloproteins-and-artificial-photosynthesis.md`
+- Coverage: 15 new advanced-native manganese oxygen-evolving complex, metalloprotein coordination electron transfer, artificial photosynthesis water oxidation, and EXAFS coordination sphere headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `developmental-psychopathology-childhood-trauma-and-epigenetic-vulnerability`
+- File: `08-childhood-trauma-and-epigenetics.md`
+- Coverage: 15 new advanced-native developmental psychopathology epigenetic imprinting, adverse childhood experiences (ACE), HPA axis hyperarousal, and DNA methylation dysregulation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nuclear-fusion-engineering-tokamak-magnetic-confinement-and-plasma-disruption`
+- File: `09-tokamak-plasma-confinement-and-disruptions.md`
+- Coverage: 15 new advanced-native tokamak magnetic confinement equilibrium, D-T fusion cross section, H-mode edge transport barrier, shattered pellet injection, and runaway electron suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-toxicology-microplastics-and-trophic-bioaccumulation`
+- File: `10-microplastics-and-trophic-bioaccumulation.md`
+- Coverage: 15 new advanced-native microplastics trophic bioaccumulation factor, nanoplastics membrane cytotoxicity, POPs carrier vector effect, and marine food web biomagnification headwords across `news_formal` in one `target_set` passage.
+- Topic: `microfluidics-lab-on-a-chip-and-droplet-digital-pcr`
+- File: `01-lab-on-a-chip-and-droplet-digital-pcr.md`
+- Coverage: 15 new advanced-native microfluidics lab-on-a-chip, droplet digital PCR, surface tension capillary pressure, and laminar Reynolds number headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `behavioral-neuroscience-fear-conditioning-and-memory-reconsolidation`
+- File: `02-fear-conditioning-and-memory-reconsolidation.md`
+- Coverage: 15 new advanced-native Pavlovian fear conditioning, basolateral amygdala plasticity, memory reconsolidation, and fear extinction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `photonic-crystals-photonic-bandgap-and-slow-light`
+- File: `03-photonic-bandgap-and-slow-light.md`
+- Coverage: 15 new advanced-native photonic crystals, photonic bandgap, dispersion relation engineering, slow light propagation, and high-Q cavity mode volume headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `macroeconomics-dynamic-stochastic-general-equilibrium-and-monetary-policy`
+- File: `04-dsge-modeling-and-monetary-policy.md`
+- Coverage: 15 new advanced-native DSGE macroeconomic modeling, Calvo price stickiness, Taylor rule monetary reaction, and Bayesian MCMC estimation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-robotics-autonomous-rendezvous-and-orbital-servicing`
+- File: `05-autonomous-rendezvous-and-orbital-servicing.md`
+- Coverage: 15 new advanced-native Clohessy-Wiltshire relative orbit equations, autonomous rendezvous proximity operations, non-cooperative target robotic capture, and on-orbit refueling headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `epigenetics-histone-code-and-chromatin-accessibility`
+- File: `06-histone-code-and-chromatin-accessibility.md`
+- Coverage: 15 new advanced-native histone tail covalent modifications, ATAC-seq chromatin accessibility, SWI/SNF remodeling complex, and pioneer transcription factor penetration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-combustion-turbulent-premixed-flames-and-detonation`
+- File: `07-turbulent-premixed-flames-and-detonation.md`
+- Coverage: 15 new advanced-native turbulent premixed flame Borghi diagram, rotating detonation engine, Damköhler and Karlovitz numbers, and ZND detonation wave structure headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cyber-physical-systems-formal-verification-and-hybrid-automata`
+- File: `08-formal-verification-and-hybrid-automata.md`
+- Coverage: 15 new advanced-native cyber-physical systems formal verification, hybrid automata reachability analysis, linear temporal logic model checking, and state-space abstraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `environmental-geochemistry-acid-mine-drainage-and-heavy-metal-attenuation`
+- File: `09-acid-mine-drainage-and-metal-attenuation.md`
+- Coverage: 15 new advanced-native sulfide mineral oxidation, acid mine drainage (AMD), heavy metal coprecipitation adsorption, and permeable reactive barriers headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-administrative-law-administrative-discretion-and-proportionality`
+- File: `10-administrative-discretion-and-proportionality.md`
+- Coverage: 15 new advanced-native administrative discretion judicial review, proportionality principle, legitimate expectations protection, and administrative procedure prior notice headwords across `news_formal` in one `target_set` passage.
+- Topic: `synthetic-biology-metabolic-flux-and-genome-scale-modeling`
+- File: `01-metabolic-flux-and-genome-scale-modeling.md`
+- Coverage: 15 new advanced-native genome-scale metabolic modeling (GEM), flux balance analysis (FBA), 13C metabolic flux analysis (13C-MFA), and metabolic control analysis (MCA) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-geology-paleostress-analysis-and-fault-kinematics`
+- File: `02-paleostress-and-fault-kinematics.md`
+- Coverage: 15 new advanced-native fault slickenlines, paleostress inversion kinematics, Andersonian faulting stress tensor, ductile shear zone mylonite, and pull-apart basin subsidence headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cryogenic-engineering-superconducting-magnets-and-quench-protection`
+- File: `03-superconducting-magnets-and-quench-protection.md`
+- Coverage: 15 new advanced-native superconducting magnet quench detection, closed-loop liquid helium circulation, persistent current switch mode, and dump resistor energy extraction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `marine-geophysics-oceanic-crust-and-hydrothermal-vent-dynamics`
+- File: `04-oceanic-crust-and-hydrothermal-vents.md`
+- Coverage: 15 new advanced-native mid-ocean ridge seafloor spreading, hydrothermal vent black smokers, peridotite serpentinization methane synthesis, and axial magma chamber seismic tomography headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoanthropology-hominin-evolution-and-ancient-dna-admixture`
+- File: `05-hominin-evolution-and-ancient-dna.md`
+- Coverage: 15 new advanced-native hominin fossil phylogenetic analysis, ancient DNA Neanderthal/Denisovan admixture, cranial capacity encephalization, and Paleolithic lithic typology headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `aeroacoustics-turbomachinery-noise-and-trailing-edge-scattering`
+- File: `06-turbomachinery-noise-and-trailing-edge-scattering.md`
+- Coverage: 15 new advanced-native Lighthill acoustic analogy, airfoil trailing edge vortex noise scattering, turbofan acoustic liners, and microphone phased array beamforming headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `solid-state-electrochemistry-solid-oxide-fuel-cells-and-mixed-conductors`
+- File: `07-solid-oxide-fuel-cells-and-mixed-conductors.md`
+- Coverage: 15 new advanced-native solid oxide fuel cells (SOFC), triple-phase boundary oxygen reduction, mixed ionic-electronic conductors (MIEC), and electrochemical impedance spectroscopy (EIS) headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `cognitive-linguistics-conceptual-metaphor-and-embodied-cognition`
+- File: `08-conceptual-metaphor-and-embodied-cognition.md`
+- Coverage: 15 new advanced-native conceptual metaphor theory (CMT), image schemas, embodied cognition, mental spaces conceptual blending, and spatialization metaphors headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `radio-astronomy-very-long-baseline-interferometry-and-pulsar-timing`
+- File: `09-vlbi-and-pulsar-timing-arrays.md`
+- Coverage: 15 new advanced-native very long baseline interferometry (VLBI), black hole event horizon imaging, pulsar timing array nanohertz gravitational waves, and closure phase calibration headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-law-emergency-powers-and-derogation`
+- File: `10-emergency-powers-and-derogation.md`
+- Coverage: 15 new advanced-native state emergency powers proportionality review, martial law substantive constitutionality standards, state of exception theory, and ICCPR derogation safeguards headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `synthetic-biology-cell-free-protein-synthesis-and-dna-origami`
+- File: `01-cell-free-protein-and-dna-origami.md`
+- Coverage: 15 new advanced-native cell-free protein synthesis (CFPS), in vitro transcription-translation (TX-TL), DNA origami self-assembly, and nanorobotic drug delivery headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection`
+- File: `02-mhd-instabilities-and-magnetic-reconnection.md`
+- Coverage: 15 new advanced-native magnetohydrodynamic (MHD) instabilities, tokamak equilibrium Grad-Shafranov, Sweet-Parker/Petschek reconnection, and tearing mode control headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-game-theory-cooperation-and-public-goods-games`
+- File: `03-evolutionary-game-theory-and-cooperation.md`
+- Coverage: 15 new advanced-native evolutionary game theory, replicator dynamics of cooperation, public goods free-rider punishment, and Tit-for-Tat ESS headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geodesy-satellite-altimetry-and-global-geoid-modeling`
+- File: `04-satellite-altimetry-and-geoid.md`
+- Coverage: 15 new advanced-native satellite radar altimetry, spherical harmonics gravity field, geoid undulation, GRACE mission mass variations, and ITRF space geodesy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption`
+- File: `05-microglia-activation-and-bbb.md`
+- Coverage: 15 new advanced-native microglia M1/M2 phenotype transition, blood-brain barrier tight junction breakdown, astrocyte aquaporin transport, and autoimmune neuroinflammation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `fluid-structure-interaction-vortex-induced-vibrations-and-flutter`
+- File: `06-fluid-structure-interaction-and-flutter.md`
+- Coverage: 15 new advanced-native fluid-structure interaction (FSI), vortex-induced vibrations (VIV), aeroelastic flutter instability, lock-in resonance, and helical strake suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment`
+- File: `07-single-atom-catalysts-and-coordination.md`
+- Coverage: 15 new advanced-native single-atom catalysts (SAC), strong metal-support interaction (SMSI), coordinatively unsaturated active sites, d-band center theory, and XAFS coordination numbers headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-environmental-law-precautionary-principle-and-intergenerational-equity`
+- File: `08-precautionary-principle-and-intergenerational-equity.md`
+- Coverage: 15 new advanced-native precautionary principle under scientific uncertainty, intergenerational equity, polluter pays principle, public trust doctrine, and climate litigation judicial review headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-optics-squeezed-light-and-continuous-variable-entanglement`
+- File: `09-squeezed-light-and-cv-entanglement.md`
+- Coverage: 15 new advanced-native squeezed vacuum states, continuous-variable EPR entanglement, balanced homodyne quantum noise detection, Wigner function negativity, and gravitational wave interferometer sensitivity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction`
+- File: `10-finite-element-bone-biomechanics.md`
+- Coverage: 15 new advanced-native bone biomechanics finite element analysis (FEA), Wolff's law remodeling modeling, lacunar-canalicular fluid shear stress mechanotransduction, and trabecular micro-CT quantification headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events`
+- File: `01-ice-core-proxies-and-climate-events.md`
+- Coverage: 15 new advanced-native ice core stable water isotope proxies, Dansgaard-Oeschger millennial climate oscillations, Heinrich ice-rafted debris events, and AMOC thermohaline circulation tipping points headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `metamaterials-transformation-optics-and-acoustic-cloaking`
+- File: `02-transformation-optics-and-metamaterials.md`
+- Coverage: 15 new advanced-native negative refractive index metamaterials, transformation optics coordinate transformation, acoustic cloaking anisotropy, and split-ring resonator magnetic resonance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-epistemology-meme-theory-and-cultural-transmission`
+- File: `03-evolutionary-epistemology-and-memetics.md`
+- Coverage: 15 new advanced-native evolutionary epistemology variation-selection-retention, Dawkins memetics cultural transmission fidelity, dual-inheritance gene-culture coevolution, and cognitive bias heuristics headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `microgravity-fluid-physics-marangoni-convection-and-capillary-flow`
+- File: `04-microgravity-fluids-and-capillary-flow.md`
+- Coverage: 15 new advanced-native microgravity fluid dynamics, Marangoni surface tension driven convection, capillary liquid bridge stability, and spacecraft propellant sloshing suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-corporate-governance-fiduciary-duty-and-shareholder-activism`
+- File: `05-fiduciary-duty-and-shareholder-activism.md`
+- Coverage: 15 new advanced-native comparative corporate governance, directors fiduciary duty, business judgment rule, shareholder activism stewardship code, and multi-derivative litigation headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `structural-health-monitoring-piezoelectric-sensors-and-guided-waves`
+- File: `06-structural-health-monitoring-guided-waves.md`
+- Coverage: 15 new advanced-native smart structural health monitoring, piezoelectric sensor networks, Lamb wave dispersion damage detection, and digital twin structural fatigue prediction headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `space-propulsion-hall-effect-thrusters-and-xenon-plasma`
+- File: `07-hall-effect-thrusters-and-space-propulsion.md`
+- Coverage: 15 new advanced-native Hall effect thrusters, xenon plasma acceleration, magnetic shielding channel erosion protection, and deep-space low-thrust orbital transfer optimization headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-biomedical-ethics-gene-editing-and-reproductive-cloning`
+- File: `08-gene-editing-and-biomedical-ethics.md`
+- Coverage: 15 new advanced-native germline gene editing ethical norms, international ban on reproductive cloning, informed consent, Oviedo convention human genome limits, and preimplantation genetic diagnosis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nonlinear-optics-high-harmonic-generation-and-attosecond-pulses`
+- File: `09-high-harmonic-generation-and-attosecond-physics.md`
+- Coverage: 15 new advanced-native high harmonic generation three-step model, isolated attosecond pulse synthesis, tunnel ionization, and electron quantum wave packet interference headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing`
+- File: `10-eddy-resolving-ocean-circulation.md`
+- Coverage: 15 new advanced-native eddy-resolving ocean general circulation models, isopycnal mixing Gent-McWilliams parametrization, submesoscale baroclinic instability, and ocean heat uptake tracking headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents`
+- File: `01-magma-chamber-and-pyroclastic-currents.md`
+- Coverage: 15 new advanced-native magma chamber crystallization differentiation, pyroclastic density current multiphase turbulence, caldera collapse ground subsidence, and DOAS volcanic gas spectroscopy headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `quantum-cryptography-device-independent-qkd-and-bell-inequalities`
+- File: `02-device-independent-qkd-and-bell-inequalities.md`
+- Coverage: 15 new advanced-native device-independent QKD nonlocality security proofs, Bell inequality violation loophole closing, quantum random number generation, and side-channel attack defense headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `evolutionary-developmental-biology-hox-genes-and-body-plan-evolution`
+- File: `03-evodevo-hox-genes-and-body-plan.md`
+- Coverage: 15 new advanced-native Evo-Devo Hox homeobox segmentation, body plan spatiotemporal expression, gene regulatory network cis-evolution, and morphogen concentration gradient cell fate headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `computational-combustion-turbulent-premixed-flames-and-soot-formation`
+- File: `04-turbulent-premixed-combustion-and-soot.md`
+- Coverage: 15 new advanced-native turbulent premixed flamelet scale modeling, soot particle nucleation and growth dynamics, LES heat release fluctuation, and lean premixed combustor design headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint`
+- File: `05-proportionality-principle-and-judicial-restraint.md`
+- Coverage: 15 new advanced-native comparative constitutional adjudication, proportionality principle sub-tests, judicial restraint, clear statement doctrine, and non-conformity decisions headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms`
+- File: `06-boundary-lubrication-and-nanotribology.md`
+- Coverage: 15 new advanced-native boundary lubrication tribofilms, atomic force microscopy nanotribology, Hertzian contact mechanics, adhesive-abrasive-fatigue wear, and diamond-like carbon coatings headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `heliophysics-solar-corona-heating-and-coronal-mass-ejections`
+- File: `07-solar-corona-heating-and-cme.md`
+- Coverage: 15 new advanced-native solar coronal heating Alfvén wave dissipation, coronal mass ejections (CME), magnetic reconnection particle acceleration, and space weather forecasting headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion`
+- File: `08-platform-monopoly-and-algorithmic-collusion.md`
+- Coverage: 15 new advanced-native digital platform monopoly abuse, algorithmic collusion tacit coordination, self-preferencing, killer acquisitions, and SSNIP test application limits headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling`
+- File: `09-cavity-optomechanics-and-radiation-cooling.md`
+- Coverage: 15 new advanced-native cavity optomechanics radiation pressure cooling, quantum ground state phonon occupancy, phonon-photon entanglement, and gravitational wave mirror thermal noise suppression headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna`
+- File: `10-hominin-phylogenetics-and-ancient-dna.md`
+- Coverage: 15 new advanced-native hominin fossil phylogenetic numerical analysis, ancient DNA NGS extraction, Neanderthal-Denisovan admixture, habitual bipedalism biomechanics, and encephalization quotient evolution headwords across `news_formal` in one `target_set` passage.
+- Topic: `microfluidics-droplet-generation-and-single-cell-rna-sequencing`
+- File: `01-droplet-microfluidics-and-scrna-seq.md`
+- Coverage: 15 new advanced-native droplet microfluidics, single-cell RNA sequencing, picoliter emulsion droplets, barcode beads, and cellular heterogeneity analysis headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `plasmonics-surface-plasmon-resonance-and-metasurfaces`
+- File: `02-surface-plasmon-resonance-and-metasurfaces.md`
+- Coverage: 15 new advanced-native plasmonics, surface plasmon resonance (SPR), localized SPR, optical metasurfaces, and near-field electromagnetic enhancement headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-labor-law-platform-workers-and-algorithmic-management`
+- File: `03-platform-workers-and-algorithmic-management.md`
+- Coverage: 15 new advanced-native comparative labor law, platform worker employment status, algorithmic management, expanded supervisory control, and collective bargaining rights headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `astrochemistry-interstellar-medium-and-prebiotic-molecules`
+- File: `04-astrochemistry-and-prebiotic-molecules.md`
+- Coverage: 15 new advanced-native astrochemistry, interstellar medium (ISM), gas-phase and dust grain surface reactions, prebiotic organic molecules, and radio telescope molecular spectra headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `geomorphology-fluvial-braided-rivers-and-sediment-transport`
+- File: `05-fluvial-braided-rivers-and-sediment-transport.md`
+- Coverage: 15 new advanced-native fluvial geomorphology, braided rivers dynamics, sediment transport, Shields threshold shear stress, 2D shallow water models, and riverbed armoring headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment`
+- File: `06-car-t-cell-exhaustion-and-tumor-microenvironment.md`
+- Coverage: 15 new advanced-native CAR-T cell immunotherapy, T-cell exhaustion mechanisms, epigenetic reprogramming, immunosuppressive tumor microenvironment (TME), and cytokine release syndrome headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `seismology-fault-zone-rupture-dynamics-and-infrasound-waves`
+- File: `07-fault-zone-rupture-and-infrasound.md`
+- Coverage: 15 new advanced-native fault zone rupture dynamics, seismic wave propagation, frictional melting (pseudotachylyte), infrasound atmospheric coupling, and ionospheric disturbance headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository`
+- File: `08-nuclear-decommissioning-and-deep-repository.md`
+- Coverage: 15 new advanced-native comparative energy law, nuclear power plant decommissioning regulations, deep geological repository (DGR) site selection, and intergenerational equity headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence`
+- File: `09-acoustic-cavitation-and-sonoluminescence.md`
+- Coverage: 15 new advanced-native nonlinear acoustics, acoustic cavitation, single-bubble sonoluminescence (SBSL), Rayleigh-Plesset equation, HIFU thermal ablation, and sonochemistry headwords across `news_formal` in one `target_set` passage.
+
+- Topic: `archaeometry-synchrotron-radiation-and-ancient-pigment-characterization`
+- File: `10-synchrotron-archaeometry-and-pigments.md`
+- Coverage: 15 new advanced-native archaeometry, synchrotron radiation XRF and XANES, non-destructive micro-Raman spectroscopy, ancient pigment analysis, and cultural heritage digital twins headwords across `news_formal` in one `target_set` passage.
+- Topic: `astrobiology-extremophiles-and-biosignature-detection`
+- File: `01-extremophiles-and-biosignature-detection.md`
+- Coverage: 15 new advanced-native astrobiology, extremophiles, Enceladus-Europa hydrothermal vents, Raman biosignature detection, and planetary protection protocol headwords across news_formal in one target_set passage.
+
+- Topic: `spintronics-magnetic-tunnel-junctions-and-spin-orbit-torque`
+- File: `02-spin-orbit-torque-and-spintronics.md`
+- Coverage: 15 new advanced-native spintronics, magnetic tunnel junctions (MTJ), spin-orbit torque (SOT), tunnel magnetoresistance (TMR), and perpendicular magnetic anisotropy headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-space-law-outer-space-treaty-and-space-debris-mitigation`
+- File: `03-outer-space-treaty-and-space-debris.md`
+- Coverage: 15 new advanced-native comparative space law, Outer Space Treaty, space debris mitigation guidelines, absolute liability convention, and in-orbit active debris removal headwords across news_formal in one target_set passage.
+
+- Topic: `computational-materials-science-density-functional-theory-and-band-structure`
+- File: `04-dft-and-band-structure-calculation.md`
+- Coverage: 15 new advanced-native computational materials science, density functional theory (DFT), GGA/LDA approximations, hybrid functionals (HSE), and band structure calculation headwords across news_formal in one target_set passage.
+
+- Topic: `neurotechnology-brain-computer-interface-and-neural-decoding`
+- File: `05-bci-neural-decoding-and-telemetry.md`
+- Coverage: 15 new advanced-native neurotechnology, brain-computer interface (BCI), intracortical microelectrode arrays, neural decoding algorithms, and closed-loop neuromodulation headwords across news_formal in one target_set passage.
+
+- Topic: `environmental-nanotechnology-nanomaterial-toxicity-and-ecotoxicology`
+- File: `06-nanomaterial-toxicity-and-ecotoxicology.md`
+- Coverage: 15 new advanced-native environmental nanotechnology, engineered nanomaterials ecotoxicity, ROS oxidative stress, biomolecular corona, and aquatic trophic transfer headwords across news_formal in one target_set passage.
+
+- Topic: `glaciology-subglacial-hydrology-and-ice-sheet-stability`
+- File: `07-subglacial-hydrology-and-ice-sheet.md`
+- Coverage: 15 new advanced-native glaciology, subglacial hydrology, outburst flood drainage, marine ice sheet instability (MISI), and satellite radar interferometry melt rate headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-information-law-right-to-explanation-and-ai-transparency`
+- File: `08-ai-transparency-and-right-to-explanation.md`
+- Coverage: 15 new advanced-native comparative information law, AI right to explanation, black-box algorithmic decision-making, explainable AI (XAI), and trade secrets balancing headwords across news_formal in one target_set passage.
+
+- Topic: `molecular-virology-viral-capsid-assembly-and-cryo-em-structure`
+- File: `09-viral-capsid-and-cryo-em-structure.md`
+- Coverage: 15 new advanced-native molecular virology, viral capsid self-assembly dynamics, cryo-EM atomic resolution reconstruction, and broadly neutralizing antibody epitopes headwords across news_formal in one target_set passage.
+
+- Topic: `stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis`
+- File: `10-supernovae-and-neutrino-nucleosynthesis.md`
+- Coverage: 15 new advanced-native stellar astrophysics, core-collapse supernovae (CCSN), SASI 3D GR-MHD simulations, neutrino-driven wind r-process nucleosynthesis, and multi-messenger astronomy headwords across news_formal in one target_set passage.
+- Topic: `paleoclimatology-speleothem-isotopes-and-orbital-forcing`
+- File: `01-speleothem-isotopes-and-orbital-forcing.md`
+- Coverage: 15 new advanced-native paleoclimatology, speleothem oxygen isotopes, U-Th dating, Milankovitch orbital cycles, and Heinrich events headwords across news_formal in one target_set passage.
+
+- Topic: `quantum-thermodynamics-fluctuation-theorems-and-quantum-heat-engines`
+- File: `02-fluctuation-theorems-and-quantum-heat-engines.md`
+- Coverage: 15 new advanced-native quantum thermodynamics, Jarzynski equality, Crooks fluctuation theorem, quantum Otto engines, and Maxwell's demon information thermodynamics headwords across news_formal in one target_set passage.
+
+- Topic: `comparative-ocean-governance-unclos-and-marine-genetic-resources`
+- File: `03-unclos-and-marine-genetic-resources.md`
+- Coverage: 10 new advanced-native comparative ocean governance, UNCLOS BBNJ agreement, high seas marine genetic resources benefit-sharing, and ITLOS climate change advisory opinion headwords across news_formal in one target_set passage.

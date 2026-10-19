@@ -1,0 +1,23 @@
+# 구조생물정보학 및 단백질 3차원 구조 예측과 딥러닝 모델의 언어
+
+구조생물정보학, 알파폴드(AlphaFold) 단백질 3차원 접힘 예측, 잔기 간 접촉 맵, 다중 서열 정렬(MSA), 단백질 동역학 시뮬레이션 및 신약 후보물질 결합 부위 분석을 다루는 핵심 어휘
+
+## 포함된 학습 파일
+- [구조생물정보학 및 단백질 3차원 구조 예측과 딥러닝 모델의 언어](./04-alphafold-and-protein-structure-prediction.md)
+
+## 주요 학습 표제어 (15개)
+1. **단백질삼차원구조예측딥러닝** - học sâu dự đoán cấu trúc không gian 3 chiều protein (công nghệ trí tuệ nhân tạo chỉ tiếp nhận thông tin chuỗi tuyến tính bậc một của axit amin rồi dự đoán cấu trúc lập thể 3D cấp độ nguyên tử của protein trên máy tính thông qua mạng nơ-ron Transformer)
+2. **알파폴드잔기간거리접촉지도** - bản đồ tiếp xúc khoảng cách giữa các phần dư của AlphaFold (bản đồ thông tin cấu trúc trực quan hóa và dự đoán phân bố xác suất khoảng cách không gian Euclid và khả năng tiếp xúc giữa mọi cặp phần dư axit amin trong protein dưới dạng ma trận 2 chiều distogram)
+3. **다중서열정렬공진화정보추출** - trích xuất thông tin đồng tiến hóa từ căn chỉnh đa chuỗi (kỹ thuật xếp gióng thẳng hàng các chuỗi protein tương đồng tìm thấy ở nhiều loài khác nhau MSA để phân tích quy luật biến dị đồng thời của các axit amin, qua đó truy ngược mối quan hệ tiếp xúc vật lý giữa các phần dư)
+4. **단백질접힘열역학적안정성** - tính ổn định nhiệt động lực học gập cuộn protein (năng lực duy trì cấu trúc vật lý hóa học của protein được biểu thị bằng độ chênh lệch năng lượng tự do Gibbs ΔG giữa trạng thái duỗi biến tính và trạng thái không gian 3 chiều bản địa tự nhiên)
+5. **수용체리간드분자도킹시뮬레이션** - mô phỏng gắn kết phân tử thụ thể - phối tử (phép mô phỏng thuật toán máy tính nhằm tìm kiếm tư thế lập thể 3D tối ưu và ái lực năng lượng liên kết khi phân tử nhỏ phối tử gắn vào vị trí hoạt động của thụ thể protein mục tiêu gây bệnh)
+6. **단백질구조도메인상호작용망** - mạng lưới tương tác miền cấu trúc protein (mô hình dựa trên lý thuyết đồ thị mạng lưới hóa các tiếp xúc vật lý và mối quan hệ gắn kết giữa các miền protein có khả năng gập cuộn và thực thi chức năng độc lập nhằm phân tích hệ thống truyền tín hiệu trong cơ thể)
+7. **상동성모델링단백질주형구조** - cấu trúc khuôn protein trong mô hình hóa tương đồng (khung tọa độ nguyên tử của protein tương tự khuôn mẫu đã được xác định cấu trúc 3 chiều qua thực nghiệm dùng làm xương sống để xây dựng cấu trúc lập thể của protein mục tiêu chưa biết dựa trên độ tương đồng chuỗi)
+8. **전유전자체단백질체구조주석** - chú giải cấu trúc hệ protein thể toàn bộ hệ gen (công việc dự đoán cấu trúc lập thể 3D cho hàng vạn chuỗi protein được mã hóa bởi toàn bộ bộ gen của sinh vật và lập cơ sở dữ liệu vi tính toàn diện về các vị trí hoạt tính sinh hóa và tác động của đột biến)
+9. **동결전자현미경밀도지도피팅** - khớp mô hình nguyên tử vào bản đồ mật độ kính hiển vi điện tử nghiệm lạnh (quá trình giải mã cấu trúc tinh vi ghép nối chính xác mô hình nguyên tử axit amin vào bản đồ mật độ electron 3 chiều được tái dựng từ hình ảnh hiển vi điện tử truyền qua nhiệt độ siêu lạnh của các phân tử sinh học đóng băng cấp tốc trong ethan lỏng)
+10. **단백질골격비틀림각도분포** - phân bố góc xoắn xương sống protein (sự phân bố tọa độ hai chiều của hai góc nhị diện phi φ và psi ψ xoay quanh các liên kết hóa học liền kề của chuỗi chính xương sống protein, là thước đo biểu thị vùng cấu trúc ổn định không bị cản trở không gian)
+11. **돌연변이구조안정성변화예측** - dự đoán biến đổi tính ổn định cấu trúc do đột biến (phép phân tích tính toán độ biến thiên năng lượng tự do Gibbs ΔΔG của toàn bộ cấu trúc lập thể 3D bằng cơ học phân tử hoặc máy học khi một axit amin trong chuỗi protein bị thay thế bởi phần dư khác nhằm dự báo sự tăng giảm độ bền)
+12. **단백질알로스테릭입체배열변화** - biến đổi phối trí lập thể allosteric protein (hiện tượng biến dạng cấu trúc phối trí lập thể 3 chiều thuận nghịch của toàn bộ protein được kích hoạt khi yếu tố điều hòa gắn kết vào một vị trí từ xa khác vị trí hoạt động chính - vị trí allosteric)
+13. **결합친화도자유에너지섭동계산** - tính toán nhiễu loạn năng lượng tự do ái lực liên kết (kỹ thuật tính toán áp dụng tích phân nhiệt động lực học và nguyên lý cơ học thống kê để biến đổi dần dần các nguyên tử của phân tử trên mô phỏng máy tính nhằm tính ra độ chênh lệch năng lượng tự do liên kết delta-G-bind cực kỳ chuẩn xác)
+14. **막단백질소수성막관통나선예측** - dự đoán chuỗi xoắn alpha xuyên màng kỵ nước của protein màng (kỹ thuật thuật toán vi tính phân định vị trí và hướng xuyên màng của các đoạn xoắn alpha gồm 20-25 axit amin kỵ nước trong protein xuyên qua màng sinh chất hai lớp lipid)
+15. **컴퓨터기반표적신약후보설계** - thiết kế ứng viên thuốc nhắm đích trên máy tính (hệ thống phát triển thuốc tiên tiến dựa trên cấu trúc lập thể 3D và đặc tính nguyên tử của túi gắn kết protein mục tiêu gây bệnh, sử dụng trí tuệ nhân tạo và mô hình hóa phân tử để thiết kế ảo các hợp chất đổi mới mang lại hiệu quả điều trị tối ưu)

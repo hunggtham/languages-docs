@@ -56,6 +56,116 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [디지털 권리와 플랫폼 거버넌스의 언어](./advanced-digital-rights-and-platform-governance/README.md) — `데이터 권리와 플랫폼 통제`
 - [식량안보와 농업정책의 언어](./advanced-food-security-and-agricultural-policy/README.md) — `식량 공급과 농촌 전환`
 - [이동권과 교통정책의 고급 언어](./advanced-mobility-and-transport-policy/README.md) — `도시 이동과 교통 전환`
+- [미생물학 및 장뇌축 양방향 신호전달과 마이크로바이옴 대사체의 언어](./microbiology-gut-brain-axis-and-microbiome-metabolomics/README.md) — `장내미생물균총불균형 및 미주신경양방향신호전달 기반 단쇄지방산수용체활성화와 장투과성장벽손상기전 미생물학`
+- [구조공학 및 지진 격리 면진 구조와 지진 회복력의 언어](./structural-engineering-earthquake-resilient-structures-and-base-isolation/README.md) — `지진격리면진받침장치 및 납면진받침감쇠성능 기반 마찰진자받침시스템과 지진격리상부구조거동 구조공학`
+- [환경독성학 및 과불화화합물(PFAS) 오염과 생물농축의 언어](./environmental-toxicology-pfas-forever-chemicals-and-bioaccumulation/README.md) — `과불화옥탄술폰산오염 및 잔류성유기오염물질 규제 기반 생물축적계수산출과 단백질결합생체농축 환경독성학`
+- [금융계량학 및 고주파 알고리즘 매매와 호가창 미시구조의 언어](./financial-econometrics-high-frequency-trading-and-order-book-dynamics/README.md) — `고주파알고리즘매매 및 최우선매수매도호가 잔량 기반 지정가주문체결확률과 역선택비용위험프리미엄 금융계량학`
+- [진화유전학 및 고대 DNA 분석과 네안데르탈인 유전자 유입의 언어](./evolutionary-genetics-ancient-dna-and-neanderthal-introgression/README.md) — `고대유전체서열해독 및 네안데르탈인이입유전자 기반 탈아미노화손상패턴분석과 면역반응대립유전자보존 진화유전학`
+- [유체역학 및 난류 경계층과 와류 동역학의 언어](./fluid-mechanics-turbulent-boundary-layers-and-vortex-dynamics/README.md) — `점성유체지배방정식해석 및 난류경계층유동구조 기반 레이놀즈응력텐서분포와 와류흘림박리제어기법 유체역학`
+- [개발경제학 및 중진국 함정과 산업구조 고도화의 언어](./development-economics-middle-income-trap-and-structural-transformation/README.md) — `중진국함정탈출전략 및 산업구조고도화전환 기반 총요소생산성혁신견인과 기술집약형제조업육성 개발경제학`
+- [언어학 및 음향음성학과 성도 포먼트 분석의 언어](./linguistics-phonetics-speech-acoustics-and-vocal-tract-formants/README.md) — `음향음성학스펙트로그램 및 성도공명포먼트주파수 기반 성대진동기본주파수측정과 조음기관협착음향특성 언어학`
+- [광학 및 메타물질과 음의 굴절 및 투명 망토의 언어](./optics-metamaterials-negative-refraction-and-optical-cloaking/README.md) — `음의굴절률메타물질 및 광학투명망토은폐기술 기반 서브파장인공유전체구조와 유전율투자율동시음수화 광학`
+- [비교정치학 및 선거제도와 정당 체계 분절화의 언어](./comparative-politics-electoral-systems-and-party-fragmentation/README.md) — `선거제도비례대표성확보 및 뒤베르제의법칙양당제 기반 정당체계분절화지수측정과 연동형비례대표제의석배분 비교정치학`
+- [합성생물학 및 무세포 단백질 합성과 유전자 회로의 언어](./synthetic-biology-cell-free-protein-synthesis-and-genetic-circuits/README.md) — `무세포단백질합성시스템 및 리보스위치유전자회로 기반 합성생물학유전자발진기와 세포유리전사번역반응 합성생물학`
+- [구조지질학 및 판구조론과 섭입대 및 맨틀 플룸의 언어](./structural-geology-plate-tectonics-subduction-zones-and-mantle-plumes/README.md) — `판구조론섭입대메커니즘 및 맨틀플룸열점상승류 기반 해구해양지각침강대와 섭입대메가쓰러스트지진 구조지질학`
+- [역학 및 감염병 전파 동역학과 SIR 수리 모델의 언어](./epidemiology-infectious-disease-transmission-dynamics-and-sir-models/README.md) — `감염병전파동역학수리모델 및 기초감염재생산수산출 기반 시간변동재생산수추정과 집단면역임계값방역망 역학`
+- [거시경제학 및 국가부채 위기와 부채 지속가능성의 언어](./macroeconomics-sovereign-debt-crisis-and-debt-sustainability/README.md) — `국가부채지속가능성평가 및 국채스프레드신용위험 기반 기초재정수지흑자목표와 부채구조조정채무재조정 거시경제학`
+- [양자광학 및 얽힘 광자쌍과 양자 원격전송의 언어](./quantum-optics-entangled-photons-and-quantum-teleportation/README.md) — `양자얽힘광자쌍생성기술 및 자발적매개하향변환광학 기반 벨상태측정양자판별과 양자원격전송상태재현 양자광학`
+- [법사회학 및 법의식과 사법 접근성의 언어](./sociology-of-law-legal-consciousness-and-access-to-justice/README.md) — `법사회학일상적법의식 및 사법접근성보장체계 기반 법적권리의식실질화와 공익법률구조지원제도 법사회학`
+- [재료공학 및 고체산화물 연료전지와 혼합 전도성 세라믹의 언어](./materials-science-solid-oxide-fuel-cells-and-mixed-ionic-electronic-conductors/README.md) — `고체산화물연료전지소재 및 혼합이온전자전도체세라믹 기반 페로브스카이트산화물양극과 삼상계면반응활성영역 재료공학`
+- [계산화학 및 밀도범함수론과 분자동역학 시뮬레이션의 언어](./computational-chemistry-density-functional-theory-and-molecular-dynamics/README.md) — `밀도범함수론전자구조계산 및 분자동역학궤적시뮬레이션 기반 교환상관에너지범함수근사와 포텐셜에너지표면탐색 계산화학`
+- [국제정치학 및 대전략 구상과 역외 균형 전략의 언어](./international-relations-grand-strategy-and-offshore-balancing/README.md) — `국제정치학대전략구상 및 역외균형전략지정학세력 기반 패권안정이론권력전이와 동맹결속력무임승차방지 국제정치학`
+- [환경공학 및 탄소 포집·활용·저장(CCUS) 기술의 언어](./environmental-engineering-carbon-capture-utilization-and-storage-ccus/README.md) — `탄소포집활용저장공학 및 습식아민흡수제재생에너지 기반 초임계이산화탄소지중저장과 광물탄산화건축자재전환 환경공학`
+- [발생생물학 및 형태발생물질 농도 기울기와 기관형성의 언어](./developmental-biology-morphogen-gradients-and-organogenesis/README.md) — `형태발생물질농도기울기 및 소닉헤지호그신호전달 기반 배아발생공간패턴형성과 호메오박스유전자발현 발생생물학`
+- [생체광학 및 이광자 현미경과 초고해상도 이미징의 언어](./biomedical-optics-two-photon-microscopy-and-super-resolution-imaging/README.md) — `이광자여기형광현미경 및 구조조명초고해상도현미경 기반 심부조직비침습이미징과 단일분자위치결정나노기술 생체광학`
+- [신경약리학 및 시냅스 가소성과 표적 신경치료제의 언어](./neuropharmacology-synaptic-plasticity-and-targeted-neurotherapeutics/README.md) — `장기강화시냅스가소성 및 수용체알로스테릭조절제 기반 혈액뇌장벽약물전달체계와 신경퇴행성질환표적치료 신경약리학`
+- [금융위험관리 및 바젤협약과 유동성 스트레스테스트의 언어](./financial-risk-management-basel-accords-and-liquidity-stress-testing/README.md) — `바젤협약자기자본비율 및 유동성커버리지비율측정 기반 거시건전성스트레스테스트와 거래상대방신용위험완화 금융위험관리`
+- [천체물리학 및 우주 인플레이션과 암흑물질 소멸의 언어](./astrophysics-cosmological-inflation-and-dark-matter-annihilation/README.md) — `우주초기급팽창인플레이션 및 암흑물질입자소멸단면적 기반 우주배경복사온도이방성과 원시중력파텐서섭동측정 천체물리학`
+- [정치철학 및 숙의 민주주의와 공론장의 언어](./political-philosophy-deliberative-democracy-and-public-sphere/README.md) — `숙의민주주의공론장형성 및 의사소통합리성상호주관성 기반 공적이성담론윤리학규범과 시민참여합의형성의사결정 정치철학`
+- [금속공학 및 고엔트로피 합금과 결정립계 편석의 언어](./metallurgical-engineering-high-entropy-alloys-and-grain-boundary-segregation/README.md) — `고엔트로피합금격자왜곡 및 결정립계편석기계적물성 기반 전위밀도소성변형메커니즘과 극저온인성파괴저항성평가 금속공학`
+- [계산신경과학 및 신경 신호 해독과 뇌-기계 인터페이스의 언어](./computational-neuroscience-neural-decoding-and-brain-machine-interfaces/README.md) — `신경신호해독운동의도추정 및 뇌기계인터페이스침습형전극 기반 신경스파이크타이밍동기화와 대뇌피질운동영역신경망모델 계산신경과학`
+- [에너지지정학 및 북극항로와 핵심광물 외교의 언어](./geopolitics-of-energy-arctic-sea-routes-and-critical-mineral-diplomacy/README.md) — `북극해빙항로상업적운항 및 북극자원영유권분쟁대응 기반 핵심광물공급망안보외교와 배타적경제수역자원개발권 에너지지정학`
+- [환경미생물학 및 생물학적 정화와 미생물 전기화학 시스템의 언어](./environmental-microbiology-bioremediation-and-microbial-electrochemical-systems/README.md) — `미생물전기화학시스템에너지 및 세포외전자전달메커니즘 기반 토양생물학적정화공정기술과 난분해성오염물질생분해 환경미생물학`
+- [고기후학 및 빙하 코어 분석과 밀란코비치 주기의 언어](./paleoclimatology-ice-core-analysis-and-milankovitch-cycles/README.md) — `빙하코어동위원소분석 및 밀란코비치주기세차운동 기반 고기후복원프록시데이터와 댄스가드외슈거급격온난화 고기후학`
+- [양자암호학 및 양자 키 분배와 양자내성암호의 언어](./quantum-cryptography-quantum-key-distribution-and-post-quantum-security/README.md) — `양자키분배단일광자프로토콜 및 양자도청탐지오류율임계치 기반 양자내성격자기반암호알고리즘과 양자얽힘벨부등식위반검증 양자암호학`
+- [행동경제학 및 넛지 이론과 선택 설계의 언어](./behavioral-economics-nudge-theory-and-choice-architecture/README.md) — `행동경제학선택설계프레임워크 및 기본값설정넛지유도효과 기반 손실회피성향비대칭적가치함수와 휴리스틱체계적인지편향 행동경제학`
+- [구조생물정보학 및 단백질 3차원 구조 예측과 딥러닝 모델의 언어](./structural-bioinformatics-alphafold-and-protein-structure-prediction/README.md) — `단백질삼차원구조예측딥러닝 및 알파폴드잔기간거리접촉지도 기반 다중서열정렬공진화정보추출과 단백질접힘열역학적안정성 구조생물정보학`
+- [우주추진공학 및 홀 효과 추력기와 전기추진 시스템의 언어](./space-propulsion-hall-effect-thrusters-and-electric-propulsion/README.md) — `홀효과추력기자기장차폐기술 및 우주선전기추진플라즈마가속 기반 크세논가스이온화방전효율과 비추력추진제질량소비절감 우주추진공학`
+- [사회언어학 및 양층언어현상과 언어경관의 언어](./sociolinguistics-diglossia-and-linguistic-landscape/README.md) — `사회언어학양층언어사용현상 및 언어경관공공간판시각기호학 기반 상위어하위어상황별기능분화와 담화상황코드스위칭전략 사회언어학`
+- [표면화학 및 불균일 촉매 반응과 랑뮤어-힌셸우드 속도론의 언어](./surface-chemistry-heterogeneous-catalysis-and-langmuir-hinshelwood-kinetics/README.md) — `불균일촉매반응표면흡착에너지 및 랑뮤어힌셸우드반응속도론모델 기반 화학흡착활성화에너지장벽과 촉매활성점원자수준전자구조 표면화학`
+- [계산사회과학 및 행위자 기반 모형과 여론 양극화 동학의 언어](./computational-social-science-agent-based-modeling-and-opinion-dynamics/README.md) — `계산사회과학행위자기반모델링 및 여론양극화동학에코체임버효과 기반 복잡계사회네트워크정보확산과 확증편향알고리즘필터버블 계산사회과학`
+- [수문공학 및 지하수 유동 해석과 대수층 지속가능 관리의 언어](./hydrological-engineering-subsurface-water-flow-and-aquifer-management/README.md) — `지하수수문학다르시법칙유동해석 및 대수층투수량계수저류계수산정 기반 지하수위강하원추침하량예측과 해안대수층염수침투방지벽설계 수문공학`
+- [비교헌법학 및 헌법재판소와 위헌법률심사의 언어](./comparative-constitutional-law-constitutional-courts-and-judicial-review/README.md) — `비교헌법학위헌법률심사기준 및 헌법재판소비례원칙과잉금지 기반 합헌적법률해석한계기준정립과 국가기관간권한쟁의심판결정 비교헌법학`
+- [합성생물학 및 유도 진화와 고대 서열 복원의 언어](./synthetic-biology-directed-evolution-and-ancestral-sequence-reconstruction/README.md) — `유도진화무작위돌연변이유발 및 조상단백질서열복원알고리즘 기반 파지디스플레이결합친화도선별과 생체촉매활성부위재설계기술 합성생물학`
+- [실험유체역학 및 입자영상유속계와 난류 경계층의 언어](./experimental-fluid-mechanics-particle-image-velocimetry-and-turbulent-boundary-layers/README.md) — `입자영상유속계이중펄스레이저 및 난류경계층와류구조가시화 기반 레이놀즈응력텐서난류운동에너지와 유동박리제어와류발생기설계 실험유체역학`
+- [신경윤리학 및 인지 증강과 자유의지의 언어](./neuroethics-cognitive-enhancement-and-free-will/README.md) — `신경윤리학인지증강약물규범 및 신경결정론자유의지양립가능성 기반 뇌프라이버시신경데이터자기결정과 인지적자유권자기정체성보호 신경윤리학`
+- [광학메타물질 및 위상 광자학과 카이랄 분자 감지의 언어](./optical-metamaterials-topological-photonics-and-chiral-sensing/README.md) — `위상광자학에지상태비가역도파 및 카이랄메타물질원편광이색성분광 기반 위상절연체후방산란방지광도파로와 생체거울상이성질체초고감도검출 광학메타물질`
+- [계산언어학 및 거대언어모델 정렬과 인간 피드백 강화학습의 언어](./computational-linguistics-large-language-models-and-reinforcement-learning-from-human-feedback/README.md) — `거대언어모델인간피드백강화학습 및 보상모델훈련선호도데이터정렬 기반 환각현상완화지식근거생성검증과 프롬프트엔지니어링문맥내학습 계산언어학`
+- [지진학 및 지진 조기경보와 단층 파쇄 동역학의 언어](./seismology-earthquake-early-warning-and-fault-rupture-dynamics/README.md) — `지진조기경보피파도달지진동추정 및 단층파쇄동역학초전단파쇄전파 기반 지진모멘트텐서역산단층면해석과 지진동감쇄경험식최대지반가속도 지진학`
+- [생무기화학 및 금속단백질 배위결합과 인공 광합성의 언어](./bioinorganic-chemistry-metalloproteins-and-artificial-photosynthesis/README.md) — `망간산소발생복합체광화학물분해 및 금속단백질배위결합전자전달사슬 기반 인공광합성분자촉매물산화반응과 철황단백질클러스터산화환원전위 생무기화학`
+- [발달정신병리학 및 유년기 외상과 후성유전학적 취약성의 언어](./developmental-psychopathology-childhood-trauma-and-epigenetic-vulnerability/README.md) — `발달정신병리학후성유전학적각인 및 유년기부정적경험스트레스취약성 기반 시상하부뇌하수체부신축과각성반응과 디엔에이메틸화유전자발현조절이상 발달정신병리학`
+- [핵융합공학 및 토카막 자기밀폐와 플라즈마 붕괴완화의 언어](./nuclear-fusion-engineering-tokamak-magnetic-confinement-and-plasma-disruption/README.md) — `토카막자기밀폐플라즈마평형제어 및 중수소삼중수소핵융합반응단면적 기반 고인자모드에이치모드경계수송장벽과 플라즈마대규모붕괴완화산탄주입 핵융합공학`
+- [환경독성학 및 미세플라스틱과 영양단계 생물농축의 언어](./environmental-toxicology-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱영양단계생물농축계수 및 나노플라스틱세포막투과생체독성 기반 잔류성유기오염물질흡착매개체역할과 해양먹이사슬상위포식자생물확대 환경독성학`
+- [미세유체역학 및 랩온어칩과 액적 디지털 중합효소연쇄반응의 언어](./microfluidics-lab-on-a-chip-and-droplet-digital-pcr/README.md) — `미세유체역학랩온어칩소자설계 및 액적기반디지털중합효소연쇄반응 기반 미세채널층류레이놀즈수해석과 표면장력모세관압력구동제어 미세유체학`
+- [행동신경과학 및 공포 조건화와 기억 재공고화의 언어](./behavioral-neuroscience-fear-conditioning-and-memory-reconsolidation/README.md) — `파블로프식공포조건화실험모델 및 기저외측편도체시냅스가소성 기반 기억재공고화단백질합성억제와 편도체해마상호작용공포기억 행동신경과학`
+- [광자결정 및 광자 밴드갭과 저속광 기술의 언어](./photonic-crystals-photonic-bandgap-and-slow-light/README.md) — `광자결정주기적유전율나노구조 및 광자밴드갭전자기파차단 기반 저속광도파로군속도지연효과와 고품질계수광공진기모드체적 광자결정`
+- [거시경제학 및 동태적 확률적 일반균형 모형과 통화정책의 언어](./macroeconomics-dynamic-stochastic-general-equilibrium-and-monetary-policy/README.md) — `동태적확률적일반균형모형설계 및 칼보가격경직성필립스곡선 기반 테일러준칙최적통화정책반응과 베이지안마르코프체인몬테카를로추정 거시경제학`
+- [우주로봇공학 및 자율 랑데부·도킹과 궤도상 서비스의 언어](./space-robotics-autonomous-rendezvous-and-orbital-servicing/README.md) — `클로헤시윌트셔방정식상대운동해석 및 자율랑데부도킹근접접근기동제어 기반 비협조표적우주파편로봇팔포획과 궤도상연료보급위성수명연장서비스 우주로봇공학`
+- [후성유전학 및 히스톤 코드와 염색질 접근성의 언어](./epigenetics-histone-code-and-chromatin-accessibility/README.md) — `히스톤꼬리공유결합변형암호해독 및 염색질접근성분석전위효소시퀀싱 기반 염색질리모델링복합체스위스니프와 파이오니어전사인자응축염색질침투 후성유전학`
+- [전산연소공학 및 난류 예혼합 화염과 회전 폭굉 엔진의 언어](./computational-combustion-turbulent-premixed-flames-and-detonation/README.md) — `난류예혼합화염면보르기다이어그램 및 회전폭굉엔진압력상승연소효율 기반 화염편모델상세화학반응속도론과 담쾰러수카를로비츠수연소영역분류 전산연소공학`
+- [사이버물리시스템 및 하이브리드 오토마타와 정형 검증의 언어](./cyber-physical-systems-formal-verification-and-hybrid-automata/README.md) — `사이버물리시스템정형기법검증 및 하이브리드오토마타도달가능성분석 기반 선형시상논리안전성성질모델체킹과 상태공간폭발문제추상화완화기법 사이버물리시스템`
+- [환경지구화학 및 산성광산배수와 중금속 자연저감의 언어](./environmental-geochemistry-acid-mine-drainage-and-heavy-metal-attenuation/README.md) — `황화광물생지화학적산화반응 및 산성광산배수중금속용출기전 기반 철알루미늄수산화물공침흡착과 투수성반응벽체중금속정화기술 환경지구화학`
+- [비교행정법 및 행정재량과 비례원칙의 언어](./comparative-administrative-law-administrative-discretion-and-proportionality/README.md) — `행정재량권한계및일탈남용통제 및 비례원칙적합성필요성상당성 기반 신뢰보호원칙정당한기대보호와 행정절차법사전통지의견청취 비교행정법`
+- [합성생물학 및 대사 플럭스 분석과 게놈 스케일 모델링의 언어](./synthetic-biology-metabolic-flux-and-genome-scale-modeling/README.md) — `게놈스케일대사모델링플럭스균형해석 및 동위원소표지탄소대사플럭스분석법 기반 단일유전자결실최적경로예측시뮬레이션과 대사경로재설계세포공장생산수율최적화 합성생물학`
+- [구조지질학 및 고응력 역산과 단층 기구학의 언어](./structural-geology-paleostress-analysis-and-fault-kinematics/README.md) — `단층조선고응력역산단층기구학해석 및 앤더슨단층분류단층면마찰응력텐서 기반 연성전단대마일로나이트엽리미세구조와 단층재활성화응력장변화슬립경향성 구조지질학`
+- [극저온공학 및 초전도 자석과 퀜치 보호 시스템의 언어](./cryogenic-engineering-superconducting-magnets-and-quench-protection/README.md) — `초전도자석퀜치검출능동보호시스템 및 액체헬륨극저온냉각폐쇄순환사이클 기반 임계전류밀도자기장임계온도상전이와 자기에너지추출덤프저항열분산기법 극저온공학`
+- [해양지구물리학 및 해양지각 형성과 열수분출공 동역학의 언어](./marine-geophysics-oceanic-crust-and-hydrothermal-vent-dynamics/README.md) — `중앙해령해저확장해양지각형성과정 및 해저열수분출공블랙스모커광화작용 기반 감람암사문암화수소발생메탄합성반응과 축부마그마챔버탄성파토모그래피영상화 해양지구물리학`
+- [고인류학 및 호미닌 진화와 고대 유전체 혼혈의 언어](./paleoanthropology-hominin-evolution-and-ancient-dna-admixture/README.md) — `고인류학호미닌화석골격계통발생분석 및 고대유전체추출네안데르탈인유전자혼혈 기반 데니소바인교잡적응유전자수평전파와 두개골용적확대뇌신경화생체계측학 고인류학`
+- [항공음향학 및 터보팬 제트 소음과 후연 산란의 언어](./aeroacoustics-turbomachinery-noise-and-trailing-edge-scattering/README.md) — `라이트힐음향상사이론제트소음예측모델 및 익형후연소음산란와류간섭공기역학 기반 터보팬엔진음향라이너흡음재설계기술과 위상배열마이크로폰빔포밍소음원시각화 항공음향학`
+- [고체전기화학 및 고체산화물 연료전지와 혼합전도체의 언어](./solid-state-electrochemistry-solid-oxide-fuel-cells-and-mixed-conductors/README.md) — `고체산화물연료전지삼상계면산소환원반응 및 혼합이온전자전도체산소투과분리막소재 기반 전기화학임피던스분광법분극저항분석과 페로브스카이트산화물양극재료촉매활성 고체전기화학`
+- [인지언어학 및 개념적 은유와 체화된 인지의 언어](./cognitive-linguistics-conceptual-metaphor-and-embodied-cognition/README.md) — `개념적은유이론체화된인지도식매핑 및 영상도식신체화경험공간감각추상화 기반 심리적공간개념적혼성이론담화분석과 다의어의미망의미확장범주화원형이론 인지언어학`
+- [전파천문학 및 초장기저 간섭계와 펄서 타이밍 어레이의 언어](./radio-astronomy-very-long-baseline-interferometry-and-pulsar-timing/README.md) — `초장기저간섭계블랙홀사건의지평선영상화 및 펄서타이밍어레이초저주파중력파검출 기반 폐합위상보정기법대기위상요동제거와 전파망원경배열합성개구전파간섭계측 전파천문학`
+- [비교헌법학 및 국가긴급권과 기본권 제한의 언어](./comparative-constitutional-law-emergency-powers-and-derogation/README.md) — `국가긴급권행사기본권제한비례원칙심사 및 헌법상비상계엄선포실질적위헌심사기준 기반 국가위기관리입헌적독재예외상태이론과 국제인권규약비상사태기본권적용유예 비교헌법학`
+- [합성생물학 및 무세포 단백질 합성과 DNA 오리가미의 언어](./synthetic-biology-cell-free-protein-synthesis-and-dna-origami/README.md) — `무세포단백질합성전사번역커플링시스템 및 디엔에이오리가미나노구조자가조립기술 기반 인공나노로봇분자스위치약물전달체계와 시험관내전사번역생체분자회로설계 합성생물학`
+- [플라즈마물리학 및 자기유체역학적 불안정성과 자기재결합의 언어](./plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection/README.md) — `자기유체역학적불안정성토카막플라즈마 및 자기재결합스위트파커펫첵이론모델 기반 자기섬형성티어링모드불안정성제어와 그라드샤프라노프방정식평형상태도출 플라즈마물리학`
+- [진화게임이론 및 협력의 진화와 공공재 게임의 언어](./evolutionary-game-theory-cooperation-and-public-goods-games/README.md) — `진화게임이론협력의진화복제자동역학 및 공공재게임무임승차자처벌기제실험 기반 간접상호성평판시스템도덕적규범확산과 공간구조화네트워크상호성클러스터형성 진화게임이론`
+- [측지학 및 인공위성 고도측정과 지구 지오이드 모델링의 언어](./geodesy-satellite-altimetry-and-global-geoid-modeling/README.md) — `위성고도계측정밀지구지오이드모델링 및 구면조화함수전개지구중력장복원해석 기반 지오이드기복기준타원체수직단차측정과 위성추적위성중력탐사그레이스임무해석 측지학`
+- [신경면역학 및 미세아교세포 활성화와 뇌혈관장벽 붕괴의 언어](./neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption/README.md) — `미세아교세포표현형전이신경염증반응 및 뇌혈관장벽밀착연접단백질무결성붕괴 기반 성상교세포말족아쿠아포린수분수송조절과 염증성사이토카인중추신경계침윤경로 신경면역학`
+- [유체-구조 상호작용 및 와류유도진동과 플러터 해석의 언어](./fluid-structure-interaction-vortex-induced-vibrations-and-flutter/README.md) — `유체구조상호작용와류유도진동공진해석 및 공력탄성학플러터한계속도동적불안정성 기반 후류와류방출주파수락인현상진폭제어와 감쇠비구조동역학모달해석비선형거동 유체구조역학`
+- [불균일촉매학 및 단원자 촉매와 배위 환경 공학의 언어](./heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment/README.md) — `단원자촉매금속지지체강한상호작용설계 및 배위불포화금속활성점원자수준전자구조 기반 디밴드센터이론흡착에너지선형스케일링과 엑스선흡수근원단구조배위수정밀결정법 불균일촉매학`
+- [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
+- [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
+- [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
+- [고기후학 및 빙하 코어 프록시와 댄스고르-외슈거 사건의 언어](./paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events/README.md) — `빙하코어안정동위원소고기후프록시복원 및 댄스고르외슈거밀레니엄기후변동주기 기반 하인리히사건빙산유출쇄설성퇴적층과 대서양자오선열염순환티핑포인트 고기후학`
+- [메타물질 및 변환광학과 음향 스텔스 클로킹의 언어](./metamaterials-transformation-optics-and-acoustic-cloaking/README.md) — `음의굴절률메타물질전자기파굴절특성 및 좌표변환광학투명망토설계기하학 기반 음향스텔스메타물질수중음향클로킹과 분할링공진기인공자기공명주파수 메타물질공학`
+- [진화인식론 및 밈 이론과 문화 전달의 언어](./evolutionary-epistemology-meme-theory-and-cultural-transmission/README.md) — `진화인식론시행착오변이선택보존기제 및 밈이론문화적전달단위복제충실도 기반 이중상속이론유전자문화공진화모델과 인지편향휴리스틱진화심리학적기원 진화인식론`
+- [미소중력 유체물리학 및 마랑고니 대류와 모세관 유동의 언어](./microgravity-fluid-physics-marangoni-convection-and-capillary-flow/README.md) — `미소중력환경표면장력구배마랑고니대류 및 모세관액적브리지안정성한계해석 기반 열모세관불안정성임계온도차공진모드와 우주선추진제탱크슬로싱감쇠격벽설계 우주유체역학`
+- [비교기업지배구조 및 이사의 충실의무와 주주행동주의의 언어](./comparative-corporate-governance-fiduciary-duty-and-shareholder-activism/README.md) — `비교기업지배구조이사의충실의무사법심사 및 경영판단원칙선관주의의무면책한계판단기준 기반 주주행동주의사모펀드기업가치제고전략과 주주대표소송이사의회사손해배상책임추궁 비교회사법`
+- [구조물 상태감시 및 압전 센서망과 유도초음파 손상탐지의 언어](./structural-health-monitoring-piezoelectric-sensors-and-guided-waves/README.md) — `스마트구조물상태감시압전센서네트워크 및 램파유도초음파분산곡선손상탐지신호해석 기반 광섬유브래그격자센서변형률분포계측기법과 디지털트윈기반구조동역학피로수명예측해석 스마트계측공학`
+- [우주추진공학 및 홀 효과 추력기와 제논 플라즈마 방전의 언어](./space-propulsion-hall-effect-thrusters-and-xenon-plasma/README.md) — `홀효과추력기제논플라즈마가속추진시스템 및 자기절연채널전자방향드리프트전류제어 기반 할로우캐소드방전열전자방출플라즈마중화와 심우주탐사선저추력궤도천이최적화알고리즘 항공우주추진공학`
+- [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
+- [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
+- [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
+- [화산학 및 마그마 챔버 동역학과 화산쇄설류의 언어](./volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents/README.md) — `마그마챔버결정분화동역학수치시뮬레이션 및 화산쇄설류고온가스부유입자복합유동해석 기반 칼데라함몰지반침하마그마저류층압력강하와 화산분화지수분출물총량플룸높이산출법 화산지구물리학`
+- [양자암호학 및 장치독립형 양자키분배와 벨 부등식의 언어](./quantum-cryptography-device-independent-qkd-and-bell-inequalities/README.md) — `장치독립형양자키분배비국소성보안성증명 및 벨부등식위반양자얽힘검증루프홀차단기법 기반 양자난수생성기원천적비예측성물리적구현과 사이드채널공격방어단일광자검출기무결성 양자암호학`
+- [진화발생생물학 및 홉스 유전자와 신체 설계 진화의 언어](./evolutionary-developmental-biology-hox-genes-and-body-plan-evolution/README.md) — `진화발생생물학체절형성호메오박스유전자군 및 신체기본설계배아발생공간시간발현패턴조절 기반 유전자조절네트워크전사인자결합부위진화와 형태형성물질농도구배위치정보세포운명결정 진화발생학`
+- [전산연소공학 및 난류 예혼합 화염과 그을음 생성의 언어](./computational-combustion-turbulent-premixed-flames-and-soot-formation/README.md) — `난류예혼합화염미세구조화염편스케일해석 및 그을음입자핵형성성장동역학수치시뮬레이션 기반 대와류모사난류연소반응열방출변동률예측과 다환방향족탄화수소그을음전구체반응메커니즘 전산연소공학`
+- [비교헌법재판 및 비례원칙과 사법자제의 언어](./comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint/README.md) — `비교헌법재판과잉금지원칙목적의정당성심사 및 수단의적합성침해의최소성법익균형성비례심사 기반 사법자제론입법형성의자유민주적정당성존중과 기본권제한법률유보원칙명확성의원칙사법심사 비교헌법재판론`
+- [마찰학 및 경계윤활과 원자수준 마찰마모 기전의 언어](./tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms/README.md) — `경계윤활막흡착분자배열극압첨가제반응층 및 원자간력현미경나노트라이볼로지마찰력측정 기반 미세돌기접촉역학헤르츠접촉압력탄소성변형과 응착마모연삭마모피로마모복합손상기전규명 나노트라이볼로지`
+- [태양물리학 및 코로나 가열과 코로나질량방출의 언어](./heliophysics-solar-corona-heating-and-coronal-mass-ejections/README.md) — `태양코로나가열자기유체역학알렌파소산기전 및 코로나질량방출행성간충격파지자기폭풍유도 기반 자기재결합국소자력선재편성고에너지입자가속과 태양플레어엑스선복사선전리층교란통신장애 태양권물리학`
+- [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
+- [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
+- [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
+- [미세유체역학 및 액적 생성과 단일세포 전사체 시퀀싱의 언어](./microfluidics-droplet-generation-and-single-cell-rna-sequencing/README.md) — `미세유체역학액적생성단일세포알엔에이시퀀싱 및 피코리터에멀션액적세포캡슐화바코드비드 기반 단일세포이질성규명전사체지도작성과 고속처리유전체분석단일세포유전자발현 미세유체유전체학`
+- [플라즈모닉스 및 표면 플라즈몬 공명과 메타표면 광학의 언어](./plasmonics-surface-plasmon-resonance-and-metasurfaces/README.md) — `표면플라즈몬공명금속유전체계면전자기파 및 국소표면플라즈몬공명금속나노입자근접장증폭 기반 광학메타표면유효굴절률위상불연속제어와 전자기유도투명성초저손실플라즈모닉도파로 나노광학`
+- [비교노동법 및 플랫폼 노동자와 알고리즘 노무관리의 언어](./comparative-labor-law-platform-workers-and-algorithmic-management/README.md) — `플랫폼종사자근로기준법상근로자성판정기준 및 알고리즘기반인적자원관리자동화노무지휘 기반 종속적자영업자중간범주법적지위부여논의와 배달대행기사특수형태근로종사자산재보험적용 비교노동법`
+- [우주화학 및 성간물질 화학 진화와 생명기원 분자의 언어](./astrochemistry-interstellar-medium-and-prebiotic-molecules/README.md) — `성간물질밀집분자운성간진입자표면반응 및 우주생명기원전구물질아미노산합성경로 기반 다환방향족탄화수소성간적외선방출밴드스펙트럼과 전파망원경회전전이분자선간섭계고분해능관측 우주화학`
+- [하천지형학 및 망상하천 동역학과 유사이송의 언어](./geomorphology-fluvial-braided-rivers-and-sediment-transport/README.md) — `망상하천동역학사주형성분기수로망진화 및 하상소류사이송률쉴즈임계전단응력산출 기반 이차원천수방정식수치모형하상변동예측과 조립질자갈하상장갑화침식저항성평가 하천지형학`
+- [종양면역치료학 및 CAR-T 세포 탈진과 종양미세환경의 언어](./immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment/README.md) — `키메라항원수용체티세포종양표적면역치료 및 만성항원자극티세포탈진면역관문수용체발현 기반 톡스전사인자후성유전학적재프로그래밍고착과 면역억제성종양미세환경골수유래억제세포침윤 종양면역학`
+- [지진학 및 단층대 파쇄 동역학과 초저주파 불가청음의 언어](./seismology-fault-zone-rupture-dynamics-and-infrasound-waves/README.md) — `단층대파쇄동역학지진파전파마찰용융수치해석 및 초저주파불가청음대기음향중력파전리층교란측정 기반 슈도타킬라이트단층암마찰발열동역학적약화기전과 지진단층파열속도천음속파열초음속충격파형성 계산지진학`
+- [비교에너지법 및 원전 해체 규제와 심층처분장의 언어](./comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository/README.md) — `원자력발전소영구정지즉시해체지연해체규제 및 사용후핵연료고준위방사성폐기물심층처분장부지선정 기반 세대간형평성원칙방사성폐기물관리미래세대책임과 다중방벽시스템공학적방벽천연방벽격리안전성 비교에너지환경법`
+- [비선형음향학 및 음향공동현상과 음발광 동역학의 언어](./nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence/README.md) — `비선형음향학음향공동현상단일기포음발광해석 및 레일리플레셋방정식기포반경동역학수치시뮬레이션 기반 초음파집속치료고강도집속초음파열응고괴사유도와 공동기포단열압축초고온초고압플라즈마형성기전 물리음향학`
+- [고고학적 분석과학 및 방사광 가속기와 고대 채색 안료 동정의 언어](./archaeometry-synchrotron-radiation-and-ancient-pigment-characterization/README.md) — `고고분석과학방사광가속기엑스선형광분석법 및 고대채색안료광물조성비파괴마이크로라만분광학 기반 문화재보존과학부식생성물계면화학변질기전규명과 고대청동기납동위원소비분석원산지산지추정법 문화유산과학`
 - [스포츠와 경기 문화](./sports-and-competition-culture/README.md) — `리그를 설계하고 경기의 흐름을 읽다`
 - [정신건강과 신경다양성의 언어](./advanced-mental-health-and-neurodiversity/README.md) — `감각 조절과 신경다양성의 담화`
 - [물 안보와 기후 회복력의 언어](./advanced-water-security-and-climate-resilience/README.md) — `물 위기를 관리하고 유역의 회복력을 설계하다`
@@ -320,6 +430,326 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [웨어러블 땀 바이오센서와 미세유체의 언어](./advanced-wearable-sweat-biosensors-and-microfluidics/README.md) — `모세관 유도 미세유체 채널 및 유연 전극 기반 비침습 혈당·젖산·코르티솔 실시간 전기화학 연속 모니터링 기술`
 - [위상 마그노닉스와 스핀파 정보 처리의 언어](./advanced-topological-magnonics-and-spin-waves/README.md) — `스커미온 결정 및 카이랄 스핀파 도파로 기반 열 손실 제로 위상보호 에지 모드 초고속 마그논 논리 연산 기술`
 - [생체분해성 마찰전기 발전기와 에코 전자의 언어](./advanced-biodegradable-triboelectric-nanogenerators-and-ecoelectronics/README.md) — `천연 고분자 마찰층 및 수용성 다당류 필름 기반 환경 자연분해 단기수명 자가발전 센서 및 에코 전자공학 기술`
+- [콜로이드 양자점 적외선 광검출기 및 열화상의 언어](./advanced-quantum-dot-infrared-photodetectors-and-thermal-imaging/README.md) — `용액 공정 기반 양자점 박막 및 쇼트키 접합 기반 비냉각 고해상도 열화상 초점면 어레이 차세대 적외선 광센서 기술`
+- [소노다이내믹 요법 및 음향 공동현상의 언어](./advanced-sonodynamic-therapy-and-acoustic-cavitation/README.md) — `저강도 집속 초음파 및 생체적합성 음향감각제 기반 국소 활성산소종 방출 및 심부 종양 비침습적 정밀 타격 치료 기술`
+- [광자 결정 표면 발광 레이저 및 라이다의 언어](./advanced-photonic-crystal-surface-emitting-lasers-and-lidar/README.md) — `2차원 밴드에지 공진 및 온칩 위상 제어 기반 초협소 빔 발산각 고출력 단일모드 자율주행 반도체 라이다 광원 기술`
+- [웨어러블 마찰대전·전기화학 하이브리드 바이오 패치의 언어](./advanced-wearable-electrochemical-triboelectric-hybrid-patches/README.md) — `신체 역학 에너지 수확 및 땀 미세유체 분석 융합 기반 무전원 자가충전 연속 바이오마커 실시간 모니터링 기술`
+- [스핀트로닉 테라헤르츠 메타물질 변조기의 언어](./advanced-spintronic-terahertz-metamaterial-modulators/README.md) — `광유도 초고속 스핀전류 펄스 및 능동 메타표면 기반 차세대 6G 무선통신 초광대역 테라헤르츠 빔 제어 기술`
+- [무세포 단백질 생합성 플랫폼과 온디맨드 바이오제조의 언어](./advanced-synthetic-biology-cell-free-protein-synthesis/README.md) — `세포막 비의존성 시험관 전사-번역 공정 및 인공 유전자 회로 기반 현장 맞춤형 바이오의약품 초고속 분산 제조 기술`
+- [뉴로모픽 촉각 센서 및 생체모사 인공 구심신경의 언어](./advanced-neuromorphic-tactile-sensors-and-electronic-afferents/README.md) — `압전·마찰대전 복합 센싱 및 스파이킹 신경 신호 변환 기반 정·동적 압력 및 미세 질감 실시간 인지 인공 구심신경 기술`
+- [탄소 양자점 및 친환경 녹색 광촉매의 언어](./advanced-carbon-quantum-dots-and-green-photocatalysis/README.md) — `바이오매스 유래 탄소 나노결정 및 상향변환 형광 기반 가시광 구동 수소 생산 및 수질 오염물 광분해 녹색 광촉매 기술`
+- [위상 광자 결정 및 온칩 광지연선의 언어](./advanced-topological-photonic-crystals-and-optical-delay-lines/README.md) — `광학적 스핀 홀 효과 및 무반사 위상 경계 모드 기반 결함 내성 초소형 광도파로 및 온칩 광지연선·광버퍼링 기술`
+- [압전 촉매 및 초음파 수질 정화 기술의 언어](./advanced-piezoelectric-catalysis-and-ultrasonic-water-purification/README.md) — `비중심대칭 압전 나노결정 및 음향 공동현상 융합 기반 초음파 진동 유도 난분해성 유기 오염물질 완전 무기화 수처리 기술`
+- [유연 시냅스 멤리스터 어레이 및 엣지 인공지능의 언어](./advanced-flexible-synaptic-memristive-arrays-for-edge-ai/README.md) — `기계적 굽힘 내성 유기-무기 하이브리드 박막 및 다단 자가학습 크로스바 기반 실시간 생체 신호 처리 극저전력 엣지 AI 기술`
+- [나노다공성 탄소 슈퍼커패시터 및 이온성 액체의 언어](./advanced-nanoporous-carbon-supercapacitors-and-ionic-liquids/README.md) — `계층적 미세·메조 기공 네트워크 및 고전압창 비수계 이온성 액체 전해질 기반 극한 환경 구동 초고출력 에너지 저장 기술`
+- [미세유체 오가노이드 온칩 및 신약 스크리닝의 언어](./advanced-microfluidic-organoid-chips-and-drug-screening/README.md) — `동적 관류 유체역학 및 3차원 조직 미세환경 모사 기반 환자 맞춤형 약물 반응 평가 및 차세대 신약 스크리닝 기술`
+- [양자 스핀 홀 절연체 및 무손실 엣지 전송의 언어](./advanced-quantum-spin-hall-insulators-and-edge-states/README.md) — `시간역전 대칭성 보호 나선형 가장자리 상태 및 탄도성 스핀 전도 기반 줄열 손실 제로 극저전력 양자 소자 기술`
+- [유연 페로브스카이트 태양전지 및 롤투롤 인쇄의 언어](./advanced-flexible-perovskite-photovoltaics-and-roll-to-roll/README.md) — `대면적 슬롯다이 코팅 및 결함 부동태화 계면 제어 기반 고내구성 플렉서블 롤투롤 연속 인쇄 광전 변환 모듈 기술`
+- [초고감도 표면 플라즈몬 공명 바이오센서의 언어](./advanced-ultrasensitive-surface-plasmon-resonance-biosensors/README.md) — `국소 표면 플라즈몬 공명 및 전자기장 증폭 기반 피코몰 농도 극미량 바이오마커 실시간 무표지 광학 검출 기술`
+- [압전 생체 전기 자극 골재생 지지체의 언어](./advanced-piezoelectric-bone-regeneration-scaffolds/README.md) — `체내 역학 운동 유도 자가발전 압전 전위차 및 조골세포 분화 촉진 기반 결손 부위 맞춤형 3D 프린팅 골조직 지지체 기술`
+- [심자외선 질화알루미늄갈륨 반도체 레이저의 언어](./advanced-deep-ultraviolet-algan-laser-diodes/README.md) — `고알루미늄 조성 헤테로접합 및 다중양자우물 에피택시 성장 기반 친환경 수은프리 초단파장 살균 광반도체 레이저 기술`
+- [메타물질 전자기 투명망토 및 레이더 스텔스의 언어](./advanced-metamaterial-microwave-cloaking-and-radar-stealth/README.md) — `변환광학 굴절률 설계 및 능동 메타표면 기반 전자기파 산란 상쇄 및 초광대역 레이더 반사면적 극소화 기술`
+- [압전 인공 달팽이관 및 체내 이식형 음향 센서의 언어](./advanced-piezoelectric-nanogenerator-acoustic-implants/README.md) — `생체적합성 유연 압전막 및 주파수 분할 기계-전기 변환 기반 무전원 청각신경 직접 자극 인공 기저막 기술`
+- [광유전학 나노 신경 프로브 및 뇌심부 자극술의 언어](./advanced-optogenetic-neural-probes-and-deep-brain-stimulation/README.md) — `초소형 마이크로 LED 집적 및 유연 광도파로 기반 뇌심부 신경세포 발화 실시간 기록 및 초정밀 광자극 기술`
+- [스마트 하이드로겔 구동기 및 생체모사 수중 로봇의 언어](./advanced-hydrogel-actuators-and-biomimetic-swimmers/README.md) — `자극응답성 이온 농도 구배 팽윤 및 광열 구동 기반 3차원 비대칭 형상 변형 수중 자율 유영 마이크로봇 기술`
+- [양자폭포 광검출기 및 중적외선 초고속 센싱의 언어](./advanced-quantum-cascade-detectors-and-thermal-sensing/README.md) — `서브밴드 간 전자 전이 및 무바이어스 계단형 양자우물 기반 암잡음 원천 배제 고온 비냉각 중적외선 분광 검출 기술`
+- [바이오 전자 혀 및 인공 미각 수용체 센서의 언어](./advanced-bioelectronic-electronic-tongues-and-taste-sensors/README.md) — `지질막 모사 및 단백질 수용체 고정화 전극 기반 오미 다채널 실시간 분석 초소형 미세유체 바이오 전자 혀 기술`
+- [메타표면 보텍스 빔 생성기와 궤도각운동량 다중화 기술의 언어](./advanced-metasurface-vortex-beam-generators-and-oam-multiplexing/README.md) — `위상 특이점 나노안테나 및 광학 파면 위상 변조 기반 궤도각운동량 보텍스 빔 생성 및 자유공간 광통신 공간 다중화 기술`
+- [웨어러블 땀 구동 젖산 및 포도당 생체연료전지 공학의 언어](./advanced-wearable-sweat-lactate-and-glucose-biofuel-cells/README.md) — `효소 고정화 3차원 전도성 지지체 및 미세유체 땀 채취 패치 기반 젖산·포도당 동시 발전 무전원 웨어러블 헬스케어 기술`
+- [뉴로모픽 청각 프런트엔드와 달팽이관 칩의 언어](./advanced-neuromorphic-auditory-frontends-and-cochlea-chips/README.md) — `생체 기저막 주파수 공간 분할 및 비동기 스파이킹 청각 신경 모사 기반 초저전력 잡음 강인 음성 인코딩 기술`
+- [압전광전기화학 복합 수전해 기술의 언어](./advanced-piezoelectric-photoelectrochemical-water-splitting/README.md) — `초음파 유도 압전 분극 및 광촉매 나노선 이종접합 기반 전자-정공 재결합 억제 친환경 무탄소 그린 수소 생산 기술`
+- [탄소 나노튜브 시냅스 트랜지스터와 신경 인터페이스의 언어](./advanced-carbon-nanotube-synaptic-transistors-and-neural-interfaces/README.md) — `생체 신경세포 직접 전기접합 및 다중게이트 이온젤 기반 초저전력 인공 시냅스 가소성 제어 생체전자 인터페이스 기술`
+- [나노다공성 에어로겔 초단열 및 우주선 열차폐 기술의 언어](./advanced-aerogel-thermal-superinsulation-and-spacecraft-heat-shields/README.md) — `크누센 효과 가스 열전도 차단 및 세라믹 섬유 보강 에어로겔 블랭킷 기반 대기권 재진입 우주선 초고온 열차폐 복합재 기술`
+- [메타물질 슈퍼렌즈와 서브회절 결상 기술의 언어](./advanced-metamaterial-superlens-and-sub-diffraction-imaging/README.md) — `소멸파 증폭 및 음굴절률 나노렌즈 기반 광학 회절 한계 극복 초해상도 근접장 나노 결상 및 바이오 이미징 기술`
+- [첨단 마이크로니들 배열과 경피 약물 전달 기술의 언어](./advanced-microneedle-arrays-and-transdermal-drug-delivery/README.md) — `생체분해성 고분자 및 히알루론산 미세침 기반 피부 각질층 무통 천공 및 스마트 인슐린·백신 서방형 약물 전달 기술`
+- [뉴로모픽 인공후각 시스템 및 전자코 기술의 언어](./advanced-neuromorphic-olfactory-systems-and-electronic-noses/README.md) — `생체모사 나노선 센서 어레이 및 스파이킹 후각신경망 기반 휘발성 유기화합물 온칩 실시간 패턴 인식 기술`
+- [마찰대전·압전 하이브리드 풍력 에너지 수확 기술의 언어](./advanced-hybrid-triboelectric-piezoelectric-wind-energy-harvesters/README.md) — `공력탄성 플러터 및 유연 압전 필름 기반 초저풍속 광대역 미풍 수확 무전원 스마트그리드 환경 센서망 기술`
+- [전이금속 칼코겐화물 광트랜지스터 및 2차원 광전자 소자의 언어](./advanced-transition-metal-dichalcogenide-phototransistors/README.md) — `원자층 이종접합 및 광게이팅 증폭 기반 광대역 초고감도 암전류 억제 차세대 2차원 나노 광전자 소자 기술`
+- [생체 모사 친환경 해양 방오 코팅의 언어](./advanced-biomimetic-marine-antifouling-coatings/README.md) — `상어 피부 미세 리블렛 구조 복제 및 양쪽성 이온 고분자 기반 무독성 해양 생물 부착 차단 유체 마찰 저감 코팅 기술`
+- [음향 블랙홀 구조와 진동 감쇠 기술의 언어](./advanced-acoustic-black-holes-and-structural-vibration-damping/README.md) — `두께 테이퍼링 멱법칙 파동 속도 극소화 및 점탄성 복합 적층 기반 얇은 판 구조 진동파 반사 원천 차단 초경량 방음 감쇠 기술`
+- [웨어러블 땀 코르티솔 면역센서 및 스트레스 모니터링 기술의 언어](./advanced-wearable-sweat-cortisol-immunosensors/README.md) — `자가조립 단분자막 및 전도성 나노복합체 기반 피코그램 수준 땀 속 코르티솔 호르몬 비침습적 연속 정량 모니터링 기술`
+- [뉴로모픽 인공망막 임플란트 및 광다이오드 배열 기술의 언어](./advanced-neuromorphic-retinal-implants-and-photodiode-arrays/README.md) — `서브망막 초소형 광다이오드 배열 및 생체모사 시각 스파이크 엔코딩 기반 초고밀도 신경 자극 고해상도 시각 복원 신경보철 기술`
+- [압전 소노케미컬 나노재료 합성 기술의 언어](./advanced-piezo-sonochemical-nanomaterial-synthesis/README.md) — `초음파 공동 현상 유도 압전 분극 및 국소 초고온 초고압 화학반응 기반 무환원제 친환경 상온 나노입자 대량 생산 기술`
+- [카이랄 페로브스카이트 스핀트로닉스 및 원편광 제어 기술의 언어](./advanced-chiral-perovskite-spintronics-and-circular-polarization/README.md) — `입체 키랄성 유기무기 복합체 및 CISS 효과 기반 자성 박막 없는 상온 스핀 필터링 및 원편광 선택적 광검출 기술`
+- [생체 모사 인공 거미줄 초고강도 섬유 기술의 언어](./advanced-biomimetic-spider-silk-super-fibers/README.md) — `유전자 재조합 스피드로인 발현 및 미세유체 습식 방사 기반 베타-시트 나노결정 가교결합 초고인성 경량 방탄 섬유 기술`
+- [메타물질 완전 흡수체 및 스텔스 기술의 언어](./advanced-metamaterial-perfect-absorbers-and-stealth/README.md) — `서브파장 공진기 및 전자기 임피던스 정합 기반 유효 유전율 제어 광대역 레이더 반사 면적 저감 및 적외선 동시 차폐 스텔스 기술`
+- [이온토포레시스 및 역이온토포레시스 기반 경피 시스템의 언어](./advanced-sweat-iontophoresis-and-reverse-iontophoresis/README.md) — `미세 전류 척력 및 전기삼투 흐름 제어 기반 무통 약물 전달 및 간질액 바이오마커 비침습 연속 추출 폐루프 스마트 헬스케어 기술`
+- [멤리스터 수지상돌기 연산 및 스파이킹 신경망의 언어](./advanced-memristive-dendritic-computing-and-spiking-neural-networks/README.md) — `동적 임계치 스위칭 멤리스터 및 시냅스후전위 비선형 통합 기반 생체 수상돌기 모사 초저전력 시계열 데이터 분류 뉴로모픽 엣지 하드웨어 기술`
+- [무연 압전 에너지 수확 및 무배터리 심박조율기 기술의 언어](./advanced-piezoelectric-lead-free-pacemakers/README.md) — `무독성 KNN계 압전 세라믹 및 유연 티타늄 복합체 기반 심근 수축 운동 에너지 수확 영구 밀봉 무배터리 심박조율기 의공학 기술`
+- [위상 밸리트로닉스 및 베리 곡률 제어 기술의 언어](./advanced-topological-valleytronics-and-berry-curvature/README.md) — `2차원 전이금속 칼코겐화물 공간반전대칭 파괴 및 베리 곡률 유도 밸리 홀 효과 기반 무손실 양자 정보 전달 밸리트로닉스 기술`
+- [게코도마뱀 모사 가역적 건식 점착 기술의 언어](./advanced-gecko-inspired-switchable-dry-adhesives/README.md) — `반데르발스 힘 기반 마이크로 섬모 쐐기형 기둥 및 전단응력 유도 가역적 탈부착 스위칭 무잔여물 우주 로봇 그리퍼 점착 기술`
+- [플로케 공학 및 빛-물질 상호작용 제어 기술의 언어](./advanced-floquet-engineering-and-light-matter-interaction/README.md) — `초고속 레이저 펄스 드레싱 및 플로케-블로흐 상태 형성 기반 비평형 양자 물질 유효 해밀토니안 위상 제어 기술`
+- [웨어러블 땀 치료약물 농도 모니터링 기술의 언어](./advanced-wearable-sweat-therapeutic-drug-monitoring/README.md) — `전기화학 압타머 센서 및 미세유체 땀 포집 기반 피코몰 수준 치료 약물 혈중 농도 실시간 상관 분석 폐루프 피드백 기술`
+- [뉴로모픽 이벤트 기반 비전 센서 및 동적 시각 기술의 언어](./advanced-neuromorphic-event-based-vision-sensors/README.md) — `인공망막 화소 회로 및 비동기 스파이크 이벤트 기반 마이크로초 시간해상도 모션 블러 차단 초광대역 명암비 시각 감지 기술`
+- [압전 촉매 분리막 및 수류 에너지 수처리 기술의 언어](./advanced-piezocatalytic-membrane-water-purification/README.md) — `수류 기계역학 유도 압전 분극 및 활성산소종 생성 기반 미세플라스틱·난분해성 오염물질 무전원 자가세정 분리막 정수 기술`
+- [마요라나 제로 모드 및 위상 양자 비트 기술의 언어](./advanced-majorana-zero-mode-topological-qubits/README.md) — `초전도체-반도체 나노와이어 헤테로구조 및 비아벨 브레이딩 연산 기반 위상학적 결맞음 보호 결함 허용 양자 비트 기술`
+- [네펜데스 모사 윤활유 함침 다공 표면(SLIPS) 기술의 언어](./advanced-pitcher-plant-slippery-liquid-infused-surfaces/README.md) — `식충식물 포충낭 모사 다공성 나노스폰지 윤활액 고정 기반 초발수·초발유 전방위 액체 미끄럼 자가치유 무잔류 계면 코팅 기술`
+- [위상 포노닉스 및 음향 다이오드 기술의 언어](./advanced-topological-phononics-and-acoustic-diodes/README.md) — `음향 체르넨 수 및 밸리 슈도스핀 모드 제어 기반 비가역적 음파 단방향 수송 결함 면역 음향 다이오드 포노닉스 기술`
+- [웨어러블 땀 알코올 및 대사체 바이오센서 기술의 언어](./advanced-wearable-sweat-alcohol-metabolite-biosensors/README.md) — `알코올 산화효소 기반 바이오연료전지 및 미세유체 채널 연동 실시간 비침습 땀 아세트알데히드·알코올 대사체 모니터링 기술`
+- [뉴로모픽 시각 어텐션 프로세서 및 사카딕 시각 기술의 언어](./advanced-neuromorphic-visual-attention-processors/README.md) — `사카딕 도약 안구운동 및 사건구동 비동기 스파이크 연산 기반 초저전력 선택적 초점 현저성 지도 생성 시각 지능 프로세서 기술`
+- [압전 생체 촉매 및 초음파 효소 반응기 기술의 언어](./advanced-piezo-biocatalytic-enzyme-reactors/README.md) — `초음파 유도 압전 나노입자 표면 전하 제어 및 미세유체 흐름 연동 기계화학적 효소 반응 속도론적 가속 생체 촉매 반응기 기술`
+- [위상 엑시톤-폴라리톤 및 빛-물질 강결합 소자의 언어](./advanced-topological-exciton-polaritonics/README.md) — `빛-물질 강결합 미소공진기 및 스핀-오빗 상호작용 게이지장 기반 무손실 폴라리톤 에지 상태 응축 위상 광양자 회로 기술`
+- [생체 모사 광자 결정 및 가역적 구조색 필름 기술의 언어](./advanced-biomimetic-photonic-crystal-structural-color/README.md) — `모르포나비 날개 미세격자 모사 및 자기조립 콜로이드 나노결정 기반 안료 없는 각도 비의존성 가역적 변색 구조색 광학 필름 기술`
+- [위상 마그논 스핀트로닉스 및 스핀파 소자 기술의 언어](./advanced-topological-magnon-spintronics/README.md) — `자성 절연체 스핀파 에지 상태 및 마그논 체르넨 수 밴드 제어 기반 비열 방출 초저전력 스핀 전송 스핀트로닉스 기술`
+- [웨어러블 땀 중금속 전기화학 센서 기술의 언어](./advanced-sweat-heavy-metal-electrochemical-sensors/README.md) — `양극 박리 전압전류법 및 비스무트 나노입자 수식 전극 기반 피코몰 수준 다중 중금속 이온 실시간 비침습 땀 분석 기술`
+- [뉴로모픽 촉각 및 고유수용성 감각 시스템 기술의 언어](./advanced-neuromorphic-tactile-proprioception-systems/README.md) — `인공 기계수용기 스파이크 신호 및 다축 센싱 어레이 기반 사건구동 초저지연 로봇 의수 고유감각 피드백 신경망 기술`
+- [압전 소노다이내믹 항균 치료 기술의 언어](./advanced-piezo-sonodynamic-antimicrobial-therapy/README.md) — `초음파 여기 압전 나노촉매 표면 전하 유도 활성산소종 발생 기반 항생제 내성 슈퍼박테리아 생물막 완전 제거 치료 기술`
+- [위상 양자점 나노 레이저 기술의 언어](./advanced-topological-quantum-dot-lasers/README.md) — `광자 체르넨 절연체 격자 및 인듐비소 양자점 고밀도 적층 기반 위상 보호 에지 상태 저임계값 단일 모드 온칩 레이징 기술`
+- [연잎 모사 초소수성 코팅 및 자가세정 기술의 언어](./advanced-lotus-inspired-superhydrophobic-coatings/README.md) — `마이크로-나노 이중 계층 돌기 구조 및 불소계 단분자막 기반 접촉각 150도 이상 자가세정 결로·착빙 지연 초발수 계면 기술`
+- [웨어러블 땀 마이크로RNA 센서 및 무표지 분자 진단 기술의 언어](./advanced-wearable-sweat-microrna-sensors/README.md) — `압타머 인식 및 무표지 전기화학 임피던스 분석 기반 극미량 땀 마이크로RNA 분자 센싱 조기 진단 기술`
+- [고유수용성 인공 전자피부 및 로봇 의수 인터페이스 기술의 언어](./advanced-proprioceptive-electronic-skin-prosthetics/README.md) — `다축 응력-변형률 감지 및 인공 시냅스 연계 온칩 스파이킹 신경망 기반 로봇 의수 고유감각 피드백 전자피부 기술`
+- [압전 골조직 재생 지지체 및 줄기세포 분화 촉진 기술의 언어](./advanced-piezo-bone-tissue-regeneration-scaffolds/README.md) — `초음파 기계전기 신호 변환 및 다공성 나노섬유 지지체 기반 줄기세포 조골세포 분화 유도 무선 골조직 재생 의공학 기술`
+- [상어 비늘 리블렛 미세구조 유체 저항 저감 표면 기술의 언어](./advanced-shark-skin-riblet-drag-reduction-surfaces/README.md) — `생체모사 난류 경계층 와류 제어 리블렛 박막 및 롤투롤 나노임프린팅 기반 점성 마찰 항력 저감 친환경 계면 공학 기술`
+- [기업 인수합병 및 지배구조 개편의 언어](./business-corporate-mergers-and-acquisitions/README.md) — `적대적 M&A 방어 및 정밀 실사 기반 이사회 선관주의 의무와 기업지배구조 투명성 제고 전략`
+- [언론 윤리와 보도의 자유의 언어](./media-journalism-ethics-and-press-freedom/README.md) — `탐사보도 알 권리 보장 및 팩트체크 시스템 기반 언론자유와 공적 책임성 조화 윤리 규범`
+- [민사 소송 및 계약 불이행 법률 분쟁의 언어](./law-civil-litigation-and-contract-breach/README.md) — `계약불이행 손해배상 및 보전처분 입증책임 기반 신의성실 원칙과 집행권원 확보 사법 구제 절차`
+- [통화 정책 및 물가 안정 거시경제의 언어](./macroeconomics-monetary-policy-and-inflation/README.md) — `중앙은행 기준금리 인상 및 양적 긴축 기반 인플레이션 억제와 거시건전성 금융안정 전략`
+- [인지 편향 및 합리적 의사결정 심리학의 언어](./psychology-cognitive-bias-and-decision-making/README.md) — `확증편향 및 손실회피 성향 극복 기반 휴리스틱 직관 판단 교정과 합리적 의사결정 인지심리학`
+- [탄소 중립 및 순환 경제 정책의 언어](./environment-carbon-neutrality-and-circular-economy/README.md) — `온실가스 배출권 거래제 및 탄소국경조정제도 기반 전과정 환경성 평가와 넷제로 순환 경제 전략`
+- [인구 고령화 및 복지 국가의 미래의 언어](./sociology-demographic-aging-and-welfare-state/README.md) — `초고령사회 인구 절벽 및 국민연금 개혁 기반 세대 간 형평성과 지속 가능한 지역사회 통합 돌봄 체계`
+- [데이터 프라이버시 및 사이버 보안 거버넌스의 언어](./technology-data-privacy-and-cybersecurity/README.md) — `제로 트러스트 보안 아키텍처 및 개인정보 자기결정권 보호 기반 다중요소 인증과 침해사고 포렌식 조사 체계`
+- [현대 미술 비평 및 미학 담론의 언어](./culture-contemporary-art-and-aesthetic-criticism/README.md) — `포스트모더니즘 미학 담론 및 장소특정적 설치미술 기반 관계미학적 관객 참여와 시각문화 기호학적 비평`
+- [조직 내 갈등 관리 및 상생 협상 기술의 언어](./workplace-organizational-conflict-and-negotiation/README.md) — `노사상생 단체교섭 및 심리적 안전감 기반 윈윈 상호이익 협상과 갈등 전환 회복적 대화 기술`
+- [사회언어학 및 언어 접촉의 역동성의 언어](./linguistics-sociolinguistics-and-language-contact/README.md) — `사회언어학적 변이 분석 및 언어접촉 차용어 확산 기반 코드스위칭과 다문화 사회 언어생태계 공존 모델`
+- [윤리학 및 도덕적 책임 철학의 언어](./philosophy-ethics-and-moral-responsibility/README.md) — `의무론과 공리주의 및 롤스 정의론 기반 인공지능 윤리 기준과 도덕적 책임 귀속 철학적 성찰`
+- [국제 관계 및 다자 외교 안보 전략의 언어](./politics-international-relations-and-multilateral-diplomacy/README.md) — `다자안보체제 세력균형 및 경제안보 공급망 블록화 대응 중견국 외교와 글로벌 거버넌스 개혁 과제`
+- [핀테크 및 알고리즘 금융 트레이딩의 언어](./finance-fintech-and-algorithmic-trading/README.md) — `알고리즘 초단타 매매 및 블록체인 탈중앙화 금융 기반 양적 포트폴리오 최적화와 사이버 리스크 관리`
+- [교육 형평성 및 디지털 맞춤 학습 혁신의 언어](./education-educational-equity-and-digital-learning/README.md) — `교육격차 해소 및 AI 맞춤 튜터링 기반 에듀테크 교수학습 설계와 포용적 보편적 학습 설계 모델`
+- [도시 재생 및 스마트 시티 건축 공학의 언어](./architecture-urban-regeneration-and-smart-cities/README.md) — `도시재생 뉴딜 및 디지털 트윈 시뮬레이션 기반 보행친화 압축도시와 탄소중립 스마트 인프라 구축`
+- [지식재산권 보호 및 특허 분쟁 소송의 언어](./law-intellectual-property-and-patent-litigation/README.md) — `특허침해 금지 가처분 및 영업비밀 보호 기반 표준필수특허 라이선스와 글로벌 특허소송 대응 절차`
+- [문화인류학 및 민족지 현장 연구의 언어](./anthropology-cultural-relativism-and-ethnography/README.md) — `문화상대주의 및 참여관찰 민족지 현장연구 기반 상징·의례 심층기술과 문화변용 정체성 재구성`
+- [공중 보건 및 역학 감시 감염병 대응의 언어](./medicine-public-health-and-epidemiological-surveillance/README.md) — `역학조사 감염경로 추적 및 집단면역 형성 기반 원헬스 감염병 위기경보와 공중보건 인프라 확충`
+- [전략적 리더십 및 기업 지속가능경영의 언어](./management-strategic-leadership-and-corporate-sustainability/README.md) — `이사회 지속가능경영 책임 및 ESG 평가 기반 애자일 조직 전환과 이해관계자 자본주의 실천 전략`
+- [우주 탐사 및 인공위성 우주 공학의 언어](./astronomy-space-exploration-and-satellite-technology/README.md) — `우주 발사체 궤도 진입 및 심우주 원격 탐사망 기반 저궤도 군집위성과 합성개구레이더 우주공학`
+- [해양학 및 심해 탐사 지구과학의 언어](./marine-oceanography-and-deep-sea-exploration/README.md) — `심해 유인잠수정 열수분출공 탐사 및 열염순환 해양물리학 기반 해양 산성화 모니터링 체계`
+- [사회 계층화 및 불평등 구조 분석의 언어](./sociology-social-stratification-and-inequality/README.md) — `문화자본 계급 재생산 및 소득 양극화 지니계수 분석 기반 사회적 이동성과 교차성 불평등 연구`
+- [탐사 저널리즘 및 미디어 프레이밍 비평의 언어](./journalism-investigative-reporting-and-media-bias/README.md) — `권력 감시 탐사보도 및 내부고발자 보호 기반 미디어 프레이밍과 확증 편향 팩트체크 저널리즘`
+- [문학 이론 및 서사학 텍스트 비평의 언어](./literature-literary-theory-and-narratology/README.md) — `서사학 초점화 분석 및 상호텍스트성 기호학 비평 기반 탈구축주의 해체 비평과 독자반응비평 이론`
+- [인지 신경과학 및 뇌 가소성 융합 연구의 언어](./cognitive-neuroscience-and-brain-plasticity/README.md) — `뇌 신경가소성 시냅스 가소성 및 fMRI 기능적 신경망 분석 기반 뇌-컴퓨터 인터페이스 융합 연구`
+- [스마트 그리드 및 재생에너지 계통 연계의 언어](./energy-smart-grid-and-renewable-integration/README.md) — `신재생에너지 간헐성 극복 ESS 배터리 연계 및 양방향 스마트 계량기 기반 마이크로그리드 분산 전원`
+- [형사 소송 및 법과학 증거주의 사법 절차의 언어](./law-criminal-procedure-and-forensic-evidence/README.md) — `무죄추정의 원칙 및 영장주의 위법수집증거배제법칙 기반 디지털 포렌식 증거능력 탄핵 심리`
+- [행동경제학 및 선택 설계학 공공 정책의 언어](./economics-behavioral-economics-and-choice-architecture/README.md) — `제한된 합리성 휴리스틱 및 넛지 선택 설계 기반 손실 회피 편향 극복과 공공 정책 행동 분석`
+- [스마트 팜 및 미래 식량 안보 농업 공학의 언어](./agriculture-smart-farming-and-food-security/README.md) — `스마트 팜 복합 환경 제어 및 식물공장 수직 농업 기반 기후변화 대응 곡물 비축 식량 안보`
+- [로봇공학 및 휴머노이드 자율 시스템 공학의 언어](./robotics-humanoid-and-autonomous-systems/README.md) — `휴머노이드 이족보행 및 SLAM 동시적 위치추정 기반 협동로봇 안전제어와 원격 텔레오퍼레이션`
+- [기상학 및 극한 기후 재난 방재의 언어](./meteorology-extreme-weather-and-disaster-prevention/README.md) — `기상 수치예보 모델링 및 레이더 원격탐사 기반 돌발홍수 조기경보와 산불확산 기상예측 방재망`
+- [전산언어학 및 자연어 처리 인공지능의 언어](./linguistics-computational-linguistics-and-nlp/README.md) — `트랜스포머 어텐션 메커니즘 및 LLM 파인튜닝 기반 생성형 AI 환각 완화와 RAG 검색증강생성`
+- [원격의료 및 디지털 헬스케어 생명윤리의 언어](./medicine-telemedicine-and-digital-healthcare/README.md) — `IoMT 생체신호 모니터링 및 디지털 치료제 CBT 기반 EMR 상호운용성과 환자 데이터 주권 보호`
+- [벤처캐피털 및 스타트업 투자 생태계의 언어](./finance-venture-capital-and-startup-ecosystem/README.md) — `엔젤 시드 투자 및 시리즈 A 펀딩 기반 RCPS 상환전환우선주 계약과 유니콘 스케일업 엑시트`
+- [인식론 및 과학철학 진리 탐구의 언어](./philosophy-epistemology-and-philosophy-of-science/README.md) — `JTB 정당화된 참된 믿음 및 쿤 패러다임 전환 기반 포퍼 반증가능성과 콰인 정합론 신념체계망`
+- [자율주행 및 미래 모빌리티 서비스 교통공학의 언어](./transportation-autonomous-driving-and-mobility-service/README.md) — `라이다 포인트클라우드 및 V2X 차량사물통신 기반 레벨 4 자율주행과 MaaS 통합 모빌리티 구독`
+- [국제통상법 및 무역 관세 분쟁 해결의 언어](./law-international-trade-and-tariff-disputes/README.md) — `WTO 상소기구 및 반덤핑 상계관세 기반 MFN 최혜국대우 원칙과 CBAM 탄소국경조정제도 대응`
+- [해양 플라스틱 및 생태계 보전 환경생물학의 언어](./environmental-marine-plastic-and-ecosystem-preservation/README.md) — `미세플라스틱 생태독성 및 폐어망 생분해성 어구 기반 갯벌 블루카본 흡수원과 플라스틱 열분해유`
+- [음악학 및 음향학 예술 비평의 언어](./music-musicology-and-acoustic-aesthetics/README.md) — `서양음악사 화성학 대위법 및 쇤베르크 12음 기법 기반 콘서트홀 잔향 설계와 인지신경음악학 연구`
+- [우주항공 및 6G 저궤도 위성 통신 공학의 언어](./aerospace-satellite-communication-and-6g/README.md) — `초소형 군집위성망 및 6G 테라헤르츠 무선통신 기반 위성간 레이저 ISL과 빔포밍 능동위상배열 통신망`
+- [합성생물학 및 대사공학의 언어](./biomedical-synthetic-biology-and-metabolic-engineering/README.md) — `합성 유전체 설계 및 미생물 대사경로 엔지니어링 기반 바이오파운드리 스크리닝과 세포공장 발효공정`
+- [수중고고학 및 문화유산 보존과학의 언어](./archaeology-underwater-excavation-and-conservation-science/README.md) — `해저 침몰선 발굴조사 및 수침목재 탈염 동결건조 기반 AMS 탄소연대측정과 3D 디지털 복원 보존과학`
+- [자산운용 및 퀀트 금융공학의 언어](./finance-asset-management-and-quantitative-investing/README.md) — `멀티팩터 포트폴리오 및 블랙-리터만 모델 기반 리스크 패리티 위험균형과 통계적 차익거래 페어트레이딩`
+- [행정소송 및 국가배상의 언어](./law-administrative-litigation-and-state-compensation/README.md) — `취소소송 원고적격 및 국가배상법 직무상 불법행위 책임 기반 집행정지 가처분과 재량권 일탈남용 비례원칙`
+- [스마트 워터그리드 및 도시 홍수방재의 언어](./urban-smart-water-grid-and-flood-control/README.md) — `스마트 원격검침 및 대심도 빗물배수터널 기반 AI 하천 홍수위 예측과 저영향개발 투수성 물 순환 체계`
+- [특수교육 및 보조공학의 언어](./education-special-education-and-assistive-technology/README.md) — `개별화교육계획 IEP 및 AAC 보완대체의사소통 기반 UDL 보편적 학습설계와 시선추적 안구마우스 보조공학`
+- [나노소재 및 양자점 나노공학의 언어](./materials-nanomaterials-and-quantum-dots/README.md) — `양자점 디스플레이 색재현율 및 탄소나노튜브 복합재 기반 2차원 그래핀 박리와 원자층 증착 ALD 초박막 공정`
+- [디지털 격차 및 플랫폼 노동의 사회학적 언어](./sociology-digital-divide-and-platform-labor/README.md) — `알고리즘 통제 종속 및 긱 이코노미 호출노동 기반 특고 사회안전망과 플랫폼 협동조합 대안경제 모델`
+- [비교종교학 및 종교간 대화의 언어](./theology-comparative-religion-and-interfaith-dialogue/README.md) — `비교종교학 현상학적 이해 및 종교다원주의 논쟁 기반 성스러움과 속됨의 공간 철학과 평화공존 담론`
+- [장기이식 및 면역억제 의학의 언어](./medicine-organ-transplantation-and-immunosuppression/README.md) — `조직적합성 항원 교차시험 및 CNI 면역억제제 기반 생체 간이식 담도문합술과 EVLP 체외 폐관류 보존기술`
+- [방언학 및 언어지리학의 언어](./linguistics-dialectology-and-linguistic-geography/README.md) — `등어선 언어지도 경계구획 및 방언구획론 음운체계 기반 성조 실측과 소멸위기 토박이말 채록 아카이브`
+- [판구조론 및 지진공학 방재의 언어](./geology-plate-tectonics-and-seismic-engineering/README.md) — `섭입대 단층 및 활성단층 OSL 연대측정 기반 지진격리받침 면진설계와 점탄성 제진댐퍼 내진보강`
+- [초고령사회 돌봄복지 및 장기요양의 사회학적 언어](./sociology-aging-society-and-long-term-care/README.md) — `노인장기요양 등급판정 및 커뮤니티 케어 기반 AI 돌봄로봇과 호스피스 완화의료 존엄한 임종 체계`
+- [전산저널리즘 및 데이터 탐사보도의 언어](./media-computational-journalism-and-data-investigation/README.md) — `공공데이터 정보공개청구 및 위성영상 OSINT 기반 정치자금 네트워크 분석과 딥페이크 팩트체킹`
+- [특허소송 및 지식재산 사법심판의 법학적 언어](./law-patent-litigation-and-intellectual-property-trials/README.md) — `특허침해금지 손해배상 및 균등론 침해판단 기반 영업비밀 가처분과 FRAND 표준필수특허 분쟁`
+- [산림생태학 및 산불피해지 복원공학의 언어](./environmental-forest-ecology-and-wildfire-restoration/README.md) — `산불피해지 자연복원 인공조림 및 탄소흡수원 보존 기반 수관화 연료관리와 친환경 내화 혼효림 조성`
+- [사이버보안 및 제로트러스트 아키텍처의 공학적 언어](./technology-cyber-security-and-zero-trust-architecture/README.md) — `제로트러스트 ZTNA 및 양자내성암호 격자보안 기반 SBOM 공급망 추적과 EDR 이상행위 탐지대응`
+- [박물관학 및 전시 큐레이션 디자인의 예술적 언어](./arts-museum-curation-and-exhibition-design/README.md) — `상설전시 스토리텔링 및 프로비넌스 출처조사 기반 몰입형 미디어아트와 유네스코 문화재 환수`
+- [행동재무학 및 시장 이상현상의 금융경제학적 언어](./economics-behavioral-finance-and-market-anomalies/README.md) — `전망이론 가치함수 및 군집행동 비이성적 과열 기반 처분효과 심리적 회계와 호가창 유동성 착시`
+- [뇌-컴퓨터 인터페이스 및 신경보철학의 뇌과학적 언어](./neuroscience-brain-computer-interface-and-neural-implants/README.md) — `침습형 BCI 전극 및 머신러닝 디코딩 기반 광유전학 신경회로 제어와 인공망막 신경보철 시각복원`
+- [정밀농업 및 스마트 온실 생명공학의 언어](./agriculture-precision-farming-and-smart-greenhouse/README.md) — `스마트온실 복합환경제어 및 다중분광 드론 원격탐사 기반 순환식 수경재배와 로봇 자동수확 선별`
+- [실존주의 및 현상학 철학의 언어](./philosophy-existentialism-and-phenomenology/README.md) — `실존적 불안과 피투성 극복 기반 현상학적 환원 에포케와 본래적 실존 자기결정 결단 및 신체현상학`
+- [심해 탐사 및 열수분출공 해양과학의 언어](./oceanography-deep-sea-exploration-and-hydrothermal-vents/README.md) — `심해 열수분출공 화학합성 생태계 및 ROV 무인잠수정 탐사 기반 망간단괴 채광과 해저 지형 매핑`
+- [대중교통 지향 도시개발 및 스마트 모빌리티의 언어](./urban-transit-oriented-development-and-smart-mobility/README.md) — `대중교통지향형 TOD 복합환승 및 MaaS 통합 플랫폼 기반 UAM 버티포트와 자율주행 대중교통 셔틀`
+- [운동역학 및 운동생리학 스포츠과학의 언어](./sports-sports-biomechanics-and-exercise-physiology/README.md) — `지면반발력 동작분석 및 VO2 max 젖산역치 측정 기반 표면근전도 평가와 전방십자인대 재활 프로토콜`
+- [배터리 재활용 및 도시광산 순환경제의 언어](./materials-battery-recycling-and-urban-mining/README.md) — `사용후 배터리 잔존가치 진단 및 습식제련 금속회수 기반 블랙매스 정제와 배터리여권 탄소발자국 추적`
+- [말뭉치 언어학 및 코퍼스 사전학의 언어](./linguistics-corpus-linguistics-and-lexicography/README.md) — `대규모 말뭉치 형태통계 분석 및 코퍼스 연어 네트워크 기반 의존구문 파싱과 사전편찬 용례 정의`
+- [종교사회학 및 세속화 담론의 종교학적 언어](./theology-religious-sociology-and-secularization/README.md) — `세속화 명제 및 종교다원주의 공존담론 기반 시민종교 사회통합 의례와 탈제도화 개인맞춤형 영성`
+- [해사법 및 해상보험 법학의 언어](./law-admiralty-law-and-maritime-insurance/README.md) — `해상운송인 항해과실 면책특약 및 요크앤트워프 공동해손 분손정산 기반 선박우선특권과 IMO 안전환경규범`
+- [바이러스학 및 바이러스 병원성 미생물학의 언어](./microbiology-virology-and-viral-pathogenesis/README.md) — `바이러스 외피 당단백질 수용체 결합 및 역전사효소 복제기작 기반 인터페론 면역반응과 VLP 백신 전달체`
+- [개발경제학 및 빈곤퇴치 정책경제학의 언어](./economics-development-economics-and-poverty-alleviation/README.md) — `조건부 현금지급 CCT 및 마이크로파이낸스 금융포용 기반 RCT 실증평가와 다차원 빈곤지수 완화`
+- [건축음향 및 공연장 음향설계 공학의 언어](./architecture-acoustic-design-and-concert-hall-engineering/README.md) — `콘서트홀 잔향시간 최적화 및 3차원 음향확산체 시공 기반 직접음 초기반사음 제어와 부유바닥 차음설계`
+- [재난사회학 및 공동체 회복탄력성의 사회학적 언어](./sociology-sociology-of-disaster-and-community-resilience/README.md) — `재난 취약계층 불평등 진단 및 지역공동체 사회자본 회복탄력성 기반 참여형 거버넌스와 라스트마일 구호물류`
+- [레이저 분광학 및 포토닉스 광학 소재의 언어](./optics-laser-spectroscopy-and-photonic-materials/README.md) — `초고속 펨토초 레이저 펄스 및 라만 분광학 분자진동 지문분석 기반 광자밴드갭 소재와 실리콘 포토닉스 IC`
+- [우주법 및 우주조약 법학의 언어](./law-space-law-and-outer-space-treaties/README.md) — `우주조약 평화적이용 및 영유권 금지원칙 기반 우주물체 등록책임과 민간 우주활동 상업적 규제법제화`
+- [양봉학 및 화분매개 생태다양성 농학의 언어](./agriculture-apiculture-and-pollinator-biodiversity/README.md) — `꿀벌 군집붕괴현상 CCD 대응 및 밀원식물 생태숲 조성 기반 친환경 유기산 방제와 스마트 벌통 원격모니터링`
+- [심리언어학 및 언어습득 인지과학의 언어](./linguistics-psycholinguistics-and-language-acquisition/README.md) — `모국어 습득 결정적시기 가설 및 단어재인 점화효과 기반 시선추적 안구운동 분석과 ERP N400/P600 실시간 추적`
+- [토양정화 및 식물정화 생태환경공학의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `중금속 토양 식물정화 과축적식물 활용 및 열탈착 세척공정 기반 비굴착 SVE/Bioventing과 침출수 차단벽`
+- [색채학 및 안료화학 미술보존학의 언어](./fine-arts-color-theory-and-pigment-chemistry/README.md) — `보색대비 동시대비 시각효과 및 유화 건성유 산화중합 메커니즘 기반 비파괴 라만 안료분석과 바니시 코팅`
+- [외계행성학 및 행성거주가능성 우주생물학의 언어](./astronomy-exoplanets-and-planetary-habitability/README.md) — `식현상 통과관측기법 및 시선속도 도플러분광 기반 골디락스 거주가능구역과 JWST 대기 바이오마커 분석`
+- [공중보건학 및 감염병 역학감시체계의 언어](./public-health-epidemiology-and-disease-surveillance/README.md) — `기초감염재생산지수 R0 추정 및 집단면역 임계치 기반 하수 바이러스 감시망과 원헬스 통합방역 체계`
+- [트라이볼로지 및 마찰마멸 윤활공학의 언어](./mechanical-tribology-and-lubrication-engineering/README.md) — `쿨롱 마찰법칙 및 탄성유체윤활 유막두께 기반 자가치유 트라이보필름과 DLC 나노코팅 초윤활성 연구`
+- [교육사회학 및 계층이동성 불평등 연구의 언어](./sociology-sociology-of-education-and-social-mobility/README.md) — `아비투스 문화자본 및 사회계층이동성지수 기반 실질적 기회균등론과 숨은 교육과정 계층고착화 완화`
+- [양자암호통신 및 포스트양자보안 공학의 언어](./quantum-quantum-cryptography-and-post-quantum-security/README.md) — `BB84 양자키분배 및 격자기반 양자내성암호 PQC 기반 벨 부등식 얽힘광자 검증과 양자리피터 통신망`
+- [종관기상학 및 수치예보 극한기상예측의 언어](./meteorology-synoptic-forecasting-and-extreme-weather/README.md) — `수치예보 앙상블 시스템 및 제트기류 블로킹 정체 기반 이중편파 기상레이더와 태풍 눈의벽 급격발달 예측`
+- [아쿠아포닉스 및 순환여과양식 친환경 농어업 기술의 언어](./agriculture-aquaponics-and-recirculating-aquaculture/README.md) — `순환여과양식 RAS 및 질화세균 생물여과 기반 드럼스크린 필터와 수경재배 결합 지속가능 아쿠아포닉스`
+- [사회언어학 및 방언학 언어변이생태계의 언어](./linguistics-sociolinguistics-and-dialectology/README.md) — `사회음운론적 변이형 및 언어위신 공식어변이 기반 등어선 지리언어지도와 소멸위기 토착방언 아카이빙`
+- [촉매화학 및 녹색화학 탄소중립 청정 공정의 언어](./chemistry-catalysis-and-green-chemistry/README.md) — `불균일계 표면흡착 반응속도론 및 원자경제학 기반 CCU 전기화학전환과 단원자 MOF 복합촉매 녹색화학`
+- [수중고고학 및 해양문화유산 보존과학의 언어](./archaeology-underwater-archaeology-and-maritime-heritage/README.md) — `난파선 인양 보존 및 사이드스캔소나 음향탐사 기반 혐기성 갯벌 수침목재 PEG 탈염과 해양 실크로드 복원`
+- [합성바이러스학 및 박테리오파지 치료공학의 언어](./microbiology-synthetic-virology-and-phage-therapy/README.md) — `합성 파지 게놈 리팩토링 및 칵테일 요법 기반 CRISPR 파지 무기화와 항생제 내성 슈퍼박테리아 용균 치료`
+- [행동경제학 및 넛지 이론 선택설계의 언어](./economics-behavioral-economics-and-nudge-theory/README.md) — `제한된 합리성 및 전망이론 손실회피 기반 기본값 옵션 넛지 설계와 심리적 계좌 프레이밍 효과`
+- [구조물 건전성 모니터링 및 스마트 교량공학의 언어](./civil-structural-health-monitoring-and-smart-bridges/README.md) — `FBG 광섬유 센서망 및 모달 파라미터 고유진동수 분석 기반 구조 건전성 실시간 진단과 피로균열 수명 예측`
+- [법의인류학 및 골격생물학 감식의 언어](./anthropology-forensic-anthropology-and-skeletal-biology/README.md) — `골격 생물학적 프로파일 추정 및 두개골 안면복원 기반 치아 방사선 대조와 골절 외상 기전 법의감식`
+- [실리콘 포토닉스 및 광컴퓨팅 집적회로의 언어](./photonics-integrated-silicon-photonics-and-optical-computing/README.md) — `실리콘 도파로 및 마하젠더 광변조기 기반 마이크로링 공진기와 온칩 광인터커넥트 광연산 가속`
+- [해상법 및 해난구조 공동해손 중재의 언어](./law-admiralty-law-and-marine-salvage-arbitration/README.md) — `로이드 표준 해난구조계약 LOF 및 공동해손 요크-앤트워프 규칙 기반 선주 책임제한과 해상중재 판정`
+- [세포농업 및 배양육 조직공학의 언어](./agriculture-cellular-agriculture-and-cultivated-meat/README.md) — `근육줄기세포 대량증식 생물반응기 및 무혈청 배지 기반 3D 다공성 식용지지체와 조직화 배양육 수확`
+- [인지언어학 및 개념적 은유 영상도식의 언어](./linguistics-cognitive-linguistics-and-conceptual-metaphor/README.md) — `개념적 은유 사상 및 영상 도식 체현성 기반 원형 범주화와 프레임 의미론 인지언어 모델링`
+- [미세플라스틱 생분해 및 바이오레메디에이션 환경생태공학의 언어](./environmental-microplastic-biodegradation-and-bioremediation/README.md) — `플라스틱 분해 효소 페타아제 엔지니어링 및 바이오필름 미생물 컨소시엄 기반 생물학적 환경정화와 잔류 독성 평가`
+- [미술품 진위감정 및 과학적 감식학의 언어](./arts-art-authenticity-forensics-and-scientific-connoisseurship/README.md) — `크랙 패턴 및 비파괴 XRF 형광분석 기반 적외선 반사경 밑그림 검출과 미술품 진위 과학감식`
+- [지진공학 및 면진·제진 내진설계의 언어](./civil-earthquake-engineering-and-seismic-isolation/README.md) — `지진동 스펙트럼 및 액상화현상 분석 기반 적층 고무 면진받침과 유압 점성감쇠기 동적해석 내진설계`
+- [재생의학 및 줄기세포 유도만능줄기세포 치료의 언어](./biomedicine-regenerative-medicine-and-ipsc-therapy/README.md) — `야마나카인자 리프로그래밍 및 만능분화능 기반 줄기세포 미세환경 제어와 맞춤형 세포치환 재생의학`
+- [고체역학 및 비파괴검사 음향방출평가의 언어](./mechanical-solid-mechanics-and-acoustic-emission-testing/README.md) — `응력집중계수 및 미소균열 파괴인성 분석 기반 압전센서 탄성파 음향방출 비파괴평가`
+- [행동신경과학 및 신경가소성 기억공고화의 언어](./neuroscience-behavioral-neuroscience-and-memory-consolidation/README.md) — `해마체 장기강화 및 구조적가소성 기반 시냅스소포 신경조절물질과 엔그램세포 기억공고화`
+- [자원경제학 및 핵심광물 공급망 지정학의 언어](./economics-critical-mineral-geopolitics-and-supply-chain/README.md) — `희토류원소 및 전략핵심원자재 기반 자원무기화 대응과 글로벌 가치사슬재편 공급망다변화`
+- [대기화학 및 성층권 오존층·에어로졸 미세물리의 언어](./atmospheric-stratospheric-ozone-and-aerosol-microphysics/README.md) — `염화불화탄소 및 극성층권구름 불균일광화학 기반 오존층파괴와 에어로졸광학두께 대기화학`
+- [비교정치학 및 선거제도 정당체계 동학의 언어](./political-comparative-electoral-systems-and-party-dynamics/README.md) — `비례대표제 및 뒤베르제의법칙 분석 기반 봉쇄조항과 비례성지수 선거제도 비교정치학`
+- [우주공학 및 위성 궤도역학·자세제어 시스템의 언어](./aerospace-satellite-orbital-mechanics-and-attitude-control/README.md) — `정지궤도 및 호만전이궤도 역학 기반 반작용휠과 성감지기 위성 자세제어 우주공학`
+- [생체모방공학 및 자연영감 나노소재의 언어](./materials-biomimetic-engineering-and-nature-inspired-nanomaterials/README.md) — `연꽃잎효과 및 게코접착력 모사 기반 초발수표면과 홍합접착단백질 생체모방 나노소재`
+- [디지털인문학 및 전산문체론·고문헌 빅데이터의 언어](./humanities-digital-humanities-and-computational-stylometry/README.md) — `말뭉치언어학 및 광학문자인식 기반 고문헌판독과 토픽모델링 저작권감정 전산문체론`
+- [해양학 및 심해 열수구 생태계·화학합성의 언어](./oceanography-deep-sea-hydrothermal-vents-and-chemosynthesis/README.md) — `흑색열수구 및 황화수소산화 화학독립영양 기반 화학삼투압과 열수플룸확산 심해저생태계 해양학`
+- [재정학 및 국가채무·재정준칙과 재정건전성의 언어](./economics-public-finance-sovereign-debt-and-fiscal-rules/README.md) — `국가채무비율 및 통합재정수지 관리재정수지 기반 재정준칙과 구축효과 세출구조조정 재정학`
+- [생물의학 및 신경퇴행성 단백질 응집 병리의 언어](./biomedicine-neurodegenerative-protein-aggregation-pathology/README.md) — `단백질오접힘 및 베타아밀로이드 타우단백질 기반 시누클레인병증과 자가포식작용 신경퇴행질환 생물의학`
+- [나노전자공학 및 2차원 반도체·전계효과 트랜지스터의 언어](./nanoelectronics-2d-semiconductors-and-field-effect-transistors/README.md) — `전이금속칼코겐 및 원자층박막 기반 반데르발스이종접합과 전계효과이동도 나노전자공학`
+- [컴퓨터과학 및 AI 윤리·알고리즘 편향과 설명가능인공지능의 언어](./computer-science-ai-ethics-algorithmic-bias-and-xai/README.md) — `알고리즘편향 완화 및 공정성메트릭 기반 로컬대리모델과 샤플리값분석 설명가능인공지능 컴퓨터과학`
+- [환경생태학 및 환경독성학·잔류성 유기오염물질의 언어](./environmental-ecotoxicology-and-persistent-organic-pollutants/README.md) — `잔류성유기오염물질 생체축적계수 및 먹이사슬생물농축 기반 최소영향관찰농도와 내분비교란 환경생태학`
+- [법학 및 법철학·법실증주의와 자연법론의 언어](./law-philosophy-of-law-positivism-and-natural-law/README.md) — `법실증주의 근본규범 및 승인의규칙 기반 라드브루흐공식과 실질적정의 법철학 법학`
+- [식품공학 및 초고압 살균·비열 살균 가공 기술의 언어](./food-engineering-high-pressure-processing-and-non-thermal-sterilization/README.md) — `초고압비열살균 및 정수압가공 기반 미생물사멸동학과 세포막파열유도 식품공학`
+- [우주생물학 및 극한미생물·행성 탐사의 언어](./astrobiology-extremophiles-and-planetary-exploration/README.md) — `우주생물학탐사 호극성미생물 및 방사선저항균 기반 유로파지하해양과 리소판스페르미아 우주생물학`
+- [역사사회학 및 군사재정국가·국가 형성 이론의 언어](./sociology-historical-sociology-and-fiscal-military-state/README.md) — `군사재정국가 및 폭력의독점 기반 조세징수체계와 베스트팔렌조약 역사사회학`
+- [언어학 및 역사비교언어학·음운 변화와 조어 재구의 언어](./linguistics-historical-linguistics-and-phonological-change/README.md) — `음운변화규칙 및 비교재구법 기반 조어재구와 자음추이현상 역사비교언어학 언어학`
+- [생물물리학 및 초저온 전자현미경과 구조생물학의 언어](./biophysics-cryo-electron-microscopy-and-structural-biology/README.md) — `초저온전자현미경 및 단입자분석법 기반 비정질유리빙과 전자밀도지도 생물물리학`
+- [경제학 및 산업조직론과 반독점 규제의 언어](./economics-industrial-organization-and-antitrust-regulation/README.md) — `반독점규제 및 시장지배력남용 기반 기업결합심사와 허핀달허쉬만지수 산업조직론 경제학`
+- [정보통신공학 및 광통신과 고밀도 파장분할다중화의 언어](./telecommunications-optical-communication-and-dense-wavelength-multiplexing/README.md) — `고밀도파장분할다중화 및 광섬유분산보상 기반 어븀첨가광섬유증폭기와 코히런트검출 광통신`
+- [지질학 및 구조지질학과 판경계 단층역학의 언어](./geology-structural-geology-and-plate-boundary-faulting/README.md) — `단층역학해석 및 주향이동단층 기반 연성전단대와 취성연성전이대 구조지질학`
+- [컴퓨터과학 및 양자저항 암호와 격자 이론의 언어](./computer-science-post-quantum-cryptography-and-lattice-theory/README.md) — `양자저항서명 및 환오류동반학습 기반 쇼어알고리즘과 최단벡터문제 양자내성암호학`
+- [생물의학 및 후성유전학·염색질 리모델링의 언어](./biomedicine-epigenetics-and-chromatin-remodeling/README.md) — `후성유전체학 및 메틸화패턴분석 기반 염색질리모델링과 히스톤탈아세틸화 생물의학`
+- [재료공학 및 고엔트로피 합금과 기계적 거동의 언어](./materials-high-entropy-alloys-and-mechanical-behavior/README.md) — `고엔트로피합금 및 극저온파괴인성 기반 격자왜곡효과와 다성분합금설계 재료공학`
+- [정치학 및 권위주의 체제와 체제 이행 이론의 언어](./political-science-authoritarianism-and-regime-transition/README.md) — `권위주의탄력성 및 체제이행이론 기반 선출인단이론과 민주적퇴행 비교정치학`
+- [환경공학 및 하수처리·혐기성 소화와 생물학적 자원화의 언어](./environmental-wastewater-treatment-and-anaerobic-digestion/README.md) — `혐기성소화공정 및 메탄발효효율 기반 상향류슬러지블랭킷과 아나목스탈질 환경공학`
+- [미생물학 및 바이러스학·복제 주기와 항바이러스 기전의 언어](./microbiology-virology-viral-replication-and-antiviral-mechanisms/README.md) — `바이러스복제주기 및 역전사효소억제제 기반 단백질외피형성과 바이러스부착단백질 바이러스학 미생물학`
+- [경제학 및 행동경제학·휴리스틱과 넛지 이론의 언어](./economics-behavioral-economics-heuristics-and-nudges/README.md) — `행동경제학모델 및 제한된합리성 기반 전망이론함수와 손실회피성향 행동경제학 경제학`
+- [재료공학 및 스마트 재료·형상기억합금과 압전 소자의 언어](./materials-smart-materials-shape-memory-alloys-and-piezoelectrics/README.md) — `형상기억합금 및 마르텐사이트변태 기반 초탄성변형거동과 압전효과상수 스마트재료 재료공학`
+- [사회학 및 교육사회학·문화자본과 사회적 재생산 이론의 언어](./sociology-sociology-of-education-and-social-reproduction/README.md) — `문화자본이론 및 사회적재생산 기반 아비투스형성과정과 상징적폭력론 교육사회학 사회학`
+- [컴퓨터과학 및 분산 합의 알고리즘과 Raft의 언어](./computer-science-distributed-consensus-and-raft-algorithm/README.md) — `분산합의알고리즘 및 리더선출프로토콜 기반 로그복제메커니즘과 비잔틴장애허용 분산시스템 컴퓨터과학`
+- [기후학 및 고기후학과 빙하 코어·밀란코비치 주기의 언어](./climatology-paleoclimatology-ice-cores-and-orbital-forcing/README.md) — `빙하코어시추 및 산소동위원소비 기반 밀란코비치주기와 고기후온도복원 고기후학 기후학`
+- [생물의학 및 재생의학·조직공학 지지체와 세포외기질의 언어](./biomedicine-regenerative-medicine-tissue-engineering-scaffolds/README.md) — `조직공학지지체 및 생체적합성고분자 기반 세포외기질모사와 삼차원바이오프린팅 재생의학 생물의학`
+- [금융공학 및 파생상품 가격결정 모형과 그릭스의 언어](./finance-derivatives-pricing-and-black-scholes-model/README.md) — `블랙숄즈모형 및 파생상품가격결정 기반 무위험차익거래와 내재변동성표면 금융공학`
+- [환경공학 및 토양오염 정화와 식물상 정화기술의 언어](./environmental-soil-remediation-and-phytoremediation/README.md) — `토양오염정화공법 및 식물상정화기술 기반 과축적식물종과 토양세척공정 환경공학`
+- [법학 및 국제인도법과 제네바 협약의 언어](./law-international-humanitarian-law-and-geneva-conventions/README.md) — `국제인도법규범 및 제네바협약체계 기반 비례성의원칙과 군사적필요성원칙 국제법`
+- [천체물리학 및 중력파 관측과 블랙홀 병합의 언어](./astrophysics-gravitational-waves-and-black-hole-mergers/README.md) — `중력파원역추적 및 시공간왜곡파동 기반 간섭계위상변화와 블랙홀사건지평 천체물리학`
+- [개발경제학 및 빈곤의 덫과 공적개발원조 효과성의 언어](./economics-development-economics-and-foreign-aid-effectiveness/README.md) — `빈곤함정탈출경로 및 원조효과성평가 기반 무상원조조건성부여와 지하경제포섭전략 개발경제학`
+- [로봇공학 및 동시적 위치추정 및 지도작성 SLAM과 센서 융합의 언어](./robotics-simultaneous-localization-and-mapping-slam/README.md) — `동시적위치지도작성 및 라이다점군정합 기반 특징점추출추적기와 시각주행계오차누적 로봇공학`
+- [신경과학 및 시냅스 가소성과 장기강화 LTP 분자기전의 언어](./neuroscience-synaptic-plasticity-and-long-term-potentiation/README.md) — `시냅스가소성조절 및 장기강화유도기전 기반 글루탐산수용체활성화와 수상돌기가시재구성 신경과학`
+- [계산언어학 및 분포의미론과 단어 임베딩 벡터공간의 언어](./linguistics-computational-semantics-and-distributional-embeddings/README.md) — `분포가설의미론 및 단어임베딩벡터공간 기반 문맥어출현확률과 코사인유사도계산 계산언어학`
+- [화학공학 및 막증류법과 해수담수화 공정의 언어](./chemical-engineering-membrane-distillation-and-desalination/README.md) — `소수성다공성막 및 증기압구배추진력 기반 농도분극현상완화와 온도분극효과저감 화학공학`
+- [공중보건학 및 역학 감시 체계와 감염병 유행 역학조사의 언어](./public-health-epidemiological-surveillance-and-outbreak-investigation/README.md) — `감염병역학감시체계 및 전파위험동선추적 기반 기초감염재생산지수와 집단면역형성임계치 공중보건학`
+- [인식론 및 정당화된 참된 믿음과 게티어 문제의 언어](./philosophy-epistemology-justified-true-belief-and-gettier-problem/README.md) — `정당화된참된믿음 및 게티어반례분석 기반 인식론적정당성근거와 지식정의조건탐구 철학 인식론`
+- [해양환경학 및 해양 산성화와 산호초 탄산칼슘 석회화의 언어](./environmental-ocean-acidification-and-coral-calcification/README.md) — `해양산성화진행속도 및 탄산칼슘포화도감소 기반 산호골격석회화저해와 아라고나이트포화지평 해양환경학`
+- [도시사회학 및 젠트리피케이션과 원주민 비자발적 이주의 언어](./sociology-urban-sociology-and-gentrification-displacement/README.md) — `도시재개발임대료상승 및 상업적젠트리피케이션 기반 원주민비자발적이주와 장소정체성상실위기 도시사회학`
+- [미생물학 및 장내미생물총과 단쇄지방산 대사의 언어](./microbiology-gut-microbiome-and-short-chain-fatty-acids/README.md) — `장내미생물총불균형 및 단쇄지방산대사체 기반 장상피세포벽장벽과 점막면역반응조절 미생물학`
+- [금융공학 및 알고리즘 트레이딩과 호가창 동역학의 언어](./finance-algorithmic-trading-and-order-book-dynamics/README.md) — `초단타알고리즘매매 및 호가창불균형지표 기반 시장충격비용최소화와 지정가주문체결확률 금융공학`
+- [신소재공학 및 전고체 배터리와 황화물계 고체전해질의 언어](./materials-solid-state-batteries-and-sulfide-electrolytes/README.md) — `전고체이차전지구조 및 황화물계고체전해질 기반 리튬이온전도도향상과 음극계면덴드라이트 신소재공학`
+- [노동사회학 및 플랫폼 노동과 불안정 노동 프리캐리어트의 언어](./sociology-sociology-of-work-and-platform-labor-precarity/README.md) — `알고리즘노무지휘권 및 플랫폼노동불안정성 기반 디지털특수고용직군과 노동과정비인격화 노동사회학`
+- [컴퓨터과학 및 그래프 신경망과 메시지 전달 아키텍처의 언어](./computer-science-graph-neural-networks-and-message-passing/README.md) — `그래프신경망아키텍처 및 노드메시지전달기법 기반 인접행렬정규화처리와 이웃노드정보집약 컴퓨터과학`
+- [기후학 및 몬순 계절풍 순환과 열대 대류 시스템의 언어](./climatology-monsoon-dynamics-and-tropical-convective-systems/README.md) — `몬순계절풍순환체계 및 열대수렴대이동패턴 기반 해륙열용량대비격차와 잠열방출대류불안정 기후학`
+- [생물의학 및 메신저 RNA 백신과 지질나노입자 전달체의 언어](./biomedicine-mrna-vaccines-and-lipid-nanoparticles/README.md) — `메신저알엔에이백신 및 지질나노입자캡슐화 기반 이온화가능지질성분과 엔도솜탈출효율극대화 생물의학`
+- [국제우주법 및 우주조약과 궤도 파편 규제의 언어](./law-space-law-and-outer-space-treaty/README.md) — `우주조약평화적이용 및 우주물체등록의무제 기반 발사국무과실국가책임과 외기권비군사화원칙 국제우주법`
+- [환경생태학 및 미세플라스틱과 해양 생물농축의 언어](./environmental-microplastics-and-trophic-bioaccumulation/README.md) — `미세플라스틱오염실태 및 영양단계별생물농축 기반 풍화파쇄이차입자화와 잔류유기오염물질흡착 환경생태학`
+- [화용론 및 언어행위 이론과 대화 함축의 언어](./linguistics-pragmatics-speech-acts-and-implicatures/README.md) — `화용론적맥락의존성 및 언어행위수행발화 기반 발화수반력의도파악과 그라이스대화함축이론 언어학 화용론`
+- [천체물리학 및 항성핵합성과 느린 중성자 포획의 언어](./astronomy-stellar-nucleosynthesis-and-s-process/README.md) — `항성핵합성과정 및 느린중성자포획반응 기반 점근거성가지별진화와 철피크원소풍부도 천체물리학`
+- [행태재무학 및 시장 이례현상과 투자자 편향의 언어](./finance-investor-biases-and-market-anomalies/README.md) — `제한된합리성가설 및 처분효과심리편향 기반 손실회피성향강도와 과잉확신투자행태 행태재무학`
+- [유체역학 및 전산유체역학과 난류 모델링의 언어](./mechanical-engineering-computational-fluid-dynamics-turbulence/README.md) — `전산유체역학해석 및 나비에스토크스방정식 기반 난류경계층유동구조와 레이놀즈응력텐서모델 유체역학`
+- [뇌신경과학 및 신경 진동과 뇌파 동기화의 언어](./neuroscience-neural-oscillations-and-brain-rhythms/README.md) — `뇌파진동동기화 및 감마파위상동조현상 기반 세타감마위상진폭결합과 시냅스연접가소성 뇌신경과학`
+- [사회언어학 및 양층언어현상과 코드 전환의 언어](./linguistics-sociolinguistics-diglossia-and-code-switching/README.md) — `양층언어구조현상 및 담화코드전환전략 기반 상위고급변종언어와 하위구어토착방언 사회언어학`
+- [재료공학 및 페로브스카이트 태양전지와 탠덤 셀의 언어](./materials-perovskite-photovoltaics-and-tandem-cells/README.md) — `페로브스카이트광흡수층 및 탠덤태양전지적층구조 기반 광전변환손실최소화와 전자수송층박막공정 재료공학`
+- [공공정책 및 규제 샌드박스와 핀테크 거버넌스의 언어](./public-policy-regulatory-sandbox-and-fintech-governance/README.md) — `규제샌드박스특례 및 임시허가실증특례 기반 혁신금융서비스지정과 사후책임면책조항 공공정책 핀테크`
+- [정치철학 및 숙의 민주주의와 공론장의 언어](./philosophy-political-philosophy-deliberative-democracy/README.md) — `숙의민주주의공론장 및 하버마스의사소통합리성 기반 이상적담화상황조건과 토론참여평등권 정치철학`
+- [환경생태학 및 맹그로브 블루카본과 연안 탄소 격리의 언어](./environmental-mangrove-blue-carbon-and-coastal-sequestration/README.md) — `맹그로브블루카본 및 연안습지탄소격리 기반 무산소퇴적층유기탄소와 조간대염생식물군락 환경생태학`
+- [컴퓨터과학 및 영지식 증명과 zk-SNARKs 암호학의 언어](./computer-science-zero-knowledge-proofs-and-zk-snarks/README.md) — `영지식증명프로토콜 및 간결한비대화형증명 기반 신뢰설정세레머니와 타원곡선페어링연산 컴퓨터과학`
+- [인지언어학 및 개념적 은유와 신체화 인지의 언어](./linguistics-cognitive-linguistics-conceptual-metaphor-and-embodiment/README.md) — `개념적은유이론 및 근원영역목표영역 기반 신체화인지가설과 영상도식투사구조 인지언어학`
+- [플랫폼경제학 및 양면시장과 네트워크 효과의 언어](./economics-platform-economics-two-sided-markets-and-network-effects/README.md) — `양면시장플랫폼 및 교차네트워크외부성 기반 가격구조비대칭성과 닭과달걀의딜레마 플랫폼경제학`
+- [후성유전학 및 디엔에이 메틸화와 염색질 리모델링의 언어](./biomedicine-epigenetics-dna-methylation-and-chromatin-remodeling/README.md) — `후성유전학적변형 및 디엔에이메틸화반응 기반 히스톤단백질변형과 염색질리모델링복합체 후성유전학`
+- [로봇공학 및 휴머노이드 보행 제어와 영모멘트점의 언어](./robotics-humanoid-locomotion-zero-moment-point-and-mpc/README.md) — `휴머노이드이족보행 및 영모멘트점제어 기반 선형역진자모델과 모델예측제어알고리즘 로봇공학`
+- [도시사회학 및 거주지 분리와 젠트리피케이션의 언어](./sociology-urban-sociology-spatial-segregation-and-gentrification/README.md) — `공간적거주지분리 및 도시젠트리피케이션 기반 원주민비자발적축출과 지대격차이론분석 도시사회학`
+- [열전재료공학 및 제베크 계수와 열전 성능지수의 언어](./materials-thermoelectric-materials-and-seebeck-figure-of-merit/README.md) — `열전변환효율지표 및 제베크계수측정 기반 전기전도도극대화와 격자열전도도저감 열전재료공학`
+- [환경토양학 및 근권 미생물과 균근 공생 네트워크의 언어](./environmental-soil-microbiology-rhizosphere-and-mycorrhizae/README.md) — `근권미생물군집생태 및 균근균공생네트워크 기반 뿌리분비물질유인과 난용성인산가용화 환경토양학`
+- [국제해양법 및 해양법협약과 배타적 경제수역의 언어](./law-maritime-law-and-unclos-exclusive-economic-zone/README.md) — `유엔해양법협약규범 및 배타적경제수역한계 기반 대륙붕경계획정원칙과 접속수역통제권한 국제해양법`
+- [천체물리학 및 외계행성 대기 분석과 투과 분광학의 언어](./astronomy-exoplanet-atmospheres-transmission-spectroscopy/README.md) — `외계행성대기분석 및 식현상투과분광학 기반 행성대기흡수스펙트럼과 생명체징후지표탐색 천체물리학`
+- [컴퓨터과학 및 차분 프라이버시와 노이즈 메커니즘의 언어](./computer-science-differential-privacy-and-noise-mechanisms/README.md) — `차분프라이버시보장 및 라플라스노이즈메커니즘 기반 가우시안교란알고리즘과 프라이버시예산파라미터 컴퓨터과학`
+- [생명공학 및 대사공학·합성생물학과 유전자 편집의 언어](./microbiology-synthetic-biology-metabolic-engineering-and-crispr/README.md) — `합성생물학대사공학 및 크리스퍼유전자교정 기반 대사경로최적화와 유전체편집효율 생명공학`
+- [금융공학 및 알고리즘 트레이딩과 시장 미시구조의 언어](./finance-algorithmic-trading-market-microstructure-and-order-book/README.md) — `알고리즘트레이딩전략 및 지정가호가창구조 기반 매도매수호가스프레드와 초단타매매알고리즘 금융공학`
+- [기계공학 및 적층제조와 선택적 레이저 용융의 언어](./mechanical-engineering-additive-manufacturing-and-selective-laser-melting/README.md) — `금속적층제조공정 및 선택적레이저용융 기반 분말베드융합방식과 레이저에너지밀도 기계공학`
+- [신경과학 및 광유전학과 신경 회로 매핑의 언어](./neuroscience-optogenetics-and-neural-circuit-mapping/README.md) — `광유전학신경회로망 및 채널로돕신발현 기반 광유전학적신경자극과 억제성할로돕신단백질 신경과학`
+- [전산언어학 및 의미 파싱과 의존 문법의 언어](./linguistics-computational-linguistics-semantic-parsing-and-dependency-grammar/README.md) — `전산의미파싱기법 및 보편의존문법체계 기반 추상의미표상그래프와 지배소의존소관계 전산언어학`
+- [이차전지공학 및 전고체 배터리와 고체 전해질의 언어](./materials-solid-state-batteries-and-solid-electrolytes/README.md) — `전고체이차전지기술 및 무기물고체전해질 기반 황화물계초이온전도체와 리튬금속음극수지상 이차전지공학`
+- [기후통상정책 및 탄소국경조정제도와 무역 규제의 언어](./public-policy-carbon-border-adjustment-mechanism-and-trade-policy/README.md) — `유럽탄소국경조정규정 및 내재탄소배출량산정 기반 탄소누출방지효과와 배출권거래제연계인증 기후통상정책`
+- [사회인식론 및 증언의 인식론과 지식 전달의 언어](./philosophy-epistemology-social-epistemology-and-testimony/README.md) — `사회인식론정당화 및 증언에의한지식획득 기반 인식적신뢰성기준과 인식적불의개념 사회인식론`
+- [해양환경학 및 해양 산성화와 생물 석회화 역학의 언어](./environmental-ocean-acidification-and-calcification-dynamics/README.md) — `인위적해양산성화가속 및 탄산이온포화수평면 기반 아라고나이트포화도와 해양석회화생물패각 해양환경학`
+- [컴퓨터과학 및 분산 합의 알고리즘과 비잔틴 장애 허용의 언어](./computer-science-distributed-consensus-and-byzantine-fault-tolerance/README.md) — `분산합의프로토콜 및 실용적비잔틴장애허용 기반 상태기계복제모델과 합의쿼럼정족수조건 컴퓨터과학`
+- [종양면역학 및 키메라 항원 수용체 T세포 치료와 사이토카인 방출 증후군의 언어](./biomedicine-car-t-cell-therapy-and-cytokine-release-syndrome/README.md) — `키메라항원수용체구조 및 자가유래티세포추출 기반 사이토카인방출증후군과 면역효과세포치료제 종양면역학`
+- [미시경제학 및 메커니즘 디자인과 경매 이론의 언어](./economics-mechanism-design-and-auction-theory/README.md) — `진실보고유인메커니즘 및 배분효율성극대화원칙 기반 승자의저주방지전략과 빅리클라크그로브스기제 미시경제학`
+- [양자정보과학 및 양자 오류 정정과 표면 코드의 언어](./quantum-computing-quantum-error-correction-and-surface-codes/README.md) — `양자오류정정부호체계 및 위상수학적표면코드 기반 증후군측정신드롬추출과 결함허용양자연산 양자정보과학`
+- [비교헌법학 및 헌법 해석 방법론과 원본주의 대 살아있는 헌법론의 언어](./law-constitutional-interpretation-originalism-and-living-constitution/README.md) — `원전의도주의원본해석 및 살아있는헌법론적진화 기반 헌법적정당성확보방안과 기본권보호사법심사 비교헌법학`
+- [지구화산학 및 초화산 칼데라 함몰과 마그마 챔버 역학의 언어](./earth-sciences-supervolcano-calderas-and-magma-chamber-dynamics/README.md) — `초화산칼데라함몰구조 및 마그마챔버과압축축적 기반 플리니식분화기둥형성 및 화쇄류밀도전류확산 지구화산학`
+- [인공지능공학 및 인간 피드백 기반 강화학습(RLHF)과 가치 정렬의 언어](./artificial-intelligence-reinforcement-learning-from-human-feedback-rlhf/README.md) — `인간피드백기반강화학습 및 인간선호도보상모델링 기반 근위정책최적화알고리즘과 정렬세금상충관계 인공지능공학`
+- [사회학 및 문화자본 불평등 전수와 아비투스 재생산 이론의 언어](./sociology-cultural-capital-and-habitus-reproduction/README.md) — `문화자본불평등전수 및 체화된아비투스형성과정 기반 제도화된자격인정기제와 상징적폭력은폐메커니즘 사회학`
+- [환경빙하학 및 극지 빙상 역학과 해수면 상승 메커니즘의 언어](./environmental-glaciology-ice-sheet-dynamics-and-sea-level-rise/README.md) — `극지빙상질량수지적자 및 해수면상승기여도추정 기반 기저빙하활주속도측정과 해양빙상불안정성가설 환경빙하학`
+- [심리철학 및 기능주의와 다중 실현 가능성 논변의 언어](./philosophy-philosophy-of-mind-functionalism-and-multiple-realizability/README.md) — `기능주의심신이론모형 및 다중실현가능성논변 기반 물리주의심신수반개념과 감각질주관적체험구조 심리철학`
+- [신소재공학 및 그래핀과 전이금속 디칼코게나이드 2차원 반도체의 언어](./materials-graphene-and-transition-metal-dichalcogenides/README.md) — `단원자층그래핀박막 및 전이금속디칼코게나이드 기반 반데르발스이종접합계와 에너지밴드갭엔지니어링 신소재공학`
+- [후성유전학 및 히스톤 변식과 염색질 리모델링 역학의 언어](./biochemistry-epigenetics-histone-modification-and-chromatin-remodeling/README.md) — `히스톤아세틸화조절 및 염색질리모델링복합체 기반 후성유전학적재프로그래밍과 디엔에이메틸화유지 후성유전학`
+- [항공우주공학 및 극초음속 공기역학과 스크램제트 추진의 언어](./aerospace-engineering-hypersonic-aerodynamics-and-scramjet-propulsion/README.md) — `극초음속경계층전이 및 충격파경계층상호작용 기반 스크램제트초음속연소와 공력가열열방호체계 항공우주공학`
+- [정치학 및 숙의 민주주의와 공론장 이론의 언어](./political-science-deliberative-democracy-and-public-sphere/README.md) — `하버마스공론장이론 및 이상적담화상황규범 기반 숙의민주주의의사결정과 소통적합리성실현 정치학`
+- [계산신경과학 및 스파이킹 신경망과 STDP 학습의 언어](./computational-neuroscience-spiking-neural-networks-and-stdp/README.md) — `스파이킹신경망모델 및 스파이크타이밍의존가소성 기반 누적누출발화뉴런과 시냅스전도도동적조절 계산신경과학`
+- [국제법 및 국가면제와 보편적 관할권의 언어](./international-law-state-immunity-and-universal-jurisdiction/README.md) — `주권국가재판관할권면제 및 보편적관할권원칙적용범위 기반 강행규범인도에반한죄와 국가행위이론사법자제 국제법`
+- [해양지질학 및 심해 열수구와 화학합성 생태계의 언어](./marine-geology-hydrothermal-vents-and-chemosynthesis/README.md) — `심해열수분출공구조 및 황화수소화학합성생태계 기반 블랙스모커광화작용과 극한환경독립영양세균 해양지질학`
+- [정보보안 및 제로 트러스트 아키텍처와 마이크로세그멘테이션의 언어](./cybersecurity-zero-trust-architecture-and-microsegmentation/README.md) — `제로트러스트신뢰검증체계 및 네트워크마이크로세그멘테이션 기반 동적지속적인증인가기제와 소프트웨어정의경계방어망 정보보안`
+- [천체물리학 및 중력파 관측과 중성자별 병합의 언어](./astrophysics-gravitational-waves-and-neutron-star-mergers/README.md) — `쌍중성자별충돌병합사건 및 시공간왜곡중력파관측기술 기반 킬로노바전자기파후광방출과 빠른중성자포획핵합성과정 천체물리학`
+- [인지언어학 및 개념적 은유와 프레임 의미론의 언어](./linguistics-cognitive-linguistics-conceptual-metaphor-and-frame-semantics/README.md) — `개념적은유이론사상체계 및 신체화된인지기반의미형성 기반 필모어프레임의미론구조와 개념적혼합이론심적공간 인지언어학`
+- [고생물학 및 캄브리아기 대폭발과 버제스 셰일 생물군의 언어](./paleontology-cambrian-explosion-and-burgess-shale-biota/README.md) — `캄브리아기대폭발사건 및 버제스셰일화석군보존 기반 동물체제적응방산진화와 포식압력생태적군비경쟁 고생물학`
+- [합성생물학 및 무세포 단백질 합성과 DNA 오리가미의 언어](./synthetic-biology-cell-free-protein-synthesis-and-dna-origami/README.md) — `무세포단백질합성전사번역커플링시스템 및 디엔에이오리가미나노구조자가조립기술 기반 인공나노로봇분자스위치약물전달체계와 시험관내전사번역생체분자회로설계 합성생물학`
+- [플라즈마물리학 및 자기유체역학적 불안정성과 자기재결합의 언어](./plasma-physics-magnetohydrodynamic-instabilities-and-magnetic-reconnection/README.md) — `자기유체역학적불안정성토카막플라즈마 및 자기재결합스위트파커펫첵이론모델 기반 자기섬형성티어링모드불안정성제어와 그라드샤프라노프방정식평형상태도출 플라즈마물리학`
+- [진화게임이론 및 협력의 진화와 공공재 게임의 언어](./evolutionary-game-theory-cooperation-and-public-goods-games/README.md) — `진화게임이론협력의진화복제자동역학 및 공공재게임무임승차자처벌기제실험 기반 간접상호성평판시스템도덕적규범확산과 공간구조화네트워크상호성클러스터형성 진화게임이론`
+- [측지학 및 인공위성 고도측정과 지구 지오이드 모델링의 언어](./geodesy-satellite-altimetry-and-global-geoid-modeling/README.md) — `위성고도계측정밀지구지오이드모델링 및 구면조화함수전개지구중력장복원해석 기반 지오이드기복기준타원체수직단차측정과 위성추적위성중력탐사그레이스임무해석 측지학`
+- [신경면역학 및 미세아교세포 활성화와 뇌혈관장벽 붕괴의 언어](./neuroimmunology-microglia-activation-and-blood-brain-barrier-disruption/README.md) — `미세아교세포표현형전이신경염증반응 및 뇌혈관장벽밀착연접단백질무결성붕괴 기반 성상교세포말족아쿠아포린수분수송조절과 염증성사이토카인중추신경계침윤경로 신경면역학`
+- [유체-구조 상호작용 및 와류유도진동과 플러터 해석의 언어](./fluid-structure-interaction-vortex-induced-vibrations-and-flutter/README.md) — `유체구조상호작용와류유도진동공진해석 및 공력탄성학플러터한계속도동적불안정성 기반 후류와류방출주파수락인현상진폭제어와 감쇠비구조동역학모달해석비선형거동 유체구조역학`
+- [불균일촉매학 및 단원자 촉매와 배위 환경 공학의 언어](./heterogeneous-catalysis-single-atom-catalysts-and-coordination-environment/README.md) — `단원자촉매금속지지체강한상호작용설계 및 배위불포화금속활성점원자수준전자구조 기반 디밴드센터이론흡착에너지선형스케일링과 엑스선흡수근원단구조배위수정밀결정법 불균일촉매학`
+- [비교환경법 및 사전예방원칙과 세대간 형평성의 언어](./comparative-environmental-law-precautionary-principle-and-intergenerational-equity/README.md) — `사전예방원칙과학적불확실성환경위험관리 및 세대간형평성미래세대기본권보호의무 기반 오염자부담원칙환경정화비용내부화원리와 환경영향평가절차적적법성사법심사기준 비교환경법`
+- [양자광학 및 압축광과 연속변수 양자 얽힘의 언어](./quantum-optics-squeezed-light-and-continuous-variable-entanglement/README.md) — `압축진폭압축위상양자광학노이즈감소 및 연속변수양자키분배원격양자통신프로토콜 기반 광학파라메트릭발진기비선형결정상태제어와 균형호모다인검출양자산탄잡음한계돌파 양자광학`
+- [전산형태학 및 유한요소 골생체역학과 기계적 자극 신호전달의 언어](./computational-morphology-finite-element-bone-biomechanics-and-mechanotransduction/README.md) — `골생체역학유한요소해석응력분포시뮬레이션 및 울프의법칙기계적자극골재형성모델링 기반 골세포간극세관계유체전단응력신호전달과 해면골미세단층촬영골소주미세구조정량화 생체의공학`
+- [고기후학 및 빙하 코어 프록시와 댄스고르-외슈거 사건의 언어](./paleoclimatology-ice-core-proxies-and-dansgaard-oeschger-events/README.md) — `빙하코어안정동위원소고기후프록시복원 및 댄스고르외슈거밀레니엄기후변동주기 기반 하인리히사건빙산유출쇄설성퇴적층과 대서양자오선열염순환티핑포인트 고기후학`
+- [메타물질 및 변환광학과 음향 스텔스 클로킹의 언어](./metamaterials-transformation-optics-and-acoustic-cloaking/README.md) — `음의굴절률메타물질전자기파굴절특성 및 좌표변환광학투명망토설계기하학 기반 음향스텔스메타물질수중음향클로킹과 분할링공진기인공자기공명주파수 메타물질공학`
+- [진화인식론 및 밈 이론과 문화 전달의 언어](./evolutionary-epistemology-meme-theory-and-cultural-transmission/README.md) — `진화인식론시행착오변이선택보존기제 및 밈이론문화적전달단위복제충실도 기반 이중상속이론유전자문화공진화모델과 인지편향휴리스틱진화심리학적기원 진화인식론`
+- [미소중력 유체물리학 및 마랑고니 대류와 모세관 유동의 언어](./microgravity-fluid-physics-marangoni-convection-and-capillary-flow/README.md) — `미소중력환경표면장력구배마랑고니대류 및 모세관액적브리지안정성한계해석 기반 열모세관불안정성임계온도차공진모드와 우주선추진제탱크슬로싱감쇠격벽설계 우주유체역학`
+- [비교기업지배구조 및 이사의 충실의무와 주주행동주의의 언어](./comparative-corporate-governance-fiduciary-duty-and-shareholder-activism/README.md) — `비교기업지배구조이사의충실의무사법심사 및 경영판단원칙선관주의의무면책한계판단기준 기반 주주행동주의사모펀드기업가치제고전략과 주주대표소송이사의회사손해배상책임추궁 비교회사법`
+- [구조물 상태감시 및 압전 센서망과 유도초음파 손상탐지의 언어](./structural-health-monitoring-piezoelectric-sensors-and-guided-waves/README.md) — `스마트구조물상태감시압전센서네트워크 및 램파유도초음파분산곡선손상탐지신호해석 기반 광섬유브래그격자센서변형률분포계측기법과 디지털트윈기반구조동역학피로수명예측해석 스마트계측공학`
+- [우주추진공학 및 홀 효과 추력기와 제논 플라즈마 방전의 언어](./space-propulsion-hall-effect-thrusters-and-xenon-plasma/README.md) — `홀효과추력기제논플라즈마가속추진시스템 및 자기절연채널전자방향드리프트전류제어 기반 할로우캐소드방전열전자방출플라즈마중화와 심우주탐사선저추력궤도천이최적화알고리즘 항공우주추진공학`
+- [비교생명윤리학 및 배아 유전자 교정과 생식용 복제의 언어](./comparative-biomedical-ethics-gene-editing-and-reproductive-cloning/README.md) — `인간배아생식세포유전자교정윤리적규범 및 생식용복제인간금지국제협약인간존엄성보호 기반 오비에도협약인간유전체조작한계규제체계와 사전동의충분한설명에근거한자발적동의원칙 생명윤리법학`
+- [비선형광학 및 고차조화파 발생과 아토초 펄스의 언어](./nonlinear-optics-high-harmonic-generation-and-attosecond-pulses/README.md) — `고차조화파발생비선형광학삼단계모델 및 아토초단일펄스합성초고속분광학 기반 강자기장터널이온화임계레이저세기와 전자양자파동묶음재충돌간섭패턴 비선형초고속광학`
+- [전산해양학 및 소용돌이 해상 해양순환과 등밀도면 혼합의 언어](./computational-oceanography-eddy-resolving-circulation-and-isopycnal-mixing/README.md) — `소용돌이해상전지구해양일반순환모델 및 등밀도면혼합젠트맥윌리엄스모수화기법 기반 아중규모경압불안정성상층혼합층에너지소산과 남극순환류중규모소용돌이열염수송해석 전산해양학`
+- [화산학 및 마그마 챔버 동역학과 화산쇄설류의 언어](./volcanology-magma-chamber-dynamics-and-pyroclastic-density-currents/README.md) — `마그마챔버결정분화동역학수치시뮬레이션 및 화산쇄설류고온가스부유입자복합유동해석 기반 칼데라함몰지반침하마그마저류층압력강하와 화산분화지수분출물총량플룸높이산출법 화산지구물리학`
+- [양자암호학 및 장치독립형 양자키분배와 벨 부등식의 언어](./quantum-cryptography-device-independent-qkd-and-bell-inequalities/README.md) — `장치독립형양자키분배비국소성보안성증명 및 벨부등식위반양자얽힘검증루프홀차단기법 기반 양자난수생성기원천적비예측성물리적구현과 사이드채널공격방어단일광자검출기무결성 양자암호학`
+- [진화발생생물학 및 홉스 유전자와 신체 설계 진화의 언어](./evolutionary-developmental-biology-hox-genes-and-body-plan-evolution/README.md) — `진화발생생물학체절형성호메오박스유전자군 및 신체기본설계배아발생공간시간발현패턴조절 기반 유전자조절네트워크전사인자결합부위진화와 형태형성물질농도구배위치정보세포운명결정 진화발생학`
+- [전산연소공학 및 난류 예혼합 화염과 그을음 생성의 언어](./computational-combustion-turbulent-premixed-flames-and-soot-formation/README.md) — `난류예혼합화염미세구조화염편스케일해석 및 그을음입자핵형성성장동역학수치시뮬레이션 기반 대와류모사난류연소반응열방출변동률예측과 다환방향족탄화수소그을음전구체반응메커니즘 전산연소공학`
+- [비교헌법재판 및 비례원칙과 사법자제의 언어](./comparative-constitutional-adjudication-proportionality-principle-and-judicial-restraint/README.md) — `비교헌법재판과잉금지원칙목적의정당성심사 및 수단의적합성침해의최소성법익균형성비례심사 기반 사법자제론입법형성의자유민주적정당성존중과 기본권제한법률유보원칙명확성의원칙사법심사 비교헌법재판론`
+- [마찰학 및 경계윤활과 원자수준 마찰마모 기전의 언어](./tribology-boundary-lubrication-and-atomic-scale-friction-wear-mechanisms/README.md) — `경계윤활막흡착분자배열극압첨가제반응층 및 원자간력현미경나노트라이볼로지마찰력측정 기반 미세돌기접촉역학헤르츠접촉압력탄소성변형과 응착마모연삭마모피로마모복합손상기전규명 나노트라이볼로지`
+- [태양물리학 및 코로나 가열과 코로나질량방출의 언어](./heliophysics-solar-corona-heating-and-coronal-mass-ejections/README.md) — `태양코로나가열자기유체역학알렌파소산기전 및 코로나질량방출행성간충격파지자기폭풍유도 기반 자기재결합국소자력선재편성고에너지입자가속과 태양플레어엑스선복사선전리층교란통신장애 태양권물리학`
+- [비교독점금지법 및 플랫폼 독점과 알고리즘 담합의 언어](./comparative-antitrust-law-platform-monopoly-and-algorithmic-collusion/README.md) — `디지털플랫폼시장지배적지위남용독점규제법 및 알고리즘가격담합인공지능동조행위위법성판단 기반 자사우대행위검색알고리즘조작불공정거래행위와 킬러인수잠재적경쟁자사전제거결합심사기준 비교경쟁법`
+- [공동광역학 및 복사압 냉각과 양자 바닥상태 제어의 언어](./optomechanics-cavity-quantum-electrodynamics-and-radiation-pressure-cooling/README.md) — `공동광역학복사압레이저냉각기계적공진기 및 양자바닥상태도달열포논평균점유수극저온냉각 기반 포논포톤양자얽힘단일광자결맞음상태결합과 광학미소공진기광자수명고품질계수모드체적 양자광역학`
+- [고인류학 및 호미닌 계통발생과 고대 유전체의 언어](./paleoanthropology-hominin-fossil-phylogenetics-and-ancient-dna/README.md) — `호미닌화석골격형태형질분류계통발생수치분석 및 고대유전체디엔에이추출차세대염기서열분석법 기반 네안데르탈인데니소바인호모사피엔스유전자혼혈과 직립보행골반하지골격적응진화생체역학복원 고인류학`
+- [미세유체역학 및 액적 생성과 단일세포 전사체 시퀀싱의 언어](./microfluidics-droplet-generation-and-single-cell-rna-sequencing/README.md) — `미세유체역학액적생성단일세포알엔에이시퀀싱 및 피코리터에멀션액적세포캡슐화바코드비드 기반 단일세포이질성규명전사체지도작성과 고속처리유전체분석단일세포유전자발현 미세유체유전체학`
+- [플라즈모닉스 및 표면 플라즈몬 공명과 메타표면 광학의 언어](./plasmonics-surface-plasmon-resonance-and-metasurfaces/README.md) — `표면플라즈몬공명금속유전체계면전자기파 및 국소표면플라즈몬공명금속나노입자근접장증폭 기반 광학메타표면유효굴절률위상불연속제어와 전자기유도투명성초저손실플라즈모닉도파로 나노광학`
+- [비교노동법 및 플랫폼 노동자와 알고리즘 노무관리의 언어](./comparative-labor-law-platform-workers-and-algorithmic-management/README.md) — `플랫폼종사자근로기준법상근로자성판정기준 및 알고리즘기반인적자원관리자동화노무지휘 기반 종속적자영업자중간범주법적지위부여논의와 배달대행기사특수형태근로종사자산재보험적용 비교노동법`
+- [우주화학 및 성간물질 화학 진화와 생명기원 분자의 언어](./astrochemistry-interstellar-medium-and-prebiotic-molecules/README.md) — `성간물질밀집분자운성간진입자표면반응 및 우주생명기원전구물질아미노산합성경로 기반 다환방향족탄화수소성간적외선방출밴드스펙트럼과 전파망원경회전전이분자선간섭계고분해능관측 우주화학`
+- [하천지형학 및 망상하천 동역학과 유사이송의 언어](./geomorphology-fluvial-braided-rivers-and-sediment-transport/README.md) — `망상하천동역학사주형성분기수로망진화 및 하상소류사이송률쉴즈임계전단응력산출 기반 이차원천수방정식수치모형하상변동예측과 조립질자갈하상장갑화침식저항성평가 하천지형학`
+- [종양면역치료학 및 CAR-T 세포 탈진과 종양미세환경의 언어](./immunotherapy-car-t-cell-exhaustion-and-tumor-microenvironment/README.md) — `키메라항원수용체티세포종양표적면역치료 및 만성항원자극티세포탈진면역관문수용체발현 기반 톡스전사인자후성유전학적재프로그래밍고착과 면역억제성종양미세환경골수유래억제세포침윤 종양면역학`
+- [지진학 및 단층대 파쇄 동역학과 초저주파 불가청음의 언어](./seismology-fault-zone-rupture-dynamics-and-infrasound-waves/README.md) — `단층대파쇄동역학지진파전파마찰용융수치해석 및 초저주파불가청음대기음향중력파전리층교란측정 기반 슈도타킬라이트단층암마찰발열동역학적약화기전과 지진단층파열속도천음속파열초음속충격파형성 계산지진학`
+- [비교에너지법 및 원전 해체 규제와 심층처분장의 언어](./comparative-energy-law-nuclear-decommissioning-and-deep-geological-repository/README.md) — `원자력발전소영구정지즉시해체지연해체규제 및 사용후핵연료고준위방사성폐기물심층처분장부지선정 기반 세대간형평성원칙방사성폐기물관리미래세대책임과 다중방벽시스템공학적방벽천연방벽격리안전성 비교에너지환경법`
+- [비선형음향학 및 음향공동현상과 음발광 동역학의 언어](./nonlinear-acoustics-acoustic-cavitation-and-sonoluminescence/README.md) — `비선형음향학음향공동현상단일기포음발광해석 및 레일리플레셋방정식기포반경동역학수치시뮬레이션 기반 초음파집속치료고강도집속초음파열응고괴사유도와 공동기포단열압축초고온초고압플라즈마형성기전 물리음향학`
+- [고고학적 분석과학 및 방사광 가속기와 고대 채색 안료 동정의 언어](./archaeometry-synchrotron-radiation-and-ancient-pigment-characterization/README.md) — `고고분석과학방사광가속기엑스선형광분석법 및 고대채색안료광물조성비파괴마이크로라만분광학 기반 문화재보존과학부식생성물계면화학변질기전규명과 고대청동기납동위원소비분석원산지산지추정법 문화유산과학`
 - [홍수 위험과 유역 거버넌스의 언어](./advanced-flood-risk-and-river-basin-governance/README.md) — `홍수 위험을 측정하고 유역의 대응을 조정하다`
 - [리걸테크와 증거 플랫폼의 언어](./advanced-legal-tech-and-evidence-platforms/README.md) — `법률 데이터를 연결하고 절차의 책임을 추적하다`
 - [산림 탄소 회계와 자연 시장의 언어](./advanced-forest-carbon-accounting-and-nature-markets/README.md) — `숲의 탄소와 자연 금융을 읽다`
@@ -523,6 +953,21 @@ PDF의 배열을 그대로 복사하지 않고, 의미·상황·register가 가�
 - [열망·헌신과 자기주도](./desire-commitment-and-agency.md) — `투신하다`, `갈구`, `동경`, `구걸하다`, `자발적`, `온전히`, `단련하다`, `은연중`
 - [업무 기술과 조직 관계](./workplace-skill-and-management.md) — `요령`, `부려먹다`, `쪼잔하다`, `건사`, `다루다`, `모색하다`, `치밀하다`, `정교하다`
 - [삶의 전환과 공식 소식](./life-events-and-formal-notices.md) — `조문`, `부고`, `반나절`, `이만`, `맞이하다`, `전성기`, `무사히`
+
+- [우주생물학 및 극한미생물 서식지와 생명지표 탐색의 언어](./astrobiology-extremophiles-and-biosignature-detection/README.md) — `우주생물학극한미생물서식지생명지표탐색연구 및 심해열수공엔셀라두스유로파지하대양서식지모델 기반 우주생물학라만분광학지질지표생체분자검출기술과 행성보호규약우주선생물오염방지무균세척제어 천체생물학`
+- [스핀트로닉스 및 자기터널접합과 스핀궤도토크의 언어](./spintronics-magnetic-tunnel-junctions-and-spin-orbit-torque/README.md) — `스핀트로닉스자기터널접합스핀궤도토크메모리소자연구 및 산화마그네슘터널장벽자기저항비비선형증폭현상 기반 수직자기이방성코발트철붕소박막계면에너지최적화와 위상절연체디락표면상태고효율스핀전류변환기술 나노스핀전자공학`
+- [비교우주법 및 외기권 우주조약과 우주 쓰레기 감축의 언어](./comparative-space-law-outer-space-treaty-and-space-debris-mitigation/README.md) — `비교우주법우주조약우주쓰레기감축국가책임원칙사법심사 및 우주책임협약우주물체발사국절대적손해배상법적의무 기반 기관간우주쓰레기조정위원회기술표준준수가이드라인과 능동적우주쓰레기제거포획폐기사법관할권이전법리 우주항공법학`
+- [전산재료과학 및 밀도범함수론과 밴드 구조 계산의 언어](./computational-materials-science-density-functional-theory-and-band-structure/README.md) — `전산재료과학밀도범함수론전자밴드구조계산수치모델 및 밀도범함수론일반화기울기근사국소밀도근사전자구조 기반 하이브리드범함수하트리포크교환상호작용정밀보정모델과 강상관전자계전이금속산화물원자내쿨롱반발에너지보정 양자응집물질물리학`
+- [뇌신경공학 및 뇌-컴퓨터 인터페이스와 신경 신호 해독의 언어](./neurotechnology-brain-computer-interface-and-neural-decoding/README.md) — `뇌신경공학뇌컴퓨터인터페이스신경신호해독알고리즘 및 피질내미세전극어레이신경스파이크정밀신경신호기록 기반 대뇌피질전위도피질표면비침습적고해상도신호처리기술과 양방향뇌인터페이스신경자극피드백감각복원시스템 뇌의공학`
+- [환경나노독성학 및 제조 나노물질의 수계 생태독성과 거동의 언어](./environmental-nanotechnology-nanomaterial-toxicity-and-ecotoxicology/README.md) — `환경나노독성학제조나노물질수계생태독성평가기법 및 나노입자세포내유입활성산소종생성산화스트레스유도 기반 생체분자코로나형성단백질흡착나노물질표면동역학과 수생생물나노물질생물농축영양단계상향전이계수측정 환경생태독성학`
+- [빙하학 및 빙저 수문계통과 빙상 역학적 안정성의 언어](./glaciology-subglacial-hydrology-and-ice-sheet-stability/README.md) — `빙하학빙저수문계통빙상역학적안정성수치해석모델 및 빙저호수주기적돌발홍수배수빙저윤활기저미끄러짐가속 기반 해양빙상불안정성빙상접지선후퇴임계한계점해석기법과 빙붕하부해양열수송기저용융률위성레이더간섭계측 극지빙하역학`
+- [비교정보법 및 인공지능 알고리즘 설명요구권과 투명성의 언어](./comparative-information-law-right-to-explanation-and-ai-transparency/README.md) — `비교정보법인공지능알고리즘설명요구권사법심사기준 및 블랙박스알고리즘자동화의사결정투명성확보법적의무 기반 영업비밀보호원칙대알고리즘공개청구권상충법익형량과 인공지능편향성알고리즘차별금지공정성영향평가제도 인공지능공법학`
+- [분자바이러스학 및 캡시드 자기조립과 초저온전자현미경 구조의 언어](./molecular-virology-viral-capsid-assembly-and-cryo-em-structure/README.md) — `분자바이러스학바이러스캡시드자기조립동역학해석 및 초저온전자현미경원자해상도삼차원구조재구성기술 기반 이십면체대칭성캡소미어준등가성단백질결합계면규명과 바이러스외피당단백질막융합전이상태구조생물학분석 바이러스구조생물학`
+- [항성천체물리학 및 중심핵 붕괴 초신성과 중성미자 핵합성의 언어](./stellar-astrophysics-core-collapse-supernovae-and-neutrino-nucleosynthesis/README.md) — `항성천체물리학중심핵붕괴초신성중성미자핵합성연구 및 정재강착충격파불안정성삼차원자기유체역학시뮬레이션 기반 중성미자구동풍알프로세스중원소합성원자로경로규명과 중성자별형성양자축퇴압원시중성자별냉각메커니즘 항성진화천체물리학`
+
+- [고기후학 및 동굴생성물 동위원소와 궤도 강제력의 언어](./paleoclimatology-speleothem-isotopes-and-orbital-forcing/README.md) — `고기후학동굴생성물산소동위원소궤도강제력변동복원 및 석순우라늄토륨방사성연대측정열이온화질량분석기술 기반 밀란코비치주기지구자전축기울기세차운동일사량변화와 동아시아몬순강수량변동성동굴석순산소동위원소기록 고환경동위원소지화학`
+- [양자열역학 및 요동 정리와 양자 열기관의 언어](./quantum-thermodynamics-fluctuation-theorems-and-quantum-heat-engines/README.md) — `양자열역학야르친스키항등식크룩스요동정리실험검증 및 비평형양자계자유에너지차이측정양자일분포함수도출 기반 양자결맞음기반오토열기관열역학적효율출력밀도최적화와 린드블라드마스터방정식개방양자계엔트로피생성률계산 미시양자열역학`
+- [비교해양거버넌스 및 유엔해양법협약과 해양유전자원의 언어](./comparative-ocean-governance-unclos-and-marine-genetic-resources/README.md) — `유엔해양법협약국가관할권이원지역해양생물다양성협정 및 공해상해양유전자원접근및이익공유디지털염기서열정보 기반 인류공동유산원칙공해자유원칙상충법익형량사법심사기준과 국제해저기구심해저광물자원개발환경영향평가규제체계 국제해양환경법`
 
 ## 생성 원칙
 

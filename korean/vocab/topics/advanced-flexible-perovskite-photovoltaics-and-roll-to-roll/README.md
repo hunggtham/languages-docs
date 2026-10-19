@@ -1,0 +1,8 @@
+# 유연 페로브스카이트 태양전지 및 롤투롤 인쇄 공정의 언어
+
+유연 페로브스카이트 태양전지 및 롤투롤 인쇄 공정(flexible perovskite photovoltaics and roll-to-roll printing process) 기술은 가요성 플라스틱 기판 위에 고효율 페로브스카이트 광흡수층을 코팅하여 가볍고 유연하면서도 저비용으로 대량 생산이 가능한 차세대 신재생 에너지 혁신 분야입니다. 가요성페로브스카이트태양전지(flexible perovskite solar cell)와 대면적슬롯다이코팅박막(large-area slot-die coated thin film)을 바탕으로 롤투롤연속인쇄공정기술(roll-to-roll continuous printing process technology)을 접목함으로써 실험실 단계를 넘어 상업적 양산성을 극대화합니다. 나아가 저온결정화유무기하이브리드(low-temperature crystallization organic-inorganic hybrid) 박막 형성과 투명전도성전극인쇄기술(transparent conductive electrode printing technology)을 통해 기계적변형피로내구성확보(securing mechanical deformation fatigue durability)를 실현하며, 수분산소차단가스배리어필름(moisture and oxygen barrier gas barrier film) 봉지와 결함부동태화계면엔지니어링(defect passivation interface engineering)으로 광안정성열안정성동시확보(simultaneous securing of photostability and thermal stability)를 완벽히 달성합니다. 이로써 초경량플렉서블광전변환모듈(ultralight flexible photoelectric conversion module)은 실내외광원자가발전소자(indoor and outdoor light-driven self-powered device) 및 웨어러블일체형태양광발전(wearable integrated photovoltaic power generation) 시스템으로 확장되며, 유연기판광학손실최소화(minimization of optical loss in flexible substrates) 설계와 무독성 친환경용매기반롤투롤공정(eco-friendly solvent-based roll-to-roll process)을 통해 지속 가능한 미래유연광전인쇄공학(future flexible optoelectronic printing engineering)의 새로운 시대를 열어가고 있습니다.
+
+## 학습 파일
+- [유연 페로브스카이트 태양전지 및 롤투롤 인쇄 공정](./01-flexible-perovskite-photovoltaics-and-roll-to-roll.md) — 가요성페로브스카이트태양전지, 롤투롤연속인쇄공정기술, 대면적슬롯다이코팅박막, 기계적변형피로내구성확보, 초경량플렉서블광전변환모듈, 저온결정화유무기하이브리드, 투명전도성전극인쇄기술, 수분산소차단가스배리어필름, 실내외광원자가발전소자, 웨어러블일체형태양광발전, 결함부동태화계면엔지니어링, 광안정성열안정성동시확보, 유연기판광학손실최소화, 친환경용매기반롤투롤공정, 미래유연광전인쇄공학
+
+이 학습 모듈은 유연 태양전지 소자 공학, 롤투롤 연속 인쇄 공정, 박막 계면 화학 및 차세대 자가발전 웨어러블 시스템 분야의 핵심 전문 용어와 실무 표현을 체계적으로 다룹니다.
